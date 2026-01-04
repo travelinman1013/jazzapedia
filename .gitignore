@@ -13,6 +13,11 @@ data/
 config/*.yaml
 !config/config.example.yaml
 
+# Environment variables (contains secrets)
+.env
+.env.local
+.env.*.local
+
 # Python virtual environment
 venv/
 __pycache__/

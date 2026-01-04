@@ -42,9 +42,9 @@ from openai import OpenAI
 from tqdm import tqdm
 import musicbrainzngs
 
-# Configuration
-SPOTIFY_CLIENT_ID = "REDACTED_CLIENT_ID"
-SPOTIFY_CLIENT_SECRET = "REDACTED_CLIENT_SECRET"
+# Configuration - Spotify credentials from environment variables
+SPOTIFY_CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID', '')
+SPOTIFY_CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET', '')
 SPOTIFY_TOKEN_URL = "https://accounts.spotify.com/api/token"
 SPOTIFY_SEARCH_URL = "https://api.spotify.com/v1/search"
 SPOTIFY_ARTIST_URL = "https://api.spotify.com/v1/artists"
@@ -70,6 +70,11 @@ MUSICBRAINZ_APP_NAME = "WWOZ-Artist-Discovery-Pipeline"
 MUSICBRAINZ_APP_VERSION = "1.0"
 MUSICBRAINZ_CONTACT = "wwoz-scraper@example.com"
 MUSICBRAINZ_MIN_CONFIDENCE = 80  # Minimum confidence (0-100) to accept a match
+
+
+def is_valid_url(s: str) -> bool:
+    """Check if string is a valid URL."""
+    return isinstance(s, str) and (s.startswith('http://') or s.startswith('https://'))
 
 
 class ArtistDiscoveryPipeline:
@@ -818,7 +823,7 @@ REQUIRED INFORMATION:
 
 3. **Fun Facts**: 3-4 interesting anecdotes or lesser-known details
 
-4. **Sources**: Note Wikipedia URL if available
+4. **Sources**: Include full URLs (starting with https://) for all research sources used
 
 RESPONSE FORMAT (JSON):
 {{
@@ -836,7 +841,7 @@ RESPONSE FORMAT (JSON):
   }},
   "fun_facts": ["fact 1", "fact 2", "fact 3"],
   "wikipedia_url": "URL if found",
-  "sources": ["source1", "source2"],
+  "sources": ["https://example.com/full-url-1", "https://example.com/full-url-2"],
   "location_full": "City, State/Region, Country (birthplace for individuals, origin for bands/groups)",
   "entity_type": "individual" or "band" or "group"
 }}
@@ -1279,10 +1284,11 @@ Only include verified information from credible sources."""
 *Enhanced with Perplexity AI research*
 """
 
-        # Add sources (excluding Wikipedia)
+        # Add sources (excluding Wikipedia and filtering to valid URLs only)
         non_wiki_sources = [s for s in sources if 'wikipedia.org' not in s.lower()]
-        if non_wiki_sources:
-            source_links = [f"[Source{i+1}]({url})" for i, url in enumerate(non_wiki_sources)]
+        valid_url_sources = [s for s in non_wiki_sources if is_valid_url(s)]
+        if valid_url_sources:
+            source_links = [f"[Source{i+1}]({url})" for i, url in enumerate(valid_url_sources)]
             content += f"\n*Sources: {', '.join(source_links)}*\n"
 
         # Add Fun Facts
@@ -1698,13 +1704,28 @@ def main():
     logging.getLogger().setLevel(numeric_level)
 
     try:
-        # Check for required API key
-        if not args.dry_run and not os.getenv('PERPLEXITY_API_KEY'):
-            print("❌ Error: PERPLEXITY_API_KEY environment variable is required")
-            print("Please set your Perplexity API key:")
-            print("export PERPLEXITY_API_KEY='your-api-key-here'")
-            print("\nGet your API key at: https://www.perplexity.ai/settings/api")
-            sys.exit(1)
+        # Check for required API credentials
+        if not args.dry_run:
+            missing_vars = []
+            if not os.getenv('SPOTIFY_CLIENT_ID'):
+                missing_vars.append('SPOTIFY_CLIENT_ID')
+            if not os.getenv('SPOTIFY_CLIENT_SECRET'):
+                missing_vars.append('SPOTIFY_CLIENT_SECRET')
+            if not os.getenv('PERPLEXITY_API_KEY'):
+                missing_vars.append('PERPLEXITY_API_KEY')
+
+            if missing_vars:
+                print("❌ Error: Required environment variables are missing:")
+                for var in missing_vars:
+                    print(f"  - {var}")
+                print("\nPlease set them in your environment or .env file:")
+                print("export SPOTIFY_CLIENT_ID='your-client-id'")
+                print("export SPOTIFY_CLIENT_SECRET='your-client-secret'")
+                print("export PERPLEXITY_API_KEY='your-api-key'")
+                print("\nGet credentials at:")
+                print("  - Spotify: https://developer.spotify.com/dashboard")
+                print("  - Perplexity: https://www.perplexity.ai/settings/api")
+                sys.exit(1)
 
         # Validate archive file
         if not os.path.exists(args.archive):
