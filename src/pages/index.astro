@@ -102,11 +102,11 @@ const formatDate = (dateValue: string | Date | undefined): string => {
     <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-8">
       {popularArtists.map((artist) => (
         <a
-          href={`/artists/${artist.slug}`}
+          href={`/artists/${artist.id}`}
           class="block bg-wiki-bg p-3 border border-wiki-border-light rounded hover:border-wiki-link hover:bg-wiki-accent-light transition-colors"
         >
           <div class="flex items-start justify-between">
-            <span class="text-wiki-link font-medium">{artist.data.title || artist.slug}</span>
+            <span class="text-wiki-link font-medium">{artist.data.title || artist.id}</span>
             <span class="text-xs text-wiki-text-muted bg-wiki-bg-nav px-1.5 py-0.5 rounded">
               {artist.data.spotify_data?.popularity}
             </span>
@@ -143,8 +143,8 @@ const formatDate = (dateValue: string | Date | undefined): string => {
     <ul class="space-y-1 mb-8">
       {recentArtists.map(artist => (
         <li class="flex items-center justify-between py-1 border-b border-wiki-border-light">
-          <a href={`/artists/${artist.slug}`} class="text-wiki-link hover:underline">
-            {artist.data.title || artist.slug}
+          <a href={`/artists/${artist.id}`} class="text-wiki-link hover:underline">
+            {artist.data.title || artist.id}
           </a>
           <span class="text-xs text-wiki-text-muted">
             {formatDate(artist.data.last_updated as string | Date | undefined)}
