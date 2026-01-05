@@ -113,14 +113,26 @@ export class ObsidianArchiver implements IArchiver {
     // Detect real calendar day change (not song day change)
     const currentRealDay = dayjs().format('YYYY-MM-DD');
     if (this.lastScraperRunDay !== null && this.lastScraperRunDay !== currentRealDay) {
-      // Real calendar day has changed; calculate previous day's archive path
-      const previousDay = dayjs(this.lastScraperRunDay);
-      if (previousDay.isValid()) {
-        const { filePath: previousFilePath } = await this.getDailyFilePath(root, previousDay);
+      // Real calendar day has changed
+      // IMPORTANT: Always queue "yesterday" (currentRealDay - 1), not lastScraperRunDay
+      // This prevents bugs when the container restarts and lastScraperRunDay is stale
+      const yesterday = dayjs(currentRealDay).subtract(1, 'day');
+
+      // Log diagnostic info about the day change
+      const daysSinceLastRun = dayjs(currentRealDay).diff(dayjs(this.lastScraperRunDay), 'day');
+      Logger.info(`[Day Change] Detected: lastScraperRunDay=${this.lastScraperRunDay}, currentRealDay=${currentRealDay}, daysSinceLastRun=${daysSinceLastRun}`);
+
+      if (daysSinceLastRun > 1) {
+        Logger.warn(`[Day Change] Gap of ${daysSinceLastRun} days detected! Archives for days between ${this.lastScraperRunDay} and ${yesterday.format('YYYY-MM-DD')} may need manual processing.`);
+      }
+
+      if (yesterday.isValid()) {
+        const { filePath: previousFilePath } = await this.getDailyFilePath(root, yesterday);
+        Logger.info(`[Day Change] Queuing archive for yesterday (${yesterday.format('YYYY-MM-DD')}): ${previousFilePath}`);
 
         // Only queue if we haven't already queued this same archive
         if (!this.pendingArchive || this.pendingArchive.path !== previousFilePath) {
-          Logger.info(`[Day Change] Detected: ${this.lastScraperRunDay} -> ${currentRealDay}`);
+          Logger.info(`[Day Change] Archive path changed or newly detected`);
 
           const delayHours = config.artistDiscovery?.dayChangeDelayHours ?? 0;
           if (delayHours > 0) {

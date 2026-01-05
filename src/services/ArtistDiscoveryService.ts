@@ -11,7 +11,8 @@ export class ArtistDiscoveryService {
   private stateDb: ProcessedArchivesDB = {};
 
   constructor() {
-    this.stateFilePath = path.resolve(process.cwd(), 'config', 'processed_archives.json');
+    // Store in config/state/ to be persisted via Docker volume
+    this.stateFilePath = path.resolve(process.cwd(), 'config', 'state', 'processed_archives.json');
     this.loadState();
   }
 
@@ -26,7 +27,10 @@ export class ArtistDiscoveryService {
     }
 
     // Extract date from archive path for state tracking
+    Logger.info(`[Artist Discovery] Received archivePath: ${archivePath}`);
     const archiveDate = this.extractDateFromPath(archivePath);
+    Logger.info(`[Artist Discovery] Extracted date: ${archiveDate ?? 'null'}`);
+
     if (!archiveDate) {
       Logger.warn(`Cannot extract date from archive path: ${archivePath}`);
       return;

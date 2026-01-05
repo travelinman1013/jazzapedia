@@ -54,9 +54,9 @@ PERPLEXITY_MODEL = "sonar-pro"
 PERPLEXITY_TEMPERATURE = 0.3
 PERPLEXITY_MAX_TOKENS = 4096
 
-# Default vault paths
-DEFAULT_CARDS_DIR = "/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists"
-DEFAULT_IMAGES_DIR = "/Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits"
+# Default vault paths (use env vars for Docker, fallback to local for dev)
+DEFAULT_CARDS_DIR = os.environ.get("ARTIST_CARDS_DIR", "/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists")
+DEFAULT_IMAGES_DIR = os.environ.get("ARTIST_IMAGES_DIR", "/Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits")
 CONNECTIONS_FILE = "artist_connections.json"
 
 # Rate limiting

@@ -21,7 +21,7 @@ RUN npm run build
 # ==============================================================================
 # Stage 2: Production - Runtime image with Playwright and Python
 # ==============================================================================
-FROM mcr.microsoft.com/playwright:v1.55.0-jammy AS production
+FROM mcr.microsoft.com/playwright:v1.57.0-jammy AS production
 
 # Install Python 3, pip, and timezone data for artist discovery pipeline
 # Set timezone non-interactively before installing tzdata

@@ -4,9 +4,16 @@ services:
     container_name: wwoz-scraper
     restart: unless-stopped
 
+    # Load credentials from .env file
+    env_file:
+      - .env
+
     environment:
       - CONFIG_PATH=/app/config/config.yaml
       - TZ=America/Chicago
+      # Paths for artist discovery pipeline (inside Docker)
+      - ARTIST_CARDS_DIR=/artist-cards
+      - ARTIST_IMAGES_DIR=/artist-images
 
     volumes:
       # Configuration file with secrets (read-only)
