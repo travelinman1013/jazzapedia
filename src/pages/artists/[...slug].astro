@@ -80,7 +80,13 @@ if (rawBody) {
     referencesHtml = `
 <h2 id="references">References</h2>
 <ol class="references-list">
-${researchSources.map((url, i) => `  <li id="ref-${i+1}"><a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a></li>`).join('\n')}
+${researchSources.map((source, i) => {
+    const isUrl = source.startsWith('http://') || source.startsWith('https://');
+    if (isUrl) {
+      return `  <li id="ref-${i+1}"><a href="${source}" target="_blank" rel="noopener noreferrer">${source}</a></li>`;
+    }
+    return `  <li id="ref-${i+1}">${source}</li>`;
+  }).join('\n')}
 </ol>
 `;
   }
@@ -149,6 +155,7 @@ const title = (data.title as string) || artist.id.replace(/-/g, ' ').replace(/\b
 
   .references-list li {
     padding: 0.25rem 0;
+    color: var(--color-text-secondary);
     word-break: break-all;
   }
 

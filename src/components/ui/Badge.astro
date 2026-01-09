@@ -1,0 +1,83 @@
+---
+/**
+ * Badge Component
+ * Used for genres, instruments, and tags
+ * Features jazz-inspired styling with optional interactive states
+ */
+
+interface Props {
+  variant?: 'default' | 'outline' | 'solid' | 'glow';
+  size?: 'sm' | 'md' | 'lg';
+  href?: string;
+  class?: string;
+  interactive?: boolean;
+}
+
+const {
+  variant = 'default',
+  size = 'md',
+  href,
+  class: className = '',
+  interactive = !!href,
+  ...rest
+} = Astro.props;
+
+const baseStyles = `
+  inline-flex items-center font-medium
+  transition-all rounded-full
+`;
+
+const interactiveStyles = interactive ? `
+  cursor-pointer
+  hover:scale-105
+` : '';
+
+const variants = {
+  default: `
+    bg-wiki-tag-bg text-wiki-tag-text
+    border border-wiki-tag-border
+    ${interactive ? 'hover:bg-wiki-accent-light hover:border-wiki-border-accent hover:text-wiki-accent' : ''}
+  `,
+  outline: `
+    bg-transparent text-wiki-text-secondary
+    border border-wiki-border
+    ${interactive ? 'hover:border-wiki-border-accent hover:text-wiki-accent' : ''}
+  `,
+  solid: `
+    bg-wiki-accent text-jazz-black
+    border border-transparent
+    ${interactive ? 'hover:bg-jazz-gold' : ''}
+  `,
+  glow: `
+    bg-jazz-smoke text-electric-cyan
+    border border-electric-cyan/30
+    ${interactive ? 'hover:shadow-glow-cyan hover:border-electric-cyan' : ''}
+  `,
+};
+
+const sizes = {
+  sm: 'px-2 py-0.5 text-xs',
+  md: 'px-2.5 py-1 text-sm',
+  lg: 'px-3 py-1.5 text-sm',
+};
+
+const classes = `${baseStyles} ${interactiveStyles} ${variants[variant]} ${sizes[size]} ${className}`.trim();
+---
+
+{href ? (
+  <a href={href} class={classes} {...rest}>
+    <slot />
+  </a>
+) : (
+  <span class={classes} {...rest}>
+    <slot />
+  </span>
+)}
+
+<style>
+  a, span {
+    transition-property: color, background-color, border-color, box-shadow, transform;
+    transition-timing-function: var(--ease-jazz);
+    transition-duration: var(--duration-fast);
+  }
+</style>

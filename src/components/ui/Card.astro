@@ -1,0 +1,90 @@
+---
+/**
+ * Card Component
+ * A versatile container with multiple visual styles
+ * Used for artist cards, stat boxes, and content sections
+ */
+
+interface Props {
+  variant?: 'default' | 'elevated' | 'outlined' | 'ghost' | 'glass';
+  padding?: 'none' | 'sm' | 'md' | 'lg';
+  href?: string;
+  class?: string;
+  interactive?: boolean;
+}
+
+const {
+  variant = 'default',
+  padding = 'md',
+  href,
+  class: className = '',
+  interactive = !!href,
+  ...rest
+} = Astro.props;
+
+const baseStyles = `
+  block rounded-lg overflow-hidden
+  transition-all
+`;
+
+const interactiveStyles = interactive ? `
+  cursor-pointer
+  hover:-translate-y-0.5
+  hover:shadow-elevated
+  focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-wiki-accent
+` : '';
+
+const variants = {
+  default: `
+    bg-wiki-bg-card
+    border border-wiki-border
+    shadow-card
+  `,
+  elevated: `
+    bg-wiki-bg-card
+    shadow-elevated
+    border border-wiki-border-light
+  `,
+  outlined: `
+    bg-transparent
+    border-2 border-wiki-border
+    ${interactive ? 'hover:border-wiki-border-accent' : ''}
+  `,
+  ghost: `
+    bg-transparent
+    ${interactive ? 'hover:bg-wiki-bg-card' : ''}
+  `,
+  glass: `
+    bg-wiki-bg-card/80 backdrop-blur-sm
+    border border-wiki-border/50
+    shadow-card
+  `,
+};
+
+const paddings = {
+  none: '',
+  sm: 'p-3',
+  md: 'p-4',
+  lg: 'p-6',
+};
+
+const classes = `${baseStyles} ${interactiveStyles} ${variants[variant]} ${paddings[padding]} ${className}`.trim();
+---
+
+{href ? (
+  <a href={href} class={classes} {...rest}>
+    <slot />
+  </a>
+) : (
+  <div class={classes} {...rest}>
+    <slot />
+  </div>
+)}
+
+<style>
+  a, div {
+    transition-property: transform, box-shadow, border-color, background-color;
+    transition-timing-function: var(--ease-jazz);
+    transition-duration: var(--duration-normal);
+  }
+</style>

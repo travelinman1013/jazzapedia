@@ -1,39 +1,46 @@
 ---
 import Layout from '../layouts/Layout.astro';
 
+// Jazz Mood themes
 const themes = [
-  { id: 'wikipedia-blue', name: 'Wikipedia Blue', color: '#3366cc' },
-  { id: 'forest-green', name: 'Forest Green', color: '#2d7d46' },
-  { id: 'royal-purple', name: 'Royal Purple', color: '#6b4c9a' },
-  { id: 'sunset-orange', name: 'Sunset Orange', color: '#d35400' },
-  { id: 'ocean-teal', name: 'Ocean Teal', color: '#16a085' },
-  { id: 'slate-gray', name: 'Slate Gray', color: '#5d6d7e' },
-  { id: 'warm-brown', name: 'Warm Brown', color: '#8b5a2b' },
-  { id: 'crimson', name: 'Crimson', color: '#c0392b' },
+  { id: 'classic-jazz', name: 'Classic Jazz', color: '#D4A254', description: 'Warm amber' },
+  { id: 'midnight-blue', name: 'Midnight Blue', color: '#5B8DEF', description: 'Cool jazz' },
+  { id: 'velvet-purple', name: 'Velvet Purple', color: '#8B5CF6', description: 'Late night' },
+  { id: 'neon-nights', name: 'Neon Nights', color: '#00D9FF', description: 'Electric' },
+  { id: 'smoke-room', name: 'Smoke Room', color: '#78716C', description: 'Warm neutrals' },
+  { id: 'red-light', name: 'Red Light', color: '#DC2626', description: 'Blues club' },
 ];
 ---
 
 <Layout title="Settings" description="Customize your PersonalJazzWiki experience">
-  <article class="article-content">
-    <h1>Settings</h1>
-    <p class="text-wiki-text-secondary mb-6">
-      Customize your reading experience. All settings are saved locally in your browser.
-    </p>
+  <article class="article-content settings-page">
+    <header class="settings-header">
+      <h1>Settings</h1>
+      <p class="settings-intro">
+        Customize your experience. All preferences are saved locally in your browser.
+      </p>
+    </header>
 
-    <div class="space-y-8 max-w-2xl">
+    <div class="settings-grid">
       <!-- Theme Color -->
-      <section class="setting-group">
-        <h2 class="setting-header">Theme Color</h2>
-        <p class="setting-description">Choose your preferred accent color for links and highlights.</p>
-        <div class="grid grid-cols-4 gap-3" id="theme-selector">
+      <section class="setting-card">
+        <div class="setting-card__header">
+          <h2>
+            <span class="setting-icon">&#9835;</span>
+            Jazz Mood
+          </h2>
+          <p>Choose your vibe</p>
+        </div>
+        <div class="theme-grid" id="theme-selector">
           {themes.map(theme => (
             <button
               data-theme-option={theme.id}
               class="theme-swatch"
+              title={theme.description}
             >
               <span
                 class="swatch-color"
-                style={`background-color: ${theme.color}`}
+                style={`--swatch-color: ${theme.color}`}
               ></span>
               <span class="swatch-label">{theme.name}</span>
             </button>
@@ -42,274 +49,530 @@ const themes = [
       </section>
 
       <!-- Light/Dark Mode -->
-      <section class="setting-group">
-        <h2 class="setting-header">Color Mode</h2>
-        <p class="setting-description">Switch between light and dark themes.</p>
-        <div class="button-group" id="mode-selector">
-          <button data-mode-option="light" class="option-btn">
-            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <section class="setting-card">
+        <div class="setting-card__header">
+          <h2>
+            <span class="setting-icon">&#9790;</span>
+            Color Mode
+          </h2>
+          <p>Day or night</p>
+        </div>
+        <div class="mode-grid" id="mode-selector">
+          <button data-mode-option="light" class="mode-btn">
+            <svg class="mode-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
             </svg>
-            Light
+            <span>Light</span>
           </button>
-          <button data-mode-option="dark" class="option-btn">
-            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <button data-mode-option="dark" class="mode-btn">
+            <svg class="mode-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
             </svg>
-            Dark
+            <span>Dark</span>
           </button>
-          <button data-mode-option="system" class="option-btn">
-            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <button data-mode-option="system" class="mode-btn">
+            <svg class="mode-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
             </svg>
-            System
+            <span>System</span>
           </button>
         </div>
       </section>
 
       <!-- Font Size -->
-      <section class="setting-group">
-        <h2 class="setting-header">Font Size</h2>
-        <p class="setting-description">Adjust the base text size for readability.</p>
-        <div class="button-group" id="font-size-selector">
-          <button data-fontsize-option="small" class="option-btn text-sm">
-            Small
+      <section class="setting-card">
+        <div class="setting-card__header">
+          <h2>
+            <span class="setting-icon">Aa</span>
+            Text Size
+          </h2>
+          <p>Reading comfort</p>
+        </div>
+        <div class="size-grid" id="font-size-selector">
+          <button data-fontsize-option="small" class="size-btn">
+            <span class="size-preview" style="font-size: 0.875rem">Aa</span>
+            <span>Small</span>
           </button>
-          <button data-fontsize-option="medium" class="option-btn">
-            Medium
+          <button data-fontsize-option="medium" class="size-btn">
+            <span class="size-preview">Aa</span>
+            <span>Medium</span>
           </button>
-          <button data-fontsize-option="large" class="option-btn text-lg">
-            Large
+          <button data-fontsize-option="large" class="size-btn">
+            <span class="size-preview" style="font-size: 1.25rem">Aa</span>
+            <span>Large</span>
           </button>
         </div>
       </section>
 
       <!-- Article Width -->
-      <section class="setting-group">
-        <h2 class="setting-header">Article Width</h2>
-        <p class="setting-description">Control the maximum width of article content.</p>
-        <div class="button-group" id="width-selector">
-          <button data-width-option="narrow" class="option-btn">
-            Narrow
+      <section class="setting-card">
+        <div class="setting-card__header">
+          <h2>
+            <span class="setting-icon">&#9776;</span>
+            Article Width
+          </h2>
+          <p>Content layout</p>
+        </div>
+        <div class="width-grid" id="width-selector">
+          <button data-width-option="narrow" class="width-btn">
+            <div class="width-preview width-preview--narrow"></div>
+            <span>Narrow</span>
           </button>
-          <button data-width-option="medium" class="option-btn">
-            Medium
+          <button data-width-option="medium" class="width-btn">
+            <div class="width-preview width-preview--medium"></div>
+            <span>Medium</span>
           </button>
-          <button data-width-option="wide" class="option-btn">
-            Wide
+          <button data-width-option="wide" class="width-btn">
+            <div class="width-preview width-preview--wide"></div>
+            <span>Wide</span>
           </button>
         </div>
       </section>
 
       <!-- Toggle Settings -->
-      <section class="setting-group">
-        <h2 class="setting-header">Display Options</h2>
+      <section class="setting-card setting-card--full">
+        <div class="setting-card__header">
+          <h2>
+            <span class="setting-icon">&#9881;</span>
+            Display Options
+          </h2>
+        </div>
 
-        <div class="space-y-4">
-          <!-- Show TOC -->
+        <div class="toggle-list">
           <label class="toggle-setting">
-            <div>
+            <div class="toggle-info">
               <span class="toggle-label">Show Table of Contents</span>
-              <p class="toggle-description">Display the TOC sidebar on article pages</p>
+              <span class="toggle-description">Display navigation sidebar on articles</span>
             </div>
-            <input type="checkbox" id="setting-show-toc" class="toggle-checkbox" />
+            <div class="toggle-switch">
+              <input type="checkbox" id="setting-show-toc" />
+              <span class="toggle-slider"></span>
+            </div>
           </label>
 
-          <!-- Compact Mode -->
           <label class="toggle-setting">
-            <div>
+            <div class="toggle-info">
               <span class="toggle-label">Compact Mode</span>
-              <p class="toggle-description">Reduce spacing for a denser display</p>
+              <span class="toggle-description">Tighter spacing for dense reading</span>
             </div>
-            <input type="checkbox" id="setting-compact" class="toggle-checkbox" />
+            <div class="toggle-switch">
+              <input type="checkbox" id="setting-compact" />
+              <span class="toggle-slider"></span>
+            </div>
           </label>
 
-          <!-- External Links -->
           <label class="toggle-setting">
-            <div>
-              <span class="toggle-label">Open External Links in New Tab</span>
-              <p class="toggle-description">Wikipedia, Spotify, and other external links</p>
+            <div class="toggle-info">
+              <span class="toggle-label">External Links in New Tab</span>
+              <span class="toggle-description">Wikipedia, Spotify, and other sites</span>
             </div>
-            <input type="checkbox" id="setting-external-new-tab" class="toggle-checkbox" />
+            <div class="toggle-switch">
+              <input type="checkbox" id="setting-external-new-tab" />
+              <span class="toggle-slider"></span>
+            </div>
           </label>
         </div>
       </section>
+    </div>
 
-      <!-- Reset Button -->
-      <section class="pt-4 border-t border-wiki-border">
-        <button
-          id="reset-settings"
-          class="reset-btn"
-        >
-          Reset to Defaults
-        </button>
-      </section>
+    <!-- Reset Button -->
+    <div class="settings-footer">
+      <button id="reset-settings" class="reset-btn">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+        </svg>
+        Reset to Defaults
+      </button>
     </div>
   </article>
 </Layout>
 
 <style>
-  .setting-group {
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid var(--color-border-light);
-  }
-
-  .setting-group:last-of-type {
+  .settings-page h1 {
     border-bottom: none;
+    margin-bottom: 0.5rem;
   }
 
-  .setting-header {
+  .settings-header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .settings-intro {
+    color: var(--color-text-muted);
+    font-size: 1rem;
+  }
+
+  .settings-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    max-width: 48rem;
+    margin: 0 auto;
+  }
+
+  @media (max-width: 768px) {
+    .settings-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  /* Setting Cards */
+  .setting-card {
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: 1.25rem;
+    transition: box-shadow var(--duration-normal) var(--ease-smooth);
+  }
+
+  .setting-card:hover {
+    box-shadow: var(--shadow-card);
+  }
+
+  .setting-card--full {
+    grid-column: 1 / -1;
+  }
+
+  .setting-card__header {
+    margin-bottom: 1rem;
+  }
+
+  .setting-card__header h2 {
+    font-family: 'Playfair Display Variable', Georgia, serif;
     font-size: 1.1rem;
     font-weight: 600;
-    margin-bottom: 0.5rem;
-    color: var(--color-text);
+    color: var(--color-text-heading);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0 0 0.25rem 0;
     border-bottom: none;
     padding-bottom: 0;
   }
 
-  .setting-description {
-    font-size: 0.875rem;
+  .setting-card__header p {
+    font-size: 0.8rem;
     color: var(--color-text-muted);
-    margin-bottom: 1rem;
+    margin: 0;
   }
 
-  /* Theme color swatches */
+  .setting-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.5rem;
+    height: 1.5rem;
+    font-size: 0.9rem;
+    color: var(--color-accent);
+  }
+
+  /* Theme Grid */
+  .theme-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+  }
+
   .theme-swatch {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.75rem 0.5rem;
+    border-radius: var(--radius-md);
+    border: 2px solid var(--color-border);
+    background: var(--color-bg);
+    cursor: pointer;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .theme-swatch:hover {
+    border-color: var(--color-border-accent);
+    background: var(--color-accent-light);
+  }
+
+  .theme-swatch[data-selected="true"] {
+    border-color: var(--color-accent);
+    background: var(--color-accent-light);
+  }
+
+  .swatch-color {
+    width: 1.75rem;
+    height: 1.75rem;
+    border-radius: 50%;
+    background: var(--swatch-color);
+    box-shadow: 0 0 0 2px var(--color-bg), 0 0 0 3px var(--color-border);
+    transition: box-shadow var(--duration-fast) var(--ease-smooth);
+  }
+
+  .theme-swatch[data-selected="true"] .swatch-color {
+    box-shadow: 0 0 0 2px var(--color-bg), 0 0 0 3px var(--swatch-color), 0 0 12px var(--swatch-color);
+  }
+
+  .swatch-label {
+    font-size: 0.65rem;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    text-align: center;
+  }
+
+  /* Mode Grid */
+  .mode-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+  }
+
+  .mode-btn {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 0.5rem;
     padding: 0.75rem;
-    border-radius: 0.375rem;
+    border-radius: var(--radius-md);
     border: 2px solid var(--color-border);
-    background: var(--color-bg-content);
-    cursor: pointer;
-    transition: border-color 0.15s, background-color 0.15s;
-  }
-
-  .theme-swatch:hover {
-    border-color: var(--color-link);
-  }
-
-  .theme-swatch[data-selected="true"] {
-    border-color: var(--color-accent);
-    background-color: var(--color-accent-light);
-  }
-
-  .swatch-color {
-    width: 2rem;
-    height: 2rem;
-    border-radius: 9999px;
-    border: 1px solid var(--color-border);
-  }
-
-  .swatch-label {
-    font-size: 0.75rem;
+    background: var(--color-bg);
     color: var(--color-text-secondary);
-    text-align: center;
-  }
-
-  /* Button group styling */
-  .button-group {
-    display: flex;
-    gap: 0.5rem;
-    flex-wrap: wrap;
-  }
-
-  .option-btn {
-    display: flex;
-    align-items: center;
-    padding: 0.5rem 1rem;
-    border-radius: 0.375rem;
-    border: 1px solid var(--color-border);
-    background: var(--color-bg-content);
-    color: var(--color-text);
     cursor: pointer;
-    transition: border-color 0.15s, background-color 0.15s;
+    transition: all var(--duration-fast) var(--ease-smooth);
   }
 
-  .option-btn:hover {
-    border-color: var(--color-link);
+  .mode-btn:hover {
+    border-color: var(--color-border-accent);
+    color: var(--color-text);
   }
 
-  .option-btn[data-selected="true"] {
+  .mode-btn[data-selected="true"] {
     border-color: var(--color-accent);
-    background-color: var(--color-accent-light);
+    background: var(--color-accent-light);
     color: var(--color-accent);
   }
 
-  /* Toggle settings */
+  .mode-icon {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+
+  .mode-btn span:last-child {
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
+
+  /* Size Grid */
+  .size-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+  }
+
+  .size-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.75rem;
+    border-radius: var(--radius-md);
+    border: 2px solid var(--color-border);
+    background: var(--color-bg);
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .size-btn:hover {
+    border-color: var(--color-border-accent);
+  }
+
+  .size-btn[data-selected="true"] {
+    border-color: var(--color-accent);
+    background: var(--color-accent-light);
+    color: var(--color-accent);
+  }
+
+  .size-preview {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-weight: 600;
+    color: var(--color-text);
+  }
+
+  .size-btn span:last-child {
+    font-size: 0.7rem;
+    font-weight: 500;
+  }
+
+  /* Width Grid */
+  .width-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+  }
+
+  .width-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem;
+    border-radius: var(--radius-md);
+    border: 2px solid var(--color-border);
+    background: var(--color-bg);
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .width-btn:hover {
+    border-color: var(--color-border-accent);
+  }
+
+  .width-btn[data-selected="true"] {
+    border-color: var(--color-accent);
+    background: var(--color-accent-light);
+    color: var(--color-accent);
+  }
+
+  .width-preview {
+    height: 0.75rem;
+    background: var(--color-border);
+    border-radius: 2px;
+    transition: background var(--duration-fast) var(--ease-smooth);
+  }
+
+  .width-btn[data-selected="true"] .width-preview {
+    background: var(--color-accent);
+  }
+
+  .width-preview--narrow { width: 40%; }
+  .width-preview--medium { width: 60%; }
+  .width-preview--wide { width: 85%; }
+
+  .width-btn span:last-child {
+    font-size: 0.7rem;
+    font-weight: 500;
+  }
+
+  /* Toggle List */
+  .toggle-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
   .toggle-setting {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0.75rem;
+    padding: 0.875rem 1rem;
     background: var(--color-bg);
-    border-radius: 0.375rem;
+    border-radius: var(--radius-md);
     border: 1px solid var(--color-border-light);
     cursor: pointer;
-    transition: background-color 0.15s;
+    transition: all var(--duration-fast) var(--ease-smooth);
   }
 
   .toggle-setting:hover {
     background: var(--color-bg-nav);
+    border-color: var(--color-border);
+  }
+
+  .toggle-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.125rem;
   }
 
   .toggle-label {
     font-weight: 500;
+    font-size: 0.9rem;
     color: var(--color-text);
   }
 
   .toggle-description {
-    font-size: 0.875rem;
+    font-size: 0.75rem;
     color: var(--color-text-muted);
-    margin-top: 0.125rem;
   }
 
-  .toggle-checkbox {
+  /* Custom Toggle Switch */
+  .toggle-switch {
+    position: relative;
+    width: 2.75rem;
+    height: 1.5rem;
+  }
+
+  .toggle-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .toggle-slider {
+    position: absolute;
+    inset: 0;
+    background: var(--color-border);
+    border-radius: 9999px;
+    transition: all var(--duration-fast) var(--ease-smooth);
+    cursor: pointer;
+  }
+
+  .toggle-slider::before {
+    content: '';
+    position: absolute;
+    left: 2px;
+    top: 2px;
     width: 1.25rem;
     height: 1.25rem;
-    accent-color: var(--color-accent);
-    cursor: pointer;
+    background: var(--color-bg-content);
+    border-radius: 50%;
+    transition: transform var(--duration-fast) var(--ease-jazz);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
   }
 
-  /* Reset button */
+  .toggle-switch input:checked + .toggle-slider {
+    background: var(--color-accent);
+  }
+
+  .toggle-switch input:checked + .toggle-slider::before {
+    transform: translateX(1.25rem);
+  }
+
+  .toggle-switch input:focus + .toggle-slider {
+    box-shadow: 0 0 0 2px var(--color-accent-light);
+  }
+
+  /* Settings Footer */
+  .settings-footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    margin-top: 1.5rem;
+    border-top: 1px solid var(--color-border-light);
+  }
+
   .reset-btn {
-    padding: 0.5rem 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.625rem 1.25rem;
     background: var(--color-bg);
     border: 1px solid var(--color-border);
-    border-radius: 0.375rem;
+    border-radius: var(--radius-md);
     color: var(--color-text-secondary);
+    font-size: 0.875rem;
+    font-weight: 500;
     cursor: pointer;
-    transition: background-color 0.15s;
+    transition: all var(--duration-fast) var(--ease-smooth);
   }
 
   .reset-btn:hover {
     background: var(--color-bg-nav);
+    border-color: var(--color-link-red);
+    color: var(--color-link-red);
   }
 
-  /* Responsive adjustments */
-  @media (max-width: 640px) {
-    .theme-swatch {
-      padding: 0.5rem;
-    }
-
-    .swatch-color {
-      width: 1.5rem;
-      height: 1.5rem;
-    }
-
-    .swatch-label {
-      font-size: 0.65rem;
-    }
-
-    .button-group {
-      flex-direction: column;
-    }
-
-    .option-btn {
-      justify-content: center;
-    }
+  .reset-btn svg {
+    width: 1rem;
+    height: 1rem;
   }
 </style>
 
@@ -317,7 +580,7 @@ const themes = [
   const STORAGE_KEY = 'wiki-settings';
 
   const DEFAULT_SETTINGS = {
-    theme: 'wikipedia-blue',
+    theme: 'classic-jazz',
     mode: 'system',
     fontSize: 'medium',
     articleWidth: 'medium',
@@ -330,7 +593,12 @@ const themes = [
     try {
       const stored = localStorage.getItem(STORAGE_KEY);
       if (!stored) return DEFAULT_SETTINGS;
-      return { ...DEFAULT_SETTINGS, ...JSON.parse(stored) };
+      const parsed = JSON.parse(stored);
+      // Migrate old themes to new ones
+      if (['wikipedia-blue', 'forest-green', 'royal-purple', 'sunset-orange', 'ocean-teal', 'slate-gray', 'warm-brown', 'crimson'].includes(parsed.theme)) {
+        parsed.theme = 'classic-jazz';
+      }
+      return { ...DEFAULT_SETTINGS, ...parsed };
     } catch {
       return DEFAULT_SETTINGS;
     }

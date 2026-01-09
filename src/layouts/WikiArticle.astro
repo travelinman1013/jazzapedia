@@ -1,4 +1,9 @@
 ---
+/**
+ * WikiArticle Layout - CSS Grid Based
+ * Modern responsive layout with named grid areas
+ * Replaces float-based infobox with proper grid placement
+ */
 import Layout from './Layout.astro';
 import Infobox from '../components/Infobox.astro';
 import TableOfContents from '../components/TableOfContents.astro';
@@ -19,120 +24,153 @@ const autoDescription = description || `${title} - ${genres.slice(0, 3).join(', 
 ---
 
 <Layout title={title} description={autoDescription}>
-  <div class="wiki-layout">
-    <!-- TOC Sidebar (left, desktop only) -->
-    <aside class="toc-sidebar">
+  <article class="wiki-article-grid">
+    <!-- Article Header -->
+    <header class="wiki-header">
+      <h1 class="wiki-title">{title}</h1>
+    </header>
+
+    <!-- TOC Sidebar (left) -->
+    <aside class="wiki-toc">
       <TableOfContents headings={headings} />
     </aside>
 
-    <!-- Main Article -->
-    <article class="wiki-article">
-      <!-- Article Header -->
-      <header class="mb-4">
-        <h1 class="font-serif text-3xl font-normal border-b border-wiki-border pb-2 text-wiki-text">
-          {title}
-        </h1>
-      </header>
+    <!-- Infobox (right) -->
+    <aside class="wiki-infobox">
+      <Infobox title={title} data={data} />
+    </aside>
 
-      <!-- Mobile TOC (shows at top on mobile) -->
-      <div class="toc-mobile-container">
-        <TableOfContents headings={headings} />
-      </div>
-
-      <!-- Two-column layout with floated infobox -->
-      <div class="article-body clearfix">
-        <!-- Infobox (floated right) -->
-        <Infobox title={title} data={data} />
-
-        <!-- Article Content -->
-        <div class="article-content prose prose-wiki max-w-none">
-          <slot />
-        </div>
-      </div>
-    </article>
-  </div>
+    <!-- Article Content -->
+    <div class="wiki-content article-content prose prose-wiki">
+      <slot />
+    </div>
+  </article>
 </Layout>
 
 <style>
-  /* Main layout container */
-  .wiki-layout {
-    display: flex;
+  /* ============================================
+     CSS Grid Layout for Wiki Articles
+     Three-column layout with named grid areas
+     ============================================ */
+
+  .wiki-article-grid {
+    display: grid;
     gap: 1.5rem;
-    max-width: 100%;
-  }
-
-  /* TOC Sidebar - hidden on mobile, visible on desktop */
-  .toc-sidebar {
-    display: none;
-    flex-shrink: 0;
-    width: 180px;
-  }
-
-  /* Mobile TOC container - shown on mobile, hidden on desktop */
-  .toc-mobile-container {
-    display: block;
-    margin-bottom: 1rem;
-  }
-
-  /* Desktop layout */
-  @media (min-width: 1024px) {
-    .toc-sidebar {
-      display: block;
-    }
-    .toc-mobile-container {
-      display: none;
-    }
-  }
-
-  .wiki-article {
-    font-family: system-ui, -apple-system, sans-serif;
-    color: var(--color-text);
     line-height: 1.65;
-    flex: 1;
-    min-width: 0;
+    color: var(--color-text);
+
+    /* Mobile: Single column, stacked layout */
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "header"
+      "infobox"
+      "toc"
+      "content";
   }
 
-  .clearfix::after {
-    content: "";
-    display: table;
-    clear: both;
+  /* Tablet: Two columns, TOC hidden */
+  @media (min-width: 768px) {
+    .wiki-article-grid {
+      grid-template-columns: 1fr 280px;
+      grid-template-areas:
+        "header header"
+        "content infobox"
+        "content .";
+    }
   }
 
-  /* Ensure content wraps around infobox */
-  .article-body {
-    overflow: hidden;
+  /* Desktop: Three columns with TOC sidebar */
+  @media (min-width: 1024px) {
+    .wiki-article-grid {
+      grid-template-columns: 180px 1fr 300px;
+      grid-template-areas:
+        "toc header header"
+        "toc content infobox"
+        "toc content .";
+    }
   }
 
-  /* Content styling when next to infobox */
-  .article-content {
-    overflow: hidden;
+  /* Wide screens: Constrain max width */
+  @media (min-width: 1280px) {
+    .wiki-article-grid {
+      grid-template-columns: 200px 1fr 320px;
+    }
   }
+
+  /* Grid area assignments */
+  .wiki-header {
+    grid-area: header;
+  }
+
+  .wiki-toc {
+    grid-area: toc;
+    display: none;
+  }
+
+  .wiki-infobox {
+    grid-area: infobox;
+  }
+
+  .wiki-content {
+    grid-area: content;
+    min-width: 0; /* Prevent content overflow */
+    max-width: var(--article-max-width, 48rem);
+  }
+
+  /* Show TOC on desktop */
+  @media (min-width: 1024px) {
+    .wiki-toc {
+      display: block;
+      position: sticky;
+      top: 5rem;
+      align-self: start;
+      max-height: calc(100vh - 6rem);
+      overflow-y: auto;
+    }
+  }
+
+  /* Header styling */
+  .wiki-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 2rem;
+    font-weight: 500;
+    color: var(--color-text-heading);
+    border-bottom: 2px solid var(--color-border-accent);
+    padding-bottom: 0.5rem;
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+
+  /* ============================================
+     Article Content Typography
+     ============================================ */
 
   /* First paragraph styling (like Wikipedia lead) */
   .article-content :global(p:first-of-type) {
-    font-size: 1rem;
+    font-size: 1.05rem;
   }
 
   /* Section headings */
   .article-content :global(h2) {
-    font-family: Georgia, 'Times New Roman', serif;
+    font-family: 'Playfair Display Variable', Georgia, serif;
     font-size: 1.5rem;
-    font-weight: 400;
+    font-weight: 500;
     border-bottom: 1px solid var(--color-border);
     padding-bottom: 0.25rem;
-    margin-top: calc(1.5rem * var(--spacing-multiplier, 1));
+    margin-top: calc(2rem * var(--spacing-multiplier, 1));
     margin-bottom: calc(0.75rem * var(--spacing-multiplier, 1));
-    clear: both;
-    color: var(--color-text);
+    color: var(--color-text-heading);
+    scroll-margin-top: 5rem;
   }
 
   .article-content :global(h3) {
-    font-family: Georgia, 'Times New Roman', serif;
-    font-size: 1.2rem;
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.25rem;
     font-weight: 600;
-    margin-top: calc(1.25rem * var(--spacing-multiplier, 1));
+    margin-top: calc(1.5rem * var(--spacing-multiplier, 1));
     margin-bottom: calc(0.5rem * var(--spacing-multiplier, 1));
-    color: var(--color-text);
+    color: var(--color-text-heading);
+    scroll-margin-top: 5rem;
   }
 
   /* Paragraph spacing */
@@ -140,6 +178,7 @@ const autoDescription = description || `${title} - ${genres.slice(0, 3).join(', 
     margin-bottom: calc(1rem * var(--spacing-multiplier, 1));
     text-align: justify;
     color: var(--color-text);
+    hyphens: auto;
   }
 
   /* Lists */
@@ -154,14 +193,17 @@ const autoDescription = description || `${title} - ${genres.slice(0, 3).join(', 
     margin-bottom: calc(0.25rem * var(--spacing-multiplier, 1));
   }
 
-  /* Links */
+  /* Links with jazz underline effect */
   .article-content :global(a) {
     color: var(--color-link);
     text-decoration: none;
+    transition: color var(--duration-fast) var(--ease-smooth);
   }
 
   .article-content :global(a:hover) {
     text-decoration: underline;
+    text-decoration-color: var(--electric-cyan);
+    text-underline-offset: 2px;
     color: var(--color-link-hover);
   }
 
@@ -171,12 +213,14 @@ const autoDescription = description || `${title} - ${genres.slice(0, 3).join(', 
     margin: calc(1rem * var(--spacing-multiplier, 1)) 0;
     width: 100%;
     font-size: 0.9rem;
+    border-radius: var(--radius-md);
+    overflow: hidden;
   }
 
   .article-content :global(th),
   .article-content :global(td) {
     border: 1px solid var(--color-border);
-    padding: 0.5rem;
+    padding: 0.5rem 0.75rem;
     text-align: left;
     color: var(--color-text);
   }
@@ -184,6 +228,7 @@ const autoDescription = description || `${title} - ${genres.slice(0, 3).join(', 
   .article-content :global(th) {
     background-color: var(--color-bg-nav);
     font-weight: 600;
+    font-family: 'Playfair Display Variable', Georgia, serif;
   }
 
   .article-content :global(tr:nth-child(even)) {
@@ -199,30 +244,37 @@ const autoDescription = description || `${title} - ${genres.slice(0, 3).join(', 
 
   /* Blockquotes */
   .article-content :global(blockquote) {
-    border-left: 4px solid var(--color-border-light);
+    border-left: 3px solid var(--color-accent);
     margin: calc(1rem * var(--spacing-multiplier, 1)) 0;
-    padding: 0.5rem 1rem;
+    padding: 0.75rem 1rem;
     background: var(--color-bg);
     font-style: italic;
     color: var(--color-text-secondary);
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
   }
 
   /* Code blocks */
   .article-content :global(code) {
-    background: var(--color-bg);
-    padding: 0.125rem 0.25rem;
-    border-radius: 2px;
-    font-size: 0.9em;
+    font-family: 'JetBrains Mono Variable', monospace;
+    background: var(--color-bg-nav);
+    padding: 0.125rem 0.375rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.85em;
     color: var(--color-text);
   }
 
   .article-content :global(pre) {
-    background: var(--color-bg);
+    background: var(--color-bg-nav);
     padding: 1rem;
     overflow-x: auto;
     border: 1px solid var(--color-border-light);
-    border-radius: 4px;
+    border-radius: var(--radius-md);
     color: var(--color-text);
+  }
+
+  .article-content :global(pre code) {
+    background: none;
+    padding: 0;
   }
 
   /* Horizontal rules */
@@ -234,8 +286,13 @@ const autoDescription = description || `${title} - ${genres.slice(0, 3).join(', 
 
   /* Mobile responsiveness */
   @media (max-width: 640px) {
+    .wiki-title {
+      font-size: 1.75rem;
+    }
+
     .article-content :global(p) {
       text-align: left;
+      hyphens: none;
     }
   }
 </style>

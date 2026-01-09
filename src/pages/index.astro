@@ -1,6 +1,13 @@
 ---
+/**
+ * Home Page - Jazz Club Playbill Aesthetic
+ * Features art deco hero, animated stat boxes, and featured content sections
+ */
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import StatBox from '../components/jazz/StatBox.astro';
+import ArtistCard from '../components/jazz/ArtistCard.astro';
+import GenreBadge from '../components/jazz/GenreBadge.astro';
 
 // Get all artists from the collection
 let allArtists: Awaited<ReturnType<typeof getCollection>> = [];
@@ -20,9 +27,9 @@ const artistsWithSpotify = allArtists.filter(a => a.data.spotify_data?.popularit
 const popularArtists = allArtists
   .filter(a => a.data.spotify_data?.popularity && a.data.spotify_data.popularity > 0)
   .sort((a, b) => (b.data.spotify_data?.popularity || 0) - (a.data.spotify_data?.popularity || 0))
-  .slice(0, 20);
+  .slice(0, 8);
 
-// Get recently updated artists - handle both string and Date types
+// Get recently updated artists
 const recentArtists = allArtists
   .filter(a => a.data.last_updated)
   .sort((a, b) => {
@@ -30,7 +37,7 @@ const recentArtists = allArtists
     const dateB = b.data.last_updated ? new Date(b.data.last_updated).getTime() : 0;
     return dateB - dateA;
   })
-  .slice(0, 10);
+  .slice(0, 6);
 
 // Get genre counts
 const genreCounts = new Map<string, number>();
@@ -44,130 +51,565 @@ const topGenres = Array.from(genreCounts.entries())
   .sort((a, b) => b[1] - a[1])
   .slice(0, 15);
 
+// Get instrument counts
+const instrumentCounts = new Map<string, number>();
+allArtists.forEach(artist => {
+  const instruments = artist.data.instruments as string[] | undefined;
+  instruments?.forEach(inst => {
+    instrumentCounts.set(inst, (instrumentCounts.get(inst) || 0) + 1);
+  });
+});
+const instrumentCount = instrumentCounts.size;
+
 // Helper to format numbers with commas
 const formatNumber = (num: number) => num.toLocaleString();
 
-// Helper to create slug from title
-const toSlug = (title: string) => title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+// Helper to get portrait filename
+const getPortrait = (artist: any) => {
+  const imagePath = artist.data.image_path || artist.data.infobox?.image;
+  if (!imagePath) return undefined;
+  const filename = imagePath.split('/').pop();
+  return `/portraits/${filename}`;
+};
 
-// Helper to format date
-const formatDate = (dateValue: string | Date | undefined): string => {
-  if (!dateValue) return 'Unknown';
-  const date = dateValue instanceof Date ? dateValue : new Date(dateValue);
-  return date.toLocaleDateString();
+// Get artist type label
+const getArtistType = (artist: any): string | undefined => {
+  const bg = artist.data.infobox?.background;
+  if (bg === 'solo_singer') return 'Vocalist';
+  if (bg === 'instrumentalist') return 'Instrumentalist';
+  if (bg === 'group_or_band') return 'Group';
+  return undefined;
 };
 ---
 
 <Layout title="Home">
-  <div class="article-content">
-    <h1>PersonalJazzWiki</h1>
-
-    {errorMessage && (
-      <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4">
-        <strong>Error loading artists:</strong> {errorMessage}
-      </div>
-    )}
-
-    <p class="text-lg text-wiki-text-secondary mb-6">
-      Welcome to PersonalJazzWiki, a personal encyclopedia of <strong>{formatNumber(artistCount)}</strong> musicians,
-      bands, and artists. Explore their biographies, discographies, musical connections, and more.
-    </p>
-
-    <!-- Stats Box -->
-    <div class="bg-wiki-accent-light border border-wiki-border rounded p-4 mb-8">
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
-        <div>
-          <div class="text-2xl font-bold text-wiki-accent">{formatNumber(artistCount)}</div>
-          <div class="text-sm text-wiki-text-muted">Total Artists</div>
-        </div>
-        <div>
-          <div class="text-2xl font-bold text-wiki-accent">{formatNumber(artistsWithSpotify)}</div>
-          <div class="text-sm text-wiki-text-muted">With Spotify Data</div>
-        </div>
-        <div>
-          <div class="text-2xl font-bold text-wiki-accent">{formatNumber(topGenres.length)}</div>
-          <div class="text-sm text-wiki-text-muted">Genres Covered</div>
-        </div>
-        <div>
-          <div class="text-2xl font-bold text-wiki-accent">{formatNumber(genreCounts.size)}</div>
-          <div class="text-sm text-wiki-text-muted">Unique Genres</div>
-        </div>
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-badge">EST. 2024</div>
+      <h1 class="hero-title">
+        <span class="hero-title-line">Personal</span>
+        <span class="hero-title-accent">JazzWiki</span>
+      </h1>
+      <p class="hero-tagline">
+        A curated encyclopedia of <strong class="text-jazz-amber">{formatNumber(artistCount)}</strong> musicians,
+        their stories, and musical connections.
+      </p>
+      <div class="hero-actions">
+        <a href="/artists" class="hero-btn hero-btn-primary">
+          Browse Artists
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+          </svg>
+        </a>
+        <a href="/random" class="hero-btn hero-btn-secondary">
+          Surprise Me
+        </a>
       </div>
     </div>
+    <div class="hero-decoration"></div>
+  </section>
 
-    <!-- Popular Artists Section -->
-    <h2>Most Popular Artists</h2>
-    <p class="text-wiki-text-secondary mb-4">Artists ranked by Spotify popularity score:</p>
+  {errorMessage && (
+    <div class="error-banner">
+      <strong>Error loading artists:</strong> {errorMessage}
+    </div>
+  )}
 
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-8">
+  <!-- Stats Section -->
+  <section class="stats-section">
+    <div class="stats-grid">
+      <StatBox value={artistCount} label="Artists" icon="&#9835;" href="/artists" />
+      <StatBox value={genreCounts.size} label="Genres" icon="&#127926;" href="/genres" />
+      <StatBox value={instrumentCount} label="Instruments" icon="&#127927;" href="/instruments" />
+      <StatBox value={artistsWithSpotify} label="With Spotify" icon="&#127911;" />
+    </div>
+  </section>
+
+  <!-- Now Playing Section (Popular Artists) -->
+  <section class="content-section">
+    <header class="section-header">
+      <div class="section-title-group">
+        <span class="section-icon">&#127927;</span>
+        <h2 class="section-title">Now Playing</h2>
+      </div>
+      <p class="section-subtitle">Most popular artists by Spotify ranking</p>
+      <a href="/artists" class="section-link">
+        View all artists
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    </header>
+
+    <div class="artists-grid">
       {popularArtists.map((artist) => (
-        <a
-          href={`/artists/${artist.id}`}
-          class="block bg-wiki-bg p-3 border border-wiki-border-light rounded hover:border-wiki-link hover:bg-wiki-accent-light transition-colors"
-        >
-          <div class="flex items-start justify-between">
-            <span class="text-wiki-link font-medium">{artist.data.title || artist.id}</span>
-            <span class="text-xs text-wiki-text-muted bg-wiki-bg-nav px-1.5 py-0.5 rounded">
-              {artist.data.spotify_data?.popularity}
-            </span>
-          </div>
-          {artist.data.genres && (artist.data.genres as string[]).length > 0 && (
-            <div class="text-xs text-wiki-text-muted mt-1 truncate">
-              {(artist.data.genres as string[]).slice(0, 2).join(', ')}
-            </div>
-          )}
-        </a>
+        <ArtistCard
+          name={artist.data.title || artist.id}
+          slug={artist.id}
+          portrait={getPortrait(artist)}
+          genres={(artist.data.genres as string[])?.slice(0, 2)}
+          popularity={artist.data.spotify_data?.popularity}
+          artistType={getArtistType(artist)}
+        />
       ))}
     </div>
+  </section>
 
-    <!-- Browse by Genre Section -->
-    <h2>Browse by Genre</h2>
-    <p class="text-wiki-text-secondary mb-4">Top genres by artist count:</p>
+  <!-- Genre Exploration -->
+  <section class="content-section">
+    <header class="section-header">
+      <div class="section-title-group">
+        <span class="section-icon">&#127926;</span>
+        <h2 class="section-title">Explore Genres</h2>
+      </div>
+      <p class="section-subtitle">Discover artists by musical style</p>
+      <a href="/genres" class="section-link">
+        All genres
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    </header>
 
-    <div class="flex flex-wrap gap-2 mb-8">
+    <div class="genres-cloud">
       {topGenres.map(([genre, count]) => (
-        <a
-          href={`/genres/${toSlug(genre)}`}
-          class="inline-flex items-center px-3 py-1.5 bg-wiki-tag-bg border border-wiki-tag-border rounded text-sm text-wiki-tag-text hover:bg-wiki-accent-light hover:border-wiki-link transition-colors"
-        >
-          <span>{genre}</span>
-          <span class="ml-2 text-xs text-wiki-text-muted">({formatNumber(count)})</span>
+        <GenreBadge genre={genre} count={count} showCount size="md" />
+      ))}
+    </div>
+  </section>
+
+  <!-- Recently Updated -->
+  <section class="content-section">
+    <header class="section-header">
+      <div class="section-title-group">
+        <span class="section-icon">&#128340;</span>
+        <h2 class="section-title">Recently Updated</h2>
+      </div>
+      <p class="section-subtitle">Latest profile updates</p>
+    </header>
+
+    <div class="recent-list">
+      {recentArtists.map(artist => (
+        <a href={`/artists/${artist.id}`} class="recent-item">
+          <span class="recent-name">{artist.data.title || artist.id}</span>
+          <span class="recent-genres">
+            {(artist.data.genres as string[])?.slice(0, 2).join(', ') || 'Various'}
+          </span>
         </a>
       ))}
     </div>
+  </section>
 
-    <!-- Recently Updated Section -->
-    <h2>Recently Updated</h2>
-    <p class="text-wiki-text-secondary mb-4">Latest artist profile updates:</p>
+  <!-- Quick Navigation -->
+  <section class="content-section">
+    <header class="section-header">
+      <div class="section-title-group">
+        <span class="section-icon">&#128269;</span>
+        <h2 class="section-title">Quick Navigation</h2>
+      </div>
+    </header>
 
-    <ul class="space-y-1 mb-8">
-      {recentArtists.map(artist => (
-        <li class="flex items-center justify-between py-1 border-b border-wiki-border-light">
-          <a href={`/artists/${artist.id}`} class="text-wiki-link hover:underline">
-            {artist.data.title || artist.id}
-          </a>
-          <span class="text-xs text-wiki-text-muted">
-            {formatDate(artist.data.last_updated as string | Date | undefined)}
-          </span>
-        </li>
-      ))}
-    </ul>
-
-    <!-- Quick Links -->
-    <h2>Quick Links</h2>
-    <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
-      <a href="/artists" class="block p-4 bg-wiki-bg border border-wiki-border rounded hover:bg-wiki-accent-light transition-colors">
-        <h3 class="font-medium text-wiki-link mb-1">All Artists</h3>
-        <p class="text-sm text-wiki-text-muted">Browse all {formatNumber(artistCount)} artists alphabetically</p>
+    <div class="quick-nav-grid">
+      <a href="/artists" class="quick-nav-card">
+        <span class="quick-nav-icon">&#9835;</span>
+        <h3 class="quick-nav-title">All Artists</h3>
+        <p class="quick-nav-desc">Browse {formatNumber(artistCount)} artists alphabetically</p>
       </a>
-      <a href="/genres" class="block p-4 bg-wiki-bg border border-wiki-border rounded hover:bg-wiki-accent-light transition-colors">
-        <h3 class="font-medium text-wiki-link mb-1">Genres</h3>
-        <p class="text-sm text-wiki-text-muted">Explore artists by musical genre</p>
+      <a href="/genres" class="quick-nav-card">
+        <span class="quick-nav-icon">&#127926;</span>
+        <h3 class="quick-nav-title">Genres</h3>
+        <p class="quick-nav-desc">Explore {genreCounts.size} musical genres</p>
       </a>
-      <a href="/random" class="block p-4 bg-wiki-bg border border-wiki-border rounded hover:bg-wiki-accent-light transition-colors">
-        <h3 class="font-medium text-wiki-link mb-1">Random Artist</h3>
-        <p class="text-sm text-wiki-text-muted">Discover a random artist from the wiki</p>
+      <a href="/instruments" class="quick-nav-card">
+        <span class="quick-nav-icon">&#127927;</span>
+        <h3 class="quick-nav-title">Instruments</h3>
+        <p class="quick-nav-desc">Find artists by instrument</p>
+      </a>
+      <a href="/random" class="quick-nav-card quick-nav-card-accent">
+        <span class="quick-nav-icon">&#127922;</span>
+        <h3 class="quick-nav-title">Random Artist</h3>
+        <p class="quick-nav-desc">Discover someone new</p>
+        <kbd class="quick-nav-kbd">R</kbd>
       </a>
     </div>
-  </div>
+  </section>
 </Layout>
+
+<style>
+  /* ============================================
+     Hero Section - Jazz Club Playbill
+     ============================================ */
+  .hero {
+    position: relative;
+    padding: 3rem 0;
+    margin: -1.5rem -1.5rem 2rem -1.5rem;
+    background: linear-gradient(135deg, var(--color-bg-nav) 0%, var(--color-bg) 100%);
+    border-bottom: 2px solid var(--jazz-brass);
+    overflow: hidden;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.02) 2px,
+      rgba(0, 0, 0, 0.02) 4px
+    );
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative;
+    text-align: center;
+    padding: 0 1.5rem;
+  }
+
+  .hero-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    margin-bottom: 1rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    color: var(--jazz-amber);
+    border: 1px solid var(--jazz-brass);
+    border-radius: 9999px;
+  }
+
+  .hero-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: clamp(2.5rem, 8vw, 4rem);
+    font-weight: 600;
+    line-height: 1.1;
+    margin: 0 0 1rem 0;
+    color: var(--color-text-heading);
+  }
+
+  .hero-title-line {
+    display: block;
+    font-weight: 400;
+  }
+
+  .hero-title-accent {
+    display: block;
+    background: linear-gradient(135deg, var(--jazz-amber) 0%, var(--electric-cyan) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .hero-tagline {
+    font-size: 1.125rem;
+    color: var(--color-text-secondary);
+    max-width: 36rem;
+    margin: 0 auto 1.5rem auto;
+    line-height: 1.6;
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .hero-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    font-weight: 500;
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .hero-btn-primary {
+    background: var(--jazz-amber);
+    color: var(--jazz-black);
+  }
+
+  .hero-btn-primary:hover {
+    background: var(--electric-cyan);
+    box-shadow: var(--glow-cyan);
+  }
+
+  .hero-btn-secondary {
+    background: transparent;
+    border: 1px solid var(--color-border);
+    color: var(--color-text);
+  }
+
+  .hero-btn-secondary:hover {
+    border-color: var(--jazz-amber);
+    color: var(--jazz-amber);
+  }
+
+  .hero-decoration {
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent 0%, var(--jazz-amber) 50%, transparent 100%);
+  }
+
+  /* ============================================
+     Stats Section
+     ============================================ */
+  .stats-section {
+    margin-bottom: 3rem;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  @media (min-width: 768px) {
+    .stats-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  /* ============================================
+     Content Sections
+     ============================================ */
+  .content-section {
+    margin-bottom: 3rem;
+  }
+
+  .section-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem 1rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .section-title-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .section-icon {
+    font-size: 1.25rem;
+  }
+
+  .section-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: var(--color-text-heading);
+    margin: 0;
+  }
+
+  .section-subtitle {
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+    margin: 0;
+    flex: 1;
+  }
+
+  .section-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    font-size: 0.875rem;
+    color: var(--color-link);
+    text-decoration: none;
+    transition: color var(--duration-fast) var(--ease-smooth);
+  }
+
+  .section-link:hover {
+    color: var(--color-link-hover);
+  }
+
+  /* ============================================
+     Artists Grid
+     ============================================ */
+  .artists-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  @media (min-width: 640px) {
+    .artists-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .artists-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  /* ============================================
+     Genres Cloud
+     ============================================ */
+  .genres-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  /* ============================================
+     Recent List
+     ============================================ */
+  .recent-list {
+    display: grid;
+    gap: 0.5rem;
+  }
+
+  @media (min-width: 768px) {
+    .recent-list {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .recent-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 1rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .recent-item:hover {
+    border-color: var(--color-link);
+    background: var(--color-accent-light);
+  }
+
+  .recent-name {
+    font-weight: 500;
+    color: var(--color-link);
+  }
+
+  .recent-genres {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+  }
+
+  /* ============================================
+     Quick Navigation
+     ============================================ */
+  .quick-nav-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  @media (min-width: 768px) {
+    .quick-nav-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  .quick-nav-card {
+    position: relative;
+    padding: 1.25rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-lg);
+    text-decoration: none;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .quick-nav-card:hover {
+    border-color: var(--color-link);
+    background: var(--color-accent-light);
+    transform: translateY(-2px);
+  }
+
+  .quick-nav-card-accent {
+    border-color: var(--jazz-brass);
+    background: linear-gradient(135deg, var(--color-accent-light) 0%, transparent 100%);
+  }
+
+  .quick-nav-icon {
+    display: block;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .quick-nav-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-link);
+    margin: 0 0 0.25rem 0;
+  }
+
+  .quick-nav-desc {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    margin: 0;
+    line-height: 1.4;
+  }
+
+  .quick-nav-kbd {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    padding: 0.125rem 0.375rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.6rem;
+    background: var(--color-bg-nav);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    color: var(--color-text-muted);
+  }
+
+  /* ============================================
+     Error State
+     ============================================ */
+  .error-banner {
+    background: rgba(220, 38, 38, 0.1);
+    border: 1px solid rgba(220, 38, 38, 0.3);
+    color: #DC2626;
+    padding: 1rem;
+    border-radius: var(--radius-md);
+    margin-bottom: 2rem;
+  }
+
+  /* ============================================
+     Dark Mode Enhancements
+     ============================================ */
+  :global([data-mode="dark"]) .hero {
+    background: linear-gradient(135deg, var(--jazz-smoke) 0%, var(--jazz-black) 100%);
+  }
+
+  :global([data-mode="dark"]) .hero::before {
+    background-image: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(255, 255, 255, 0.02) 2px,
+      rgba(255, 255, 255, 0.02) 4px
+    );
+  }
+
+  :global([data-mode="dark"]) .quick-nav-card {
+    background: var(--jazz-smoke);
+  }
+
+  :global([data-mode="dark"]) .recent-item {
+    background: var(--jazz-smoke);
+  }
+</style>

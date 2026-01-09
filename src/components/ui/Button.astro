@@ -1,0 +1,93 @@
+---
+/**
+ * Button Component
+ * A versatile button with multiple variants and sizes
+ * Inspired by shadcn/ui but implemented as an Astro component
+ */
+
+interface Props {
+  variant?: 'default' | 'secondary' | 'ghost' | 'outline' | 'link' | 'accent';
+  size?: 'sm' | 'md' | 'lg' | 'icon';
+  href?: string;
+  class?: string;
+  disabled?: boolean;
+  type?: 'button' | 'submit' | 'reset';
+}
+
+const {
+  variant = 'default',
+  size = 'md',
+  href,
+  class: className = '',
+  disabled = false,
+  type = 'button',
+  ...rest
+} = Astro.props;
+
+const baseStyles = `
+  inline-flex items-center justify-center gap-2
+  font-medium transition-all
+  focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-wiki-accent focus-visible:ring-offset-2
+  disabled:pointer-events-none disabled:opacity-50
+  rounded-md
+`;
+
+const variants = {
+  default: `
+    bg-jazz-amber text-jazz-black
+    hover:bg-jazz-gold
+    active:scale-[0.98]
+  `,
+  secondary: `
+    bg-wiki-bg-nav text-wiki-text
+    hover:bg-wiki-bg-elevated
+    border border-wiki-border
+  `,
+  ghost: `
+    text-wiki-text-secondary
+    hover:bg-wiki-accent-light hover:text-wiki-text
+  `,
+  outline: `
+    border-2 border-wiki-border-accent text-wiki-accent
+    hover:bg-wiki-accent-light
+  `,
+  link: `
+    text-wiki-link underline-offset-4
+    hover:underline hover:text-wiki-link-hover
+  `,
+  accent: `
+    bg-electric-cyan text-jazz-black
+    hover:bg-electric-cyan-dim
+    shadow-glow-cyan hover:shadow-glow-subtle
+  `,
+};
+
+const sizes = {
+  sm: 'h-8 px-3 text-sm',
+  md: 'h-10 px-4 text-sm',
+  lg: 'h-12 px-6 text-base',
+  icon: 'h-10 w-10',
+};
+
+const classes = `${baseStyles} ${variants[variant]} ${sizes[size]} ${className}`.trim();
+
+const Element = href ? 'a' : 'button';
+---
+
+{href ? (
+  <a href={href} class={classes} {...rest}>
+    <slot />
+  </a>
+) : (
+  <button type={type} class={classes} disabled={disabled} {...rest}>
+    <slot />
+  </button>
+)}
+
+<style>
+  button, a {
+    transition-property: color, background-color, border-color, box-shadow, transform;
+    transition-timing-function: var(--ease-smooth);
+    transition-duration: var(--duration-fast);
+  }
+</style>
