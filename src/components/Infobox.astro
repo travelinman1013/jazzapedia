@@ -92,21 +92,6 @@ const genres = (data.genres || []) as string[];
 const roles = (data.roles || []) as string[];
 const careerSpan = data.career_span as string | undefined;
 const isActive = data.is_active !== false && !deathDate;
-const discographySummary = data.discography_summary as {
-  albums?: number;
-  singles?: number;
-  compilations?: number;
-  first_year?: string;
-  latest_year?: string;
-} | undefined;
-const audioProfile = data.audio_profile as {
-  energy_avg?: number;
-  valence_avg?: number;
-  danceability_avg?: number;
-  tempo_avg?: number;
-  acousticness_avg?: number;
-  instrumentalness_avg?: number;
-} | undefined;
 const socialLinks = data.social_links as {
   instagram?: string;
   twitter?: string;
@@ -116,8 +101,6 @@ const socialLinks = data.social_links as {
   discogs?: string;
   bandcamp?: string;
 } | undefined;
-const yearsActive = data.years_active as string | undefined;
-const occupation = (data.occupation || []) as string[];
 const recordLabels = (data.record_labels || []) as string[];
 
 // Instruments - filter out garbage credit types, only keep real instruments
@@ -136,24 +119,6 @@ const instruments = rawInstruments.filter(inst =>
   !NON_INSTRUMENTS.has(inst.toLowerCase()) && inst.length > 1
 );
 const aliases = (data.aliases || data.also_known_as || []) as string[];
-const spouse = (data.spouse || []) as string[];
-const rawAssociatedActs = (data.associated_acts || []) as Array<string | { name?: string }>;
-const associatedActs = rawAssociatedActs.map(act =>
-  typeof act === 'string' ? act : (act.name || '')
-).filter(Boolean);
-
-// Audio profile helpers
-const getEnergyLabel = (energy: number) => {
-  if (energy >= 0.7) return 'High';
-  if (energy >= 0.4) return 'Med';
-  return 'Low';
-};
-
-const getMoodLabel = (valence: number) => {
-  if (valence >= 0.6) return 'Upbeat';
-  if (valence >= 0.4) return 'Balanced';
-  return 'Dark';
-};
 
 // Get image path
 const rawImagePath = (data.image_path || infobox?.image) as string | undefined;
@@ -270,7 +235,7 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
 
         {roles.length > 0 && (
           <tr>
-            <th>Roles</th>
+            <th>Occupations</th>
             <td>
               <div class="tag-list">
                 {roles.slice(0, 3).map(role => (
@@ -298,37 +263,11 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
 
         {(careerSpan || isActive) && (
           <tr>
-            <th>Career</th>
+            <th>Years active</th>
             <td>
               {careerSpan && <span class="font-mono">{careerSpan}</span>}
               {isActive && <span class="active-badge">Active</span>}
             </td>
-          </tr>
-        )}
-
-        {discographySummary && (discographySummary.albums || 0) > 0 && (
-          <tr>
-            <th>Discography</th>
-            <td>
-              <span class="font-mono">
-                {discographySummary.albums} albums
-                {(discographySummary.singles || 0) > 0 && `, ${discographySummary.singles} singles`}
-              </span>
-            </td>
-          </tr>
-        )}
-
-        {occupation.length > 0 && (
-          <tr>
-            <th>Occupation</th>
-            <td>{occupation.slice(0, 3).join(', ')}</td>
-          </tr>
-        )}
-
-        {yearsActive && (
-          <tr>
-            <th>Years active</th>
-            <td class="font-mono">{yearsActive}</td>
           </tr>
         )}
 
@@ -338,99 +277,8 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
             <td>{recordLabels.slice(0, 3).join(', ')}{recordLabels.length > 3 ? '...' : ''}</td>
           </tr>
         )}
-
-        {associatedActs.length > 0 && (
-          <tr>
-            <th>Associated</th>
-            <td>{associatedActs.slice(0, 3).join(', ')}{associatedActs.length > 3 ? '...' : ''}</td>
-          </tr>
-        )}
-
-        {spouse.length > 0 && (
-          <tr>
-            <th>Spouse(s)</th>
-            <td>{spouse.join(', ')}</td>
-          </tr>
-        )}
       </tbody>
     </table>
-
-    <!-- Spotify Section -->
-    {spotifyData && (spotifyData.popularity !== undefined || spotifyData.followers) && (
-      <div class="spotify-section">
-        <div class="spotify-header">
-          <svg class="spotify-icon" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
-          </svg>
-          <span>Spotify</span>
-        </div>
-
-        {spotifyData.popularity !== undefined && (
-          <div class="spotify-stat">
-            <span class="spotify-label">Popularity</span>
-            <div class="popularity-bar">
-              <div class="popularity-fill" style={`--popularity: ${spotifyData.popularity}%`}></div>
-              <span class="popularity-value">{spotifyData.popularity}</span>
-            </div>
-          </div>
-        )}
-
-        {spotifyData.followers && (
-          <div class="spotify-stat">
-            <span class="spotify-label">Followers</span>
-            <span class="spotify-value font-mono">{formatNumber(spotifyData.followers)}</span>
-          </div>
-        )}
-
-        {spotifyData.url && (
-          <a href={spotifyData.url} target="_blank" rel="noopener noreferrer" class="spotify-link">
-            Listen on Spotify
-            <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-            </svg>
-          </a>
-        )}
-      </div>
-    )}
-
-    <!-- Audio Profile Section -->
-    {audioProfile && (audioProfile.energy_avg !== undefined || audioProfile.valence_avg !== undefined) && (
-      <div class="audio-profile-section">
-        <div class="audio-profile-header">
-          <svg class="audio-icon" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/>
-          </svg>
-          <span>Sound Profile</span>
-        </div>
-
-        {audioProfile.energy_avg !== undefined && (
-          <div class="profile-stat">
-            <span class="profile-label">Energy</span>
-            <div class="profile-bar">
-              <div class="profile-fill energy" style={`--value: ${audioProfile.energy_avg * 100}%`}></div>
-            </div>
-            <span class="profile-value">{getEnergyLabel(audioProfile.energy_avg)}</span>
-          </div>
-        )}
-
-        {audioProfile.valence_avg !== undefined && (
-          <div class="profile-stat">
-            <span class="profile-label">Mood</span>
-            <div class="profile-bar">
-              <div class="profile-fill mood" style={`--value: ${audioProfile.valence_avg * 100}%`}></div>
-            </div>
-            <span class="profile-value">{getMoodLabel(audioProfile.valence_avg)}</span>
-          </div>
-        )}
-
-        {audioProfile.tempo_avg !== undefined && (
-          <div class="profile-stat tempo">
-            <span class="profile-label">Tempo</span>
-            <span class="profile-tempo">{Math.round(audioProfile.tempo_avg)} BPM</span>
-          </div>
-        )}
-      </div>
-    )}
 
     <!-- Mini Connection Graph -->
     {hasConnections && artistSlug && (
@@ -469,6 +317,13 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
         </a>
       )}
       {/* Music Platform Links */}
+      {spotifyData?.url && (
+        <a href={spotifyData.url} target="_blank" rel="noopener noreferrer" class="external-link spotify-external" title="Spotify">
+          <svg viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
+          </svg>
+        </a>
+      )}
       {externalUrls?.wikipedia && (
         <a href={externalUrls.wikipedia} target="_blank" rel="noopener noreferrer" class="external-link" title="Wikipedia">
           <svg viewBox="0 0 24 24" fill="currentColor">
@@ -751,194 +606,6 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
     border: 1px solid rgba(34, 197, 94, 0.3);
   }
 
-  /* Spotify section */
-  .spotify-section {
-    padding: 0.75rem;
-    background: linear-gradient(135deg, rgba(30, 215, 96, 0.08) 0%, rgba(30, 215, 96, 0.02) 100%);
-    border-top: 1px solid var(--color-border-light);
-  }
-
-  .spotify-header {
-    display: flex;
-    align-items: center;
-    gap: 0.375rem;
-    font-size: 0.7rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: #1DB954;
-    margin-bottom: 0.5rem;
-  }
-
-  .spotify-icon {
-    width: 1rem;
-    height: 1rem;
-  }
-
-  .spotify-stat {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0.375rem 0;
-  }
-
-  .spotify-label {
-    font-size: 0.75rem;
-    color: var(--color-text-secondary);
-  }
-
-  .spotify-value {
-    font-size: 0.875rem;
-    font-weight: 500;
-    color: var(--color-text);
-  }
-
-  /* Popularity bar */
-  .popularity-bar {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    flex: 1;
-    max-width: 8rem;
-  }
-
-  .popularity-fill {
-    flex: 1;
-    height: 0.375rem;
-    background: var(--color-border-light);
-    border-radius: 9999px;
-    overflow: hidden;
-    position: relative;
-  }
-
-  .popularity-fill::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    width: var(--popularity);
-    background: linear-gradient(90deg, #1DB954 0%, var(--electric-cyan) 100%);
-    border-radius: 9999px;
-    transition: width var(--duration-slow) var(--ease-jazz);
-  }
-
-  .popularity-value {
-    font-family: 'JetBrains Mono Variable', monospace;
-    font-size: 0.75rem;
-    font-weight: 600;
-    color: #1DB954;
-    min-width: 1.5rem;
-  }
-
-  .spotify-link {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.375rem;
-    margin-top: 0.5rem;
-    padding: 0.375rem 0.75rem;
-    font-size: 0.75rem;
-    font-weight: 500;
-    color: #1DB954;
-    background: rgba(30, 215, 96, 0.1);
-    border: 1px solid rgba(30, 215, 96, 0.3);
-    border-radius: var(--radius-md);
-    text-decoration: none;
-    transition: all var(--duration-fast) var(--ease-smooth);
-  }
-
-  .spotify-link:hover {
-    background: rgba(30, 215, 96, 0.2);
-    border-color: #1DB954;
-  }
-
-  /* Audio profile section */
-  .audio-profile-section {
-    padding: 0.75rem;
-    background: linear-gradient(135deg, rgba(147, 51, 234, 0.08) 0%, rgba(147, 51, 234, 0.02) 100%);
-    border-top: 1px solid var(--color-border-light);
-  }
-
-  .audio-profile-header {
-    display: flex;
-    align-items: center;
-    gap: 0.375rem;
-    font-size: 0.7rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: #9333ea;
-    margin-bottom: 0.5rem;
-  }
-
-  .audio-icon {
-    width: 1rem;
-    height: 1rem;
-  }
-
-  .profile-stat {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.25rem 0;
-  }
-
-  .profile-stat.tempo {
-    justify-content: space-between;
-    padding-top: 0.375rem;
-    margin-top: 0.25rem;
-    border-top: 1px solid var(--color-border-light);
-  }
-
-  .profile-label {
-    font-size: 0.7rem;
-    color: var(--color-text-secondary);
-    min-width: 3rem;
-  }
-
-  .profile-bar {
-    flex: 1;
-    height: 0.375rem;
-    background: var(--color-border-light);
-    border-radius: 9999px;
-    overflow: hidden;
-    position: relative;
-  }
-
-  .profile-fill {
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    width: var(--value);
-    border-radius: 9999px;
-    transition: width var(--duration-slow) var(--ease-jazz);
-  }
-
-  .profile-fill.energy {
-    background: linear-gradient(90deg, #f97316 0%, #eab308 100%);
-  }
-
-  .profile-fill.mood {
-    background: linear-gradient(90deg, #3b82f6 0%, #a855f7 100%);
-  }
-
-  .profile-value {
-    font-size: 0.65rem;
-    font-weight: 500;
-    color: var(--color-text-muted);
-    min-width: 2.5rem;
-    text-align: right;
-  }
-
-  .profile-tempo {
-    font-family: 'JetBrains Mono Variable', monospace;
-    font-size: 0.75rem;
-    font-weight: 600;
-    color: #9333ea;
-  }
-
   /* External links */
   .external-links {
     display: flex;
@@ -970,6 +637,12 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
     height: 1rem;
   }
 
+  /* Spotify link - green accent on hover */
+  .spotify-external:hover {
+    color: #1DB954;
+    background: rgba(30, 215, 96, 0.15);
+  }
+
   /* Responsive - center on mobile */
   @media (max-width: 768px) {
     .infobox {
@@ -991,10 +664,6 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
 
   :global([data-mode="dark"]) .infobox__table th {
     background: var(--jazz-slate);
-  }
-
-  :global([data-mode="dark"]) .spotify-section {
-    background: linear-gradient(135deg, rgba(30, 215, 96, 0.12) 0%, rgba(30, 215, 96, 0.04) 100%);
   }
 
   :global([data-mode="dark"]) .external-links {
