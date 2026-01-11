@@ -2,93 +2,22 @@
 /**
  * WWOZPlays - Display recent WWOZ plays for an artist
  *
- * Searches the WWOZ collection for tracks matching the artist name
- * and displays them in a table with links to daily logs and Spotify.
+ * Receives pre-computed plays from parent page and displays them
+ * in a table with links to daily logs and Spotify.
  */
-import { getCollection } from 'astro:content';
+import type { MatchedTrack } from '../../lib/wwoz';
 
 interface Props {
   artistSlug: string;
   artistName: string;
+  plays: MatchedTrack[];
 }
 
-const { artistSlug, artistName } = Astro.props;
-
-// Get all WWOZ daily logs
-const wwozLogs = await getCollection('wwoz');
-
-// Search for tracks matching this artist
-interface MatchedTrack {
-  date: string;
-  time: string;
-  title: string;
-  album?: string;
-  show: string;
-  host?: string;
-  spotifyUrl?: string;
-  confidence?: number;
-}
-
-const matchedTracks: MatchedTrack[] = [];
-
-// Normalize artist name for matching
-const normalizedArtistName = artistName.toLowerCase().trim();
-const artistWords = normalizedArtistName.split(/\s+/);
-
-// Also match on slug variations
-const slugVariations = [
-  artistSlug,
-  artistSlug.replace(/-/g, ' '),
-  artistName.toLowerCase()
-];
-
-for (const log of wwozLogs) {
-  const tracks = log.data.tracks || [];
-  const date = log.data.date;
-
-  for (const track of tracks) {
-    if (track.status !== 'found') continue; // Only show found tracks
-
-    const trackArtist = track.artist.toLowerCase().trim();
-
-    // Match strategies:
-    // 1. Exact match
-    // 2. Artist name contained in track artist (handles "feat." credits)
-    // 3. Track artist contained in artist name
-    // 4. All words of artist name present in track artist
-
-    const isMatch =
-      trackArtist === normalizedArtistName ||
-      trackArtist.includes(normalizedArtistName) ||
-      normalizedArtistName.includes(trackArtist) ||
-      artistWords.every(word => trackArtist.includes(word)) ||
-      slugVariations.some(v => trackArtist.includes(v));
-
-    if (isMatch) {
-      matchedTracks.push({
-        date,
-        time: track.time,
-        title: track.title,
-        album: track.album,
-        show: track.show,
-        host: track.host,
-        spotifyUrl: track.spotifyUrl,
-        confidence: track.confidence
-      });
-    }
-  }
-}
-
-// Sort by date (newest first), then by time
-matchedTracks.sort((a, b) => {
-  const dateCompare = b.date.localeCompare(a.date);
-  if (dateCompare !== 0) return dateCompare;
-  return b.time.localeCompare(a.time);
-});
+const { artistSlug, artistName, plays } = Astro.props;
 
 // Limit to most recent 10 plays
-const recentPlays = matchedTracks.slice(0, 10);
-const totalPlays = matchedTracks.length;
+const recentPlays = plays.slice(0, 10);
+const totalPlays = plays.length;
 const hasPlays = recentPlays.length > 0;
 
 // Format date for display
@@ -117,35 +46,35 @@ function formatDate(dateStr: string): string {
       <table class="plays-table">
         <thead>
           <tr>
-            <th>Date</th>
-            <th>Time</th>
-            <th>Title</th>
-            <th>Show</th>
-            <th>Spotify</th>
+            <th class="col-date">Date</th>
+            <th class="col-time">Time</th>
+            <th class="col-title">Title</th>
+            <th class="col-show">Show</th>
+            <th class="col-spotify">Spotify</th>
           </tr>
         </thead>
         <tbody>
           {recentPlays.map(track => (
             <tr>
-              <td>
+              <td class="col-date">
                 <a href={`/wwoz/${track.date}`} class="date-link">
                   {formatDate(track.date)}
                 </a>
               </td>
-              <td class="time">{track.time}</td>
-              <td class="title">
+              <td class="col-time time">{track.time}</td>
+              <td class="col-title title">
                 <span class="track-title">{track.title}</span>
                 {track.album && (
                   <span class="album">from {track.album}</span>
                 )}
               </td>
-              <td class="show">
+              <td class="col-show show">
                 {track.show}
                 {track.host && (
                   <span class="host">w/ {track.host}</span>
                 )}
               </td>
-              <td class="spotify">
+              <td class="col-spotify spotify">
                 {track.spotifyUrl ? (
                   <a
                     href={track.spotifyUrl}
@@ -219,13 +148,23 @@ function formatDate(dateStr: string): string {
     width: 100%;
     border-collapse: collapse;
     font-size: 0.875rem;
+    table-layout: fixed;
   }
+
+  /* Column widths */
+  .col-date { width: 100px; }
+  .col-time { width: 55px; }
+  .col-title { width: auto; }
+  .col-show { width: auto; min-width: 120px; }
+  .col-spotify { width: 50px; }
 
   .plays-table th,
   .plays-table td {
     padding: 0.5rem 0.75rem;
     text-align: left;
     border-bottom: 1px solid var(--color-border-light);
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .plays-table th {
@@ -235,6 +174,7 @@ function formatDate(dateStr: string): string {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--color-text-secondary);
+    white-space: nowrap;
   }
 
   .plays-table tbody tr:hover {
@@ -255,6 +195,7 @@ function formatDate(dateStr: string): string {
     font-family: 'JetBrains Mono Variable', monospace;
     font-size: 0.8rem;
     color: var(--color-text-secondary);
+    white-space: nowrap;
   }
 
   .title .track-title {
@@ -270,8 +211,9 @@ function formatDate(dateStr: string): string {
     margin-top: 0.125rem;
   }
 
+  /* Show column - allow wrapping for long show names */
   .show {
-    white-space: nowrap;
+    /* Removed white-space: nowrap to allow wrapping */
   }
 
   .show .host {
@@ -322,6 +264,10 @@ function formatDate(dateStr: string): string {
     .plays-table td {
       padding: 0.375rem 0.5rem;
     }
+
+    .col-date { width: 85px; }
+    .col-time { width: 50px; }
+    .col-spotify { width: 40px; }
 
     .title .album {
       display: none;

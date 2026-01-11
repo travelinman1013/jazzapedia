@@ -6,6 +6,7 @@
 import WikiArticle from '../../layouts/WikiArticle.astro';
 import ConnectionGraph from '../../components/artist/ConnectionGraph.astro';
 import WWOZPlays from '../../components/artist/WWOZPlays.astro';
+import { getWWOZPlaysForArtist } from '../../lib/wwoz';
 import connectionsIndex from '../../data/connections-index.json';
 
 // Get the slug from params
@@ -156,6 +157,15 @@ if (researchSources.length > 0) {
 // Get title with fallback
 const title = artistRow.title || slug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
 
+// Get WWOZ plays for this artist
+const wwozPlays = await getWWOZPlaysForArtist(slug, title);
+const hasWWOZPlays = wwozPlays.length > 0;
+
+// Add WWOZ to TOC if there are plays
+if (hasWWOZPlays) {
+  headings.push({ id: 'heard-on-wwoz', text: 'Heard on WWOZ' });
+}
+
 // Get connections for this artist from the static index
 const artistConnections = {
   forward: (connectionsIndex as any).forward?.[slug] || {},
@@ -249,7 +259,7 @@ Astro.response.headers.set(
   )}
 
   {/* WWOZ Plays Section */}
-  <WWOZPlays artistSlug={slug} artistName={title} />
+  <WWOZPlays artistSlug={slug} artistName={title} plays={wwozPlays} />
 </WikiArticle>
 
 <style is:global>
