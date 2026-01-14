@@ -8,7 +8,7 @@ Jazzapedia is a Wikipedia-style encyclopedia for 4,000+ musician profiles. Built
 
 **Live Site:** https://jazzapedia.com
 
-**Stats:** 4,015 artists, 456 genres, 148 instruments
+**Stats:** 4,131 artists, 466 genres, 166 instruments
 
 ## Architecture
 
@@ -210,7 +210,43 @@ GitHub Actions workflow (`.github/workflows/deploy.yml`) runs on push to master:
 3. `npx pagefind --site dist` - Generate search index
 4. `npx wrangler pages deploy dist --project-name jazzapedia` - Deploy with D1 binding
 
-**Note:** Code deploys automatically, but database migrations and data syncs must be run manually.
+**Note:** Code deploys automatically. Database syncs can be triggered via GitHub Actions (see below).
+
+## Automated Artist Sync
+
+A GitHub Actions workflow (`.github/workflows/sync-artists.yml`) syncs new artists to D1 and uploads portraits to R2.
+
+### Adding New Artists (Full Workflow)
+
+```bash
+# 1. Run artist discovery pipeline (generates new markdown in Obsidian vault)
+
+# 2. Sync vault content to repo
+npm run sync:content-deploy
+
+# 3. Commit and push
+git add content-deploy
+git commit -m "Add new artists"
+git push
+
+# 4. Trigger sync via GitHub Actions
+# Go to: GitHub > Actions > "Sync Artists to Jazzapedia" > Run workflow
+```
+
+### Workflow Features
+
+- **Manual trigger** via GitHub Actions UI (workflow_dispatch)
+- **D1 sync**: Syncs artist markdown from `content-deploy/artists/` to production D1
+- **R2 upload**: Uploads new portraits only (incremental - skips existing files)
+- **Dry-run option**: Preview changes without applying
+
+### Environment Variables
+
+The sync scripts support configurable paths via environment variables:
+- `ARTISTS_DIR` - Path to artist markdown files (default: Obsidian vault)
+- `PORTRAITS_DIR` - Path to portrait images (default: Obsidian vault)
+
+GitHub Actions sets these to `./content-deploy/artists` and `./content-deploy/portraits`.
 
 ## Common Tasks
 
@@ -229,10 +265,17 @@ GitHub Actions workflow (`.github/workflows/deploy.yml`) runs on push to master:
 ### Full data refresh
 ```bash
 # 1. Run pipeline to generate/update artist cards (separate repo)
-# 2. Sync to D1
-npx tsx scripts/sync-to-d1.ts --remote
-# 3. Deploy code if changed
-npm run build && npx wrangler pages deploy dist --project-name jazzapedia
+# 2. Sync vault to content-deploy
+npm run sync:content-deploy
+# 3. Commit and push
+git add content-deploy && git commit -m "Update artists" && git push
+# 4. Run "Sync Artists to Jazzapedia" workflow in GitHub Actions
+```
+
+For manual/local sync (without GitHub Actions):
+```bash
+npx tsx scripts/sync-to-d1.ts --remote        # Sync to D1
+npx tsx scripts/upload-portraits-r2.ts        # Upload portraits to R2
 ```
 
 ### Updating wrangler.toml
