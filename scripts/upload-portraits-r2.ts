@@ -11,9 +11,44 @@ const IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.webp'];
 
 interface UploadStats {
   total: number;
+  skipped: number;
   success: number;
   failure: number;
   errors: Array<{ file: string; error: string }>;
+}
+
+function getExistingR2Files(): Set<string> {
+  console.log('Fetching existing files from R2...');
+  const existing = new Set<string>();
+
+  try {
+    // List all objects in the bucket with the portraits prefix
+    const result = execSync(
+      `npx wrangler r2 object list ${BUCKET_NAME} --prefix="${R2_PREFIX}" --remote`,
+      { stdio: 'pipe', maxBuffer: 50 * 1024 * 1024 }
+    ).toString();
+
+    // Parse the JSON output to extract object keys
+    const lines = result.trim().split('\n');
+    for (const line of lines) {
+      try {
+        const obj = JSON.parse(line);
+        if (obj.key) {
+          // Extract just the filename from the key (remove prefix)
+          const filename = obj.key.replace(R2_PREFIX, '');
+          existing.add(filename);
+        }
+      } catch {
+        // Skip non-JSON lines
+      }
+    }
+
+    console.log(`Found ${existing.size} existing files in R2\n`);
+  } catch (error) {
+    console.log('Could not list R2 objects, will upload all files\n');
+  }
+
+  return existing;
 }
 
 function getImageFiles(dir: string): string[] {
@@ -69,9 +104,26 @@ async function main() {
     return;
   }
 
+  // Get existing files in R2 to avoid re-uploading
+  const existingFiles = getExistingR2Files();
+
+  // Filter to only new files
+  const filesToUpload = imageFiles.filter(filePath => {
+    const filename = filePath.substring(filePath.lastIndexOf('/') + 1);
+    return !existingFiles.has(filename);
+  });
+
+  console.log(`Files to upload: ${filesToUpload.length} (skipping ${imageFiles.length - filesToUpload.length} existing)\n`);
+
+  if (filesToUpload.length === 0) {
+    console.log('All portraits already uploaded. Nothing to do.');
+    return;
+  }
+
   // Upload files
   const stats: UploadStats = {
     total: imageFiles.length,
+    skipped: imageFiles.length - filesToUpload.length,
     success: 0,
     failure: 0,
     errors: []
@@ -79,8 +131,8 @@ async function main() {
 
   console.log('Starting upload...\n');
 
-  for (let i = 0; i < imageFiles.length; i++) {
-    const filePath = imageFiles[i];
+  for (let i = 0; i < filesToUpload.length; i++) {
+    const filePath = filesToUpload[i];
     const filename = filePath.substring(filePath.lastIndexOf('/') + 1);
 
     const success = uploadToR2(filePath, filename);
@@ -95,10 +147,10 @@ async function main() {
       });
     }
 
-    // Show progress every 100 files
-    if ((i + 1) % 100 === 0) {
-      const progress = ((i + 1) / imageFiles.length * 100).toFixed(1);
-      console.log(`Progress: ${i + 1}/${imageFiles.length} (${progress}%) - Success: ${stats.success}, Failures: ${stats.failure}`);
+    // Show progress every 50 files (or every file if small batch)
+    if ((i + 1) % 50 === 0 || filesToUpload.length < 50) {
+      const progress = ((i + 1) / filesToUpload.length * 100).toFixed(1);
+      console.log(`Progress: ${i + 1}/${filesToUpload.length} (${progress}%) - Success: ${stats.success}, Failures: ${stats.failure}`);
     }
   }
 
@@ -107,9 +159,9 @@ async function main() {
   console.log('UPLOAD COMPLETE');
   console.log('='.repeat(60));
   console.log(`Total files:     ${stats.total}`);
-  console.log(`Successful:      ${stats.success}`);
+  console.log(`Already in R2:   ${stats.skipped}`);
+  console.log(`Uploaded:        ${stats.success}`);
   console.log(`Failed:          ${stats.failure}`);
-  console.log(`Success rate:    ${((stats.success / stats.total) * 100).toFixed(2)}%`);
 
   if (stats.errors.length > 0) {
     console.log('\nFailed uploads:');
