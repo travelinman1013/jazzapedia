@@ -27,8 +27,8 @@ import { marked } from 'marked';
 // ============================================================
 
 const CONFIG = {
-  artistsDir: '/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists',
-  portraitsDir: '/Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits',
+  artistsDir: process.env.ARTISTS_DIR || '/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists',
+  portraitsDir: process.env.PORTRAITS_DIR || '/Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits',
   databaseName: 'jazzapedia',
   batchSize: 50, // D1 has limits on query size
   outputDir: './sync-output',
@@ -52,6 +52,7 @@ interface ArtistData {
   image_filename: string | null;
   genres: string[];
   instruments: string[];
+  roles: string[];
   spotify_data: object | null;
   audio_profile: object | null;
   external_urls: object | null;
@@ -217,6 +218,7 @@ function parseArtistFile(filePath: string): ArtistData | null {
       image_filename: imageFilename,
       genres: Array.isArray(frontmatter.genres) ? frontmatter.genres : [],
       instruments: Array.isArray(frontmatter.instruments) ? frontmatter.instruments : [],
+      roles: Array.isArray(frontmatter.roles) ? frontmatter.roles : [],
       spotify_data: frontmatter.spotify_data || null,
       audio_profile: frontmatter.audio_profile || null,
       external_urls: frontmatter.external_urls || null,
@@ -268,7 +270,7 @@ function generateBatchSQL(artists: ArtistData[], startId: number): string {
   id, slug, title, artist_type, birth_date, death_date,
   origin, birth_place, research_sources,
   bio_html, bio_markdown, image_filename,
-  genres, instruments, spotify_data, audio_profile,
+  genres, instruments, roles, spotify_data, audio_profile,
   external_urls, musical_connections, updated_at
 ) VALUES (
   ${id},
@@ -285,6 +287,7 @@ function generateBatchSQL(artists: ArtistData[], startId: number): string {
   ${escapeSql(artist.image_filename)},
   ${escapeJson(artist.genres)},
   ${escapeJson(artist.instruments)},
+  ${escapeJson(artist.roles)},
   ${escapeJson(artist.spotify_data)},
   ${escapeJson(artist.audio_profile)},
   ${escapeJson(artist.external_urls)},
@@ -377,6 +380,46 @@ function generateInstrumentSQL(artists: ArtistData[]): string {
   return statements.join('\n');
 }
 
+/**
+ * Generate SQL for roles lookup table.
+ * Updates artist_count while preserving existing categories from migration seeds.
+ * New roles are assigned 'other' category.
+ */
+function generateRoleSQL(artists: ArtistData[]): string {
+  const roleBySlug = new Map<string, { name: string; count: number }>();
+
+  for (const artist of artists) {
+    for (const role of artist.roles) {
+      if (role && role.trim()) {
+        const slug = role.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+        if (!slug) continue;
+
+        const existing = roleBySlug.get(slug);
+        if (existing) {
+          existing.count++;
+        } else {
+          roleBySlug.set(slug, { name: role, count: 1 });
+        }
+      }
+    }
+  }
+
+  // Update artist_count for existing roles, insert new ones with 'other' category
+  // Using INSERT OR REPLACE preserves the category for existing seeded roles
+  const statements = ['-- Role lookup table updates'];
+
+  for (const [slug, data] of roleBySlug) {
+    // Use a subquery to preserve existing category, default to 'other' for new roles
+    statements.push(
+      `INSERT OR REPLACE INTO roles (name, slug, artist_count, category)
+  SELECT ${escapeSql(data.name)}, ${escapeSql(slug)}, ${data.count},
+  COALESCE((SELECT category FROM roles WHERE slug = ${escapeSql(slug)}), 'other');`
+    );
+  }
+
+  return statements.join('\n');
+}
+
 // ============================================================
 // MAIN SYNC FUNCTION
 // ============================================================
@@ -459,14 +502,17 @@ async function main() {
   // Generate lookup table SQL
   const genreSQL = generateGenreSQL(artists);
   const instrumentSQL = generateInstrumentSQL(artists);
+  const roleSQL = generateRoleSQL(artists);
 
-  // Count unique genres and instruments
+  // Count unique genres, instruments, and roles
   const uniqueGenres = new Set(artists.flatMap(a => a.genres));
   const uniqueInstruments = new Set(artists.flatMap(a => a.instruments));
+  const uniqueRoles = new Set(artists.flatMap(a => a.roles));
 
   console.log(`Generated ${batches.length} artist batches`);
   console.log(`Found ${uniqueGenres.size} unique genres`);
   console.log(`Found ${uniqueInstruments.size} unique instruments`);
+  console.log(`Found ${uniqueRoles.size} unique roles`);
   console.log('');
 
   // Write SQL files
@@ -479,8 +525,9 @@ async function main() {
 
   fs.writeFileSync(path.join(CONFIG.outputDir, 'genres.sql'), genreSQL);
   fs.writeFileSync(path.join(CONFIG.outputDir, 'instruments.sql'), instrumentSQL);
+  fs.writeFileSync(path.join(CONFIG.outputDir, 'roles.sql'), roleSQL);
 
-  console.log(`Written ${batches.length + 2} SQL files`);
+  console.log(`Written ${batches.length + 3} SQL files`);
   console.log('');
 
   if (isDryRun) {
@@ -490,6 +537,7 @@ async function main() {
     console.log(`Would execute ${batches.length} artist batch files`);
     console.log(`Would execute genres.sql (${uniqueGenres.size} genres)`);
     console.log(`Would execute instruments.sql (${uniqueInstruments.size} instruments)`);
+    console.log(`Would execute roles.sql (${uniqueRoles.size} roles)`);
     console.log(`Would rebuild FTS index`);
     console.log('');
     console.log('Review SQL files in:', path.resolve(CONFIG.outputDir));
@@ -540,6 +588,14 @@ async function main() {
     );
     console.log(' done');
 
+    process.stdout.write('  Executing roles.sql...');
+    const rolesPath = path.resolve(CONFIG.outputDir, 'roles.sql');
+    execSync(
+      `npx wrangler d1 execute ${CONFIG.databaseName} ${target} --file="${rolesPath}"`,
+      { stdio: 'pipe', cwd: process.cwd() }
+    );
+    console.log(' done');
+
     // Rebuild FTS index
     console.log('');
     process.stdout.write('  Rebuilding FTS index...');
@@ -556,6 +612,7 @@ async function main() {
     console.log(`  Artists synced: ${artists.length}`);
     console.log(`  Genres: ${uniqueGenres.size}`);
     console.log(`  Instruments: ${uniqueInstruments.size}`);
+    console.log(`  Roles: ${uniqueRoles.size}`);
     console.log(`  Batches executed: ${batches.length}`);
     console.log('');
 
