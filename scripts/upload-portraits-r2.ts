@@ -21,27 +21,40 @@ function getExistingR2Files(): Set<string> {
   console.log('Fetching existing files from R2...');
   const existing = new Set<string>();
 
-  try {
-    // List all objects in the bucket with the portraits prefix
-    const result = execSync(
-      `npx wrangler r2 object list ${BUCKET_NAME} --prefix="${R2_PREFIX}" --remote`,
-      { stdio: 'pipe', maxBuffer: 50 * 1024 * 1024 }
-    ).toString();
+  const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
+  const apiToken = process.env.CLOUDFLARE_API_TOKEN;
 
-    // Parse the JSON output to extract object keys
-    const lines = result.trim().split('\n');
-    for (const line of lines) {
-      try {
-        const obj = JSON.parse(line);
-        if (obj.key) {
-          // Extract just the filename from the key (remove prefix)
-          const filename = obj.key.replace(R2_PREFIX, '');
-          existing.add(filename);
+  if (!accountId || !apiToken) {
+    console.log('Missing CLOUDFLARE_ACCOUNT_ID or CLOUDFLARE_API_TOKEN, will upload all files\n');
+    return existing;
+  }
+
+  try {
+    let cursor: string | undefined;
+
+    // Paginate through all objects
+    do {
+      const cursorParam = cursor ? `&cursor=${cursor}` : '';
+      const result = execSync(
+        `curl -s "https://api.cloudflare.com/client/v4/accounts/${accountId}/r2/buckets/${BUCKET_NAME}/objects?prefix=${R2_PREFIX}&per_page=1000${cursorParam}" -H "Authorization: Bearer ${apiToken}"`,
+        { stdio: 'pipe', maxBuffer: 50 * 1024 * 1024 }
+      ).toString();
+
+      const data = JSON.parse(result);
+
+      if (data.success && data.result) {
+        for (const obj of data.result) {
+          if (obj.key) {
+            const filename = obj.key.replace(R2_PREFIX, '');
+            existing.add(filename);
+          }
         }
-      } catch {
-        // Skip non-JSON lines
+        cursor = data.result_info?.cursor;
+      } else {
+        console.log('API error:', data.errors?.[0]?.message || 'Unknown error');
+        break;
       }
-    }
+    } while (cursor);
 
     console.log(`Found ${existing.size} existing files in R2\n`);
   } catch (error) {
