@@ -2,12 +2,13 @@
 /**
  * Artists Index - Enhanced with Jazz Club Aesthetic
  * Features: search/filter, improved A-Z navigation, keyboard shortcuts
- * Uses D1 database for SSR
+ * Uses D1/SQLite database for SSR
  */
 import Layout from '../../layouts/Layout.astro';
+import { getDatabase } from '../../lib/db';
 
-// Access D1 from runtime env
-const db = Astro.locals.runtime?.env?.DB;
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
 
 // Set cache headers
 Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');

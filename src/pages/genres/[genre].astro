@@ -1,13 +1,13 @@
 ---
 /**
  * Genre Detail Page - Show artists in a specific genre
- * Uses D1 database for SSR
+ * Uses D1/SQLite database for SSR
  */
 import Layout from '../../layouts/Layout.astro';
+import { getDatabase } from '../../lib/db';
 
-// Access D1 from runtime env
-const db = Astro.locals.runtime?.env?.DB;
-const R2_URL = Astro.locals.runtime?.env?.R2_PUBLIC_URL || 'https://media.jazzapedia.com';
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
 
 // Set cache headers
 Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');

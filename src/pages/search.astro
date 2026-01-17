@@ -1,14 +1,14 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import ArtistCard from '../components/jazz/ArtistCard.astro';
+import { getDatabase, getPortraitUrl } from '../lib/db';
 
 // Get search query from URL
 const query = Astro.url.searchParams.get('q') || '';
 const trimmedQuery = query.trim();
 
-// Access D1 and R2 from runtime env
-const db = Astro.locals.runtime?.env?.DB;
-const R2_URL = Astro.locals.runtime?.env?.R2_PUBLIC_URL || 'https://media.jazzapedia.com';
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
 
 interface SearchResult {
   slug: string;
@@ -120,7 +120,7 @@ function parseGenres(genresJson: string | null): string[] {
                 <ArtistCard
                   name={result.title}
                   slug={result.slug}
-                  portrait={result.image_filename ? `${R2_URL}/portraits/${result.image_filename}` : undefined}
+                  portrait={getPortraitUrl(Astro.locals, result.image_filename)}
                   genres={parseGenres(result.genres)}
                   artistType={result.artist_type || undefined}
                 />

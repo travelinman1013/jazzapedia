@@ -1,9 +1,14 @@
 ---
-// Server-side random artist redirect using D1
-// Queries D1 for a random artist slug and redirects immediately
+// Server-side random artist redirect using D1/SQLite
+// Queries database for a random artist slug and redirects immediately
+import { getDatabase } from '../lib/db';
 
-// Get runtime environment (D1 binding)
-const db = Astro.locals.runtime.env.DB;
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
+
+if (!db) {
+  return Astro.redirect('/artists');
+}
 
 // Query D1 for a random artist slug
 const result = await db.prepare(

@@ -1,13 +1,14 @@
 ---
 /**
  * WWOZ Playlist Page - Shows tracks played on a specific date
- * Uses D1 database for artist matching
+ * Uses D1/SQLite database for artist matching
  */
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import { getDatabase } from '../../lib/db';
 
-// Access D1 from runtime env
-const db = Astro.locals.runtime?.env?.DB;
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
 
 // Set cache headers
 Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');

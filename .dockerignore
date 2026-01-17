@@ -1,0 +1,60 @@
+# Docker ignore file for Jazzapedia
+# Exclude files not needed in the Docker build context
+
+# Git
+.git
+.gitignore
+
+# Dependencies (will be installed fresh in container)
+node_modules
+
+# Build output (will be built fresh in container)
+dist
+.astro
+
+# Local development files
+.wrangler
+.dev.vars
+.env
+.env.local
+.env.*.local
+
+# Data files (mounted as volumes, not copied into image)
+data/
+portraits/
+content-deploy/
+
+# IDE and editor files
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation
+*.md
+!README.md
+
+# Test files
+*.test.*
+*.spec.*
+__tests__
+
+# Sync output (generated files)
+sync-output/
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Temporary files
+tmp/
+temp/
+*.tmp

@@ -2,20 +2,26 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import cloudflare from '@astrojs/cloudflare';
+import node from '@astrojs/node';
+
+// Check if we're building for Docker
+const isDocker = process.env.DEPLOY_TARGET === 'docker';
 
 // https://astro.build/config
 export default defineConfig({
   // Switch from static to server-side rendering
   output: 'server',
 
-  // Cloudflare Workers adapter
-  adapter: cloudflare({
-    mode: 'directory',
-    // Access D1, R2, KV bindings via runtime
-    platformProxy: {
-      enabled: true,
-    },
-  }),
+  // Conditional adapter based on deployment target
+  adapter: isDocker
+    ? node({ mode: 'standalone' })
+    : cloudflare({
+        mode: 'directory',
+        // Access D1, R2, KV bindings via runtime
+        platformProxy: {
+          enabled: true,
+        },
+      }),
 
   site: 'https://jazzapedia.com',
 
@@ -52,8 +58,10 @@ export default defineConfig({
       },
     ],
     ssr: {
-      // Externalize Node.js built-ins for Cloudflare compatibility
-      external: ['node:path', 'node:fs', 'node:url'],
+      // Externalize dependencies based on deployment target
+      external: isDocker
+        ? ['better-sqlite3'] // Node.js mode: externalize native modules
+        : ['node:path', 'node:fs', 'node:url'], // Cloudflare mode: externalize Node built-ins
     },
   },
 

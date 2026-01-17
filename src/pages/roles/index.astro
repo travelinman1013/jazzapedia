@@ -1,12 +1,13 @@
 ---
 /**
  * Roles Index - Browse all artist roles
- * Uses D1 database for data
+ * Uses D1/SQLite database for data
  */
 import Layout from '../../layouts/Layout.astro';
+import { getDatabase } from '../../lib/db';
 
-// Access D1 from runtime env
-const db = Astro.locals.runtime?.env?.DB;
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
 
 // Set cache headers
 Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');

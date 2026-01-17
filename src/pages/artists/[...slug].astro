@@ -1,13 +1,14 @@
 ---
 /**
- * Artist Detail Page - SSR with D1 Database
- * Fetches artist data from Cloudflare D1 instead of content collection
+ * Artist Detail Page - SSR with D1/SQLite Database
+ * Fetches artist data from database instead of content collection
  */
 import WikiArticle from '../../layouts/WikiArticle.astro';
 import ConnectionGraph from '../../components/artist/ConnectionGraph.astro';
 import WWOZPlays from '../../components/artist/WWOZPlays.astro';
 import { getWWOZPlaysForArtist } from '../../lib/wwoz';
 import connectionsIndex from '../../data/connections-index.json';
+import { getDatabase } from '../../lib/db';
 
 // Get the slug from params
 const { slug } = Astro.params;
@@ -16,13 +17,12 @@ if (!slug) {
   return Astro.redirect('/artists');
 }
 
-// Get D1 database from Cloudflare runtime
-const runtime = Astro.locals.runtime;
-const db = runtime?.env?.DB;
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
 
 if (!db) {
-  // Fallback for local dev without D1 - redirect to artist list
-  console.error('D1 database not available');
+  // Fallback if database not available - redirect to artist list
+  console.error('Database not available');
   return Astro.redirect('/artists');
 }
 

@@ -282,6 +282,85 @@ npx tsx scripts/upload-portraits-r2.ts        # Upload portraits to R2
 - Keep `pages_build_output_dir = "dist"` - required for D1 bindings
 - D1 binding must use `binding = "DB"` to match code expectations
 
+## Docker Containerization
+
+The site can run in Docker with a local SQLite database instead of Cloudflare D1.
+
+### Architecture
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                   Docker Compose                          │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │              nginx (port 80)                        │  │
+│  │   /portraits/* → static files                       │  │
+│  │   /*          → proxy to Astro                      │  │
+│  └─────────────────────┬──────────────────────────────┘  │
+│                        │                                  │
+│  ┌─────────────────────▼──────────────────────────────┐  │
+│  │            jazzapedia (port 4321)                   │  │
+│  │           Astro SSR + @astrojs/node                 │  │
+│  │           + better-sqlite3                          │  │
+│  └─────────────────────────────────────────────────────┘  │
+│                                                           │
+│  Volumes:                                                 │
+│   ./data/jazzapedia.db  (SQLite database)                │
+│   ./portraits/          (4,000+ artist images)           │
+└───────────────────────────────────────────────────────────┘
+```
+
+### Quick Start
+
+```bash
+# 1. Sync artist data to SQLite
+npm run sync:sqlite
+
+# 2. Sync portrait images
+rsync -av /path/to/vault/ArtistPortraits/ ./portraits/
+
+# 3. Build and run
+docker-compose up -d --build
+
+# Site available at http://localhost
+```
+
+### Docker Commands
+
+```bash
+npm run docker:build    # Build containers
+npm run docker:up       # Start containers
+npm run docker:down     # Stop containers
+npm run docker:logs     # View logs
+
+npm run sync:sqlite     # Sync artists to SQLite
+npm run sync:sqlite:dry-run  # Preview sync
+```
+
+### Key Files
+
+- `Dockerfile` - Multi-stage build (Node.js + better-sqlite3)
+- `docker-compose.yml` - App + nginx orchestration
+- `nginx.conf` - Reverse proxy with portrait caching
+- `src/lib/db.ts` - Database abstraction layer (D1 + SQLite)
+- `scripts/sync-to-sqlite.ts` - Direct SQLite sync
+
+### Environment Variable
+
+Set `DEPLOY_TARGET=docker` to use SQLite instead of D1. This switches:
+- Astro adapter from `@astrojs/cloudflare` to `@astrojs/node`
+- Database from D1 bindings to better-sqlite3
+- Portrait URLs from R2 to local `/portraits/` path
+
+### Database Abstraction
+
+Pages use `getDatabase()` which returns the appropriate adapter:
+
+```typescript
+import { getDatabase } from '../lib/db';
+const db = await getDatabase(Astro.locals);
+const result = await db.prepare('SELECT * FROM artists').all();
+```
+
 ## Spotify Metadata Enrichment
 
 A local Spotify database (Anna's Archive dump) is available for enriching artist data:

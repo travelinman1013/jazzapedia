@@ -8,10 +8,10 @@ import Layout from '../layouts/Layout.astro';
 import StatBox from '../components/jazz/StatBox.astro';
 import ArtistCard from '../components/jazz/ArtistCard.astro';
 import GenreBadge from '../components/jazz/GenreBadge.astro';
+import { getDatabase, getPortraitUrl } from '../lib/db';
 
-// Access D1 from runtime env
-const db = Astro.locals.runtime?.env?.DB;
-const R2_URL = Astro.locals.runtime?.env?.R2_PUBLIC_URL || 'https://media.jazzapedia.com';
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
 
 // Set cache headers (shorter for homepage with random content)
 Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-revalidate=3600');
@@ -116,8 +116,7 @@ function parseJson(json: string | null, fallback: any): any {
 const formatNumber = (num: number) => num.toLocaleString();
 
 const getPortrait = (artist: Artist) => {
-  if (!artist.image_filename) return undefined;
-  return `${R2_URL}/portraits/${artist.image_filename}`;
+  return getPortraitUrl(Astro.locals, artist.image_filename);
 };
 
 const getArtistType = (artist: Artist): string | undefined => {
