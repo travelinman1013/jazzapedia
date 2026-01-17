@@ -360,11 +360,3 @@ import { getDatabase } from '../lib/db';
 const db = await getDatabase(Astro.locals);
 const result = await db.prepare('SELECT * FROM artists').all();
 ```
-
-## Spotify Metadata Enrichment
-
-A local Spotify database (Anna's Archive dump) is available for enriching artist data:
-
-**Database Location:** `/Volumes/the-eagle/spotify_metadata/annas_archive_spotify_2025_07_metadata/`
-
-See `~/.claude/skills/spotify-metadata.md` for full database schema and query examples.
