@@ -45,6 +45,10 @@
           <span class="palette-item-icon">&#127927;</span>
           <span class="palette-item-text">Browse Roles</span>
         </a>
+        <a href="/instruments" class="palette-item" data-palette-item>
+          <span class="palette-item-icon">&#127928;</span>
+          <span class="palette-item-text">Browse Instruments</span>
+        </a>
         <a href="/random" class="palette-item" data-palette-item>
           <span class="palette-item-icon">&#127922;</span>
           <span class="palette-item-text">Random Artist</span>
@@ -615,6 +619,8 @@
             icon = '&#127926;';
           } else if (result.url?.includes('/roles/')) {
             icon = '&#127927;';
+          } else if (result.url?.includes('/instruments/')) {
+            icon = '&#127928;';
           }
 
           return `

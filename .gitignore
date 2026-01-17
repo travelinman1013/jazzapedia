@@ -43,3 +43,24 @@ public/pagefind/
 *.temp
 apikeydeployment.txt
 logs/
+
+# Local development state
+.wrangler/
+.playwright-mcp/
+
+# Script output directories
+sync-output/
+backfill-output/
+enrichment-output/
+backups/
+
+# Working documents (not for repo)
+HANDOFF-*.md
+PLAN-*.md
+prompts/
+
+# Misc
+process_batch.js
+
+# Archived scripts
+archived-scripts/
