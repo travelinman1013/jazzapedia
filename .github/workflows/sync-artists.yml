@@ -1,6 +1,10 @@
 name: Sync Artists to Jazzapedia
 
 on:
+  # Run daily at 5am Central Time (11:00 UTC)
+  schedule:
+    - cron: '0 11 * * *'
+  # Allow manual triggers
   workflow_dispatch:
     inputs:
       sync_d1:
@@ -24,7 +28,7 @@ jobs:
   sync-to-d1:
     name: Sync Artists to D1
     runs-on: ubuntu-latest
-    if: ${{ inputs.sync_d1 }}
+    if: ${{ github.event_name == 'schedule' || inputs.sync_d1 }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -44,7 +48,7 @@ jobs:
           echo "Found $ARTIST_COUNT artist files to sync"
 
       - name: Sync to D1 (incremental)
-        if: ${{ !inputs.full_sync }}
+        if: ${{ github.event_name == 'schedule' || !inputs.full_sync }}
         run: npx tsx scripts/sync-incremental.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -53,7 +57,7 @@ jobs:
           PORTRAITS_DIR: ./content-deploy/portraits
 
       - name: Sync to D1 (full)
-        if: ${{ inputs.full_sync }}
+        if: ${{ github.event_name != 'schedule' && inputs.full_sync }}
         run: npx tsx scripts/sync-to-d1.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -64,7 +68,7 @@ jobs:
   upload-portraits:
     name: Upload Portraits to R2
     runs-on: ubuntu-latest
-    if: ${{ inputs.upload_portraits && !inputs.dry_run }}
+    if: ${{ github.event_name == 'schedule' || (inputs.upload_portraits && !inputs.dry_run) }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
