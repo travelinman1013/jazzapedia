@@ -588,13 +588,17 @@ async function main() {
     );
     console.log(' done');
 
-    process.stdout.write('  Executing roles.sql...');
-    const rolesPath = path.resolve(CONFIG.outputDir, 'roles.sql');
-    execSync(
-      `npx wrangler d1 execute ${CONFIG.databaseName} ${target} --file="${rolesPath}"`,
-      { stdio: 'pipe', cwd: process.cwd() }
-    );
-    console.log(' done');
+    if (uniqueRoles.size > 0) {
+      process.stdout.write('  Executing roles.sql...');
+      const rolesPath = path.resolve(CONFIG.outputDir, 'roles.sql');
+      execSync(
+        `npx wrangler d1 execute ${CONFIG.databaseName} ${target} --file="${rolesPath}"`,
+        { stdio: 'pipe', cwd: process.cwd() }
+      );
+      console.log(' done');
+    } else {
+      console.log('  Skipping roles.sql (no roles found)');
+    }
 
     // Rebuild FTS index
     console.log('');
