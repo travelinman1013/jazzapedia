@@ -42,7 +42,8 @@ public/pagefind/
 *.tmp
 *.temp
 apikeydeployment.txt
-logs/
+logs/*
+!logs/.gitkeep
 
 # Local development state
 .wrangler/

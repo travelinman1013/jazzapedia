@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Unique identifier for this launchd job -->
+    <key>Label</key>
+    <string>com.jazzapedia.daily-sync</string>
+
+    <!-- Script to run -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/maxwell/Projects/artistWiki_Web/scripts/unified-daily-sync.sh</string>
+    </array>
+
+    <!-- Schedule: 4:30am CT (10:30 UTC during CST, 9:30 UTC during CDT) -->
+    <!-- Note: macOS uses local time, so this is 4:30am Central Time -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>4</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+    </dict>
+
+    <!-- Working directory -->
+    <key>WorkingDirectory</key>
+    <string>/Users/maxwell/Projects/artistWiki_Web</string>
+
+    <!-- Logging -->
+    <key>StandardOutPath</key>
+    <string>/Users/maxwell/Projects/artistWiki_Web/logs/launchd-stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/maxwell/Projects/artistWiki_Web/logs/launchd-stderr.log</string>
+
+    <!-- Environment variables -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <!-- Include common paths for node, npm, npx, docker -->
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+        <!-- Home directory (needed for some tools) -->
+        <key>HOME</key>
+        <string>/Users/maxwell</string>
+    </dict>
+
+    <!-- Run if computer was asleep at scheduled time -->
+    <key>StartCalendarIntervalAllowsNext</key>
+    <true/>
+
+    <!-- Keep job loaded even if it exits -->
+    <key>KeepAlive</key>
+    <false/>
+
+    <!-- Don't run at load time (only on schedule) -->
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
