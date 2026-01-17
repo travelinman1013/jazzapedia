@@ -220,6 +220,8 @@ function escapeJson(obj: any): string {
 }
 
 function generateArtistSQL(artist: ArtistData): string {
+  // Insert artist first, then use subquery to get the id for search_index
+  // This avoids FOREIGN KEY constraint issues
   return `INSERT OR REPLACE INTO artists (
   slug, title, artist_type, birth_date, death_date,
   origin, birth_place, research_sources,
@@ -249,14 +251,15 @@ function generateArtistSQL(artist: ArtistData): string {
   datetime('now')
 );
 
-INSERT OR REPLACE INTO search_index (slug, title, bio_text, genres_text, instruments_text)
-VALUES (
+INSERT OR REPLACE INTO search_index (id, slug, title, bio_text, genres_text, instruments_text)
+SELECT
+  id,
   ${escapeSql(artist.slug)},
   ${escapeSql(artist.title)},
   ${escapeSql(artist.bio_text)},
   ${escapeSql(artist.genres.join(', '))},
   ${escapeSql(artist.instruments.join(', '))}
-);`;
+FROM artists WHERE slug = ${escapeSql(artist.slug)};`;
 }
 
 // ============================================================
