@@ -2,8 +2,9 @@
 /**
  * Incremental Sync: Only sync new/modified artists to D1
  *
- * This script compares file modification times against D1 updated_at
- * and only processes artists that have changed.
+ * This script compares file content hashes against D1 content_hash column
+ * and only processes artists that have changed. Works reliably in CI
+ * where file modification times are not preserved.
  *
  * Usage:
  *   npx tsx scripts/sync-incremental.ts --local          # Sync to local D1
@@ -14,11 +15,12 @@
  *   --local     Sync to local D1 database (default)
  *   --remote    Sync to production D1 database
  *   --dry-run   Show what would be synced without making changes
- *   --force     Force sync all artists (ignore timestamps)
+ *   --force     Force sync all artists (ignore hashes)
  */
 
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { execSync } from 'node:child_process';
 import matter from 'gray-matter';
 import { marked } from 'marked';
@@ -59,11 +61,7 @@ interface ArtistData {
   external_urls: object | null;
   musical_connections: object | null;
   research_sources: string[];
-}
-
-interface D1Artist {
-  slug: string;
-  updated_at: string;
+  content_hash: string;
 }
 
 // ============================================================
@@ -77,6 +75,11 @@ function generateSlug(filename: string): string {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/-+/g, '-')
     .replace(/^-+|-+$/g, '');
+}
+
+function computeFileHash(filePath: string): string {
+  const content = fs.readFileSync(filePath, 'utf-8');
+  return crypto.createHash('md5').update(content).digest('hex');
 }
 
 function stripHtml(html: string): string {
@@ -142,6 +145,7 @@ function findPortraitFile(slug: string, title: string): string | null {
 function parseArtistFile(filePath: string): ArtistData | null {
   try {
     const content = fs.readFileSync(filePath, 'utf-8');
+    const contentHash = crypto.createHash('md5').update(content).digest('hex');
     const { data: frontmatter, content: markdown } = matter(content);
 
     const filename = path.basename(filePath);
@@ -192,6 +196,7 @@ function parseArtistFile(filePath: string): ArtistData | null {
       external_urls: frontmatter.external_urls || null,
       musical_connections: frontmatter.musical_connections || null,
       research_sources: researchSources,
+      content_hash: contentHash,
     };
   } catch (error) {
     console.error(`Error parsing ${filePath}:`, error);
@@ -220,7 +225,7 @@ function generateArtistSQL(artist: ArtistData): string {
   origin, birth_place, research_sources,
   bio_html, bio_markdown, image_filename,
   genres, instruments, roles, spotify_data, audio_profile,
-  external_urls, musical_connections, updated_at
+  external_urls, musical_connections, content_hash, updated_at
 ) VALUES (
   ${escapeSql(artist.slug)},
   ${escapeSql(artist.title)},
@@ -240,6 +245,7 @@ function generateArtistSQL(artist: ArtistData): string {
   ${escapeJson(artist.audio_profile)},
   ${escapeJson(artist.external_urls)},
   ${escapeJson(artist.musical_connections)},
+  ${escapeSql(artist.content_hash)},
   datetime('now')
 );
 
@@ -271,23 +277,18 @@ function queryD1(target: string, command: string): any {
   }
 }
 
-function getExistingArtists(target: string): Map<string, Date> {
-  console.log('Fetching existing artists from D1...');
+function getExistingHashes(target: string): Map<string, string | null> {
+  console.log('Fetching existing content hashes from D1...');
 
-  const results: D1Artist[] = queryD1(target, 'SELECT slug, updated_at FROM artists');
-  const artistMap = new Map<string, Date>();
+  const results = queryD1(target, 'SELECT slug, content_hash FROM artists');
+  const hashMap = new Map<string, string | null>();
 
   for (const row of results) {
-    if (row.updated_at) {
-      artistMap.set(row.slug, new Date(row.updated_at));
-    } else {
-      // If no updated_at, treat as very old
-      artistMap.set(row.slug, new Date(0));
-    }
+    hashMap.set(row.slug, row.content_hash || null);
   }
 
-  console.log(`Found ${artistMap.size} existing artists in D1`);
-  return artistMap;
+  console.log(`Found ${hashMap.size} existing artists in D1`);
+  return hashMap;
 }
 
 // ============================================================
@@ -302,38 +303,41 @@ async function main() {
   const target = isRemote ? '--remote' : '--local';
 
   console.log('='.repeat(60));
-  console.log('Jazzapedia Incremental Sync');
+  console.log('Jazzapedia Incremental Sync (Content Hash)');
   console.log('='.repeat(60));
   console.log(`Target: ${isRemote ? 'PRODUCTION (remote)' : 'LOCAL (development)'}`);
   console.log(`Dry run: ${isDryRun ? 'YES' : 'NO'}`);
   console.log(`Force all: ${forceAll ? 'YES' : 'NO'}`);
   console.log('');
 
-  // Get existing artists from D1
-  const existingArtists = forceAll ? new Map<string, Date>() : getExistingArtists(target);
+  // Get existing content hashes from D1
+  const existingHashes = forceAll ? new Map<string, string | null>() : getExistingHashes(target);
 
-  // Scan vault files
+  // Scan vault files and compute hashes
   console.log(`\nScanning ${CONFIG.artistsDir}...`);
   const allFiles = fs.readdirSync(CONFIG.artistsDir);
   const mdFiles = allFiles.filter(f => f.endsWith('.md') && !f.startsWith('.'));
   console.log(`Found ${mdFiles.length} markdown files`);
 
-  // Compare file mtimes with D1 updated_at
+  // Compare file hashes with D1 hashes
+  console.log('\nComparing content hashes...');
   const filesToSync: { file: string; reason: 'new' | 'modified' }[] = [];
 
   for (const file of mdFiles) {
     const slug = generateSlug(file);
     const filePath = path.join(CONFIG.artistsDir, file);
-    const stats = fs.statSync(filePath);
-    const fileMtime = stats.mtime;
+    const fileHash = computeFileHash(filePath);
 
-    const d1UpdatedAt = existingArtists.get(slug);
+    const d1Hash = existingHashes.get(slug);
 
-    if (!d1UpdatedAt) {
+    if (d1Hash === undefined) {
+      // Slug not in D1 - new artist
       filesToSync.push({ file, reason: 'new' });
-    } else if (fileMtime > d1UpdatedAt) {
+    } else if (d1Hash !== fileHash) {
+      // Hash differs - content changed
       filesToSync.push({ file, reason: 'modified' });
     }
+    // else: hashes match, skip
   }
 
   const newCount = filesToSync.filter(f => f.reason === 'new').length;
@@ -378,7 +382,7 @@ async function main() {
   let errors = 0;
   const batchStatements: string[] = [];
 
-  for (const { file, reason } of filesToSync) {
+  for (const { file } of filesToSync) {
     const filePath = path.join(CONFIG.artistsDir, file);
     const artist = parseArtistFile(filePath);
 

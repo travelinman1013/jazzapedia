@@ -18,6 +18,7 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { execSync } from 'node:child_process';
 import matter from 'gray-matter';
 import { marked } from 'marked';
@@ -58,6 +59,7 @@ interface ArtistData {
   external_urls: object | null;
   musical_connections: object | null;
   research_sources: string[];
+  content_hash: string; // MD5 hash of file content for incremental sync
 }
 
 interface SyncStats {
@@ -167,6 +169,7 @@ function findPortraitFile(slug: string, title: string): string | null {
 function parseArtistFile(filePath: string): ArtistData | null {
   try {
     const content = fs.readFileSync(filePath, 'utf-8');
+    const contentHash = crypto.createHash('md5').update(content).digest('hex');
     const { data: frontmatter, content: markdown } = matter(content);
 
     const filename = path.basename(filePath);
@@ -224,6 +227,7 @@ function parseArtistFile(filePath: string): ArtistData | null {
       external_urls: frontmatter.external_urls || null,
       musical_connections: frontmatter.musical_connections || null,
       research_sources: researchSources,
+      content_hash: contentHash,
     };
   } catch (error) {
     console.error(`Error parsing ${filePath}:`, error);
@@ -271,7 +275,7 @@ function generateBatchSQL(artists: ArtistData[], startId: number): string {
   origin, birth_place, research_sources,
   bio_html, bio_markdown, image_filename,
   genres, instruments, roles, spotify_data, audio_profile,
-  external_urls, musical_connections, updated_at
+  external_urls, musical_connections, content_hash, updated_at
 ) VALUES (
   ${id},
   ${escapeSql(artist.slug)},
@@ -292,6 +296,7 @@ function generateBatchSQL(artists: ArtistData[], startId: number): string {
   ${escapeJson(artist.audio_profile)},
   ${escapeJson(artist.external_urls)},
   ${escapeJson(artist.musical_connections)},
+  ${escapeSql(artist.content_hash)},
   datetime('now')
 );`);
 
