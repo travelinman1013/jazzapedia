@@ -212,11 +212,123 @@ GitHub Actions workflow (`.github/workflows/deploy.yml`) runs on push to master:
 
 **Note:** Code deploys automatically. Database syncs can be triggered via GitHub Actions (see below).
 
-## Automated Artist Sync
+## Automated Daily Sync
+
+The system automatically syncs new artists daily at 5am CT to both Docker (SQLite) and Cloudflare (D1/R2).
+
+### Architecture
+
+```
+                    4:30am CT (launchd)
+                           │
+                           ▼
+            ┌─────────────────────────────┐
+            │   unified-daily-sync.sh     │
+            └─────────────────────────────┘
+                           │
+       ┌───────────────────┼───────────────────┐
+       │                   │                   │
+       ▼                   ▼                   ▼
+   Vault → Git      Vault → SQLite         Portraits rsync
+   (auto-sync)      (INCREMENTAL)          (only new files)
+       │                   │                   │
+       ▼                   ▼                   ▼
+   Git push        ./data/jazzapedia.db   ./portraits/
+       │                   │                   │
+       ▼                   └─────────┬─────────┘
+   5:00am CT                        │
+   GitHub Actions                   ▼
+   (D1 incremental)    docker-compose restart
+       │                  (only if changes)
+       ▼
+   D1 + R2 (Cloudflare)
+```
+
+### Daily Sync Timeline
+
+- **4:30am CT**: `unified-daily-sync.sh` runs via launchd
+  - Syncs vault → content-deploy → git push (triggers GitHub Actions)
+  - Syncs vault → SQLite (incremental, content-hash based)
+  - Syncs portraits for Docker
+  - Restarts Docker container if changes detected
+- **5:00am CT**: GitHub Actions runs D1 incremental sync + R2 upload
+
+### Sync Commands
+
+```bash
+# Incremental syncs (only new/modified artists)
+npm run sync:incr:sqlite          # Sync to SQLite (Docker)
+npm run sync:incr:remote          # Sync to D1 (Cloudflare)
+
+# Full syncs (all artists)
+npm run sync:sqlite               # Full SQLite sync
+npm run sync:remote               # Full D1 sync
+
+# Orchestrated sync (both Docker + Cloudflare)
+npm run sync:all                  # Run unified daily sync
+npm run sync:all -- --dry-run     # Preview only
+npm run sync:all -- --skip-git    # Skip git push (SQLite only)
+
+# Verification
+npm run sync:verify               # Compare counts across vault/SQLite/D1
+```
+
+### Incremental Sync
+
+Both D1 and SQLite use content-hash based incremental sync:
+- Computes MD5 hash of each markdown file
+- Compares against `content_hash` column in database
+- Only syncs new or modified artists
+- Much faster than full sync (~2s vs ~30s for typical daily updates)
+
+### launchd Configuration
+
+The daily sync is scheduled via macOS launchd:
+
+```bash
+# Load the scheduler
+cp scripts/com.jazzapedia.daily-sync.plist ~/Library/LaunchAgents/
+launchctl load ~/Library/LaunchAgents/com.jazzapedia.daily-sync.plist
+
+# Check status
+launchctl list | grep jazzapedia
+
+# Manual trigger
+launchctl start com.jazzapedia.daily-sync
+
+# Unload
+launchctl unload ~/Library/LaunchAgents/com.jazzapedia.daily-sync.plist
+```
+
+### Key Sync Scripts
+
+| Script | Purpose |
+|--------|---------|
+| `scripts/unified-daily-sync.sh` | Master orchestrator for daily sync |
+| `scripts/sync-incremental-sqlite.ts` | Incremental SQLite sync |
+| `scripts/sync-incremental.ts` | Incremental D1 sync |
+| `scripts/sync-to-sqlite.ts` | Full SQLite sync |
+| `scripts/sync-to-d1.ts` | Full D1 sync |
+| `scripts/verify-sync.sh` | Health check across all databases |
+| `scripts/auto-sync-vault.sh` | Vault → git sync |
+
+## GitHub Actions Sync
 
 A GitHub Actions workflow (`.github/workflows/sync-artists.yml`) syncs new artists to D1 and uploads portraits to R2.
 
-### Adding New Artists (Full Workflow)
+### Schedule
+
+- **Daily at 5:00am CT** (11:00 UTC) - Automatic incremental sync
+- **Manual trigger** via GitHub Actions UI (workflow_dispatch)
+
+### Workflow Features
+
+- **Incremental sync**: Only syncs new/modified artists (content-hash based)
+- **Full sync option**: Available via manual trigger
+- **R2 upload**: Uploads new portraits only (skips existing files)
+- **Dry-run option**: Preview changes without applying
+
+### Adding New Artists (Manual Workflow)
 
 ```bash
 # 1. Run artist discovery pipeline (generates new markdown in Obsidian vault)
@@ -229,16 +341,9 @@ git add content-deploy
 git commit -m "Add new artists"
 git push
 
-# 4. Trigger sync via GitHub Actions
+# 4. GitHub Actions will sync automatically, or trigger manually:
 # Go to: GitHub > Actions > "Sync Artists to Jazzapedia" > Run workflow
 ```
-
-### Workflow Features
-
-- **Manual trigger** via GitHub Actions UI (workflow_dispatch)
-- **D1 sync**: Syncs artist markdown from `content-deploy/artists/` to production D1
-- **R2 upload**: Uploads new portraits only (incremental - skips existing files)
-- **Dry-run option**: Preview changes without applying
 
 ### Environment Variables
 
@@ -332,8 +437,13 @@ npm run docker:up       # Start containers
 npm run docker:down     # Stop containers
 npm run docker:logs     # View logs
 
-npm run sync:sqlite     # Sync artists to SQLite
-npm run sync:sqlite:dry-run  # Preview sync
+# Database sync
+npm run sync:sqlite              # Full sync to SQLite
+npm run sync:incr:sqlite         # Incremental sync (faster, recommended)
+npm run sync:incr:sqlite:dry-run # Preview incremental changes
+
+# Unified sync (SQLite + portraits + container restart)
+npm run sync:all -- --skip-git   # Sync without git push
 ```
 
 ### Key Files
@@ -342,7 +452,9 @@ npm run sync:sqlite:dry-run  # Preview sync
 - `docker-compose.yml` - App + nginx orchestration
 - `nginx.conf` - Reverse proxy with portrait caching
 - `src/lib/db.ts` - Database abstraction layer (D1 + SQLite)
-- `scripts/sync-to-sqlite.ts` - Direct SQLite sync
+- `scripts/sync-to-sqlite.ts` - Full SQLite sync
+- `scripts/sync-incremental-sqlite.ts` - Incremental SQLite sync (recommended)
+- `scripts/unified-daily-sync.sh` - Daily sync orchestrator
 
 ### Environment Variable
 
