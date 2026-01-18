@@ -8,9 +8,10 @@
 
 set -e
 
-PROJECT_DIR="/Users/maxwell/Projects/artistWiki_Web"
+REPO_ROOT="/Users/maxwell/Projects/jazzapedia"
+WEB_DIR="$REPO_ROOT/apps/web"
 VAULT_ARTISTS="/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists"
-SQLITE_DB="$PROJECT_DIR/data/jazzapedia.db"
+SQLITE_DB="$REPO_ROOT/data/jazzapedia.db"
 
 VERBOSE=false
 for arg in "$@"; do
@@ -21,7 +22,7 @@ for arg in "$@"; do
   esac
 done
 
-cd "$PROJECT_DIR"
+cd "$WEB_DIR"
 
 echo "============================================================"
 echo "Jazzapedia Sync Verification"
@@ -29,11 +30,11 @@ echo "============================================================"
 echo ""
 
 # ============================================================
-# Count vault files
+# Count vault files (exclude timestamped backups)
 # ============================================================
 
 if [ -d "$VAULT_ARTISTS" ]; then
-  VAULT_COUNT=$(find "$VAULT_ARTISTS" -name "*.md" ! -name ".*" ! -path "*.backup*" | wc -l | tr -d ' ')
+  VAULT_COUNT=$(find "$VAULT_ARTISTS" -name "*.md" ! -name ".*" ! -name "*_20[0-9][0-9][0-9][0-9][0-9][0-9]_*.md" | wc -l | tr -d ' ')
   echo "Vault files:         $VAULT_COUNT"
 else
   VAULT_COUNT=0
@@ -41,8 +42,8 @@ else
 fi
 
 # Also check content-deploy
-if [ -d "$PROJECT_DIR/content-deploy/artists" ]; then
-  CONTENT_DEPLOY_COUNT=$(find "$PROJECT_DIR/content-deploy/artists" -name "*.md" | wc -l | tr -d ' ')
+if [ -d "$WEB_DIR/content-deploy/artists" ]; then
+  CONTENT_DEPLOY_COUNT=$(find "$WEB_DIR/content-deploy/artists" -name "*.md" | wc -l | tr -d ' ')
   echo "content-deploy:      $CONTENT_DEPLOY_COUNT"
 else
   CONTENT_DEPLOY_COUNT=0
@@ -64,7 +65,7 @@ if [ -f "$SQLITE_DB" ]; then
   fi
 else
   SQLITE_COUNT=0
-  echo "SQLite artists:      (database not found)"
+  echo "SQLite artists:      (database not found at $SQLITE_DB)"
 fi
 
 # ============================================================
@@ -95,8 +96,8 @@ fi
 # ============================================================
 
 echo ""
-if [ -d "$PROJECT_DIR/portraits" ]; then
-  LOCAL_PORTRAITS=$(find "$PROJECT_DIR/portraits" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.webp" \) | wc -l | tr -d ' ')
+if [ -d "$REPO_ROOT/portraits" ]; then
+  LOCAL_PORTRAITS=$(find "$REPO_ROOT/portraits" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.webp" \) | wc -l | tr -d ' ')
   echo "Local portraits:     $LOCAL_PORTRAITS"
 else
   LOCAL_PORTRAITS=0
@@ -110,7 +111,7 @@ fi
 echo ""
 echo "Docker status:"
 if command -v docker &> /dev/null; then
-  CONTAINER_STATUS=$(docker ps --filter "name=jazzapedia-app" --format "{{.Status}}" 2>/dev/null || echo "")
+  CONTAINER_STATUS=$(docker ps --filter "name=jazzapedia-web" --format "{{.Status}}" 2>/dev/null || echo "")
   if [ -n "$CONTAINER_STATUS" ]; then
     echo "  Container:         Running ($CONTAINER_STATUS)"
   else
@@ -195,8 +196,8 @@ fi
 
 echo ""
 echo "Last sync logs:"
-if [ -d "$PROJECT_DIR/logs" ]; then
-  ls -lt "$PROJECT_DIR/logs"/unified-sync-*.log 2>/dev/null | head -3 || echo "  (no logs found)"
+if [ -d "$WEB_DIR/logs" ]; then
+  ls -lt "$WEB_DIR/logs"/sync-*.log 2>/dev/null | head -3 || echo "  (no logs found)"
 else
   echo "  (logs directory not found)"
 fi

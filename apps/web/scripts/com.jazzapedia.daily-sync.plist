@@ -9,7 +9,7 @@
     <!-- Script to run -->
     <key>ProgramArguments</key>
     <array>
-        <string>/Users/maxwell/Projects/artistWiki_Web/scripts/unified-daily-sync.sh</string>
+        <string>/Users/maxwell/Projects/jazzapedia/apps/web/scripts/unified-daily-sync.sh</string>
     </array>
 
     <!-- Schedule: 4:30am CT (10:30 UTC during CST, 9:30 UTC during CDT) -->
@@ -24,13 +24,13 @@
 
     <!-- Working directory -->
     <key>WorkingDirectory</key>
-    <string>/Users/maxwell/Projects/artistWiki_Web</string>
+    <string>/Users/maxwell/Projects/jazzapedia/apps/web</string>
 
     <!-- Logging -->
     <key>StandardOutPath</key>
-    <string>/Users/maxwell/Projects/artistWiki_Web/logs/launchd-stdout.log</string>
+    <string>/Users/maxwell/Projects/jazzapedia/apps/web/logs/launchd-stdout.log</string>
     <key>StandardErrorPath</key>
-    <string>/Users/maxwell/Projects/artistWiki_Web/logs/launchd-stderr.log</string>
+    <string>/Users/maxwell/Projects/jazzapedia/apps/web/logs/launchd-stderr.log</string>
 
     <!-- Environment variables -->
     <key>EnvironmentVariables</key>
