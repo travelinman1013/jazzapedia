@@ -170,7 +170,14 @@ pnpm clean
 pnpm turbo build --filter=@jazzapedia/web
 ```
 
+## GitHub Actions Workflows
+
+| Workflow | Trigger | Purpose |
+|----------|---------|---------|
+| **CI** | Pull requests | Build verification |
+| **Deploy Web** | Push to main | Deploy to Cloudflare Pages |
+| **Sync Artists** | Daily 5am CT / Manual | Sync artists to D1, upload portraits to R2 |
+
 ## License
 
 MIT
-# Trigger deploy

@@ -152,9 +152,22 @@ docker compose exec scraper node dist/index.js --once
 - Use `pnpm` not `npm` in Dockerfiles
 - Pass `DEPLOY_TARGET=docker` at build time
 
+## GitHub Actions
+
+| Workflow | File | Trigger |
+|----------|------|---------|
+| CI | `ci.yml` | Pull requests only |
+| Deploy Web | `deploy-web.yml` | Push to main (paths: apps/web, packages) |
+| Sync Artists | `sync-artists.yml` | Daily 5am CT or manual |
+
+Secrets required:
+- `CLOUDFLARE_API_TOKEN`
+- `CLOUDFLARE_ACCOUNT_ID`
+
 ## Gotchas
 
 1. **Turbo caching** - Add env vars to `turbo.json` if they affect builds
 2. **better-sqlite3** - Requires native build tools in Docker
 3. **Astro adapter** - Selected at build time, not runtime
-4. **Scraper state** - Don't mount config as read-only if state writes there
+4. **Scraper state** - Use `STATE_PATH` env var for Docker (don't mount config as read-only)
+5. **Type errors** - Web app has pre-existing type errors; CI skips type-check to allow builds
