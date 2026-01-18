@@ -1,50 +1,58 @@
 #!/bin/bash
-# Unified Daily Sync for Jazzapedia
-# Master orchestrator for daily sync to both Docker (SQLite) and Cloudflare (D1/R2)
+# Unified Sync for Jazzapedia
+# Single script for all sync operations (post-discovery and daily scheduled)
 #
 # This script:
-# 1. Syncs Obsidian vault -> content-deploy -> git push (triggers GitHub Actions for D1)
-# 2. Syncs Obsidian vault -> SQLite (direct, incremental)
-# 3. Syncs portraits from vault -> ./portraits/ (for Docker)
-# 4. Restarts Docker container if SQLite was modified
+# 1. Syncs Obsidian vault -> SQLite (for Docker)
+# 2. Restarts Docker container if changes detected
+# 3. Syncs Obsidian vault -> content-deploy -> git push (for Cloudflare via GitHub Actions)
 #
 # Usage:
-#   ./scripts/unified-daily-sync.sh              # Full sync
-#   ./scripts/unified-daily-sync.sh --dry-run    # Preview only
-#   ./scripts/unified-daily-sync.sh --skip-git   # Skip git push (SQLite only)
-#   ./scripts/unified-daily-sync.sh --skip-docker # Skip Docker restart
+#   ./unified-daily-sync.sh                    # Full sync
+#   ./unified-daily-sync.sh --dry-run          # Preview only
+#   ./unified-daily-sync.sh --skip-git         # Skip git push (Docker only)
+#   ./unified-daily-sync.sh --skip-docker      # Skip Docker restart
+#   ./unified-daily-sync.sh --clear-signal     # Clear signal file after sync (for post-discovery)
 
 set -e
+
+# Add paths for launchd (which runs with minimal PATH)
+export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 
 # ============================================================
 # CONFIGURATION
 # ============================================================
 
-PROJECT_DIR="/Users/maxwell/Projects/jazzapedia/apps/web"
 REPO_ROOT="/Users/maxwell/Projects/jazzapedia"
+WEB_DIR="$REPO_ROOT/apps/web"
+SCRIPT_DIR="$WEB_DIR/scripts"
+
+# Vault paths
+VAULT_ARTISTS="/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists"
 VAULT_PORTRAITS="/Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits"
-LOG_DIR="$PROJECT_DIR/logs"
-LOG_FILE="$LOG_DIR/unified-sync-$(date '+%Y-%m-%d').log"
+
+# Output paths
+SQLITE_DB="$REPO_ROOT/data/jazzapedia.db"
+CONTENT_DEPLOY="$WEB_DIR/content-deploy"
+PORTRAITS_DIR="$REPO_ROOT/portraits"
+SIGNAL_FILE="$REPO_ROOT/scraper-state/sync-requested"
+
+# Logging
+LOG_DIR="$WEB_DIR/logs"
+LOG_FILE="$LOG_DIR/sync-$(date '+%Y-%m-%d').log"
 
 # Parse arguments
 DRY_RUN=false
 SKIP_GIT=false
 SKIP_DOCKER=false
+CLEAR_SIGNAL=false
 
 for arg in "$@"; do
   case $arg in
-    --dry-run)
-      DRY_RUN=true
-      shift
-      ;;
-    --skip-git)
-      SKIP_GIT=true
-      shift
-      ;;
-    --skip-docker)
-      SKIP_DOCKER=true
-      shift
-      ;;
+    --dry-run) DRY_RUN=true ;;
+    --skip-git) SKIP_GIT=true ;;
+    --skip-docker) SKIP_DOCKER=true ;;
+    --clear-signal) CLEAR_SIGNAL=true ;;
   esac
 done
 
@@ -52,10 +60,8 @@ done
 # SETUP
 # ============================================================
 
-# Ensure log directory exists
 mkdir -p "$LOG_DIR"
 
-# Log function (both stdout and file)
 log() {
   echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" | tee -a "$LOG_FILE"
 }
@@ -67,161 +73,129 @@ log_section() {
   log "============================================================"
 }
 
-# Ensure we're in the project directory
-cd "$PROJECT_DIR"
+cd "$WEB_DIR"
 
-log_section "Starting Unified Daily Sync"
-log "Project: $PROJECT_DIR"
-log "Dry run: $DRY_RUN"
-log "Skip git: $SKIP_GIT"
-log "Skip docker: $SKIP_DOCKER"
+log_section "Starting Jazzapedia Sync"
+log "Dry run: $DRY_RUN | Skip git: $SKIP_GIT | Skip docker: $SKIP_DOCKER"
 
-# Track if SQLite was modified (for Docker restart decision)
-SQLITE_MODIFIED=false
+CHANGES_MADE=false
 
 # ============================================================
-# STEP 1: Sync vault -> content-deploy -> git push
+# STEP 1: Vault -> SQLite (incremental)
 # ============================================================
 
-if [ "$SKIP_GIT" = false ]; then
-  log_section "Step 1: Vault -> Git (triggers GitHub Actions for D1)"
-
-  if [ "$DRY_RUN" = true ]; then
-    log "DRY RUN: Would run auto-sync-vault.sh"
-  else
-    # Run the existing auto-sync-vault script
-    if [ -f "$PROJECT_DIR/scripts/auto-sync-vault.sh" ]; then
-      log "Running auto-sync-vault.sh..."
-      "$PROJECT_DIR/scripts/auto-sync-vault.sh" 2>&1 | tee -a "$LOG_FILE" || {
-        log "WARNING: auto-sync-vault.sh failed, continuing..."
-      }
-    else
-      log "WARNING: auto-sync-vault.sh not found, skipping git sync"
-    fi
-  fi
-else
-  log_section "Step 1: SKIPPED (--skip-git flag)"
-fi
-
-# ============================================================
-# STEP 2: Vault -> SQLite (incremental)
-# ============================================================
-
-log_section "Step 2: Vault -> SQLite (incremental sync)"
+log_section "Step 1: Vault -> SQLite"
 
 if [ "$DRY_RUN" = true ]; then
-  log "Running incremental SQLite sync (dry-run)..."
-  npx tsx "$PROJECT_DIR/scripts/sync-incremental-sqlite.ts" --output "$REPO_ROOT/data/jazzapedia.db" --dry-run 2>&1 | tee -a "$LOG_FILE"
+  log "DRY RUN: Would sync to SQLite"
+  npx tsx "$SCRIPT_DIR/sync-incremental-sqlite.ts" --output "$SQLITE_DB" --dry-run 2>&1 | tee -a "$LOG_FILE"
 else
-  log "Running incremental SQLite sync..."
+  SYNC_OUTPUT=$(npx tsx "$SCRIPT_DIR/sync-incremental-sqlite.ts" --output "$SQLITE_DB" 2>&1 | tee -a "$LOG_FILE")
 
-  # Capture output to check if changes were made
-  SYNC_OUTPUT=$(npx tsx "$PROJECT_DIR/scripts/sync-incremental-sqlite.ts" --output "$REPO_ROOT/data/jazzapedia.db" 2>&1 | tee -a "$LOG_FILE")
-
-  # Check if any changes were synced
   if echo "$SYNC_OUTPUT" | grep -q "Successfully synced: [1-9]"; then
-    SQLITE_MODIFIED=true
-    log "SQLite was modified"
-  elif echo "$SYNC_OUTPUT" | grep -q "No changes to sync"; then
-    log "SQLite: No changes needed"
+    CHANGES_MADE=true
+    log "SQLite: Changes synced"
+  else
+    log "SQLite: No changes"
   fi
 fi
 
 # ============================================================
-# STEP 3: Sync portraits for Docker
+# STEP 2: Sync portraits for Docker
 # ============================================================
 
-log_section "Step 3: Portraits -> ./portraits/ (for Docker)"
+log_section "Step 2: Portraits -> Docker"
 
-if [ ! -d "$VAULT_PORTRAITS" ]; then
-  log "WARNING: Vault portraits directory not found: $VAULT_PORTRAITS"
-else
-  # Count portraits before sync
-  BEFORE_COUNT=$(find "$REPO_ROOT/portraits" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.webp" \) 2>/dev/null | wc -l | tr -d ' ')
+if [ -d "$VAULT_PORTRAITS" ]; then
+  BEFORE=$(find "$PORTRAITS_DIR" -type f 2>/dev/null | wc -l | tr -d ' ')
 
   if [ "$DRY_RUN" = true ]; then
-    log "DRY RUN: Would rsync portraits from vault"
-    # Show what would be synced
-    rsync -av --dry-run --ignore-existing \
-      "$VAULT_PORTRAITS/" \
-      "$REPO_ROOT/portraits/" 2>&1 | tail -20 | tee -a "$LOG_FILE"
+    log "DRY RUN: Would rsync portraits"
   else
-    log "Syncing portraits (new files only)..."
-    mkdir -p "$REPO_ROOT/portraits"
-
+    mkdir -p "$PORTRAITS_DIR"
     rsync -av --ignore-existing \
-      --include="*.jpg" \
-      --include="*.jpeg" \
-      --include="*.png" \
-      --include="*.webp" \
+      --include="*.jpg" --include="*.jpeg" --include="*.png" --include="*.webp" \
       --exclude="*" \
-      "$VAULT_PORTRAITS/" \
-      "$REPO_ROOT/portraits/" 2>&1 | tee -a "$LOG_FILE"
+      "$VAULT_PORTRAITS/" "$PORTRAITS_DIR/" >> "$LOG_FILE" 2>&1
 
-    # Count portraits after sync
-    AFTER_COUNT=$(find "$REPO_ROOT/portraits" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.webp" \) 2>/dev/null | wc -l | tr -d ' ')
-
-    NEW_PORTRAITS=$((AFTER_COUNT - BEFORE_COUNT))
-    log "Portraits synced: $NEW_PORTRAITS new files (total: $AFTER_COUNT)"
-
-    if [ "$NEW_PORTRAITS" -gt 0 ]; then
-      SQLITE_MODIFIED=true  # Trigger restart if new portraits added
-    fi
-  fi
-fi
-
-# ============================================================
-# STEP 4: Restart Docker container (if changes detected)
-# ============================================================
-
-log_section "Step 4: Docker Container Restart"
-
-if [ "$SKIP_DOCKER" = true ]; then
-  log "SKIPPED (--skip-docker flag)"
-elif [ "$DRY_RUN" = true ]; then
-  log "DRY RUN: Would restart Docker container if changes detected"
-  log "SQLite modified: $SQLITE_MODIFIED"
-elif [ "$SQLITE_MODIFIED" = true ]; then
-  log "Changes detected, restarting Docker container..."
-
-  # Check if docker-compose is available and container is running
-  if command -v docker-compose &> /dev/null; then
-    if docker-compose -f "$REPO_ROOT/docker-compose.yml" ps --quiet web 2>/dev/null | grep -q .; then
-      docker-compose -f "$REPO_ROOT/docker-compose.yml" restart web 2>&1 | tee -a "$LOG_FILE"
-      log "Docker container restarted"
-    else
-      log "Docker container not running, skipping restart"
-    fi
-  elif command -v docker &> /dev/null && docker compose version &> /dev/null; then
-    # Try docker compose (v2)
-    if docker compose -f "$REPO_ROOT/docker-compose.yml" ps --quiet web 2>/dev/null | grep -q .; then
-      docker compose -f "$REPO_ROOT/docker-compose.yml" restart web 2>&1 | tee -a "$LOG_FILE"
-      log "Docker container restarted"
-    else
-      log "Docker container not running, skipping restart"
-    fi
-  else
-    log "WARNING: docker-compose not found, skipping container restart"
+    AFTER=$(find "$PORTRAITS_DIR" -type f 2>/dev/null | wc -l | tr -d ' ')
+    NEW=$((AFTER - BEFORE))
+    log "Portraits: $NEW new (total: $AFTER)"
+    [ "$NEW" -gt 0 ] && CHANGES_MADE=true
   fi
 else
-  log "No changes detected, Docker restart not needed"
+  log "WARNING: Vault portraits not found"
 fi
 
 # ============================================================
-# SUMMARY
+# STEP 3: Restart Docker (if changes)
+# ============================================================
+
+log_section "Step 3: Docker Restart"
+
+if [ "$SKIP_DOCKER" = true ]; then
+  log "SKIPPED (--skip-docker)"
+elif [ "$DRY_RUN" = true ]; then
+  log "DRY RUN: Would restart if changes (changes=$CHANGES_MADE)"
+elif [ "$CHANGES_MADE" = true ]; then
+  log "Restarting Docker..."
+  cd "$REPO_ROOT"
+  docker compose restart web 2>&1 | tee -a "$LOG_FILE" || log "WARNING: Docker restart failed"
+else
+  log "No changes, skip restart"
+fi
+
+# ============================================================
+# STEP 4: Vault -> content-deploy -> Git push
+# ============================================================
+
+log_section "Step 4: Vault -> Git (for Cloudflare)"
+
+if [ "$SKIP_GIT" = true ]; then
+  log "SKIPPED (--skip-git)"
+elif [ "$DRY_RUN" = true ]; then
+  log "DRY RUN: Would sync to git"
+else
+  cd "$WEB_DIR"
+
+  # Rsync vault to content-deploy (exclude timestamped backup files)
+  log "Syncing vault to content-deploy..."
+  rsync -av --delete --exclude='.*' \
+    --exclude='*_20[0-9][0-9][0-9][0-9][0-9][0-9]_[0-9][0-9][0-9][0-9][0-9][0-9].md' \
+    "$VAULT_ARTISTS/" "$CONTENT_DEPLOY/artists/" >> "$LOG_FILE" 2>&1
+  rsync -av --delete --exclude='.*' \
+    "$VAULT_PORTRAITS/" "$CONTENT_DEPLOY/portraits/" >> "$LOG_FILE" 2>&1
+
+  # Commit and push if changes
+  cd "$REPO_ROOT"
+  if git diff --quiet "$CONTENT_DEPLOY" 2>/dev/null; then
+    log "Git: No changes to commit"
+  else
+    ARTIST_COUNT=$(git status --porcelain "$CONTENT_DEPLOY/artists" 2>/dev/null | wc -l | tr -d ' ')
+    log "Git: Committing $ARTIST_COUNT artist changes..."
+    git add "$CONTENT_DEPLOY"
+    git commit -m "Auto-sync: Update artists [$(date '+%Y-%m-%d %H:%M')]" >> "$LOG_FILE" 2>&1
+    git push origin main >> "$LOG_FILE" 2>&1
+    log "Git: Pushed to origin/main"
+
+    # Trigger GitHub Actions
+    log "Triggering GitHub Actions..."
+    gh workflow run sync-artists.yml >> "$LOG_FILE" 2>&1 || log "WARNING: gh workflow trigger failed"
+  fi
+fi
+
+# ============================================================
+# STEP 5: Clear signal file (if requested)
+# ============================================================
+
+if [ "$CLEAR_SIGNAL" = true ] && [ -f "$SIGNAL_FILE" ]; then
+  rm -f "$SIGNAL_FILE"
+  log "Signal file cleared"
+fi
+
+# ============================================================
+# DONE
 # ============================================================
 
 log_section "Sync Complete!"
-log "Log file: $LOG_FILE"
-log "SQLite modified: $SQLITE_MODIFIED"
-
-if [ "$DRY_RUN" = true ]; then
-  log ""
-  log "This was a DRY RUN - no changes were made"
-fi
-
-log ""
-log "Next steps:"
-log "  - GitHub Actions will run at 5am CT (D1 + R2 sync)"
-log "  - Verify with: npm run sync:verify"
-log "  - Check Docker: curl http://localhost/artists/miles-davis"
+log "Log: $LOG_FILE"
