@@ -1,0 +1,51 @@
+# Dependencies (reinstalled in container)
+node_modules
+**/node_modules
+
+# Git
+.git
+.gitignore
+
+# Build outputs (rebuilt in container)
+**/dist
+**/.turbo
+**/.astro
+
+# Environment files
+.env
+.env.*
+**/.env
+**/.env.*
+
+# IDE
+.vscode
+.idea
+**/.vscode
+**/.idea
+
+# Local data (mounted as volumes)
+data/
+portraits/
+archives/
+
+# Wrangler local state
+**/.wrangler
+
+# Python
+**/__pycache__
+**/*.pyc
+**/.venv
+
+# Logs
+*.log
+**/*.log
+
+# Test/coverage
+coverage/
+**/coverage/
+
+# Documentation and misc
+*.md
+!README.md
+HANDOFF*.md
+**/HANDOFF*.md

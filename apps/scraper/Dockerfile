@@ -1,30 +1,42 @@
 # ==============================================================================
+# Jazzapedia Scraper Dockerfile
+# Multi-stage build for monorepo with pnpm workspaces
+# ==============================================================================
+
+# ==============================================================================
 # Stage 1: Builder - Compile TypeScript
 # ==============================================================================
 FROM node:20-slim AS builder
 
+# Install pnpm
+RUN corepack enable && corepack prepare pnpm@9 --activate
+
 WORKDIR /app
 
-# Copy package files
-COPY package*.json ./
+# Copy root workspace files
+COPY package.json pnpm-workspace.yaml pnpm-lock.yaml turbo.json tsconfig.base.json ./
 
-# Install all dependencies (including devDependencies for build)
-RUN npm ci
+# Copy packages (workspace dependencies)
+COPY packages/ ./packages/
 
-# Copy TypeScript source and configuration
-COPY tsconfig.json ./
-COPY src/ ./src/
+# Copy scraper app
+COPY apps/scraper/ ./apps/scraper/
 
-# Build the TypeScript project
-RUN npm run build
+# Install all dependencies
+RUN pnpm install --frozen-lockfile
+
+# Build packages first, then scraper
+RUN pnpm turbo build --filter=@jazzapedia/scraper
 
 # ==============================================================================
 # Stage 2: Production - Runtime image with Playwright and Python
 # ==============================================================================
 FROM mcr.microsoft.com/playwright:v1.57.0-jammy AS production
 
-# Install Python 3, pip, and timezone data for artist discovery pipeline
-# Set timezone non-interactively before installing tzdata
+# Install pnpm
+RUN corepack enable && corepack prepare pnpm@9 --activate
+
+# Install Python 3, pip, build tools, and timezone data
 ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=America/Chicago
 RUN apt-get update && apt-get install -y --no-install-recommends \
@@ -32,6 +44,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     python3-pip \
     python3-venv \
     tzdata \
+    make \
+    g++ \
     && ln -snf /usr/share/zoneinfo/$TZ /etc/localtime \
     && echo $TZ > /etc/timezone \
     && rm -rf /var/lib/apt/lists/* \
@@ -39,42 +53,50 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 WORKDIR /app
 
-# Copy package files and install production dependencies only
-COPY package*.json ./
-RUN npm ci --omit=dev
+# Copy root workspace files
+COPY package.json pnpm-workspace.yaml pnpm-lock.yaml ./
 
-# Note: Playwright base image already includes Chromium browser
+# Copy packages
+COPY packages/ ./packages/
+
+# Copy scraper package.json
+COPY apps/scraper/package.json ./apps/scraper/
+
+# Install production dependencies only
+RUN pnpm install --frozen-lockfile --prod
 
 # Copy compiled application from builder stage
-COPY --from=builder /app/dist ./dist
+COPY --from=builder /app/apps/scraper/dist ./apps/scraper/dist
 
 # Copy data files (schedule.json, etc.)
-COPY src/data/ ./src/data/
+COPY apps/scraper/src/data/ ./apps/scraper/src/data/
 
 # Copy templates directory
-COPY templates/ ./templates/
+COPY apps/scraper/templates/ ./apps/scraper/templates/
 
 # Copy example config (actual config will be mounted at runtime)
-COPY config/config.example.yaml ./config/config.example.yaml
+COPY apps/scraper/config/config.example.yaml ./apps/scraper/config/config.example.yaml
 
 # Copy Python files and install dependencies
-COPY requirements.txt ./
-COPY *.py ./
-RUN pip3 install --no-cache-dir -r requirements.txt
+COPY apps/scraper/requirements.txt ./apps/scraper/
+COPY apps/scraper/*.py ./apps/scraper/
+RUN pip3 install --no-cache-dir -r apps/scraper/requirements.txt
 
 # Create non-root user for security
 RUN groupadd -r wwoz && useradd -r -g wwoz wwoz
 
 # Create directories that need to be writable and set ownership
-RUN mkdir -p /app/config/state && \
+RUN mkdir -p /app/state && \
     chown -R wwoz:wwoz /app
 
 # Set environment variables
-ENV CONFIG_PATH=/app/config/config.yaml
+ENV CONFIG_PATH=/app/apps/scraper/config/config.yaml
 ENV NODE_ENV=production
+
+WORKDIR /app/apps/scraper
 
 # Switch to non-root user
 USER wwoz
 
-# Use ENTRYPOINT so arguments can be appended
+# Run in continuous mode by default (no --once flag)
 ENTRYPOINT ["node", "dist/index.js"]

@@ -31,6 +31,17 @@ coverage/
 data/*.db
 data/*.db-wal
 data/*.db-shm
+data/
+
+# Scraper config (contains secrets)
+config/scraper/config.yaml
+config/scraper/processed_archives.json
+
+# Archives (generated, large)
+archives/
+
+# Portraits (large image files)
+portraits/
 
 # Python
 __pycache__/

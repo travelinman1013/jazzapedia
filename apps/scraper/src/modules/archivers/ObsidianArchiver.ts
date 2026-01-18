@@ -22,7 +22,9 @@ export class ObsidianArchiver implements IArchiver {
 
   constructor(onDayChange?: (previousDayArchivePath: string) => void) {
     this.onDayChange = onDayChange;
-    this.stateFilePath = path.resolve(process.cwd(), 'config', 'state', 'archiver_state.json');
+    // Use STATE_PATH env var if set (for Docker), otherwise default to config/state
+    const stateDir = process.env.STATE_PATH || path.resolve(process.cwd(), 'config', 'state');
+    this.stateFilePath = path.join(stateDir, 'archiver_state.json');
     this.loadState();
   }
 

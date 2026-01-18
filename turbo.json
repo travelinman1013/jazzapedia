@@ -3,7 +3,8 @@
   "tasks": {
     "build": {
       "dependsOn": ["^build"],
-      "outputs": ["dist/**", ".astro/**"]
+      "outputs": ["dist/**", ".astro/**"],
+      "env": ["DEPLOY_TARGET", "NODE_ENV"]
     },
     "dev": {
       "cache": false,
