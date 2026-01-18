@@ -32,10 +32,7 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Build packages
-        run: pnpm turbo build --filter=@jazzapedia/types --filter=@jazzapedia/db --filter=@jazzapedia/utils
-
-      - name: Build web
+      - name: Build web (includes package dependencies)
         run: pnpm turbo build --filter=@jazzapedia/web
         env:
           DEPLOY_TARGET: cloudflare
