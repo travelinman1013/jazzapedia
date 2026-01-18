@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.jazzapedia.post-discovery-sync</string>
+
+    <key>WatchPaths</key>
+    <array>
+        <string>/Users/maxwell/Projects/jazzapedia/scraper-state/sync-requested</string>
+    </array>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/maxwell/Projects/jazzapedia/apps/web/scripts/post-discovery-sync.sh</string>
+    </array>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/jazzapedia-post-discovery-sync.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/tmp/jazzapedia-post-discovery-sync.log</string>
+</dict>
+</plist>

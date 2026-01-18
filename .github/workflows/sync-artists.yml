@@ -58,7 +58,7 @@ jobs:
       - name: Sync to D1 (incremental)
         if: ${{ github.event_name == 'schedule' || !inputs.full_sync }}
         working-directory: apps/web
-        run: npx tsx scripts/sync-incremental.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
+        run: pnpm exec tsx scripts/sync-incremental.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -68,7 +68,7 @@ jobs:
       - name: Sync to D1 (full)
         if: ${{ github.event_name != 'schedule' && inputs.full_sync }}
         working-directory: apps/web
-        run: npx tsx scripts/sync-to-d1.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
+        run: pnpm exec tsx scripts/sync-to-d1.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -107,7 +107,7 @@ jobs:
 
       - name: Upload portraits to R2
         working-directory: apps/web
-        run: npx tsx scripts/upload-portraits-r2.ts
+        run: pnpm exec tsx scripts/upload-portraits-r2.ts
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
