@@ -11,8 +11,9 @@ export class ArtistDiscoveryService {
   private stateDb: ProcessedArchivesDB = {};
 
   constructor() {
-    // Store in config/state/ to be persisted via Docker volume
-    this.stateFilePath = path.resolve(process.cwd(), 'config', 'state', 'processed_archives.json');
+    // Use STATE_PATH env var (Docker: /app/state) or fallback to local state dir
+    const stateDir = process.env.STATE_PATH || path.resolve(process.cwd(), 'state');
+    this.stateFilePath = path.join(stateDir, 'processed_archives.json');
     this.loadState();
   }
 
@@ -111,9 +112,11 @@ export class ArtistDiscoveryService {
       args.push('--force');
     }
 
-    // Set environment with Perplexity API key
+    // Set environment with API credentials from config
     const env = {
       ...process.env,
+      SPOTIFY_CLIENT_ID: config.spotify?.clientId,
+      SPOTIFY_CLIENT_SECRET: config.spotify?.clientSecret,
       PERPLEXITY_API_KEY: cfg.perplexityApiKey,
     };
 
