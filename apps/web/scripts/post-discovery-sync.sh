@@ -18,7 +18,7 @@ echo "$(date): Post-discovery sync triggered" >> "$LOG_FILE"
 # 1. Run incremental SQLite sync (fast, ~2s)
 echo "Running incremental SQLite sync..." >> "$LOG_FILE"
 cd "$WEB_DIR"
-npx tsx "$SCRIPT_DIR/sync-incremental-sqlite.ts" >> "$LOG_FILE" 2>&1
+npx tsx "$SCRIPT_DIR/sync-incremental-sqlite.ts" --output "$PROJECT_ROOT/data/jazzapedia.db" >> "$LOG_FILE" 2>&1
 
 # 2. Restart web container to pick up new data
 echo "Restarting web container..." >> "$LOG_FILE"
