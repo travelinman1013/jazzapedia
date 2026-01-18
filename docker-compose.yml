@@ -35,8 +35,11 @@ services:
       - ./config/scraper:/app/apps/scraper/config:ro
       # Persistent state for archiver (outside config mount)
       - scraper-state:/app/state
-      # Obsidian vault archives (optional, for ObsidianArchiver)
+      # Obsidian vault archives (symlinked from ./archives to Obsidian vault)
       - ${OBSIDIAN_ARCHIVES:-./archives}:/app/archives
+      # Artist discovery output directories (mounted from host Obsidian vault)
+      - /Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists:/vault/Artists
+      - /Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits:/vault/ArtistPortraits
     networks:
       - jazzapedia-network
 

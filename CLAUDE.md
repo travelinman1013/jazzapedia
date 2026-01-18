@@ -76,6 +76,62 @@ Key files:
 - `apps/scraper/src/services/WorkflowService.ts` - Main orchestration
 - `apps/scraper/src/modules/archivers/ObsidianArchiver.ts` - Markdown archiver
 
+## Artist Discovery Pipeline
+
+A Python pipeline that creates artist profile cards in Obsidian vault using Spotify, MusicBrainz, and Perplexity AI.
+
+**How it works:**
+1. Triggered after day-change detection (with configurable delay)
+2. Parses daily archive markdown for unique artists
+3. Enriches with Spotify/MusicBrainz metadata
+4. Generates artist cards via Perplexity AI
+5. Downloads artist portraits
+
+**Key files:**
+- `apps/scraper/artist_discovery_pipeline.py` - Main Python script
+- `apps/scraper/src/services/ArtistDiscoveryService.ts` - TypeScript wrapper
+- `config/scraper/config.yaml` - Configuration (artistDiscovery section)
+
+**Configuration (config.yaml):**
+```yaml
+artistDiscovery:
+  enabled: true
+  scriptPath: '/app/apps/scraper/artist_discovery_pipeline.py'
+  pythonPath: 'python3'
+  perplexityApiKey: '<key>'
+  forceReprocess: false
+  timeoutMinutes: 30
+  dayChangeDelayHours: 6
+  cardsDir: '/vault/Artists'
+  imagesDir: '/vault/ArtistPortraits'
+```
+
+**Backfill missing artist cards:**
+```bash
+docker compose exec scraper node dist/index.js --backfill-artists 7
+```
+
+## Obsidian Vault Integration
+
+The scraper writes to an Obsidian vault for daily archives and artist cards.
+
+**Setup:**
+1. **Archives**: Symlink `./archives` to Obsidian vault location
+   ```bash
+   ln -s /path/to/obsidian/vault/wwoztracker archives
+   ```
+2. **Artist cards**: Mounted via docker-compose.yml volumes
+   - `/vault/Artists` → Obsidian artist cards directory
+   - `/vault/ArtistPortraits` → Obsidian portraits directory
+
+**Docker volume mounts (scraper service):**
+```yaml
+volumes:
+  - ${OBSIDIAN_ARCHIVES:-./archives}:/app/archives
+  - /path/to/vault/Artists:/vault/Artists
+  - /path/to/vault/ArtistPortraits:/vault/ArtistPortraits
+```
+
 ## Web Application
 
 Astro SSR with conditional adapters:
@@ -104,6 +160,9 @@ services:
 Volumes:
 - `jazzapedia-data` - Shared SQLite database
 - `scraper-state` - Persistent scraper state
+- `./archives` - Symlink to Obsidian vault (for daily archives)
+- `/vault/Artists` - Obsidian artist cards directory
+- `/vault/ArtistPortraits` - Obsidian portraits directory
 
 ## Common Tasks
 
@@ -171,3 +230,5 @@ Secrets required:
 3. **Astro adapter** - Selected at build time, not runtime
 4. **Scraper state** - Use `STATE_PATH` env var for Docker (don't mount config as read-only)
 5. **Type errors** - Web app has pre-existing type errors; CI skips type-check to allow builds
+6. **Archives symlink** - The `./archives` directory is a symlink to the Obsidian vault; don't delete it or commit it as a regular directory
+7. **Artist discovery paths** - The `/vault/Artists` and `/vault/ArtistPortraits` mounts in docker-compose.yml use absolute host paths specific to the deployment environment
