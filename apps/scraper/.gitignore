@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+dist/
+
+# Data folder - contains images and databases
+data/
+
+# Local config (contains secrets) — keep out of git
+config/*.yaml
+!config/config.example.yaml
+
+# Environment variables (contains secrets)
+.env
+.env.local
+.env.*.local
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+
+# Python scripts state
+config/processed_archives.json
+
+# macOS
+.DS_Store
+*/.DS_Store
+
+# Editor configs
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
