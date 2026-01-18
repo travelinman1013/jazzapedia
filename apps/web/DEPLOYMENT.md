@@ -1,0 +1,242 @@
+# Jazzapedia Deployment Guide
+
+This document explains how to deploy Jazzapedia to Cloudflare Pages.
+
+**Live Site:** https://jazzapedia.com
+
+**GitHub Repo:** https://github.com/travelinman1013/jazzapedia
+
+## Current Status
+
+- [x] GitHub repo created
+- [x] GitHub Actions workflow configured
+- [ ] Cloudflare secrets configured (do this when ready to go live)
+- [ ] Content synced for deployment
+
+## Quick Start (When Ready to Go Live)
+
+```bash
+# 1. Get Cloudflare credentials from https://dash.cloudflare.com
+#    - Account ID: visible in right sidebar
+#    - API Token: My Profile > API Tokens > Create Token > "Edit Cloudflare Workers"
+
+# 2. Add secrets to GitHub
+gh secret set CLOUDFLARE_API_TOKEN --repo travelinman1013/jazzapedia
+gh secret set CLOUDFLARE_ACCOUNT_ID --repo travelinman1013/jazzapedia
+
+# 3. Sync your artist content
+cd /Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/web
+./scripts/sync-for-deploy.sh
+
+# 4. Commit and push to trigger deployment
+git add content-deploy/
+git commit -m "Add content for deployment"
+git push
+
+# 5. Check deployment status
+gh run watch --repo travelinman1013/jazzapedia
+```
+
+Your site will be live at: `https://jazzapedia.com`
+
+---
+
+## Prerequisites
+
+- Node.js 20+
+- npm
+- GitHub account
+- Cloudflare account (free tier works fine)
+
+## Project Structure
+
+```
+web/
+├── .github/workflows/deploy.yml  # GitHub Actions workflow
+├── scripts/
+│   ├── sync-content.sh           # Local development sync
+│   └── sync-for-deploy.sh        # Prepare content for deployment
+├── content-deploy/               # Content committed for deployment
+│   ├── artists/                  # Artist markdown files
+│   └── portraits/                # Portrait images
+├── src/
+│   ├── content/artists/          # (gitignored - synced for local dev)
+│   └── pages/
+└── public/
+    └── portraits/                # (gitignored - synced for local dev)
+```
+
+## Deployment Options
+
+### Option 1: Deploy from Local Machine
+
+For a quick deployment without GitHub:
+
+1. **Sync content and build locally:**
+   ```bash
+   npm run build:prod
+   ```
+
+2. **Deploy using Wrangler:**
+   ```bash
+   npx wrangler pages deploy dist --project-name jazzapedia
+   ```
+
+### Option 2: Automated GitHub Actions Deployment (Recommended)
+
+#### Step 1: Create GitHub Repository
+
+```bash
+# From the web/ directory
+gh repo create jazzapedia --private --source=. --push
+```
+
+Or manually:
+1. Create a new repository on GitHub
+2. Add remote: `git remote add origin https://github.com/YOUR_USERNAME/jazzapedia.git`
+3. Push: `git push -u origin main`
+
+#### Step 2: Prepare Content for Deployment
+
+Since the artist content and portraits are stored outside the repository (in your Obsidian vault), you need to sync them into the repo before deploying:
+
+```bash
+# Sync content into content-deploy/ directory
+./scripts/sync-for-deploy.sh
+
+# Add and commit the content
+git add content-deploy/
+git commit -m "Update artist content for deployment"
+git push
+```
+
+#### Step 3: Set Up Cloudflare Pages
+
+1. **Get Cloudflare API Token:**
+   - Go to [Cloudflare Dashboard](https://dash.cloudflare.com)
+   - Click "My Profile" > "API Tokens"
+   - Create a token with "Cloudflare Pages: Edit" permission
+   - Copy the token
+
+2. **Get Cloudflare Account ID:**
+   - Go to any zone in Cloudflare Dashboard
+   - Find "Account ID" in the right sidebar
+   - Copy the ID
+
+3. **Add GitHub Secrets:**
+
+   Via CLI (easiest):
+   ```bash
+   gh secret set CLOUDFLARE_API_TOKEN --repo travelinman1013/jazzapedia
+   # Paste your API token when prompted
+
+   gh secret set CLOUDFLARE_ACCOUNT_ID --repo travelinman1013/jazzapedia
+   # Paste your Account ID when prompted
+   ```
+
+   Or via GitHub web:
+   - Go to https://github.com/travelinman1013/jazzapedia/settings/secrets/actions
+   - Add two secrets:
+     - `CLOUDFLARE_API_TOKEN`: Your API token
+     - `CLOUDFLARE_ACCOUNT_ID`: Your account ID
+
+4. **Create Cloudflare Pages Project:**
+   - Go to Cloudflare Dashboard > Pages
+   - Click "Create a project"
+   - Name it `jazzapedia`
+   - You can skip the initial setup since we're using GitHub Actions
+
+#### Step 4: Trigger Deployment
+
+Push any commit to the `main` branch:
+
+```bash
+git push origin main
+```
+
+The GitHub Action will:
+1. Install dependencies
+2. Copy content from `content-deploy/` to build directories
+3. Build the Astro site
+4. Run Pagefind to create the search index
+5. Deploy to Cloudflare Pages
+
+## Updating Content
+
+When you add or modify artists in your Obsidian vault:
+
+```bash
+# 1. Sync the content
+./scripts/sync-for-deploy.sh
+
+# 2. Commit and push
+git add content-deploy/
+git commit -m "Update artist content"
+git push
+```
+
+The site will automatically redeploy.
+
+## Local Development
+
+For local development, use the symlink-based approach:
+
+```bash
+# Sync content for local development (creates actual files, not commits)
+./scripts/sync-content.sh
+
+# Start development server
+npm run dev
+```
+
+## Build Commands
+
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Start development server |
+| `npm run build` | Build the site |
+| `npm run build:prod` | Sync content + build + Pagefind |
+| `npm run preview` | Preview the built site |
+| `npm run sync` | Sync content from source directories |
+
+## Environment
+
+The site is built as a static site and requires no server-side environment variables.
+
+## Troubleshooting
+
+### Build Fails Due to Missing Content
+
+Make sure you've run `./scripts/sync-for-deploy.sh` and committed the `content-deploy/` directory.
+
+### Pagefind Not Working
+
+Pagefind runs after the build. Make sure `npx pagefind --site dist` runs successfully. The search index is created at `dist/pagefind/`.
+
+### Images Not Loading
+
+Portrait images are synced to `public/portraits/`. Check that:
+1. The source directory exists
+2. The sync script completed without errors
+3. For deployment, the images are in `content-deploy/portraits/`
+
+## Performance Notes
+
+- **3,449 artist pages** are generated at build time
+- **Pagefind** indexes all content for client-side search
+- **Total build time**: ~30-60 seconds locally
+- **Portrait images**: ~3,000 images are included
+
+## Custom Domain
+
+To add a custom domain:
+1. Go to Cloudflare Dashboard > Pages > your project
+2. Click "Custom domains"
+3. Add your domain
+4. Configure DNS if needed
+
+## Security Notes
+
+- Never commit API tokens or secrets to the repository
+- Use GitHub Secrets for all sensitive values
+- The `.gitignore` excludes environment files by default

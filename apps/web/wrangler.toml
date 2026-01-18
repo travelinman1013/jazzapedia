@@ -1,0 +1,17 @@
+name = "jazzapedia"
+compatibility_date = "2025-01-10"
+compatibility_flags = ["nodejs_compat"]
+
+# Pages configuration - this enables wrangler.toml bindings for Pages
+pages_build_output_dir = "dist"
+
+# D1 Database binding
+[[d1_databases]]
+binding = "DB"
+database_name = "jazzapedia"
+database_id = "3125aa66-6145-43d5-a86d-bd557da61aed"
+
+# Environment variables
+[vars]
+CACHE_TTL = "3600"
+R2_PUBLIC_URL = "https://media.jazzapedia.com"

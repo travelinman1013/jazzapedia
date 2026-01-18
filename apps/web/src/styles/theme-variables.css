@@ -1,0 +1,333 @@
+/* ============================================
+   Midnight Jazz Club - Design System
+   A sophisticated blend of warm jazz club atmosphere
+   with electric/techno accents
+   ============================================ */
+
+:root {
+  /* ========== Jazz Club Core Palette ========== */
+  --jazz-black: #0D0D0D;
+  --jazz-charcoal: #1A1A1F;
+  --jazz-smoke: #242428;
+  --jazz-slate: #2E2E33;
+  --jazz-burgundy: #4A1C2E;
+  --jazz-amber: #D4A254;
+  --jazz-gold: #C9A962;
+  --jazz-brass: #B8860B;
+  --jazz-cream: #F5F0E6;
+  --jazz-warm-white: #FAF7F0;
+  --jazz-paper: #F0EBE3;
+
+  /* ========== Electric Accents ========== */
+  --electric-cyan: #00D9FF;
+  --electric-cyan-dim: #00B8D9;
+  --electric-blue: #0066FF;
+  --electric-purple: #9D4EDD;
+  --electric-magenta: #FF006E;
+  --electric-glow: rgba(0, 217, 255, 0.15);
+
+  /* ========== Semantic Colors - Light Mode ========== */
+  --color-bg: var(--jazz-warm-white);
+  --color-bg-content: #FFFFFF;
+  --color-bg-infobox: var(--jazz-paper);
+  --color-bg-nav: var(--jazz-cream);
+  --color-bg-elevated: #FFFFFF;
+  --color-bg-card: #FFFFFF;
+
+  --color-border: #C5BBA8;
+  --color-border-light: #D9D2C5;
+  --color-border-infobox: var(--jazz-brass);
+  --color-border-accent: var(--jazz-amber);
+
+  --color-text: var(--jazz-charcoal);
+  --color-text-secondary: #4A4A55;
+  --color-text-muted: #7A7A85;
+  --color-text-heading: var(--jazz-black);
+
+  --color-link: var(--jazz-amber);
+  --color-link-hover: var(--electric-cyan);
+  --color-link-visited: #A67C3D;
+  --color-link-red: #C0392B;
+
+  --color-accent: var(--jazz-amber);
+  --color-accent-light: rgba(212, 162, 84, 0.15);
+  --color-accent-glow: var(--electric-glow);
+
+  --color-tag-bg: var(--jazz-cream);
+  --color-tag-border: var(--jazz-brass);
+  --color-tag-text: var(--jazz-charcoal);
+
+  /* ========== Effects ========== */
+  --glow-cyan: 0 0 20px rgba(0, 217, 255, 0.3);
+  --glow-amber: 0 0 20px rgba(212, 162, 84, 0.3);
+  --glow-subtle: 0 0 40px rgba(0, 217, 255, 0.1);
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-elevated: 0 4px 16px rgba(0, 0, 0, 0.12);
+
+  /* ========== Animation Tokens ========== */
+  --ease-jazz: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-smooth: cubic-bezier(0.4, 0, 0.2, 1);
+  --duration-fast: 150ms;
+  --duration-normal: 250ms;
+  --duration-slow: 400ms;
+
+  /* ========== Layout ========== */
+  --font-size-base: 16px;
+  --article-max-width: 48rem;
+  --spacing-multiplier: 1;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+}
+
+/* ============================================
+   DARK MODE - Jazz Club at Night
+   The default/preferred experience
+   ============================================ */
+[data-mode="dark"] {
+  --color-bg: var(--jazz-black);
+  --color-bg-content: var(--jazz-charcoal);
+  --color-bg-infobox: var(--jazz-smoke);
+  --color-bg-nav: var(--jazz-smoke);
+  --color-bg-elevated: var(--jazz-slate);
+  --color-bg-card: var(--jazz-smoke);
+
+  --color-border: #3A3A40;
+  --color-border-light: #2E2E35;
+  --color-border-infobox: var(--jazz-brass);
+  --color-border-accent: var(--jazz-amber);
+
+  --color-text: var(--jazz-cream);
+  --color-text-secondary: #B5B0A6;
+  --color-text-muted: #757570;
+  --color-text-heading: var(--jazz-warm-white);
+
+  --color-link: var(--jazz-amber);
+  --color-link-hover: var(--electric-cyan);
+  --color-link-visited: #C9A962;
+  --color-link-red: #FF6B6B;
+
+  --color-accent: var(--jazz-amber);
+  --color-accent-light: rgba(212, 162, 84, 0.2);
+  --color-accent-glow: var(--electric-glow);
+
+  --color-tag-bg: var(--jazz-slate);
+  --color-tag-border: var(--jazz-brass);
+  --color-tag-text: var(--jazz-cream);
+
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-elevated: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+/* ============================================
+   THEME VARIANTS - Jazz Moods
+   Each theme adjusts accent colors while
+   maintaining the jazz club atmosphere
+   ============================================ */
+
+/* Classic Jazz - Warm Amber (default) */
+[data-theme="classic-jazz"] {
+  --color-link: var(--jazz-amber);
+  --color-link-hover: var(--electric-cyan);
+  --color-accent: var(--jazz-amber);
+  --color-accent-light: rgba(212, 162, 84, 0.15);
+  --color-border-accent: var(--jazz-amber);
+}
+
+/* Midnight Blue - Cool Jazz */
+[data-theme="midnight-blue"] {
+  --color-link: #5B8DEF;
+  --color-link-hover: var(--electric-cyan);
+  --color-accent: #5B8DEF;
+  --color-accent-light: rgba(91, 141, 239, 0.15);
+  --color-border-accent: #5B8DEF;
+}
+[data-mode="dark"][data-theme="midnight-blue"] {
+  --color-link: #7BA3F7;
+  --color-link-hover: var(--electric-cyan);
+  --color-accent: #7BA3F7;
+  --color-accent-light: rgba(123, 163, 247, 0.2);
+}
+
+/* Velvet Purple - Late Night Sessions */
+[data-theme="velvet-purple"] {
+  --color-link: #8B5CF6;
+  --color-link-hover: #C084FC;
+  --color-accent: #8B5CF6;
+  --color-accent-light: rgba(139, 92, 246, 0.15);
+  --color-border-accent: #8B5CF6;
+}
+[data-mode="dark"][data-theme="velvet-purple"] {
+  --color-link: #A78BFA;
+  --color-link-hover: #C4B5FD;
+  --color-accent: #A78BFA;
+  --color-accent-light: rgba(167, 139, 250, 0.2);
+}
+
+/* Neon Nights - Electric */
+[data-theme="neon-nights"] {
+  --color-link: var(--electric-cyan-dim);
+  --color-link-hover: var(--electric-cyan);
+  --color-accent: var(--electric-cyan-dim);
+  --color-accent-light: rgba(0, 184, 217, 0.15);
+  --color-border-accent: var(--electric-cyan-dim);
+}
+[data-mode="dark"][data-theme="neon-nights"] {
+  --color-link: var(--electric-cyan);
+  --color-link-hover: #4DFFFF;
+  --color-accent: var(--electric-cyan);
+  --color-accent-light: rgba(0, 217, 255, 0.2);
+}
+
+/* Smoke Room - Warm Neutrals */
+[data-theme="smoke-room"] {
+  --color-link: #78716C;
+  --color-link-hover: #A8A29E;
+  --color-accent: #78716C;
+  --color-accent-light: rgba(120, 113, 108, 0.15);
+  --color-border-accent: #78716C;
+}
+[data-mode="dark"][data-theme="smoke-room"] {
+  --color-link: #A8A29E;
+  --color-link-hover: #D6D3D1;
+  --color-accent: #A8A29E;
+  --color-accent-light: rgba(168, 162, 158, 0.2);
+}
+
+/* Red Light - Blues Club */
+[data-theme="red-light"] {
+  --color-link: #DC2626;
+  --color-link-hover: #F87171;
+  --color-accent: #DC2626;
+  --color-accent-light: rgba(220, 38, 38, 0.15);
+  --color-border-accent: #DC2626;
+}
+[data-mode="dark"][data-theme="red-light"] {
+  --color-link: #EF4444;
+  --color-link-hover: #FCA5A5;
+  --color-accent: #EF4444;
+  --color-accent-light: rgba(239, 68, 68, 0.2);
+}
+
+/* ============================================
+   COMPACT MODE
+   ============================================ */
+[data-compact="true"] {
+  --spacing-multiplier: 0.75;
+}
+
+/* ============================================
+   TOC VISIBILITY
+   ============================================ */
+[data-show-toc="false"] .toc-sidebar {
+  display: none !important;
+}
+
+[data-show-toc="false"] .toc-mobile-container {
+  display: none !important;
+}
+
+/* ============================================
+   ARTICLE WIDTH
+   ============================================ */
+.article-body {
+  max-width: var(--article-max-width);
+}
+
+/* ============================================
+   LINK ANIMATIONS - Jazz Underline
+   ============================================ */
+.link-jazz {
+  position: relative;
+  color: var(--color-link);
+  text-decoration: none;
+  transition: color var(--duration-fast) var(--ease-smooth);
+}
+
+.link-jazz::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--electric-cyan);
+  transition: width var(--duration-normal) var(--ease-jazz);
+}
+
+.link-jazz:hover {
+  color: var(--color-link-hover);
+}
+
+.link-jazz:hover::after {
+  width: 100%;
+}
+
+/* ============================================
+   REDUCED MOTION
+   ============================================ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ============================================
+   TEXTURES & EFFECTS
+   ============================================ */
+.texture-scanlines {
+  background-image: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0, 0, 0, 0.03) 2px,
+    rgba(0, 0, 0, 0.03) 4px
+  );
+}
+
+[data-mode="dark"] .texture-scanlines {
+  background-image: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(255, 255, 255, 0.02) 2px,
+    rgba(255, 255, 255, 0.02) 4px
+  );
+}
+
+.texture-vignette {
+  background: radial-gradient(
+    ellipse at center,
+    transparent 0%,
+    rgba(0, 0, 0, 0.08) 100%
+  );
+}
+
+[data-mode="dark"] .texture-vignette {
+  background: radial-gradient(
+    ellipse at center,
+    transparent 0%,
+    rgba(0, 0, 0, 0.3) 100%
+  );
+}
+
+/* ============================================
+   GLOW EFFECTS
+   ============================================ */
+.glow-cyan {
+  box-shadow: var(--glow-cyan);
+}
+
+.glow-amber {
+  box-shadow: var(--glow-amber);
+}
+
+.glow-hover:hover {
+  box-shadow: var(--glow-subtle);
+}

@@ -1,0 +1,77 @@
+---
+/**
+ * Skeleton Component
+ * Loading placeholder with shimmer animation
+ * Jazz-themed colors for the shimmer effect
+ */
+
+interface Props {
+  variant?: 'text' | 'circle' | 'rect' | 'card';
+  width?: string;
+  height?: string;
+  class?: string;
+  lines?: number;
+}
+
+const {
+  variant = 'text',
+  width,
+  height,
+  class: className = '',
+  lines = 1,
+  ...rest
+} = Astro.props;
+
+const baseStyles = `
+  animate-shimmer
+  bg-gradient-to-r from-wiki-bg-nav via-wiki-bg-elevated to-wiki-bg-nav
+  bg-[length:200%_100%]
+`;
+
+const variants = {
+  text: 'h-4 rounded',
+  circle: 'rounded-full',
+  rect: 'rounded-md',
+  card: 'rounded-lg',
+};
+
+const getStyle = () => {
+  const styles: Record<string, string> = {};
+  if (width) styles.width = width;
+  if (height) styles.height = height;
+  return styles;
+};
+
+const classes = `${baseStyles} ${variants[variant]} ${className}`.trim();
+---
+
+{variant === 'text' && lines > 1 ? (
+  <div class="space-y-2" {...rest}>
+    {Array.from({ length: lines }).map((_, i) => (
+      <div
+        class={classes}
+        style={{
+          ...getStyle(),
+          width: i === lines - 1 ? '75%' : width || '100%'
+        }}
+      />
+    ))}
+  </div>
+) : (
+  <div class={classes} style={getStyle()} {...rest} />
+)}
+
+<style>
+  @keyframes shimmer {
+    0% {
+      background-position: 200% 0;
+    }
+    100% {
+      background-position: -200% 0;
+    }
+  }
+
+  .animate-shimmer {
+    animation: shimmer 1.5s ease-in-out infinite;
+  }
+</style>

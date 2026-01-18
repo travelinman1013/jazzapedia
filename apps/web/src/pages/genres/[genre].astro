@@ -1,0 +1,224 @@
+---
+/**
+ * Genre Detail Page - Show artists in a specific genre
+ * Uses D1/SQLite database for SSR
+ */
+import Layout from '../../layouts/Layout.astro';
+import { getDatabase } from '../../lib/db';
+
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
+
+// Set cache headers
+Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
+
+const { genre: genreSlug } = Astro.params;
+
+interface GenreInfo {
+  id: number;
+  name: string;
+  slug: string;
+  artist_count: number;
+}
+
+interface Artist {
+  slug: string;
+  title: string;
+  artist_type: string | null;
+  genres: string | null;
+  instruments: string | null;
+  image_filename: string | null;
+  spotify_data: string | null;
+}
+
+let genreInfo: GenreInfo | null = null;
+let artists: Artist[] = [];
+let errorMessage = '';
+
+if (!db) {
+  return Astro.redirect('/genres');
+}
+
+try {
+  // Get genre info from lookup table
+  genreInfo = await db
+    .prepare('SELECT id, name, slug, artist_count FROM genres WHERE slug = ?')
+    .bind(genreSlug)
+    .first() as GenreInfo | null;
+
+  if (!genreInfo) {
+    return Astro.redirect('/genres');
+  }
+
+  // Get artists with this genre (JSON array contains)
+  // Using LIKE with the genre name wrapped in quotes to match JSON array elements
+  const { results } = await db
+    .prepare(`
+      SELECT slug, title, artist_type, genres, instruments, image_filename, spotify_data
+      FROM artists
+      WHERE genres LIKE ?
+      ORDER BY
+        CASE WHEN json_extract(spotify_data, '$.popularity') IS NOT NULL
+             THEN json_extract(spotify_data, '$.popularity')
+             ELSE 0 END DESC,
+        title ASC
+      LIMIT 500
+    `)
+    .bind('%"' + genreInfo.name + '"%')
+    .all();
+  artists = results as Artist[];
+} catch (error) {
+  console.error('Error loading genre:', error);
+  errorMessage = 'Failed to load genre data.';
+}
+
+// Helper functions
+function parseJson(json: string | null, fallback: any): any {
+  if (!json) return fallback;
+  try {
+    return JSON.parse(json);
+  } catch {
+    return fallback;
+  }
+}
+
+const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+
+// Calculate related genres from artists
+const relatedGenreCounts = new Map<string, number>();
+artists.forEach(artist => {
+  const genres = parseJson(artist.genres, []);
+  genres.forEach(g => {
+    if (g !== genreInfo?.name) {
+      relatedGenreCounts.set(g, (relatedGenreCounts.get(g) || 0) + 1);
+    }
+  });
+});
+const relatedGenres = Array.from(relatedGenreCounts.entries())
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 10);
+
+// Get common instruments for this genre
+const instrumentCounts = new Map<string, number>();
+artists.forEach(artist => {
+  const instruments = parseJson(artist.instruments, []);
+  instruments.forEach(instrument => {
+    instrumentCounts.set(instrument, (instrumentCounts.get(instrument) || 0) + 1);
+  });
+});
+const topInstruments = Array.from(instrumentCounts.entries())
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 8);
+
+
+// Calculate average popularity
+const artistsWithPopularity = artists.filter(a => {
+  const spotify = parseJson(a.spotify_data, {});
+  return spotify.popularity !== undefined;
+});
+const avgPopularity = artistsWithPopularity.length > 0
+  ? Math.round(
+      artistsWithPopularity.reduce((sum, a) => {
+        const spotify = parseJson(a.spotify_data, {});
+        return sum + (spotify.popularity || 0);
+      }, 0) / artistsWithPopularity.length
+    )
+  : 0;
+---
+
+<Layout title={genreInfo?.name || 'Genre'}>
+  <div class="article-content">
+    {errorMessage ? (
+      <p class="text-red-600">{errorMessage}</p>
+    ) : genreInfo && (
+      <>
+        <h1>{genreInfo.name}</h1>
+
+        <p class="text-wiki-text-secondary mb-6">
+          <strong>{artists.length.toLocaleString()}</strong> artists in this genre.
+          {avgPopularity > 0 && (
+            <> Average Spotify popularity: <strong>{avgPopularity}/100</strong>.</>
+          )}
+        </p>
+
+        <!-- Genre Stats -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+          <!-- Related Genres -->
+          {relatedGenres.length > 0 && (
+            <div class="bg-wiki-bg border border-wiki-border rounded p-4">
+              <h3 class="font-semibold mb-2 text-wiki-text">Related Genres</h3>
+              <div class="flex flex-wrap gap-1">
+                {relatedGenres.map(([genre, count]) => (
+                  <a
+                    href={`/genres/${toSlug(genre)}`}
+                    class="inline-flex items-center px-2 py-1 bg-wiki-tag-bg border border-wiki-tag-border rounded text-xs hover:bg-wiki-accent-light transition-colors"
+                  >
+                    <span class="text-wiki-link">{genre}</span>
+                    <span class="ml-1 text-wiki-text-muted">({count})</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <!-- Top Instruments -->
+          {topInstruments.length > 0 && (
+            <div class="bg-wiki-bg border border-wiki-border rounded p-4">
+              <h3 class="font-semibold mb-2 text-wiki-text">Common Instruments</h3>
+              <div class="flex flex-wrap gap-1">
+                {topInstruments.map(([instrument, count]) => (
+                  <a
+                    href={`/instruments/${toSlug(instrument)}`}
+                    class="inline-flex items-center px-2 py-1 bg-wiki-tag-bg border border-wiki-tag-border rounded text-xs hover:bg-wiki-accent-light transition-colors"
+                  >
+                    <span class="text-wiki-link">{instrument}</span>
+                    <span class="ml-1 text-wiki-text-muted">({count})</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+
+        <!-- Artists List -->
+        <h2>Artists ({artists.length})</h2>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+          {artists.map(artist => {
+            const spotifyData = parseJson(artist.spotify_data, {});
+            const artistGenres = parseJson(artist.genres, []);
+            const otherGenres = artistGenres.filter(g => g !== genreInfo?.name).slice(0, 2);
+
+            return (
+              <a
+                href={`/artists/${artist.slug}`}
+                class="block p-3 bg-wiki-bg border border-wiki-border-light rounded hover:border-wiki-link hover:bg-wiki-accent-light transition-colors"
+              >
+                <div class="flex items-start justify-between">
+                  <span class="text-wiki-link font-medium">{artist.title}</span>
+                  {spotifyData?.popularity && (
+                    <span class="text-xs bg-green-100 text-green-700 px-1.5 py-0.5 rounded">
+                      {spotifyData.popularity}
+                    </span>
+                  )}
+                </div>
+                {otherGenres.length > 0 && (
+                  <div class="text-xs text-wiki-text-muted mt-1 truncate">
+                    Also: {otherGenres.join(', ')}
+                  </div>
+                )}
+              </a>
+            );
+          })}
+        </div>
+
+        <!-- Back Link -->
+        <div class="mt-8 pt-4 border-t border-wiki-border">
+          <a href="/genres" class="text-wiki-link hover:underline">
+            &larr; Back to all genres
+          </a>
+        </div>
+      </>
+    )}
+  </div>
+</Layout>

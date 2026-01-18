@@ -1,0 +1,541 @@
+---
+import '../styles/theme-variables.css';
+import CommandPalette from '../components/ui/CommandPalette.astro';
+
+// Import variable fonts
+import '@fontsource-variable/playfair-display';
+import '@fontsource-variable/inter';
+import '@fontsource-variable/jetbrains-mono';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'A personal wiki for music artists and their connections' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en" data-theme="classic-jazz" data-mode="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title} - Jazzapedia</title>
+
+    <!-- Inline settings initialization (prevents FOUC) -->
+    <script is:inline>
+      (function() {
+        var STORAGE_KEY = 'wiki-settings';
+        var defaults = {
+          theme: 'classic-jazz',
+          mode: 'system',
+          fontSize: 'medium',
+          articleWidth: 'medium',
+          showToc: true,
+          compactMode: false,
+          externalLinksNewTab: true
+        };
+
+        var settings = defaults;
+        try {
+          var stored = localStorage.getItem(STORAGE_KEY);
+          if (stored) settings = Object.assign({}, defaults, JSON.parse(stored));
+        } catch(e) {}
+
+        var html = document.documentElement;
+        html.setAttribute('data-theme', settings.theme);
+
+        // Determine effective mode
+        var effectiveMode = settings.mode;
+        if (settings.mode === 'system') {
+          effectiveMode = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        html.setAttribute('data-mode', effectiveMode);
+
+        // Apply other settings as data attributes
+        html.setAttribute('data-compact', settings.compactMode);
+        html.setAttribute('data-show-toc', settings.showToc);
+        html.setAttribute('data-external-new-tab', settings.externalLinksNewTab);
+
+        var fontSizes = { small: '14px', medium: '16px', large: '18px' };
+        html.style.fontSize = fontSizes[settings.fontSize] || '16px';
+
+        var widths = { narrow: '42rem', medium: '48rem', wide: '60rem' };
+        html.style.setProperty('--article-max-width', widths[settings.articleWidth] || '48rem');
+
+        var spacing = settings.compactMode ? '0.75' : '1';
+        html.style.setProperty('--spacing-multiplier', spacing);
+      })();
+    </script>
+  </head>
+  <body class="bg-wiki-bg min-h-screen font-sans text-wiki-text">
+    <!-- Header -->
+    <header class="bg-wiki-bg-content border-b border-wiki-border sticky top-0 z-50 backdrop-blur-sm bg-opacity-95">
+      <div class="max-w-6xl mx-auto px-4 py-3">
+        <div class="flex items-center justify-between">
+          <!-- Logo/Title -->
+          <a href="/" class="group flex items-center space-x-3 hover:no-underline">
+            <span class="text-jazz-amber text-2xl">&#9835;</span>
+            <span class="text-xl font-display text-wiki-text-heading font-semibold tracking-tight group-hover:text-wiki-accent transition-colors duration-fast">
+              Jazzapedia
+            </span>
+          </a>
+
+          <!-- Navigation -->
+          <nav class="nav-desktop">
+            <a href="/" class="nav-link">Home</a>
+            <a href="/artists" class="nav-link">Artists</a>
+            <a href="/genres" class="nav-link">Genres</a>
+            <a href="/roles" class="nav-link">Roles</a>
+            <a href="/wwoz" class="nav-link">WWOZ</a>
+            <a href="/random" class="nav-link">Random</a>
+            <button type="button" class="nav-link search-trigger" title="Search (Cmd+K)" aria-label="Open search">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+              <kbd class="search-kbd">K</kbd>
+            </button>
+            <a href="/settings" class="nav-link" title="Settings" aria-label="Settings">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+              </svg>
+            </a>
+          </nav>
+
+          <!-- Mobile Navigation -->
+          <div class="nav-mobile-controls">
+            <button type="button" class="nav-link search-trigger" title="Search" aria-label="Open search">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+            </button>
+            <button type="button" class="hamburger-btn" id="hamburger-btn" aria-label="Toggle menu" aria-expanded="false">
+              <svg class="hamburger-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+              </svg>
+              <svg class="close-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+          </div>
+        </div>
+
+        <!-- Mobile Menu -->
+        <nav class="mobile-menu" id="mobile-menu">
+          <a href="/" class="mobile-nav-link">Home</a>
+          <a href="/artists" class="mobile-nav-link">Artists</a>
+          <a href="/genres" class="mobile-nav-link">Genres</a>
+          <a href="/roles" class="mobile-nav-link">Roles</a>
+          <a href="/wwoz" class="mobile-nav-link">WWOZ</a>
+          <a href="/random" class="mobile-nav-link">Random</a>
+          <a href="/settings" class="mobile-nav-link">Settings</a>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-6xl mx-auto px-4 py-6">
+      <div class="bg-wiki-bg-content border border-wiki-border rounded-lg shadow-card p-6">
+        <slot />
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-wiki-bg-content border-t border-wiki-border mt-8">
+      <div class="max-w-6xl mx-auto px-4 py-6">
+        <div class="flex flex-col md:flex-row justify-between items-center text-sm text-wiki-text-muted gap-4">
+          <div class="flex items-center gap-2">
+            <span class="text-jazz-amber">&#9835;</span>
+            <p class="font-display">Jazzapedia</p>
+          </div>
+          <p>
+            Data from
+            <a href="https://musicbrainz.org" class="text-wiki-link hover:text-wiki-link-hover transition-colors">MusicBrainz</a>,
+            <a href="https://spotify.com" class="text-wiki-link hover:text-wiki-link-hover transition-colors">Spotify</a>, and
+            <a href="https://wikipedia.org" class="text-wiki-link hover:text-wiki-link-hover transition-colors">Wikipedia</a>
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Command Palette (Cmd+K search) -->
+    <CommandPalette />
+
+    <!-- Global Styles -->
+    <style is:global>
+      /* Navigation link styling */
+      .nav-link {
+        @apply px-3 py-2 text-sm text-wiki-text-secondary hover:text-wiki-link rounded-md transition-all duration-fast;
+        @apply hover:bg-wiki-accent-light;
+        position: relative;
+      }
+
+      .nav-link::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        width: 0;
+        height: 2px;
+        background: var(--electric-cyan);
+        transition: all var(--duration-normal) var(--ease-jazz);
+        transform: translateX(-50%);
+      }
+
+      .nav-link:hover::after {
+        width: 60%;
+      }
+
+      /* Search trigger button */
+      .search-trigger {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.375rem;
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        font: inherit;
+      }
+
+      .search-kbd {
+        display: none;
+        padding: 0.125rem 0.375rem;
+        font-family: 'JetBrains Mono Variable', monospace;
+        font-size: 0.6rem;
+        background: var(--color-bg-nav);
+        border: 1px solid var(--color-border);
+        border-radius: var(--radius-sm);
+        color: var(--color-text-muted);
+      }
+
+      @media (min-width: 768px) {
+        .search-kbd {
+          display: inline;
+        }
+      }
+
+      /* Mobile Navigation */
+      .nav-desktop {
+        display: none;
+      }
+
+      @media (min-width: 768px) {
+        .nav-desktop {
+          display: flex;
+          align-items: center;
+          gap: 0.25rem;
+        }
+      }
+
+      .nav-mobile-controls {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      @media (min-width: 768px) {
+        .nav-mobile-controls {
+          display: none;
+        }
+      }
+
+      .hamburger-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        padding: 0;
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        color: var(--color-text-secondary);
+        transition: color var(--duration-fast) var(--ease-smooth);
+        border-radius: var(--radius-md);
+      }
+
+      .hamburger-btn:hover {
+        color: var(--color-link);
+        background: var(--color-accent-light);
+      }
+
+      .hamburger-btn svg {
+        width: 24px;
+        height: 24px;
+      }
+
+      .hamburger-btn .close-icon {
+        display: none;
+      }
+
+      .hamburger-btn[aria-expanded="true"] .hamburger-icon {
+        display: none;
+      }
+
+      .hamburger-btn[aria-expanded="true"] .close-icon {
+        display: block;
+      }
+
+      .mobile-menu {
+        display: none;
+        flex-direction: column;
+        gap: 0.25rem;
+        padding: 1rem 0;
+        border-top: 1px solid var(--color-border);
+        margin-top: 0.75rem;
+      }
+
+      .mobile-menu.is-open {
+        display: flex;
+      }
+
+      @media (min-width: 768px) {
+        .mobile-menu {
+          display: none !important;
+        }
+      }
+
+      .mobile-nav-link {
+        display: block;
+        padding: 0.75rem 1rem;
+        font-size: 1rem;
+        color: var(--color-text);
+        text-decoration: none;
+        border-radius: var(--radius-md);
+        transition: all var(--duration-fast) var(--ease-smooth);
+      }
+
+      .mobile-nav-link:hover {
+        background: var(--color-accent-light);
+        color: var(--color-link);
+      }
+
+      /* Wiki link styling */
+      .wiki-link {
+        color: var(--color-link);
+        text-decoration: none;
+        transition: color var(--duration-fast) var(--ease-smooth);
+      }
+      .wiki-link:hover {
+        color: var(--color-link-hover);
+        text-decoration: underline;
+      }
+
+      /* Red links for non-existent pages */
+      .wiki-link-new {
+        color: var(--color-link-red);
+        text-decoration: none;
+      }
+      .wiki-link-new:hover {
+        text-decoration: underline;
+      }
+
+      /* Article content styling */
+      .article-content h1 {
+        font-family: 'Playfair Display Variable', Georgia, serif;
+        font-size: 2rem;
+        font-weight: 500;
+        border-bottom: 2px solid var(--color-border-accent);
+        padding-bottom: 0.3rem;
+        margin-bottom: calc(1rem * var(--spacing-multiplier, 1));
+        color: var(--color-text-heading);
+        letter-spacing: -0.01em;
+      }
+
+      .article-content h2 {
+        font-family: 'Playfair Display Variable', Georgia, serif;
+        font-size: 1.5rem;
+        font-weight: 500;
+        border-bottom: 1px solid var(--color-border);
+        padding-bottom: 0.25rem;
+        margin-top: calc(1.5rem * var(--spacing-multiplier, 1));
+        margin-bottom: calc(0.75rem * var(--spacing-multiplier, 1));
+        color: var(--color-text-heading);
+      }
+
+      .article-content h3 {
+        font-family: 'Playfair Display Variable', Georgia, serif;
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin-top: calc(1.25rem * var(--spacing-multiplier, 1));
+        margin-bottom: calc(0.5rem * var(--spacing-multiplier, 1));
+        color: var(--color-text-heading);
+      }
+
+      .article-content p {
+        margin-bottom: calc(1rem * var(--spacing-multiplier, 1));
+        line-height: 1.65;
+        color: var(--color-text);
+      }
+
+      .article-content ul,
+      .article-content ol {
+        margin-bottom: calc(1rem * var(--spacing-multiplier, 1));
+        padding-left: 1.5rem;
+        color: var(--color-text);
+      }
+
+      .article-content li {
+        margin-bottom: calc(0.25rem * var(--spacing-multiplier, 1));
+      }
+
+      .article-content a {
+        color: var(--color-link);
+        text-decoration: none;
+        transition: color var(--duration-fast) var(--ease-smooth);
+      }
+
+      .article-content a:hover {
+        text-decoration: underline;
+        color: var(--color-link-hover);
+      }
+
+      /* Table styling */
+      .article-content table {
+        border-collapse: collapse;
+        margin: calc(1rem * var(--spacing-multiplier, 1)) 0;
+        width: 100%;
+        border-radius: var(--radius-md);
+        overflow: hidden;
+      }
+
+      .article-content th,
+      .article-content td {
+        border: 1px solid var(--color-border);
+        padding: 0.5rem 0.75rem;
+        text-align: left;
+        color: var(--color-text);
+      }
+
+      .article-content th {
+        background-color: var(--color-bg-nav);
+        font-weight: 600;
+        font-family: 'Playfair Display Variable', Georgia, serif;
+      }
+
+      .article-content tr:nth-child(even) {
+        background-color: var(--color-bg);
+      }
+
+      /* Blockquote styling */
+      .article-content blockquote {
+        border-left: 3px solid var(--color-accent);
+        padding-left: 1rem;
+        margin: calc(1rem * var(--spacing-multiplier, 1)) 0;
+        color: var(--color-text-secondary);
+        font-style: italic;
+      }
+
+      /* Code styling */
+      .article-content code {
+        font-family: 'JetBrains Mono Variable', monospace;
+        background-color: var(--color-bg-nav);
+        padding: 0.2em 0.4em;
+        border-radius: var(--radius-sm);
+        font-size: 0.9em;
+      }
+
+      .article-content pre {
+        background-color: var(--color-bg-nav);
+        padding: 1rem;
+        border-radius: var(--radius-md);
+        overflow-x: auto;
+        margin: calc(1rem * var(--spacing-multiplier, 1)) 0;
+      }
+
+      .article-content pre code {
+        background: none;
+        padding: 0;
+      }
+
+      /* Selection styling */
+      ::selection {
+        background-color: var(--color-accent-light);
+        color: var(--color-text);
+      }
+
+      /* Scrollbar styling for dark mode */
+      [data-mode="dark"] {
+        color-scheme: dark;
+      }
+
+      [data-mode="dark"] ::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+      }
+
+      [data-mode="dark"] ::-webkit-scrollbar-track {
+        background: var(--jazz-charcoal);
+      }
+
+      [data-mode="dark"] ::-webkit-scrollbar-thumb {
+        background: var(--jazz-slate);
+        border-radius: 5px;
+      }
+
+      [data-mode="dark"] ::-webkit-scrollbar-thumb:hover {
+        background: var(--color-border);
+      }
+    </style>
+
+    <!-- External links behavior script -->
+    <script is:inline>
+      document.addEventListener('DOMContentLoaded', function() {
+        function updateExternalLinks() {
+          var openInNewTab = document.documentElement.getAttribute('data-external-new-tab') === 'true';
+          document.querySelectorAll('a[href^="http"]').forEach(function(link) {
+            if (link.hostname === window.location.hostname) return;
+            if (openInNewTab) {
+              link.setAttribute('target', '_blank');
+              link.setAttribute('rel', 'noopener noreferrer');
+            } else {
+              link.removeAttribute('target');
+              link.removeAttribute('rel');
+            }
+          });
+        }
+
+        updateExternalLinks();
+
+        // Re-run when settings change
+        var observer = new MutationObserver(updateExternalLinks);
+        observer.observe(document.documentElement, {
+          attributes: true,
+          attributeFilter: ['data-external-new-tab']
+        });
+
+        // Listen for system color scheme changes
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+          var stored = localStorage.getItem('wiki-settings');
+          var settings = stored ? JSON.parse(stored) : {};
+          if (settings.mode === 'system') {
+            document.documentElement.setAttribute('data-mode', e.matches ? 'dark' : 'light');
+          }
+        });
+
+        // Mobile menu toggle
+        var hamburgerBtn = document.getElementById('hamburger-btn');
+        var mobileMenu = document.getElementById('mobile-menu');
+
+        if (hamburgerBtn && mobileMenu) {
+          hamburgerBtn.addEventListener('click', function() {
+            var isOpen = mobileMenu.classList.toggle('is-open');
+            hamburgerBtn.setAttribute('aria-expanded', isOpen);
+          });
+
+          // Close menu when clicking a link
+          mobileMenu.querySelectorAll('a').forEach(function(link) {
+            link.addEventListener('click', function() {
+              mobileMenu.classList.remove('is-open');
+              hamburgerBtn.setAttribute('aria-expanded', 'false');
+            });
+          });
+        }
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,651 @@
+---
+/**
+ * CommandPalette Component - Global Search (Cmd+K)
+ * Jazz club aesthetic with Pagefind integration
+ * Features: keyboard navigation, modal overlay, recent searches
+ */
+---
+
+<!-- Command Palette Modal -->
+<div id="command-palette" class="palette-backdrop" role="dialog" aria-modal="true" aria-label="Search">
+  <div class="palette-container">
+    <!-- Search Input -->
+    <div class="palette-header">
+      <div class="palette-input-wrapper">
+        <svg class="palette-search-icon" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
+        </svg>
+        <input
+          type="text"
+          id="palette-input"
+          class="palette-input"
+          placeholder="Search artists, genres, roles..."
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <kbd class="palette-kbd">ESC</kbd>
+      </div>
+    </div>
+
+    <!-- Results Area -->
+    <div class="palette-results" id="palette-results">
+      <!-- Initial state: Quick links -->
+      <div class="palette-section palette-quick-links">
+        <div class="palette-section-title">Quick Links</div>
+        <a href="/artists" class="palette-item" data-palette-item>
+          <span class="palette-item-icon">&#9835;</span>
+          <span class="palette-item-text">Browse All Artists</span>
+          <kbd class="palette-item-hint">3,600+</kbd>
+        </a>
+        <a href="/genres" class="palette-item" data-palette-item>
+          <span class="palette-item-icon">&#127926;</span>
+          <span class="palette-item-text">Explore Genres</span>
+        </a>
+        <a href="/roles" class="palette-item" data-palette-item>
+          <span class="palette-item-icon">&#127927;</span>
+          <span class="palette-item-text">Browse Roles</span>
+        </a>
+        <a href="/instruments" class="palette-item" data-palette-item>
+          <span class="palette-item-icon">&#127928;</span>
+          <span class="palette-item-text">Browse Instruments</span>
+        </a>
+        <a href="/random" class="palette-item" data-palette-item>
+          <span class="palette-item-icon">&#127922;</span>
+          <span class="palette-item-text">Random Artist</span>
+          <kbd class="palette-item-hint">R</kbd>
+        </a>
+      </div>
+
+      <!-- Search results will be injected here -->
+      <div class="palette-section palette-search-results" id="search-results" style="display: none;">
+        <div class="palette-section-title">Results</div>
+        <div id="results-list"></div>
+      </div>
+
+      <!-- Loading state -->
+      <div class="palette-loading" id="palette-loading" style="display: none;">
+        <div class="palette-spinner"></div>
+        <span>Searching...</span>
+      </div>
+
+      <!-- No results state -->
+      <div class="palette-no-results" id="palette-no-results" style="display: none;">
+        <span class="palette-no-results-icon">&#128269;</span>
+        <span class="palette-no-results-text">No results found</span>
+        <span class="palette-no-results-hint">Try a different search term</span>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="palette-footer">
+      <div class="palette-footer-hints">
+        <span><kbd>&uarr;</kbd><kbd>&darr;</kbd> Navigate</span>
+        <span><kbd>&crarr;</kbd> Select</span>
+        <span><kbd>ESC</kbd> Close</span>
+      </div>
+      <div class="palette-footer-brand">
+        <span class="text-jazz-amber">&#9835;</span> Jazzapedia
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  /* ============================================
+     Backdrop & Container
+     ============================================ */
+  .palette-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    display: none;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 15vh;
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(4px);
+    opacity: 0;
+    transition: opacity var(--duration-fast) var(--ease-smooth);
+  }
+
+  .palette-backdrop.is-open {
+    display: flex;
+    opacity: 1;
+  }
+
+  .palette-container {
+    width: 100%;
+    max-width: 600px;
+    max-height: 70vh;
+    margin: 0 1rem;
+    background: var(--color-bg-content);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.4);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transform: scale(0.95) translateY(-10px);
+    transition: transform var(--duration-normal) var(--ease-jazz);
+  }
+
+  .palette-backdrop.is-open .palette-container {
+    transform: scale(1) translateY(0);
+  }
+
+  /* ============================================
+     Header / Input
+     ============================================ */
+  .palette-header {
+    padding: 1rem;
+    border-bottom: 1px solid var(--color-border);
+    background: var(--color-bg-nav);
+  }
+
+  .palette-input-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    background: var(--color-bg-content);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    padding: 0.5rem 0.75rem;
+    transition: border-color var(--duration-fast) var(--ease-smooth);
+  }
+
+  .palette-input-wrapper:focus-within {
+    border-color: var(--electric-cyan);
+    box-shadow: 0 0 0 3px var(--color-accent-glow);
+  }
+
+  .palette-search-icon {
+    width: 1.25rem;
+    height: 1.25rem;
+    color: var(--color-text-muted);
+    flex-shrink: 0;
+  }
+
+  .palette-input {
+    flex: 1;
+    border: none;
+    background: transparent;
+    font-size: 1rem;
+    font-family: inherit;
+    color: var(--color-text);
+    outline: none;
+  }
+
+  .palette-input::placeholder {
+    color: var(--color-text-muted);
+  }
+
+  .palette-kbd {
+    padding: 0.125rem 0.375rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.65rem;
+    background: var(--color-bg-nav);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    color: var(--color-text-muted);
+  }
+
+  /* ============================================
+     Results Area
+     ============================================ */
+  .palette-results {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0.5rem;
+  }
+
+  .palette-section {
+    margin-bottom: 0.5rem;
+  }
+
+  .palette-section-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-text-muted);
+    padding: 0.5rem 0.75rem;
+  }
+
+  /* ============================================
+     Result Items
+     ============================================ */
+  .palette-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.625rem 0.75rem;
+    border-radius: var(--radius-md);
+    color: var(--color-text);
+    text-decoration: none;
+    cursor: pointer;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .palette-item:hover,
+  .palette-item.is-selected {
+    background: var(--color-accent-light);
+    color: var(--color-link);
+  }
+
+  .palette-item.is-selected {
+    outline: 2px solid var(--electric-cyan);
+    outline-offset: -2px;
+  }
+
+  .palette-item-icon {
+    font-size: 1.25rem;
+    opacity: 0.6;
+    flex-shrink: 0;
+    width: 1.5rem;
+    text-align: center;
+  }
+
+  .palette-item-text {
+    flex: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .palette-item-meta {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+  }
+
+  .palette-item-hint {
+    padding: 0.125rem 0.375rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.65rem;
+    background: var(--color-bg-nav);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-sm);
+    color: var(--color-text-muted);
+  }
+
+  /* ============================================
+     States
+     ============================================ */
+  .palette-loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    padding: 2rem;
+    color: var(--color-text-muted);
+  }
+
+  .palette-spinner {
+    width: 1.25rem;
+    height: 1.25rem;
+    border: 2px solid var(--color-border);
+    border-top-color: var(--electric-cyan);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+
+  .palette-no-results {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    text-align: center;
+    color: var(--color-text-muted);
+  }
+
+  .palette-no-results-icon {
+    font-size: 2rem;
+    opacity: 0.5;
+    margin-bottom: 0.5rem;
+  }
+
+  .palette-no-results-text {
+    font-weight: 500;
+  }
+
+  .palette-no-results-hint {
+    font-size: 0.875rem;
+    opacity: 0.7;
+  }
+
+  /* ============================================
+     Footer
+     ============================================ */
+  .palette-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 1rem;
+    border-top: 1px solid var(--color-border);
+    background: var(--color-bg-nav);
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+  }
+
+  .palette-footer-hints {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .palette-footer-hints kbd {
+    padding: 0.125rem 0.25rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.6rem;
+    background: var(--color-bg-content);
+    border: 1px solid var(--color-border-light);
+    border-radius: 2px;
+  }
+
+  .palette-footer-brand {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-weight: 500;
+  }
+
+  /* ============================================
+     Dark Mode
+     ============================================ */
+  :global([data-mode="dark"]) .palette-backdrop {
+    background: rgba(0, 0, 0, 0.75);
+  }
+
+  :global([data-mode="dark"]) .palette-container {
+    background: var(--jazz-charcoal);
+    border-color: var(--color-border);
+  }
+
+  :global([data-mode="dark"]) .palette-header,
+  :global([data-mode="dark"]) .palette-footer {
+    background: var(--jazz-smoke);
+  }
+
+  :global([data-mode="dark"]) .palette-input-wrapper {
+    background: var(--jazz-charcoal);
+  }
+
+  /* ============================================
+     Responsive
+     ============================================ */
+  @media (max-width: 640px) {
+    .palette-backdrop {
+      padding-top: 5vh;
+    }
+
+    .palette-container {
+      max-height: 85vh;
+    }
+
+    .palette-footer-hints {
+      display: none;
+    }
+  }
+</style>
+
+<script>
+  // Command Palette functionality
+  class CommandPalette {
+    private backdrop: HTMLElement;
+    private input: HTMLInputElement;
+    private resultsContainer: HTMLElement;
+    private resultsList: HTMLElement;
+    private quickLinks: HTMLElement;
+    private searchResults: HTMLElement;
+    private loading: HTMLElement;
+    private noResults: HTMLElement;
+    private selectedIndex: number = -1;
+    private items: HTMLElement[] = [];
+    private pagefind: any = null;
+    private debounceTimer: number | null = null;
+
+    constructor() {
+      this.backdrop = document.getElementById('command-palette')!;
+      this.input = document.getElementById('palette-input') as HTMLInputElement;
+      this.resultsContainer = document.getElementById('palette-results')!;
+      this.resultsList = document.getElementById('results-list')!;
+      this.quickLinks = document.querySelector('.palette-quick-links')!;
+      this.searchResults = document.getElementById('search-results')!;
+      this.loading = document.getElementById('palette-loading')!;
+      this.noResults = document.getElementById('palette-no-results')!;
+
+      this.bindEvents();
+      this.loadPagefind();
+    }
+
+    private bindEvents() {
+      // Global keyboard shortcut
+      document.addEventListener('keydown', (e) => {
+        // Cmd+K or Ctrl+K to open
+        if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+          e.preventDefault();
+          this.open();
+        }
+
+        // R for random (when not in input)
+        if (e.key === 'r' && document.activeElement?.tagName !== 'INPUT') {
+          // Only if palette is closed
+          if (!this.backdrop.classList.contains('is-open')) {
+            window.location.href = '/random';
+          }
+        }
+      });
+
+      // Search trigger button click
+      const searchTrigger = document.querySelector('.search-trigger');
+      if (searchTrigger) {
+        searchTrigger.addEventListener('click', (e) => {
+          e.preventDefault();
+          this.open();
+        });
+      }
+
+      // Close on backdrop click
+      this.backdrop.addEventListener('click', (e) => {
+        if (e.target === this.backdrop) {
+          this.close();
+        }
+      });
+
+      // Input events
+      this.input.addEventListener('input', () => this.onInput());
+      this.input.addEventListener('keydown', (e) => this.onKeydown(e));
+
+      // Initialize quick link items
+      this.updateItems();
+    }
+
+    private async loadPagefind() {
+      if (this.pagefind) return;
+      try {
+        // Check if pagefind exists before attempting import
+        const checkResponse = await fetch('/pagefind/pagefind.js', { method: 'HEAD' });
+        if (!checkResponse.ok) {
+          console.debug('Search requires build: run npm run build first');
+          return;
+        }
+        // Use Function constructor to create dynamic import (bypasses Vite)
+        const dynamicImport = new Function('path', 'return import(path)');
+        this.pagefind = await dynamicImport('/pagefind/pagefind.js');
+        await this.pagefind.init();
+      } catch {
+        // Pagefind not available in dev mode
+        console.debug('Search requires build: run npm run build first');
+      }
+    }
+
+    open() {
+      this.backdrop.classList.add('is-open');
+      this.input.focus();
+      document.body.style.overflow = 'hidden';
+      this.selectedIndex = -1;
+      this.updateItems();
+    }
+
+    close() {
+      this.backdrop.classList.remove('is-open');
+      this.input.value = '';
+      document.body.style.overflow = '';
+      this.showQuickLinks();
+    }
+
+    private onInput() {
+      const query = this.input.value.trim();
+
+      // Debounce search
+      if (this.debounceTimer) {
+        clearTimeout(this.debounceTimer);
+      }
+
+      if (query.length === 0) {
+        this.showQuickLinks();
+        return;
+      }
+
+      this.debounceTimer = window.setTimeout(() => {
+        this.search(query);
+      }, 200);
+    }
+
+    private onKeydown(e: KeyboardEvent) {
+      switch (e.key) {
+        case 'Escape':
+          e.preventDefault();
+          this.close();
+          break;
+
+        case 'ArrowDown':
+          e.preventDefault();
+          this.selectNext();
+          break;
+
+        case 'ArrowUp':
+          e.preventDefault();
+          this.selectPrev();
+          break;
+
+        case 'Enter':
+          e.preventDefault();
+          this.activateSelected();
+          break;
+      }
+    }
+
+    private updateItems() {
+      this.items = Array.from(
+        this.resultsContainer.querySelectorAll('[data-palette-item]:not([style*="display: none"])')
+      ) as HTMLElement[];
+      this.updateSelection();
+    }
+
+    private selectNext() {
+      this.selectedIndex = Math.min(this.selectedIndex + 1, this.items.length - 1);
+      this.updateSelection();
+    }
+
+    private selectPrev() {
+      this.selectedIndex = Math.max(this.selectedIndex - 1, -1);
+      this.updateSelection();
+    }
+
+    private updateSelection() {
+      this.items.forEach((item, i) => {
+        if (i === this.selectedIndex) {
+          item.classList.add('is-selected');
+          item.scrollIntoView({ block: 'nearest' });
+        } else {
+          item.classList.remove('is-selected');
+        }
+      });
+    }
+
+    private activateSelected() {
+      if (this.selectedIndex >= 0 && this.items[this.selectedIndex]) {
+        const item = this.items[this.selectedIndex] as HTMLAnchorElement;
+        if (item.href) {
+          window.location.href = item.href;
+        }
+      }
+    }
+
+    private showQuickLinks() {
+      this.quickLinks.style.display = 'block';
+      this.searchResults.style.display = 'none';
+      this.loading.style.display = 'none';
+      this.noResults.style.display = 'none';
+      this.selectedIndex = -1;
+      this.updateItems();
+    }
+
+    private async search(query: string) {
+      if (!this.pagefind) {
+        // Fallback: redirect to search page
+        this.close();
+        window.location.href = `/search?q=${encodeURIComponent(query)}`;
+        return;
+      }
+
+      // Show loading
+      this.quickLinks.style.display = 'none';
+      this.searchResults.style.display = 'none';
+      this.noResults.style.display = 'none';
+      this.loading.style.display = 'flex';
+
+      try {
+        const search = await this.pagefind.search(query);
+        const results = await Promise.all(
+          search.results.slice(0, 10).map((r: any) => r.data())
+        );
+
+        this.loading.style.display = 'none';
+
+        if (results.length === 0) {
+          this.noResults.style.display = 'flex';
+          this.updateItems();
+          return;
+        }
+
+        // Render results
+        this.resultsList.innerHTML = results.map((result: any) => {
+          // Determine icon based on URL
+          let icon = '&#9835;'; // Default music note
+          if (result.url?.includes('/genres/')) {
+            icon = '&#127926;';
+          } else if (result.url?.includes('/roles/')) {
+            icon = '&#127927;';
+          } else if (result.url?.includes('/instruments/')) {
+            icon = '&#127928;';
+          }
+
+          return `
+            <a href="${result.url}" class="palette-item" data-palette-item>
+              <span class="palette-item-icon">${icon}</span>
+              <span class="palette-item-text">${result.meta?.title || result.url}</span>
+              ${result.excerpt ? `<span class="palette-item-meta">${result.excerpt.slice(0, 50)}...</span>` : ''}
+            </a>
+          `;
+        }).join('');
+
+        this.searchResults.style.display = 'block';
+        this.selectedIndex = 0;
+        this.updateItems();
+
+      } catch (err) {
+        console.error('Search error:', err);
+        this.loading.style.display = 'none';
+        this.noResults.style.display = 'flex';
+      }
+    }
+  }
+
+  // Initialize when DOM is ready
+  document.addEventListener('DOMContentLoaded', () => {
+    new CommandPalette();
+  });
+</script>

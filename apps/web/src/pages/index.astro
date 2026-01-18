@@ -1,0 +1,669 @@
+---
+/**
+ * Home Page - Jazz Club Playbill Aesthetic
+ * Features art deco hero, animated stat boxes, and featured content sections
+ * Uses D1 database for SSR
+ */
+import Layout from '../layouts/Layout.astro';
+import StatBox from '../components/jazz/StatBox.astro';
+import ArtistCard from '../components/jazz/ArtistCard.astro';
+import GenreBadge from '../components/jazz/GenreBadge.astro';
+import { getDatabase, getPortraitUrl } from '../lib/db';
+
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
+
+// Set cache headers (shorter for homepage with random content)
+Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-revalidate=3600');
+
+interface Artist {
+  slug: string;
+  title: string;
+  artist_type: string | null;
+  genres: string | null;
+  image_filename: string | null;
+  spotify_data: string | null;
+  updated_at: string | null;
+}
+
+interface Genre {
+  name: string;
+  artist_count: number;
+}
+
+let artistCount = 0;
+let genreCount = 0;
+let instrumentCount = 0;
+let artistsWithSpotify = 0;
+let randomArtists: Artist[] = [];
+let recentArtists: Artist[] = [];
+let topGenres: Genre[] = [];
+let errorMessage = '';
+
+if (db) {
+  try {
+    // Run queries in parallel for better performance
+    const [
+      artistCountResult,
+      genreCountResult,
+      instrumentCountResult,
+      spotifyCountResult,
+      randomResult,
+      recentResult,
+      genresResult,
+    ] = await Promise.all([
+      // Total artists
+      db.prepare('SELECT COUNT(*) as count FROM artists').first(),
+      // Total genres
+      db.prepare('SELECT COUNT(*) as count FROM genres').first(),
+      // Total instruments
+      db.prepare('SELECT COUNT(*) as count FROM instruments').first(),
+      // Artists with Spotify popularity
+      db.prepare(`
+        SELECT COUNT(*) as count FROM artists
+        WHERE json_extract(spotify_data, '$.popularity') IS NOT NULL
+      `).first(),
+      // 12 random artists with images
+      db.prepare(`
+        SELECT slug, title, artist_type, genres, image_filename, spotify_data
+        FROM artists
+        WHERE image_filename IS NOT NULL
+        ORDER BY RANDOM()
+        LIMIT 12
+      `).all(),
+      // 6 recently updated artists
+      db.prepare(`
+        SELECT slug, title, genres, updated_at
+        FROM artists
+        WHERE updated_at IS NOT NULL
+        ORDER BY updated_at DESC
+        LIMIT 6
+      `).all(),
+      // Top 15 genres
+      db.prepare(`
+        SELECT name, artist_count
+        FROM genres
+        ORDER BY artist_count DESC
+        LIMIT 15
+      `).all(),
+    ]);
+
+    artistCount = (artistCountResult as { count: number })?.count || 0;
+    genreCount = (genreCountResult as { count: number })?.count || 0;
+    instrumentCount = (instrumentCountResult as { count: number })?.count || 0;
+    artistsWithSpotify = (spotifyCountResult as { count: number })?.count || 0;
+    randomArtists = randomResult.results as Artist[];
+    recentArtists = recentResult.results as Artist[];
+    topGenres = genresResult.results as Genre[];
+  } catch (error) {
+    console.error('Error loading homepage data:', error);
+    errorMessage = String(error);
+  }
+} else {
+  errorMessage = 'Database not available';
+}
+
+// Helper functions
+function parseJson(json: string | null, fallback: any): any {
+  if (!json) return fallback;
+  try {
+    return JSON.parse(json);
+  } catch {
+    return fallback;
+  }
+}
+
+const formatNumber = (num: number) => num.toLocaleString();
+
+const getPortrait = (artist: Artist) => {
+  return getPortraitUrl(Astro.locals, artist.image_filename);
+};
+
+const getArtistType = (artist: Artist): string | undefined => {
+  const bg = artist.artist_type;
+  if (bg === 'solo_singer') return 'Vocalist';
+  if (bg === 'instrumentalist') return 'Instrumentalist';
+  if (bg === 'group_or_band') return 'Group';
+  return undefined;
+};
+---
+
+<Layout title="Home">
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-badge">EST. 2024</div>
+      <h1 class="hero-title">
+        <span class="hero-title-accent">Jazzapedia</span>
+      </h1>
+      <p class="hero-tagline">
+        A curated encyclopedia of <strong class="text-jazz-amber">{formatNumber(artistCount)}</strong> musicians,
+        their stories, and musical connections.
+      </p>
+      <div class="hero-actions">
+        <a href="/artists" class="hero-btn hero-btn-primary">
+          Browse Artists
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+          </svg>
+        </a>
+        <a href="/random" class="hero-btn hero-btn-secondary">
+          Surprise Me
+        </a>
+      </div>
+    </div>
+    <div class="hero-decoration"></div>
+  </section>
+
+  {errorMessage && (
+    <div class="error-banner">
+      <strong>Error loading data:</strong> {errorMessage}
+    </div>
+  )}
+
+  <!-- Stats Section -->
+  <section class="stats-section">
+    <div class="stats-grid">
+      <StatBox value={artistCount} label="Artists" icon="&#9835;" href="/artists" />
+      <StatBox value={genreCount} label="Genres" icon="&#127926;" href="/genres" />
+      <StatBox value={instrumentCount} label="Instruments" icon="&#127927;" href="/instruments" />
+      <StatBox value={artistsWithSpotify} label="With Spotify" icon="&#127911;" />
+    </div>
+  </section>
+
+  <!-- Now Playing Section (Random Artists) -->
+  <section class="content-section">
+    <header class="section-header">
+      <div class="section-title-group">
+        <span class="section-icon">&#127927;</span>
+        <h2 class="section-title">Now Playing</h2>
+      </div>
+      <p class="section-subtitle">A random selection from the collection</p>
+      <a href="/artists" class="section-link">
+        View all artists
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    </header>
+
+    <div class="artists-grid">
+      {randomArtists.map((artist) => {
+        const genres = parseJson(artist.genres, []);
+        const spotify = parseJson(artist.spotify_data, {});
+        return (
+          <ArtistCard
+            name={artist.title}
+            slug={artist.slug}
+            portrait={getPortrait(artist)}
+            genres={genres.slice(0, 2)}
+            popularity={spotify.popularity}
+            artistType={getArtistType(artist)}
+          />
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- Genre Exploration -->
+  <section class="content-section">
+    <header class="section-header">
+      <div class="section-title-group">
+        <span class="section-icon">&#127926;</span>
+        <h2 class="section-title">Explore Genres</h2>
+      </div>
+      <p class="section-subtitle">Discover artists by musical style</p>
+      <a href="/genres" class="section-link">
+        All genres
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    </header>
+
+    <div class="genres-cloud">
+      {topGenres.map((genre) => (
+        <GenreBadge genre={genre.name} count={genre.artist_count} showCount size="md" />
+      ))}
+    </div>
+  </section>
+
+  <!-- Recently Updated -->
+  {recentArtists.length > 0 && (
+    <section class="content-section">
+      <header class="section-header">
+        <div class="section-title-group">
+          <span class="section-icon">&#128340;</span>
+          <h2 class="section-title">Recently Updated</h2>
+        </div>
+        <p class="section-subtitle">Latest profile updates</p>
+      </header>
+
+      <div class="recent-list">
+        {recentArtists.map(artist => {
+          const genres = parseJson(artist.genres, []);
+          return (
+            <a href={`/artists/${artist.slug}`} class="recent-item">
+              <span class="recent-name">{artist.title}</span>
+              <span class="recent-genres">
+                {genres.slice(0, 2).join(', ') || 'Various'}
+              </span>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  )}
+
+  <!-- Quick Navigation -->
+  <section class="content-section">
+    <header class="section-header">
+      <div class="section-title-group">
+        <span class="section-icon">&#128269;</span>
+        <h2 class="section-title">Quick Navigation</h2>
+      </div>
+    </header>
+
+    <div class="quick-nav-grid">
+      <a href="/artists" class="quick-nav-card">
+        <span class="quick-nav-icon">&#9835;</span>
+        <h3 class="quick-nav-title">All Artists</h3>
+        <p class="quick-nav-desc">Browse {formatNumber(artistCount)} artists alphabetically</p>
+      </a>
+      <a href="/genres" class="quick-nav-card">
+        <span class="quick-nav-icon">&#127926;</span>
+        <h3 class="quick-nav-title">Genres</h3>
+        <p class="quick-nav-desc">Explore {genreCount} musical genres</p>
+      </a>
+      <a href="/instruments" class="quick-nav-card">
+        <span class="quick-nav-icon">&#127927;</span>
+        <h3 class="quick-nav-title">Instruments</h3>
+        <p class="quick-nav-desc">Find artists by instrument</p>
+      </a>
+      <a href="/random" class="quick-nav-card quick-nav-card-accent">
+        <span class="quick-nav-icon">&#127922;</span>
+        <h3 class="quick-nav-title">Random Artist</h3>
+        <p class="quick-nav-desc">Discover someone new</p>
+        <kbd class="quick-nav-kbd">R</kbd>
+      </a>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  /* ============================================
+     Hero Section - Jazz Club Playbill
+     ============================================ */
+  .hero {
+    position: relative;
+    padding: 3rem 0;
+    margin: -1.5rem -1.5rem 2rem -1.5rem;
+    background: linear-gradient(135deg, var(--color-bg-nav) 0%, var(--color-bg) 100%);
+    border-bottom: 2px solid var(--jazz-brass);
+    overflow: hidden;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.02) 2px,
+      rgba(0, 0, 0, 0.02) 4px
+    );
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative;
+    text-align: center;
+    padding: 0 1.5rem;
+  }
+
+  .hero-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    margin-bottom: 1rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    color: var(--jazz-amber);
+    border: 1px solid var(--jazz-brass);
+    border-radius: 9999px;
+  }
+
+  .hero-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: clamp(2.5rem, 8vw, 4rem);
+    font-weight: 600;
+    line-height: 1.1;
+    margin: 0 0 1rem 0;
+    color: var(--color-text-heading);
+  }
+
+  .hero-title-line {
+    display: block;
+    font-weight: 400;
+  }
+
+  .hero-title-accent {
+    display: block;
+    background: linear-gradient(135deg, var(--jazz-amber) 0%, var(--electric-cyan) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .hero-tagline {
+    font-size: 1.125rem;
+    color: var(--color-text-secondary);
+    max-width: 36rem;
+    margin: 0 auto 1.5rem auto;
+    line-height: 1.6;
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .hero-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    font-weight: 500;
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .hero-btn-primary {
+    background: var(--jazz-amber);
+    color: var(--jazz-black);
+  }
+
+  .hero-btn-primary:hover {
+    background: var(--electric-cyan);
+    box-shadow: var(--glow-cyan);
+  }
+
+  .hero-btn-secondary {
+    background: transparent;
+    border: 1px solid var(--color-border);
+    color: var(--color-text);
+  }
+
+  .hero-btn-secondary:hover {
+    border-color: var(--jazz-amber);
+    color: var(--jazz-amber);
+  }
+
+  .hero-decoration {
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent 0%, var(--jazz-amber) 50%, transparent 100%);
+  }
+
+  /* ============================================
+     Stats Section
+     ============================================ */
+  .stats-section {
+    margin-bottom: 3rem;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  @media (min-width: 768px) {
+    .stats-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  /* ============================================
+     Content Sections
+     ============================================ */
+  .content-section {
+    margin-bottom: 3rem;
+  }
+
+  .section-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem 1rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .section-title-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .section-icon {
+    font-size: 1.25rem;
+  }
+
+  .section-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: var(--color-text-heading);
+    margin: 0;
+  }
+
+  .section-subtitle {
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+    margin: 0;
+    flex: 1;
+  }
+
+  .section-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    font-size: 0.875rem;
+    color: var(--color-link);
+    text-decoration: none;
+    transition: color var(--duration-fast) var(--ease-smooth);
+  }
+
+  .section-link:hover {
+    color: var(--color-link-hover);
+  }
+
+  /* ============================================
+     Artists Grid
+     ============================================ */
+  .artists-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  @media (min-width: 640px) {
+    .artists-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .artists-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  /* ============================================
+     Genres Cloud
+     ============================================ */
+  .genres-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  /* ============================================
+     Recent List
+     ============================================ */
+  .recent-list {
+    display: grid;
+    gap: 0.5rem;
+  }
+
+  @media (min-width: 768px) {
+    .recent-list {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .recent-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 1rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .recent-item:hover {
+    border-color: var(--color-link);
+    background: var(--color-accent-light);
+  }
+
+  .recent-name {
+    font-weight: 500;
+    color: var(--color-link);
+  }
+
+  .recent-genres {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+  }
+
+  /* ============================================
+     Quick Navigation
+     ============================================ */
+  .quick-nav-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  @media (min-width: 768px) {
+    .quick-nav-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  .quick-nav-card {
+    position: relative;
+    padding: 1.25rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-lg);
+    text-decoration: none;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .quick-nav-card:hover {
+    border-color: var(--color-link);
+    background: var(--color-accent-light);
+    transform: translateY(-2px);
+  }
+
+  .quick-nav-card-accent {
+    border-color: var(--jazz-brass);
+    background: linear-gradient(135deg, var(--color-accent-light) 0%, transparent 100%);
+  }
+
+  .quick-nav-icon {
+    display: block;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .quick-nav-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-link);
+    margin: 0 0 0.25rem 0;
+  }
+
+  .quick-nav-desc {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    margin: 0;
+    line-height: 1.4;
+  }
+
+  .quick-nav-kbd {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    padding: 0.125rem 0.375rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.6rem;
+    background: var(--color-bg-nav);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    color: var(--color-text-muted);
+  }
+
+  /* ============================================
+     Error State
+     ============================================ */
+  .error-banner {
+    background: rgba(220, 38, 38, 0.1);
+    border: 1px solid rgba(220, 38, 38, 0.3);
+    color: #DC2626;
+    padding: 1rem;
+    border-radius: var(--radius-md);
+    margin-bottom: 2rem;
+  }
+
+  /* ============================================
+     Dark Mode Enhancements
+     ============================================ */
+  :global([data-mode="dark"]) .hero {
+    background: linear-gradient(135deg, var(--jazz-smoke) 0%, var(--jazz-black) 100%);
+  }
+
+  :global([data-mode="dark"]) .hero::before {
+    background-image: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(255, 255, 255, 0.02) 2px,
+      rgba(255, 255, 255, 0.02) 4px
+    );
+  }
+
+  :global([data-mode="dark"]) .quick-nav-card {
+    background: var(--jazz-smoke);
+  }
+
+  :global([data-mode="dark"]) .recent-item {
+    background: var(--jazz-smoke);
+  }
+</style>

@@ -1,0 +1,95 @@
+name: Sync Artists to Jazzapedia
+
+on:
+  # Run daily at 5am Central Time (11:00 UTC)
+  schedule:
+    - cron: '0 11 * * *'
+  # Allow manual triggers
+  workflow_dispatch:
+    inputs:
+      sync_d1:
+        description: 'Sync artist data to D1 database'
+        type: boolean
+        default: true
+      full_sync:
+        description: 'Full sync (re-sync all artists, slower)'
+        type: boolean
+        default: false
+      upload_portraits:
+        description: 'Upload new portraits to R2'
+        type: boolean
+        default: true
+      dry_run:
+        description: 'Dry run (preview only)'
+        type: boolean
+        default: false
+
+jobs:
+  sync-to-d1:
+    name: Sync Artists to D1
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'schedule' || inputs.sync_d1 }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Count artists to sync
+        run: |
+          ARTIST_COUNT=$(find content-deploy/artists -name "*.md" 2>/dev/null | wc -l || echo "0")
+          echo "Found $ARTIST_COUNT artist files to sync"
+
+      - name: Sync to D1 (incremental)
+        if: ${{ github.event_name == 'schedule' || !inputs.full_sync }}
+        run: npx tsx scripts/sync-incremental.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          ARTISTS_DIR: ./content-deploy/artists
+          PORTRAITS_DIR: ./content-deploy/portraits
+
+      - name: Sync to D1 (full)
+        if: ${{ github.event_name != 'schedule' && inputs.full_sync }}
+        run: npx tsx scripts/sync-to-d1.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          ARTISTS_DIR: ./content-deploy/artists
+          PORTRAITS_DIR: ./content-deploy/portraits
+
+  upload-portraits:
+    name: Upload Portraits to R2
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'schedule' || (inputs.upload_portraits && !inputs.dry_run) }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Count portraits to upload
+        run: |
+          PORTRAIT_COUNT=$(find content-deploy/portraits -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.webp" \) 2>/dev/null | wc -l || echo "0")
+          echo "Found $PORTRAIT_COUNT portrait files"
+
+      - name: Upload portraits to R2
+        run: npx tsx scripts/upload-portraits-r2.ts
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          PORTRAITS_DIR: ./content-deploy/portraits

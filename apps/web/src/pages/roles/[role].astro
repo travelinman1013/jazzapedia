@@ -1,0 +1,273 @@
+---
+/**
+ * Role Detail Page - Show artists with a specific role
+ * Uses D1/SQLite database for SSR
+ */
+import Layout from '../../layouts/Layout.astro';
+import { getDatabase } from '../../lib/db';
+
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
+
+// Set cache headers
+Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
+
+const { role: roleSlug } = Astro.params;
+
+interface RoleInfo {
+  id: number;
+  name: string;
+  slug: string;
+  category: string;
+  artist_count: number;
+}
+
+interface Artist {
+  slug: string;
+  title: string;
+  artist_type: string | null;
+  genres: string | null;
+  roles: string | null;
+  image_filename: string | null;
+  spotify_data: string | null;
+  career_span: string | null;
+  is_active: number | null;
+}
+
+let roleInfo: RoleInfo | null = null;
+let artists: Artist[] = [];
+let errorMessage = '';
+
+if (!db) {
+  return Astro.redirect('/roles');
+}
+
+try {
+  // Get role info from lookup table
+  roleInfo = await db
+    .prepare('SELECT id, name, slug, category, artist_count FROM roles WHERE slug = ?')
+    .bind(roleSlug)
+    .first() as RoleInfo | null;
+
+  if (!roleInfo) {
+    return Astro.redirect('/roles');
+  }
+
+  // Get artists with this role (JSON array contains)
+  const { results } = await db
+    .prepare(`
+      SELECT slug, title, artist_type, genres, roles, image_filename, spotify_data, career_span, is_active
+      FROM artists
+      WHERE roles LIKE ?
+      ORDER BY
+        CASE WHEN json_extract(spotify_data, '$.popularity') IS NOT NULL
+             THEN json_extract(spotify_data, '$.popularity')
+             ELSE 0 END DESC,
+        title ASC
+      LIMIT 500
+    `)
+    .bind('%"' + roleInfo.name + '"%')
+    .all();
+  artists = results as Artist[];
+} catch (error) {
+  console.error('Error loading role:', error);
+  errorMessage = 'Failed to load role data.';
+}
+
+// Helper functions
+function parseJson(json: string | null, fallback: any): any {
+  if (!json) return fallback;
+  try {
+    return JSON.parse(json);
+  } catch {
+    return fallback;
+  }
+}
+
+const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+
+// Calculate related roles from artists
+const relatedRoleCounts = new Map<string, number>();
+artists.forEach(artist => {
+  const roles = parseJson(artist.roles, []);
+  roles.forEach(r => {
+    if (r !== roleInfo?.name) {
+      relatedRoleCounts.set(r, (relatedRoleCounts.get(r) || 0) + 1);
+    }
+  });
+});
+const relatedRoles = Array.from(relatedRoleCounts.entries())
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 10);
+
+// Get common genres for this role
+const genreCounts = new Map<string, number>();
+artists.forEach(artist => {
+  const genres = parseJson(artist.genres, []);
+  genres.forEach(genre => {
+    genreCounts.set(genre, (genreCounts.get(genre) || 0) + 1);
+  });
+});
+const topGenres = Array.from(genreCounts.entries())
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 10);
+
+// Get activity status distribution
+const activeCount = artists.filter(a => a.is_active === 1).length;
+const inactiveCount = artists.length - activeCount;
+
+// Calculate average popularity
+const artistsWithPopularity = artists.filter(a => {
+  const spotify = parseJson(a.spotify_data, {});
+  return spotify.popularity !== undefined;
+});
+const avgPopularity = artistsWithPopularity.length > 0
+  ? Math.round(
+      artistsWithPopularity.reduce((sum, a) => {
+        const spotify = parseJson(a.spotify_data, {});
+        return sum + (spotify.popularity || 0);
+      }, 0) / artistsWithPopularity.length
+    )
+  : 0;
+
+// Category info
+const categoryLabels: Record<string, string> = {
+  performer: 'Performer',
+  creator: 'Creator',
+  group: 'Group',
+  other: 'Other'
+};
+---
+
+<Layout title={roleInfo?.name || 'Role'}>
+  <div class="article-content">
+    {errorMessage ? (
+      <p class="text-red-600">{errorMessage}</p>
+    ) : roleInfo && (
+      <>
+        <h1>{roleInfo.name}</h1>
+
+        <p class="text-wiki-text-secondary mb-6">
+          <strong>{artists.length.toLocaleString()}</strong> artists have this role.
+          {avgPopularity > 0 && (
+            <> Average Spotify popularity: <strong>{avgPopularity}/100</strong>.</>
+          )}
+          <span class="ml-2 px-2 py-0.5 bg-wiki-accent-light rounded text-sm">
+            {categoryLabels[roleInfo.category] || roleInfo.category}
+          </span>
+        </p>
+
+        <!-- Role Stats -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+          <!-- Top Genres -->
+          {topGenres.length > 0 && (
+            <div class="bg-wiki-bg border border-wiki-border rounded p-4">
+              <h3 class="font-semibold mb-2 text-wiki-text">Common Genres</h3>
+              <div class="flex flex-wrap gap-1">
+                {topGenres.map(([genre, count]) => (
+                  <a
+                    href={`/genres/${toSlug(genre)}`}
+                    class="inline-flex items-center px-2 py-1 bg-wiki-tag-bg border border-wiki-tag-border rounded text-xs hover:bg-wiki-accent-light transition-colors"
+                  >
+                    <span class="text-wiki-link">{genre}</span>
+                    <span class="ml-1 text-wiki-text-muted">({count})</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <!-- Related Roles -->
+          {relatedRoles.length > 0 && (
+            <div class="bg-wiki-bg border border-wiki-border rounded p-4">
+              <h3 class="font-semibold mb-2 text-wiki-text">Often Combined With</h3>
+              <div class="flex flex-wrap gap-1">
+                {relatedRoles.map(([role, count]) => (
+                  <a
+                    href={`/roles/${toSlug(role)}`}
+                    class="inline-flex items-center px-2 py-1 bg-wiki-tag-bg border border-wiki-tag-border rounded text-xs hover:bg-wiki-accent-light transition-colors"
+                  >
+                    <span class="text-wiki-link">{role}</span>
+                    <span class="ml-1 text-wiki-text-muted">({count})</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+
+        <!-- Activity Stats -->
+        {artists.length > 0 && (
+          <div class="bg-wiki-bg border border-wiki-border rounded p-4 mb-8">
+            <h3 class="font-semibold mb-3 text-wiki-text">Activity Status</h3>
+            <div class="flex gap-4">
+              <span class="inline-flex items-center px-3 py-1 bg-green-100 border border-green-200 rounded text-sm">
+                <span class="w-2 h-2 bg-green-500 rounded-full mr-2"></span>
+                Active: <strong class="ml-1">{activeCount}</strong>
+              </span>
+              <span class="inline-flex items-center px-3 py-1 bg-gray-100 border border-gray-200 rounded text-sm">
+                <span class="w-2 h-2 bg-gray-400 rounded-full mr-2"></span>
+                Inactive: <strong class="ml-1">{inactiveCount}</strong>
+              </span>
+            </div>
+          </div>
+        )}
+
+        <!-- Artists List -->
+        <h2>Artists ({artists.length})</h2>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+          {artists.map(artist => {
+            const spotifyData = parseJson(artist.spotify_data, {});
+            const artistRoles = parseJson(artist.roles, []);
+            const otherRoles = artistRoles.filter(r => r !== roleInfo?.name).slice(0, 2);
+            const genres = parseJson(artist.genres, []).slice(0, 2);
+
+            return (
+              <a
+                href={`/artists/${artist.slug}`}
+                class="block p-3 bg-wiki-bg border border-wiki-border-light rounded hover:border-wiki-link hover:bg-wiki-accent-light transition-colors"
+              >
+                <div class="flex items-start justify-between">
+                  <div class="flex items-center gap-2">
+                    <span class="text-wiki-link font-medium">{artist.title}</span>
+                    {artist.is_active === 1 && (
+                      <span class="w-2 h-2 bg-green-500 rounded-full" title="Active"></span>
+                    )}
+                  </div>
+                  {spotifyData?.popularity && (
+                    <span class="text-xs bg-green-100 text-green-700 px-1.5 py-0.5 rounded">
+                      {spotifyData.popularity}
+                    </span>
+                  )}
+                </div>
+                {genres.length > 0 && (
+                  <div class="text-xs text-wiki-text-muted mt-1 truncate">
+                    {genres.join(', ')}
+                  </div>
+                )}
+                {artist.career_span && (
+                  <div class="text-xs text-wiki-text-muted mt-0.5">
+                    {artist.career_span}
+                  </div>
+                )}
+                {otherRoles.length > 0 && (
+                  <div class="text-xs text-wiki-text-muted mt-0.5 truncate">
+                    Also: {otherRoles.join(', ')}
+                  </div>
+                )}
+              </a>
+            );
+          })}
+        </div>
+
+        <!-- Back Link -->
+        <div class="mt-8 pt-4 border-t border-wiki-border">
+          <a href="/roles" class="text-wiki-link hover:underline">
+            &larr; Back to all roles
+          </a>
+        </div>
+      </>
+    )}
+  </div>
+</Layout>

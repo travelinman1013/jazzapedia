@@ -1,0 +1,94 @@
+---
+/**
+ * StatBox Component
+ * Displays statistics with art-deco inspired styling
+ * Used on homepage for artist counts, etc.
+ */
+import Card from '../ui/Card.astro';
+
+interface Props {
+  value: string | number;
+  label: string;
+  icon?: string;
+  href?: string;
+  class?: string;
+}
+
+const {
+  value,
+  label,
+  icon,
+  href,
+  class: className = '',
+  ...rest
+} = Astro.props;
+
+// Format large numbers
+const formatValue = (val: string | number) => {
+  if (typeof val === 'number') {
+    return val.toLocaleString();
+  }
+  return val;
+};
+---
+
+<Card
+  variant="default"
+  padding="md"
+  href={href}
+  interactive={!!href}
+  class={`stat-box group ${className}`}
+  {...rest}
+>
+  <div class="flex flex-col items-center text-center">
+    {icon && (
+      <span class="stat-icon text-2xl mb-2 text-jazz-amber group-hover:text-electric-cyan transition-colors duration-fast">
+        {icon}
+      </span>
+    )}
+    <span class="stat-value font-display text-3xl font-semibold text-wiki-text-heading tracking-tight">
+      {formatValue(value)}
+    </span>
+    <span class="stat-label text-sm text-wiki-text-muted mt-1 uppercase tracking-wider">
+      {label}
+    </span>
+  </div>
+</Card>
+
+<style>
+  .stat-box {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .stat-box::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--jazz-amber), var(--electric-cyan));
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform var(--duration-normal) var(--ease-jazz);
+  }
+
+  .stat-box:hover::after {
+    transform: scaleX(1);
+  }
+
+  .stat-value {
+    background: linear-gradient(135deg, var(--color-text-heading) 0%, var(--jazz-amber) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  [data-mode="dark"] .stat-value {
+    background: linear-gradient(135deg, var(--jazz-cream) 0%, var(--jazz-amber) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+</style>

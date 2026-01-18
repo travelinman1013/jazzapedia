@@ -1,0 +1,678 @@
+---
+/**
+ * Artists Index - Enhanced with Jazz Club Aesthetic
+ * Features: search/filter, improved A-Z navigation, keyboard shortcuts
+ * Uses D1/SQLite database for SSR
+ */
+import Layout from '../../layouts/Layout.astro';
+import { getDatabase } from '../../lib/db';
+
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
+
+// Set cache headers
+Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
+
+// Get current letter from query param (default to 'A')
+const currentLetter = (Astro.url.searchParams.get('letter') || 'A').toUpperCase();
+
+interface Artist {
+  slug: string;
+  title: string;
+  genres: string | null;
+  artist_type: string | null;
+}
+
+interface LetterCount {
+  letter: string;
+  count: number;
+}
+
+let artists: Artist[] = [];
+let letterCounts: Map<string, number> = new Map();
+let totalArtists = 0;
+let errorMessage = '';
+
+const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+
+if (db) {
+  try {
+    // Run queries in parallel
+    const [letterCountsResult, artistsResult, totalResult] = await Promise.all([
+      // Get counts per letter for navigation
+      db.prepare(`
+        SELECT UPPER(SUBSTR(title, 1, 1)) as letter, COUNT(*) as count
+        FROM artists
+        GROUP BY UPPER(SUBSTR(title, 1, 1))
+        ORDER BY letter
+      `).all(),
+      // Get artists for current letter
+      db.prepare(`
+        SELECT slug, title, genres, artist_type
+        FROM artists
+        WHERE title LIKE ?
+        ORDER BY title
+      `).bind(currentLetter + '%').all(),
+      // Get total count
+      db.prepare('SELECT COUNT(*) as count FROM artists').first(),
+    ]);
+
+    // Build letter counts map
+    (letterCountsResult.results as LetterCount[]).forEach(row => {
+      letterCounts.set(row.letter, row.count);
+    });
+
+    artists = artistsResult.results as Artist[];
+    totalArtists = (totalResult as { count: number })?.count || 0;
+  } catch (error) {
+    console.error('Error loading artists:', error);
+    errorMessage = 'Failed to load artists.';
+  }
+} else {
+  errorMessage = 'Database not available.';
+}
+
+// Helper functions
+function parseJson(json: string | null, fallback: any): any {
+  if (!json) return fallback;
+  try {
+    return JSON.parse(json);
+  } catch {
+    return fallback;
+  }
+}
+
+const getGenresDisplay = (artist: Artist) => {
+  const genres = parseJson(artist.genres, []) as string[];
+  if (genres.length === 0) return '';
+  return genres.slice(0, 2).join(', ');
+};
+
+const formatNumber = (num: number) => num.toLocaleString();
+
+// Check for non-alphabetic entries
+const hasNonAlpha = Array.from(letterCounts.keys()).some(k => !alphabet.includes(k));
+---
+
+<Layout title="All Artists">
+  <div class="artists-index">
+    <!-- Header -->
+    <header class="index-header">
+      <div class="index-title-group">
+        <span class="index-icon">&#9835;</span>
+        <h1 class="index-title">All Artists</h1>
+      </div>
+      <p class="index-subtitle">
+        Browse all <strong class="text-jazz-amber">{formatNumber(totalArtists)}</strong> artists alphabetically
+      </p>
+    </header>
+
+    {errorMessage ? (
+      <p class="text-red-600">{errorMessage}</p>
+    ) : (
+      <>
+        <!-- Search/Filter Bar -->
+        <div class="filter-bar">
+          <div class="filter-input-wrapper">
+            <svg class="filter-icon" viewBox="0 0 20 20" fill="currentColor">
+              <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
+            </svg>
+            <input
+              type="text"
+              id="artist-filter"
+              class="filter-input"
+              placeholder="Filter artists..."
+              autocomplete="off"
+              spellcheck="false"
+            />
+            <span class="filter-hint">Press a letter to jump</span>
+          </div>
+        </div>
+
+        <!-- A-Z Navigation -->
+        <nav class="letter-nav" id="letter-nav">
+          <div class="letter-nav-inner">
+            {hasNonAlpha && (
+              <a
+                href="?letter=%23"
+                class:list={["letter-link", { "is-active": currentLetter === '#' }]}
+                data-letter="#"
+              >
+                <span class="letter-char">#</span>
+                <span class="letter-count">{letterCounts.get('#') || 0}</span>
+              </a>
+            )}
+            {alphabet.map(letter => {
+              const count = letterCounts.get(letter) || 0;
+              return count > 0 ? (
+                <a
+                  href={`?letter=${letter}`}
+                  class:list={["letter-link", { "is-active": currentLetter === letter }]}
+                  data-letter={letter}
+                >
+                  <span class="letter-char">{letter}</span>
+                  <span class="letter-count">{count}</span>
+                </a>
+              ) : (
+                <span class="letter-link letter-link-disabled" data-letter={letter}>
+                  <span class="letter-char">{letter}</span>
+                </span>
+              );
+            })}
+          </div>
+        </nav>
+
+        <!-- No results message -->
+        <div class="no-results" id="no-results" style="display: none;">
+          <span class="no-results-icon">&#128269;</span>
+          <span class="no-results-text">No artists found matching your filter</span>
+          <button type="button" class="no-results-clear" id="clear-filter">Clear filter</button>
+        </div>
+
+        <!-- Artist List for Current Letter -->
+        <div class="artist-sections" id="artist-sections">
+          <section class="letter-section" data-letter-section={currentLetter}>
+            <h2 class="letter-heading">
+              <span class="letter-heading-char">{currentLetter}</span>
+              <span class="letter-heading-count">{artists.length} artists</span>
+            </h2>
+            <div class="artists-grid">
+              {artists.map(artist => (
+                <a
+                  href={`/artists/${artist.slug}`}
+                  class="artist-item"
+                  data-artist-name={artist.title.toLowerCase()}
+                >
+                  <span class="artist-name">{artist.title}</span>
+                  {getGenresDisplay(artist) && (
+                    <span class="artist-genres">{getGenresDisplay(artist)}</span>
+                  )}
+                </a>
+              ))}
+            </div>
+          </section>
+        </div>
+
+        <!-- Back to top -->
+        <button type="button" class="back-to-top" id="back-to-top" title="Back to top (T)">
+          <svg viewBox="0 0 20 20" fill="currentColor">
+            <path fill-rule="evenodd" d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z" clip-rule="evenodd" />
+          </svg>
+        </button>
+      </>
+    )}
+  </div>
+</Layout>
+
+<style>
+  /* ============================================
+     Index Layout
+     ============================================ */
+  .artists-index {
+    position: relative;
+  }
+
+  /* ============================================
+     Header
+     ============================================ */
+  .index-header {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--color-border-accent);
+  }
+
+  .index-title-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .index-icon {
+    font-size: 1.5rem;
+    color: var(--jazz-amber);
+  }
+
+  .index-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 2rem;
+    font-weight: 500;
+    color: var(--color-text-heading);
+    margin: 0;
+  }
+
+  .index-subtitle {
+    color: var(--color-text-secondary);
+    margin: 0;
+  }
+
+  /* ============================================
+     Filter Bar
+     ============================================ */
+  .filter-bar {
+    margin-bottom: 1rem;
+  }
+
+  .filter-input-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.625rem 1rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    transition: border-color var(--duration-fast) var(--ease-smooth);
+  }
+
+  .filter-input-wrapper:focus-within {
+    border-color: var(--electric-cyan);
+    box-shadow: 0 0 0 3px var(--color-accent-glow);
+  }
+
+  .filter-icon {
+    width: 1.25rem;
+    height: 1.25rem;
+    color: var(--color-text-muted);
+    flex-shrink: 0;
+  }
+
+  .filter-input {
+    flex: 1;
+    border: none;
+    background: transparent;
+    font-size: 1rem;
+    font-family: inherit;
+    color: var(--color-text);
+    outline: none;
+  }
+
+  .filter-input::placeholder {
+    color: var(--color-text-muted);
+  }
+
+  .filter-hint {
+    display: none;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+  }
+
+  @media (min-width: 640px) {
+    .filter-hint {
+      display: inline;
+    }
+  }
+
+  /* ============================================
+     Letter Navigation
+     ============================================ */
+  .letter-nav {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--color-bg-content);
+    margin: 0 -1.5rem 1.5rem -1.5rem;
+    padding: 0.75rem 1.5rem;
+    border-bottom: 1px solid var(--color-border);
+    backdrop-filter: blur(8px);
+  }
+
+  .letter-nav-inner {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    justify-content: center;
+  }
+
+  .letter-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.25rem 0.5rem;
+    min-width: 2rem;
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .letter-link:not(.letter-link-disabled) {
+    cursor: pointer;
+  }
+
+  .letter-link:not(.letter-link-disabled):hover,
+  .letter-link.is-active {
+    background: var(--color-accent-light);
+  }
+
+  .letter-link.is-active {
+    background: var(--jazz-amber);
+  }
+
+  .letter-link.is-active .letter-char {
+    color: var(--jazz-black);
+  }
+
+  .letter-link.is-active .letter-count {
+    color: var(--jazz-black);
+    opacity: 0.7;
+  }
+
+  .letter-char {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-link);
+  }
+
+  .letter-link-disabled .letter-char {
+    color: var(--color-text-muted);
+    opacity: 0.4;
+  }
+
+  .letter-count {
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.6rem;
+    color: var(--color-text-muted);
+    line-height: 1;
+  }
+
+  /* ============================================
+     No Results
+     ============================================ */
+  .no-results {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem;
+    text-align: center;
+    color: var(--color-text-muted);
+  }
+
+  .no-results-icon {
+    font-size: 2.5rem;
+    opacity: 0.5;
+    margin-bottom: 0.75rem;
+  }
+
+  .no-results-text {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .no-results-clear {
+    padding: 0.5rem 1rem;
+    background: var(--color-accent-light);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    color: var(--color-link);
+    font: inherit;
+    cursor: pointer;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .no-results-clear:hover {
+    background: var(--jazz-amber);
+    border-color: var(--jazz-amber);
+    color: var(--jazz-black);
+  }
+
+  /* ============================================
+     Letter Sections
+     ============================================ */
+  .artist-sections {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .letter-section {
+    scroll-margin-top: 5rem;
+  }
+
+  .letter-section.is-hidden {
+    display: none;
+  }
+
+  .letter-heading {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .letter-heading-char {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--jazz-amber);
+    line-height: 1;
+  }
+
+  .letter-heading-count {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+  }
+
+  /* ============================================
+     Artists Grid
+     ============================================ */
+  .artists-grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 0.5rem;
+  }
+
+  @media (min-width: 640px) {
+    .artists-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .artists-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .artist-item {
+    display: flex;
+    flex-direction: column;
+    padding: 0.625rem 0.75rem;
+    background: var(--color-bg);
+    border: 1px solid transparent;
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .artist-item:hover {
+    background: var(--color-accent-light);
+    border-color: var(--color-border-accent);
+    transform: translateX(4px);
+  }
+
+  .artist-item.is-hidden {
+    display: none;
+  }
+
+  .artist-name {
+    font-weight: 500;
+    color: var(--color-link);
+    transition: color var(--duration-fast) var(--ease-smooth);
+  }
+
+  .artist-item:hover .artist-name {
+    color: var(--color-link-hover);
+  }
+
+  .artist-genres {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    margin-top: 0.125rem;
+  }
+
+  /* ============================================
+     Back to Top
+     ============================================ */
+  .back-to-top {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--jazz-amber);
+    border: none;
+    border-radius: 50%;
+    color: var(--jazz-black);
+    cursor: pointer;
+    box-shadow: var(--shadow-elevated);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(1rem);
+    transition: all var(--duration-normal) var(--ease-jazz);
+  }
+
+  .back-to-top.is-visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  .back-to-top:hover {
+    background: var(--electric-cyan);
+    box-shadow: var(--glow-cyan);
+  }
+
+  .back-to-top svg {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+
+  /* ============================================
+     Dark Mode
+     ============================================ */
+  :global([data-mode="dark"]) .letter-nav {
+    background: rgba(26, 26, 31, 0.95);
+  }
+
+  :global([data-mode="dark"]) .filter-input-wrapper {
+    background: var(--jazz-smoke);
+  }
+
+  :global([data-mode="dark"]) .artist-item {
+    background: var(--jazz-smoke);
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const filterInput = document.getElementById('artist-filter') as HTMLInputElement;
+    const artistSections = document.getElementById('artist-sections')!;
+    const noResults = document.getElementById('no-results')!;
+    const clearFilter = document.getElementById('clear-filter')!;
+    const backToTop = document.getElementById('back-to-top')!;
+
+    const allItems = artistSections.querySelectorAll('.artist-item');
+
+    // Filter functionality
+    let filterTimeout: number;
+
+    filterInput?.addEventListener('input', () => {
+      clearTimeout(filterTimeout);
+      filterTimeout = window.setTimeout(() => {
+        const query = filterInput.value.toLowerCase().trim();
+        filterArtists(query);
+      }, 150);
+    });
+
+    function filterArtists(query: string) {
+      if (!query) {
+        // Show all
+        allItems.forEach(item => item.classList.remove('is-hidden'));
+        noResults.style.display = 'none';
+        artistSections.style.display = '';
+        return;
+      }
+
+      let visibleCount = 0;
+
+      allItems.forEach(item => {
+        const name = item.getAttribute('data-artist-name') || '';
+        const matches = name.includes(query);
+        item.classList.toggle('is-hidden', !matches);
+        if (matches) {
+          visibleCount++;
+        }
+      });
+
+      // Show no results message
+      if (visibleCount === 0) {
+        artistSections.style.display = 'none';
+        noResults.style.display = 'flex';
+      } else {
+        artistSections.style.display = '';
+        noResults.style.display = 'none';
+      }
+    }
+
+    // Clear filter
+    clearFilter?.addEventListener('click', () => {
+      filterInput.value = '';
+      filterArtists('');
+      filterInput.focus();
+    });
+
+    // Keyboard navigation (press letter to navigate)
+    document.addEventListener('keydown', (e) => {
+      // Don't trigger if in input or textarea
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) {
+        return;
+      }
+
+      const key = e.key.toUpperCase();
+
+      // T for back to top
+      if (key === 'T') {
+        e.preventDefault();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        return;
+      }
+
+      // / to focus filter
+      if (e.key === '/') {
+        e.preventDefault();
+        filterInput?.focus();
+        return;
+      }
+
+      // Letter keys to navigate to that letter
+      if (/^[A-Z]$/.test(key)) {
+        e.preventDefault();
+        window.location.href = `?letter=${key}`;
+      }
+    });
+
+    // Back to top button
+    const scrollObserver = new IntersectionObserver(
+      ([entry]) => {
+        backToTop?.classList.toggle('is-visible', !entry.isIntersecting);
+      },
+      { threshold: 0 }
+    );
+
+    // Observe the header to know when to show back-to-top
+    const header = document.querySelector('.index-header');
+    if (header) {
+      scrollObserver.observe(header);
+    }
+
+    backToTop?.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  });
+</script>
