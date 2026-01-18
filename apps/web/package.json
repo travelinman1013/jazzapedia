@@ -24,7 +24,7 @@
     "upload:portraits": "npx tsx scripts/upload-portraits-r2.ts",
     "db:migrate": "wrangler d1 execute jazzapedia --remote --file=migrations/0001_initial.sql",
     "db:migrate:local": "wrangler d1 execute jazzapedia --local --file=migrations/0001_initial.sql",
-    "sync:content-deploy": "rsync -av --delete --exclude='.*' /Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists/ content-deploy/artists/ && rsync -av --delete --exclude='.*' /Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits/ content-deploy/portraits/",
+    "sync:content-deploy": "./scripts/sync-content-deploy.sh",
     "sync:sqlite": "npx tsx scripts/sync-to-sqlite.ts --output ../../data/jazzapedia.db",
     "sync:sqlite:dry-run": "npx tsx scripts/sync-to-sqlite.ts --output ../../data/jazzapedia.db --dry-run",
     "sync:incr:sqlite": "npx tsx scripts/sync-incremental-sqlite.ts --output ../../data/jazzapedia.db",
