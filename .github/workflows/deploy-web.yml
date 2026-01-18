@@ -38,7 +38,6 @@ jobs:
       - name: Build web
         run: pnpm turbo build --filter=@jazzapedia/web
         env:
-          # Use Cloudflare adapter for production
           DEPLOY_TARGET: cloudflare
 
       - name: Generate search index
