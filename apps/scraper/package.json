@@ -1,5 +1,5 @@
 {
-  "name": "wwoz-scraper-v3",
+  "name": "@jazzapedia/scraper",
   "version": "3.0.0",
   "type": "module",
   "main": "dist/index.js",
@@ -7,9 +7,15 @@
     "start": "node dist/index.js",
     "dev": "tsc --watch & nodemon --watch dist --delay 3 dist/index.js",
     "build": "tsc",
+    "type-check": "tsc --noEmit",
+    "clean": "rm -rf dist",
     "refresh:processed": "npm run build && node dist/scripts/refresh_processed.js"
   },
   "dependencies": {
+    "@jazzapedia/types": "workspace:*",
+    "@jazzapedia/db": "workspace:*",
+    "@jazzapedia/utils": "workspace:*",
+    "better-sqlite3": "^11.0.0",
     "bottleneck": "^2.19.5",
     "chalk": "^5.3.0",
     "commander": "^12.0.0",
@@ -20,6 +26,7 @@
     "spotify-web-api-node": "^5.0.2"
   },
   "devDependencies": {
+    "@types/better-sqlite3": "^7.6.0",
     "@types/ejs": "^3.1.5",
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^20.11.30",
