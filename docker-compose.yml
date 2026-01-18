@@ -33,8 +33,8 @@ services:
       - jazzapedia-data:/data
       # Scraper configuration
       - ./config/scraper:/app/apps/scraper/config:ro
-      # Persistent state for archiver (outside config mount)
-      - scraper-state:/app/state
+      # Persistent state for archiver (bind mount for host launchd watcher access)
+      - ./scraper-state:/app/state
       # Obsidian vault archives (symlinked from ./archives to Obsidian vault)
       - ${OBSIDIAN_ARCHIVES:-./archives}:/app/archives
       # Artist discovery output directories (mounted from host Obsidian vault)
@@ -109,9 +109,7 @@ volumes:
       type: none
       o: bind
       device: ${PWD}/portraits
-  # Scraper state (for archiver)
-  scraper-state:
-    driver: local
+  # Note: scraper-state is now a bind mount (./scraper-state) for host launchd watcher access
 
 networks:
   jazzapedia-network:

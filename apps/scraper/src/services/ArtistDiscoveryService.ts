@@ -66,6 +66,9 @@ export class ArtistDiscoveryService {
       };
       this.saveState(archiveDate, state);
 
+      // Signal that sync is needed after successful discovery
+      await this.triggerPostDiscoverySync(archiveDate);
+
       Logger.info(
         `[Artist Discovery] Completed successfully for ${archiveDate} (duration=${Math.round(duration / 1000)}s)`
       );
@@ -262,6 +265,29 @@ export class ArtistDiscoveryService {
       Logger.debug(`Saved artist discovery state for ${archiveDate}`);
     } catch (err) {
       Logger.error(`Failed to save artist discovery state: ${err}`);
+    }
+  }
+
+  /**
+   * Signal that artist discovery completed and sync is needed.
+   * Writes a signal file that the host launchd watcher will detect.
+   */
+  private async triggerPostDiscoverySync(archiveDate: string): Promise<void> {
+    const stateDir = process.env.STATE_PATH || path.resolve(process.cwd(), 'state');
+    const signalPath = path.join(stateDir, 'sync-requested');
+
+    const payload = {
+      timestamp: new Date().toISOString(),
+      archiveDate,
+      reason: 'artist-discovery-complete'
+    };
+
+    try {
+      fs.writeFileSync(signalPath, JSON.stringify(payload, null, 2));
+      Logger.info(`[Artist Discovery] Sync signal written for ${archiveDate}`);
+    } catch (err) {
+      Logger.warn(`[Artist Discovery] Failed to write sync signal: ${err}`);
+      // Non-fatal: daily sync will catch up
     }
   }
 }
