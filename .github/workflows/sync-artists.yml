@@ -33,22 +33,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
+          cache: 'pnpm'
 
       - name: Install dependencies
-        run: npm ci
+        run: pnpm install
+
+      - name: Build packages
+        run: pnpm turbo build --filter=@jazzapedia/types --filter=@jazzapedia/db --filter=@jazzapedia/utils
 
       - name: Count artists to sync
         run: |
-          ARTIST_COUNT=$(find content-deploy/artists -name "*.md" 2>/dev/null | wc -l || echo "0")
+          ARTIST_COUNT=$(find apps/web/content-deploy/artists -name "*.md" 2>/dev/null | wc -l || echo "0")
           echo "Found $ARTIST_COUNT artist files to sync"
 
       - name: Sync to D1 (incremental)
         if: ${{ github.event_name == 'schedule' || !inputs.full_sync }}
+        working-directory: apps/web
         run: npx tsx scripts/sync-incremental.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -58,6 +67,7 @@ jobs:
 
       - name: Sync to D1 (full)
         if: ${{ github.event_name != 'schedule' && inputs.full_sync }}
+        working-directory: apps/web
         run: npx tsx scripts/sync-to-d1.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -73,21 +83,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
+          cache: 'pnpm'
 
       - name: Install dependencies
-        run: npm ci
+        run: pnpm install
+
+      - name: Build packages
+        run: pnpm turbo build --filter=@jazzapedia/types --filter=@jazzapedia/db --filter=@jazzapedia/utils
 
       - name: Count portraits to upload
         run: |
-          PORTRAIT_COUNT=$(find content-deploy/portraits -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.webp" \) 2>/dev/null | wc -l || echo "0")
+          PORTRAIT_COUNT=$(find apps/web/content-deploy/portraits -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.webp" \) 2>/dev/null | wc -l || echo "0")
           echo "Found $PORTRAIT_COUNT portrait files"
 
       - name: Upload portraits to R2
+        working-directory: apps/web
         run: npx tsx scripts/upload-portraits-r2.ts
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
