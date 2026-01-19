@@ -135,11 +135,15 @@ const instruments = rawInstruments.filter(inst =>
 );
 const aliases = (data.aliases || data.also_known_as || []) as string[];
 
-// Get image path
+// Get portrait URL - can be full URL (Cloudflare) or relative path (Docker)
 const rawImagePath = (data.image_path || infobox?.image) as string | undefined;
-let portraitFilename: string | undefined;
+let portraitUrl: string | undefined;
 if (rawImagePath) {
-  portraitFilename = rawImagePath.split('/').pop();
+  // If it's already a full URL or /portraits/ path, use directly
+  // Otherwise extract filename and build relative path (legacy fallback)
+  portraitUrl = rawImagePath.startsWith('http') || rawImagePath.startsWith('/portraits/')
+    ? rawImagePath
+    : `/portraits/${rawImagePath.split('/').pop()}`;
 }
 
 // External URLs
@@ -160,10 +164,10 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
 
   <!-- Portrait with frame effect -->
   <div class="infobox__portrait">
-    {portraitFilename ? (
+    {portraitUrl ? (
       <div class="portrait-container">
         <img
-          src={`/portraits/${portraitFilename}`}
+          src={portraitUrl}
           alt={title}
           class="portrait-image"
           loading="lazy"

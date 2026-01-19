@@ -8,7 +8,7 @@ import ConnectionGraph from '../../components/artist/ConnectionGraph.astro';
 import WWOZPlays from '../../components/artist/WWOZPlays.astro';
 import { getWWOZPlaysForArtist } from '../../lib/wwoz';
 import connectionsIndex from '../../data/connections-index.json';
-import { getDatabase } from '../../lib/db';
+import { getDatabase, getPortraitUrl } from '../../lib/db';
 
 // Get the slug from params
 const { slug } = Astro.params;
@@ -73,8 +73,8 @@ const data: Record<string, unknown> = {
   career_span: artistRow.career_span,
   is_active: artistRow.is_active !== 0,
   primary_role: artistRow.primary_role,
-  // For portrait in Infobox
-  image_path: artistRow.image_filename ? `/portraits/${artistRow.image_filename}` : undefined,
+  // For portrait in Infobox - use full R2 URL for Cloudflare, relative path for Docker
+  image_path: getPortraitUrl(Astro.locals, artistRow.image_filename),
   // Infobox also checks infobox.background for artist type styling
   infobox: {
     background: artistRow.artist_type,
