@@ -37,8 +37,13 @@ jobs:
         env:
           DEPLOY_TARGET: cloudflare
 
-      - name: Generate search index
-        run: npx pagefind --site apps/web/dist
+      - name: Generate search index (skip if no static HTML)
+        run: |
+          if find apps/web/dist -name "*.html" -type f | head -1 | grep -q .; then
+            npx pagefind --site apps/web/dist
+          else
+            echo "Skipping pagefind: No static HTML files in SSR build"
+          fi
 
       - name: Deploy to Cloudflare Pages
         run: npx wrangler pages deploy apps/web/dist --project-name=jazzapedia
