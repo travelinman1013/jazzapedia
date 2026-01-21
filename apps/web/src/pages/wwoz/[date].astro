@@ -1,31 +1,34 @@
 ---
 /**
  * WWOZ Playlist Page - Shows tracks played on a specific date
- * Uses D1/SQLite database for artist matching
+ * Uses static artist slug index for linking (no runtime database dependency)
  */
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
-import { getDatabase } from '../../lib/db';
+import artistSlugsData from '../../data/artist-slugs.json';
 
-// Get database adapter (works with both D1 and SQLite)
-const db = await getDatabase(Astro.locals);
+// Build a Set for O(1) slug lookups
+const artistSlugs = new Set(artistSlugsData.slugs);
 
 // Set cache headers
 Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
 
-// Prerender WWOZ pages at build time (small dataset)
-export const prerender = true;
+// Get date from URL params
+const { date } = Astro.params;
 
-export async function getStaticPaths() {
-  const wwozLogs = await getCollection('wwoz');
-  return wwozLogs.map(log => ({
-    params: { date: log.id },
-    props: { log },
-  }));
+if (!date) {
+  return Astro.redirect('/wwoz');
 }
 
-const { log } = Astro.props;
-const { date, stats, tracks } = log.data;
+// Fetch log from content collection
+const wwozLogs = await getCollection('wwoz');
+const log = wwozLogs.find(l => l.id === date);
+
+if (!log) {
+  return Astro.redirect('/wwoz');
+}
+
+const { stats, tracks } = log.data;
 
 // Format date for display
 const formatDateFull = (dateStr: string) => {
@@ -54,46 +57,7 @@ const matchRate = stats && stats.totalTracks > 0
 // Helper to convert artist name to slug
 const toSlug = (name: string) => name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
 
-// Build a cache of artist matches from database
-interface ArtistMatch {
-  slug: string;
-  title: string;
-}
-
-// Cache for artist lookups to avoid repeated queries
-const artistMatchCache = new Map<string, ArtistMatch | null>();
-
-// Pre-load all unique artist names from tracks and batch query them
-const uniqueArtistNames = [...new Set(tracks?.map(t => t.artist) || [])];
-
-if (db && uniqueArtistNames.length > 0) {
-  try {
-    // Try exact slug matches first (most common case)
-    const slugs = uniqueArtistNames.map(toSlug);
-    const placeholders = slugs.map(() => '?').join(',');
-
-    const { results } = await db.prepare(`
-      SELECT slug, title FROM artists WHERE slug IN (${placeholders})
-    `).bind(...slugs).all();
-
-    // Build slug-to-artist map
-    const slugToArtist = new Map<string, ArtistMatch>();
-    (results as ArtistMatch[]).forEach(artist => {
-      slugToArtist.set(artist.slug, artist);
-    });
-
-    // Map artist names to matches
-    uniqueArtistNames.forEach(name => {
-      const slug = toSlug(name);
-      const match = slugToArtist.get(slug);
-      artistMatchCache.set(name.toLowerCase(), match || null);
-    });
-  } catch (error) {
-    console.error('Error loading artist matches:', error);
-  }
-}
-
-// Wiki artist match helper
+// Artist match helper - checks if slug exists in static index
 interface MatchedArtist {
   name: string;
   slug: string | null;
@@ -101,11 +65,11 @@ interface MatchedArtist {
 }
 
 const matchArtist = (artistName: string): MatchedArtist => {
-  const cached = artistMatchCache.get(artistName.toLowerCase());
-  if (cached) {
+  const slug = toSlug(artistName);
+  if (artistSlugs.has(slug)) {
     return {
       name: artistName,
-      slug: cached.slug,
+      slug,
       isMatched: true,
     };
   }

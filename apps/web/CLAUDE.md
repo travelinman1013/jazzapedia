@@ -247,10 +247,11 @@ The system automatically syncs new artists daily at 5am CT to both Docker (SQLit
 ### Daily Sync Timeline
 
 - **4:30am CT**: `unified-daily-sync.sh` runs via launchd
-  - Syncs vault → content-deploy → git push (triggers GitHub Actions)
   - Syncs vault → SQLite (incremental, content-hash based)
+  - Syncs WWOZ archives → `src/content/wwoz/` (incremental)
   - Syncs portraits for Docker
   - Restarts Docker container if changes detected
+  - Commits artists + WWOZ archives → git push (triggers GitHub Actions)
 - **5:00am CT**: GitHub Actions runs D1 incremental sync + R2 upload
 
 ### Sync Commands
@@ -264,8 +265,12 @@ npm run sync:incr:remote          # Sync to D1 (Cloudflare)
 npm run sync:sqlite               # Full SQLite sync
 npm run sync:remote               # Full D1 sync
 
+# WWOZ archive syncs
+npm run sync:wwoz                 # Sync WWOZ archives to content directory
+npm run sync:wwoz:dry-run         # Preview WWOZ sync
+
 # Orchestrated sync (both Docker + Cloudflare)
-npm run sync:all                  # Run unified daily sync
+npm run sync:all                  # Run unified daily sync (includes WWOZ)
 npm run sync:all -- --dry-run     # Preview only
 npm run sync:all -- --skip-git    # Skip git push (SQLite only)
 
@@ -309,6 +314,7 @@ launchctl unload ~/Library/LaunchAgents/com.jazzapedia.daily-sync.plist
 | `scripts/sync-incremental.ts` | Incremental D1 sync |
 | `scripts/sync-to-sqlite.ts` | Full SQLite sync |
 | `scripts/sync-to-d1.ts` | Full D1 sync |
+| `scripts/sync-wwoz.ts` | WWOZ archive sync to content directory |
 | `scripts/verify-sync.sh` | Health check across all databases |
 | `scripts/auto-sync-vault.sh` | Vault → git sync |
 
@@ -389,6 +395,8 @@ npx tsx scripts/upload-portraits-r2.ts        # Upload portraits to R2
 
 ## Docker Containerization
 
+**IMPORTANT: Docker serves as the testing/staging environment.** Always verify changes work in Docker before deploying to Cloudflare production. The Docker environment mirrors production behavior but uses SQLite instead of D1.
+
 The site can run in Docker with a local SQLite database instead of Cloudflare D1.
 
 ### Architecture
@@ -452,9 +460,27 @@ npm run sync:all -- --skip-git   # Sync without git push
 - `docker-compose.yml` - App + nginx orchestration
 - `nginx.conf` - Reverse proxy with portrait caching
 - `src/lib/db.ts` - Database abstraction layer (D1 + SQLite)
+- `src/data/artist-slugs.json` - Static artist slug index (see below)
 - `scripts/sync-to-sqlite.ts` - Full SQLite sync
 - `scripts/sync-incremental-sqlite.ts` - Incremental SQLite sync (recommended)
+- `scripts/generate-artist-slugs.ts` - Generate artist slug index
 - `scripts/unified-daily-sync.sh` - Daily sync orchestrator
+
+### Artist Slug Index
+
+The file `src/data/artist-slugs.json` contains all artist slugs from the database. It's used by WWOZ archive pages to link artist names without runtime database queries.
+
+**Why it exists:**
+- WWOZ pages (`/wwoz/[date]`) need to know if an artist has a profile page
+- Runtime D1 queries are unreliable in some SSR contexts
+- A static index is faster and more reliable
+
+**When to regenerate:**
+- After adding new artists to the database
+- The `unified-daily-sync.sh` script regenerates it automatically
+- Manual regeneration: `npm run generate:slugs`
+
+**IMPORTANT:** This file is committed to git. If you add artists manually, regenerate the index before testing in Docker or deploying.
 
 ### Environment Variable
 

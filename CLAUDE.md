@@ -132,6 +132,32 @@ volumes:
   - /path/to/vault/ArtistPortraits:/vault/ArtistPortraits
 ```
 
+## WWOZ Archive Sync
+
+The web app displays WWOZ daily track logs at `/wwoz`. Archive markdown files are synced from the scraper's output to the web content directory.
+
+**Pipeline:**
+1. Scraper writes archives to `/archives/` (symlink to Obsidian vault)
+2. `sync-wwoz.ts` syncs to `apps/web/src/content/wwoz/` with ISO date filenames
+3. `unified-daily-sync.sh` commits changes and pushes to git
+4. GitHub Actions deploys to Cloudflare
+
+**File transformation:**
+- Source: `/archives/YYYY/MM/WWOZ Monday, Jan. 20, 2026.md`
+- Destination: `apps/web/src/content/wwoz/2026-01-20.md`
+
+**Manual sync:**
+```bash
+cd apps/web
+npm run sync:wwoz              # Incremental sync
+npm run sync:wwoz:dry-run      # Preview changes
+```
+
+**Key files:**
+- `apps/web/scripts/sync-wwoz.ts` - TypeScript sync script
+- `apps/web/src/content/wwoz/` - Synced archive files
+- `apps/web/src/content/config.ts` - Content collection loader
+
 ## Web Application
 
 Astro SSR with conditional adapters:
@@ -146,9 +172,14 @@ Key routes:
 - `/` - Home page with recent artists
 - `/artists` - Artist listing with search
 - `/artists/[slug]` - Individual artist page
+- `/wwoz` - WWOZ daily archive index
+- `/wwoz/[date]` - Individual day's track log
+- `/wwoz/insights` - Archive statistics dashboard
 - `/api/*` - API endpoints
 
 ## Docker Services
+
+**Docker is the testing/staging environment.** Always verify changes work in Docker before deploying to Cloudflare production.
 
 ```yaml
 services:
@@ -186,6 +217,14 @@ docker compose logs -f scraper
 docker compose exec scraper node dist/index.js --once
 ```
 
+### Sync WWOZ archives
+```bash
+cd apps/web
+npm run sync:wwoz              # Sync new/changed archives
+npm run sync:wwoz:dry-run      # Preview what would sync
+npm run sync:all               # Full daily sync (SQLite + WWOZ + git push)
+```
+
 ## Environment Variables
 
 ### Scraper
@@ -219,6 +258,12 @@ docker compose exec scraper node dist/index.js --once
 | Deploy Web | `deploy-web.yml` | Push to main (paths: apps/web, packages) |
 | Sync Artists | `sync-artists.yml` | Daily 5am CT or manual |
 
+**Daily Sync Pipeline (4:30am CT via launchd):**
+1. `unified-daily-sync.sh` syncs artists + WWOZ archives
+2. Commits and pushes to `origin/main`
+3. Triggers `sync-artists.yml` workflow
+4. Cloudflare rebuilds with new content
+
 Secrets required:
 - `CLOUDFLARE_API_TOKEN`
 - `CLOUDFLARE_ACCOUNT_ID`
@@ -232,3 +277,4 @@ Secrets required:
 5. **Type errors** - Web app has pre-existing type errors; CI skips type-check to allow builds
 6. **Archives symlink** - The `./archives` directory is a symlink to the Obsidian vault; don't delete it or commit it as a regular directory
 7. **Artist discovery paths** - The `/vault/Artists` and `/vault/ArtistPortraits` mounts in docker-compose.yml use absolute host paths specific to the deployment environment
+8. **Artist slugs index** - The `apps/web/src/data/artist-slugs.json` file must be regenerated (`npm run generate:slugs` in apps/web) after adding new artists. This file is used by WWOZ pages to link artist names and is baked into the Docker image at build time.

@@ -103,10 +103,42 @@ else
 fi
 
 # ============================================================
-# STEP 1.5: WWOZ Archives -> Content (incremental)
+# STEP 1.5: Regenerate Artist Slug Index
 # ============================================================
 
-log_section "Step 1.5: WWOZ Archives -> Content"
+log_section "Step 1.5: Artist Slug Index"
+
+SLUGS_FILE="$WEB_DIR/src/data/artist-slugs.json"
+SLUGS_CHANGED=false
+
+if [ "$DRY_RUN" = true ]; then
+  log "DRY RUN: Would regenerate artist-slugs.json"
+else
+  # Capture before state
+  BEFORE_HASH=""
+  [ -f "$SLUGS_FILE" ] && BEFORE_HASH=$(md5 -q "$SLUGS_FILE" 2>/dev/null || md5sum "$SLUGS_FILE" | cut -d' ' -f1)
+
+  # Regenerate the index from SQLite
+  npx tsx "$SCRIPT_DIR/generate-artist-slugs.ts" 2>&1 | tee -a "$LOG_FILE"
+
+  # Check if it changed
+  AFTER_HASH=""
+  [ -f "$SLUGS_FILE" ] && AFTER_HASH=$(md5 -q "$SLUGS_FILE" 2>/dev/null || md5sum "$SLUGS_FILE" | cut -d' ' -f1)
+
+  if [ "$BEFORE_HASH" != "$AFTER_HASH" ]; then
+    SLUGS_CHANGED=true
+    CHANGES_MADE=true
+    log "Artist slugs: Index updated"
+  else
+    log "Artist slugs: No changes"
+  fi
+fi
+
+# ============================================================
+# STEP 1.6: WWOZ Archives -> Content (incremental)
+# ============================================================
+
+log_section "Step 1.6: WWOZ Archives -> Content"
 
 if [ "$DRY_RUN" = true ]; then
   log "DRY RUN: Would sync WWOZ archives"
@@ -159,10 +191,13 @@ log_section "Step 3: Docker Update"
 if [ "$SKIP_DOCKER" = true ]; then
   log "SKIPPED (--skip-docker)"
 elif [ "$DRY_RUN" = true ]; then
-  log "DRY RUN: Would rebuild if WWOZ changes (wwoz=$WWOZ_CHANGES_MADE), restart if runtime changes (changes=$CHANGES_MADE)"
-elif [ "$WWOZ_CHANGES_MADE" = true ]; then
-  # WWOZ content is baked into Docker image at build time, so rebuild is required
-  log "Rebuilding Docker web container (WWOZ content changed)..."
+  log "DRY RUN: Would rebuild if WWOZ/slugs changes (wwoz=$WWOZ_CHANGES_MADE, slugs=$SLUGS_CHANGED), restart if runtime changes (changes=$CHANGES_MADE)"
+elif [ "$WWOZ_CHANGES_MADE" = true ] || [ "$SLUGS_CHANGED" = true ]; then
+  # WWOZ content and artist-slugs.json are baked into Docker image at build time, so rebuild is required
+  REBUILD_REASON=""
+  [ "$WWOZ_CHANGES_MADE" = true ] && REBUILD_REASON="WWOZ content"
+  [ "$SLUGS_CHANGED" = true ] && REBUILD_REASON="${REBUILD_REASON:+$REBUILD_REASON + }artist slugs index"
+  log "Rebuilding Docker web container ($REBUILD_REASON changed)..."
   cd "$REPO_ROOT"
   if docker compose up -d --build web 2>&1 | tee -a "$LOG_FILE"; then
     log "Docker: Web container rebuilt successfully"
@@ -199,18 +234,21 @@ else
   rsync -av --delete --exclude='.*' \
     "$VAULT_PORTRAITS/" "$CONTENT_DEPLOY/portraits/" >> "$LOG_FILE" 2>&1
 
-  # Check for changes in content-deploy and WWOZ content
+  # Check for changes in content-deploy, WWOZ content, and artist slugs index
   cd "$REPO_ROOT"
   WWOZ_CONTENT="$WEB_DIR/src/content/wwoz"
+  SLUGS_INDEX="$WEB_DIR/src/data/artist-slugs.json"
 
   CONTENT_CHANGED=false
   WWOZ_CHANGED=false
+  SLUGS_INDEX_CHANGED=false
 
   # Check for changes (both tracked and untracked files)
   [ -n "$(git status --porcelain "$CONTENT_DEPLOY" 2>/dev/null)" ] && CONTENT_CHANGED=true
   [ -n "$(git status --porcelain "$WWOZ_CONTENT" 2>/dev/null)" ] && WWOZ_CHANGED=true
+  [ -n "$(git status --porcelain "$SLUGS_INDEX" 2>/dev/null)" ] && SLUGS_INDEX_CHANGED=true
 
-  if [ "$CONTENT_CHANGED" = false ] && [ "$WWOZ_CHANGED" = false ]; then
+  if [ "$CONTENT_CHANGED" = false ] && [ "$WWOZ_CHANGED" = false ] && [ "$SLUGS_INDEX_CHANGED" = false ]; then
     log "Git: No changes to commit"
   else
     # Build commit message based on what changed
@@ -227,6 +265,12 @@ else
       COMMIT_PARTS="${COMMIT_PARTS}WWOZ archives"
       log "Git: $WWOZ_COUNT WWOZ archive changes"
       git add "$WWOZ_CONTENT"
+    fi
+    if [ "$SLUGS_INDEX_CHANGED" = true ]; then
+      [ -n "$COMMIT_PARTS" ] && COMMIT_PARTS="$COMMIT_PARTS, "
+      COMMIT_PARTS="${COMMIT_PARTS}artist slugs index"
+      log "Git: Artist slugs index changed"
+      git add "$SLUGS_INDEX"
     fi
 
     log "Git: Committing $COMMIT_PARTS..."
