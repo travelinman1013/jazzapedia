@@ -16,6 +16,7 @@ const args = process.argv.slice(2);
 const vaultIndex = args.indexOf('--vault');
 const dryRun = args.includes('--dry-run');
 const sqlOnly = args.includes('--sql-only');
+const force = args.includes('--force'); // Overwrite existing created_at values
 
 if (vaultIndex === -1 || !args[vaultIndex + 1]) {
   console.error('Usage: npx tsx scripts/backfill-created-at.ts --vault /path/to/vault/Artists [--dry-run] [--sql-only]');
@@ -84,8 +85,13 @@ async function main() {
 
     for (const { slug, createdAt } of artistFiles) {
       const dateStr = formatDateForSqlite(createdAt);
-      // Only update if created_at is NULL
-      console.log(`UPDATE artists SET created_at = '${dateStr}' WHERE slug = '${slug}' AND created_at IS NULL;`);
+      if (force) {
+        // Overwrite existing values
+        console.log(`UPDATE artists SET created_at = '${dateStr}' WHERE slug = '${slug}';`);
+      } else {
+        // Only update if created_at is NULL
+        console.log(`UPDATE artists SET created_at = '${dateStr}' WHERE slug = '${slug}' AND created_at IS NULL;`);
+      }
     }
     return;
   }
@@ -105,15 +111,13 @@ async function main() {
   // Connect to database and update
   const db = new Database(dbPath);
 
-  const updateStmt = db.prepare(`
-    UPDATE artists
-    SET created_at = ?
-    WHERE slug = ? AND created_at IS NULL
-  `);
+  const updateStmt = force
+    ? db.prepare(`UPDATE artists SET created_at = ? WHERE slug = ?`)
+    : db.prepare(`UPDATE artists SET created_at = ? WHERE slug = ? AND created_at IS NULL`);
 
   let updated = 0;
   let notFound = 0;
-  let alreadySet = 0;
+  let skipped = 0;
 
   const checkStmt = db.prepare('SELECT slug, created_at FROM artists WHERE slug = ?');
 
@@ -126,8 +130,8 @@ async function main() {
         continue;
       }
 
-      if (existing.created_at) {
-        alreadySet++;
+      if (!force && existing.created_at) {
+        skipped++;
         continue;
       }
 
@@ -142,7 +146,7 @@ async function main() {
 
   console.log('\n--- Results ---');
   console.log(`Updated: ${updated}`);
-  console.log(`Already had created_at: ${alreadySet}`);
+  console.log(`Skipped (already set): ${skipped}`);
   console.log(`Not found in database: ${notFound}`);
   console.log(`Total processed: ${artistFiles.length}`);
 }
