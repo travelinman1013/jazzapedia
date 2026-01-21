@@ -18,10 +18,12 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
-import crypto from 'node:crypto';
-import matter from 'gray-matter';
-import { marked } from 'marked';
 import Database from 'better-sqlite3';
+
+import {
+  type ArtistData,
+  parseAllArtists,
+} from './lib/sync-utils.js';
 
 // ============================================================
 // CONFIGURATION
@@ -33,176 +35,6 @@ const CONFIG = {
   defaultOutputPath: './data/jazzapedia.db',
   batchSize: 100,
 };
-
-// ============================================================
-// TYPES
-// ============================================================
-
-interface ArtistData {
-  slug: string;
-  title: string;
-  artist_type: string | null;
-  birth_date: string | null;
-  death_date: string | null;
-  origin: string | null;
-  birth_place: string | null;
-  bio_html: string;
-  bio_markdown: string;
-  bio_text: string;
-  image_filename: string | null;
-  genres: string[];
-  instruments: string[];
-  roles: string[];
-  spotify_data: object | null;
-  audio_profile: object | null;
-  external_urls: object | null;
-  musical_connections: object | null;
-  research_sources: string[];
-  content_hash: string;
-}
-
-interface SyncStats {
-  total: number;
-  processed: number;
-  errors: number;
-  skipped: number;
-}
-
-// ============================================================
-// HELPER FUNCTIONS
-// ============================================================
-
-function generateSlug(filename: string): string {
-  return filename
-    .replace(/\.md$/, '')
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/-+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
-
-function stripHtml(html: string): string {
-  return html
-    .replace(/<[^>]*>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/\s+/g, ' ')
-    .trim();
-}
-
-function findPortraitFile(slug: string, title: string): string | null {
-  const possibleNames = [
-    `${title}.jpg`,
-    `${title}.jpeg`,
-    `${title}.png`,
-    `${title}.webp`,
-    `${slug}.jpg`,
-    `${slug}.jpeg`,
-    `${slug}.png`,
-    `${slug}.webp`,
-  ];
-
-  for (const name of possibleNames) {
-    const filePath = path.join(CONFIG.portraitsDir, name);
-    if (fs.existsSync(filePath)) {
-      return name;
-    }
-  }
-
-  try {
-    const files = fs.readdirSync(CONFIG.portraitsDir);
-    const titleLower = title.toLowerCase();
-    const slugLower = slug.toLowerCase();
-
-    for (const file of files) {
-      const fileBaseLower = file.toLowerCase().replace(/\.(jpg|jpeg|png|webp)$/i, '');
-      if (fileBaseLower === titleLower || fileBaseLower === slugLower) {
-        return file;
-      }
-    }
-
-    const titleWithHyphens = titleLower.replace(/_/g, '-');
-
-    for (const file of files) {
-      const fileBaseLower = file.toLowerCase().replace(/\.(jpg|jpeg|png|webp)$/i, '');
-      const fileWithHyphens = fileBaseLower.replace(/_/g, '-');
-
-      if (fileWithHyphens === titleWithHyphens || fileWithHyphens === slugLower) {
-        return file;
-      }
-    }
-  } catch {
-    // Directory might not exist
-  }
-
-  return null;
-}
-
-function parseArtistFile(filePath: string): ArtistData | null {
-  try {
-    const content = fs.readFileSync(filePath, 'utf-8');
-    const contentHash = crypto.createHash('md5').update(content).digest('hex');
-    const { data: frontmatter, content: markdown } = matter(content);
-
-    const filename = path.basename(filePath);
-    const slug = generateSlug(filename);
-    const title = frontmatter.title || filename.replace(/\.md$/, '').replace(/_/g, ' ');
-
-    let bioHtml = marked(markdown, { async: false }) as string;
-    bioHtml = bioHtml.replace(/<h2>Quick Info<\/h2>\s*<ul>[\s\S]*?<\/ul>/gi, '');
-
-    const bioText = stripHtml(bioHtml);
-    const imageFilename = findPortraitFile(slug, title);
-
-    const artistType = frontmatter.artist_type || null;
-    const isBand = artistType === 'band' || artistType === 'group';
-    let origin: string | null = null;
-    let birthPlace: string | null = null;
-
-    if (isBand) {
-      origin = frontmatter.origin || null;
-    } else {
-      birthPlace = frontmatter.birth_place || null;
-    }
-
-    let researchSources: string[] = [];
-    if (Array.isArray(frontmatter.research_sources)) {
-      researchSources = frontmatter.research_sources.filter(
-        (s: any) => typeof s === 'string' && (s.startsWith('http://') || s.startsWith('https://'))
-      );
-    }
-
-    return {
-      slug,
-      title,
-      artist_type: artistType,
-      birth_date: frontmatter.birth_date || null,
-      death_date: frontmatter.death_date || null,
-      origin,
-      birth_place: birthPlace,
-      bio_html: bioHtml,
-      bio_markdown: markdown,
-      bio_text: bioText.substring(0, 10000),
-      image_filename: imageFilename,
-      genres: Array.isArray(frontmatter.genres) ? frontmatter.genres : [],
-      instruments: Array.isArray(frontmatter.instruments) ? frontmatter.instruments : [],
-      roles: Array.isArray(frontmatter.roles) ? frontmatter.roles : [],
-      spotify_data: frontmatter.spotify_data || null,
-      audio_profile: frontmatter.audio_profile || null,
-      external_urls: frontmatter.external_urls || null,
-      musical_connections: frontmatter.musical_connections || null,
-      research_sources: researchSources,
-      content_hash: contentHash,
-    };
-  } catch (error) {
-    console.error(`Error parsing ${filePath}:`, error);
-    return null;
-  }
-}
 
 // ============================================================
 // DATABASE SETUP
@@ -511,43 +343,14 @@ async function main(): Promise<void> {
   console.log(`Dry run: ${isDryRun ? 'YES' : 'NO'}`);
   console.log('');
 
-  // Read all markdown files
+  // Read and parse all artists using shared utility
   console.log(`Reading files from ${CONFIG.artistsDir}...`);
 
-  const allFiles = fs.readdirSync(CONFIG.artistsDir);
-  const files = allFiles.filter(f => f.endsWith('.md') && !f.startsWith('.'));
-
-  console.log(`Found ${files.length} markdown files`);
-  console.log('');
-
-  // Parse all artists
-  console.log('Parsing artist files...');
-  const artists: ArtistData[] = [];
-  const stats: SyncStats = { total: files.length, processed: 0, errors: 0, skipped: 0 };
-  const errorFiles: string[] = [];
-
-  for (const file of files) {
-    const filePath = path.join(CONFIG.artistsDir, file);
-
-    if (filePath.includes('.backup')) {
-      stats.skipped++;
-      continue;
-    }
-
-    const artist = parseArtistFile(filePath);
-
-    if (artist) {
-      artists.push(artist);
-      stats.processed++;
-    } else {
-      stats.errors++;
-      errorFiles.push(file);
-    }
-
-    if (stats.processed % 500 === 0 && stats.processed > 0) {
-      console.log(`  Processed ${stats.processed}/${files.length}...`);
-    }
-  }
+  const { artists, stats, errorFiles } = parseAllArtists(
+    CONFIG.artistsDir,
+    CONFIG.portraitsDir,
+    (processed, total) => console.log(`  Processed ${processed}/${total}...`)
+  );
 
   console.log(`Parsed ${artists.length} artists (${stats.errors} errors, ${stats.skipped} skipped)`);
 

@@ -20,7 +20,7 @@ export { detectEnvironment } from './adapter.js';
 export { SqliteDatabaseAdapter, createSqliteAdapter } from './sqlite.js';
 
 // D1 adapter
-export { createD1Adapter, getD1FromLocals } from './d1.js';
+export { getD1FromLocals } from './d1.js';
 
 // Queries
 export {
@@ -30,8 +30,6 @@ export {
   getArtists,
   getArtistCount,
   upsertArtist,
-  insertWwozTrack,
-  getWwozTracksForArtist,
 } from './queries.js';
 
 // Main entry point

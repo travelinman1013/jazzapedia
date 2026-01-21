@@ -2,7 +2,7 @@
  * Shared SQL queries and helper functions
  */
 
-import type { DatabaseAdapter, Artist, ArtistRow, WwozTrack } from '@jazzapedia/types';
+import type { DatabaseAdapter, Artist, ArtistRow } from '@jazzapedia/types';
 
 /**
  * Parse JSON columns from an artist row
@@ -141,56 +141,3 @@ export async function upsertArtist(
   return { success: result.success, id: result.meta?.last_row_id };
 }
 
-/**
- * Insert a WWOZ track
- */
-export async function insertWwozTrack(
-  db: DatabaseAdapter,
-  track: Omit<WwozTrack, 'id' | 'created_at'>
-): Promise<{ success: boolean; id?: number }> {
-  const sql = `
-    INSERT INTO wwoz_tracks (
-      artist, title, album, played_at, show_name, host_name,
-      spotify_uri, spotify_url, confidence, status, scraped_at, created_at
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, datetime('now'))
-  `;
-
-  const result = await db
-    .prepare(sql)
-    .bind(
-      track.artist,
-      track.title,
-      track.album ?? null,
-      track.played_at,
-      track.show_name ?? null,
-      track.host_name ?? null,
-      track.spotify_uri ?? null,
-      track.spotify_url ?? null,
-      track.confidence ?? null,
-      track.status,
-      track.scraped_at
-    )
-    .run();
-
-  return { success: result.success, id: result.meta?.last_row_id };
-}
-
-/**
- * Get recent WWOZ tracks for an artist
- */
-export async function getWwozTracksForArtist(
-  db: DatabaseAdapter,
-  artistName: string,
-  limit: number = 50
-): Promise<WwozTrack[]> {
-  const { results } = await db
-    .prepare(
-      `SELECT * FROM wwoz_tracks
-       WHERE artist LIKE ?
-       ORDER BY played_at DESC
-       LIMIT ?`
-    )
-    .bind(`%${artistName}%`, limit)
-    .all<WwozTrack>();
-  return results;
-}

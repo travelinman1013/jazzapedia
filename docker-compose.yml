@@ -38,8 +38,9 @@ services:
       # Obsidian vault archives (symlinked from ./archives to Obsidian vault)
       - ${OBSIDIAN_ARCHIVES:-./archives}:/app/archives
       # Artist discovery output directories (mounted from host Obsidian vault)
-      - /Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists:/vault/Artists
-      - /Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits:/vault/ArtistPortraits
+      # Set ARTISTS_DIR and PORTRAITS_DIR in .env or environment
+      - ${ARTISTS_DIR:-./content/artists}:/vault/Artists
+      - ${PORTRAITS_DIR:-./portraits}:/vault/ArtistPortraits
     networks:
       - jazzapedia-network
 

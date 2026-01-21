@@ -33,10 +33,6 @@ export type {
 // Database types
 export type {
   DatabaseAdapter,
-  Genre,
-  Instrument,
   PreparedStatement,
-  Role,
   WriteResult,
-  WwozTrack,
 } from './database.js';
