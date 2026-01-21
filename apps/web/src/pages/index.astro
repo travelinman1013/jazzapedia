@@ -23,7 +23,7 @@ interface Artist {
   genres: string | null;
   image_filename: string | null;
   spotify_data: string | null;
-  updated_at: string | null;
+  created_at: string | null;
 }
 
 interface Genre {
@@ -71,12 +71,12 @@ if (db) {
         ORDER BY RANDOM()
         LIMIT 12
       `).all(),
-      // 6 recently updated artists
+      // 6 recently added artists
       db.prepare(`
-        SELECT slug, title, genres, updated_at
+        SELECT slug, title, genres, created_at
         FROM artists
-        WHERE updated_at IS NOT NULL
-        ORDER BY updated_at DESC
+        WHERE created_at IS NOT NULL
+        ORDER BY created_at DESC
         LIMIT 6
       `).all(),
       // Top 15 genres
@@ -171,12 +171,39 @@ const getArtistType = (artist: Artist): string | undefined => {
     </div>
   </section>
 
-  <!-- Now Playing Section (Random Artists) -->
+  <!-- Recently Added -->
+  {recentArtists.length > 0 && (
+    <section class="content-section">
+      <header class="section-header">
+        <div class="section-title-group">
+          <span class="section-icon">&#10024;</span>
+          <h2 class="section-title">Recently Added</h2>
+        </div>
+        <p class="section-subtitle">Newly discovered artists</p>
+      </header>
+
+      <div class="recent-list">
+        {recentArtists.map(artist => {
+          const genres = parseJson(artist.genres, []);
+          return (
+            <a href={`/artists/${artist.slug}`} class="recent-item">
+              <span class="recent-name">{artist.title}</span>
+              <span class="recent-genres">
+                {genres.slice(0, 2).join(', ') || 'Various'}
+              </span>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  )}
+
+  <!-- Random Artists Section -->
   <section class="content-section">
     <header class="section-header">
       <div class="section-title-group">
         <span class="section-icon">&#127927;</span>
-        <h2 class="section-title">Now Playing</h2>
+        <h2 class="section-title">Random Artists</h2>
       </div>
       <p class="section-subtitle">A random selection from the collection</p>
       <a href="/artists" class="section-link">
@@ -227,33 +254,6 @@ const getArtistType = (artist: Artist): string | undefined => {
       ))}
     </div>
   </section>
-
-  <!-- Recently Updated -->
-  {recentArtists.length > 0 && (
-    <section class="content-section">
-      <header class="section-header">
-        <div class="section-title-group">
-          <span class="section-icon">&#128340;</span>
-          <h2 class="section-title">Recently Updated</h2>
-        </div>
-        <p class="section-subtitle">Latest profile updates</p>
-      </header>
-
-      <div class="recent-list">
-        {recentArtists.map(artist => {
-          const genres = parseJson(artist.genres, []);
-          return (
-            <a href={`/artists/${artist.slug}`} class="recent-item">
-              <span class="recent-name">{artist.title}</span>
-              <span class="recent-genres">
-                {genres.slice(0, 2).join(', ') || 'Various'}
-              </span>
-            </a>
-          );
-        })}
-      </div>
-    </section>
-  )}
 
   <!-- Quick Navigation -->
   <section class="content-section">
