@@ -278,3 +278,7 @@ Secrets required:
 6. **Archives symlink** - The `./archives` directory is a symlink to the Obsidian vault; don't delete it or commit it as a regular directory
 7. **Artist discovery paths** - The `/vault/Artists` and `/vault/ArtistPortraits` mounts in docker-compose.yml use absolute host paths specific to the deployment environment
 8. **Artist slugs index** - The `apps/web/src/data/artist-slugs.json` file must be regenerated (`npm run generate:slugs` in apps/web) after adding new artists. This file is used by WWOZ pages to link artist names and is baked into the Docker image at build time.
+9. **Dual deployment updates** - Database changes and data fixes must be applied to BOTH Cloudflare D1 (production) AND Docker SQLite (staging). They use separate databases:
+   - **Cloudflare D1**: Use `npx wrangler d1 execute jazzapedia --file=<sql> --remote`
+   - **Docker SQLite**: Use `sqlite3 ./data/jazzapedia.db < <sql>` then `docker compose restart web`
+   - Always verify both deployments work after making data changes
