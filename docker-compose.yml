@@ -59,9 +59,10 @@ services:
       - NODE_ENV=production
       - HOST=0.0.0.0
       - PORT=4321
+      - EDIT_PASSWORD=${EDIT_PASSWORD:-}
     volumes:
-      # Shared SQLite database (web has read-only access)
-      - jazzapedia-data:/data:ro
+      # Shared SQLite database (web has read-write for inline editing)
+      - jazzapedia-data:/data
     stop_grace_period: 10s
     expose:
       - "4321"

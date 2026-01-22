@@ -30,6 +30,10 @@ export {
   getArtists,
   getArtistCount,
   upsertArtist,
+  validateFieldValue,
+  updateArtistField,
+  logArtistEdit,
+  getDistinctTagValues,
 } from './queries.js';
 
 // Main entry point

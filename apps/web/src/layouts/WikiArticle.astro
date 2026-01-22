@@ -7,6 +7,8 @@
 import Layout from './Layout.astro';
 import Infobox from '../components/Infobox.astro';
 import TableOfContents from '../components/TableOfContents.astro';
+import PasswordDialog from '../components/editor/PasswordDialog.astro';
+import '../styles/editor.css';
 
 interface MusicalConnections {
   collaborators?: string[];
@@ -62,6 +64,9 @@ const autoDescription = description || `${title} - ${genres.slice(0, 3).join(', 
       <slot />
     </div>
   </article>
+
+  <!-- Password Dialog for Inline Editing -->
+  <PasswordDialog />
 </Layout>
 
 <style>

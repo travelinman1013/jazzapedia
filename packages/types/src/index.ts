@@ -14,7 +14,12 @@ export type {
   MusicalConnections,
   SocialLinks,
   SpotifyData,
+  EditableField,
+  FieldValidation,
+  ArtistEditLog,
 } from './artist.js';
+
+export { EDITABLE_FIELDS, FIELD_VALIDATIONS } from './artist.js';
 
 // Scraper types
 export type {

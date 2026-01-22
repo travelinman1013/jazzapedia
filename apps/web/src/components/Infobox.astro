@@ -153,13 +153,20 @@ const externalUrls = data.external_urls as { spotify?: string; wikipedia?: strin
 const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
 ---
 
-<aside class={`infobox infobox--${typeInfo.accent}`}>
+<aside class={`infobox infobox--${typeInfo.accent}`} data-artist-slug={artistSlug}>
   <!-- Header with art deco styling -->
   <header class="infobox__header">
     <h2 class="infobox__title">{title}</h2>
     {typeInfo.label && (
       <span class="infobox__type-badge">{typeInfo.label}</span>
     )}
+    <!-- Edit button (hidden by default, shown via CSS when authenticated) -->
+    <button class="edit-toggle-btn" type="button" title="Edit this artist (Cmd+E)">
+      <svg viewBox="0 0 20 20" fill="currentColor" width="14" height="14">
+        <path d="M13.586 3.586a2 2 0 112.828 2.828l-.793.793-2.828-2.828.793-.793zM11.379 5.793L3 14.172V17h2.828l8.38-8.379-2.83-2.828z"/>
+      </svg>
+      <span class="edit-btn-text">Edit</span>
+    </button>
   </header>
 
   <!-- Portrait with frame effect -->
@@ -241,12 +248,20 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
         {genres.length > 0 && (
           <tr>
             <th>Genres</th>
-            <td>
-              <div class="tag-list">
-                {genres.slice(0, 4).map(genre => (
-                  <a href={`/genres/${toSlug(genre)}`} class="tag">{genre}</a>
-                ))}
-                {genres.length > 4 && <span class="tag-more">+{genres.length - 4}</span>}
+            <td data-editable="genres" data-type="tags" data-value={JSON.stringify(genres)}>
+              <div class="field-view">
+                <div class="tag-list">
+                  {genres.slice(0, 4).map(genre => (
+                    <a href={`/genres/${toSlug(genre)}`} class="tag">{genre}</a>
+                  ))}
+                  {genres.length > 4 && <span class="tag-more">+{genres.length - 4}</span>}
+                </div>
+              </div>
+              <div class="field-edit" style="display: none;">
+                <div class="tag-editor">
+                  <div class="tag-editor-list"></div>
+                  <input type="text" class="tag-input" placeholder="Add genre..." />
+                </div>
               </div>
             </td>
           </tr>
@@ -255,12 +270,20 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
         {roles.length > 0 && (
           <tr>
             <th>Occupations</th>
-            <td>
-              <div class="tag-list">
-                {roles.slice(0, 3).map(role => (
-                  <a href={`/roles/${toSlug(role)}`} class="tag">{role}</a>
-                ))}
-                {roles.length > 3 && <span class="tag-more">+{roles.length - 3}</span>}
+            <td data-editable="roles" data-type="tags" data-value={JSON.stringify(roles)}>
+              <div class="field-view">
+                <div class="tag-list">
+                  {roles.slice(0, 3).map(role => (
+                    <a href={`/roles/${toSlug(role)}`} class="tag">{role}</a>
+                  ))}
+                  {roles.length > 3 && <span class="tag-more">+{roles.length - 3}</span>}
+                </div>
+              </div>
+              <div class="field-edit" style="display: none;">
+                <div class="tag-editor">
+                  <div class="tag-editor-list"></div>
+                  <input type="text" class="tag-input" placeholder="Add role..." />
+                </div>
               </div>
             </td>
           </tr>
@@ -269,23 +292,49 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
         {instruments.length > 0 && (
           <tr>
             <th>Instruments</th>
-            <td>
-              <div class="tag-list">
-                {instruments.slice(0, 4).map(instrument => (
-                  <span class="tag instrument-tag">{instrument}</span>
-                ))}
-                {instruments.length > 4 && <span class="tag-more">+{instruments.length - 4}</span>}
+            <td data-editable="instruments" data-type="tags" data-value={JSON.stringify(instruments)}>
+              <div class="field-view">
+                <div class="tag-list">
+                  {instruments.slice(0, 4).map(instrument => (
+                    <span class="tag instrument-tag">{instrument}</span>
+                  ))}
+                  {instruments.length > 4 && <span class="tag-more">+{instruments.length - 4}</span>}
+                </div>
+              </div>
+              <div class="field-edit" style="display: none;">
+                <div class="tag-editor">
+                  <div class="tag-editor-list"></div>
+                  <input type="text" class="tag-input" placeholder="Add instrument..." />
+                </div>
               </div>
             </td>
           </tr>
         )}
 
-        {(careerSpan || isActive) && (
+        {(careerSpan || isActive !== undefined) && (
           <tr>
             <th>Career</th>
             <td>
-              {careerSpan && <span class="font-mono">{careerSpan}</span>}
-              {isActive && <span class="active-badge">Active</span>}
+              <span data-editable="career_span" data-type="text" data-value={careerSpan || ''}>
+                <span class="field-view">
+                  {careerSpan && <span class="font-mono field-text">{careerSpan}</span>}
+                </span>
+                <span class="field-edit" style="display: none;">
+                  <input type="text" class="edit-input" placeholder="e.g. 1960-present" />
+                </span>
+              </span>
+              <span data-editable="is_active" data-type="boolean" data-value={isActive ? '1' : '0'}>
+                <span class="field-view">
+                  {isActive && <span class="active-badge">Active</span>}
+                </span>
+                <span class="field-edit" style="display: none;">
+                  <label class="toggle-switch">
+                    <input type="checkbox" />
+                    <span class="toggle-slider"></span>
+                    <span class="toggle-label">Active</span>
+                  </label>
+                </span>
+              </span>
             </td>
           </tr>
         )}
@@ -353,6 +402,12 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
     {hasConnections && artistSlug && (
       <MiniConnectionGraph connections={connections} artistSlug={artistSlug} />
     )}
+
+    <!-- Edit Actions Bar (shown when in edit mode) -->
+    <div class="edit-actions" style="display: none;">
+      <button type="button" class="btn btn-cancel" onclick="window.inlineEditor?.cancelChanges()">Cancel</button>
+      <button type="button" class="btn btn-save" onclick="window.inlineEditor?.saveAllChanges()">Save Changes</button>
+    </div>
 
     <!-- External Links -->
     <div class="external-links">
@@ -818,6 +873,195 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
     height: 0.75rem;
   }
 
+  /* Edit Toggle Button */
+  .edit-toggle-btn {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.65rem;
+    font-weight: 500;
+    font-family: inherit;
+    color: var(--color-text-muted);
+    background: transparent;
+    border: 1px solid var(--color-border);
+    border-radius: 9999px;
+    cursor: pointer;
+    transition: all 0.15s ease-out;
+    opacity: 0.6;
+  }
+
+  .edit-toggle-btn:hover {
+    opacity: 1;
+    color: var(--electric-cyan);
+    border-color: var(--electric-cyan);
+    background: rgba(0, 217, 255, 0.1);
+  }
+
+  .edit-toggle-btn.is-active {
+    opacity: 1;
+    color: var(--jazz-amber);
+    border-color: var(--jazz-amber);
+    background: rgba(212, 162, 84, 0.1);
+  }
+
+  .infobox__header {
+    position: relative;
+  }
+
+  /* Edit Actions Bar */
+  .edit-actions {
+    display: flex;
+    gap: 0.5rem;
+    padding: 0.75rem;
+    border-top: 1px solid var(--color-border-light);
+    background: var(--color-bg-nav);
+  }
+
+  .edit-actions .btn {
+    flex: 1;
+    padding: 0.5rem 1rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    font-family: inherit;
+    border: none;
+    border-radius: 0.375rem;
+    cursor: pointer;
+    transition: all 0.15s ease-out;
+  }
+
+  .edit-actions .btn-save {
+    background: var(--electric-cyan);
+    color: var(--jazz-charcoal);
+  }
+
+  .edit-actions .btn-save:hover {
+    background: var(--jazz-amber);
+  }
+
+  .edit-actions .btn-cancel {
+    background: transparent;
+    border: 1px solid var(--color-border);
+    color: var(--color-text);
+  }
+
+  .edit-actions .btn-cancel:hover {
+    background: rgba(255, 255, 255, 0.05);
+  }
+
+  /* Editable field styling */
+  .field-view { display: block; }
+  .field-edit { display: none; }
+
+  /* Tag editor */
+  .tag-editor {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    padding: 0.375rem;
+    background: var(--color-bg-nav);
+    border: 1px solid var(--color-border);
+    border-radius: 0.375rem;
+    min-height: 2rem;
+  }
+
+  .tag-editor:focus-within {
+    border-color: var(--electric-cyan);
+    box-shadow: 0 0 0 2px rgba(0, 217, 255, 0.15);
+  }
+
+  .tag-editor-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+  }
+
+  .tag-input {
+    flex: 1;
+    min-width: 80px;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    font-family: inherit;
+    color: var(--color-text);
+    background: transparent;
+    border: none;
+    outline: none;
+  }
+
+  .tag-input::placeholder {
+    color: var(--color-text-muted);
+  }
+
+  /* Edit input */
+  .edit-input {
+    width: 100%;
+    padding: 0.375rem 0.5rem;
+    font-size: 0.8rem;
+    font-family: inherit;
+    color: var(--color-text);
+    background: var(--color-bg-nav);
+    border: 1px solid var(--color-border);
+    border-radius: 0.375rem;
+  }
+
+  .edit-input:focus {
+    border-color: var(--electric-cyan);
+    box-shadow: 0 0 0 2px rgba(0, 217, 255, 0.15);
+    outline: none;
+  }
+
+  /* Toggle switch */
+  .toggle-switch {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+  }
+
+  .toggle-switch input {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .toggle-slider {
+    position: relative;
+    width: 2rem;
+    height: 1rem;
+    background: var(--color-border);
+    border-radius: 9999px;
+    transition: background 0.2s ease-out;
+  }
+
+  .toggle-slider::after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 0.75rem;
+    height: 0.75rem;
+    background: var(--color-text);
+    border-radius: 50%;
+    transition: transform 0.2s ease-out;
+  }
+
+  .toggle-switch input:checked + .toggle-slider {
+    background: var(--electric-cyan);
+  }
+
+  .toggle-switch input:checked + .toggle-slider::after {
+    transform: translateX(1rem);
+  }
+
+  .toggle-label {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+  }
+
   /* Responsive - center on mobile */
   @media (max-width: 768px) {
     .infobox {
@@ -866,5 +1110,17 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
         }
       });
     });
+
+    // Initialize InlineEditor if artistSlug is available
+    const infobox = document.querySelector('.infobox');
+    const artistSlug = infobox?.getAttribute('data-artist-slug');
+    if (artistSlug && typeof window !== 'undefined') {
+      // Dynamically import the InlineEditor
+      import('../scripts/inline-editor').then(({ InlineEditor }) => {
+        (window as any).inlineEditor = new InlineEditor(artistSlug);
+      }).catch(err => {
+        console.warn('[Infobox] InlineEditor not available:', err);
+      });
+    }
   });
 </script>
