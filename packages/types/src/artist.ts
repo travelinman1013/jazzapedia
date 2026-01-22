@@ -115,6 +115,66 @@ export interface Artist {
 }
 
 /**
+ * Editable fields for inline editing feature
+ */
+export const EDITABLE_FIELDS = [
+  'genres',
+  'roles',
+  'instruments',
+  'artist_type',
+  'birth_date',
+  'death_date',
+  'birth_place',
+  'origin',
+  'career_span',
+  'is_active',
+  'aliases',
+  'birth_name',
+  'discography_summary',
+] as const;
+
+export type EditableField = (typeof EDITABLE_FIELDS)[number];
+
+/**
+ * Field validation configuration
+ */
+export interface FieldValidation {
+  type: 'string' | 'string[]' | 'boolean' | 'enum' | 'date' | 'object';
+  maxLength?: number;
+  maxItems?: number;
+  enumValues?: readonly string[];
+  nullable?: boolean;
+}
+
+export const FIELD_VALIDATIONS: Record<EditableField, FieldValidation> = {
+  genres: { type: 'string[]', maxItems: 30, maxLength: 100 },
+  roles: { type: 'string[]', maxItems: 20, maxLength: 100 },
+  instruments: { type: 'string[]', maxItems: 30, maxLength: 100 },
+  artist_type: { type: 'enum', enumValues: ['person', 'band'], nullable: true },
+  birth_date: { type: 'date', nullable: true },
+  death_date: { type: 'date', nullable: true },
+  birth_place: { type: 'string', maxLength: 200, nullable: true },
+  origin: { type: 'string', maxLength: 200, nullable: true },
+  career_span: { type: 'string', maxLength: 50, nullable: true },
+  is_active: { type: 'boolean' },
+  aliases: { type: 'string[]', maxItems: 10, maxLength: 100 },
+  birth_name: { type: 'string', maxLength: 200, nullable: true },
+  discography_summary: { type: 'object', nullable: true },
+};
+
+/**
+ * Artist edit audit log entry
+ */
+export interface ArtistEditLog {
+  artist_slug: string;
+  field_name: EditableField;
+  old_value: string | null;
+  new_value: string | null;
+  editor_ip: string;
+  user_agent: string;
+}
+
+/**
  * Artist row from database (before JSON parsing)
  */
 export interface ArtistRow {

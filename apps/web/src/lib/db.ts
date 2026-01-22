@@ -24,8 +24,9 @@ export interface DatabaseAdapter {
 // Check if we're in Docker mode
 const isDocker = typeof process !== 'undefined' && process.env?.DEPLOY_TARGET === 'docker';
 
-// Singleton for better-sqlite3 database connection
+// Singleton for better-sqlite3 database connections
 let sqliteDb: any = null;
+let sqliteDbWritable: any = null;
 let DatabaseConstructor: any = null;
 let sqliteLoadAttempted = false;
 
@@ -51,7 +52,7 @@ async function loadSqlite(): Promise<any> {
 }
 
 /**
- * Get SQLite database instance (lazy initialization)
+ * Get SQLite database instance (lazy initialization, read-only)
  */
 async function getSqliteDatabase(): Promise<any> {
   if (sqliteDb) return sqliteDb;
@@ -69,6 +70,29 @@ async function getSqliteDatabase(): Promise<any> {
     return sqliteDb;
   } catch (error) {
     console.error('[db] Failed to initialize SQLite database:', error);
+    return null;
+  }
+}
+
+/**
+ * Get writable SQLite database instance (for inline editing)
+ */
+async function getSqliteDatabaseWritable(): Promise<any> {
+  if (sqliteDbWritable) return sqliteDbWritable;
+
+  const Database = await loadSqlite();
+  if (!Database) {
+    console.error('[db] better-sqlite3 not available');
+    return null;
+  }
+
+  try {
+    const dbPath = process.env.DATABASE_PATH || '/data/jazzapedia.db';
+    sqliteDbWritable = new Database(dbPath); // No readonly flag
+    console.log(`[db] Connected to writable SQLite database: ${dbPath}`);
+    return sqliteDbWritable;
+  } catch (error) {
+    console.error('[db] Failed to initialize writable SQLite database:', error);
     return null;
   }
 }
@@ -196,4 +220,24 @@ export function getPortraitUrl(locals: App.Locals, imageFilename: string | null 
   if (!imageFilename) return undefined;
   const baseUrl = getPortraitBaseUrl(locals);
   return `${baseUrl}/portraits/${imageFilename}`;
+}
+
+/**
+ * Get a writable database adapter (for inline editing)
+ *
+ * @param locals - Astro.locals object containing runtime bindings
+ * @returns Writable database adapter or null if not available
+ */
+export async function getWritableDatabase(locals: App.Locals): Promise<DatabaseAdapter | null> {
+  if (isDocker) {
+    // Docker mode: use writable better-sqlite3 connection
+    const db = await getSqliteDatabaseWritable();
+    if (!db) return null;
+    return new SqliteDatabaseAdapter(db);
+  } else {
+    // Cloudflare mode: D1 already supports writes
+    const runtime = (locals as any).runtime;
+    const d1 = runtime?.env?.DB;
+    return d1 || null;
+  }
 }

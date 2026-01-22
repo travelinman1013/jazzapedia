@@ -2,7 +2,14 @@
  * Shared SQL queries and helper functions
  */
 
-import type { DatabaseAdapter, Artist, ArtistRow } from '@jazzapedia/types';
+import type {
+  DatabaseAdapter,
+  Artist,
+  ArtistRow,
+  EditableField,
+  ArtistEditLog,
+} from '@jazzapedia/types';
+import { EDITABLE_FIELDS, FIELD_VALIDATIONS } from '@jazzapedia/types';
 
 /**
  * Parse JSON columns from an artist row
@@ -139,5 +146,179 @@ export async function upsertArtist(
     .run();
 
   return { success: result.success, id: result.meta?.last_row_id };
+}
+
+/**
+ * Validate a field value based on its configuration
+ */
+export function validateFieldValue(
+  field: EditableField,
+  value: unknown
+): { valid: boolean; error?: string; normalizedValue?: unknown } {
+  const config = FIELD_VALIDATIONS[field];
+  if (!config) {
+    return { valid: false, error: `Unknown field: ${field}` };
+  }
+
+  // Handle null/empty for nullable fields
+  if (value === null || value === undefined || value === '') {
+    if (config.nullable) {
+      return { valid: true, normalizedValue: null };
+    }
+    return { valid: false, error: `${field} cannot be empty` };
+  }
+
+  switch (config.type) {
+    case 'string[]': {
+      if (!Array.isArray(value)) {
+        return { valid: false, error: `${field} must be an array` };
+      }
+      if (config.maxItems && value.length > config.maxItems) {
+        return { valid: false, error: `${field} can have at most ${config.maxItems} items` };
+      }
+      for (const item of value) {
+        if (typeof item !== 'string') {
+          return { valid: false, error: `${field} items must be strings` };
+        }
+        if (config.maxLength && item.length > config.maxLength) {
+          return { valid: false, error: `${field} items can be at most ${config.maxLength} characters` };
+        }
+      }
+      // Normalize: trim, dedupe, filter empty
+      const normalized = [...new Set(value.map((v) => v.trim()).filter(Boolean))];
+      return { valid: true, normalizedValue: JSON.stringify(normalized) };
+    }
+
+    case 'enum': {
+      if (!config.enumValues?.includes(value as string)) {
+        return { valid: false, error: `${field} must be one of: ${config.enumValues?.join(', ')}` };
+      }
+      return { valid: true, normalizedValue: value };
+    }
+
+    case 'date': {
+      // Validate YYYY, YYYY-MM, or YYYY-MM-DD format
+      const dateRegex = /^\d{4}(-\d{2}(-\d{2})?)?$/;
+      if (typeof value !== 'string' || !dateRegex.test(value)) {
+        return { valid: false, error: `${field} must be in YYYY, YYYY-MM, or YYYY-MM-DD format` };
+      }
+      return { valid: true, normalizedValue: value };
+    }
+
+    case 'string': {
+      if (typeof value !== 'string') {
+        return { valid: false, error: `${field} must be a string` };
+      }
+      if (config.maxLength && value.length > config.maxLength) {
+        return { valid: false, error: `${field} can be at most ${config.maxLength} characters` };
+      }
+      return { valid: true, normalizedValue: value.trim() };
+    }
+
+    case 'boolean': {
+      if (typeof value !== 'boolean' && value !== 0 && value !== 1) {
+        return { valid: false, error: `${field} must be a boolean` };
+      }
+      return { valid: true, normalizedValue: value ? 1 : 0 };
+    }
+
+    case 'object': {
+      if (typeof value !== 'object') {
+        return { valid: false, error: `${field} must be an object` };
+      }
+      return { valid: true, normalizedValue: JSON.stringify(value) };
+    }
+
+    default:
+      return { valid: false, error: `Unknown field type` };
+  }
+}
+
+/**
+ * Update a single field on an artist record
+ */
+export async function updateArtistField(
+  db: DatabaseAdapter,
+  slug: string,
+  field: EditableField,
+  value: unknown
+): Promise<{ success: boolean; error?: string; oldValue?: unknown }> {
+  // Validate field is allowed
+  if (!EDITABLE_FIELDS.includes(field)) {
+    return { success: false, error: `Field ${field} is not editable` };
+  }
+
+  // Validate value
+  const validation = validateFieldValue(field, value);
+  if (!validation.valid) {
+    return { success: false, error: validation.error };
+  }
+
+  // Get current value for audit log
+  const currentArtist = await db
+    .prepare(`SELECT ${field} FROM artists WHERE slug = ?`)
+    .bind(slug)
+    .first<Record<string, unknown>>();
+
+  if (!currentArtist) {
+    return { success: false, error: 'Artist not found' };
+  }
+
+  const oldValue = currentArtist[field];
+
+  // Update the field
+  const result = await db
+    .prepare(`UPDATE artists SET ${field} = ?, updated_at = datetime('now') WHERE slug = ?`)
+    .bind(validation.normalizedValue, slug)
+    .run();
+
+  if (!result.success) {
+    return { success: false, error: 'Database update failed' };
+  }
+
+  return { success: true, oldValue };
+}
+
+/**
+ * Log an artist edit to the audit table
+ */
+export async function logArtistEdit(
+  db: DatabaseAdapter,
+  edit: ArtistEditLog
+): Promise<void> {
+  await db
+    .prepare(
+      `INSERT INTO artist_edits (artist_slug, field_name, old_value, new_value, editor_ip, user_agent)
+       VALUES (?, ?, ?, ?, ?, ?)`
+    )
+    .bind(
+      edit.artist_slug,
+      edit.field_name,
+      edit.old_value,
+      edit.new_value,
+      edit.editor_ip,
+      edit.user_agent
+    )
+    .run();
+}
+
+/**
+ * Get distinct values for a tag field (for autocomplete)
+ */
+export async function getDistinctTagValues(
+  db: DatabaseAdapter,
+  field: 'genres' | 'roles' | 'instruments'
+): Promise<string[]> {
+  // SQLite json_each to extract array values
+  const { results } = await db
+    .prepare(
+      `SELECT DISTINCT je.value as tag
+       FROM artists, json_each(${field}) as je
+       WHERE je.value IS NOT NULL AND je.value != ''
+       ORDER BY tag`
+    )
+    .all<{ tag: string }>();
+
+  return results.map((r) => r.tag);
 }
 
