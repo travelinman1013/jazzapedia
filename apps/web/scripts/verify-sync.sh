@@ -10,7 +10,7 @@ set -e
 
 REPO_ROOT="/Users/maxwell/Projects/jazzapedia"
 WEB_DIR="$REPO_ROOT/apps/web"
-VAULT_ARTISTS="/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists"
+LOCAL_ARTISTS="$REPO_ROOT/content/artists"
 SQLITE_DB="$REPO_ROOT/data/jazzapedia.db"
 
 VERBOSE=false

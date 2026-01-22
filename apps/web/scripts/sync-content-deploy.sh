@@ -7,8 +7,8 @@
 
 set -e
 
-VAULT_ARTISTS="${VAULT_ARTISTS:-/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists}"
-VAULT_PORTRAITS="${VAULT_PORTRAITS:-/Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits}"
+LOCAL_ARTISTS="${LOCAL_ARTISTS:-$REPO_ROOT/content/artists}"
+LOCAL_PORTRAITS="${LOCAL_PORTRAITS:-$REPO_ROOT/portraits}"
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 CONTENT_DEPLOY="$SCRIPT_DIR/../content-deploy"

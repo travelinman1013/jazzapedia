@@ -34,7 +34,6 @@ interface Genre {
 let artistCount = 0;
 let genreCount = 0;
 let instrumentCount = 0;
-let artistsWithSpotify = 0;
 let randomArtists: Artist[] = [];
 let recentArtists: Artist[] = [];
 let topGenres: Genre[] = [];
@@ -47,7 +46,6 @@ if (db) {
       artistCountResult,
       genreCountResult,
       instrumentCountResult,
-      spotifyCountResult,
       randomResult,
       recentResult,
       genresResult,
@@ -58,11 +56,6 @@ if (db) {
       db.prepare('SELECT COUNT(*) as count FROM genres').first(),
       // Total instruments
       db.prepare('SELECT COUNT(*) as count FROM instruments').first(),
-      // Artists with Spotify popularity
-      db.prepare(`
-        SELECT COUNT(*) as count FROM artists
-        WHERE json_extract(spotify_data, '$.popularity') IS NOT NULL
-      `).first(),
       // 12 random artists with images
       db.prepare(`
         SELECT slug, title, artist_type, genres, image_filename, spotify_data
@@ -91,7 +84,6 @@ if (db) {
     artistCount = (artistCountResult as { count: number })?.count || 0;
     genreCount = (genreCountResult as { count: number })?.count || 0;
     instrumentCount = (instrumentCountResult as { count: number })?.count || 0;
-    artistsWithSpotify = (spotifyCountResult as { count: number })?.count || 0;
     randomArtists = randomResult.results as Artist[];
     recentArtists = recentResult.results as Artist[];
     topGenres = genresResult.results as Genre[];
@@ -167,7 +159,6 @@ const getArtistType = (artist: Artist): string | undefined => {
       <StatBox value={artistCount} label="Artists" icon="&#9835;" href="/artists" />
       <StatBox value={genreCount} label="Genres" icon="&#127926;" href="/genres" />
       <StatBox value={instrumentCount} label="Instruments" icon="&#127927;" href="/instruments" />
-      <StatBox value={artistsWithSpotify} label="With Spotify" icon="&#127911;" />
     </div>
   </section>
 
@@ -429,7 +420,7 @@ const getArtistType = (artist: Artist): string | undefined => {
 
   @media (min-width: 768px) {
     .stats-grid {
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(3, 1fr);
     }
   }
 

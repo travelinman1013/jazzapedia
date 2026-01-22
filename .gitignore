@@ -40,8 +40,14 @@ config/scraper/processed_archives.json
 # Archives (generated, large)
 archives/
 
-# Portraits (large image files)
+# Portraits (large image files, served from volume)
 portraits/
+
+# Content directories
+# Artist content is tracked (source of truth for the project)
+# content/artists/ is NOT ignored - it should be committed
+# But we ignore any backup directories
+content/artists.backup*/
 
 # Python
 __pycache__/

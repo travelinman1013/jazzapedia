@@ -4,7 +4,7 @@ import { execSync } from 'child_process';
 import { readdirSync, statSync } from 'fs';
 import { join } from 'path';
 
-const PORTRAITS_DIR = process.env.PORTRAITS_DIR || '/Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits';
+const PORTRAITS_DIR = process.env.PORTRAITS_DIR || './portraits';
 const BUCKET_NAME = 'jazzapedia-portraits';
 const R2_PREFIX = 'portraits/';
 const IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.webp'];

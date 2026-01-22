@@ -30,8 +30,8 @@ import { marked } from 'marked';
 // ============================================================
 
 const CONFIG = {
-  artistsDir: process.env.ARTISTS_DIR || '/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists',
-  portraitsDir: process.env.PORTRAITS_DIR || '/Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits',
+  artistsDir: process.env.ARTISTS_DIR || './content/artists',
+  portraitsDir: process.env.PORTRAITS_DIR || './portraits',
   databaseName: 'jazzapedia',
   batchSize: 50,
   outputDir: './sync-output',

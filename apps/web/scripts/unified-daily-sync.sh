@@ -2,17 +2,19 @@
 # Unified Sync for Jazzapedia
 # Single script for all sync operations (post-discovery and daily scheduled)
 #
-# This script:
-# 1. Syncs Obsidian vault -> SQLite (for Docker runtime)
-# 2. Syncs WWOZ archives -> content directory (requires Docker rebuild)
-# 3. Rebuilds Docker if WWOZ content changed, restarts if only runtime data changed
-# 4. Syncs Obsidian vault -> content-deploy -> git push (for Cloudflare via GitHub Actions)
+# Data Flow (Local as source of truth):
+# 1. Syncs local content -> SQLite (for Docker runtime)
+# 2. Syncs local content -> Obsidian vault (backup/personal use)
+# 3. Syncs WWOZ archives -> content directory (requires Docker rebuild)
+# 4. Rebuilds Docker if content changed, restarts if only runtime data changed
+# 5. Syncs local content -> git push (for Cloudflare via GitHub Actions)
 #
 # Usage:
 #   ./unified-daily-sync.sh                    # Full sync
 #   ./unified-daily-sync.sh --dry-run          # Preview only
 #   ./unified-daily-sync.sh --skip-git         # Skip git push (Docker only)
 #   ./unified-daily-sync.sh --skip-docker      # Skip Docker rebuild/restart
+#   ./unified-daily-sync.sh --skip-obsidian    # Skip Obsidian vault sync
 #   ./unified-daily-sync.sh --clear-signal     # Clear signal file after sync (for post-discovery)
 
 set -e
@@ -28,14 +30,17 @@ REPO_ROOT="/Users/maxwell/Projects/jazzapedia"
 WEB_DIR="$REPO_ROOT/apps/web"
 SCRIPT_DIR="$WEB_DIR/scripts"
 
-# Vault paths
-VAULT_ARTISTS="/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists"
-VAULT_PORTRAITS="/Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits"
+# Local directories (primary storage - source of truth)
+LOCAL_ARTISTS="$REPO_ROOT/content/artists"
+LOCAL_PORTRAITS="$REPO_ROOT/portraits"
+
+# Obsidian vault paths (sync destination for backup/personal use)
+OBSIDIAN_ARTISTS="${OBSIDIAN_ARTISTS_DIR:-/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists}"
+OBSIDIAN_PORTRAITS="${OBSIDIAN_PORTRAITS_DIR:-/Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits}"
 
 # Output paths
 SQLITE_DB="$REPO_ROOT/data/jazzapedia.db"
 CONTENT_DEPLOY="$WEB_DIR/content-deploy"
-PORTRAITS_DIR="$REPO_ROOT/portraits"
 SIGNAL_FILE="$REPO_ROOT/scraper-state/sync-requested"
 
 # Logging
@@ -46,6 +51,7 @@ LOG_FILE="$LOG_DIR/sync-$(date '+%Y-%m-%d').log"
 DRY_RUN=false
 SKIP_GIT=false
 SKIP_DOCKER=false
+SKIP_OBSIDIAN=false
 CLEAR_SIGNAL=false
 
 for arg in "$@"; do
@@ -53,6 +59,7 @@ for arg in "$@"; do
     --dry-run) DRY_RUN=true ;;
     --skip-git) SKIP_GIT=true ;;
     --skip-docker) SKIP_DOCKER=true ;;
+    --skip-obsidian) SKIP_OBSIDIAN=true ;;
     --clear-signal) CLEAR_SIGNAL=true ;;
   esac
 done
@@ -77,22 +84,24 @@ log_section() {
 cd "$WEB_DIR"
 
 log_section "Starting Jazzapedia Sync"
-log "Dry run: $DRY_RUN | Skip git: $SKIP_GIT | Skip docker: $SKIP_DOCKER"
+log "Dry run: $DRY_RUN | Skip git: $SKIP_GIT | Skip docker: $SKIP_DOCKER | Skip obsidian: $SKIP_OBSIDIAN"
 
 CHANGES_MADE=false
 WWOZ_CHANGES_MADE=false  # Track WWOZ-specific changes (requires Docker rebuild)
 
 # ============================================================
-# STEP 1: Vault -> SQLite (incremental)
+# STEP 1: Local Content -> SQLite (incremental)
 # ============================================================
 
-log_section "Step 1: Vault -> SQLite"
+log_section "Step 1: Local Content -> SQLite"
 
 if [ "$DRY_RUN" = true ]; then
   log "DRY RUN: Would sync to SQLite"
-  npx tsx "$SCRIPT_DIR/sync-incremental-sqlite.ts" --output "$SQLITE_DB" --dry-run 2>&1 | tee -a "$LOG_FILE"
+  ARTISTS_DIR="$LOCAL_ARTISTS" PORTRAITS_DIR="$LOCAL_PORTRAITS" \
+    npx tsx "$SCRIPT_DIR/sync-incremental-sqlite.ts" --output "$SQLITE_DB" --dry-run 2>&1 | tee -a "$LOG_FILE"
 else
-  SYNC_OUTPUT=$(npx tsx "$SCRIPT_DIR/sync-incremental-sqlite.ts" --output "$SQLITE_DB" 2>&1 | tee -a "$LOG_FILE")
+  SYNC_OUTPUT=$(ARTISTS_DIR="$LOCAL_ARTISTS" PORTRAITS_DIR="$LOCAL_PORTRAITS" \
+    npx tsx "$SCRIPT_DIR/sync-incremental-sqlite.ts" --output "$SQLITE_DB" 2>&1 | tee -a "$LOG_FILE")
 
   if echo "$SYNC_OUTPUT" | grep -q "Successfully synced: [1-9]"; then
     CHANGES_MADE=true
@@ -156,30 +165,43 @@ else
 fi
 
 # ============================================================
-# STEP 2: Sync portraits for Docker
+# STEP 2: Local -> Obsidian Vault (backup sync)
 # ============================================================
 
-log_section "Step 2: Portraits -> Docker"
+log_section "Step 2: Local -> Obsidian Vault"
 
-if [ -d "$VAULT_PORTRAITS" ]; then
-  BEFORE=$(find "$PORTRAITS_DIR" -type f 2>/dev/null | wc -l | tr -d ' ')
-
-  if [ "$DRY_RUN" = true ]; then
-    log "DRY RUN: Would rsync portraits"
+if [ "$SKIP_OBSIDIAN" = true ]; then
+  log "SKIPPED (--skip-obsidian)"
+elif [ "$DRY_RUN" = true ]; then
+  log "DRY RUN: Would sync to Obsidian vault"
+  [ -d "$OBSIDIAN_ARTISTS" ] && log "  Artists: $LOCAL_ARTISTS -> $OBSIDIAN_ARTISTS"
+  [ -d "$OBSIDIAN_PORTRAITS" ] && log "  Portraits: $LOCAL_PORTRAITS -> $OBSIDIAN_PORTRAITS"
+else
+  # Sync artists to Obsidian vault
+  if [ -d "$OBSIDIAN_ARTISTS" ]; then
+    BEFORE=$(find "$OBSIDIAN_ARTISTS" -name "*.md" -type f 2>/dev/null | wc -l | tr -d ' ')
+    rsync -av --delete --exclude='.*' \
+      --exclude='*_20[0-9][0-9][0-9][0-9][0-9][0-9]_[0-9][0-9][0-9][0-9][0-9][0-9].md' \
+      "$LOCAL_ARTISTS/" "$OBSIDIAN_ARTISTS/" >> "$LOG_FILE" 2>&1
+    AFTER=$(find "$OBSIDIAN_ARTISTS" -name "*.md" -type f 2>/dev/null | wc -l | tr -d ' ')
+    log "Obsidian artists: synced (total: $AFTER)"
   else
-    mkdir -p "$PORTRAITS_DIR"
+    log "WARNING: Obsidian artists directory not found: $OBSIDIAN_ARTISTS"
+  fi
+
+  # Sync portraits to Obsidian vault (new files only, preserve existing)
+  if [ -d "$OBSIDIAN_PORTRAITS" ]; then
+    BEFORE=$(find "$OBSIDIAN_PORTRAITS" -type f 2>/dev/null | wc -l | tr -d ' ')
     rsync -av --ignore-existing \
       --include="*.jpg" --include="*.jpeg" --include="*.png" --include="*.webp" \
       --exclude="*" \
-      "$VAULT_PORTRAITS/" "$PORTRAITS_DIR/" >> "$LOG_FILE" 2>&1
-
-    AFTER=$(find "$PORTRAITS_DIR" -type f 2>/dev/null | wc -l | tr -d ' ')
+      "$LOCAL_PORTRAITS/" "$OBSIDIAN_PORTRAITS/" >> "$LOG_FILE" 2>&1
+    AFTER=$(find "$OBSIDIAN_PORTRAITS" -type f 2>/dev/null | wc -l | tr -d ' ')
     NEW=$((AFTER - BEFORE))
-    log "Portraits: $NEW new (total: $AFTER)"
-    [ "$NEW" -gt 0 ] && CHANGES_MADE=true
+    log "Obsidian portraits: $NEW new (total: $AFTER)"
+  else
+    log "WARNING: Obsidian portraits directory not found: $OBSIDIAN_PORTRAITS"
   fi
-else
-  log "WARNING: Vault portraits not found"
 fi
 
 # ============================================================
@@ -214,28 +236,28 @@ else
 fi
 
 # ============================================================
-# STEP 4: Vault -> content-deploy -> Git push
+# STEP 4: Local Content -> Git push (for Cloudflare)
 # ============================================================
 
-log_section "Step 4: Vault -> Git (for Cloudflare)"
+log_section "Step 4: Local Content -> Git (for Cloudflare)"
 
 if [ "$SKIP_GIT" = true ]; then
   log "SKIPPED (--skip-git)"
 elif [ "$DRY_RUN" = true ]; then
   log "DRY RUN: Would sync to git"
 else
-  cd "$WEB_DIR"
+  cd "$REPO_ROOT"
 
-  # Rsync vault to content-deploy (exclude timestamped backup files)
-  log "Syncing vault to content-deploy..."
+  # Sync local content to content-deploy for Cloudflare
+  # (content-deploy is committed to git for the deployment pipeline)
+  log "Syncing local content to content-deploy..."
   rsync -av --delete --exclude='.*' \
     --exclude='*_20[0-9][0-9][0-9][0-9][0-9][0-9]_[0-9][0-9][0-9][0-9][0-9][0-9].md' \
-    "$VAULT_ARTISTS/" "$CONTENT_DEPLOY/artists/" >> "$LOG_FILE" 2>&1
+    "$LOCAL_ARTISTS/" "$CONTENT_DEPLOY/artists/" >> "$LOG_FILE" 2>&1
   rsync -av --delete --exclude='.*' \
-    "$VAULT_PORTRAITS/" "$CONTENT_DEPLOY/portraits/" >> "$LOG_FILE" 2>&1
+    "$LOCAL_PORTRAITS/" "$CONTENT_DEPLOY/portraits/" >> "$LOG_FILE" 2>&1
 
   # Check for changes in content-deploy, WWOZ content, and artist slugs index
-  cd "$REPO_ROOT"
   WWOZ_CONTENT="$WEB_DIR/src/content/wwoz"
   SLUGS_INDEX="$WEB_DIR/src/data/artist-slugs.json"
 

@@ -29,8 +29,8 @@ import Database from 'better-sqlite3';
 // ============================================================
 
 const CONFIG = {
-  artistsDir: process.env.ARTISTS_DIR || '/Users/maxwell/LETSGO/MaxVault/01_Projects/PersonalArtistWiki/Artists',
-  portraitsDir: process.env.PORTRAITS_DIR || '/Users/maxwell/LETSGO/MaxVault/03_Resources/source_material/ArtistPortraits',
+  artistsDir: process.env.ARTISTS_DIR || './content/artists',
+  portraitsDir: process.env.PORTRAITS_DIR || './portraits',
   defaultOutputPath: './data/jazzapedia.db',
   batchSize: 50,
 };
@@ -227,19 +227,22 @@ function getExistingHashes(db: Database.Database): Map<string, string | null> {
 }
 
 function syncArtists(db: Database.Database, artists: ArtistData[]): void {
+  // Use COALESCE to preserve existing created_at or set to now for new artists
   const insertArtist = db.prepare(`
     INSERT OR REPLACE INTO artists (
       slug, title, artist_type, birth_date, death_date,
       origin, birth_place, bio_html, bio_markdown, image_filename,
       genres, instruments, roles, spotify_data, audio_profile,
       external_urls, musical_connections, research_sources,
-      content_hash, updated_at
+      content_hash, created_at, updated_at
     ) VALUES (
       @slug, @title, @artist_type, @birth_date, @death_date,
       @origin, @birth_place, @bio_html, @bio_markdown, @image_filename,
       @genres, @instruments, @roles, @spotify_data, @audio_profile,
       @external_urls, @musical_connections, @research_sources,
-      @content_hash, datetime('now')
+      @content_hash,
+      COALESCE((SELECT created_at FROM artists WHERE slug = @slug), datetime('now')),
+      datetime('now')
     )
   `);
 
