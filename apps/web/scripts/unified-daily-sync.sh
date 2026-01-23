@@ -273,6 +273,16 @@ else
   rsync -av --delete --exclude='.*' \
     "$LOCAL_PORTRAITS/" "$CONTENT_DEPLOY/portraits/" >> "$LOG_FILE" 2>&1
 
+  # Verify sync succeeded - content counts should match
+  LOCAL_COUNT=$(find "$LOCAL_ARTISTS" -name "*.md" -type f 2>/dev/null | wc -l | tr -d ' ')
+  DEPLOY_COUNT=$(find "$CONTENT_DEPLOY/artists" -name "*.md" -type f 2>/dev/null | wc -l | tr -d ' ')
+  if [ "$LOCAL_COUNT" != "$DEPLOY_COUNT" ]; then
+    log "ERROR: Content sync mismatch! Local: $LOCAL_COUNT, Deploy: $DEPLOY_COUNT"
+    log "This may indicate an rsync failure or permission issue."
+  else
+    log "Content sync verified: $LOCAL_COUNT artists in both directories"
+  fi
+
   # Check for changes in content-deploy, WWOZ content, and artist slugs index
   WWOZ_CONTENT="$WEB_DIR/src/content/wwoz"
   SLUGS_INDEX="$WEB_DIR/src/data/artist-slugs.json"
