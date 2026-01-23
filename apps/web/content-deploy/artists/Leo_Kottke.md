@@ -1,75 +1,60 @@
 ---
-title: Leo Kottke
-wiki_slug: leo-kottke
-schema_version: 2
-status: active
-birth_place: Athens, Georgia, United States
+artist_type: person
+biography_enhanced_at: '2026-01-22T07:05:41.488706'
+birth_date: '1945-09-11'
+birth_place: Athens
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:05:41.488713'
+external_urls:
+  musicbrainz: https://musicbrainz.org/artist/1a21878d-05b1-4983-a059-7cf3abee04b7
+  spotify: https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx
+  wikipedia: https://en.wikipedia.org/wiki/Leo_Kottke
+gender: Male
 genres: []
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/leo_kottke.jpg
-  caption: Leo Kottke
-  background: solo_singer
-  origin: Athens, Georgia, United States
-audio_profile:
-  tempo_avg: 109.9
-  energy_avg: 0.463
-  valence_avg: 0.674
-  danceability_avg: 0.507
-  acousticness_avg: 0.434
-  instrumentalness_avg: 0.687
-  loudness_avg: -14.7
-  speechiness_avg: 0.041
-  liveness_avg: 0.137
-  track_count: 50
-  computed_at: '2025-12-23T08:16:02.985563'
-similar_artists: []
+image_path: 03_Resources/source_material/ArtistPortraits/leo_kottke.jpg
+instruments:
+- slide guitar
+- acoustic guitar
+- guitar
+- background vocals
+last_updated: '2026-01-22T07:05:41.488714'
 musical_connections:
   collaborators:
   - Mike Gordon
+  - Rickie Lee Jones
   - Lyle Lovett
   - Margo Timmins
-  - Rickie Lee Jones
-  - Stephen Paulus
+  - Paco de Lucia
+  - Al Di Meola
   influenced:
-  - Michael Hedges
-  - Tommy Emmanuel
-  - Keller Williams
+  - Thousands of guitarists (general)
   mentors:
   - Mississippi John Hurt
   - John Fahey
-spotify_data:
-  followers: 65587
-  id: 6cjuHeJM6CHRUhIhApwFwx
-  popularity: 37
-  url: https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx
-discography_enriched: true
-top_tracks:
-- Sweet Emotion (Sixty Six Steps)
-- Vaseline Machine Gun (Standing In My Shoes)
-- Snorkel (One Guitar, No Vocals)
-- Oh Well (Sixty Six Steps)
-- Rings (Sixty Six Steps)
-- Rings (The Essential Leo Kottke Collection)
-- The Grid (Sixty Six Steps)
-- Ya Mar (Sixty Six Steps)
-- Corinna, Corinna (Standing In My Shoes)
-- Tumbling Tumbleweeds (Guitar Music)
-external_urls:
-  spotify: https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx
-  wikipedia: https://en.wikipedia.org/wiki/Leo_Kottke
-image_path: 03_Resources/source_material/ArtistPortraits/leo_kottke.jpg
-biography_enhanced_at: '2025-11-14T10:58:04.955521'
+musicbrainz_id: 1a21878d-05b1-4983-a059-7cf3abee04b7
+network_extracted: true
 primary_source: perplexity
-enhancement_provider: perplexity
 research_sources:
 - https://en.wikipedia.org/wiki/Leo_Kottke
 - https://www.last.fm/music/Leo+Kottke/+wiki
+- https://calendar.ku.edu/event/leo_kottke_guitar
 - https://www.redlightmanagement.com/artists/leo-kottke/
+- https://the-avocado.org/2017/03/07/artist-spotlight-leo-kottke/
 - https://acousticguitar.com/leo-kottke-looks-back-at-his-long-and-uncategorizable-musical-journey/
+- https://www.lyrictheatre.com/past-show/10204-leo-kottke
+- https://www.innerviews.org/inner/kottke-2
 - http://www.guitarmusic.org/kottke/gintro1.html
-network_extracted: true
-entry_created: '2025-11-14T10:58:04.955533'
-last_updated: '2025-12-23T08:16:02.985919'
+spotify_data:
+  followers: 66625
+  id: 6cjuHeJM6CHRUhIhApwFwx
+  popularity: 39
+  url: https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx
+status: active
+tags:
+- american primitivism
+- contemporary folk
+- folk
+title: Leo Kottke
 ---
 
 ![](leo_kottke.jpg)
@@ -78,78 +63,49 @@ last_updated: '2025-12-23T08:16:02.985919'
 
 ## Quick Info
 - **Genres**: Not specified
-- **Spotify Popularity**: 37/100
-- **Followers**: 65,587
-- **Born**: Athens, Georgia, United States
+- **Instruments**: slide guitar, acoustic guitar, guitar, background vocals
+- **Spotify Popularity**: 39/100
+- **Followers**: 66,625
+- **Born**: 1945-09-11, Athens
 
 ## Biography
-Leo Kottke, born September 11, 1945, in Athens, Georgia, is a renowned American acoustic guitarist celebrated for his virtuosic fingerpicking style that fuses elements of blues, jazz, and folk music. Raised in twelve different states due to his family's frequent moves, Kottke developed an early appreciation for music, learning trombone and violin before settling on the guitar as his primary instrument. Influenced by the likes of Mississippi John Hurt, he began performing in coffeehouses in the Minneapolis area in the late 1960s, where he recorded his debut album, '12-String Blues,' in 1969.
+Leo Kottke, born on September 11, 1945, in Athens, Georgia, experienced a nomadic childhood, moving across 12 different states with his family, which exposed him to diverse musical influences. In Muskogee, Oklahoma, he was particularly drawn to folk and delta blues, especially Mississippi John Hurt, initially learning trombone and violin before switching to guitar at age 11 and developing his distinctive fingerpicking style blending blues, jazz, and folk elements with syncopated, polyphonic melodies.[1][2][7] After a military stint, he settled in Minneapolis in 1966, becoming a regular at the Scholar Coffeehouse, where he recorded his debut *12-String Blues* in 1969 on Oblivion Records, followed by the seminal *6- and 12-String Guitar* (the 'Armadillo album') on John Fahey's Takoma label.[1][3]
 
-Kottke's breakthrough came with the release of '6- and 12-String Guitar' on John Fahey's Takoma Records, earning him a reputation for his syncopated, polyphonic melodies and unconventional techniques. Despite overcoming significant personal challenges—including partial hearing loss and a debilitating bout of tendonitis that forced him to alter his playing style—Kottke continued to innovate, blending classical and jazz influences into his work. Over his prolific career, he has released numerous albums, collaborated with artists such as Mike Gordon of Phish, and performed internationally, becoming a key figure in the evolution of contemporary acoustic guitar.
+Kottke's career gained momentum in the early 1970s with Capitol Records, releasing albums like *Mudlark* (1971), *Greenhouse* (1972), *My Feet Are Smiling* (1973), *Ice Water* (1973), and *Chewing Pine* (1975), which charted in the U.S. top 30 and built an international following through folk festivals.[1][3][4] Despite challenges including partial hearing loss and right-hand tendon damage that nearly ended his career, he persisted, moving to Chrysalis in 1976 and later releasing annual albums from 1989-1991 such as *My Father's Face*, *That's What*, and *Great Big Boy* featuring Lyle Lovett and Margo Timmins, followed by *Peculiaroso* (1993) with Rickie Lee Jones and solo works like *One Guitar, No Vocals* (1999) and *Try and Stop Me* (2004).[1][2]
 
-Kottke's legacy is marked by his technical mastery, genre-defying compositions, and enduring influence on generations of guitarists. His ability to transcend musical boundaries while maintaining a distinct, self-sufficient sound has inspired countless musicians and earned him accolades as one of the foremost fingerstyle guitarists in the world.
+In his later career, Kottke collaborated extensively with Phish bassist Mike Gordon on *Clone* (2002), *Sixty Six Steps* (2005), and *Noon* (2020), touring in support, while maintaining his reputation as a master of acoustic guitar with a five-decade legacy of innovation in fingerstyle playing.[1][3][4] He has toured with virtuosos like Paco de Lucia and Al Di Meola, and his *Ice Fields* suite for guitar and orchestra marks a milestone in guitar concertos.[7]
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](https://www.last.fm/music/Leo+Kottke/+wiki), [Source2](https://www.redlightmanagement.com/artists/leo-kottke/), [Source3](https://acousticguitar.com/leo-kottke-looks-back-at-his-long-and-uncategorizable-musical-journey/), [Source4](http://www.guitarmusic.org/kottke/gintro1.html)*
+*Sources: [Source1](https://www.last.fm/music/Leo+Kottke/+wiki), [Source2](https://calendar.ku.edu/event/leo_kottke_guitar), [Source3](https://www.redlightmanagement.com/artists/leo-kottke/), [Source4](https://the-avocado.org/2017/03/07/artist-spotlight-leo-kottke/), [Source5](https://acousticguitar.com/leo-kottke-looks-back-at-his-long-and-uncategorizable-musical-journey/), [Source6](https://www.lyrictheatre.com/past-show/10204-leo-kottke), [Source7](https://www.innerviews.org/inner/kottke-2), [Source8](http://www.guitarmusic.org/kottke/gintro1.html)*
 
 ## Fun Facts
-- Kottke suffered partial hearing loss as a child due to a firecracker accident and later from a bout of measles, yet still developed extraordinary musical sensitivity.
-- His aggressive early playing style led to severe tendonitis, forcing him to completely relearn his technique using a more classical approach.
-- Kottke is known for his dry, self-deprecating sense of humor during live performances, often telling quirky stories between songs.
-- He has won Guitar Player magazine's annual readers poll as best folk guitarist four years in a row (1974-1978).
+- Kottke was raised in 12 different states due to his family's frequent moves, absorbing diverse musical influences.[1][4]
+- He overcame partial hearing loss and a nearly career-ending tendon injury in his right hand to become a guitar master.[1][2]
+- His debut *12-String Blues* was recorded on a Viking quarter-inch tape recorder at the Scholar Coffeehouse.[3][7]
+- Kottke earned a degree in guitar performance and composed *Ice Fields*, a milestone suite for amplified steel-string guitar and chamber orchestra.[7]
 
 ## Musical Connections
 
 ### Mentors/Influences
-- [[mississippi_john_hurt|Mississippi John Hurt]] - Major stylistic influence; Kottke was inspired by Hurt's folk and delta blues guitar playing during his youth in Oklahoma. (General influence on Kottke's fingerpicking style) [1950s-1960s]
-- [[john_fahey|John Fahey]] - Mentor and label founder; signed Kottke to Takoma Records, helping launch his recording career. (6- and 12-String Guitar (Takoma Records)) [Late 1960s-early 1970s]
+- [[mississippi_john_hurt|Mississippi John Hurt]] - major stylistic influence from folk and delta blues music during youth (N/A) [1950s-1960s]
+- [[john_fahey|John Fahey]] - label owner who signed him to Takoma Records after receiving demo tapes; seen as a 'father' figure passing on fingerstyle tradition (*6- and 12-String Guitar* (1969)) [1968-early 1970s]
 
 ### Key Collaborators
-- [[mike_gordon|Mike Gordon]] - Frequent collaborator; bassist from Phish, co-wrote and recorded multiple albums and toured together. (Clone (2002), Sixty Six Steps (2005), Noon (2020)) [2002-present]
-- [[lyle_lovett|Lyle Lovett]] - Guest vocalist on Kottke's album. (Great Big Boy (1991)) [1991]
-- [[margo_timmins|Margo Timmins]] - Guest vocalist on Kottke's album. (Great Big Boy (1991)) [1991]
-- [[rickie_lee_jones|Rickie Lee Jones]] - Producer of Kottke's album. (Peculiaroso (1994)) [1994]
-- [[stephen_paulus|Stephen Paulus]] - Composer; collaborated on a concerto for guitar and orchestra. (Ice Fields (1990, live performances)) [1990]
+- [[mike_gordon|Mike Gordon]] - frequent collaborator with Phish bassist on multiple albums and tours (*Clone* (2002), *Sixty Six Steps* (2005), *Noon* (2020)) [2002-2020]
+- [[rickie_lee_jones|Rickie Lee Jones]] - produced his album (*Peculiaroso* (1993)) [1993]
+- [[lyle_lovett|Lyle Lovett]] - guest appearance on album (*Great Big Boy* (1991)) [1991]
+- [[margo_timmins|Margo Timmins]] - guest appearance on album (*Great Big Boy* (1991)) [1991]
+- [[paco_de_lucia|Paco de Lucia]] - touring partner (flamenco guitarist) (N/A) [unspecified]
+- [[al_di_meola|Al Di Meola]] - touring partner (jazz guitarist) (N/A) [unspecified]
 
 ### Artists Influenced
-- [[michael_hedges|Michael Hedges]] - Inspired by Kottke's fingerstyle innovations and genre-blending approach. (General influence on solo guitar composition) [1980s-1990s]
-- [[tommy_emmanuel|Tommy Emmanuel]] - Cites Kottke as a key influence on his own fingerstyle guitar technique. (General influence on acoustic guitar performance) [1990s-present]
-- [[keller_williams|Keller Williams]] - Inspired by Kottke's solo acoustic performances and compositional style. (General influence on live looping and solo guitar work) [2000s-present]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| Sixty Six Steps | 2005-06-01 | Album |
-| Standing In My Shoes | 1997 | Album |
-| 6- And 12-String Guitar | 1974-01-01 | Album |
-| The Essential Leo Kottke Collection | 1991-01-01 | Album |
-| One Guitar, No Vocals | 1999 | Album |
-| Guitar Music | 1981-01-01 | Album |
-| Clone | 2002 | Album |
-| Greenhouse | 1995-01-01 | Album |
-| Mudlark | 1971-01-01 | Album |
-| Noon | 2020-08-28 | Album |
-| My Father's Face | 1989 | Album |
-| Ice Water | 1996-01-01 | Album |
-| Peculiaroso | 1994-01-31 | Album |
-| Dreams And All That Stuff | 1974-01-01 | Album |
-| Great Big Boy | 1991-07-18 | Album |
-
-### Top Tracks
-1. Sweet Emotion (Sixty Six Steps)
-2. Vaseline Machine Gun (Standing In My Shoes)
-3. Snorkel (One Guitar, No Vocals)
-4. Oh Well (Sixty Six Steps)
-5. Rings (Sixty Six Steps)
-6. Rings (The Essential Leo Kottke Collection)
-7. The Grid (Sixty Six Steps)
-8. Ya Mar (Sixty Six Steps)
-9. Corinna, Corinna (Standing In My Shoes)
-10. Tumbling Tumbleweeds (Guitar Music)
+- [[thousands_of_guitarists_general|Thousands of guitarists (general)]] - inspired generations with innovative fingerstyle techniques, speed, grooves, and polyphony; entire schools/programs study his work (N/A) [1970s-present]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx)
 - [Wikipedia](https://en.wikipedia.org/wiki/Leo_Kottke)
+- [MusicBrainz](https://musicbrainz.org/artist/1a21878d-05b1-4983-a059-7cf3abee04b7)
+
+---
+**Tags**: #american-primitivism, #contemporary-folk, #folk

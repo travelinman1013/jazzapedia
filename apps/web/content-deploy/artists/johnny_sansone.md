@@ -1,149 +1,91 @@
 ---
-title: johnny sansone
-wiki_slug: johnny-sansone
-schema_version: 2
-status: active
-birth_place: Orange, New Jersey, United States
-genres:
-- modern blues
-- blues
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/johnny_sansone.jpg
-  caption: johnny sansone
-  background: solo_singer
-  origin: Orange, New Jersey, United States
-audio_profile:
-  tempo_avg: 124.4
-  energy_avg: 0.602
-  valence_avg: 0.661
-  danceability_avg: 0.592
-  acousticness_avg: 0.393
-  instrumentalness_avg: 0.105
-  loudness_avg: -7.3
-  speechiness_avg: 0.058
-  liveness_avg: 0.204
-  track_count: 50
-  computed_at: '2025-12-23T08:16:10.897925'
-similar_artists: []
-musical_connections:
-  collaborators:
-  - Ronnie Earl
-  - Anders Osborne
-  - Voice of the Wetlands All Stars
-  - Sonny Landreth
-  - Jon Cleary
-  - Joe Krown
-  influenced:
-  - No widely documented direct proteges
-  mentors:
-  - James Cotton
-  - Junior Wells
-  - Howlin' Wolf
-spotify_data:
-  followers: 1383
-  id: 1qg7deYxX4ZhSFDP9h64TT
-  popularity: 5
-  url: https://open.spotify.com/artist/1qg7deYxX4ZhSFDP9h64TT
-discography_enriched: true
-top_tracks:
-- The Lord Is Waiting the Devil Is Too (The Lord Is Waiting the Devil Is Too)
-- Leavin" (The Lord Is Waiting the Devil Is Too)
-- Poor Man's Paradise (Poor Man's Paradise)
-- Happiness, Love & Lies (Poor Man's Paradise)
-- Into Your Blues (Into Your Blues)
-- Desperation (Into Your Blues)
-- Sinking Ship (The Lord Is Waiting the Devil Is Too)
-- Corn Whiskey (The Lord Is Waiting the Devil Is Too)
-- Once It Gets Started (Once It Gets Started)
-- The Night the Pie Factory Burned Down (Once It Gets Started)
+biography_enhanced_at: '2026-01-22T07:12:43.176464'
+birth_place: West Orange, New Jersey, United States (birthplace); New Orleans, Louisiana,
+  United States (primary residence since 1990)
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:12:43.176472'
 external_urls:
   spotify: https://open.spotify.com/artist/1qg7deYxX4ZhSFDP9h64TT
   wikipedia: https://en.wikipedia.org/wiki/Johnny_Sansone
+genres:
+- modern blues
+- blues
+- cajun
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_sansone.jpg
-biography_enhanced_at: '2025-10-23T07:28:31.435387'
+last_updated: '2026-01-22T07:12:43.176473'
+musical_connections:
+  collaborators:
+  - Joe Krown
+  - John Fohl
+  - Anders Osborne
+  - Mike Zito
+  - Voice of the Wetlands Allstars
+  influenced: []
+  mentors:
+  - James Cotton
+  - Jr. Wells
+  - Honeyboy Edwards
+  - Clifton Chenier
+network_extracted: true
 primary_source: perplexity
-enhancement_provider: perplexity
 research_sources:
 - https://en.wikipedia.org/wiki/Johnny_Sansone
-- https://color-red.com/pages/johnny-sansone
 - https://www.johnnysansone.com/bio
-- https://pryorcenter.uark.edu/interview.php?thisProject=King+Biscuit+Blues+Festival&thisProfileURL=SANSONE-Johnny&displayName=&thisInterviewee=499
-network_extracted: true
-entry_created: '2025-10-23T07:28:31.435397'
-last_updated: '2025-12-23T08:16:10.898251'
-
+- https://color-red.com/pages/johnny-sansone
+- https://accordionamericana.com/2019/11/01/johnny-sansone-blues-for-the-big-easy/
+- https://www.bluesblastmagazine.com/featured-interview-johnny-sansone-2/
+- https://kgnu.org/music-posts/interview-johnny-sansone/
+- https://www.neworleans.com/listing/johnny-sansone/46434/
+spotify_data:
+  followers: 1416
+  id: 1qg7deYxX4ZhSFDP9h64TT
+  popularity: 5
+  url: https://open.spotify.com/artist/1qg7deYxX4ZhSFDP9h64TT
+status: active
+title: Johnny Sansone
 ---
 
 ![](johnny_sansone.jpg)
 
-# johnny sansone
+# Johnny Sansone
 
 ## Quick Info
 - **Genres**: modern blues, blues, cajun
 - **Spotify Popularity**: 5/100
-- **Followers**: 1,383
-- **Born**: Orange, New Jersey, United States
+- **Followers**: 1,416
+- **Born**: West Orange, New Jersey, United States (birthplace); New Orleans, Louisiana, United States (primary residence since 1990)
 
 ## Biography
-Johnny Sansone, born September 27, 1957, in Orange, New Jersey, is a celebrated American blues singer, songwriter, and multi-instrumentalist known for his mastery of the harmonica, accordion, guitar, and piano. Raised in a musical household—his father played saxophone with Dave Brubeck’s band during World War II—Sansone began learning saxophone at age eight and soon picked up guitar and harmonica. A formative moment came at age twelve when he saw Howlin’ Wolf perform, cementing his lifelong dedication to the blues. He further honed his craft under the guidance of blues harmonica legends James Cotton and Junior Wells, and by age thirteen, he was sitting in with blues greats like Honeyboy Edwards.
+John Sansone, known professionally as Jumpin' Johnny Sansone, was born on September 27, 1957, in West Orange, New Jersey, to a musically inclined family—his father was a saxophone-playing schoolteacher who performed in Dave Brubeck's Wolf Pack band. Sansone's blues journey began early; at age 13, he sat in with blues legend Honeyboy Edwards, and during the 1970s he studied harmonica under blues legends James Cotton and Jr. Wells. In the 1980s, he toured extensively with Chicago blues icons including Ronnie Earl, John Lee Hooker, Jimmy Rodgers, and Robert Lockwood Jr., establishing himself as a skilled harmonicist and guitarist in the fierce Mississippi Delta blues tradition.
 
-Sansone’s career is marked by restless exploration and a deep connection to American roots music. He spent his early professional years backing Chicago blues icons such as Jimmy Rogers, Robert Jr. Lockwood, and John Lee Hooker, and fronted Ronnie Earl’s Broadcasters in the 1980s. After moving between Colorado, Austin, Florida, and Chicago, he settled in New Orleans in 1990, where the city’s vibrant musical culture profoundly shaped his sound. Inspired by the funeral of zydeco legend Clifton Chenier, Sansone added accordion to his repertoire, blending swamp rock, Cajun, and zydeco influences into his blues foundation. His 1997 album 'Crescent City Moon' earned widespread acclaim and multiple awards, solidifying his reputation as a leading figure in modern blues and Louisiana roots music.
+After years of itinerant touring through Colorado, Austin, Texas, Florida, and Chicago, Sansone settled in New Orleans in 1990, a decision that fundamentally transformed his musical identity. His early work with Jumpin' Johnny & the Blues Party produced the 1987 debut album Where Y'at? and 1991's Mr. Good Thing, both showcasing his electric harmonica prowess. The pivotal moment came after attending the funeral of Zydeco pioneer Clifton Chenier, which inspired Sansone to take up the accordion—an instrument that would become central to his evolved sound. By the mid-1990s, particularly with the 1996 album Crescent City Moon on Rounder Records' Bullseye Blues label, Sansone had synthesized blues, boogie, and Louisiana Cajun and Zydeco influences into a distinctive swamp rock style that won multiple Offbeat magazine Best of the Beat Awards.
 
-Over a career spanning four decades, Sansone has released more than a dozen albums and garnered numerous accolades, including a Grammy nomination, a Blues Music Award, a Juno Award, and multiple 'Best of the Beat' and 'Big Easy' awards. He is a founding member of the Voice of the Wetlands All Stars, collaborating with New Orleans legends like Dr. John, Cyril Neville, and Tab Benoit. Sansone’s dynamic stage presence, innovative songwriting, and commitment to musical authenticity have made him a vital force in contemporary blues and roots music.
+Following Hurricane Katrina's devastation, Sansone channeled his experiences into powerful songwriting, collaborating extensively with Anders Osborne and forming an acoustic trio with Osborne and guitarist John Fohl. His 2011 album The Lord Is Waiting and the Devil Is Too, which won Song of the Year at the 2012 Blues Music Awards, marked a creative peak and demonstrated his growth as a songwriter. To date, Sansone has released over fourteen original albums and maintains an active presence in New Orleans' music scene, having been a member of the Voice of the Wetlands Allstars since 2005 alongside artists like Tab Benoit, Cyril Neville, and George Porter Jr. His legacy encompasses a unique fusion of Chicago blues, Delta traditions, and Louisiana regional sounds, establishing him as a significant figure in contemporary American roots music.
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](https://color-red.com/pages/johnny-sansone), [Source2](https://www.johnnysansone.com/bio), [Source3](https://pryorcenter.uark.edu/interview.php?thisProject=King+Biscuit+Blues+Festival&thisProfileURL=SANSONE-Johnny&displayName=&thisInterviewee=499)*
+*Sources: [Source1](https://www.johnnysansone.com/bio), [Source2](https://color-red.com/pages/johnny-sansone), [Source3](https://accordionamericana.com/2019/11/01/johnny-sansone-blues-for-the-big-easy/), [Source4](https://www.bluesblastmagazine.com/featured-interview-johnny-sansone-2/), [Source5](https://kgnu.org/music-posts/interview-johnny-sansone/), [Source6](https://www.neworleans.com/listing/johnny-sansone/46434/)*
 
 ## Fun Facts
-- Johnny Sansone’s father played saxophone with Dave Brubeck’s band during World War II, exposing Johnny to jazz and blues from a young age.
-- He began playing harmonica and guitar by age ten and sat in with blues legend Honeyboy Edwards at just thirteen.
-- Sansone was inspired to take up the accordion after attending the funeral of zydeco pioneer Clifton Chenier.
-- He is a founding member of the Voice of the Wetlands All Stars, a group dedicated to raising awareness about Louisiana’s environmental issues through music.
+- Sansone's decision to learn accordion came after attending the funeral of Zydeco pioneer Clifton Chenier in the 1990s, a moment of inspiration that fundamentally changed his musical direction and helped him develop his distinctive Louisiana sound.
+- During the 1980s, Sansone toured with multiple Chicago blues legends including John Lee Hooker and Robert Lockwood Jr., and later fronted Ronnie Earl's Broadcasters, establishing himself as a respected session and touring musician before becoming a bandleader.
+- After Hurricane Katrina displaced him from his New Orleans home, Sansone channeled the emotional experience into songwriting that won Song of the Year at the 2012 Blues Music Awards, demonstrating how personal tragedy fueled his creative breakthrough.
+- Sansone's father was a saxophone-playing schoolteacher who performed in Dave Brubeck's Wolf Pack band, establishing a strong musical heritage that influenced his early exposure to jazz and blues traditions.
 
 ## Musical Connections
 
 ### Mentors/Influences
-- [[james_cotton|James Cotton]] - Studied blues harmonica technique and style (Personal instruction and influence on harmonica playing) [1970s]
-- [[junior_wells|Junior Wells]] - Studied blues harmonica and encouraged Sansone to develop his own style (Personal mentorship, influence on phrasing and individuality) [1970s]
-- [[howlin_wolf|Howlin' Wolf]] - Major inspiration after Sansone saw him perform live at age 12 (Live performance influence) [1969]
+- [[james_cotton|James Cotton]] - Blues harmonica legend who taught Sansone during the 1970s (Harmonica instruction and technique development) [1970s]
+- [[jr._wells|Jr. Wells]] - Blues harmonica legend who taught Sansone during the 1970s (Harmonica instruction and technique development) [1970s]
+- [[honeyboy_edwards|Honeyboy Edwards]] - Early influence; Sansone sat in with him at age 13 (Live performance collaboration) [1970]
+- [[clifton_chenier|Clifton Chenier]] - Zydeco pioneer whose funeral inspired Sansone to learn accordion (Stylistic inspiration for accordion integration) [1990s]
 
 ### Key Collaborators
-- [[ronnie_earl|Ronnie Earl]] - Fronted Ronnie Earl's Broadcasters in the 1980s (Performances and tours with the Broadcasters) [1980s]
-- [[anders_osborne|Anders Osborne]] - Frequent collaborator and songwriting partner in New Orleans (Voice of the Wetlands All Stars, joint performances) [1990s–present]
-- [[voice_of_the_wetlands_all_stars|Voice of the Wetlands All Stars]] - Member of New Orleans supergroup with Dr. John, Cyril Neville, Tab Benoit, and others (Albums and live performances) [2000s–present]
-- [[sonny_landreth|Sonny Landreth]] - Guest slide guitarist on 'Crescent City Moon' ('Crescent City Moon' album) [1997]
-- [[jon_cleary|Jon Cleary]] - Guest pianist on 'Watermelon Patch' ('Watermelon Patch' album) [1999]
-- [[joe_krown|Joe Krown]] - Guest organist on 'Watermelon Patch' ('Watermelon Patch' album) [1999]
-
-### Artists Influenced
-- [[no_widely_documented_direct_proteges|No widely documented direct proteges]] - Sansone is recognized more for his collaborative and inspirational role in the New Orleans blues and roots scene than for mentoring specific artists
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| The Lord Is Waiting the Devil Is Too | 2011-05-05 | Album |
-| Into Your Blues | 2022-08-10 | Album |
-| Poor Man's Paradise | 2007-09-13 | Album |
-| Hopeland | 2018-04-15 | Album |
-| Lady On the Levee | 2015-04-24 | Album |
-| Once It Gets Started | 2013-04-22 | Album |
-| Watermelon Patch | 1999-10-12 | Album |
-| Watermelon Patch | 1999-01-01 | Album |
-
-### Top Tracks
-1. The Lord Is Waiting the Devil Is Too (The Lord Is Waiting the Devil Is Too)
-2. Leavin" (The Lord Is Waiting the Devil Is Too)
-3. Poor Man's Paradise (Poor Man's Paradise)
-4. Happiness, Love & Lies (Poor Man's Paradise)
-5. Into Your Blues (Into Your Blues)
-6. Desperation (Into Your Blues)
-7. Sinking Ship (The Lord Is Waiting the Devil Is Too)
-8. Corn Whiskey (The Lord Is Waiting the Devil Is Too)
-9. Once It Gets Started (Once It Gets Started)
-10. The Night the Pie Factory Burned Down (Once It Gets Started)
+- [[joe_krown|Joe Krown]] - Pianist in acoustic trio; collaborated on multiple projects (Sansone, Krown & Fohl self-titled album (2004), Poor Man's Paradise (2007)) [2004-2007]
+- [[john_fohl|John Fohl]] - Guitarist and vocalist in acoustic trio settings (Sansone, Krown & Fohl (2004), acoustic trio with Osborne (2009-present)) [2004-present]
+- [[anders_osborne|Anders Osborne]] - Producer, collaborator, and close friend; fellow Voice of the Wetlands member (Poor Man's Paradise (2007, producer), The Lord Is Waiting and the Devil Is Too (2011, producer), acoustic trio performances) [2005-present]
+- [[mike_zito|Mike Zito]] - Collaborated as accordionist on Zito's album (Pearl River (2009)) [2009]
+- [[voice_of_the_wetlands_allstars|Voice of the Wetlands Allstars]] - Member of collective featuring Tab Benoit, Cyril Neville, George Porter Jr., and others (Group performances and recordings) [2005-present]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/1qg7deYxX4ZhSFDP9h64TT)

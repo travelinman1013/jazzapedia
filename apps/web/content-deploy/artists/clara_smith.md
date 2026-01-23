@@ -1,145 +1,91 @@
 ---
-title: CLARA SMITH
-wiki_slug: clara-smith
-schema_version: 2
-status: active
-birth_place: Spartanburg, South Carolina, United States
-genres: []
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/clara_smith.jpg
-  caption: CLARA SMITH
-  background: solo_singer
-  origin: Spartanburg, South Carolina, United States
-audio_profile:
-  tempo_avg: 116.6
-  energy_avg: 0.413
-  valence_avg: 0.24
-  danceability_avg: 0.356
-  acousticness_avg: 0.387
-  instrumentalness_avg: null
-  loudness_avg: -9.0
-  speechiness_avg: 0.033
-  liveness_avg: 0.122
-  track_count: 12
-  computed_at: '2025-12-23T08:16:07.010991'
-similar_artists: []
+biography_enhanced_at: '2026-01-22T07:06:41.569123'
+birth_place: Spartanburg, South Carolina, USA
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:06:41.569130'
+external_urls:
+  spotify: https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH
+  wikipedia: https://en.wikipedia.org/wiki/Clara_Smith
+genres:
+- classic blues
+- blues
+- ragtime
+image_path: 03_Resources/source_material/ArtistPortraits/clara_smith.jpg
+last_updated: '2026-01-22T07:06:41.569131'
 musical_connections:
   collaborators:
   - Louis Armstrong
   - Fletcher Henderson
   - Don Redman
   - Bessie Smith
+  - Lonnie Johnson
   - James P. Johnson
-  - Coleman Hawkins
-  - Charlie Green
-  - Joe Smith
   influenced:
   - Josephine Baker
   mentors:
-  - Traveling tent show performers
-spotify_data:
-  followers: 549
-  id: 1WX879kYCO2MoFKwSZ2e50
-  popularity: 47
-  url: https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50
-discography_enriched: true
-top_tracks:
-- Who Else - Live (Crowns Down (Live))
-- Who Else - Chapel Sessions (Chapel Sessions)
-- Sweetest Name - Chapel Sessions (Chapel Sessions)
-- Who Else - Live (Who Else (Live))
-- Who Else - Chapel Sessions (Who Else (Live))
-- Who Else - Live (Who Else (Live))
-- Who Else - Live (Crowns Down (Live / Deluxe))
-- King Of Glory (How Sweet It Is) - Live (Greatly To Be Praised (Live))
-- Who Else - Chapel Sessions (Top 50 Classic Worship Songs)
-- Who Else - Live (Top 50 Classic Worship Songs)
-external_urls:
-  spotify: https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50
-  wikipedia: https://en.wikipedia.org/wiki/Clara_Smith
-image_path: ''
-biography_enhanced_at: '2025-10-24T07:43:29.112396'
-primary_source: perplexity
-enhancement_provider: perplexity
-research_sources:
-- https://en.wikipedia.org/wiki/Clara_Smith
-- https://studysc.org/sc-people/clara-smith
-- https://syncopatedtimes.com/the-blues-singing-smiths-mamie-clara-trixie-and-laura/
-- https://www.spartanburgmusictrail.com/music-makers/clara-smith
-- https://rsa.fau.edu/clara-smith
-- https://www.goupstate.com/story/news/2005/03/06/clara-smith-queen-of-the-moaners/29750345007/
-- https://blueskc.org/the-nine-smith-non-sisters/
-- https://www.allmusic.com/artist/clara-smith-mn0000108444
+  - None identified
 network_extracted: true
-entry_created: '2025-10-24T07:43:29.112414'
-last_updated: '2025-12-23T08:16:07.011142'
+primary_source: perplexity
+research_sources:
+- https://www.spartanburgmusictrail.com/music-makers/clara-smith
+- https://studysc.org/sc-people/clara-smith
+- https://blinddogradio.blogspot.com/2019/12/clara-smith.html
+- https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/smith-clara-1894-1935
+- https://rsa.fau.edu/clara-smith
+- https://en.wikipedia.org/wiki/Clara_Smith
+- https://activisthistory.com/2019/05/28/the-queer-moan-of-clara-smith-on-queer-aphasia-in-blues-studies/
+spotify_data:
+  followers: 3539
+  id: 2It5hXbGPFBNCCJQQr7iHH
+  popularity: 9
+  url: https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH
+status: active
+title: CLARA SMITH
 ---
 
-![]()
+![](clara_smith.jpg)
 
 # CLARA SMITH
 
 ## Quick Info
-- **Genres**: Not specified
-- **Spotify Popularity**: 47/100
-- **Followers**: 549
-- **Born**: Spartanburg, South Carolina, United States
+- **Genres**: classic blues, blues, ragtime
+- **Spotify Popularity**: 9/100
+- **Followers**: 3,539
+- **Born**: Spartanburg, South Carolina, USA
 
 ## Biography
-Clara Smith (March 13, 1894 – February 2, 1935) was a pioneering American blues singer, celebrated as the 'Queen of the Moaners' for her emotive vocal style. Born in Spartanburg, South Carolina, Smith grew up in a working-class family and, despite never attending formal school, was literate and drawn to music from an early age. She began her career performing in traveling tent shows and on the African-American theater circuit, quickly gaining a reputation for her sweet yet powerful voice.
+Clara Smith, born on March 13, 1894, in Spartanburg, South Carolina, rose from poverty in the Highlands area to become one of the most prominent classic female blues singers of the 1920s, billed as the 'Queen of the Moaners' despite her lighter, sweeter vocal style compared to contemporaries. She began her career around 1910 on African-American vaudeville circuits, tent shows, and the Theater Owners Booking Association (TOBA) circuit, headlining by 1918 at major venues like the Lyric in New Orleans, Dream Theatre in Columbus, Georgia, Bijou Theatre in Nashville, and Booker T. Washington Theatre in St. Louis. In her early 20s, she ventured into vaudeville and settled in Harlem in 1923, performing in cabarets, speakeasies, and even owning the Clara Smith Theatrical Club by 1924, while launching her recording career with Columbia Records that same year, ultimately producing 122 sides focused on themes of lost love, inner pain, and later upbeat, sometimes overtly sexual numbers like 'Whip It to a Jelly' (1926).[1][2][3][4][6]
 
-By the late 1910s, Smith was a headliner across the Southern states, and in 1923 she moved to New York City, immersing herself in Harlem's vibrant cabaret and theater scene. That same year, she signed with Columbia Records, launching a prolific recording career that saw her cut over 120 sides, including collaborations with jazz greats like Louis Armstrong, Fletcher Henderson, and Don Redman. Smith's repertoire evolved from mournful ballads to more upbeat and even risqué numbers, reflecting both her versatility and the changing tastes of the era. Her duets with Bessie Smith (no relation), such as 'My Man Blues' and 'Far Away Blues,' are considered classics of the genre.
+Smith's musical style evolved from moaning, tragic ballads such as 'Awful Moanin’ Blues,' 'Every Woman's Blues,' and 'I'm Tired of Flattenin’ Frogs for Snakes' to more lively tracks, backed by jazz luminaries including Louis Armstrong on cornet, Fletcher Henderson, Don Redman on clarinet, Coleman Hawkins on sax, James P. Johnson on piano, Lonnie Johnson, Charlie Green, Joe Smith, and Freddy Jenkins. She recorded two duets with Bessie Smith (no relation)—'My Man Blues' and 'Far Away Blues'—in 1925, and her sales were second only to Bessie's among female blues artists. After steady recordings through 1932, she moved to Detroit in 1933, continuing live performances in revues until heart disease led to her death on February 2, 1935, at age 40.[1][3][4][6]
 
-Smith's influence extended beyond her recordings; she was a mentor to future superstar Josephine Baker and helped shape the classic female blues tradition. Though overshadowed in later years by contemporaries like Bessie Smith, Clara Smith was a major star in her time, performing coast to coast and leaving a legacy as one of the most significant voices of 1920s blues.
+Regarded as one of the top early female blues singers, surpassed only by Bessie Smith and Ma Rainey, Clara's legacy endures through her extensive discography and influence on classic blues, ragtime, and the 'race music' market she dominated in the 1920s, with performances reaching even the rare West Coast tours.[2][4][6]
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](https://studysc.org/sc-people/clara-smith), [Source2](https://syncopatedtimes.com/the-blues-singing-smiths-mamie-clara-trixie-and-laura/), [Source3](https://www.spartanburgmusictrail.com/music-makers/clara-smith), [Source4](https://rsa.fau.edu/clara-smith), [Source5](https://www.goupstate.com/story/news/2005/03/06/clara-smith-queen-of-the-moaners/29750345007/), [Source6](https://blueskc.org/the-nine-smith-non-sisters/), [Source7](https://www.allmusic.com/artist/clara-smith-mn0000108444)*
+*Sources: [Source1](https://www.spartanburgmusictrail.com/music-makers/clara-smith), [Source2](https://studysc.org/sc-people/clara-smith), [Source3](https://blinddogradio.blogspot.com/2019/12/clara-smith.html), [Source4](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/smith-clara-1894-1935), [Source5](https://rsa.fau.edu/clara-smith), [Source6](https://activisthistory.com/2019/05/28/the-queer-moan-of-clara-smith-on-queer-aphasia-in-blues-studies/)*
 
 ## Fun Facts
-- Clara Smith was billed as the 'Queen of the Moaners' despite having a lighter and sweeter voice than many of her contemporaries.
-- She was the only vocalist to record duets with Bessie Smith, including the notable tracks 'My Man Blues' and 'Far Away Blues.'
-- Smith mentored a young Josephine Baker, who started as her dresser and later credited Clara with inspiring some of her theatrical innovations, such as dancing with scarves.
-- Smith's career was so successful in the 1920s that her record sales were topped only by Bessie Smith among female blues singers.
+- Despite her 'Queen of the Moaners' nickname, Clara had a lighter and sweeter voice than contemporaries like Bessie Smith.
+- She recorded 122 songs for Columbia, second only to Bessie Smith in sales among female blues artists.
+- In 1926, she married Charles Wesley, a baseball manager.
+- Her 1926 track 'Whip It to a Jelly' is noted as one of the more overtly sexual blues recordings of the era.
 
 ## Musical Connections
 
 ### Mentors/Influences
-- [[traveling_tent_show_performers|Traveling tent show performers]] - Introduced Smith to live performance and stagecraft during her youth in Spartanburg (Early tent show performances) [circa 1900s]
+- [[none_identified|None identified]] - No specific mentors or teachers documented in sources (N/A) [N/A]
 
 ### Key Collaborators
-- [[louis_armstrong|Louis Armstrong]] - Recorded together on several Columbia sides (Columbia Records sessions) [1920s]
-- [[fletcher_henderson|Fletcher Henderson]] - Worked as accompanist and arranger on recordings (Columbia Records sessions) [1920s]
-- [[don_redman|Don Redman]] - Collaborated on recordings (Columbia Records sessions) [1920s]
-- [[bessie_smith|Bessie Smith]] - Recorded duets, the only vocalist to do so with Bessie Smith ("My Man Blues", "Far Away Blues") [1925]
-- [[james_p._johnson|James P. Johnson]] - Recorded duets and accompanied Smith on piano ("Oh Mister Mitchell", "Where Is My Man") [1929]
-- [[coleman_hawkins|Coleman Hawkins]] - Session musician on recordings (Columbia Records sessions) [1920s]
-- [[charlie_green|Charlie Green]] - Session trombonist on recordings (Columbia Records sessions) [1920s]
-- [[joe_smith|Joe Smith]] - Session cornetist on recordings (Columbia Records sessions) [1920s]
+- [[louis_armstrong|Louis Armstrong]] - Cornet player backing her recordings (Various Columbia sides (1925+)) [1920s]
+- [[fletcher_henderson|Fletcher Henderson]] - Frequent musical accompanist (Multiple Columbia recordings) [1920s]
+- [[don_redman|Don Redman]] - Clarinet player on recordings (Columbia sessions) [1920s]
+- [[bessie_smith|Bessie Smith]] - Vocal duets (no relation) ('My Man Blues' and 'Far Away Blues' (Columbia 14098-D)) [1925]
+- [[lonnie_johnson|Lonnie Johnson]] - Four vocal duets (Unspecified duets) [1920s]
+- [[james_p._johnson|James P. Johnson]] - Piano accompanist (1929 Columbia sessions) [1929]
 
 ### Artists Influenced
-- [[josephine_baker|Josephine Baker]] - Mentored Baker, hired her as a dresser at age 13, and influenced her stagecraft and theatrical ideas (Early stage performances, inspiration for Baker's later acts) [1919–1920s]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| Greatly To Be Praised (Live) | 2025-04-04 | Album |
-| Chapel Sessions (Vol. 2) | 2025-10-03 | Album |
-
-### Top Tracks
-1. Who Else - Live (Crowns Down (Live))
-2. Who Else - Chapel Sessions (Chapel Sessions)
-3. Sweetest Name - Chapel Sessions (Chapel Sessions)
-4. Who Else - Live (Who Else (Live))
-5. Who Else - Chapel Sessions (Who Else (Live))
-6. Who Else - Live (Who Else (Live))
-7. Who Else - Live (Crowns Down (Live / Deluxe))
-8. King Of Glory (How Sweet It Is) - Live (Greatly To Be Praised (Live))
-9. Who Else - Chapel Sessions (Top 50 Classic Worship Songs)
-10. Who Else - Live (Top 50 Classic Worship Songs)
+- [[josephine_baker|Josephine Baker]] - Hired as dresser at age 13, developed mentor-mentee relationship (rumored romantic) (N/A) [1919]
 
 ## External Links
-- [Spotify](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50)
+- [Spotify](https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH)
 - [Wikipedia](https://en.wikipedia.org/wiki/Clara_Smith)

@@ -1,172 +1,139 @@
 ---
-title: sun ra
-wiki_slug: sun-ra
-schema_version: 2
-artist_type: Person
-status: active
+artist_type: person
+associated_acts:
+- begin: ''
+  end: ''
+  instruments:
+  - eponymous
+  - original
+  mbid: d9733f21-71d7-4fa7-813d-67eca0f0eaaf
+  name: The Sun Ra Arkestra
+- begin: ''
+  end: ''
+  instruments: []
+  mbid: f4c5c575-c2fe-4cfc-9e0a-0ef5ff04c4d7
+  name: The Nu Sounds
+- begin: ''
+  end: ''
+  instruments:
+  - eponymous
+  - original
+  mbid: fcfb626e-97dd-47dc-b225-148a19b9e860
+  name: Sun Ra Trio
+biography_enhanced_at: '2026-01-22T06:57:30.947916'
 birth_date: '1914-05-22'
-birth_place: Birmingham, Alabama, United States
+birth_place: Birmingham
 death_date: '1993-05-30'
-genres:
-- free jazz
-- jazz
-- avant-garde
-- hard bop
-instruments:
-- eponymous
-- original
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/sun_ra.jpg
-  caption: sun ra
-  background: non_vocal_instrumentalist
-  born: '1914-05-22'
-  origin: Birmingham, Alabama, United States
-  died: '1993-05-30'
-audio_profile:
-  tempo_avg: 107.5
-  energy_avg: 0.424
-  valence_avg: 0.466
-  danceability_avg: 0.489
-  acousticness_avg: 0.675
-  instrumentalness_avg: 0.28
-  loudness_avg: -12.7
-  speechiness_avg: 0.059
-  liveness_avg: 0.182
-  track_count: 65
-  computed_at: '2025-12-23T08:16:16.215646'
-similar_artists: []
-musical_connections:
-  collaborators:
-  - John Gilmore
-  - Marshall Allen
-  - Alton Abraham
-  influenced:
-  - Pharoah Sanders
-  - George Clinton
-  - Kamasi Washington
-  mentors:
-  - Fess Wheatley
-  - Fletcher Henderson
-spotify_data:
-  followers: 222614
-  id: 0tIODqvzGUoEaK26rK4pvX
-  popularity: 39
-  url: https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX
-discography_enriched: true
-top_tracks:
-- Tapestry from an Asteroid (We Travel the Spaceways)
-- Hour of Parting
-- 'Haverford Impromptu #1 (Haverford College, Jan. 25th, 1980 (Solo Rhodes Piano))'
-- Door To The Cosmos - Mixed (DJ-Kicks (Motor City Drum Ensemble) [DJ Mix])
-- Daddy's Gonna Tell You No Lie (Outer Spaceways Incorporated - Kronos Quartet & Friends Meet Sun Ra)
-- Enlightenment
-- When There Is No Sun (New Steps)
-- 'Dreaming - mixed (Gilles Peterson Presents Sun Ra And His Arkestra: To Those Of Earth... And Other Worlds (Mixed Tracks))'
-- That’s How I Feel - Remastered (Lanquidity (Definitive Edition))
-- Back in Your Own Back Yard (The Space Age Is Here to Stay)
+enhancement_provider: perplexity
+entry_created: '2026-01-22T06:57:30.947923'
 external_urls:
   musicbrainz: https://musicbrainz.org/artist/c27cac8e-4c4a-48c0-a4ba-41399b9c176d
   spotify: https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX
   wikipedia: https://en.wikipedia.org/wiki/Sun_Ra
-image_path: 03_Resources/source_material/ArtistPortraits/sun_ra.jpg
-biography_enhanced_at: '2025-10-20T10:00:23.375573'
-primary_source: perplexity
-enhancement_provider: perplexity
-research_sources:
-- Wikipedia
-- EBSCO Research Starters
-- Britannica
-network_extracted: true
-entry_created: '2025-10-20T10:00:23.375603'
-last_updated: '2025-12-23T08:16:16.216035'
 gender: Male
-musicbrainz_enriched_at: '2025-10-21T09:56:07.263302'
+genres:
+- free jazz
+- experimental jazz
+- jazz
+- avant-garde
+- hard bop
+image_path: 03_Resources/source_material/ArtistPortraits/sun_ra.jpg
+instruments:
+- eponymous
+- original
+- piano
+- electric piano
+- Wurlitzer electric piano
+- Rhodes piano
+- toy piano
+- spoken vocals
+last_updated: '2026-01-22T06:57:30.947924'
+musical_connections:
+  collaborators:
+  - John Gilmore
+  - Marshall Allen
+  - Fletcher Henderson
+  influenced:
+  - Afrofuturism movement
+  - Avant-garde jazz musicians
+  mentors:
+  - John T. 'Fess' Whatley
 musicbrainz_id: c27cac8e-4c4a-48c0-a4ba-41399b9c176d
+network_extracted: true
+primary_source: perplexity
+research_sources:
+- https://www.ebsco.com/research-starters/history/sun-ra
+- https://en.wikipedia.org/wiki/Sun_Ra
+- https://www.arts.gov/honors/jazz/sun-ra
+- https://www.britannica.com/biography/Sun-Ra
+- https://daily.redbullmusicacademy.com/2019/07/sun-ra-philadelphia-years/
+- https://www.dukeupress.edu/space-is-the-place
+- https://www.jazzmessengers.com/en/9776/albums-of-sun-ra
+spotify_data:
+  followers: 226953
+  id: 0tIODqvzGUoEaK26rK4pvX
+  popularity: 42
+  url: https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX
+status: active
 tags:
 - 2008 universal fire victim
 - american
 - avant-garde jazz
+title: SUN RA
 ---
 
 ![](sun_ra.jpg)
 
-# sun ra
+# SUN RA
 
 ## Quick Info
-- **Genres**: free jazz, jazz, avant-garde, hard bop
-- **Instruments**: eponymous, original
-- **Spotify Popularity**: 39/100
-- **Followers**: 222,614
-- **Born**: 1914-05-22, Birmingham, Alabama, United States
+- **Genres**: free jazz, experimental jazz, jazz, avant-garde, hard bop
+- **Instruments**: eponymous, original, piano, electric piano, Wurlitzer electric piano, Rhodes piano, toy piano, spoken vocals
+- **Spotify Popularity**: 42/100
+- **Followers**: 226,953
+- **Born**: 1914-05-22, Birmingham
 - **Died**: 1993-05-30
 
 ## Biography
-Sun Ra, born Herman Poole Blount on May 22, 1914, in Birmingham, Alabama, was a visionary American jazz composer, bandleader, pianist, synthesizer player, and poet whose career spanned six decades and left an indelible mark on the avant-garde and free jazz movements[1][2][3]. Ra grew up in Birmingham, where he studied piano under Fess Wheatley and later attended Alabama Agricultural and Mechanical College (now University)[3]. By the mid-1940s, he had relocated to Chicago, immersing himself in the city’s vibrant jazz scene and working as a pianist and arranger for nightclub floor shows[1][3]. In 1946–47, he apprenticed with swing bandleader Fletcher Henderson, a formative experience that honed his skills in arrangement and big band leadership[3][4].
+Sun Ra, born Herman Poole Blount on May 22, 1914, in Birmingham, Alabama, displayed prodigious musical talent from a young age, performing his first professional gig in high school with the Sax-O-Society Orchestra and later touring with groups like the Troubadours and the Ethel Harper Band under bandleader John T. 'Fess' Whatley. After moving to Chicago in the 1940s, he worked as a sideman in various styles including boogie-woogie and bebop, making his first commercial recordings in 1946, before legally changing his name to Le Sony'r Ra in 1952 and forming the Space Trio, which evolved into the Sun Ra Arkestra known for its experimental structures, electronic instruments, and elaborate theatrical performances blending jazz, dance, poetry, and cosmic philosophy.
 
-In the early 1950s, Blount adopted the name Le Sony’r Ra (later shortened to Sun Ra), claiming extraterrestrial origins and developing a cosmic philosophy that became central to his artistic identity[1][2]. He founded his ensemble, The Arkestra, which became renowned for its eclectic instrumentation, theatrical performances, and ever-evolving lineup[1][2]. Sun Ra’s music synthesized elements from across jazz history—ragtime, swing, bebop, hard bop, free jazz, and fusion—while pioneering the use of electronic instruments like the Minimoog synthesizer and electric piano[1][2][4]. His work also incorporated poetry, dance, and elaborate costumes, creating a multidisciplinary spectacle that prefigured the Afrofuturism movement[1][2][5]. Despite health challenges later in life, Sun Ra continued to perform and compose until his death in 1993, leaving behind a vast catalog of recordings and a legacy as one of jazz’s most innovative and enigmatic figures[1][2][3].
+Throughout the 1950s and 1960s, Sun Ra pioneered avant-garde jazz in Chicago, releasing recordings on his own Saturn Records label as one of the first self-produced jazz artists, incorporating electric pianos, synthesizers, clavioline, and extensive percussion as early as 1956. The Arkestra relocated to New York around 1960-1961, establishing a communal Sun Palace and residencies like Slug's nightclub, fully embracing free jazz with albums like *The Magic City* (1965/66), while drawing from ragtime to fusion and emphasizing African origins of jazz and Afrofuturism. He led big bands of up to 30 musicians, innovating with modal jazz, group improvisations, two double basses, electric bass, and polyrhythms, producing over 100 albums and 1,000 songs despite limited mainstream success.
+
+Sun Ra's legacy endures through the Arkestra, which continues performing under Marshall Allen, influencing Afrofuturism and generations of musicians with his prolific output, mystical persona denying his earthly past, and multi-disciplinary art until his death on May 30, 1993, in Birmingham, Alabama.
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](Wikipedia), [Source2](EBSCO Research Starters), [Source3](Britannica)*
+*Sources: [Source1](https://www.ebsco.com/research-starters/history/sun-ra), [Source2](https://www.arts.gov/honors/jazz/sun-ra), [Source3](https://www.britannica.com/biography/Sun-Ra), [Source4](https://daily.redbullmusicacademy.com/2019/07/sun-ra-philadelphia-years/), [Source5](https://www.dukeupress.edu/space-is-the-place), [Source6](https://www.jazzmessengers.com/en/9776/albums-of-sun-ra)*
 
 ## Fun Facts
-- Sun Ra claimed to be an alien from Saturn and often said, 'I am not of this planet,' weaving extraterrestrial mythology into his persona and performances[1][2].
-- He was one of the first jazz musicians to regularly use electronic instruments, incorporating synthesizers and electric keyboards as early as the 1950s[1][4].
-- Sun Ra’s band, The Arkestra, had a constantly changing name and lineup, with monikers like Myth Science Arkestra and Cosmos Discipline Arkestra[1][2].
-- He established his own record label, El Saturn Records, to maintain artistic control over his music, a rare move for jazz artists at the time[2][4].
+- Sun Ra claimed to originate from Saturn, denying ties to his birth name Herman Blount and calling all prior identities pseudonyms as part of his cosmic philosophy.
+- He was one of the first jazz musicians to self-produce and sell his own albums on Saturn Records starting in the 1950s.
+- The Arkestra performed with elaborate costumes, dance by 'Jupiterettes,' and Sun Ra playing up to three synthesizers simultaneously.
+- He established a communal home called the Sun Palace in New York for his musicians in the 1960s.
+
+## Associated Acts
+- [[the_sun_ra_arkestra|The Sun Ra Arkestra]] - eponymous, original
+- [[the_nu_sounds|The Nu Sounds]]
+- [[sun_ra_trio|Sun Ra Trio]] - eponymous, original
 
 ## Musical Connections
 
 ### Mentors/Influences
-- [[Fess_Wheatley|Fess Wheatley]] - Early piano teacher in Birmingham (N/A) [1920s–1930s]
-- [[Fletcher_Henderson|Fletcher Henderson]] - Swing bandleader and arranger; Sun Ra served as pianist and arranger in his orchestra (Club DeLisa performances, 1946–47) [1946–1947]
+- [[john_t._fess_whatley|John T. 'Fess' Whatley]] - High school bandleader and mentor who taught discipline and musicianship (Ethel Harper Band tours) [1930s]
 
 ### Key Collaborators
-- [[John_Gilmore|John Gilmore]] - Tenor saxophonist and longtime Arkestra member; later assumed leadership of the group (Numerous Arkestra recordings, 1950s–1990s) [1950s–1990s]
-- [[Marshall_Allen|Marshall Allen]] - Alto saxophonist, Arkestra member, and eventual leader after Gilmore (Arkestra recordings and performances) [1950s–present]
-- [[Alton_Abraham|Alton Abraham]] - Manager and co-founder of El Saturn Records, Sun Ra’s independent label (Saturn Records releases) [1950s–1970s]
+- [[john_gilmore|John Gilmore]] - Tenor saxophonist and longtime Arkestra member (Early Arkestra expansions from Space Trio) [1950s-1990s]
+- [[marshall_allen|Marshall Allen]] - Alto saxophonist, key Arkestra member and current leader (Numerous Arkestra albums and performances) [1950s-1993, continuing post-death]
+- [[fletcher_henderson|Fletcher Henderson]] - Arranger for Henderson's swing band (Swing arrangements) [1940s]
 
 ### Artists Influenced
-- [[Pharoah_Sanders|Pharoah Sanders]] - Avant-garde saxophonist influenced by Sun Ra’s cosmic jazz and Afrofuturist themes (N/A) [1960s–present]
-- [[George_Clinton|George Clinton]] - Funk pioneer who cited Sun Ra’s theatricality and mythology as inspiration (Parliament-Funkadelic) [1970s–present]
-- [[Kamasi_Washington|Kamasi Washington]] - Contemporary jazz saxophonist drawing on Sun Ra’s expansive, spiritual approach (The Epic) [2010s–present]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| We Travel the Spaceways | 2014-04-28 | Album |
-| Sleeping Beauty (Expanded Edition) | 1979-11-02 | Album |
-| Lanquidity (Definitive Edition) | 2021-05-14 | Album |
-| Gilles Peterson Presents Sun Ra And His Arkestra: To Those Of Earth... And Other Worlds (Mixed Tracks) | 2015-10-30 | Album |
-| Haverford College, Jan. 25th, 1980 (Solo Rhodes Piano) | 2023-06-30 | Album |
-| Singles | 2016-11-25 | Album |
-| Stray Voltage | 2025-06-20 | Album |
-| The Night of the Purple Moon | 1970 | Album |
-| The Space Age Is Here to Stay | 2016-10-14 | Album |
-| New Steps | 1978 | Album |
-| Marshall Allen presents Sun Ra And His Arkestra: In The Orbit Of Ra | 2014-09-22 | Album |
-| The Nubians of Plutonia | 2014-04-02 | Album |
-| The Other Side of the Sun | 1979 | Album |
-| Angels and Demons at Play | 1965 | Album |
-| Supersonic Jazz (Expanded Edition) | 2025-09-26 | Album |
-
-### Top Tracks
-1. Tapestry from an Asteroid (We Travel the Spaceways)
-2. Hour of Parting
-3. Haverford Impromptu #1 (Haverford College, Jan. 25th, 1980 (Solo Rhodes Piano))
-4. Door To The Cosmos - Mixed (DJ-Kicks (Motor City Drum Ensemble) [DJ Mix])
-5. Daddy's Gonna Tell You No Lie (Outer Spaceways Incorporated - Kronos Quartet & Friends Meet Sun Ra)
-6. Enlightenment
-7. When There Is No Sun (New Steps)
-8. Dreaming - mixed (Gilles Peterson Presents Sun Ra And His Arkestra: To Those Of Earth... And Other Worlds (Mixed Tracks))
-9. That’s How I Feel - Remastered (Lanquidity (Definitive Edition))
-10. Back in Your Own Back Yard (The Space Age Is Here to Stay)
+- [[afrofuturism_movement|Afrofuturism movement]] - Founder figure merging African American themes with futuristic narratives (Arkestra performances and philosophy) [1960s onward]
+- [[avant-garde_jazz_musicians|Avant-garde jazz musicians]] - Pioneered free improvisation, modal jazz, electronics influencing generations (Free jazz and fusion developments) [1950s-1990s]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX)
 - [Wikipedia](https://en.wikipedia.org/wiki/Sun_Ra)
 - [MusicBrainz](https://musicbrainz.org/artist/c27cac8e-4c4a-48c0-a4ba-41399b9c176d)
+
 ---
 **Tags**: #2008-universal-fire-victim, #american, #avant-garde-jazz

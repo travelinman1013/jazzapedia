@@ -1,26 +1,5 @@
 ---
-title: charles mingus
-wiki_slug: charles-mingus
-schema_version: 2
 artist_type: person
-status: active
-birth_date: '1922-04-22'
-birth_place: Nogales
-death_date: '1979-01-05'
-genres:
-- jazz
-- hard bop
-- bebop
-- free jazz
-- cool jazz
-instruments:
-- eponymous
-- original
-- double bass
-- bass
-- piano
-- acoustic bass guitar
-- spoken vocals
 associated_acts:
 - begin: ''
   end: ''
@@ -75,84 +54,69 @@ associated_acts:
   - bass
   mbid: a65922ec-a9e8-4836-9b4f-7ea262cdafc6
   name: Strings and Keys
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/charles_mingus.jpg
-  caption: charles mingus
-  background: solo_singer
-  born: '1922-04-22'
-  origin: Nogales
-  died: '1979-01-05'
-audio_profile:
-  tempo_avg: 112.1
-  energy_avg: 0.376
-  valence_avg: 0.416
-  danceability_avg: 0.432
-  acousticness_avg: 0.667
-  instrumentalness_avg: 0.403
-  loudness_avg: -13.6
-  speechiness_avg: 0.06
-  liveness_avg: 0.25
-  track_count: 72
-  computed_at: '2025-12-23T08:16:06.680675'
-similar_artists: []
-musical_connections:
-  collaborators:
-  - Louis Armstrong
-  - Charlie Parker
-  - Duke Ellington
-  - Max Roach
-  - Charles McPherson
-  influenced:
-  - Herbie Hancock
-  - Eric Dolphy
-  - Ornette Coleman
-  mentors:
-  - H. Rheinshagen
-  - Lloyd Reese
-  - Duke Ellington
-spotify_data:
-  followers: 513041
-  id: 1W8TbFzNS15VwsempfY12H
-  popularity: 48
-  url: https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H
-discography_enriched: true
-top_tracks:
-- Goodbye Pork Pie Hat (Mingus Ah Um)
-- Mood Indigo (Mingus Mingus Mingus Mingus Mingus)
-- Better Git It in Your Soul (Mingus Ah Um)
-- Moanin' (Blues & Roots)
-- II B.S. - Edit (Mingus Mingus Mingus Mingus Mingus)
-- Track A- Solo Dancer (The Black Saint And The Sinner Lady)
-- Boogie Stop Shuffle (Mingus Ah Um)
-- Self-Portrait in Three Colors (Mingus Ah Um)
-- Fables of Faubus (Mingus Ah Um)
-- Track B- Duete Solo Dancers (The Black Saint And The Sinner Lady)
+biography_enhanced_at: '2026-01-22T07:20:45.628999'
+birth_date: '1922-04-22'
+birth_place: Nogales
+death_date: '1979-01-05'
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:20:45.629006'
 external_urls:
   musicbrainz: https://musicbrainz.org/artist/f3b8e107-abe8-4743-b6a3-4a4ee995e71f
   spotify: https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H
   wikipedia: https://en.wikipedia.org/wiki/Charles_Mingus
+gender: Male
+genres:
+- jazz
+- hard bop
+- bebop
+- free jazz
+- cool jazz
+- jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/charles_mingus.jpg
-biography_enhanced_at: '2025-11-20T06:42:01.021749'
+instruments:
+- eponymous
+- original
+- double bass
+- bass
+- piano
+- acoustic bass guitar
+- spoken vocals
+last_updated: '2026-01-22T07:20:45.629006'
+musical_connections:
+  collaborators:
+  - Max Roach
+  - Charlie Parker
+  - Eric Dolphy
+  - Charles McPherson
+  - Miles Davis
+  influenced:
+  - Young composers and musicians
+  mentors:
+  - H. Rheinshagen
+  - Lloyd Reese
+  - Duke Ellington
+musicbrainz_id: f3b8e107-abe8-4743-b6a3-4a4ee995e71f
+network_extracted: true
 primary_source: perplexity
-enhancement_provider: perplexity
 research_sources:
 - https://www.charlesmingus.com/mingusbio
 - https://en.wikipedia.org/wiki/Charles_Mingus
-- https://www.wisemusicclassical.com/composer/2247/Charles-Mingus/
-- https://www.britannica.com/biography/Charles-Mingus
 - https://www.laphil.com/musicdb/artists/3649/charles-mingus
+- https://www.ebsco.com/research-starters/history/charles-mingus
+- https://www.masterclass.com/articles/charles-mingus-life-and-music
 - https://isjac.org/hall-of-fame-new/charles-mingus
-- https://blackpast.org/african-american-history/mingus-charles-1922-1979/
-- https://www.vialma.com/en/jazz/articles/351/Charles-Mingus-en
-network_extracted: true
-entry_created: '2025-11-20T06:42:01.021757'
-last_updated: '2025-12-23T08:16:06.681042'
-gender: Male
-musicbrainz_id: f3b8e107-abe8-4743-b6a3-4a4ee995e71f
+- https://www.charlesmingus.com/mingus/what-is-a-jazz-composer
+spotify_data:
+  followers: 520106
+  id: 1W8TbFzNS15VwsempfY12H
+  popularity: 50
+  url: https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H
+status: active
 tags:
 - 2008 universal fire victim
 - american
 - avant-garde jazz
+title: charles mingus
 ---
 
 ![](charles_mingus.jpg)
@@ -162,25 +126,27 @@ tags:
 ## Quick Info
 - **Genres**: jazz, hard bop, bebop, free jazz, cool jazz
 - **Instruments**: eponymous, original, double bass, bass, piano, acoustic bass guitar, spoken vocals
-- **Spotify Popularity**: 48/100
-- **Followers**: 513,041
+- **Spotify Popularity**: 50/100
+- **Followers**: 520,106
 - **Born**: 1922-04-22, Nogales
 - **Died**: 1979-01-05
 
 ## Biography
-Charles Mingus Jr. (April 22, 1922 – January 5, 1979) was one of the most influential figures in 20th-century American music, renowned as a virtuoso bassist, pianist, bandleader, and composer. Born on a military base in Nogales, Arizona, and raised in Watts, California, Mingus’s earliest musical influences came from gospel and church music, as well as from hearing Duke Ellington on the radio as a child. He began studying music formally at a young age, focusing on double bass and composition, and was mentored by H. Rheinshagen, principal bassist of the New York Philharmonic, and composer Lloyd Reese. Mingus’s early professional career in the 1940s saw him touring with jazz legends such as Louis Armstrong, Kid Ory, and Lionel Hampton, before settling in New York where he played and recorded with leading figures like Charlie Parker, Miles Davis, Bud Powell, Art Tatum, and Duke Ellington.
+Charles Mingus Jr. (April 22, 1922 – January 5, 1979) was born on a military base in Nogales, Arizona, and raised in Watts, California, where he was exposed to diverse musical influences through church choir singing and radio broadcasts of Duke Ellington. His formal musical training included five years of double bass study with H. Rheinshagen, principal bassist of the New York Philharmonic, and compositional techniques with the legendary Lloyd Reese. Beginning his professional career in the 1940s, Mingus toured with major jazz ensembles led by Louis Armstrong, Kid Ory, and Lionel Hampton before establishing himself in New York's jazz scene.
 
-Mingus quickly established himself as a bandleader and composer, founding his own publishing and recording companies and the Jazz Workshop, which nurtured young talent and fostered collective improvisation. His music spanned advanced bebop, avant-garde jazz, and progressive big band experiments, with seminal recordings such as Pithecanthropus Erectus, Mingus Ah Um, and The Black Saint and the Sinner Lady. Mingus was known for his volatile personality, innovative approach to composition, and his ability to blend jazz and classical idioms. He recorded over a hundred albums and wrote more than three hundred scores, leaving a lasting legacy as one of the greatest jazz composers and musicians in history.
+By the 1950s, Mingus had become one of the most significant figures in twentieth-century American music, playing and recording with jazz luminaries including Charlie Parker, Miles Davis, Bud Powell, Art Tatum, and Duke Ellington himself. In 1952, he co-founded Debut Records with Max Roach to document his growing body of original compositions and support young, unrecorded musicians. Mingus pioneered collective improvisation—drawing from New Orleans jazz traditions—and carefully assembled unconventional instrumental configurations based on both musicians' technical skills and personalities. His compositional output was prolific, encompassing over three hundred scores and more than one hundred recorded albums.
+
+Mingus's musical innovations spanned from advanced bebop and avant-garde jazz to post-bop and progressive big band experiments, with seminal recordings including Pithecanthropus Erectus (1956), Mingus Ah Um (1959), and The Black Saint and the Sinner Lady (1963). In 1977, he was diagnosed with amyotrophic lateral sclerosis (ALS), which eventually confined him to a wheelchair, yet he continued recording by singing into a tape recorder until his death in January 1979. His legacy remains foundational to modern jazz, with his emphasis on collective improvisation and unconventional ensemble configurations continuing to influence musicians across generations.
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](https://www.charlesmingus.com/mingusbio), [Source2](https://www.wisemusicclassical.com/composer/2247/Charles-Mingus/), [Source3](https://www.britannica.com/biography/Charles-Mingus), [Source4](https://www.laphil.com/musicdb/artists/3649/charles-mingus), [Source5](https://isjac.org/hall-of-fame-new/charles-mingus), [Source6](https://blackpast.org/african-american-history/mingus-charles-1922-1979/), [Source7](https://www.vialma.com/en/jazz/articles/351/Charles-Mingus-en)*
+*Sources: [Source1](https://www.charlesmingus.com/mingusbio), [Source2](https://www.laphil.com/musicdb/artists/3649/charles-mingus), [Source3](https://www.ebsco.com/research-starters/history/charles-mingus), [Source4](https://www.masterclass.com/articles/charles-mingus-life-and-music), [Source5](https://isjac.org/hall-of-fame-new/charles-mingus), [Source6](https://www.charlesmingus.com/mingus/what-is-a-jazz-composer)*
 
 ## Fun Facts
-- Mingus wrote his first concert piece, 'Half-Mast Inhibition,' at age 17, but it was not recorded until 20 years later by a 22-piece orchestra conducted by Gunther Schuller.
-- He founded the Jazz Workshop, a group that allowed young composers to have their works performed, fostering a new generation of jazz talent.
-- Mingus taught for a semester at the University at Buffalo as the Slee Professor of Music in 1971.
-- His autobiography, 'Beneath the Underdog,' published in 1971, is known for its candid and often controversial portrayal of his life and career.
+- Mingus wrote his first concert piece, 'Half-Mast Inhibition,' at age seventeen, but it was not recorded until twenty years later by a 22-piece orchestra conducted by Gunther Schuller.
+- Despite being primarily known as a bassist, Mingus was an accomplished pianist who could have made a career playing that instrument alone.
+- In May 1953, Mingus participated in a historic Massey Hall concert in Toronto with Dizzy Gillespie, Charlie Parker, Bud Powell, and Max Roach—the last recorded documentation of Gillespie and Parker playing together.
+- Mingus was nominated for a Grammy Award only three times during his lifetime, with one nomination for Best Original Jazz Composition for 'The Black Saint and the Sinner Lady' (1962), despite his prolific output of over three hundred compositions.
 
 ## Associated Acts
 - [[john_mehegan_trio|John Mehegan Trio]]
@@ -196,53 +162,19 @@ Mingus quickly established himself as a bandleader and composer, founding his ow
 ## Musical Connections
 
 ### Mentors/Influences
-- [[h._rheinshagen|H. Rheinshagen]] - Principal bassist of the New York Philharmonic who mentored Mingus in double bass technique (Private instruction) [1940s]
-- [[lloyd_reese|Lloyd Reese]] - Legendary teacher who taught Mingus compositional techniques (Private instruction) [1940s]
-- [[duke_ellington|Duke Ellington]] - Early inspiration and later collaborator; Mingus cited Ellington as a major influence (Radio broadcasts, later collaborations) [1930s–1950s]
+- [[h._rheinshagen|H. Rheinshagen]] - Principal bassist of the New York Philharmonic who provided formal double bass instruction (Double bass technique and classical foundation) [Five years of study (early career)]
+- [[lloyd_reese|Lloyd Reese]] - Legendary composer and arranger who taught Mingus compositional techniques (Compositional techniques and music theory) [Early career training]
+- [[duke_ellington|Duke Ellington]] - Early radio influence at age eight; later direct collaborator and inspiration for orchestral jazz composition (Radio broadcasts; later recorded and performed together) [1930s (influence); 1950s (collaboration)]
 
 ### Key Collaborators
-- [[louis_armstrong|Louis Armstrong]] - Mingus toured with Armstrong's big band (Louis Armstrong's big band) [1943]
-- [[charlie_parker|Charlie Parker]] - Played and recorded together in New York (Massey Hall concert (1953), various recordings) [1950s]
-- [[duke_ellington|Duke Ellington]] - Played and recorded with Ellington (Various recordings) [1950s]
-- [[max_roach|Max Roach]] - Co-founded Debut Records and performed together (Debut Records, Massey Hall concert) [1950s]
-- [[charles_mcpherson|Charles McPherson]] - Frequent collaborator in Mingus’s groups (Mingus bands, recordings) [1960s–1970s]
+- [[max_roach|Max Roach]] - Co-founded Debut Records with Mingus; performed together in bebop ensembles (Debut Records label; May 15, 1953 Massey Hall concert) [1952 onwards]
+- [[charlie_parker|Charlie Parker]] - Played and recorded with Parker during the 1950s bebop era (Various bebop recordings; May 15, 1953 Massey Hall concert) [1950s]
+- [[eric_dolphy|Eric Dolphy]] - Frequent collaborator in Mingus's ensembles during the avant-garde period (Multiple Mingus band recordings) [1950s-1960s]
+- [[charles_mcpherson|Charles McPherson]] - Played with Charles McPherson in many of his groups during the 1950s-1960s (Various Mingus band recordings) [1950s-1960s]
+- [[miles_davis|Miles Davis]] - Played and recorded with Davis during the 1950s New York jazz scene (Various 1950s recordings) [1950s]
 
 ### Artists Influenced
-- [[herbie_hancock|Herbie Hancock]] - Mingus’s innovative approach to composition and improvisation influenced Hancock’s work (Various jazz compositions) [1960s–present]
-- [[eric_dolphy|Eric Dolphy]] - Collaborated with Mingus and was influenced by his avant-garde style (Mingus bands, recordings) [1960s]
-- [[ornette_coleman|Ornette Coleman]] - Mingus’s pioneering of free jazz influenced Coleman’s approach (Free jazz movement) [1960s–present]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| Mingus Ah Um | 1959 | Album |
-| Mingus Mingus Mingus Mingus Mingus | 1963 | Album |
-| The Black Saint And The Sinner Lady | 1963 | Album |
-| Blues & Roots | 1960-03 | Album |
-| Mingus Plays Piano | 1963 | Album |
-| Mingus Ah Um | 1959 | Album |
-| Let My Children Hear Music | 1972-02-01 | Album |
-| The Clown | 1957 | Album |
-| Mingus In Argentina: The Buenos Aires Concerts | 2025-06-06 | Album |
-| Pithecanthropus Erectus | 1956 | Album |
-| Ellis Island | 2025-06-06 | Album |
-| Jazzical Moods | 1955 | Album |
-| Oh Yeah (Deluxe) | 1962 | Album |
-| AH UM - 50th Anniversary (Legacy Edition) | 1959 | Album |
-
-### Top Tracks
-1. Goodbye Pork Pie Hat (Mingus Ah Um)
-2. Mood Indigo (Mingus Mingus Mingus Mingus Mingus)
-3. Better Git It in Your Soul (Mingus Ah Um)
-4. Moanin' (Blues & Roots)
-5. II B.S. - Edit (Mingus Mingus Mingus Mingus Mingus)
-6. Track A- Solo Dancer (The Black Saint And The Sinner Lady)
-7. Boogie Stop Shuffle (Mingus Ah Um)
-8. Self-Portrait in Three Colors (Mingus Ah Um)
-9. Fables of Faubus (Mingus Ah Um)
-10. Track B- Duete Solo Dancers (The Black Saint And The Sinner Lady)
+- [[young_composers_and_musicians|Young composers and musicians]] - Founded the Jazz Workshop to enable young composers to have their works performed in concert and on recordings (Jazz Workshop performances and recordings) [Mid-1950s onwards]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H)

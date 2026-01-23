@@ -1,20 +1,5 @@
 ---
-title: Walter Trout
-wiki_slug: walter-trout
-schema_version: 2
 artist_type: person
-status: active
-birth_date: '1951-03-06'
-birth_place: Ocean City
-genres:
-- blues
-- blues rock
-- modern blues
-instruments:
-- guitar
-- electric guitar
-- acoustic guitar
-- lead vocals
 associated_acts:
 - begin: '1981'
   end: '1985'
@@ -22,6 +7,12 @@ associated_acts:
   - guitar
   mbid: 815a0279-558c-4522-ac3b-6a1e259e95b5
   name: Canned Heat
+- begin: '1985'
+  end: '1989'
+  instruments:
+  - electric guitar
+  mbid: 4756395c-57ed-4a63-afb2-01117f14dff6
+  name: John Mayall & the Bluesbreakers
 - begin: ''
   end: ''
   instruments: []
@@ -32,82 +23,66 @@ associated_acts:
   instruments: []
   mbid: a5884741-dbcc-4357-8f27-226cb14abd1d
   name: Walter Trout Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4756395c-57ed-4a63-afb2-01117f14dff6
-  name: John Mayall & the Bluesbreakers
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/walter_trout.jpg
-  caption: Walter Trout
-  background: solo_singer
-  born: '1951-03-06'
-  origin: Ocean City
-audio_profile:
-  tempo_avg: 134.4
-  energy_avg: 0.764
-  valence_avg: 0.545
-  danceability_avg: 0.386
-  acousticness_avg: 0.125
-  instrumentalness_avg: 0.142
-  loudness_avg: -6.3
-  speechiness_avg: 0.052
-  liveness_avg: 0.302
-  track_count: 58
-  computed_at: '2025-12-23T08:16:17.977260'
-similar_artists: []
-musical_connections:
-  collaborators:
-  - Canned Heat
-  - John Mayall’s Bluesbreakers
-  - Jon Trout
-  influenced:
-  - Danny Bryant
-  - Laurence Jones
-  mentors:
-  - B.B. King
-  - John Lee Hooker
-  - Muddy Waters
-spotify_data:
-  followers: 131620
-  id: 12LgviUQ9DbfYJJ9niDWRq
-  popularity: 40
-  url: https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq
-discography_enriched: true
-top_tracks:
-- We're All In This Together (We're All In This Together)
-- Me, My Guitar And The Blues (Survivor Blues)
-- Pray For Rain (Blues for the Modern Daze)
-- Gonna Hurt Like Hell (We're All In This Together)
-- Almost Gone (Battle Scars (Deluxe Edition))
-- Do You Still See Me At All (We're All In This Together)
-- All Out Of Tears (Ordinary Madness)
-- Days Like This (Days Like This)
-- Broken (Broken)
-- Broken
+biography_enhanced_at: '2026-01-22T07:19:10.840048'
+birth_date: '1951-03-06'
+birth_place: Ocean City
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:19:10.840054'
 external_urls:
   musicbrainz: https://musicbrainz.org/artist/efddcf31-943b-49f0-aef1-cf5539d8048b
   spotify: https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq
-  wikipedia: https://en.wikipedia.org/wiki/Walter_Trout
-image_path: 03_Resources/source_material/ArtistPortraits/walter_trout.jpg
-biography_enhanced_at: '2025-10-30T11:52:47.123094'
-primary_source: perplexity
-enhancement_provider: perplexity
-research_sources:
-- https://en.wikipedia.org/wiki/Walter_Trout
-- https://abreathoffreshair.com.au/episodes/walter-trout-from-canned-heat-to-stardom-the-journey/
-- https://www.mascotlabelgroup.com/pages/walter-trout-biography
-- https://rockingmagpie.wordpress.com/books-videos-stuff/walter-trout-rescued-from-reality-autobiographybook/
-- https://www.last.fm/music/Walter+Trout/+wiki
-network_extracted: true
-entry_created: '2025-10-30T11:52:47.123103'
-last_updated: '2025-12-23T08:16:17.977625'
+  wikipedia: Not found in search results
 gender: Male
+genres:
+- blues
+- blues rock
+- modern blues
+- classic blues
+image_path: 03_Resources/source_material/ArtistPortraits/walter_trout.jpg
+instruments:
+- guitar
+- electric guitar
+- acoustic guitar
+- lead vocals
+last_updated: '2026-01-22T07:19:10.840054'
+musical_connections:
+  collaborators:
+  - Deacon Jones
+  - John Lee Hooker
+  - Canned Heat
+  - Coco Montoya
+  - Michael Leasure
+  - John Avila
+  - Teddy 'Zig Zag' Andreadis
+  influenced:
+  - Blues music community
+  mentors:
+  - Duke Ellington
+  - Paul Butterfield Blues Band (featuring Mike Bloomfield)
+  - John Mayall
 musicbrainz_id: efddcf31-943b-49f0-aef1-cf5539d8048b
+network_extracted: true
+primary_source: perplexity
+research_sources:
+- https://wordpress.rufrecords.de/en/walter-trout-e/
+- https://abreathoffreshair.com.au/episodes/walter-trout-from-canned-heat-to-stardom-the-journey/
+- https://www.youtube.com/watch?v=bYU8GQeRN4c
+- https://www.mascotlabelgroup.com/pages/walter-trout-biography
+- https://www.americanbluesscene.com/2017/01/walter-trout-grim-fairy-tale-happy-ending/
+- https://www.vintageguitar.com/2796/walter-trout/
+- https://rockingmagpie.wordpress.com/books-videos-stuff/walter-trout-rescued-from-reality-autobiographybook/
+- https://www.guitarplayer.com/players/walter-trout-broken
+spotify_data:
+  followers: 133288
+  id: 12LgviUQ9DbfYJJ9niDWRq
+  popularity: 41
+  url: https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq
+status: active
 tags:
 - blues
 - blues rock
 - electric blues
+title: Walter Trout
 ---
 
 ![](walter_trout.jpg)
@@ -115,87 +90,57 @@ tags:
 # Walter Trout
 
 ## Quick Info
-- **Genres**: blues, blues rock, modern blues
+- **Genres**: blues, blues rock, modern blues, classic blues
 - **Instruments**: guitar, electric guitar, acoustic guitar, lead vocals
-- **Spotify Popularity**: 40/100
-- **Followers**: 131,620
+- **Spotify Popularity**: 41/100
+- **Followers**: 133,288
 - **Born**: 1951-03-06, Ocean City
 
 ## Biography
-Walter Trout, born March 6, 1951, in Ocean City, New Jersey, is a celebrated American blues guitarist, singer, and songwriter whose career spans over five decades. Trout’s early fascination with music was sparked by blues legends such as B.B. King, Muddy Waters, and John Lee Hooker, and he began playing guitar at age ten. By his teens, he was performing in local bands on the Jersey coast before moving to Los Angeles in the late 1960s, where he became a sought-after sideman for icons like John Lee Hooker, Percy Mayfield, Big Mama Thornton, and Joe Tex.
+Walter Trout is an American blues guitarist, singer, and songwriter born in 1951 in Ocean City, New Jersey.[1] His musical journey began at age ten when he picked up a guitar, though his initial instrument was trumpet, which he played in his school band.[1][2] A pivotal moment came at his tenth birthday when his mother arranged a meeting with jazz legends Duke Ellington, Cat Anderson, Johnny Hodges, and Paul Gonsalves, planting the seed for a professional music career.[1] In the mid-1960s, after hearing the Paul Butterfield Blues Band featuring Mike Bloomfield, Trout switched to electric guitar and committed himself to the blues genre.[1] As a shy teenager in a turbulent household, guitar became his solace for expressing emotions, and by his late teens and early twenties, he was performing in numerous New Jersey bands, competing for recognition alongside a young Bruce Springsteen's Steel Mill.[1]
 
-Trout’s major breakthrough came in the early 1980s when he joined the legendary blues-rock band Canned Heat as lead guitarist, touring extensively and gaining international recognition. He then spent five years as the lead guitarist for John Mayall’s Bluesbreakers, following in the footsteps of guitar greats like Eric Clapton and Peter Green. In 1989, Trout launched his solo career with the Walter Trout Band, quickly establishing himself in Europe with his debut album 'Life in the Jungle.' His discography now includes over 30 albums, with highlights such as 'Blues for the Modern Daze,' 'Battle Scars,' and 'We’re All in This Together.'
+In 1973, Trout made the pivotal decision to drive cross-country to Los Angeles with minimal possessions, beginning his apprenticeship as a sideman in California's blues scene.[1] He worked with blues legends including Deacon Jones, John Lee Hooker, Big Mama Thorton, and Joe Tex, establishing himself as a top-flight lead guitarist.[1] From 1981 to 1984, Trout joined the venerable blues-rock band Canned Heat, where he refined his touring abilities and solidified his reputation.[1] He then joined John Mayall's Bluesbreakers in the mid-1980s, where he shared guitar duties with Coco Montoya in what was the only time in Mayall's career that he featured two lead guitarists, lifting the band to unprecedented album sales and high-profile tours.[1][5] By 1989, Trout embarked on a solo career, forming The Walter Trout Band and immediately launching extensive European tours that resulted in radio hits and chart success throughout the 1990s, releasing eight recordings during that decade.[1]
 
-Trout’s style is marked by fiery guitar solos, emotive vocals, and a deep connection to the blues tradition, yet he brings a modern sensibility and raw authenticity to his music. Despite facing life-threatening health challenges, including a liver transplant that required him to relearn how to play guitar, Trout’s resilience and passion have made him a living legend. His electrifying live performances and dedication to the blues have inspired generations of musicians, ensuring his enduring legacy in the genre.
+Trout's career has been marked by numerous accolades, including Blues Music Awards, SENA European Guitar Awards, British Blues Awards, and Blues Blast Music Awards.[4] British DJ 'Whispering' Bob Harris declared him "the world's greatest rock guitarist" in his 2001 autobiography.[4] Beyond his musical achievements, Trout faced life-threatening health issues, including a liver transplant, which he overcame to continue performing at the highest level.[3] His distinctive blend of fiery guitar solos, heartfelt lyrics, and emotive vocals has cemented his status as a blues guitar virtuoso and living legend in the blues music landscape.[2][3]
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](https://abreathoffreshair.com.au/episodes/walter-trout-from-canned-heat-to-stardom-the-journey/), [Source2](https://www.mascotlabelgroup.com/pages/walter-trout-biography), [Source3](https://rockingmagpie.wordpress.com/books-videos-stuff/walter-trout-rescued-from-reality-autobiographybook/), [Source4](https://www.last.fm/music/Walter+Trout/+wiki)*
+*Sources: [Source1](https://wordpress.rufrecords.de/en/walter-trout-e/), [Source2](https://abreathoffreshair.com.au/episodes/walter-trout-from-canned-heat-to-stardom-the-journey/), [Source3](https://www.youtube.com/watch?v=bYU8GQeRN4c), [Source4](https://www.mascotlabelgroup.com/pages/walter-trout-biography), [Source5](https://www.americanbluesscene.com/2017/01/walter-trout-grim-fairy-tale-happy-ending/), [Source6](https://www.vintageguitar.com/2796/walter-trout/), [Source7](https://rockingmagpie.wordpress.com/books-videos-stuff/walter-trout-rescued-from-reality-autobiographybook/), [Source8](https://www.guitarplayer.com/players/walter-trout-broken)*
 
 ## Fun Facts
-- Walter Trout had to relearn how to walk, talk, and play guitar after a life-saving liver transplant in 2014.
-- He was rescued from a destructive path of substance abuse by a post-gig encounter with Carlos Santana, which inspired him to get sober.
-- Trout’s debut solo album, 'Life in the Jungle,' was named by The Times as 'the greatest album in the history of the blues-rock genre.'
-- He often performs with his son, Jon Trout, who plays second guitar in his band.
+- At age 14, while flunking out of school, Trout told his guidance counselor he was going to be a blues guitar player—a commitment he has maintained throughout his life.[5]
+- In 1973, Trout drove cross-country to Los Angeles in a VW Beetle with only a few changes of clothes, a trumpet, a mandolin, and his guitars.[1]
+- Early in his career, Trout and his bass player in Idaho slept in a dog kennel with individual cages during a road trip because they had no other place to stay.[5]
+- After recording the title track for one of his albums, his keys player Teddy Andreadis remarked, 'Well, you won't be winning a blues award this year'—reflecting the album's unusually hard rock sound compared to traditional blues.[4]
 
 ## Associated Acts
 - [[canned_heat|Canned Heat]] - guitar (1981–1985)
+- [[john_mayall_and_the_bluesbreakers|John Mayall & the Bluesbreakers]] - electric guitar (1985–1989)
 - [[walter_trout_and_the_free_radicals|Walter Trout & The Free Radicals]]
 - [[walter_trout_band|Walter Trout Band]]
-- [[john_mayall_and_the_bluesbreakers|John Mayall & the Bluesbreakers]]
 
 ## Musical Connections
 
 ### Mentors/Influences
-- [[b.b._king|B.B. King]] - Major early stylistic influence and inspiration (Inspired Trout’s blues guitar approach) [1960s]
-- [[john_lee_hooker|John Lee Hooker]] - Both an influence and an early employer; Trout played as Hooker’s sideman (Live performances as sideman) [1970s]
-- [[muddy_waters|Muddy Waters]] - Stylistic influence on Trout’s blues playing (Inspired Trout’s approach to blues) [1960s]
+- [[duke_ellington|Duke Ellington]] - Jazz legend who met with young Trout at his tenth birthday, inspiring his pursuit of a professional music career (Meeting orchestrated by Trout's mother with Ellington, Cat Anderson, Johnny Hodges, and Paul Gonsalves) [1961 (age 10)]
+- [[paul_butterfield_blues_band_featuring_mike_bloomfield|Paul Butterfield Blues Band (featuring Mike Bloomfield)]] - Album that catalyzed Trout's switch from trumpet to electric guitar and cemented his musical ambitions toward blues (Paul Butterfield Blues Band album) [Mid-1960s]
+- [[john_mayall|John Mayall]] - Mentor figure whose paternal influence cleaned Trout up and propelled him into his solo career (John Mayall's Bluesbreakers) [Mid-1980s to 1989]
 
 ### Key Collaborators
-- [[canned_heat|Canned Heat]] - Lead guitarist and touring member (Albums and live tours) [1981-1984]
-- [[john_mayalls_bluesbreakers|John Mayall’s Bluesbreakers]] - Lead guitarist, recording and touring worldwide (Albums and live tours) [1984-1989]
-- [[jon_trout|Jon Trout]] - Son and touring band member (second guitar) (Live performances) [2020s]
+- [[deacon_jones|Deacon Jones]] - Hammond B3 wizard with whom Trout frequently teamed during his Los Angeles apprenticeship (Various performances in California blues clubs) [1970s]
+- [[john_lee_hooker|John Lee Hooker]] - Blues legend in whose band Trout served as a sideman, continuing his apprenticeship (John Lee Hooker's band) [1970s]
+- [[canned_heat|Canned Heat]] - Venerable blues-rock band where Trout served as lead guitarist, learning the ways of a touring musician (Canned Heat recordings and tours) [1981-1984]
+- [[coco_montoya|Coco Montoya]] - Fellow guitarist with whom Trout shared lead guitar duties in John Mayall's Bluesbreakers, creating unprecedented musical synergy (John Mayall's Bluesbreakers albums and tours) [Mid-1980s to 1989]
+- [[michael_leasure|Michael Leasure]] - Longtime drummer in Trout's studio band (Recent studio recordings) [2000s-present]
+- [[john_avila|John Avila]] - Bassist in Trout's studio band (Recent studio recordings) [2000s-present]
+- [[teddy_zig_zag_andreadis|Teddy 'Zig Zag' Andreadis]] - Keys player in Trout's studio band (Recent studio recordings including harder-edged blues rock material) [2000s-present]
 
 ### Artists Influenced
-- [[danny_bryant|Danny Bryant]] - British blues guitarist who cites Trout as a major influence and mentor (Collaborative performances) [2000s–present]
-- [[laurence_jones|Laurence Jones]] - Younger blues artists inspired by Trout’s guitar style and career (Cites Trout as inspiration in interviews) [2010s–present]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| We're All In This Together | 2017-09-01 | Album |
-| Broken | 2024-03-01 | Album |
-| Blues for the Modern Daze | 2012-04-23 | Album |
-| Survivor Blues | 2019-01-25 | Album |
-| Sign of the Times | 2025-09-05 | Album |
-| Battle Scars (Deluxe Edition) | 2015-10-23 | Album |
-| Ordinary Madness | 2020-08-28 | Album |
-| Ride | 2022-08-19 | Album |
-| The Blues Came Callin' | 2014-02-06 | Album |
-| ALIVE in Amsterdam (Live) | 2016-06-17 | Album |
-| Live Trout Vol. 1 | 2000-04-28 | Album |
-| The Power Of The Blues, Pt. 2 (Live) | 2024-10-25 | Album |
-| No More Fish Jokes | 1993-07-01 | Album |
-| Life In The Jungle | 1990-01-01 | Album |
-| Hardcore | 2007-07-06 | Album |
-
-### Top Tracks
-1. We're All In This Together (We're All In This Together)
-2. Me, My Guitar And The Blues (Survivor Blues)
-3. Pray For Rain (Blues for the Modern Daze)
-4. Gonna Hurt Like Hell (We're All In This Together)
-5. Almost Gone (Battle Scars (Deluxe Edition))
-6. Do You Still See Me At All (We're All In This Together)
-7. All Out Of Tears (Ordinary Madness)
-8. Days Like This (Days Like This)
-9. Broken (Broken)
-10. Broken
+- [[blues_music_community|Blues music community]] - Trout's electrifying live shows and dedication to preserving the essence of blues music have solidified his influence as a living guitar legend (Entire discography including 'Life in the Jungle,' 'Blues for the Modern Daze,' and 'Battle Scars') [1990-present]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq)
-- [Wikipedia](https://en.wikipedia.org/wiki/Walter_Trout)
+- [Wikipedia](Not found in search results)
 - [MusicBrainz](https://musicbrainz.org/artist/efddcf31-943b-49f0-aef1-cf5539d8048b)
 
 ---

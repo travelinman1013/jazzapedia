@@ -1,149 +1,125 @@
 ---
-title: Jon Cleary
-wiki_slug: jon-cleary
-schema_version: 2
-status: active
-birth_place: Cranbrook, Kent, England (birthplace); New Orleans, Louisiana, USA (base)
+artist_type: person
+associated_acts:
+- begin: ''
+  end: ''
+  instruments:
+  - eponymous
+  - lead vocals
+  - original
+  - piano
+  mbid: 13c39eaa-e46c-4e66-a84d-a534f804e450
+  name: Jon Cleary and the Absolute Monster Gentlemen
+biography_enhanced_at: '2026-01-22T07:13:48.204509'
+birth_date: '1962-08-11'
+birth_place: Kent
+disambiguation: US funk/R&B musician
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:13:48.204515'
+external_urls:
+  musicbrainz: https://musicbrainz.org/artist/a417f0e5-2c14-445a-9a07-5a7ad2bdeafa
+  spotify: https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX
+  wikipedia: https://en.wikipedia.org/wiki/Jon_Cleary_(musician)
+gender: Male
 genres:
 - cajun
 - jazz funk
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Jon_Cleary.jpg
-  caption: Jon Cleary
-  background: solo_singer
-  origin: Cranbrook, Kent, England (birthplace); New Orleans, Louisiana, USA (base)
-audio_profile:
-  tempo_avg: 116.9
-  energy_avg: 0.635
-  valence_avg: 0.644
-  danceability_avg: 0.641
-  acousticness_avg: 0.184
-  instrumentalness_avg: 0.078
-  loudness_avg: -8.5
-  speechiness_avg: 0.057
-  liveness_avg: 0.227
-  track_count: 59
-  computed_at: '2025-12-23T08:16:02.713504'
-similar_artists: []
+image_path: 03_Resources/source_material/ArtistPortraits/jon_cleary.jpg
+instruments:
+- eponymous
+- lead vocals
+- original
+- piano
+- Wurlitzer electric piano
+- electric piano
+- guitar
+- electric guitar
+- Rhodes piano
+- background vocals
+last_updated: '2026-01-22T07:13:48.204516'
 musical_connections:
   collaborators:
   - Bonnie Raitt
   - Taj Mahal
-  - Dr. John
   - Cornell C. Williams
-  - A.J. Hall
-  influenced:
-  - Annika Chambers
-  - Nigel Hall
+  - A.J. Hall / Thomas Glass
+  influenced: []
   mentors:
   - Professor Longhair
-  - Allen Toussaint
+  - Dr. John (Mac Rebennack)
   - James Booker
-spotify_data:
-  followers: 24547
-  id: 5AUpDp4yxURZjwzl1aOVyX
-  popularity: 28
-  url: https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX
-discography_enriched: true
-top_tracks:
-- Got To Be More Careful (Pin Your Spin)
-- When You Get Back (Jon Cleary & The Absolute Monster Gentlemen)
-- So Damn Good (Jon Cleary & The Absolute Monster Gentlemen)
-- More Hipper (Jon Cleary & The Absolute Monster Gentlemen)
-- So Damn Good
-- Uptown Downtown
-- Sometimes I Wonder (Jon Cleary & The Absolute Monster Gentlemen)
-- Zulu Coconuts
-- 'Frenchmen Street Blues (Treme: Music From The HBO Original Series - Season 2)'
-- 21st Century Gypsy Singing Lover Man (Dyna-Mite)
-external_urls:
-  spotify: https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX
-  wikipedia: https://en.wikipedia.org/wiki/Jon_Cleary_(musician)
-image_path: 03_Resources/source_material/ArtistPortraits/Jon_Cleary.jpg
-biography_enhanced_at: '2025-10-21T06:48:52.315923'
-primary_source: perplexity
-enhancement_provider: perplexity
-research_sources:
-- Wikipedia
-- joncleary.com
-- Single Lock Records
+musicbrainz_id: a417f0e5-2c14-445a-9a07-5a7ad2bdeafa
 network_extracted: true
-entry_created: '2025-10-21T06:48:52.315946'
-last_updated: '2025-12-23T08:16:02.713848'
+primary_source: perplexity
+research_sources:
+- https://en.wikipedia.org/wiki/Jon_Cleary_(musician)
+- https://www.joncleary.com/about
+- https://www.singlelock.com/cleary
+- https://www.pianogroove.com/meet-the-team/jon-cleary/
+- https://delaluz.org/events/jon-cleary/
+- https://www.americanbluesscene.com/2024/05/beyond-the-keyboard-a-conversation-with-grammy-winning-musician-jon-cleary/
+- https://www.jazzalley.com/www-home/artist.jsp?shownum=1434
+- https://www.neworleans.com/listing/jon-cleary/46437/
+spotify_data:
+  followers: 25027
+  id: 5AUpDp4yxURZjwzl1aOVyX
+  popularity: 30
+  url: https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX
+status: active
+tags:
+- blues
+- new orleans
+title: jon cleary
 ---
 
-![](Jon_Cleary.jpg)
+![](jon_cleary.jpg)
 
-# Jon Cleary
+# jon cleary
 
 ## Quick Info
 - **Genres**: cajun, jazz funk
-- **Spotify Popularity**: 28/100
-- **Followers**: 24,547
-- **Born**: Cranbrook, Kent, England (birthplace); New Orleans, Louisiana, USA (base)
+- **Instruments**: eponymous, lead vocals, original, piano, Wurlitzer electric piano, electric piano, guitar, electric guitar, Rhodes piano, background vocals
+- **Spotify Popularity**: 30/100
+- **Followers**: 25,027
+- **Born**: 1962-08-11, Kent
 
 ## Biography
-Jon Cleary, born August 11, 1962, in Cranbrook, Kent, England, is a British-born, New Orleans-based pianist, vocalist, songwriter, and multi-instrumentalist renowned for his mastery of funk and R&B[1]. Growing up in a musical family—his father played guitar, and his uncle introduced him to New Orleans R&B records—Cleary was captivated by the sounds of Professor Longhair, Allen Toussaint, and other Crescent City legends from an early age[1][3]. He left formal education behind to pursue music, forming his first band, Delta Wing, at 16, and by 1981, he made a life-changing pilgrimage to New Orleans, where he began working as a painter at the Maple Leaf Bar before quickly transitioning to playing piano there[3][4]. Cleary’s deep immersion in the local scene led to session work with New Orleans greats like Earl King, Johnny Adams, and Dr. John, and he soon became a fixture in the city’s vibrant music community[2][4].
+Jon Cleary, born August 11, 1962, in Cranbrook, Kent, England, discovered his passion for music early, starting on guitar at age five and forming his first band, Delta Wing, at 16 with blues guitarist Roger Hubbard. Inspired by his uncle's records of New Orleans artists like Professor Longhair, he left school after art studies and moved to New Orleans in 1981 at age 19. His first job was painting the Maple Leaf Bar, where he soon transitioned to playing piano, immersing himself in the city's R&B and funk scene.[1][2][3][4]
 
-Cleary’s career took off in the late 1980s with the release of his debut album, Alligator Lips & Dirty Rice (1989), and he has since released several acclaimed records, both as a solo artist and with his band, The Absolute Monster Gentlemen[1][3]. His 2015 album Go Go Juice won a Grammy Award for Best Regional Roots Music Album, cementing his reputation as a leading exponent of New Orleans funk and R&B[1]. Cleary’s style is a dynamic fusion of traditional New Orleans piano, ’70s soul, gospel, funk, and Afro-Caribbean rhythms, always delivered with a fresh, contemporary edge[8]. He has toured globally with icons like Bonnie Raitt and Taj Mahal, and remains a beloved figure at local venues such as Tipitina’s and the Maple Leaf Bar, where he continues to draw crowds with his energetic performances[1][2]. Cleary’s legacy lies in his ability to honor the roots of New Orleans music while pushing its boundaries, ensuring its vitality for new generations[8].
+Cleary's career took off as a session musician for New Orleans legends including Earl King, Johnny Adams, Walter ‘Wolfman’ Washington, Snooks Eaglin, Ernie K-Doe, Jessie Hill, and as a guitarist for Dr. John. He released his debut album *Alligator Lips & Dirty Rice* in 1989, formed Jon Cleary & The Absolute Monster Gentlemen, and toured with icons like Bonnie Raitt (for a decade, contributing five songs), Taj Mahal (who covered four of his compositions), B.B. King, Eric Clapton, and others. His band, featuring core members Cornell C. Williams (bass), Thomas Glass or A.J. Hall (drums), and expandable to include Nigel Hall, Pedro Segundo, and Xavier Lynn, released six albums, with *Go Go Juice* winning a Grammy in 2016 for Best Regional Roots Music Album.[1][2][3][5]
+
+Renowned for his mastery of New Orleans piano, funk, and R&B—blending blues, jazz, soul, and Afro-Cuban influences—Cleary has earned OffBeat awards, Gambit 'Best Of's, the 2017 Ascona Jazz award, and 2020 JazzFM 'Best International Blues Act.' Based in New Orleans' Bywater for over 40 years, he continues performing worldwide, teaching styles via PianoGroove, and upholding the Crescent City's musical legacy.[1][2][3][4]
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](Wikipedia), [Source2](joncleary.com), [Source3](Single Lock Records)*
+*Sources: [Source1](https://www.joncleary.com/about), [Source2](https://www.singlelock.com/cleary), [Source3](https://www.pianogroove.com/meet-the-team/jon-cleary/), [Source4](https://delaluz.org/events/jon-cleary/), [Source5](https://www.americanbluesscene.com/2024/05/beyond-the-keyboard-a-conversation-with-grammy-winning-musician-jon-cleary/), [Source6](https://www.jazzalley.com/www-home/artist.jsp?shownum=1434), [Source7](https://www.neworleans.com/listing/jon-cleary/46437/)*
 
 ## Fun Facts
-- Cleary’s first job in New Orleans was painting the exterior of the Maple Leaf Bar in exchange for access to the club’s piano—a gig that launched his career in the city[2][3].
-- He is one of the few British musicians to have fully assimilated into the New Orleans music scene, earning respect from local legends and becoming a staple at iconic venues[1][2].
-- Cleary’s band, The Absolute Monster Gentlemen, can expand to an eight-piece ensemble, often featuring a full horn section for larger shows[1].
-- He appeared in the 2005 documentary Make It Funky!, performing a piano duo of 'Tipitina' with Allen Toussaint[1].
+- Arrived in New Orleans in 1981 by cab straight to Maple Leaf Bar from the airport; first job was painting its exterior for free beer and entry, soon playing piano there.
+- Built 'Funk Headquarters' studio in New Orleans using his Virgin Records advance; first New Orleans gig beyond painting was at the same Maple Leaf Bar he painted.
+- Formed early band Delta Wing at 16 with Roger Hubbard, praised by Muddy Waters as top UK/US blues guitarist.
+- Appeared in Martin Scorsese’s documentary “Red, White & Blue,” accompanying Jeff Beck, Tom Jones, and Van Morrison at Abbey Road Studios.
+
+## Associated Acts
+- [[jon_cleary_and_the_absolute_monster_gentlemen|Jon Cleary and the Absolute Monster Gentlemen]] - eponymous, lead vocals, original, piano
 
 ## Musical Connections
 
 ### Mentors/Influences
-- [[Professor_Longhair|Professor Longhair]] - Early inspiration through recordings brought by his uncle (N/A) [1970s]
-- [[Allen_Toussaint|Allen Toussaint]] - Influenced Cleary's songwriting and piano style; performed together in documentary (Make It Funky! (film)) [2000s]
-- [[James_Booker|James Booker]] - Admired for idiosyncratic piano style; Maple Leaf Bar connection (N/A) [1980s]
+- [[professor_longhair|Professor Longhair]] - early inspiration via uncle's records sparking love for New Orleans R&B (recordings brought from America) [childhood, 1970s]
+- [[dr._john_mac_rebennack|Dr. John (Mac Rebennack)]] - learned New Orleans piano secrets directly; played guitar in his band; high praise as 'the real deal' (session work and gigs) [1980s onward]
+- [[james_booker|James Booker]] - influenced at Maple Leaf Bar where Cleary first played piano (live performances at Maple Leaf) [early 1980s]
 
 ### Key Collaborators
-- [[Bonnie_Raitt|Bonnie Raitt]] - Toured extensively as keyboardist; mutual admiration (Various tours and festival appearances) [1990s–2010s]
-- [[Taj_Mahal|Taj Mahal]] - Toured and recorded together (N/A) [1990s–2000s]
-- [[Dr._John|Dr. John]] - Played guitar in his band; frequent collaborator (N/A) [1980s–1990s]
-- [[Cornell_C._Williams|Cornell C. Williams]] - Bassist and backup vocalist in The Absolute Monster Gentlemen (All band albums) [2000s–present]
-- [[A.J._Hall|A.J. Hall]] - Drummer in The Absolute Monster Gentlemen (All band albums) [2000s–present]
-
-### Artists Influenced
-- [[Annika_Chambers|Annika Chambers]] - Played piano on her album Wild & Free (Wild & Free (2016)) [2010s]
-- [[Nigel_Hall|Nigel Hall]] - Occasional keyboardist with The Absolute Monster Gentlemen; stylistic influence (Live performances) [2010s]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| Jon Cleary & The Absolute Monster Gentlemen | 2002-05-07 | Album |
-| Pin Your Spin | 2004-04-20 | Album |
-| Dyna-Mite | 2018-07-13 | Album |
-| So Swell | 2023-04-25 | Album |
-| GoGo Juice | 2015-08-14 | Album |
-| Mo Hippa Live | 2008-04-08 | Album |
-| The Bywater Sessions | 2025-04-25 | Album |
-| Moonburn | 1999-01-01 | Album |
-| Occapella | 2012-04-17 | Album |
-| Alligator Lips And Dirty Rice | 1994 | Album |
-| New Kinda Groove~The Jon Cleary Collection | 2023-08-23 | Album |
-
-### Top Tracks
-1. Got To Be More Careful (Pin Your Spin)
-2. When You Get Back (Jon Cleary & The Absolute Monster Gentlemen)
-3. So Damn Good (Jon Cleary & The Absolute Monster Gentlemen)
-4. More Hipper (Jon Cleary & The Absolute Monster Gentlemen)
-5. So Damn Good
-6. Uptown Downtown
-7. Sometimes I Wonder (Jon Cleary & The Absolute Monster Gentlemen)
-8. Zulu Coconuts
-9. Frenchmen Street Blues (Treme: Music From The HBO Original Series - Season 2)
-10. 21st Century Gypsy Singing Lover Man (Dyna-Mite)
+- [[bonnie_raitt|Bonnie Raitt]] - keyboards, percussion, guitar in her band for a decade; she recorded five of his songs (tours and recordings) [1990s-2000s]
+- [[taj_mahal|Taj Mahal]] - toured and recorded; Taj covered four Cleary compositions; introduced by Keith Richards/John Porter (tours and albums) [1990s]
+- [[cornell_c._williams|Cornell C. Williams]] - longtime bassist and backup vocals in Jon Cleary & The Absolute Monster Gentlemen (six band albums including Go Go Juice) [1990s-present]
+- [[a.j._hall__thomas_glass|A.J. Hall / Thomas Glass]] - drummers in The Absolute Monster Gentlemen (band albums and tours) [2000s-present]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX)
 - [Wikipedia](https://en.wikipedia.org/wiki/Jon_Cleary_(musician))
+- [MusicBrainz](https://musicbrainz.org/artist/a417f0e5-2c14-445a-9a07-5a7ad2bdeafa)
+
+---
+**Tags**: #blues, #new-orleans

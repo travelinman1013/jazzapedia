@@ -1,27 +1,5 @@
 ---
-title: John Coltrane
-wiki_slug: john-coltrane
-schema_version: 2
 artist_type: person
-status: active
-birth_date: '1926-09-23'
-birth_place: Hamlet
-death_date: '1967-07-17'
-genres:
-- jazz
-- hard bop
-- free jazz
-- bebop
-- cool jazz
-- jazz blues
-instruments:
-- alto saxophone
-- tenor saxophone
-- eponymous
-- soprano saxophone
-- saxophone
-- piano
-- spoken vocals
 associated_acts:
 - begin: '1946'
   end: '1946'
@@ -168,26 +146,34 @@ associated_acts:
   - tenor saxophone
   mbid: 29ac7528-400f-4773-a461-0d38f73451e5
   name: John Coltrane Sextet
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/john_coltrane.jpg
-  caption: John Coltrane
-  background: solo_singer
-  born: '1926-09-23'
-  origin: Hamlet
-  died: '1967-07-17'
-audio_profile:
-  tempo_avg: 113.2
-  energy_avg: 0.34
-  valence_avg: 0.432
-  danceability_avg: 0.483
-  acousticness_avg: 0.707
-  instrumentalness_avg: 0.157
-  loudness_avg: -13.3
-  speechiness_avg: 0.052
-  liveness_avg: 0.22
-  track_count: 177
-  computed_at: '2025-12-23T08:16:02.617490'
-similar_artists: []
+biography_enhanced_at: '2026-01-22T06:57:53.240550'
+birth_date: '1926-09-23'
+birth_place: Hamlet
+death_date: '1967-07-17'
+enhancement_provider: perplexity
+entry_created: '2026-01-22T06:57:53.240556'
+external_urls:
+  musicbrainz: https://musicbrainz.org/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+  spotify: https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf
+  wikipedia: ''
+gender: Male
+genres:
+- jazz
+- hard bop
+- free jazz
+- bebop
+- jazz ballads
+- cool jazz
+image_path: 03_Resources/source_material/ArtistPortraits/john_coltrane.jpg
+instruments:
+- alto saxophone
+- tenor saxophone
+- eponymous
+- soprano saxophone
+- saxophone
+- piano
+- spoken vocals
+last_updated: '2026-01-22T06:57:53.240557'
 musical_connections:
   collaborators:
   - Miles Davis
@@ -195,58 +181,34 @@ musical_connections:
   - Elvin Jones
   - Jimmy Garrison
   - Eric Dolphy
-  - Alice Coltrane
   influenced:
-  - Pharoah Sanders
-  - Ravi Coltrane
-  - Michael Brecker
-  - Wayne Shorter
+  - Ornette Coleman
+  - Jimi Hendrix
   - Carlos Santana
   mentors:
+  - Dizzy Gillespie
   - Miles Davis
   - Thelonious Monk
-  - Earl Bostic
-spotify_data:
-  followers: 1821522
-  id: 2hGh5VOeeqimQFxqXvfCUf
-  popularity: 64
-  url: https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf
-discography_enriched: true
-top_tracks:
-- In A Sentimental Mood (Duke Ellington & John Coltrane)
-- Blue in Green (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy Edition))
-- My One And Only Love (John Coltrane And Johnny Hartman)
-- My Little Brown Book (Duke Ellington & John Coltrane)
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Naima - Mono (Giant Steps (Mono))
-- Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- '''Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) (''Round About Midnight)'
-- My Favorite Things (My Favorite Things (Deluxe Edition))
-- I'll Wait and Pray (Coltrane Jazz)
-external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
-  spotify: https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf
-  wikipedia: https://en.wikipedia.org/wiki/John_Coltrane
-image_path: 03_Resources/source_material/ArtistPortraits/john_coltrane.jpg
-biography_enhanced_at: '2025-10-23T07:38:56.630724'
-primary_source: perplexity
-enhancement_provider: perplexity
-research_sources:
-- https://www.britannica.com/biography/John-Coltrane
-- https://en.wikipedia.org/wiki/John_Coltrane
-- https://www.highpointnc.gov/843/John-Coltrane
-- https://coltranejazzfest.com/about-us/john-coltrane-bio/
-- https://www.nationalww2museum.org/war/articles/john-coltrane-world-war-ii-jazz
-- https://www.bluenote.com/artist/john-coltrane/
-network_extracted: true
-entry_created: '2025-10-23T07:38:56.630735'
-last_updated: '2025-12-23T08:16:02.618616'
-gender: Male
 musicbrainz_id: b625448e-bf4a-41c3-a421-72ad46cdb831
+network_extracted: true
+primary_source: perplexity
+research_sources:
+- https://www.bluenote.com/artist/john-coltrane/
+- https://www.johncoltrane.com/biography
+- https://www.britannica.com/biography/John-Coltrane
+- https://northcarolinamusichalloffame.org/inductee-item/john-coltrane/
+- https://www.bso.org/stories/the-everlasting-sound-of-john-coltrane
+spotify_data:
+  followers: 1863700
+  id: 2hGh5VOeeqimQFxqXvfCUf
+  popularity: 68
+  url: https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf
+status: active
 tags:
 - american
 - avant-garde jazz
 - free jazz
+title: John Coltrane
 ---
 
 ![](john_coltrane.jpg)
@@ -254,29 +216,25 @@ tags:
 # John Coltrane
 
 ## Quick Info
-- **Genres**: jazz, hard bop, free jazz, bebop, cool jazz
+- **Genres**: jazz, hard bop, free jazz, bebop, jazz ballads
 - **Instruments**: alto saxophone, tenor saxophone, eponymous, soprano saxophone, saxophone, piano, spoken vocals
-- **Spotify Popularity**: 64/100
-- **Followers**: 1,821,522
+- **Spotify Popularity**: 68/100
+- **Followers**: 1,863,700
 - **Born**: 1926-09-23, Hamlet
 - **Died**: 1967-07-17
 
 ## Biography
-John Coltrane (September 23, 1926 – July 17, 1967) was an American jazz saxophonist, bandleader, and composer, widely regarded as one of the most influential and innovative musicians in jazz history. Born in Hamlet, North Carolina, and raised in High Point, Coltrane was exposed to music early through his family and began playing clarinet and later saxophone during his youth. After graduating high school, he moved to Philadelphia in 1943 to pursue music studies and soon made his professional debut, performing with local bands and eventually joining the U.S. Navy band during World War II.[1][2][3][5]
-
-Coltrane's career developed rapidly in the postwar years as he played with jazz luminaries such as Dizzy Gillespie, Earl Bostic, and Johnny Hodges. His major breakthrough came as a member of Miles Davis's quintet in the mid-1950s, where he contributed to the development of modal jazz, notably on the landmark album 'Kind of Blue.' After overcoming struggles with addiction, Coltrane embarked on a prolific solo career, recording seminal albums such as 'Giant Steps,' 'My Favorite Things,' and the spiritually charged 'A Love Supreme.' His work pushed the boundaries of jazz, incorporating complex harmonies, modal improvisation, and later, the avant-garde elements of free jazz.[1][2][4][6]
-
-Coltrane's legacy extends far beyond his lifetime; he led at least fifty recording sessions and collaborated with many of the era's greatest musicians. His relentless pursuit of innovation and spiritual expression in music has inspired generations of artists across genres. Posthumously, he has received numerous honors, including a special Pulitzer Prize, and remains a towering figure in both jazz and 20th-century music.[2][3]
+John Coltrane was born on September 23, 1926, in Hamlet, North Carolina, into a family shaped by deep faith and music, with his father a preacher and his grandfather a minister. He began playing clarinet as a teenager before switching to saxophone in high school, enlisted in the Navy where he performed with the band in Hawaii from 1945-1946, and after discharge immersed himself in Philadelphia's jazz scene. His early career involved paying dues as a sideman in R&B groups like Eddie 'Cleanhead' Vinson's (1947-1948), Jimmy Heath’s band, Howard McGhee All Stars, and Dizzy Gillespie's big band (1949-1951), switching to tenor sax and taking his first recorded solo in 1951, though heroin addiction led to firings, including from Gillespie in 1954.[1][2][3][4][5]
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](https://www.britannica.com/biography/John-Coltrane), [Source2](https://www.highpointnc.gov/843/John-Coltrane), [Source3](https://coltranejazzfest.com/about-us/john-coltrane-bio/), [Source4](https://www.nationalww2museum.org/war/articles/john-coltrane-world-war-ii-jazz), [Source5](https://www.bluenote.com/artist/john-coltrane/)*
+*Sources: [Source1](https://www.bluenote.com/artist/john-coltrane/), [Source2](https://www.johncoltrane.com/biography), [Source3](https://www.britannica.com/biography/John-Coltrane), [Source4](https://northcarolinamusichalloffame.org/inductee-item/john-coltrane/), [Source5](https://www.bso.org/stories/the-everlasting-sound-of-john-coltrane)*
 
 ## Fun Facts
-- Coltrane's rapid-fire improvisational style was dubbed 'sheets of sound' by critics, reflecting his ability to play dense, cascading runs of notes.[3]
-- He was posthumously canonized as a saint by the African Orthodox Church, a rare honor for a jazz musician.[2]
-- Coltrane's soprano saxophone rendition of 'My Favorite Things' became a commercial hit and a jazz standard, despite being a reimagining of a Broadway tune.[6]
-- He overcame a serious heroin addiction in the late 1950s, which he credited with sparking a spiritual awakening that deeply influenced his later music.[1][4]
+- Coltrane developed his 'sheets of sound' technique in 1957 through relentless practice, slaloming through scalar patterns and harmonic stacks, as coined by critic Ira Gitler.[2]
+- His 1957 Blue Train album, recorded for Blue Note with peers like Johnny Splawn and Sahib Shihab, is hailed as one of the greatest jazz records ever.[1]
+- Coltrane kicked his heroin habit around 1957 after firings, including from Miles Davis, which freed him to record prolifically as a leader starting May 31, 1957.[1]
+- He viewed music as a spiritual force for good, stating: 'I want to be the force which is truly for good,' aligning his work with civil rights era consciousness.[2][4][5]
 
 ## Associated Acts
 - [[dexter_culbertsons_u.s._navy_band|Dexter Culbertson's U.S. Navy Band]] - alto saxophone (1946–1946)
@@ -306,59 +264,24 @@ Coltrane's legacy extends far beyond his lifetime; he led at least fifty recordi
 ## Musical Connections
 
 ### Mentors/Influences
-- [[miles_davis|Miles Davis]] - Band leader and stylistic influence; Coltrane played in Davis's quintet and learned modal jazz approaches. (Kind of Blue, Milestones) [1955-1960]
-- [[thelonious_monk|Thelonious Monk]] - Band leader and harmonic mentor; Coltrane played in Monk's quartet and absorbed advanced harmonic concepts. (Thelonious Monk with John Coltrane (album), live performances) [1957]
-- [[earl_bostic|Earl Bostic]] - Early employer and technical influence; Coltrane played in Bostic's band and learned about saxophone technique. (Touring and recordings as sideman) [late 1940s]
+- [[dizzy_gillespie|Dizzy Gillespie]] - big band leader who taught Coltrane tenor sax techniques ("We Love to Boogie" (1951 solo debut)) [1949-1951]
+- [[miles_davis|Miles Davis]] - bandleader who provided key break and exposure (First Great Quintet, Kind of Blue) [1955-1960]
+- [[thelonious_monk|Thelonious Monk]] - piano mentor during sideman period (various 1957 sessions) [1957]
 
 ### Key Collaborators
-- [[miles_davis|Miles Davis]] - Bandmate; Coltrane was tenor saxophonist in Davis's quintet and sextet. (Kind of Blue, Milestones, Round About Midnight) [1955-1960]
-- [[mccoy_tyner|McCoy Tyner]] - Pianist in the classic John Coltrane Quartet. (A Love Supreme, My Favorite Things, Crescent) [1960-1965]
-- [[elvin_jones|Elvin Jones]] - Drummer in the classic John Coltrane Quartet. (A Love Supreme, Impressions, Crescent) [1960-1965]
-- [[jimmy_garrison|Jimmy Garrison]] - Bassist in the classic John Coltrane Quartet. (A Love Supreme, Crescent, Live at Birdland) [1961-1965]
-- [[eric_dolphy|Eric Dolphy]] - Multi-instrumentalist and frequent collaborator in Coltrane's early 1960s groups. (Live at the Village Vanguard, Olé Coltrane) [1961-1962]
-- [[alice_coltrane|Alice Coltrane]] - Second wife and pianist in Coltrane's later ensembles. (Expression, Stellar Regions) [1966-1967]
+- [[miles_davis|Miles Davis]] - quintet leader (Kind of Blue, Columbia recordings) [1955-1957, 1958-1960]
+- [[mccoy_tyner|McCoy Tyner]] - pianist in Classic Quartet (My Favorite Things, Impulse albums) [1960-1967]
+- [[elvin_jones|Elvin Jones]] - drummer in Classic Quartet (A Love Supreme) [1960-1967]
+- [[jimmy_garrison|Jimmy Garrison]] - bassist in Classic Quartet (mode-based improvisations) [1961-1967]
+- [[eric_dolphy|Eric Dolphy]] - saxophonist/flutist in quintet (early Impulse quintet recordings) [1961]
 
 ### Artists Influenced
-- [[pharoah_sanders|Pharoah Sanders]] - Coltrane mentored and featured Sanders in his late-period groups; Sanders continued Coltrane's free jazz innovations. (Ascension, Meditations) [mid-1960s]
-- [[ravi_coltrane|Ravi Coltrane]] - Coltrane's son, inspired by his father's legacy and musical approach. (Ravi Coltrane's solo albums) [1990s-present]
-- [[michael_brecker|Michael Brecker]] - Cited Coltrane as a primary influence on his saxophone style and improvisational approach. (Brecker's solo and group work) [1970s-2000s]
-- [[wayne_shorter|Wayne Shorter]] - Inspired by Coltrane's harmonic and modal innovations. (Shorter's work with Miles Davis and Weather Report) [1960s-2010s]
-- [[carlos_santana|Carlos Santana]] - Rock guitarist influenced by Coltrane's spiritual and modal explorations. (Santana's fusion albums) [1970s-present]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| Duke Ellington & John Coltrane | 1963-02 | Album |
-| John Coltrane And Johnny Hartman | 1963-01-01 | Album |
-| Kind Of Blue | 1959-08-17 | Album |
-| Giant Steps (Mono) | 1960 | Album |
-| My Favorite Things (Deluxe Edition) | 1961 | Album |
-| A Love Supreme | 1965-02 | Album |
-| Coltrane Jazz | 1961-02 | Album |
-| Blue Train | 1957-11-01 | Album |
-| Coltrane's Sound | 1964-06 | Album |
-| Blue Train (Expanded Edition) | 1958 | Album |
-| Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster] | 2020-09-18 | Album |
-| My Favorite Things | 1961 | Album |
-| Tenor Madness | 1956 | Album |
-
-### Top Tracks
-1. In A Sentimental Mood (Duke Ellington & John Coltrane)
-2. Blue in Green (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy Edition))
-3. My One And Only Love (John Coltrane And Johnny Hartman)
-4. My Little Brown Book (Duke Ellington & John Coltrane)
-5. So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-6. Naima - Mono (Giant Steps (Mono))
-7. Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-8. 'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) ('Round About Midnight)
-9. My Favorite Things (My Favorite Things (Deluxe Edition))
-10. I'll Wait and Pray (Coltrane Jazz)
+- [[ornette_coleman|Ornette Coleman]] - inspired Coltrane's shift to avant-garde (modal and free jazz explorations post-1959) [late 1950s-1960s]
+- [[jimi_hendrix|Jimi Hendrix]] - rock guitarist citing Coltrane as foundational inspiration (psychedelic rock innovations) [1960s]
+- [[carlos_santana|Carlos Santana]] - rock artist influenced by Coltrane's spiritual sound (fusion jazz-rock) [1960s onward]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf)
-- [Wikipedia](https://en.wikipedia.org/wiki/John_Coltrane)
 - [MusicBrainz](https://musicbrainz.org/artist/b625448e-bf4a-41c3-a421-72ad46cdb831)
 
 ---

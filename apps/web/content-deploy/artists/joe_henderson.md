@@ -1,22 +1,5 @@
 ---
-title: Joe Henderson
-wiki_slug: joe-henderson
-schema_version: 2
 artist_type: person
-status: active
-birth_date: '1937-04-24'
-birth_place: Lima
-death_date: '2001-06-30'
-genres:
-- hard bop
-- jazz
-- bebop
-- free jazz
-- cool jazz
-instruments:
-- tenor saxophone
-- original
-- saxophone
 associated_acts:
 - begin: '1972'
   end: '1972'
@@ -62,115 +45,97 @@ associated_acts:
   - tenor saxophone
   mbid: 94bf8694-2e38-4e60-bad3-3a8aedfe589b
   name: Frank Morgan All Stars
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/joe_henderson.jpg
-  caption: Joe Henderson
-  background: non_vocal_instrumentalist
-  born: '1937-04-24'
-  origin: Lima
-  died: '2001-06-30'
-audio_profile:
-  tempo_avg: 110.5
-  energy_avg: 0.418
-  valence_avg: 0.477
-  danceability_avg: 0.464
-  acousticness_avg: 0.587
-  instrumentalness_avg: 0.302
-  loudness_avg: -13.8
-  speechiness_avg: 0.053
-  liveness_avg: 0.188
-  track_count: 75
-  computed_at: '2025-12-23T08:16:10.599772'
-similar_artists: []
-musical_connections:
-  collaborators:
-  - Kenny Dorham
-  - Horace Silver
-  - Herbie Hancock
-  - Lee Morgan
-  - Andrew Hill
-  - Freddie Hubbard
-  influenced:
-  - Joshua Redman
-  - Mark Turner
-  - Chris Potter
-  mentors:
-  - Barry Harris
-  - Larry Teal
-  - Sonny Rollins
-  - John Coltrane
-spotify_data:
-  followers: 140365
-  id: 3BG0nwVh3Gc7cuT4XdsLtt
-  popularity: 42
-  url: https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt
-discography_enriched: true
-top_tracks:
-- Blue Bossa - Remastered (Page One)
-- Felicidade (Double Rainbow)
-- Inner Urge - Remastered 2004/Rudy Van Gelder Edition (Inner Urge (The Rudy Van Gelder Edition))
-- Recorda Me (Page One)
-- Tetragon (Tetragon)
-- Earth (The Elements)
-- Round Midnight (The Standard Joe)
-- Black Narcissus (Power To The People [Keepnews Collection] (Remastered))
-- Lazy Afternoon (Ballads)
-- La Mesha (Page One)
+biography_enhanced_at: '2026-01-22T07:22:02.531786'
+birth_date: '1937-04-24'
+birth_place: Lima
+death_date: '2001-06-30'
+disambiguation: US jazz tenor saxophonist
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:22:02.531794'
 external_urls:
   musicbrainz: https://musicbrainz.org/artist/bcab8301-c7e5-4689-a4ad-9ee947b4ce37
   spotify: https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt
   wikipedia: https://en.wikipedia.org/wiki/Joe_Henderson
-image_path: 03_Resources/source_material/ArtistPortraits/joe_henderson.jpg
-biography_enhanced_at: '2025-11-14T10:42:08.844152'
-primary_source: perplexity
-enhancement_provider: perplexity
-research_sources:
-- https://en.wikipedia.org/wiki/Joe_Henderson
-- https://www.arts.gov/honors/jazz/joe-henderson
-- https://arkadiarecords.com/joe-henderson-jazz-improviser/
-- https://newyorkjazzworkshop.com/joe-henderson/
-- https://www.bluenote.com/artist/joe-henderson/
-- https://jazzizdiscovery.com/joe-henderson-blue-bossa/
-network_extracted: true
-entry_created: '2025-11-14T10:42:08.844162'
-last_updated: '2025-12-23T08:16:10.600214'
-disambiguation: US jazz tenor saxophonist
 gender: Male
+genres:
+- hard bop
+- jazz
+- jazz ballads
+- bebop
+- free jazz
+- cool jazz
+image_path: 03_Resources/source_material/ArtistPortraits/joe_henderson.jpg
+instruments:
+- tenor saxophone
+- original
+- saxophone
+last_updated: '2026-01-22T07:22:02.531795'
+musical_connections:
+  collaborators:
+  - Horace Silver
+  - Andrew Hill
+  - Lee Morgan
+  - Grant Green
+  - Herbie Hancock
+  - Pete La Roca
+  - Blood, Sweat & Tears
+  - Dexter Gordon
+  influenced:
+  - San Francisco Jazz Community
+  mentors:
+  - Larry Teal
+  - Kenny Dorham
+  - Lester Young
 musicbrainz_id: bcab8301-c7e5-4689-a4ad-9ee947b4ce37
+network_extracted: true
+primary_source: perplexity
+research_sources:
+- https://www.allaboutjazz.com/musicians/joe-henderson/
+- https://en.wikipedia.org/wiki/Joe_Henderson
+- https://newyorkjazzworkshop.com/joe-henderson/
+- https://www.selmer.fr/en/blogs/artistes/joe-henderson
+- https://www.bluenote.com/artist/joe-henderson/
+spotify_data:
+  followers: 142622
+  id: 3BG0nwVh3Gc7cuT4XdsLtt
+  popularity: 43
+  url: https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt
+status: active
 tags:
 - avant-garde jazz
 - hard bop
 - jazz
+title: joe henderson
 ---
 
 ![](joe_henderson.jpg)
 
-# Joe Henderson
+# joe henderson
 
 ## Quick Info
-- **Genres**: hard bop, jazz, bebop, free jazz, cool jazz
+- **Genres**: hard bop, jazz, jazz ballads, bebop, free jazz
 - **Instruments**: tenor saxophone, original, saxophone
-- **Spotify Popularity**: 42/100
-- **Followers**: 140,365
+- **Spotify Popularity**: 43/100
+- **Followers**: 142,622
 - **Born**: 1937-04-24, Lima
 - **Died**: 2001-06-30
 
 ## Biography
-Joe Henderson (April 24, 1937 – June 30, 2001) was an influential American jazz tenor saxophonist whose career spanned over four decades. Born in Lima, Ohio, Henderson grew up in a large family and began his musical journey on drums before switching to tenor saxophone at age 13. He studied at Kentucky State College and Wayne State University in Detroit, where he became deeply involved in the local jazz scene, arranging for bands and playing with future jazz luminaries. After a stint in the Army (1960–1962), where he played in the Army band, Henderson moved to New York City and quickly established himself as a leading voice in jazz.
+Joe Henderson was born on April 24, 1937, in Lima, Ohio, into a family of fifteen children.[4] He began playing saxophone at age eight, encouraged by his older brother who admired Lester Young.[4] A high school music teacher introduced him to the tenor saxophone, and by high school he was already involved in arranging for bands.[3] Henderson attended Kentucky State College before moving to Detroit in 1956 to study at Wayne State University, where he developed his skills under renowned teacher Larry Teal and studied alongside future jazz greats Yusef Lateef, Donald Byrd, and Barry Harris.[2][4] By age 18, he was active on the Detroit jazz scene, playing in jam sessions with visiting New York City stars and transcribing so many Lester Young solos that his professors believed he had perfect pitch.[2]
 
-Henderson's debut as a leader, 'Page One' (1963), was a landmark Blue Note release and set the stage for a prolific recording career both as a leader and sideman. He became known for his technical mastery, unique tone, and versatility, moving fluidly between hard bop, bebop, free jazz, and fusion. Henderson collaborated with major figures like Horace Silver, Kenny Dorham, Herbie Hancock, and Lee Morgan, contributing to classic albums such as Silver’s 'Song for My Father' and Morgan’s 'The Sidewinder.' In the 1970s and 1980s, he recorded extensively for Milestone and later experienced a resurgence in the 1990s with acclaimed Verve albums that reinterpreted the works of Billy Strayhorn, Miles Davis, and Antonio Carlos Jobim.
+After enlisting in the US Army from 1960 to 1962, where he led several jazz groups and toured Europe and Japan,[1] Henderson moved to New York and quickly established himself as a leading voice in jazz. He met trumpeter Kenny Dorham at Birdland while sitting in with Dexter Gordon, and Dorham championed him and arranged his first recording session as a leader.[1][2] This resulted in *Page One* (1963), which remains one of his most critically acclaimed albums and spawned the jazz standard "Blue Bossa."[1] During the 1960s, Henderson became a prolific session musician for Blue Note Records, appearing on close to thirty albums as a valued sideman on landmark recordings including Horace Silver's *Song for My Father*, Lee Morgan's *The Sidewinder*, Grant Green's *Idle Moments*, and Herbie Hancock's *The Prisoner*.[2][6]
 
-Henderson’s legacy is marked by his innovative improvisational style, compositional skill, and lasting influence on generations of saxophonists. His sound, shaped by the influences of Sonny Rollins and John Coltrane, was both aggressive and lyrical, and he was celebrated for his ability to blend tradition with modernity. Even after suffering a stroke in 1998, his recordings and arrangements continued to inspire jazz musicians worldwide.
+From 1967 to 1979, Henderson recorded primarily for Milestone Records, occasionally recording for Verve and other labels.[1] After a brief association with Blood, Sweat & Tears in 1971, he moved to San Francisco to be near his label and taught at the San Francisco Conservatory of Music from 1978 to 1982.[2] In the 1980s, he focused increasingly on reinterpreting standards and his own earlier compositions, establishing a signature repertoire that included Thelonious Monk's "Ask Me Now" as a ballad feature.[2] Henderson's career spanned more than four decades, and his flawless technique, lyricism, unique tone, and compositional skills made him a jazz legend.[4] He died on June 30, 2001.[2]
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](https://www.arts.gov/honors/jazz/joe-henderson), [Source2](https://arkadiarecords.com/joe-henderson-jazz-improviser/), [Source3](https://newyorkjazzworkshop.com/joe-henderson/), [Source4](https://www.bluenote.com/artist/joe-henderson/), [Source5](https://jazzizdiscovery.com/joe-henderson-blue-bossa/)*
+*Sources: [Source1](https://www.allaboutjazz.com/musicians/joe-henderson/), [Source2](https://newyorkjazzworkshop.com/joe-henderson/), [Source3](https://www.selmer.fr/en/blogs/artistes/joe-henderson), [Source4](https://www.bluenote.com/artist/joe-henderson/)*
 
 ## Fun Facts
-- Henderson was one of 15 children in his family and began arranging for bands while still in high school.
-- He played a seminal solo on Horace Silver’s hit 'Song for My Father,' which became one of the most recognizable saxophone solos in jazz.
-- Henderson briefly joined the pop band Blood, Sweat & Tears in 1971 before returning to jazz.
-- His 1990s Verve albums, including 'Lush Life: The Music of Billy Strayhorn,' won multiple Grammy Awards and revitalized his career late in life.
+- Henderson was born into a family of fifteen children and began playing saxophone at age eight, encouraged by his older brother who was a devoted admirer of Lester Young.[4]
+- During his military service from 1960-1962, Henderson led several jazz groups and was sent on a tour to entertain troops throughout Japan and Europe, where he met expatriate musicians.[1]
+- Henderson transcribed and memorized so many Lester Young solos during his college years that his Wayne State University professors believed he possessed perfect pitch.[2]
+- His debut album as a leader, *Page One* (1963), spawned the now-standard jazz composition "Blue Bossa" and remains one of his most critically acclaimed recordings to this day.[1]
 
 ## Associated Acts
 - [[blood_sweat_and_tears|Blood, Sweat & Tears]] - tenor saxophone (1972–1972)
@@ -184,56 +149,22 @@ Henderson’s legacy is marked by his innovative improvisational style, composit
 ## Musical Connections
 
 ### Mentors/Influences
-- [[barry_harris|Barry Harris]] - Private teacher and mentor during Detroit years; helped develop Henderson’s improvisational skills. (Private study, Detroit jazz scene collaborations) [Late 1950s]
-- [[larry_teal|Larry Teal]] - Saxophone and composition teacher at Wayne State University’s Teal School of Music. (Formal study at Wayne State) [1956–1960]
-- [[sonny_rollins|Sonny Rollins]] - Stylistic influence; Henderson fused Rollins’ approach with his own style. (Influence evident throughout Henderson’s career) [1960s onward]
-- [[john_coltrane|John Coltrane]] - Major stylistic influence, especially in modal and free jazz approaches. (Influence on improvisational style) [1960s onward]
+- [[larry_teal|Larry Teal]] - Renowned teacher at the Teal School of Music who guided Henderson's saxophone and compositional development (Private instruction in saxophone technique and composition) [Mid-1950s at Wayne State University]
+- [[kenny_dorham|Kenny Dorham]] - Veteran bop trumpeter who was impressed by Henderson's musicianship, championed him, and arranged his first recording session as a leader (Page One (1963), co-led big band with Henderson) [1962-1963 and beyond]
+- [[lester_young|Lester Young]] - Primary stylistic influence; Henderson transcribed and memorized so many of Young's solos that professors believed he had perfect pitch (Transcribed solos) [1950s during studies]
 
 ### Key Collaborators
-- [[kenny_dorham|Kenny Dorham]] - Frequent collaborator; co-led bands and recorded together. (Page One, Una Mas, Trompeta Toccata) [1962–1964]
-- [[horace_silver|Horace Silver]] - Band member; recorded and toured together. (Song for My Father, The Cape Verdean Blues) [1964–1966]
-- [[herbie_hancock|Herbie Hancock]] - Member of Hancock’s Sextet and recorded together. (The Prisoner, Sextet recordings) [1969–1970]
-- [[lee_morgan|Lee Morgan]] - Sideman on classic Blue Note sessions. (The Sidewinder) [1963–1964]
-- [[andrew_hill|Andrew Hill]] - Collaborated on avant-garde Blue Note albums. (Black Fire, Point of Departure) [1963–1964]
-- [[freddie_hubbard|Freddie Hubbard]] - Cooperative band Jazz Communicators and other collaborations. (Jazz Communicators, various recordings) [Late 1960s]
+- [[horace_silver|Horace Silver]] - Henderson joined Silver's band and provided seminal solo on the jukebox hit (Song for My Father, The Cape Verdean Blues) [Mid-1960s]
+- [[andrew_hill|Andrew Hill]] - Co-led 'out' albums featuring avant-garde jazz exploration (Black Fire (1963), Point of Departure (1964)) [1963-1964]
+- [[lee_morgan|Lee Morgan]] - Collaborated on landmark hard bop recording (The Sidewinder) [1963]
+- [[grant_green|Grant Green]] - Session collaboration on soul jazz classic (Idle Moments) [1960s]
+- [[herbie_hancock|Herbie Hancock]] - Session collaboration on experimental recording (The Prisoner) [1960s]
+- [[pete_la_roca|Pete La Roca]] - Collaborated on avant-garde recording (Basra (1965)) [1965]
+- [[blood_sweat_and_tears|Blood, Sweat & Tears]] - Brief membership in jazz-rock group (Band recordings) [1971]
+- [[dexter_gordon|Dexter Gordon]] - Early collaborator; Henderson sat in with Gordon at Birdland, leading to his introduction to Kenny Dorham (Jam sessions at Birdland) [Early 1960s]
 
 ### Artists Influenced
-- [[joshua_redman|Joshua Redman]] - Cites Henderson as a major influence on his saxophone sound and approach. (Redman’s Blue Note and Warner Bros. albums) [1990s–present]
-- [[mark_turner|Mark Turner]] - Influenced by Henderson’s harmonic language and improvisational style. (Mark Turner Quartet, Fly) [1990s–present]
-- [[chris_potter|Chris Potter]] - Acknowledges Henderson’s impact on modern tenor saxophone playing. (Multiple solo and sideman projects) [1990s–present]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| Page One | 1963-10-01 | Album |
-| Double Rainbow | 1995-03-02 | Album |
-| Inner Urge (The Rudy Van Gelder Edition) | 1966-03-01 | Album |
-| Tetragon | 1968 | Album |
-| The Elements | 1974-01-01 | Album |
-| Power To The People [Keepnews Collection] (Remastered) | 1969 | Album |
-| The Standard Joe | 1991 | Album |
-| Multiple (Remastered 2025) | 2025-03-07 | Album |
-| Ballads | 1997-07-01 | Album |
-| Lush Life: The Music of Billy Strayhorn | 1992-02-18 | Album |
-| Forces of Nature: Live at Slugs' | 2024-11-22 | Album |
-| In 'n Out (The Rudy Van Gelder Edition) | 1965-01-01 | Album |
-| Mode For Joe (Rudy Van Gelder Edition) | 1966-09-01 | Album |
-| Power To The People (Remastered 2024) | 2024-03-15 | Album |
-| Big Band | 1996-10-16 | Album |
-
-### Top Tracks
-1. Blue Bossa - Remastered (Page One)
-2. Felicidade (Double Rainbow)
-3. Inner Urge - Remastered 2004/Rudy Van Gelder Edition (Inner Urge (The Rudy Van Gelder Edition))
-4. Recorda Me (Page One)
-5. Tetragon (Tetragon)
-6. Earth (The Elements)
-7. Round Midnight (The Standard Joe)
-8. Black Narcissus (Power To The People [Keepnews Collection] (Remastered))
-9. Lazy Afternoon (Ballads)
-10. La Mesha (Page One)
+- [[san_francisco_jazz_community|San Francisco Jazz Community]] - Taught at San Francisco Conservatory of Music, influencing the next generation of jazz musicians (Teaching and mentorship) [1978-1982]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt)

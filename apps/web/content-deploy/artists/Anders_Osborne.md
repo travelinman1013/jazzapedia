@@ -1,91 +1,67 @@
 ---
-title: Anders Osborne
-wiki_slug: anders-osborne
-schema_version: 2
 artist_type: person
-status: active
+biography_enhanced_at: '2026-01-22T07:12:21.631096'
 birth_date: '1966-05-04'
 birth_place: Uddevalla
+disambiguation: US singer-songwriter
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:12:21.631101'
+external_urls:
+  musicbrainz: https://musicbrainz.org/artist/96fa47fc-6175-45c9-9686-7a3362671137
+  spotify: https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888
+  wikipedia: Not found in search results
+gender: Male
 genres:
-- blues rock
 - modern blues
-- roots rock
+- jam band
+- blues rock
+image_path: 03_Resources/source_material/ArtistPortraits/anders_osborne.jpg
 instruments:
 - guitar
 - piano
 - background vocals
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/anders_osborne.jpg
-  caption: Anders Osborne
-  background: solo_singer
-  born: '1966-05-04'
-  origin: Uddevalla
-audio_profile:
-  tempo_avg: 123.5
-  energy_avg: 0.553
-  valence_avg: 0.559
-  danceability_avg: 0.58
-  acousticness_avg: 0.349
-  instrumentalness_avg: 0.038
-  loudness_avg: -8.9
-  speechiness_avg: 0.05
-  liveness_avg: 0.148
-  track_count: 62
-  computed_at: '2025-12-23T08:16:01.000607'
-similar_artists: []
+last_updated: '2026-01-22T07:12:21.631102'
 musical_connections:
   collaborators:
-  - North Mississippi All Stars
-  - Keb' Mo'
-  - Tim McGraw
+  - Keb Mo
+  - Warren Haynes
+  - Derek Trucks
+  - Phil Lesh (The Grateful Dead)
   - Steve Earle
-  - Waddy Wachtel, Chad Cromwell, Bob Glaub
-  - Toots and the Maytals, John Scofield, The Meters, Derek Trucks, Warren Haynes, Stanton Moore, Phil Lesh, Jackie Greene,
-    Bonnie Raitt, Taj Mahal
+  - Ivan Neville
+  - Warren Riker
   influenced:
-  - Trombone Shorty
+  - Tim McGraw
+  - Brad Paisley
+  - Tab Benoit
+  - Jonny Lang
+  - Kim Carnes
+  - Aaron Neville
   mentors:
   - Joni Mitchell
-  - Dr. John
-spotify_data:
-  followers: 65411
-  id: 3WUUtA45g7X0jbeywZz888
-  popularity: 40
-  url: https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888
-discography_enriched: true
-top_tracks:
-- Marmalade
-- Life Don't Last That Long (Spacedust & Ocean Views)
-- Got Your Heart (American Patchwork)
-- I'm Ready (Peace)
-- Lean On Me/Believe In You (Black Eye Galaxy)
-- Meet Me In New Mexico (American Patchwork)
-- Fools Gold (Flower Box)
-- Windows (Peace)
-- Mind Of A Junkie (Black Eye Galaxy)
-- Echoes Of My Sins (American Patchwork)
-external_urls:
-  musicbrainz: https://musicbrainz.org/artist/96fa47fc-6175-45c9-9686-7a3362671137
-  spotify: https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888
-  wikipedia: https://en.wikipedia.org/wiki/Anders_Osborne
-image_path: 03_Resources/source_material/ArtistPortraits/anders_osborne.jpg
-biography_enhanced_at: '2025-10-23T07:35:11.515085'
-primary_source: perplexity
-enhancement_provider: perplexity
-research_sources:
-- https://www.andersosborne.com/about
-- https://aspenchamber.org/events/anders-osborne
-- https://www.manshiptheatre.org/show/anders-osborne
-network_extracted: true
-entry_created: '2025-10-23T07:35:11.515099'
-last_updated: '2025-12-23T08:16:01.001009'
-disambiguation: US singer-songwriter
-gender: Male
 musicbrainz_id: 96fa47fc-6175-45c9-9686-7a3362671137
+network_extracted: true
+primary_source: perplexity
+research_sources:
+- https://www.last.fm/music/Anders+Osborne/+wiki
+- https://www.alligator.com/artists/Anders-Osborne/
+- https://www.andersosborne.com/about
+- https://www.nysbluesfest.com/artist-profile-anders-osborne/
+- https://antigravitymagazine.com/feature/breaking-the-fence-with-anders-osborne/
+- https://www.neworleans.com/listing/anders-osborne/47805/
+- https://www.jango.com/music/Anders+Osborne/_full_bio
+- https://justapedia.org/wiki/Anders_Osborne
+spotify_data:
+  followers: 66323
+  id: 3WUUtA45g7X0jbeywZz888
+  popularity: 42
+  url: https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888
+status: active
 tags:
 - blues
 - rhythm and blues
 - rock
+title: Anders Osborne
 ---
 
 ![](anders_osborne.jpg)
@@ -93,80 +69,54 @@ tags:
 # Anders Osborne
 
 ## Quick Info
-- **Genres**: modern blues, blues rock
+- **Genres**: modern blues, jam band, blues rock
 - **Instruments**: guitar, piano, background vocals
-- **Spotify Popularity**: 40/100
-- **Followers**: 65,411
+- **Spotify Popularity**: 42/100
+- **Followers**: 66,323
 - **Born**: 1966-05-04, Uddevalla
 
 ## Biography
-Anders Osborne, born in 1966 in Uddevalla, Sweden, displayed a passion for music and poetry from an early age, drawing inspiration from a diverse range of artists including Vivaldi, Chopin, Black Sabbath, Robert Johnson, Joni Mitchell, Van Morrison, John Coltrane, and Bob Marley. His early musical explorations led him to experiment with open D tuning, a technique he first encountered on Joni Mitchell's 'Blue,' which became a signature element of his guitar style. In his late teens, Osborne traveled throughout Europe, and at nineteen, he visited New Orleans—a city whose vibrant musical culture captivated him so deeply that he decided to stay permanently[1][2][3].
+Anders Osborne was born on May 4, 1966, in Uddevalla, Sweden, and became a Swedish-born American singer, songwriter, and guitarist who has established himself as one of New Orleans' most respected and original musical artists. At age 16, he left Sweden with a passion for music and wanderlust, traveling throughout Europe, North Africa, the Middle East, and Asia before arriving in New Orleans in 1986 at age 19. Inspired by blues as a unifying thread connecting rock, R&B, jazz, and singer-songwriter traditions, he adopted open D tuning after hearing it on Joni Mitchell's *Blue*, which became his signature guitar sound. He settled permanently in New Orleans, where he released his debut album *Doin' Fine* in 1989 and has since written virtually all of his own material while becoming deeply embedded in the city's vibrant music community.
 
-Osborne released his debut album 'Doin’ Fine' in 1989, writing nearly all of his material and quickly establishing himself as a prolific songwriter. Over the decades, he became a fixture in the New Orleans music scene, celebrated for his blend of modern blues, blues rock, folk, and singer-songwriter traditions. His songs have been recorded by a wide array of artists, including Keb' Mo', Tim McGraw, Brad Paisley, Aaron Neville, and Trombone Shorty. Osborne's live performances are renowned for their emotional intensity and dynamic range, balancing heavy, rock-influenced sounds with introspective, lyrical songwriting. He has been honored as Entertainer of the Year by Gambit Weekly, named Best Guitarist three times and Best Songwriter twice by OffBeat, and has performed at the New Orleans Jazz & Heritage Festival for over 35 years[1][2][3].
+Osborne's career reached new heights with his 2010 Alligator Records debut and 2012 follow-up *American Patchwork*, which earned him widespread critical acclaim and a devoted fanbase. His songwriting prowess extended beyond his own recordings—Tim McGraw scored a number-one country hit with Osborne's composition "Watch The Wind Blow By," and two songs co-written with Keb Mo appeared on Mo's Grammy-winning 1999 album *Slow Down*. His compositions have been covered by diverse artists including Brad Paisley, Tab Benoit, Jonny Lang, Kim Carnes, and Aaron Neville. Over nearly four decades in New Orleans, Osborne has earned recognition as *Guitar Player* magazine's "poet laureate of Louisiana's fertile roots music scene" and received multiple accolades from local publications, including *OffBeat* magazine naming him Best Guitarist three times and Best Songwriter twice, while *Gambit Weekly* honored him as Entertainer of the Year.
 
-Osborne's legacy is deeply intertwined with the New Orleans musical community, where he is regarded as a 'poet laureate' of Louisiana's roots music. Beyond his solo work, he has collaborated with a host of notable musicians and bands, and his influence extends to both peers and younger generations of artists. His personal journey, including his commitment to sobriety and meditation, has also shaped his music and public persona, making him a respected figure both on and off the stage[1][3].
+Beyond performance and recording, Osborne has become a cultural ambassador for New Orleans music, appearing at Jazz Fest for 35 years, teaching a course on art and the music business at Tulane University, and collaborating with Steve Earle at the annual Camp Copperhead songwriting camp since 2019. He has also contributed to film and television, including writing and recording the title track for the 2010 Kate Hudson film *Earthbound* and appearing in HBO's New Orleans-based drama *Treme*. His commitment to community extends to work with the "Send Me A Friend" foundation, the New Orleans Children's Museum, and various charitable organizations including the Trombone Shorty Foundation.
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](https://www.andersosborne.com/about), [Source2](https://aspenchamber.org/events/anders-osborne), [Source3](https://www.manshiptheatre.org/show/anders-osborne)*
+*Sources: [Source1](https://www.last.fm/music/Anders+Osborne/+wiki), [Source2](https://www.alligator.com/artists/Anders-Osborne/), [Source3](https://www.andersosborne.com/about), [Source4](https://www.nysbluesfest.com/artist-profile-anders-osborne/), [Source5](https://antigravitymagazine.com/feature/breaking-the-fence-with-anders-osborne/), [Source6](https://www.neworleans.com/listing/anders-osborne/47805/), [Source7](https://www.jango.com/music/Anders+Osborne/_full_bio), [Source8](https://justapedia.org/wiki/Anders_Osborne)*
 
 ## Fun Facts
-- Osborne is also a prolific painter, and his visual art often parallels themes in his music[1].
-- He has maintained sobriety for over fifteen years, crediting meditation and prayer as central to his well-being and creativity[1].
-- Osborne appeared as himself in an episode of the HBO series 'Treme,' which is set in post-Katrina New Orleans[1].
-- He has taught a course on art and the music business at Tulane University[1].
+- Osborne arrived in New Orleans in 1985 with only five dollars in his pocket after hitchhiking from New York, and immediately knew he had found his home when he experienced the city's music and culture firsthand.
+- He discovered his signature open D guitar tuning after hearing it on Joni Mitchell's album *Blue*, and his fingers naturally fit the tuning, becoming a defining characteristic of his musical style.
+- At age 16, Osborne left Sweden alone to travel the world, journeying through Europe, North Africa, the Middle East, and Asia before eventually settling in New Orleans at age 19.
+- Osborne has appeared at the New Orleans Jazz Fest for 35 consecutive years and continues to perform there, making him a fixture of the festival's musical legacy.
 
 ## Musical Connections
 
 ### Mentors/Influences
-- [[joni_mitchell|Joni Mitchell]] - Inspired Osborne's use of open D tuning and songwriting approach (Blue (album)) [Early career, 1980s]
-- [[dr._john|Dr. John]] - Friend and influential New Orleans musician; subject of Osborne's tribute 'Le Grand Zombie' (Le Grand Zombie (song)) [1990s–2019]
+- [[joni_mitchell|Joni Mitchell]] - Musical inspiration for guitar tuning technique (Album 'Blue' - inspired Osborne's adoption of open D tuning) [Late 1970s-1980s (formative years)]
 
 ### Key Collaborators
-- [[north_mississippi_all_stars|North Mississippi All Stars]] - Recorded and toured together (Freedom and Dreams (2015 album)) [2015]
-- [[keb_mo|Keb' Mo']] - Co-wrote songs for Keb' Mo's Grammy-winning album (Slow Down (album)) [1998]
-- [[tim_mcgraw|Tim McGraw]] - Co-wrote the hit 'Watch The Wind Blow By' (Watch The Wind Blow By (song)) [2004]
-- [[steve_earle|Steve Earle]] - Songwriting collaboration and teaching at Camp Copperhead (Camp Copperhead songwriting camp) [2019–present]
-- [[waddy_wachtel_chad_cromwell_bob_glaub|Waddy Wachtel, Chad Cromwell, Bob Glaub]] - Session musicians on Osborne's albums (Picasso’s Villa (album)) [2020s]
-- [[toots_and_the_maytals_john_scofield_the_meters_derek_trucks_warren_haynes_stanton_moore_phil_lesh_jackie_greene_bonnie_raitt_taj_mahal|Toots and the Maytals, John Scofield, The Meters, Derek Trucks, Warren Haynes, Stanton Moore, Phil Lesh, Jackie Greene, Bonnie Raitt, Taj Mahal]] - Live and studio collaborations (Various performances and recordings) [1990s–present]
+- [[keb_mo|Keb Mo]] - Co-writer and frequent musical partner (Two songs co-written for Keb Mo's Grammy-winning album 'Slow Down' (1999)) [1999 onwards]
+- [[warren_haynes|Warren Haynes]] - Guest performance and touring collaborator (Various tours and performances) [2000s onwards]
+- [[derek_trucks|Derek Trucks]] - Guest performance and touring collaborator (Various tours and performances) [2000s onwards]
+- [[phil_lesh_the_grateful_dead|Phil Lesh (The Grateful Dead)]] - Guest performance and touring collaborator (Various tours and performances) [2000s onwards]
+- [[steve_earle|Steve Earle]] - Annual songwriting camp collaborator (Camp Copperhead songwriting camp) [2019 onwards]
+- [[ivan_neville|Ivan Neville]] - Co-writer for film soundtrack (Title track for 2010 film 'Earthbound') [2010]
+- [[warren_riker|Warren Riker]] - Producer and collaborator (Album production) [2010s]
 
 ### Artists Influenced
-- [[trombone_shorty|Trombone Shorty]] - Recorded Osborne's songs; part of New Orleans music community shaped by Osborne (Various recordings) [2000s–present]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| American Patchwork | 2010-04-27 | Album |
-| Peace | 2013-10-01 | Album |
-| Black Eye Galaxy | 2012-01-05 | Album |
-| Spacedust & Ocean Views | 2016-03-18 | Album |
-| Freedom & Dreams | 2015-02-17 | Album |
-| Flower Box | 2016-07-22 | Album |
-| Coming Down | 2007-09-25 | Album |
-| Living Room | 1999-05-18 | Album |
-| Picasso's Villa | 2024-04-26 | Album |
-| Ash Wednesday Blues | 2001-03-13 | Album |
-| Buddha and the Blues | 2019-04-26 | Album |
-| Bury The Hatchet | 2002-09-10 | Album |
-| Orpheus and the Mermaids | 2021-02-19 | Album |
-
-### Top Tracks
-1. Marmalade
-2. Life Don't Last That Long (Spacedust & Ocean Views)
-3. Got Your Heart (American Patchwork)
-4. I'm Ready (Peace)
-5. Lean On Me/Believe In You (Black Eye Galaxy)
-6. Meet Me In New Mexico (American Patchwork)
-7. Fools Gold (Flower Box)
-8. Windows (Peace)
-9. Mind Of A Junkie (Black Eye Galaxy)
-10. Echoes Of My Sins (American Patchwork)
+- [[tim_mcgraw|Tim McGraw]] - Recorded Osborne's composition as a major hit ("Watch The Wind Blow By" (number-one country hit)) [1990s-2000s]
+- [[brad_paisley|Brad Paisley]] - Covered Osborne's compositions (Various Osborne compositions) [2000s onwards]
+- [[tab_benoit|Tab Benoit]] - Covered Osborne's compositions (Various Osborne compositions) [2000s onwards]
+- [[jonny_lang|Jonny Lang]] - Covered Osborne's compositions (Various Osborne compositions) [2000s onwards]
+- [[kim_carnes|Kim Carnes]] - Covered Osborne's compositions (Various Osborne compositions) [2000s onwards]
+- [[aaron_neville|Aaron Neville]] - Recorded Osborne's compositions (Various Osborne compositions) [2000s onwards]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888)
-- [Wikipedia](https://en.wikipedia.org/wiki/Anders_Osborne)
+- [Wikipedia](Not found in search results)
 - [MusicBrainz](https://musicbrainz.org/artist/96fa47fc-6175-45c9-9686-7a3362671137)
 
 ---

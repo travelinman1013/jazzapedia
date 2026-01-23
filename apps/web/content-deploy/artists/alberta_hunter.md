@@ -1,22 +1,5 @@
 ---
-title: Alberta Hunter
-wiki_slug: alberta-hunter
-schema_version: 2
 artist_type: person
-status: active
-birth_date: '1895-04-01'
-birth_place: Memphis
-death_date: '1984-10-17'
-genres:
-- classic blues
-- blues
-- ragtime
-- swing music
-- jazz blues
-instruments:
-- eponymous
-- original
-- vocal
 associated_acts:
 - begin: '1924'
   end: '1925'
@@ -30,104 +13,92 @@ associated_acts:
   - original
   mbid: d60b3b5d-4fe9-49eb-b000-599ede486fd6
   name: Alberta Hunter and Elkins‐Payne Jubilee Quartette
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/alberta_hunter.jpg
-  caption: Alberta Hunter
-  background: solo_singer
-  born: '1895-04-01'
-  origin: Memphis
-  died: '1984-10-17'
-audio_profile:
-  tempo_avg: 100.4
-  energy_avg: 0.248
-  valence_avg: 0.555
-  danceability_avg: 0.594
-  acousticness_avg: 0.839
-  instrumentalness_avg: 0.078
-  loudness_avg: -14.1
-  speechiness_avg: 0.109
-  liveness_avg: 0.192
-  track_count: 50
-  computed_at: '2025-12-23T08:16:04.511609'
-similar_artists: []
-musical_connections:
-  collaborators:
-  - Fletcher Henderson
-  - Louis Armstrong
-  - Lil Hardin
-  - Eubie Blake
-  influenced:
-  - Bessie Smith
-  - Contemporary jazz and blues vocalists
-  mentors:
-  - Tony Jackson
-spotify_data:
-  followers: 23472
-  id: 4ZdfXQkef0hnTSqmhpGarA
-  popularity: 25
-  url: https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA
-discography_enriched: true
-top_tracks:
-- The Darktown Strutters' Ball (Amtrak Blues)
-- Sweet Georgia Brown (Amtrak Blues)
-- My Handy Man Ain't Handy No More (Amtrak Blues)
-- I'm Having A Good Time (Amtrak Blues)
-- Amtrak Blues (Amtrak Blues)
-- I Got Myself A Workin' Man (Songs We Taught Your Mother)
-- Always (Amtrak Blues)
-- I've Got A Mind To Ramble (Amtrak Blues)
-- Nobody Knows You When You're Down And Out (Amtrak Blues)
-- A Good Man Is Hard To Find (Amtrak Blues)
+biography_enhanced_at: '2026-01-22T07:09:19.125545'
+birth_date: '1895-04-01'
+birth_place: Memphis
+death_date: '1984-10-17'
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:09:19.125552'
 external_urls:
   musicbrainz: https://musicbrainz.org/artist/d5a73b4d-62ea-4693-af94-f6ca35a57e58
   spotify: https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA
   wikipedia: https://en.wikipedia.org/wiki/Alberta_Hunter
+gender: Female
+genres:
+- classic blues
+- blues
+- ragtime
+- swing music
 image_path: 03_Resources/source_material/ArtistPortraits/alberta_hunter.jpg
-biography_enhanced_at: '2025-11-10T03:31:43.367220'
+instruments:
+- eponymous
+- original
+- vocal
+last_updated: '2026-01-22T07:09:19.125553'
+musical_connections:
+  collaborators:
+  - Fletcher Henderson
+  - Louis Armstrong
+  - Sidney Bechet
+  - Original Memphis Five
+  - King Oliver
+  - Fats Waller
+  - Duke Ellington
+  - Eubie Blake
+  - Gerald Cook
+  - Jimmy Lewis
+  influenced: []
+  mentors:
+  - Tony Jackson
+  - Lil Hardin
+musicbrainz_id: d5a73b4d-62ea-4693-af94-f6ca35a57e58
+network_extracted: true
 primary_source: perplexity
-enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alberta_Hunter
-- https://nmaahc.si.edu/lgbtq/alberta-hunter
 - https://www.allaboutjazz.com/musicians/alberta-hunter/
 - https://www.britannica.com/biography/Alberta-Hunter
-network_extracted: true
-entry_created: '2025-11-10T03:31:43.367235'
-last_updated: '2025-12-23T08:16:04.511927'
-gender: Female
-musicbrainz_id: d5a73b4d-62ea-4693-af94-f6ca35a57e58
+- https://memphismusichalloffame.com/inductee/albertahunter/
+- https://en.wikipedia.org/wiki/Alberta_Hunter
+- https://www.jango.com/music/Alberta+Hunter/_full_bio
+spotify_data:
+  followers: 23790
+  id: 4ZdfXQkef0hnTSqmhpGarA
+  popularity: 28
+  url: https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA
+status: active
 tags:
 - acoustic blues
 - blues
 - piano blues
+title: ALBERTA HUNTER
 ---
 
 ![](alberta_hunter.jpg)
 
-# Alberta Hunter
+# ALBERTA HUNTER
 
 ## Quick Info
-- **Genres**: classic blues, blues, ragtime, swing music, jazz blues
+- **Genres**: classic blues, blues, ragtime, swing music
 - **Instruments**: eponymous, original, vocal
-- **Spotify Popularity**: 25/100
-- **Followers**: 23,472
+- **Spotify Popularity**: 28/100
+- **Followers**: 23,790
 - **Born**: 1895-04-01, Memphis
 - **Died**: 1984-10-17
 
 ## Biography
-Alberta Hunter (April 1, 1895 – October 17, 1984) was a pioneering American jazz and blues singer and songwriter whose career spanned over six decades. Born in Memphis, Tennessee, to a working-class family, Hunter endured a difficult childhood marked by poverty and the absence of her father. Determined to escape her circumstances, she moved to Chicago as a young teenager, where she initially worked menial jobs before breaking into the city's vibrant club scene. By 1911, she was performing at Dago Frank's, a South Side bordello, and soon after, her talent was recognized by influential musicians such as pianist Tony Jackson, who became an early mentor. 
+Alberta Hunter (April 1, 1895 – October 17, 1984) was an American blues and jazz singer who rose from poverty in Memphis, Tennessee to become one of the most influential vocalists of the 20th century. She left home at age twelve to pursue singing in Chicago, where she performed in South Side clubs and bordello houses before landing her breakthrough engagement at the prestigious Dreamland Café in 1917, where she performed alongside King Oliver and Louis Armstrong. Her career flourished throughout the 1920s and 1930s as she recorded prolifically for major labels including Paramount, Okeh, Victor, and Bluebird, becoming known for her vigorous, rhythmically infectious style and gift for improvising lyrics. She achieved international fame performing in Europe, appearing on Broadway, and recording with jazz legends including Fats Waller, Fletcher Henderson, Eubie Blake, Duke Ellington, and Sidney Bechet.
 
-Hunter's career flourished as she became a fixture at Chicago's Dreamland Café, performing alongside King Oliver's Creole Jazz Band and befriending artists like Lil Hardin and Louis Armstrong. In the early 1920s, she moved to New York, began recording with Fletcher Henderson, and wrote the classic "Down Hearted Blues," which became Bessie Smith's breakout hit. Hunter was among the first Black singers to record with a white band and achieved international fame, touring Europe extensively and starring in musical revues. After retiring from music in the 1950s to work as a nurse, she made a remarkable comeback in 1977, captivating new audiences with her powerful voice and storytelling until her death in 1984. Her legacy endures as a trailblazer for women and Black artists in jazz and blues, and as a songwriter whose work helped define the classic blues era.
+After decades of performing, Hunter made an unexpected career shift, working as a nurse for twenty years while making only two secret recordings during that period. In 1977, at age eighty-two, she triumphantly returned to the stage at The Cookery nightclub in Greenwich Village, launching a remarkable career revival that exceeded her earlier fame. This comeback led to four well-received albums, including the acclaimed *Amtrak Blues* (1978), performances at Carnegie Hall, and an appearance at the White House for President Jimmy Carter. Hunter continued performing until her death in 1984, leaving behind a legacy as a true jazz pioneer and survivor who demonstrated remarkable resilience and artistry across nearly seven decades.
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](https://nmaahc.si.edu/lgbtq/alberta-hunter), [Source2](https://www.allaboutjazz.com/musicians/alberta-hunter/), [Source3](https://www.britannica.com/biography/Alberta-Hunter)*
+*Sources: [Source1](https://www.allaboutjazz.com/musicians/alberta-hunter/), [Source2](https://www.britannica.com/biography/Alberta-Hunter), [Source3](https://memphismusichalloffame.com/inductee/albertahunter/), [Source4](https://www.jango.com/music/Alberta+Hunter/_full_bio)*
 
 ## Fun Facts
-- After retiring from music in the 1950s, Hunter trained as a nurse and worked in a New York hospital for over 20 years, hiding her musical past from her colleagues.
-- She made a celebrated comeback at age 82, performing at The Cookery in Greenwich Village, which led to renewed recording and touring.
-- Hunter was one of the first Black singers to record with a white band, the Original Memphis Five, in 1923.
-- She entertained troops for the USO during World War II, traveling throughout Europe, Asia, and the South Pacific.
+- In 1923, Alberta Hunter made history by becoming the first Black singer to record with an all-white band, the Original Memphis Five, breaking racial barriers in the recording industry.
+- Hunter worked as a nurse for twenty years while secretly recording two albums during her nursing career (1961 and 1962), keeping her musical identity hidden from her nursing colleagues.
+- Her comeback performance at The Cookery nightclub in Greenwich Village in 1977 was initially booked as a limited two-week engagement but became so successful that it extended into a six-year run, launching a career revival that exceeded her earlier fame.
+- Hunter was the first to suggest that Columbia Records record King Oliver's band in 1923, but when she was unavailable to perform on the session, Columbia refused to record them without her.
 
 ## Associated Acts
 - [[red_onion_jazz_babies|Red Onion Jazz Babies]] (1924–1925)
@@ -136,50 +107,20 @@ Hunter's career flourished as she became a fixture at Chicago's Dreamland Café,
 ## Musical Connections
 
 ### Mentors/Influences
-- [[tony_jackson|Tony Jackson]] - Early mentor who helped expand her repertoire and develop her style in Chicago. (Live performances at Elite Café and other Chicago venues) [circa 1914]
+- [[tony_jackson|Tony Jackson]] - New Orleans piano professor who provided formal lessons and helped expand Hunter's repertoire and develop her musical style (Early repertoire development and composition training) [1913-1914]
+- [[lil_hardin|Lil Hardin]] - Pianist with King Oliver's Creole Jazz Band at Dreamland Café; fellow Memphian who became a close friend and musical influence (Collaboration at Dreamland Café) [1917-1922]
 
 ### Key Collaborators
-- [[fletcher_henderson|Fletcher Henderson]] - Recorded as a singer with his Novelty Orchestra and on Paramount sessions. (Recordings for Black Swan and Paramount labels) [early 1920s]
-- [[louis_armstrong|Louis Armstrong]] - Performed together at Dreamland Café and on the Red Onion Jazz Babies sessions. (Red Onion Jazz Babies recordings (1924)) [1920s]
-- [[lil_hardin|Lil Hardin]] - Close friend and fellow Memphis native; performed together in Chicago. (Dreamland Café performances) [1910s]
-- [[eubie_blake|Eubie Blake]] - Recorded and performed together during her early career. (Various recordings and performances) [1920s–1930s]
-
-### Artists Influenced
-- [[bessie_smith|Bessie Smith]] - Hunter wrote 'Down Hearted Blues,' which became Smith's first hit and signature song. ('Down Hearted Blues') [1923]
-- [[contemporary_jazz_and_blues_vocalists|Contemporary jazz and blues vocalists]] - Hunter's pioneering career and style paved the way for later generations of female and Black artists. (General influence on vocal technique and repertoire) [1920s–present]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| Amtrak Blues | 1978 | Album |
-| Songs We Taught Your Mother | 1992-01-01 | Album |
-| Remember My Name (Original Soundtrack Recording) | 1978 | Album |
-| Essential Classics, Vol. 692: Alberta Hunter | 2025-09-12 | Album |
-| Echoes of the Cotton Club - Jazz Age Lady | 2025-07-25 | Album |
-| The Twenties | 2011-09-30 | Album |
-| Alberta Hunter Vol. 4 (1927-c. 1946) | 1996 | Album |
-| Alberta Hunter Vol. 2 (1923-1924) | 1996 | Album |
-| The Glory of...Alberta Hunter | 1982-02-02 | Album |
-| Downhearted Blues | 2011-08-30 | Album |
-| The London Sessions - 1934 | 1991-01-01 | Album |
-| Downhearted Blues | 2017-02-23 | Album |
-| I'm Hard To Satisfy | 2009-04-04 | Album |
-| Alberta Hunter Vol. 3 (1924-1927) | 1996 | Album |
-| You Can't Have It All | 2024-04-19 | Album |
-
-### Top Tracks
-1. The Darktown Strutters' Ball (Amtrak Blues)
-2. Sweet Georgia Brown (Amtrak Blues)
-3. My Handy Man Ain't Handy No More (Amtrak Blues)
-4. I'm Having A Good Time (Amtrak Blues)
-5. Amtrak Blues (Amtrak Blues)
-6. I Got Myself A Workin' Man (Songs We Taught Your Mother)
-7. Always (Amtrak Blues)
-8. I've Got A Mind To Ramble (Amtrak Blues)
-9. Nobody Knows You When You're Down And Out (Amtrak Blues)
-10. A Good Man Is Hard To Find (Amtrak Blues)
+- [[fletcher_henderson|Fletcher Henderson]] - Pianist and bandleader who accompanied Hunter on numerous recordings and served as her initial collaborator in New York (Black Swan label recordings; Paramount recordings (1922)) [1921-1922]
+- [[louis_armstrong|Louis Armstrong]] - Jazz trumpet legend with whom Hunter recorded and performed at Dreamland Café and on the Red Onion Jazz Babies sessions (Red Onion Jazz Babies session (1924) - Armstrong and Sidney Bechet's first recording together) [1917-1924]
+- [[sidney_bechet|Sidney Bechet]] - Jazz soprano saxophonist who performed with Hunter at Dreamland Café and collaborated on the Red Onion Jazz Babies recordings (Red Onion Jazz Babies session (1924)) [1917-1924]
+- [[original_memphis_five|Original Memphis Five]] - All-white jazz band with whom Hunter made history as the first Black singer to record with an all-white band (Recording session (1923)) [1923]
+- [[king_oliver|King Oliver]] - Cornet player and bandleader whose Creole Jazz Band performed at Dreamland Café where Hunter was featured vocalist (Dreamland Café performances) [1917-1922]
+- [[fats_waller|Fats Waller]] - Jazz pianist and composer with whom Hunter recorded during the 1920s-1930s era (Various recordings) [1920s-1930s]
+- [[duke_ellington|Duke Ellington]] - Jazz composer and bandleader with whom Hunter recorded during her prolific recording years (Various recordings) [1920s-1930s]
+- [[eubie_blake|Eubie Blake]] - Jazz pianist and composer with whom Hunter recorded during the classic blues era (Various recordings) [1920s-1930s]
+- [[gerald_cook|Gerald Cook]] - Pianist who accompanied Hunter during her 1981 career revival album (1981 album) [1981]
+- [[jimmy_lewis|Jimmy Lewis]] - Bassist who accompanied Hunter during her 1981 career revival album (1981 album) [1981]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA)

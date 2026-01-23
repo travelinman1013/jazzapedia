@@ -1,77 +1,76 @@
 ---
-title: Robin Trower
-wiki_slug: robin-trower
-schema_version: 2
-status: active
-birth_place: Catford, South London, England
+artist_type: person
+associated_acts:
+- begin: '1967'
+  end: '1971'
+  instruments: []
+  mbid: 44119570-4d53-46e7-a447-bd18608c28d8
+  name: Procol Harum
+- begin: '1991'
+  end: '1991'
+  instruments: []
+  mbid: 44119570-4d53-46e7-a447-bd18608c28d8
+  name: Procol Harum
+- begin: ''
+  end: ''
+  instruments: []
+  mbid: 1b2b40c1-0837-4038-a8b8-29408bfa983c
+  name: Liquorice John Death
+biography_enhanced_at: '2026-01-22T07:16:26.473233'
+birth_date: '1945-03-09'
+birth_place: Catford
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:16:26.473239'
+external_urls:
+  musicbrainz: https://musicbrainz.org/artist/6605c2c6-f115-486c-8b1a-b786882de463
+  spotify: https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3
+  wikipedia: ''
+gender: Male
 genres:
 - blues rock
 - blues
 - modern blues
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/robin_trower.jpg
-  caption: Robin Trower
-  background: solo_singer
-  origin: Catford, South London, England
-audio_profile:
-  tempo_avg: 110.4
-  energy_avg: 0.609
-  valence_avg: 0.569
-  danceability_avg: 0.534
-  acousticness_avg: 0.198
-  instrumentalness_avg: 0.056
-  loudness_avg: -9.8
-  speechiness_avg: 0.046
-  liveness_avg: 0.155
-  track_count: 50
-  computed_at: '2025-12-23T08:16:14.943112'
-similar_artists: []
+image_path: 03_Resources/source_material/ArtistPortraits/robin_trower.jpg
+instruments:
+- electric guitar
+- guitar
+- acoustic guitar
+- lead vocals
+last_updated: '2026-01-22T07:16:26.473240'
 musical_connections:
   collaborators:
   - James Dewar
-  - Reg Isidore
-  - Jack Bruce
-  - Bryan Ferry
   - Gary Brooker
   - B.J. Wilson
-  influenced: []
+  - Jack Bruce
+  - Bryan Ferry
+  influenced:
+  - Eric Gales
+  - Steve Lukather
+  - Opeth
   mentors:
-  - Albert King
   - Jimi Hendrix
-  - Gary Brooker
+musicbrainz_id: 6605c2c6-f115-486c-8b1a-b786882de463
+network_extracted: true
+primary_source: perplexity
+research_sources:
+- https://www.thefactorystl.com/artist/robin-trower/
+- https://copernicuscenter.org/robin-trower/
+- https://www.youtube.com/watch?v=AQ_imYbHORw
+- https://www.robintrower.com/biography/
+- https://www.jdhayes.com/jdhayescom/blues-artist-of-the-week-robin-trower
+- https://www.effectrode.com/knowledge-base/british-rock-guitar-veteran-robin-trower/
 spotify_data:
-  followers: 268026
+  followers: 269347
   id: 0MAvx5yzdhylg2ztJC3MD3
   popularity: 45
   url: https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3
-discography_enriched: true
-top_tracks:
-- Day of the Eagle - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
-- Bridge of Sighs - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
-- Too Rolling Stoned - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
-- The Fool and Me - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
-- A Little Bit Of Freedom
-- Lady Love - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
-- I Would Lose My Mind (Come And Find Me)
-- Walking Wounded (United State of Mind)
-- Alethea - 2025 Stereo Mix
-- In This Place - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
-external_urls:
-  spotify: https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3
-  wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/robin_trower.jpg
-biography_enhanced_at: '2025-12-18T02:38:22.449556'
-primary_source: perplexity
-enhancement_provider: perplexity
-research_sources:
-- https://copernicuscenter.org/robin-trower/
-- https://www.thefactorystl.com/artist/robin-trower/
-- https://www.loudersound.com/bands-artists/after-i-saw-him-live-i-wanted-to-give-up-playing-the-guitar-it-took-me-about-a-year-to-get-over-that-this-is-the-soundtrack-of-robin-trowers-life
-- https://www.jdhayes.com/jdhayescom/blues-artist-of-the-week-robin-trower
-- https://www.effectrode.com/knowledge-base/british-rock-guitar-veteran-robin-trower/
-network_extracted: true
-entry_created: '2025-12-18T02:38:22.449565'
-last_updated: '2025-12-23T08:16:14.943411'
+status: active
+tags:
+- blues
+- blues rock
+- classic pop and rock
+title: Robin Trower
 ---
 
 ![](robin_trower.jpg)
@@ -80,74 +79,53 @@ last_updated: '2025-12-23T08:16:14.943411'
 
 ## Quick Info
 - **Genres**: blues rock, blues, modern blues
+- **Instruments**: electric guitar, guitar, acoustic guitar, lead vocals
 - **Spotify Popularity**: 45/100
-- **Followers**: 268,026
-- **Born**: Catford, South London, England
+- **Followers**: 269,347
+- **Born**: 1945-03-09, Catford
 
 ## Biography
-Robin Leonard Trower, born on March 9, 1945, in Catford, South London, England, began his professional music career in the mid-1960s with the Southend rhythm and blues band The Paramounts alongside Gary Brooker and B.J. Wilson[1][3][6][7]. He gained prominence in 1967 joining Procol Harum, contributing to their first five albums and extensive tours, though not on their hit 'A Whiter Shade of Pale'; Trower credits Gary Brooker for launching his career[1][2][3]. Leaving Procol Harum in 1971, he launched a solo career modeled on power trios like Cream, Taste, and the Jimi Hendrix Experience, forming the Robin Trower Band with vocalist/bassist James Dewar and drummer Reg Isidore[1][2].
+Robin Leonard Trower, born on March 9, 1945, in Catford, London, England, began his musical career in the mid-1960s with the Southend rhythm and blues band The Paramounts alongside Gary Brooker and B.J. Wilson, focusing on rock and roll and R&B.[2][3][5][6] He gained prominence in 1967 joining Procol Harum, contributing to five albums and extensive tours, though not on their hit 'A Whiter Shade of Pale,' helping define their baroque rock sound during the late 1960s.[1][2][3][4][5] Leaving Procol Harum in 1971, Trower launched a solo career modeled after power trios like Cream, Taste, and Jimi Hendrix Experience, assembling a band with vocalist/bassist James Dewar and drummer Reg Isidore.[1][2][4]
 
-His 1973 debut *Twice Removed from Yesterday* set the stage, but 1974's *Bridge of Sighs* became a breakthrough, selling a million copies with standout tracks like 'Day of the Eagle,' 'Too Rolling Stoned,' and 'Lady Love,' showcasing his atmospheric, effects-laden Stratocaster style blending blues rock and Hendrix-inspired sounds[1][2][4]. Trower explored further with albums like *In City Dreams* and *Caravan to Midnight* (both 1977, produced by Don Davis), emphasizing his blues roots and maturing songwriting[1][4]. Despite shifts in music trends like punk, he maintained a strong U.S. live following, founded his V12 label in the 1990s for releases like *20th Century Blues* (1994), and continued into the 2010s with albums such as *Seven Moons* (2008, with Jack Bruce) and *Something’s About To Change* (2015)[1].
+His 1973 debut solo album *Twice Removed from Yesterday* set the stage, but 1974's *Bridge of Sighs* propelled him to international fame as a guitar hero, selling a million copies with standout tracks like 'Day of the Eagle,' 'Too Rolling Stoned,' and 'Lady Love,' featuring his atmospheric, effects-laden Fender Stratocaster style often compared to Hendrix but distinctly blues-infused.[1][2][4][5] Trower's career evolved through the 1970s and beyond, exploring blues rock on albums like *In City Dreams* and *Caravan to Midnight*, starting his own V12 label in 1994 with *20th Century Blues*, and collaborating on projects into the 2000s and 2010s, including *Seven Moons* with Jack Bruce and *Something’s About To Change* in 2015, maintaining a vital sound rooted in post-war U.S. blues.[2][4]
 
-Trower's legacy endures as a blues-rock guitar legend, known for his soulful, melodic playing influenced by post-war U.S. blues, with over five decades of output including 14 post-millennial albums, retaining passion and vitality outside major label constraints[1][2][4]. His genres include blues rock, blues, and modern blues, with Spotify popularity at 45[context].
+Known for his 'heavy strings' style with heavy reverberation, Trower's musical legacy spans over six decades, influencing guitarists while retaining a dedicated U.S. live following despite shifts in popular music; at 76, he continues touring with innovative late-period work using Fender Stratocaster and Marshall amps.[2][4][5]
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](https://copernicuscenter.org/robin-trower/), [Source2](https://www.thefactorystl.com/artist/robin-trower/), [Source3](https://www.loudersound.com/bands-artists/after-i-saw-him-live-i-wanted-to-give-up-playing-the-guitar-it-took-me-about-a-year-to-get-over-that-this-is-the-soundtrack-of-robin-trowers-life), [Source4](https://www.jdhayes.com/jdhayescom/blues-artist-of-the-week-robin-trower), [Source5](https://www.effectrode.com/knowledge-base/british-rock-guitar-veteran-robin-trower/)*
+*Sources: [Source1](https://www.thefactorystl.com/artist/robin-trower/), [Source2](https://copernicuscenter.org/robin-trower/), [Source3](https://www.youtube.com/watch?v=AQ_imYbHORw), [Source4](https://www.robintrower.com/biography/), [Source5](https://www.jdhayes.com/jdhayescom/blues-artist-of-the-week-robin-trower), [Source6](https://www.effectrode.com/knowledge-base/british-rock-guitar-veteran-robin-trower/)*
 
 ## Fun Facts
-- After seeing Albert King live, Trower was so overwhelmed he wanted to quit playing guitar, taking about a year to recover[4].
-- Trower started his own V12 record label in the 1990s to gain creative freedom, releasing *20th Century Blues* in 1994 and continuing independently[1].
-- He briefly took on lead vocals in the 1990s, reasoning that blues artists typically sing their own material to match their vision[1].
-- Songs Trower wrote for Eric Gales, after Gales supported his tour, became the basis for his 2003 album *Living Out of Time*[1].
+- Trower did not play on Procol Harum's mega-hit 'A Whiter Shade of Pale' despite being their guitarist during its era.[2]
+- He started his own V12 record label in 1994 to gain creative control, releasing *20th Century Blues* and bypassing traditional industry constraints.[2]
+- Trower began taking lead vocals in the 1990s to ensure songs matched his original vision, noting, 'When you sing it yourself it tends to come out how you heard it in your head.'[2]
+- An ardent Fender Stratocaster user, Trower is known for his 'heavy strings' style with heavy reverberation, favorably compared to Jimi Hendrix.[5]
+
+## Associated Acts
+- [[procol_harum|Procol Harum]] (1967–1971)
+- [[procol_harum|Procol Harum]] (1991–1991)
+- [[liquorice_john_death|Liquorice John Death]]
 
 ## Musical Connections
 
 ### Mentors/Influences
-- [[albert_king|Albert King]] - primary stylistic influence; saw him live and considered quitting guitar (*Born Under a Bad Sign* album, especially 'Crosscut Saw') [1960s]
-- [[jimi_hendrix|Jimi Hendrix]] - major guitar influence shaping power trio style ('Stone Free') [late 1960s]
-- [[gary_brooker|Gary Brooker]] - key figure who brought him into Procol Harum, opening career opportunities (Procol Harum albums) [1967-1971]
+- [[jimi_hendrix|Jimi Hendrix]] - Primary stylistic influence for power trio format and atmospheric, effects-laden Stratocaster playing (Solo career blueprint modeled after Hendrix Experience) [1960s-1970s]
 
 ### Key Collaborators
-- [[james_dewar|James Dewar]] - vocalist and bassist in Robin Trower Band (*Twice Removed from Yesterday* (1973), *Bridge of Sighs* (1974)) [1973-1970s]
-- [[reg_isidore|Reg Isidore]] - drummer in early solo power trio (*Twice Removed from Yesterday* (1973)) [1973]
-- [[jack_bruce|Jack Bruce]] - joint album project (*Seven Moons* (2008)) [2006-2008]
-- [[bryan_ferry|Bryan Ferry]] - backing musician on albums and tour (*Taxi*, *Mamouna*) [late 1990s]
-- [[gary_brooker|Gary Brooker]] - bandmate in early groups and Procol Harum (The Paramounts, Procol Harum albums) [1960s-1971]
-- [[b.j._wilson|B.J. Wilson]] - drummer in The Paramounts (The Paramounts recordings) [early-mid 1960s]
+- [[james_dewar|James Dewar]] - Vocalist and bassist in Robin Trower Band power trio (*Twice Removed from Yesterday* (1973), *Bridge of Sighs* (1974)) [1973-1970s]
+- [[gary_brooker|Gary Brooker]] - Bandmate in early groups and Procol Harum (The Paramounts (1960s), Procol Harum albums (1967-1971)) [1960s-1971]
+- [[b.j._wilson|B.J. Wilson]] - Drummer in The Paramounts (The Paramounts recordings (1960s)) [1960s]
+- [[jack_bruce|Jack Bruce]] - Collaborator on joint album after earlier 1980s work (*Seven Moons* (2008)) [1980s, 2006-2008]
+- [[bryan_ferry|Bryan Ferry]] - Guest appearances and tour (*Taxi*, *Mamouna* (late 1990s)) [Late 1990s]
 
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| Bridge Of Sighs (2007 Remaster) | 1974-01-01 | Album |
-| Come And Find Me | 2025-05-16 | Album |
-| Twice Removed from Yesterday | 1973-01-01 | Album |
-| For Earth Below [50th Anniversary Edition] | 2025-06-27 | Album |
-| United State of Mind | 2020-10-09 | Album |
-| Victims of the Fury | 1980-01-01 | Album |
-| Caravan to Midnight | 1978-01-01 | Album |
-| In City Dreams | 1977-09-01 | Album |
-| Long Misty Days | 1976-10-01 | Album |
-| For Earth Below | 1975-02-01 | Album |
-| Coming Closer to the Day | 2019-03-22 | Album |
-| B.L.T. | 1981-01-01 | Album |
-| No More Worlds to Conquer | 2022-04-29 | Album |
-| Bridge of Sighs (50th Anniversary Edition) | 2024-06-07 | Album |
-| Joyful Sky | 2023-10-27 | Album |
-
-### Top Tracks
-1. Day of the Eagle - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
-2. Bridge of Sighs - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
-3. Too Rolling Stoned - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
-4. The Fool and Me - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
-5. A Little Bit Of Freedom
-6. Lady Love - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
-7. I Would Lose My Mind (Come And Find Me)
-8. Walking Wounded (United State of Mind)
-9. Alethea - 2025 Stereo Mix
-10. In This Place - 2007 Remaster (Bridge Of Sighs (2007 Remaster))
+### Artists Influenced
+- [[eric_gales|Eric Gales]] - Trower wrote songs inspired by Gales after tour support, forming basis for Trower's album (*Living Out of Time* (2003)) [Early 2000s]
+- [[steve_lukather|Steve Lukather]] - Influenced by Trower's guitar work (*Bridge of Sighs*) [1970s onward]
+- [[opeth|Opeth]] - Influenced by Trower's guitar style (*Bridge of Sighs*) [1970s onward]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3)
+- [MusicBrainz](https://musicbrainz.org/artist/6605c2c6-f115-486c-8b1a-b786882de463)
+
+---
+**Tags**: #blues, #blues-rock, #classic-pop-and-rock

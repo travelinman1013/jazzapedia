@@ -1,28 +1,5 @@
 ---
-title: Rahsaan Roland Kirk
-wiki_slug: rahsaan-roland-kirk
-schema_version: 2
 artist_type: person
-status: active
-birth_date: '1935-08-07'
-birth_place: Columbus
-death_date: '1977-12-05'
-genres:
-- free jazz
-- hard bop
-- jazz
-- bebop
-instruments:
-- eponymous
-- original
-- clarinet
-- flute
-- harmonica
-- kazoo
-- percussion
-- saxophone
-- tenor saxophone
-- spoken vocals
 associated_acts:
 - begin: ''
   end: ''
@@ -57,73 +34,65 @@ associated_acts:
   - tenor saxophone
   mbid: 74f67fe2-83de-46d2-bdf8-6176acbacc13
   name: Roland Kirk Sextet
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/rahsaan_roland_kirk.jpg
-  caption: Rahsaan Roland Kirk
-  background: solo_singer
-  born: '1935-08-07'
-  origin: Columbus
-  died: '1977-12-05'
-audio_profile:
-  tempo_avg: 109.4
-  energy_avg: 0.365
-  valence_avg: 0.515
-  danceability_avg: 0.484
-  acousticness_avg: 0.69
-  instrumentalness_avg: 0.281
-  loudness_avg: -13.4
-  speechiness_avg: 0.055
-  liveness_avg: 0.174
-  track_count: 58
-  computed_at: '2025-12-23T08:16:14.591151'
-similar_artists: []
-musical_connections:
-  collaborators:
-  - Quincy Jones
-  - Charles Mingus
-  - Jimi Hendrix
-  influenced:
-  - No specific proteges mentioned
-  mentors:
-  - No specific mentors mentioned
-spotify_data:
-  followers: 56148
-  id: 7De2eIqeHTw091YeAkkYXV
-  popularity: 37
-  url: https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV
-discography_enriched: true
-top_tracks:
-- Alfie (Now Please Don't You Cry, Beautiful Edith)
-- Alfie (Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith)
-- Someone To Watch Over Me - Alternate Take (Domino (Expanded Edition))
-- It's A Grand Night For Swinging (Now Please Don't You Cry, Beautiful Edith)
-- Volunteered Slavery (Volunteered Slavery)
-- Ain't No Sunshine (Blacknuss)
-- A Sack Full Of Soul (We Free Kings)
-- Blues For Alice (We Free Kings)
-- Now Please Don't You Cry, Beautiful Edith (Now Please Don't You Cry, Beautiful Edith)
-- Theme for the Eulipions (Simmer, Reduce, Garnish & Serve)
+biography_enhanced_at: '2026-01-22T07:03:38.155660'
+birth_date: '1935-08-07'
+birth_place: Columbus
+death_date: '1977-12-05'
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:03:38.155667'
 external_urls:
   musicbrainz: https://musicbrainz.org/artist/4a1f7fe0-e509-4c4a-9fa1-9cf6c3ca891c
   spotify: https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV
   wikipedia: https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk
-image_path: 03_Resources/source_material/ArtistPortraits/rahsaan_roland_kirk.jpg
-biography_enhanced_at: '2025-10-28T09:14:24.659582'
-primary_source: perplexity
-enhancement_provider: perplexity
-research_sources:
-- https://vinylwritermusic.wordpress.com/2021/03/14/the-life-and-times-of-rahsaan-roland-kirk-creative-perseverance-through-music/
-- https://www.columbusmonthly.com/story/lifestyle/features/2023/05/25/musician-rahsaan-roland-kirk-one-of-columbus-ohios-greatest-artists/70259023007/
-- https://daily.redbullmusicacademy.com/2013/02/rahsaan-roland-kirk-feature/
-network_extracted: true
-entry_created: '2025-10-28T09:14:24.659586'
-last_updated: '2025-12-23T08:16:14.591482'
 gender: Male
+genres:
+- free jazz
+- hard bop
+- jazz
+- bebop
+- experimental jazz
+image_path: 03_Resources/source_material/ArtistPortraits/rahsaan_roland_kirk.jpg
+instruments:
+- eponymous
+- original
+- clarinet
+- flute
+- harmonica
+- kazoo
+- percussion
+- saxophone
+- tenor saxophone
+- spoken vocals
+last_updated: '2026-01-22T07:03:38.155668'
+musical_connections:
+  collaborators:
+  - Quincy Jones
+  - Roy Haynes
+  - Charles Mingus
+  influenced:
+  - Michael Blake
+  mentors:
+  - Duke Ellington
+  - John Coltrane
 musicbrainz_id: 4a1f7fe0-e509-4c4a-9fa1-9cf6c3ca891c
+network_extracted: true
+primary_source: perplexity
+research_sources:
+- https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk
+- https://www.allaboutjazz.com/musicians/rahsaan-roland-kirk/
+- https://daily.redbullmusicacademy.com/2013/02/rahsaan-roland-kirk-feature/
+- https://www.jerryjazzmusician.com/john-kruth-author-of-bright-moments-the-life-and-legacy-of-rahsaan-roland-kirk/
+spotify_data:
+  followers: 57302
+  id: 7De2eIqeHTw091YeAkkYXV
+  popularity: 38
+  url: https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV
+status: active
 tags:
 - 2008 universal fire victim
 - hard bop
 - jazz
+title: Rahsaan Roland Kirk
 ---
 
 ![](rahsaan_roland_kirk.jpg)
@@ -131,25 +100,29 @@ tags:
 # Rahsaan Roland Kirk
 
 ## Quick Info
-- **Genres**: free jazz, hard bop, jazz, bebop
+- **Genres**: free jazz, hard bop, jazz, bebop, experimental jazz
 - **Instruments**: eponymous, original, clarinet, flute, harmonica, kazoo, percussion, saxophone, tenor saxophone, spoken vocals
-- **Spotify Popularity**: 37/100
-- **Followers**: 56,148
+- **Spotify Popularity**: 38/100
+- **Followers**: 57,302
 - **Born**: 1935-08-07, Columbus
 - **Died**: 1977-12-05
 
 ## Biography
-Rahsaan Roland Kirk was born Ronald Theodore Kirk on August 7, 1935, in Columbus, Ohio. He became blind at an early age but developed a passion for music, becoming a multi-instrumentalist known for playing multiple wind instruments simultaneously. Kirk's career spanned from 1955 until his death in 1977, during which he led his own bands and occasionally collaborated with notable figures like Quincy Jones and Charles Mingus. He preferred the term 'Black Classical Music' to describe his genre, reflecting his diverse influences from jazz, blues, and classical music. Kirk's unique style included circular breathing techniques and the use of unconventional instruments like the manzello and stritch. His legacy extends beyond his virtuosic performances to his advocacy for racial equality in the music industry. Kirk suffered a stroke in 1975 but continued to perform and record until his death on December 5, 1977. His impact on jazz and beyond is profound, with his music continuing to inspire generations of musicians. Kirk's ability to play multiple instruments at once, including three saxophones simultaneously, was a hallmark of his live performances, which often featured comic banter and political commentary. His influence on jazz and his contributions to the genre have been recognized globally, with his music remaining a testament to his innovative spirit and artistic genius.
+Rahsaan Roland Kirk, born Ronald Theodore Kirk on August 7, 1935, in Columbus, Ohio, was blind from birth and began his musical journey early, inspired by a dream to change his name to Roland by transposing letters in his first name. He started his professional career around 1955, quickly gaining fame for his extraordinary ability to play multiple instruments simultaneously, including modified saxophones like the stritch and manzello, tenor saxophone, flute, clarinets, and exotic or homemade instruments. Rooted in soul jazz and hard bop, Kirk's style drew from jazz history—ragtime, swing, bebop, free jazz—while incorporating classical music, blues, stride piano, pop tunes from Smokey Robinson and Burt Bacharach, and influences like Duke Ellington and John Coltrane, creating a uniquely inclusive and virtuoso sound marked by intricate improvisation, onstage energy, comic banter, and political commentary.[1][2][3]
+
+Preferring to lead his own bands, Kirk rarely worked as a sideman but recorded notably with Quincy Jones (including the flute lead on 'Soul Bossa Nova' in 1964), Roy Haynes, and Charles Mingus. His career spanned over two decades, producing over 35 albums, with live performances like *Bright Moments* (1973) showcasing his powerful blues-infused multi-instrumental prowess. In 1970, a dream prompted him to adopt 'Rahsaan,' and he founded the Jazz & People’s Movement to promote jazz visibility amid rock dominance. Despite a 1975 stroke, he adapted his instruments for one-handed play and continued performing until his death on December 5, 1977.[1][2][3]
+
+Kirk's legacy endures as a multi-instrumental innovator who expanded jazz flute post-Eric Dolphy, emulating inner sounds with techniques like humming into the flute or playing nose flute alongside transverse flute. His rejection of physical limits and broad musical vision influenced generations, blending jazz's past and future while advocating for the genre's recognition.[1][3]
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](https://vinylwritermusic.wordpress.com/2021/03/14/the-life-and-times-of-rahsaan-roland-kirk-creative-perseverance-through-music/), [Source2](https://www.columbusmonthly.com/story/lifestyle/features/2023/05/25/musician-rahsaan-roland-kirk-one-of-columbus-ohios-greatest-artists/70259023007/), [Source3](https://daily.redbullmusicacademy.com/2013/02/rahsaan-roland-kirk-feature/)*
+*Sources: [Source1](https://www.allaboutjazz.com/musicians/rahsaan-roland-kirk/), [Source2](https://daily.redbullmusicacademy.com/2013/02/rahsaan-roland-kirk-feature/), [Source3](https://www.jerryjazzmusician.com/john-kruth-author-of-bright-moments-the-life-and-legacy-of-rahsaan-roland-kirk/)*
 
 ## Fun Facts
-- Kirk was known for his ability to play multiple instruments simultaneously, often using circular breathing techniques.
-- He preferred the term 'Black Classical Music' to describe his genre.
-- Kirk suffered a stroke in 1975 but continued to perform and record music until his death.
-- He jammed with Jimi Hendrix and performed at Carnegie Hall.
+- Kirk was blind from birth and changed his name from Ronald to Roland after a dream compelled him to transpose two letters; another dream in 1970 inspired adding 'Rahsaan'.[1][2]
+- He played up to three brass instruments simultaneously, a technique he claimed came from dreams, using modified horns like the manzello (saxello soprano with upturned bell) and stritch (straight alto sax).[1][3]
+- After a 1975 stroke, Kirk modified his instruments for one-handed use and returned to performing, demonstrating remarkable resilience.[3]
+- Kirk quoted 'Hey Jude' coda in his soul-jazz track 'Volunteered Slavery' and covered fiendishly difficult pieces like Coltrane's 'Giant Steps' alongside pop like Minnie Riperton's 'Loving You'.[3]
 
 ## Associated Acts
 - [[tubby_hayes_and_the_all_stars|Tubby Hayes and The All Stars]]
@@ -160,48 +133,16 @@ Rahsaan Roland Kirk was born Ronald Theodore Kirk on August 7, 1935, in Columbus
 ## Musical Connections
 
 ### Mentors/Influences
-- [[no_specific_mentors_mentioned|No specific mentors mentioned]] - Self-taught and influenced by various musical genres (N/A) [N/A]
+- [[duke_ellington|Duke Ellington]] - major stylistic influence in jazz composition and orchestration (general influence on Kirk's inclusive style) [1950s-1970s]
+- [[john_coltrane|John Coltrane]] - jazz improvisation and harmonic influence (Kirk covered 'Giant Steps') [1960s]
 
 ### Key Collaborators
-- [[quincy_jones|Quincy Jones]] - Recorded with Jones on 'Soul Bossa Nova' ('Soul Bossa Nova') [1964]
-- [[charles_mingus|Charles Mingus]] - Performed with Mingus (N/A) [N/A]
-- [[jimi_hendrix|Jimi Hendrix]] - Jam sessions (N/A) [N/A]
+- [[quincy_jones|Quincy Jones]] - recorded as sideman with arranger ('Soul Bossa Nova' (1964)) [1960s]
+- [[roy_haynes|Roy Haynes]] - recorded with drummer (various sessions) [1950s-1960s]
+- [[charles_mingus|Charles Mingus]] - notable stints with bassist (Mingus albums) [1960s]
 
 ### Artists Influenced
-- [[no_specific_proteges_mentioned|No specific proteges mentioned]] - Influenced by his innovative style and advocacy (N/A) [N/A]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| Now Please Don't You Cry, Beautiful Edith | 1967-01-01 | Album |
-| Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith | 1990-01-01 | Album |
-| We Free Kings | 1962-01-01 | Album |
-| Domino (Expanded Edition) | 1962-01-01 | Album |
-| Rahsaan: The Complete Mercury Recordings Of Roland Kirk | 1990-12-16 | Album |
-| 24 Hr Sports | 2025-09-05 | Album |
-| Volunteered Slavery | 2005-10-18 | Album |
-| Blacknuss | 1993-01-01 | Album |
-| The Inflated Tear | 1998-01-01 | Album |
-| Simmer, Reduce, Garnish & Serve | 1995 | Album |
-| Domino (Live at Radio Bremen TV-Studios 1963, ,) | 2025-04-25 | Album |
-| Enter the Mowo! | 2004 | Album |
-| I Talk With The Spirits | 1998-01-01 | Album |
-| The Return Of The 5,000 Lb Man | 2005-04-26 | Album |
-| The Case of the 3 Sided Dream in Audio Color | 1975 | Album |
-
-### Top Tracks
-1. Alfie (Now Please Don't You Cry, Beautiful Edith)
-2. Alfie (Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith)
-3. Someone To Watch Over Me - Alternate Take (Domino (Expanded Edition))
-4. It's A Grand Night For Swinging (Now Please Don't You Cry, Beautiful Edith)
-5. Volunteered Slavery (Volunteered Slavery)
-6. Ain't No Sunshine (Blacknuss)
-7. A Sack Full Of Soul (We Free Kings)
-8. Blues For Alice (We Free Kings)
-9. Now Please Don't You Cry, Beautiful Edith (Now Please Don't You Cry, Beautiful Edith)
-10. Theme for the Eulipions (Simmer, Reduce, Garnish & Serve)
+- [[michael_blake|Michael Blake]] - adopted simultaneous tenor and soprano saxophone playing ('Three for Dizzy' cover, *New Blues, Old News*, *Weazy*) [2000s]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV)

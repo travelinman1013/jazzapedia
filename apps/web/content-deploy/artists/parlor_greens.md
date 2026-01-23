@@ -1,166 +1,91 @@
 ---
-title: parlor greens
-wiki_slug: parlor-greens
-schema_version: 2
-artist_type: group
-status: active
+biography_enhanced_at: '2026-01-22T07:19:54.284233'
+enhancement_provider: perplexity
+entry_created: '2026-01-22T07:19:54.284239'
+external_urls:
+  spotify: https://open.spotify.com/artist/4c6oXo4PWpSqSnuLqFUxLm
+  wikipedia: ''
 genres:
 - retro soul
-instruments:
-- drums (drum set)
-- Hammond organ
-- electric guitar
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/parlor_greens.jpg
-  caption: parlor greens
-  background: group_or_band
-audio_profile:
-  tempo_avg: 129.6
-  energy_avg: 0.749
-  valence_avg: 0.854
-  danceability_avg: 0.574
-  acousticness_avg: 0.297
-  instrumentalness_avg: 0.825
-  loudness_avg: -5.9
-  speechiness_avg: 0.041
-  liveness_avg: 0.117
-  track_count: 23
-  computed_at: '2025-12-23T08:16:13.956475'
-similar_artists: []
+image_path: 03_Resources/source_material/ArtistPortraits/parlor_greens.jpg
+last_updated: '2026-01-22T07:19:54.284240'
 musical_connections:
   collaborators:
   - Jimmy James
   - Adam Scone
   - Tim Carman
-  - Colemine Records
+  - Terry Cole
+  - Delvon Lamarr Organ Trio
+  - The True Loves
   influenced: []
   mentors:
-  - Dr. Lonnie Smith
+  - Mother of Jimmy James
+  - Sister of Jimmy James
   - Melvin Sparks
-  - Terry Cole
-spotify_data:
-  followers: 8236
-  id: 4c6oXo4PWpSqSnuLqFUxLm
-  popularity: 29
-  url: https://open.spotify.com/artist/4c6oXo4PWpSqSnuLqFUxLm
-discography_enriched: true
-top_tracks:
-- In Green We Dream (In Green We Dream)
-- West Memphis (In Green We Dream)
-- Driptorch (In Green We Dream)
-- Sugar Maple (In Green We Dream)
-- 200 Dollar Blues (Driptorch / 200 Dollar Blues)
-- Parlor Strut (In Green We Dream)
-- My Sweet Lord (In Green We Dream)
-- Flowers For Sharon (In Green We Dream)
-- The Ripper (In Green We Dream)
-- Steam Presser (In Green We Dream)
-external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9d13baba-2e96-448e-ac2b-bf38fc189827
-  spotify: https://open.spotify.com/artist/4c6oXo4PWpSqSnuLqFUxLm
-  wikipedia: null
-image_path: 03_Resources/source_material/ArtistPortraits/parlor_greens.jpg
-biography_enhanced_at: '2025-12-04T07:41:09.102090'
-primary_source: perplexity
-enhancement_provider: perplexity
-research_sources:
-- Jazz Aspen Snowmass - Getting To Know Parlor Greens
-- KNKX Public Radio - Parlor Greens debut album is soul jazz built from love and admiration
-- 'Colemine Records - New Trio! New Tune! Introducing: Parlor Greens'
-- Telluride Jazz Festival - Parlor Greens
-- Parlor Greens Official Website
-- Guitar World Magazine - September 2024
-- 'The Fire Note - Fire Track: Parlor Greens – West Memphis'
+  - Dr. Lonnie Smith
 network_extracted: true
-entry_created: '2025-12-04T07:41:09.102101'
-last_updated: '2025-12-23T08:16:13.956646'
-members:
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: fdb7e916-9963-4df0-ad98-4289d4f230e2
-  name: Tim Carman
-- begin: ''
-  end: ''
-  instruments:
-  - Hammond organ
-  mbid: da60d8fa-2e9e-40b6-9016-fb4b2f9328c4
-  name: Adam Scone
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: 446d5e1d-cc36-4631-a9d4-4cb5ab032c6f
-  name: Jabrille Williams
-musicbrainz_id: 9d13baba-2e96-448e-ac2b-bf38fc189827
-origin: Loveland, Ohio, United States (recording location); Seattle, Boston, and Fort Lauderdale (band members' bases)
+origin: Loveland, Ohio, USA (formed)
+primary_source: perplexity
+research_sources:
+- https://www.guitarworld.com/artists/guitarists/parlor-greens-jimmy-scratch-james-in-green-we-dream
+- https://www.allaboutjazz.com/musicians/parlor-greens/
+- https://www.knkx.org/show/the-new-cool/2024-08-28/parlor-greens-debut-album-is-soul-jazz-built-from-love-and-admiration
+- https://jazzaspensnowmass.org/getting-to-know-parlor-greens/
+- https://joyofviolentmovement.com/new-audio-parlor-greens-share-strutting-eat-your-greens/
+- https://www.coleminerecords.com/blogs/news/new-trio-new-tune-introducing-parlor-greens
+- https://www.parlorgreens.com
+- https://thefirenote.com/news/fire-tracks/fire-track-parlor-greens-west-memphis/
+spotify_data:
+  followers: 9432
+  id: 4c6oXo4PWpSqSnuLqFUxLm
+  popularity: 33
+  url: https://open.spotify.com/artist/4c6oXo4PWpSqSnuLqFUxLm
+status: active
+title: Parlor Greens
 ---
 
 ![](parlor_greens.jpg)
 
-# parlor greens
+# Parlor Greens
 
 ## Quick Info
 - **Genres**: retro soul
-- **Spotify Popularity**: 29/100
-- **Followers**: 8,236
-- **Origin**: Loveland, Ohio, United States (recording location); Seattle, Boston, and Fort Lauderdale (band members' bases)
+- **Spotify Popularity**: 33/100
+- **Followers**: 9,432
+- **Origin**: Loveland, Ohio, USA (formed)
 
 ## Biography
-Parlor Greens is a contemporary organ trio that emerged in 2024 as a collaborative project between three accomplished musicians in the soul and blues revival scene. The band was brought together by Colemine Records founder Terry Cole and recorded their debut album 'In Green / We Dream' at Cole's newly established studios in Loveland, Ohio. The trio's formation was notably organic—guitarist Jimmy James, organist Adam Scone, and drummer Tim Carman had never played together before entering the studio, yet they achieved immediate chemistry that resulted in what has been described as premium organ trio soul music. Their sound draws heavily from the legacies of 1960s organ-guitar-drums masters including Dr. Lonnie Smith, Melvin Sparks, and Bernard 'Pretty' Purdie, creating a vintage aesthetic with contemporary execution.
+Parlor Greens is a supergroup organ trio formed in 2023, consisting of guitarist Jimmy 'Scratch' James from Seattle, organist Adam Scone from New York, and drummer Tim Carman from Boston. The project originated when Carman and Colemine Records founder Terry Cole discussed their admiration for classic organ combo records from labels like Blue Note and Prestige, leading Cole to assemble the trio for the inaugural session at his new Portage Lounge Studio in Loveland, Ohio. Upon arriving, the musicians experienced instant chemistry: within ten minutes of plugging in, they wrote and recorded their first track, 'West Memphis,' marking the spontaneous birth of Parlor Greens and their debut album *In Green/We Dream*.[1][2][3][6]
 
-The band's musical identity is characterized by funky, soulful instrumental compositions that blend elements of soul jazz, blues, and Meters-style funk. Their debut LP 'In Green / We Dream' was the first album recorded in Terry Cole's Loveland studios and quickly became a sold-out release. Following the success of their debut, Parlor Greens released the 45 'Driptorch / 200 Dollar Blues' in February 2025, featuring the gritty title track and a blues shuffle instrumental. The trio has also reimagined Dolly Parton's 'Jolene' with their distinctive soul flavor, demonstrating their versatility beyond original compositions. Despite being geographically dispersed—with members based in Boston, Fort Lauderdale, and Seattle—the band has developed a reputation for seamless musical collaboration and has performed at notable venues including the Telluride Jazz Festival and Seattle's City Hall Plaza.
+Jimmy James, the rhythmic backbone of the group, brings decades of experience from Seattle's soul scene, having co-led The True Loves and served as the original guitarist for the Delvon Lamarr Organ Trio. His style emphasizes groove and pocket, influenced by his early days playing drums and lessons from his late mother (a singer who stressed melody and rhythm) and sister (a drummer who taught tempo discipline). Adam Scone, a veteran of the soul revival with Daptone Records, studied under soul jazz legends like Melvin Sparks and Dr. Lonnie Smith, delivering masterful organ work. Tim Carman, known for his blues shuffles with GA-20, provides a steady, funky pocket. Their sound channels 1960s organ-guitar-drums masters like Dr. Lonnie Smith, Melvin Sparks, and Bernard 'Pretty' Purdie, blending retro soul, funk, and jazz into danceable instrumentals.[1][2][3][5]
 
-Parlor Greens represents a significant entry in the contemporary soul revival movement, with critics and industry figures recognizing them as one of the most exciting projects in instrumental music. The band's appeal lies not only in their technical proficiency but in their genuine musical camaraderie and shared reverence for soul and blues traditions. Their work has positioned them as torchbearers of the organ trio format, introducing this classic sound to contemporary audiences while maintaining authenticity to the genre's roots.
+The trio's music reflects personal resilience, recorded amid individual tragedies but emerging as a joyful collaboration. Parlor Greens represents a pinnacle for these veterans, with James noting it as potentially his finest hour, prioritizing rhythm that 'drives the locomotive' over leads to create feel-good grooves that evoke nostalgia and escape.[1][3][5]
 
 *Enhanced with Perplexity AI research*
 
-*Sources: [Source1](Jazz Aspen Snowmass - Getting To Know Parlor Greens), [Source2](KNKX Public Radio - Parlor Greens debut album is soul jazz built from love and admiration), [Source3](Colemine Records - New Trio! New Tune! Introducing: Parlor Greens), [Source4](Telluride Jazz Festival - Parlor Greens), [Source5](Parlor Greens Official Website), [Source6](Guitar World Magazine - September 2024), [Source7](The Fire Note - Fire Track: Parlor Greens – West Memphis)*
+*Sources: [Source1](https://www.guitarworld.com/artists/guitarists/parlor-greens-jimmy-scratch-james-in-green-we-dream), [Source2](https://www.allaboutjazz.com/musicians/parlor-greens/), [Source3](https://www.knkx.org/show/the-new-cool/2024-08-28/parlor-greens-debut-album-is-soul-jazz-built-from-love-and-admiration), [Source4](https://jazzaspensnowmass.org/getting-to-know-parlor-greens/), [Source5](https://joyofviolentmovement.com/new-audio-parlor-greens-share-strutting-eat-your-greens/), [Source6](https://www.coleminerecords.com/blogs/news/new-trio-new-tune-introducing-parlor-greens), [Source7](https://www.parlorgreens.com), [Source8](https://thefirenote.com/news/fire-tracks/fire-track-parlor-greens-west-memphis/)*
 
 ## Fun Facts
-- Parlor Greens' formation was explicitly documented in real-time: the first song they ever played together as a band, 'West Memphis,' was recorded during their initial studio session and became their debut single, capturing the moment the trio was born.
-- Despite living in opposite corners of the United States—Boston, Fort Lauderdale, and Seattle—the three band members had never met before entering the studio, yet they achieved instant musical chemistry that felt 'natural and seamless' according to drummer Tim Carman.
-- The band's debut album 'In Green / We Dream' holds the distinction of being the first recording project completed at Colemine Records founder Terry Cole's newly established studios in Loveland, Ohio.
-- Parlor Greens performed a free show at Seattle's City Hall Plaza on September 3, 2024, as part of the city's Downtown Summer Sounds series, marking one of their earliest live performances as a newly formed band.
-
-## Members
-- [[tim_carman|Tim Carman]] - drums (drum set)
-- [[adam_scone|Adam Scone]] - Hammond organ
-- [[jabrille_williams|Jabrille Williams]] - electric guitar
+- The trio wrote and recorded their first song 'West Memphis' within the first ten minutes of plugging in at the studio, fresh off planes amid personal tragedies, turning grief into instant musical joy.
+- Jimmy James discovered Jimi Hendrix too late; as a child, he thought Hendrix was current and asked his sister where to see him live, only to learn he had passed away years earlier.
+- James' favored 1964 Silvertone guitar was reportedly found in a garbage can; Daptone's Tommy Brenneck identified its vintage year during a show with The Dap-Kings.
+- Parlor Greens' debut *In Green/We Dream* was the first album recorded at Colemine's new Portage Lounge Studio in Loveland, Ohio.
 
 ## Musical Connections
 
 ### Mentors/Influences
-- [[dr._lonnie_smith|Dr. Lonnie Smith]] - Stylistic influence and legacy model for organist Adam Scone; Scone learned directly from Smith's approach to organ playing (Smith's organ recordings from the 1960s-present) [Ongoing influence]
-- [[melvin_sparks|Melvin Sparks]] - Direct mentor to Adam Scone; guitarist and organist who shaped Scone's understanding of soul jazz guitar and organ interplay (Sparks' soul jazz recordings) [Ongoing influence]
-- [[terry_cole|Terry Cole]] - Founder of Colemine Records who brought the three musicians together for the Parlor Greens project and facilitated their first recording (In Green / We Dream (debut album production)) [2024-present]
+- [[mother_of_jimmy_james|Mother of Jimmy James]] - singer who taught emphasis on melody and rhythm (personal lessons) [childhood]
+- [[sister_of_jimmy_james|Sister of Jimmy James]] - drummer who emphasized tempo, pocket, and staying out of the way (personal lessons) [childhood]
+- [[melvin_sparks|Melvin Sparks]] - soul jazz legend who mentored Adam Scone (soul jazz sessions) [pre-2023]
+- [[dr._lonnie_smith|Dr. Lonnie Smith]] - iconic organist who influenced Adam Scone (soul jazz legacy) [pre-2023]
 
 ### Key Collaborators
-- [[jimmy_james|Jimmy James]] - Guitarist and co-leader; formerly with the Delvon Lamarr Organ Trio and co-leader of Seattle soul group The True Loves (In Green / We Dream, Driptorch / 200 Dollar Blues 45, Jolene single) [2024-present]
-- [[adam_scone|Adam Scone]] - Organist and band member; known for work with Sugarman Three and Scone Cash Players; veteran of Daptone Records sessions (In Green / We Dream, Driptorch / 200 Dollar Blues 45, Jolene single) [2024-present]
-- [[tim_carman|Tim Carman]] - Drummer and band member; formerly with blues group GA-20 and Canyon Lights; brings blues shuffle expertise to the trio (In Green / We Dream, Driptorch / 200 Dollar Blues 45, Jolene single) [2024-present]
-- [[colemine_records|Colemine Records]] - Record label that signed and released Parlor Greens' debut album and subsequent singles (In Green / We Dream LP, Driptorch / 200 Dollar Blues 45) [2024-present]
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| In Green We Dream | 2024-07-19 | Album |
-
-### Top Tracks
-1. In Green We Dream (In Green We Dream)
-2. West Memphis (In Green We Dream)
-3. Driptorch (In Green We Dream)
-4. Sugar Maple (In Green We Dream)
-5. 200 Dollar Blues (Driptorch / 200 Dollar Blues)
-6. Parlor Strut (In Green We Dream)
-7. My Sweet Lord (In Green We Dream)
-8. Flowers For Sharon (In Green We Dream)
-9. The Ripper (In Green We Dream)
-10. Steam Presser (In Green We Dream)
+- [[jimmy_james|Jimmy James]] - guitarist, core member (In Green/We Dream, The True Loves, Delvon Lamarr Organ Trio) [2023-present]
+- [[adam_scone|Adam Scone]] - organist, core member (In Green/We Dream, Scone Cash Players, Sugarman 3, Daptone sessions) [2023-present]
+- [[tim_carman|Tim Carman]] - drummer, core member (In Green/We Dream, GA-20) [2023-present]
+- [[terry_cole|Terry Cole]] - Colemine Records founder who assembled the trio (In Green/We Dream production) [2023]
+- [[delvon_lamarr_organ_trio|Delvon Lamarr Organ Trio]] - original guitarist for Jimmy James (various albums) [pre-2023]
+- [[the_true_loves|The True Loves]] - co-leader and guitarist for Jimmy James (various albums) [pre-2023]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/4c6oXo4PWpSqSnuLqFUxLm)
-- [MusicBrainz](https://musicbrainz.org/artist/9d13baba-2e96-448e-ac2b-bf38fc189827)
