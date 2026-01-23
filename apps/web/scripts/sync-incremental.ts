@@ -33,7 +33,7 @@ const CONFIG = {
   artistsDir: process.env.ARTISTS_DIR || './content/artists',
   portraitsDir: process.env.PORTRAITS_DIR || './portraits',
   databaseName: 'jazzapedia',
-  batchSize: 15, // Reduced from 50 to avoid D1 SQLITE_TOOBIG errors on artists with large content
+  batchSize: 5, // Reduced from 50 to avoid D1 SQLITE_TOOBIG errors on artists with large content
   outputDir: './sync-output',
 };
 
