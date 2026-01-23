@@ -248,6 +248,22 @@ elif [ "$DRY_RUN" = true ]; then
 else
   cd "$REPO_ROOT"
 
+  # Ensure we're on main branch for Cloudflare deployment
+  CURRENT_BRANCH=$(git branch --show-current)
+  SWITCHED_BRANCH=false
+  if [ "$CURRENT_BRANCH" != "main" ]; then
+    log "Git: Currently on '$CURRENT_BRANCH', switching to main..."
+    # Stash any uncommitted changes in working directory
+    if [ -n "$(git status --porcelain 2>/dev/null)" ]; then
+      git stash push -m "sync-script: auto-stash before branch switch" >> "$LOG_FILE" 2>&1
+      STASHED=true
+    else
+      STASHED=false
+    fi
+    git checkout main >> "$LOG_FILE" 2>&1
+    SWITCHED_BRANCH=true
+  fi
+
   # Sync local content to content-deploy for Cloudflare
   # (content-deploy is committed to git for the deployment pipeline)
   log "Syncing local content to content-deploy..."
@@ -303,6 +319,15 @@ else
     # Trigger GitHub Actions
     log "Triggering GitHub Actions..."
     gh workflow run sync-artists.yml >> "$LOG_FILE" 2>&1 || log "WARNING: gh workflow trigger failed"
+  fi
+
+  # Switch back to original branch if we switched
+  if [ "$SWITCHED_BRANCH" = true ]; then
+    log "Git: Switching back to '$CURRENT_BRANCH'..."
+    git checkout "$CURRENT_BRANCH" >> "$LOG_FILE" 2>&1
+    if [ "$STASHED" = true ]; then
+      git stash pop >> "$LOG_FILE" 2>&1 || log "WARNING: Failed to pop stash"
+    fi
   fi
 fi
 

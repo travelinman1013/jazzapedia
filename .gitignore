@@ -28,10 +28,8 @@ pnpm-debug.log*
 coverage/
 
 # Data files (local development)
-data/*.db
-data/*.db-wal
-data/*.db-shm
-data/
+# Use /data/ to only match root-level data directory, not apps/web/src/data/
+/data/
 
 # Scraper config (contains secrets)
 config/scraper/config.yaml
