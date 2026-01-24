@@ -294,11 +294,18 @@ else
 
   # Sync local artist content to content-deploy for Cloudflare
   # (content-deploy is committed to git for the deployment pipeline)
-  # Note: Portraits are uploaded directly to R2 in Step 3.5, not via git
   log "Syncing local artists to content-deploy..."
   rsync -av --delete --exclude='.*' \
     --exclude='*_20[0-9][0-9][0-9][0-9][0-9][0-9]_[0-9][0-9][0-9][0-9][0-9][0-9].md' \
     "$LOCAL_ARTISTS/" "$CONTENT_DEPLOY/artists/" >> "$LOG_FILE" 2>&1
+
+  # Sync portraits to content-deploy for GitHub Actions to find during D1 sync
+  # (portraits are also uploaded directly to R2 in Step 3.5)
+  log "Syncing portraits to content-deploy..."
+  rsync -av --ignore-existing \
+    --include="*.jpg" --include="*.jpeg" --include="*.png" --include="*.webp" \
+    --exclude="*" \
+    "$LOCAL_PORTRAITS/" "$CONTENT_DEPLOY/portraits/" >> "$LOG_FILE" 2>&1
 
   # Verify sync succeeded - content counts should match
   LOCAL_COUNT=$(find "$LOCAL_ARTISTS" -name "*.md" -type f 2>/dev/null | wc -l | tr -d ' ')

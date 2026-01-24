@@ -39,7 +39,8 @@ config/scraper/processed_archives.json
 archives/
 
 # Portraits (large image files, served from volume)
-portraits/
+# Use /portraits/ to only match root-level directory, not content-deploy/portraits/
+/portraits/
 
 # Content directories
 # Artist content is tracked (source of truth for the project)
