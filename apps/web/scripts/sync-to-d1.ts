@@ -269,13 +269,13 @@ function generateBatchSQL(artists: ArtistData[], startId: number): string {
     const artist = artists[i];
     const id = startId + i;
 
-    // Generate INSERT for artists table
-    statements.push(`INSERT OR REPLACE INTO artists (
+    // Generate INSERT for artists table - preserve created_at for existing records
+    statements.push(`INSERT INTO artists (
   id, slug, title, artist_type, birth_date, death_date,
   origin, birth_place, research_sources,
   bio_html, bio_markdown, image_filename,
   genres, instruments, roles, spotify_data, audio_profile,
-  external_urls, musical_connections, content_hash, updated_at
+  external_urls, musical_connections, content_hash, created_at, updated_at
 ) VALUES (
   ${id},
   ${escapeSql(artist.slug)},
@@ -297,8 +297,29 @@ function generateBatchSQL(artists: ArtistData[], startId: number): string {
   ${escapeJson(artist.external_urls)},
   ${escapeJson(artist.musical_connections)},
   ${escapeSql(artist.content_hash)},
+  datetime('now'),
   datetime('now')
-);`);
+)
+ON CONFLICT(slug) DO UPDATE SET
+  title = excluded.title,
+  artist_type = excluded.artist_type,
+  birth_date = excluded.birth_date,
+  death_date = excluded.death_date,
+  origin = excluded.origin,
+  birth_place = excluded.birth_place,
+  research_sources = excluded.research_sources,
+  bio_html = excluded.bio_html,
+  bio_markdown = excluded.bio_markdown,
+  image_filename = excluded.image_filename,
+  genres = excluded.genres,
+  instruments = excluded.instruments,
+  roles = excluded.roles,
+  spotify_data = excluded.spotify_data,
+  audio_profile = excluded.audio_profile,
+  external_urls = excluded.external_urls,
+  musical_connections = excluded.musical_connections,
+  content_hash = excluded.content_hash,
+  updated_at = datetime('now');`);
 
     // Generate INSERT for search_index table
     statements.push(`INSERT OR REPLACE INTO search_index (id, slug, title, bio_text, genres_text, instruments_text)
