@@ -236,6 +236,34 @@ else
 fi
 
 # ============================================================
+# STEP 3.5: Upload Portraits to R2 (direct, skip git)
+# ============================================================
+
+log_section "Step 3.5: Upload Portraits to R2"
+
+if [ "$DRY_RUN" = true ]; then
+  log "DRY RUN: Would upload portraits to R2"
+else
+  # Check for Cloudflare credentials
+  if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+    # Try to load from .env file
+    if [ -f "$REPO_ROOT/.env" ]; then
+      export $(grep -E '^CLOUDFLARE_(API_TOKEN|ACCOUNT_ID)=' "$REPO_ROOT/.env" | xargs)
+    fi
+  fi
+
+  if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+    log "WARNING: Cloudflare credentials not found, skipping R2 upload"
+    log "  Set CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID in environment or .env"
+  else
+    log "Uploading new portraits to R2..."
+    cd "$WEB_DIR"
+    PORTRAITS_DIR="$LOCAL_PORTRAITS" npx tsx "$SCRIPT_DIR/upload-portraits-r2.ts" 2>&1 | tee -a "$LOG_FILE"
+    log "R2 upload complete"
+  fi
+fi
+
+# ============================================================
 # STEP 4: Local Content -> Git push (for Cloudflare)
 # ============================================================
 
@@ -264,14 +292,13 @@ else
     SWITCHED_BRANCH=true
   fi
 
-  # Sync local content to content-deploy for Cloudflare
+  # Sync local artist content to content-deploy for Cloudflare
   # (content-deploy is committed to git for the deployment pipeline)
-  log "Syncing local content to content-deploy..."
+  # Note: Portraits are uploaded directly to R2 in Step 3.5, not via git
+  log "Syncing local artists to content-deploy..."
   rsync -av --delete --exclude='.*' \
     --exclude='*_20[0-9][0-9][0-9][0-9][0-9][0-9]_[0-9][0-9][0-9][0-9][0-9][0-9].md' \
     "$LOCAL_ARTISTS/" "$CONTENT_DEPLOY/artists/" >> "$LOG_FILE" 2>&1
-  rsync -av --delete --exclude='.*' \
-    "$LOCAL_PORTRAITS/" "$CONTENT_DEPLOY/portraits/" >> "$LOG_FILE" 2>&1
 
   # Verify sync succeeded - content counts should match
   LOCAL_COUNT=$(find "$LOCAL_ARTISTS" -name "*.md" -type f 2>/dev/null | wc -l | tr -d ' ')

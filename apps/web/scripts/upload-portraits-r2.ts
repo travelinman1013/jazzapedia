@@ -1,13 +1,17 @@
 #!/usr/bin/env tsx
 
 import { execSync } from 'child_process';
-import { readdirSync, statSync } from 'fs';
-import { join } from 'path';
+import { readdirSync, statSync, readFileSync, writeFileSync, existsSync } from 'fs';
+import { join, dirname } from 'path';
 
 const PORTRAITS_DIR = process.env.PORTRAITS_DIR || './portraits';
 const BUCKET_NAME = 'jazzapedia-portraits';
 const R2_PREFIX = 'portraits/';
 const IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.webp'];
+
+// Manifest file tracks what's been uploaded to R2
+// Stored in the portraits directory itself
+const MANIFEST_FILE = join(PORTRAITS_DIR, '.r2-uploaded-manifest.json');
 
 interface UploadStats {
   total: number;
@@ -17,51 +21,45 @@ interface UploadStats {
   errors: Array<{ file: string; error: string }>;
 }
 
-function getExistingR2Files(): Set<string> {
-  console.log('Fetching existing files from R2...');
-  const existing = new Set<string>();
+interface ManifestEntry {
+  filename: string;
+  size: number;
+  uploadedAt: string;
+}
 
-  const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
-  const apiToken = process.env.CLOUDFLARE_API_TOKEN;
-
-  if (!accountId || !apiToken) {
-    console.log('Missing CLOUDFLARE_ACCOUNT_ID or CLOUDFLARE_API_TOKEN, will upload all files\n');
-    return existing;
-  }
+function loadManifest(): Map<string, ManifestEntry> {
+  const manifest = new Map<string, ManifestEntry>();
 
   try {
-    let cursor: string | undefined;
-
-    // Paginate through all objects
-    do {
-      const cursorParam = cursor ? `&cursor=${cursor}` : '';
-      const result = execSync(
-        `curl -s "https://api.cloudflare.com/client/v4/accounts/${accountId}/r2/buckets/${BUCKET_NAME}/objects?prefix=${R2_PREFIX}&per_page=1000${cursorParam}" -H "Authorization: Bearer ${apiToken}"`,
-        { stdio: 'pipe', maxBuffer: 50 * 1024 * 1024 }
-      ).toString();
-
-      const data = JSON.parse(result);
-
-      if (data.success && data.result) {
-        for (const obj of data.result) {
-          if (obj.key) {
-            const filename = obj.key.replace(R2_PREFIX, '');
-            existing.add(filename);
-          }
+    if (existsSync(MANIFEST_FILE)) {
+      const data = JSON.parse(readFileSync(MANIFEST_FILE, 'utf-8'));
+      if (Array.isArray(data)) {
+        for (const entry of data) {
+          manifest.set(entry.filename, entry);
         }
-        cursor = data.result_info?.cursor;
-      } else {
-        console.log('API error:', data.errors?.[0]?.message || 'Unknown error');
-        break;
       }
-    } while (cursor);
-
-    console.log(`Found ${existing.size} existing files in R2\n`);
+    }
   } catch (error) {
-    console.log('Could not list R2 objects, will upload all files\n');
+    console.log('Could not load manifest, will check file sizes for changes');
   }
 
-  return existing;
+  return manifest;
+}
+
+function saveManifest(manifest: Map<string, ManifestEntry>): void {
+  try {
+    const data = Array.from(manifest.values());
+    writeFileSync(MANIFEST_FILE, JSON.stringify(data, null, 2));
+  } catch (error) {
+    console.log('Warning: Could not save manifest file');
+  }
+}
+
+function getUploadedFiles(): Map<string, ManifestEntry> {
+  console.log('Loading upload manifest...');
+  const manifest = loadManifest();
+  console.log(`Found ${manifest.size} previously uploaded files in manifest\n`);
+  return manifest;
 }
 
 function getImageFiles(dir: string): string[] {
@@ -117,13 +115,25 @@ async function main() {
     return;
   }
 
-  // Get existing files in R2 to avoid re-uploading
-  const existingFiles = getExistingR2Files();
+  // Load manifest of previously uploaded files
+  const manifest = getUploadedFiles();
 
-  // Filter to only new files
+  // Filter to only new or changed files (check size for changes)
   const filesToUpload = imageFiles.filter(filePath => {
     const filename = filePath.substring(filePath.lastIndexOf('/') + 1);
-    return !existingFiles.has(filename);
+    const existing = manifest.get(filename);
+
+    if (!existing) return true; // New file
+
+    // Check if file size changed (indicates update)
+    try {
+      const currentSize = statSync(filePath).size;
+      if (currentSize !== existing.size) return true;
+    } catch {
+      return true;
+    }
+
+    return false;
   });
 
   console.log(`Files to upload: ${filesToUpload.length} (skipping ${imageFiles.length - filesToUpload.length} existing)\n`);
@@ -152,6 +162,13 @@ async function main() {
 
     if (success) {
       stats.success++;
+      // Update manifest on successful upload
+      const size = statSync(filePath).size;
+      manifest.set(filename, {
+        filename,
+        size,
+        uploadedAt: new Date().toISOString()
+      });
     } else {
       stats.failure++;
       stats.errors.push({
@@ -160,12 +177,15 @@ async function main() {
       });
     }
 
-    // Show progress every 50 files (or every file if small batch)
-    if ((i + 1) % 50 === 0 || filesToUpload.length < 50) {
+    // Show progress every 10 files (or every file if small batch)
+    if ((i + 1) % 10 === 0 || i === filesToUpload.length - 1) {
       const progress = ((i + 1) / filesToUpload.length * 100).toFixed(1);
       console.log(`Progress: ${i + 1}/${filesToUpload.length} (${progress}%) - Success: ${stats.success}, Failures: ${stats.failure}`);
     }
   }
+
+  // Save updated manifest
+  saveManifest(manifest);
 
   // Final report
   console.log('\n' + '='.repeat(60));
