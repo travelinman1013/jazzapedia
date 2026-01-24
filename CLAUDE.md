@@ -14,6 +14,13 @@ jazzapedia/
 ├── apps/
 │   ├── scraper/          # Node.js + TypeScript + Playwright
 │   └── web/              # Astro + TypeScript + Tailwind
+│       ├── content-deploy/     # Git-tracked content for Cloudflare deployment
+│       │   ├── artists/        # Artist markdown files
+│       │   └── portraits/      # Portrait images (for D1 sync matching)
+│       ├── scripts/            # Sync and deployment scripts
+│       └── src/
+│           ├── content/wwoz/   # WWOZ archive files
+│           └── data/           # Generated data files (artist-slugs.json)
 ├── packages/
 │   ├── types/            # @jazzapedia/types - shared interfaces
 │   ├── db/               # @jazzapedia/db - database abstraction
@@ -21,6 +28,9 @@ jazzapedia/
 ├── config/
 │   ├── scraper/          # Runtime config (not in git)
 │   └── nginx/            # Nginx configuration
+├── content/
+│   └── artists/          # Source of truth for artist markdown files
+├── portraits/            # Source of truth for portrait images (gitignored)
 ├── data/                 # SQLite database (mounted in Docker)
 └── docker-compose.yml
 ```
@@ -30,6 +40,7 @@ jazzapedia/
 - **Monorepo**: Turborepo + pnpm workspaces
 - **Web Framework**: Astro with SSR
 - **Database**: Cloudflare D1 (production) / SQLite via better-sqlite3 (Docker)
+- **Portrait Storage**: Cloudflare R2 (production) / Local filesystem (Docker)
 - **Scraping**: Playwright for browser automation
 - **APIs**: Spotify Web API for track matching
 - **Deployment**: Cloudflare Workers (web) / Docker (self-hosted)
@@ -59,10 +70,104 @@ interface DatabaseAdapter {
 ```
 
 Tables:
-- `artists` - Artist profiles with Spotify data
+- `artists` - Artist profiles with Spotify data, `image_filename` references R2 portraits
 - `songs` - Individual track plays
 - `artist_songs` - Junction table
 - `daily_logs` - WWOZ daily archive metadata
+- `search_index` - FTS5 search index for artists
+
+## Data Flow Architecture
+
+### Content Storage Locations
+
+| Data Type | Source of Truth | Docker | Cloudflare Production |
+|-----------|-----------------|--------|----------------------|
+| Artist markdown | `content/artists/` | SQLite via sync | D1 via GitHub Actions |
+| Portraits | `portraits/` | Local filesystem | R2 bucket (`media.jazzapedia.com`) |
+| WWOZ archives | `archives/` symlink | Baked into Docker image | Git via `src/content/wwoz/` |
+| Artist slugs index | Generated | Baked into Docker image | Git via `src/data/artist-slugs.json` |
+
+### Daily Sync Pipeline
+
+The `unified-daily-sync.sh` script orchestrates all sync operations (runs at 4:30am CT via launchd):
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                         unified-daily-sync.sh                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  Step 1: Local Content → SQLite                                             │
+│  ├── sync-incremental-sqlite.ts                                             │
+│  ├── Reads: content/artists/, portraits/                                    │
+│  └── Writes: data/jazzapedia.db                                             │
+│                                                                             │
+│  Step 1.5: Generate Artist Slugs Index                                      │
+│  ├── generate-artist-slugs.ts                                               │
+│  └── Writes: src/data/artist-slugs.json                                     │
+│                                                                             │
+│  Step 1.6: WWOZ Archives → Content                                          │
+│  ├── sync-wwoz.ts                                                           │
+│  ├── Reads: archives/YYYY/MM/*.md                                           │
+│  └── Writes: src/content/wwoz/*.md                                          │
+│                                                                             │
+│  Step 2: Local → Obsidian Vault (backup)                                    │
+│  ├── rsync artists and portraits                                            │
+│  └── Destination: Obsidian vault directories                                │
+│                                                                             │
+│  Step 3: Docker Update                                                      │
+│  ├── Rebuild if WWOZ/slugs changed (content baked into image)               │
+│  └── Restart if only SQLite changed (runtime volume)                        │
+│                                                                             │
+│  Step 3.5: Upload Portraits to R2                                           │
+│  ├── upload-portraits-r2.ts                                                 │
+│  ├── Uses local manifest: portraits/.r2-uploaded-manifest.json              │
+│  └── Only uploads NEW portraits (incremental)                               │
+│                                                                             │
+│  Step 4: Local Content → Git Push                                           │
+│  ├── rsync content/artists/ → content-deploy/artists/                       │
+│  ├── rsync portraits/ → content-deploy/portraits/ (for D1 sync matching)    │
+│  ├── Commit changes to: content-deploy/, src/content/wwoz/, artist-slugs    │
+│  └── Push to origin/main                                                    │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    GitHub Actions (sync-artists.yml)                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  Triggered by: push to main, daily schedule (5am CT), or manual             │
+│                                                                             │
+│  Job: sync-to-d1                                                            │
+│  ├── sync-incremental.ts --remote                                           │
+│  ├── Reads: content-deploy/artists/, content-deploy/portraits/              │
+│  ├── Writes: Cloudflare D1 database                                         │
+│  └── Uses COALESCE to preserve existing image_filename if portrait not found│
+│                                                                             │
+│  Note: Portrait upload is handled locally, NOT in GitHub Actions            │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### Portrait Handling
+
+Portraits are stored in Cloudflare R2 and served via `media.jazzapedia.com`:
+
+1. **Local storage**: `portraits/` directory (gitignored)
+2. **R2 upload**: Direct from local machine via `upload-portraits-r2.ts`
+3. **Tracking**: Local manifest file `portraits/.r2-uploaded-manifest.json`
+4. **Database reference**: `artists.image_filename` column stores filename (e.g., `dr_john.jpg`)
+5. **Web display**: Constructed URL `https://media.jazzapedia.com/portraits/{image_filename}`
+
+**Why portraits are also in content-deploy/portraits/:**
+- GitHub Actions runs the D1 sync script which needs to find portrait files to set `image_filename`
+- The `findPortraitFile()` function looks in `PORTRAITS_DIR` to match artists to portraits
+- Without portraits in content-deploy, new artists would have `image_filename = NULL` in D1
+
+**COALESCE protection:**
+- The D1 sync uses `COALESCE(excluded.image_filename, image_filename)` in the UPDATE clause
+- This preserves existing `image_filename` if no portrait is found locally
+- Prevents accidental NULL overwrites when GitHub Actions can't find a portrait
 
 ## Scraper Pipeline
 
@@ -78,14 +183,14 @@ Key files:
 
 ## Artist Discovery Pipeline
 
-A Python pipeline that creates artist profile cards in Obsidian vault using Spotify, MusicBrainz, and Perplexity AI.
+A Python pipeline that creates artist profile cards using Spotify, MusicBrainz, and Perplexity AI.
 
 **How it works:**
 1. Triggered after day-change detection (with configurable delay)
 2. Parses daily archive markdown for unique artists
 3. Enriches with Spotify/MusicBrainz metadata
 4. Generates artist cards via Perplexity AI
-5. Downloads artist portraits
+5. Downloads artist portraits to `portraits/` directory
 
 **Key files:**
 - `apps/scraper/artist_discovery_pipeline.py` - Main Python script
@@ -195,6 +300,18 @@ Volumes:
 - `/vault/Artists` - Obsidian artist cards directory
 - `/vault/ArtistPortraits` - Obsidian portraits directory
 
+## Sync Scripts Reference
+
+| Script | Purpose | Runs Where |
+|--------|---------|------------|
+| `sync-incremental-sqlite.ts` | Sync artists to local SQLite | Local (unified-daily-sync.sh) |
+| `sync-incremental.ts --remote` | Sync artists to D1 | GitHub Actions |
+| `sync-to-d1.ts --remote` | Full sync to D1 (all artists) | Manual only |
+| `sync-wwoz.ts` | Sync WWOZ archives | Local (unified-daily-sync.sh) |
+| `upload-portraits-r2.ts` | Upload portraits to R2 | Local (unified-daily-sync.sh) |
+| `generate-artist-slugs.ts` | Generate artist-slugs.json | Local (unified-daily-sync.sh) |
+| `unified-daily-sync.sh` | Orchestrates all sync operations | Local (launchd at 4:30am CT) |
+
 ## Common Tasks
 
 ### Add a new shared type
@@ -217,12 +334,27 @@ docker compose logs -f scraper
 docker compose exec scraper node dist/index.js --once
 ```
 
-### Sync WWOZ archives
+### Run full daily sync manually
 ```bash
 cd apps/web
-npm run sync:wwoz              # Sync new/changed archives
-npm run sync:wwoz:dry-run      # Preview what would sync
-npm run sync:all               # Full daily sync (SQLite + WWOZ + git push)
+./scripts/unified-daily-sync.sh              # Full sync
+./scripts/unified-daily-sync.sh --dry-run    # Preview only
+./scripts/unified-daily-sync.sh --skip-git   # Local only, no git push
+```
+
+### Upload portraits to R2 manually
+```bash
+cd apps/web
+PORTRAITS_DIR=../../portraits npx tsx scripts/upload-portraits-r2.ts
+```
+
+### Fix missing portrait in D1
+```bash
+# Check current state
+npx wrangler d1 execute jazzapedia --remote --command "SELECT image_filename FROM artists WHERE slug = 'artist-slug'"
+
+# Update manually
+npx wrangler d1 execute jazzapedia --remote --command "UPDATE artists SET image_filename = 'artist_name.jpg' WHERE slug = 'artist-slug'"
 ```
 
 ## Environment Variables
@@ -238,11 +370,17 @@ npm run sync:all               # Full daily sync (SQLite + WWOZ + git push)
 - `DATABASE_PATH` - SQLite path (Docker only)
 - `HOST` / `PORT` - Server binding
 
+### Sync Scripts
+- `CLOUDFLARE_API_TOKEN` - For R2 upload and D1 sync
+- `CLOUDFLARE_ACCOUNT_ID` - Cloudflare account ID
+- `PORTRAITS_DIR` - Override portrait source directory
+- `ARTISTS_DIR` - Override artist markdown directory
+
 ## Deployment Notes
 
 ### Cloudflare
 - D1 database binding: `DB`
-- KV namespace: `ARTIST_PORTRAITS`
+- R2 bucket: `jazzapedia-portraits` (served via `media.jazzapedia.com`)
 - Wrangler config: `apps/web/wrangler.toml`
 
 ### Docker
@@ -258,11 +396,18 @@ npm run sync:all               # Full daily sync (SQLite + WWOZ + git push)
 | Deploy Web | `deploy-web.yml` | Push to main (paths: apps/web, packages) |
 | Sync Artists | `sync-artists.yml` | Daily 5am CT or manual |
 
+**Sync Artists Workflow:**
+- Syncs artist data from `content-deploy/` to Cloudflare D1
+- Does NOT upload portraits (handled locally via unified-daily-sync.sh)
+- Uses `content-deploy/portraits/` only for matching `image_filename` during sync
+
 **Daily Sync Pipeline (4:30am CT via launchd):**
-1. `unified-daily-sync.sh` syncs artists + WWOZ archives
-2. Commits and pushes to `origin/main`
-3. Triggers `sync-artists.yml` workflow
-4. Cloudflare rebuilds with new content
+1. `unified-daily-sync.sh` runs locally
+2. Syncs to SQLite, uploads portraits to R2
+3. Syncs content to `content-deploy/`
+4. Commits and pushes to `origin/main`
+5. Triggers `sync-artists.yml` workflow
+6. GitHub Actions syncs to D1
 
 Secrets required:
 - `CLOUDFLARE_API_TOKEN`
@@ -282,3 +427,8 @@ Secrets required:
    - **Cloudflare D1**: Use `npx wrangler d1 execute jazzapedia --file=<sql> --remote`
    - **Docker SQLite**: Use `sqlite3 ./data/jazzapedia.db < <sql>` then `docker compose restart web`
    - Always verify both deployments work after making data changes
+10. **Portrait sync to content-deploy** - Portraits must be synced to `content-deploy/portraits/` AND uploaded to R2. The content-deploy copy is needed for GitHub Actions D1 sync to match `image_filename`. The R2 copy is what's actually served to users.
+11. **R2 manifest file** - The `portraits/.r2-uploaded-manifest.json` tracks which portraits have been uploaded to R2. This file is local-only and not committed to git. If lost, portraits will be re-uploaded (idempotent).
+12. **image_filename preservation** - The D1 sync scripts use `COALESCE(excluded.image_filename, image_filename)` to preserve existing values if a portrait isn't found. This prevents accidental NULL overwrites.
+13. **created_at preservation** - The sync scripts use `INSERT...ON CONFLICT DO UPDATE` to preserve the original `created_at` timestamp, preventing artists from appearing repeatedly in "Recently Added".
+14. **.gitignore patterns** - Root `/portraits/` is ignored, but `apps/web/content-deploy/portraits/` is tracked. Be careful when modifying gitignore patterns.

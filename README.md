@@ -9,10 +9,17 @@ jazzapedia/
 ├── apps/
 │   ├── scraper/          # WWOZ playlist scraper (Node.js + Playwright)
 │   └── web/              # Astro SSR web application
+│       ├── content-deploy/     # Git-tracked content for Cloudflare
+│       │   ├── artists/        # Artist markdown files
+│       │   └── portraits/      # Portrait images (for D1 sync)
+│       └── scripts/            # Sync and deployment scripts
 ├── packages/
 │   ├── types/            # Shared TypeScript types
 │   ├── db/               # Database abstraction (SQLite + Cloudflare D1)
 │   └── utils/            # Shared utilities
+├── content/
+│   └── artists/          # Source of truth for artist data
+├── portraits/            # Source of truth for portraits (gitignored)
 ├── config/
 │   ├── scraper/          # Scraper configuration
 │   └── nginx/            # Nginx reverse proxy config
@@ -26,13 +33,49 @@ jazzapedia/
 - Matches tracks with Spotify API
 - Adds discovered tracks to a Spotify playlist
 - Archives daily playlists as markdown files
-- Optional artist discovery pipeline with AI enrichment
+- AI-powered artist discovery with biography generation
 
 ### Web (`@jazzapedia/web`)
-- Browse artists discovered on WWOZ
-- View artist details, genres, and play history
+- Browse 4,500+ artists discovered on WWOZ
+- View artist details, genres, portraits, and play history
+- WWOZ daily archive browser
 - Search and filter functionality
 - Supports both Cloudflare Workers (production) and Docker (self-hosted)
+
+## Data Flow
+
+```
+┌─────────────────────┐    ┌──────────────────────┐    ┌─────────────────────┐
+│   WWOZ Scraper      │───▶│  content/artists/    │───▶│  Local SQLite       │
+│   (Docker)          │    │  portraits/          │    │  (Docker staging)   │
+└─────────────────────┘    └──────────────────────┘    └─────────────────────┘
+                                     │
+                    ┌────────────────┼────────────────┐
+                    ▼                ▼                ▼
+            ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
+            │ content-deploy│  │ Cloudflare   │  │ Git Push     │
+            │ (for D1 sync) │  │ R2 Bucket    │  │ to GitHub    │
+            └──────────────┘  └──────────────┘  └──────────────┘
+                    │                │                │
+                    └────────────────┼────────────────┘
+                                     ▼
+                          ┌─────────────────────┐
+                          │  GitHub Actions     │
+                          │  sync-artists.yml   │
+                          └─────────────────────┘
+                                     │
+                                     ▼
+                          ┌─────────────────────┐
+                          │  Cloudflare D1      │
+                          │  (production)       │
+                          └─────────────────────┘
+```
+
+**Key points:**
+- Artist markdown and portraits are stored locally (`content/artists/`, `portraits/`)
+- Local sync updates SQLite (Docker) and uploads portraits to R2
+- Git push triggers GitHub Actions which syncs to Cloudflare D1
+- Portraits served from R2 via `media.jazzapedia.com`
 
 ## Quick Start
 
@@ -77,6 +120,26 @@ open http://localhost:8080
 | web | 4321 (internal) | Astro SSR application |
 | scraper | - | Continuous WWOZ scraper |
 
+## Daily Sync
+
+The `unified-daily-sync.sh` script runs daily (4:30am CT via launchd) and:
+
+1. Syncs artist content to local SQLite
+2. Generates artist slugs index
+3. Syncs WWOZ archives
+4. Updates Docker (rebuild or restart as needed)
+5. Uploads new portraits to Cloudflare R2
+6. Syncs content to `content-deploy/` and pushes to git
+7. Triggers GitHub Actions to sync to Cloudflare D1
+
+```bash
+# Manual sync
+cd apps/web
+./scripts/unified-daily-sync.sh              # Full sync
+./scripts/unified-daily-sync.sh --dry-run    # Preview only
+./scripts/unified-daily-sync.sh --skip-git   # Local only
+```
+
 ## Configuration
 
 ### Scraper Configuration
@@ -99,12 +162,9 @@ archive:
   basePath: '/app/archives'
   deduplicationWindowMinutes: 60
 artistDiscovery:
-  enabled: false  # Enable for AI-powered artist enrichment
-playlistArchiving:
   enabled: true
-  mainPlaylistId: 'YOUR_PLAYLIST_ID'
-  durationThresholdHours: 65
-  checkIntervalRuns: 5
+  perplexityApiKey: '<key>'
+  dayChangeDelayHours: 6
 ```
 
 ### Environment Variables
@@ -115,12 +175,14 @@ playlistArchiving:
 | `CONFIG_PATH` | Scraper config path | `config/config.yaml` |
 | `STATE_PATH` | Scraper state directory | `config/state` |
 | `DEPLOY_TARGET` | Build target (`docker` or `cloudflare`) | `cloudflare` |
+| `CLOUDFLARE_API_TOKEN` | For R2 upload and D1 sync | - |
+| `CLOUDFLARE_ACCOUNT_ID` | Cloudflare account ID | - |
 
 ## Deployment
 
 ### Cloudflare (Production)
 
-The web app deploys to Cloudflare Workers with D1 database:
+The web app deploys to Cloudflare Workers with D1 database and R2 storage:
 
 ```bash
 # Deploy to Cloudflare
@@ -128,7 +190,10 @@ cd apps/web
 pnpm run deploy
 ```
 
-### Docker (Self-Hosted)
+- **D1**: Artist database
+- **R2**: Portrait images (`media.jazzapedia.com`)
+
+### Docker (Self-Hosted/Staging)
 
 ```bash
 # Start all services
@@ -176,7 +241,13 @@ pnpm turbo build --filter=@jazzapedia/web
 |----------|---------|---------|
 | **CI** | Pull requests | Build verification |
 | **Deploy Web** | Push to main | Deploy to Cloudflare Pages |
-| **Sync Artists** | Daily 5am CT / Manual | Sync artists to D1, upload portraits to R2 |
+| **Sync Artists** | Daily 5am CT / Manual | Sync artists to D1 |
+
+**Note:** Portrait upload is handled locally by `unified-daily-sync.sh`, not by GitHub Actions.
+
+## Documentation
+
+For detailed technical documentation, see [CLAUDE.md](./CLAUDE.md).
 
 ## License
 
