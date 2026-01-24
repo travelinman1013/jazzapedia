@@ -261,7 +261,7 @@ ON CONFLICT(slug) DO UPDATE SET
   research_sources = excluded.research_sources,
   bio_html = excluded.bio_html,
   bio_markdown = excluded.bio_markdown,
-  image_filename = excluded.image_filename,
+  image_filename = COALESCE(excluded.image_filename, image_filename),
   genres = excluded.genres,
   instruments = excluded.instruments,
   roles = excluded.roles,
