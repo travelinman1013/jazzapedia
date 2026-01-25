@@ -4,10 +4,11 @@
 #
 # Data Flow (Local as source of truth):
 # 1. Syncs local content -> SQLite (for Docker runtime)
+# 1.5. Syncs WWOZ archives -> SQLite (database-driven, no rebuild needed)
 # 2. Syncs local content -> Obsidian vault (backup/personal use)
-# 3. Syncs WWOZ archives -> content directory (requires Docker rebuild)
-# 4. Rebuilds Docker if content changed, restarts if only runtime data changed
-# 5. Syncs local content -> git push (for Cloudflare via GitHub Actions)
+# 3. Restarts Docker if runtime data changed (SQLite is a volume mount)
+# 3.5. Uploads portraits to R2 (direct, no git)
+# 4. Syncs local content -> git push (for Cloudflare via GitHub Actions)
 #
 # Usage:
 #   ./unified-daily-sync.sh                    # Full sync
@@ -70,6 +71,9 @@ done
 
 mkdir -p "$LOG_DIR"
 
+# Lock file to prevent concurrent runs
+LOCK_FILE="$REPO_ROOT/scraper-state/.sync-lock"
+
 log() {
   echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" | tee -a "$LOG_FILE"
 }
@@ -81,13 +85,27 @@ log_section() {
   log "============================================================"
 }
 
+# Check for existing lock (prevent concurrent runs)
+if [ -f "$LOCK_FILE" ]; then
+  LOCK_PID=$(cat "$LOCK_FILE" 2>/dev/null)
+  if [ -n "$LOCK_PID" ] && kill -0 "$LOCK_PID" 2>/dev/null; then
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] Sync already in progress (PID: $LOCK_PID), exiting" >> "$LOG_FILE"
+    exit 0
+  fi
+  # Stale lock file, remove it
+  rm -f "$LOCK_FILE"
+fi
+
+# Create lock file with our PID
+echo $$ > "$LOCK_FILE"
+trap "rm -f '$LOCK_FILE'" EXIT
+
 cd "$WEB_DIR"
 
 log_section "Starting Jazzapedia Sync"
 log "Dry run: $DRY_RUN | Skip git: $SKIP_GIT | Skip docker: $SKIP_DOCKER | Skip obsidian: $SKIP_OBSIDIAN"
 
 CHANGES_MADE=false
-WWOZ_CHANGES_MADE=false  # Track WWOZ-specific changes (requires Docker rebuild)
 
 # ============================================================
 # STEP 1: Local Content -> SQLite (incremental)
@@ -112,53 +130,22 @@ else
 fi
 
 # ============================================================
-# STEP 1.5: Regenerate Artist Slug Index
+# STEP 1.5: WWOZ Archives -> Database (incremental)
 # ============================================================
+# NOTE: Artist slug index generation removed - WWOZ pages now use database
+# lookup for artist linking instead of static JSON file.
 
-log_section "Step 1.5: Artist Slug Index"
-
-SLUGS_FILE="$WEB_DIR/src/data/artist-slugs.json"
-SLUGS_CHANGED=false
+log_section "Step 1.5: WWOZ Archives -> Database"
 
 if [ "$DRY_RUN" = true ]; then
-  log "DRY RUN: Would regenerate artist-slugs.json"
+  log "DRY RUN: Would sync WWOZ archives to database"
+  npx tsx "$SCRIPT_DIR/sync-wwoz-db.ts" --sqlite --dry-run 2>&1 | tee -a "$LOG_FILE"
 else
-  # Capture before state
-  BEFORE_HASH=""
-  [ -f "$SLUGS_FILE" ] && BEFORE_HASH=$(md5 -q "$SLUGS_FILE" 2>/dev/null || md5sum "$SLUGS_FILE" | cut -d' ' -f1)
+  WWOZ_OUTPUT=$(npx tsx "$SCRIPT_DIR/sync-wwoz-db.ts" --sqlite 2>&1 | tee -a "$LOG_FILE")
 
-  # Regenerate the index from SQLite
-  npx tsx "$SCRIPT_DIR/generate-artist-slugs.ts" 2>&1 | tee -a "$LOG_FILE"
-
-  # Check if it changed
-  AFTER_HASH=""
-  [ -f "$SLUGS_FILE" ] && AFTER_HASH=$(md5 -q "$SLUGS_FILE" 2>/dev/null || md5sum "$SLUGS_FILE" | cut -d' ' -f1)
-
-  if [ "$BEFORE_HASH" != "$AFTER_HASH" ]; then
-    SLUGS_CHANGED=true
+  if echo "$WWOZ_OUTPUT" | grep -q "Days synced: [1-9]"; then
     CHANGES_MADE=true
-    log "Artist slugs: Index updated"
-  else
-    log "Artist slugs: No changes"
-  fi
-fi
-
-# ============================================================
-# STEP 1.6: WWOZ Archives -> Content (incremental)
-# ============================================================
-
-log_section "Step 1.6: WWOZ Archives -> Content"
-
-if [ "$DRY_RUN" = true ]; then
-  log "DRY RUN: Would sync WWOZ archives"
-  npx tsx "$SCRIPT_DIR/sync-wwoz.ts" --dry-run 2>&1 | tee -a "$LOG_FILE"
-else
-  WWOZ_OUTPUT=$(npx tsx "$SCRIPT_DIR/sync-wwoz.ts" 2>&1 | tee -a "$LOG_FILE")
-
-  if echo "$WWOZ_OUTPUT" | grep -q "Synced:  [1-9]"; then
-    CHANGES_MADE=true
-    WWOZ_CHANGES_MADE=true  # WWOZ content requires Docker rebuild
-    log "WWOZ: Changes synced"
+    log "WWOZ: Changes synced to database"
   else
     log "WWOZ: No changes"
   fi
@@ -210,25 +197,17 @@ fi
 
 log_section "Step 3: Docker Update"
 
+# NOTE: WWOZ content and artist slugs are now served from database (runtime volumes),
+# so no Docker rebuild is needed for content changes - just restart to pick up any
+# potential SQLite changes.
+
 if [ "$SKIP_DOCKER" = true ]; then
   log "SKIPPED (--skip-docker)"
 elif [ "$DRY_RUN" = true ]; then
-  log "DRY RUN: Would rebuild if WWOZ/slugs changes (wwoz=$WWOZ_CHANGES_MADE, slugs=$SLUGS_CHANGED), restart if runtime changes (changes=$CHANGES_MADE)"
-elif [ "$WWOZ_CHANGES_MADE" = true ] || [ "$SLUGS_CHANGED" = true ]; then
-  # WWOZ content and artist-slugs.json are baked into Docker image at build time, so rebuild is required
-  REBUILD_REASON=""
-  [ "$WWOZ_CHANGES_MADE" = true ] && REBUILD_REASON="WWOZ content"
-  [ "$SLUGS_CHANGED" = true ] && REBUILD_REASON="${REBUILD_REASON:+$REBUILD_REASON + }artist slugs index"
-  log "Rebuilding Docker web container ($REBUILD_REASON changed)..."
-  cd "$REPO_ROOT"
-  if docker compose up -d --build web 2>&1 | tee -a "$LOG_FILE"; then
-    log "Docker: Web container rebuilt successfully"
-  else
-    log "WARNING: Docker rebuild failed - check logs"
-  fi
+  log "DRY RUN: Would restart if runtime changes (changes=$CHANGES_MADE)"
 elif [ "$CHANGES_MADE" = true ]; then
-  # SQLite/portrait changes are runtime volumes, just restart to pick them up
-  log "Restarting Docker (runtime data changed, no rebuild needed)..."
+  # All data changes are now in SQLite (runtime volume), just restart to pick them up
+  log "Restarting Docker (runtime data changed)..."
   cd "$REPO_ROOT"
   docker compose restart web 2>&1 | tee -a "$LOG_FILE" || log "WARNING: Docker restart failed"
 else
@@ -244,22 +223,13 @@ log_section "Step 3.5: Upload Portraits to R2"
 if [ "$DRY_RUN" = true ]; then
   log "DRY RUN: Would upload portraits to R2"
 else
-  # Check for Cloudflare credentials
-  if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
-    # Try to load from .env file
-    if [ -f "$REPO_ROOT/.env" ]; then
-      export $(grep -E '^CLOUDFLARE_(API_TOKEN|ACCOUNT_ID)=' "$REPO_ROOT/.env" | xargs)
-    fi
-  fi
-
-  if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
-    log "WARNING: Cloudflare credentials not found, skipping R2 upload"
-    log "  Set CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID in environment or .env"
-  else
-    log "Uploading new portraits to R2..."
-    cd "$WEB_DIR"
-    PORTRAITS_DIR="$LOCAL_PORTRAITS" npx tsx "$SCRIPT_DIR/upload-portraits-r2.ts" 2>&1 | tee -a "$LOG_FILE"
+  # Wrangler uses OAuth auth (via `wrangler login`) - no env vars needed
+  log "Uploading new portraits to R2..."
+  cd "$WEB_DIR"
+  if PORTRAITS_DIR="$LOCAL_PORTRAITS" npx tsx "$SCRIPT_DIR/upload-portraits-r2.ts" 2>&1 | tee -a "$LOG_FILE"; then
     log "R2 upload complete"
+  else
+    log "WARNING: R2 upload failed - check if wrangler is logged in (run: npx wrangler login)"
   fi
 fi
 
@@ -317,52 +287,30 @@ else
     log "Content sync verified: $LOCAL_COUNT artists in both directories"
   fi
 
-  # Check for changes in content-deploy, WWOZ content, and artist slugs index
-  WWOZ_CONTENT="$WEB_DIR/src/content/wwoz"
-  SLUGS_INDEX="$WEB_DIR/src/data/artist-slugs.json"
+  # Check for changes in content-deploy only
+  # NOTE: WWOZ content and artist-slugs.json are no longer tracked in git
+  # (served from database instead), so we only track artist/portrait content
 
   CONTENT_CHANGED=false
-  WWOZ_CHANGED=false
-  SLUGS_INDEX_CHANGED=false
 
   # Check for changes (both tracked and untracked files)
   [ -n "$(git status --porcelain "$CONTENT_DEPLOY" 2>/dev/null)" ] && CONTENT_CHANGED=true
-  [ -n "$(git status --porcelain "$WWOZ_CONTENT" 2>/dev/null)" ] && WWOZ_CHANGED=true
-  [ -n "$(git status --porcelain "$SLUGS_INDEX" 2>/dev/null)" ] && SLUGS_INDEX_CHANGED=true
 
-  if [ "$CONTENT_CHANGED" = false ] && [ "$WWOZ_CHANGED" = false ] && [ "$SLUGS_INDEX_CHANGED" = false ]; then
+  if [ "$CONTENT_CHANGED" = false ]; then
     log "Git: No changes to commit"
   else
     # Build commit message based on what changed
-    COMMIT_PARTS=""
-    if [ "$CONTENT_CHANGED" = true ]; then
-      ARTIST_COUNT=$(git status --porcelain "$CONTENT_DEPLOY/artists" 2>/dev/null | wc -l | tr -d ' ')
-      COMMIT_PARTS="artists"
-      log "Git: $ARTIST_COUNT artist changes"
-      git add "$CONTENT_DEPLOY"
-    fi
-    if [ "$WWOZ_CHANGED" = true ]; then
-      WWOZ_COUNT=$(git status --porcelain "$WWOZ_CONTENT" 2>/dev/null | wc -l | tr -d ' ')
-      [ -n "$COMMIT_PARTS" ] && COMMIT_PARTS="$COMMIT_PARTS, "
-      COMMIT_PARTS="${COMMIT_PARTS}WWOZ archives"
-      log "Git: $WWOZ_COUNT WWOZ archive changes"
-      git add "$WWOZ_CONTENT"
-    fi
-    if [ "$SLUGS_INDEX_CHANGED" = true ]; then
-      [ -n "$COMMIT_PARTS" ] && COMMIT_PARTS="$COMMIT_PARTS, "
-      COMMIT_PARTS="${COMMIT_PARTS}artist slugs index"
-      log "Git: Artist slugs index changed"
-      git add "$SLUGS_INDEX"
-    fi
+    ARTIST_COUNT=$(git status --porcelain "$CONTENT_DEPLOY/artists" 2>/dev/null | wc -l | tr -d ' ')
+    PORTRAIT_COUNT=$(git status --porcelain "$CONTENT_DEPLOY/portraits" 2>/dev/null | wc -l | tr -d ' ')
+
+    COMMIT_PARTS="artists"
+    log "Git: $ARTIST_COUNT artist changes, $PORTRAIT_COUNT portrait changes"
+    git add "$CONTENT_DEPLOY"
 
     log "Git: Committing $COMMIT_PARTS..."
     git commit -m "Auto-sync: Update $COMMIT_PARTS [$(date '+%Y-%m-%d %H:%M')]" >> "$LOG_FILE" 2>&1
     git push origin main >> "$LOG_FILE" 2>&1
-    log "Git: Pushed to origin/main"
-
-    # Trigger GitHub Actions
-    log "Triggering GitHub Actions..."
-    gh workflow run sync-artists.yml >> "$LOG_FILE" 2>&1 || log "WARNING: gh workflow trigger failed"
+    log "Git: Pushed to origin/main (sync-artists.yml will trigger automatically)"
   fi
 
   # Switch back to original branch if we switched

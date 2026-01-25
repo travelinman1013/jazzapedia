@@ -1,14 +1,10 @@
 ---
 /**
  * WWOZ Playlist Page - Shows tracks played on a specific date
- * Uses static artist slug index for linking (no runtime database dependency)
+ * Uses database for data (SSR) and artist slug lookup
  */
 import Layout from '../../layouts/Layout.astro';
-import { getCollection } from 'astro:content';
-import artistSlugsData from '../../data/artist-slugs.json';
-
-// Build a Set for O(1) slug lookups
-const artistSlugs = new Set(artistSlugsData.slugs);
+import { getDatabase } from '../../lib/db';
 
 // Set cache headers
 Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
@@ -20,15 +16,54 @@ if (!date) {
   return Astro.redirect('/wwoz');
 }
 
-// Fetch log from content collection
-const wwozLogs = await getCollection('wwoz');
-const log = wwozLogs.find(l => l.id === date);
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
 
-if (!log) {
+if (!db) {
+  console.error('Database not available');
   return Astro.redirect('/wwoz');
 }
 
-const { stats, tracks } = log.data;
+// Fetch day metadata from wwoz_days
+const dayRow = await db
+  .prepare('SELECT * FROM wwoz_days WHERE date = ?')
+  .bind(date)
+  .first();
+
+if (!dayRow) {
+  return Astro.redirect('/wwoz');
+}
+
+// Parse stats from JSON
+const stats = dayRow.stats_json ? JSON.parse(dayRow.stats_json as string) : null;
+const playlistUrl = dayRow.playlist_url as string | null;
+
+// Fetch tracks from wwoz_tracks
+const tracksResult = await db
+  .prepare('SELECT * FROM wwoz_tracks WHERE date = ? ORDER BY time ASC')
+  .bind(date)
+  .all();
+
+interface WWOZTrack {
+  time: string;
+  artist: string;
+  title: string;
+  album: string | null;
+  genres: string;
+  show_name: string;
+  host: string | null;
+  spotify_url: string | null;
+  status: string;
+  confidence: number | null;
+}
+
+const tracks: WWOZTrack[] = (tracksResult.results || []) as WWOZTrack[];
+
+// Fetch all artist slugs for linking (single query, cached per request)
+const artistsResult = await db
+  .prepare('SELECT slug FROM artists')
+  .all();
+const artistSlugs = new Set((artistsResult.results || []).map((r: any) => r.slug));
 
 // Format date for display
 const formatDateFull = (dateStr: string) => {
@@ -40,9 +75,9 @@ const formatDateFull = (dateStr: string) => {
 };
 
 // Group tracks by show
-const tracksByShow = new Map<string, typeof tracks>();
-tracks?.forEach(track => {
-  const show = track.show || 'Unknown Show';
+const tracksByShow = new Map<string, WWOZTrack[]>();
+tracks.forEach(track => {
+  const show = track.show_name || 'Unknown Show';
   if (!tracksByShow.has(show)) {
     tracksByShow.set(show, []);
   }
@@ -57,7 +92,7 @@ const matchRate = stats && stats.totalTracks > 0
 // Helper to convert artist name to slug
 const toSlug = (name: string) => name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
 
-// Artist match helper - checks if slug exists in static index
+// Artist match helper - checks if slug exists in database
 interface MatchedArtist {
   name: string;
   slug: string | null;
@@ -78,6 +113,12 @@ const matchArtist = (artistName: string): MatchedArtist => {
     slug: null,
     isMatched: false,
   };
+};
+
+// Parse genres from comma-separated string
+const parseGenres = (genresStr: string | null): string[] => {
+  if (!genresStr) return [];
+  return genresStr.split(',').map(g => g.trim()).filter(g => g);
 };
 ---
 
@@ -118,6 +159,23 @@ const matchArtist = (artistName: string): MatchedArtist => {
             <div class="text-xs text-wiki-text-muted">Match Rate</div>
           </div>
         </div>
+
+        <!-- Spotify Playlist Link -->
+        {playlistUrl && (
+          <div class="mt-4 pt-4 border-t border-wiki-border flex justify-center">
+            <a
+              href={playlistUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="inline-flex items-center gap-2 px-4 py-2 bg-[#1DB954] hover:bg-[#1ed760] text-white rounded-full font-medium text-sm transition-colors"
+            >
+              <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
+              </svg>
+              Listen on Spotify
+            </a>
+          </div>
+        )}
       </div>
     )}
 
@@ -171,7 +229,8 @@ const matchArtist = (artistName: string): MatchedArtist => {
                     const artistMatch = matchArtist(track.artist);
                     const isFound = track.status === 'found';
                     const confidence = track.confidence;
-                    const isLowConf = confidence !== undefined && confidence < 80;
+                    const isLowConf = confidence !== null && confidence < 80;
+                    const genres = parseGenres(track.genres);
 
                     return (
                       <tr class="border-b border-wiki-border-light hover:bg-wiki-accent-light transition-colors">
@@ -195,15 +254,15 @@ const matchArtist = (artistName: string): MatchedArtist => {
                           {track.album || '-'}
                         </td>
                         <td class="py-2 px-2 hidden lg:table-cell">
-                          {track.genres.length > 0 ? (
+                          {genres.length > 0 ? (
                             <div class="flex flex-wrap gap-1">
-                              {track.genres.slice(0, 3).map(genre => (
+                              {genres.slice(0, 3).map(genre => (
                                 <span class="inline-block px-1.5 py-0.5 bg-wiki-bg border border-wiki-border rounded text-xs text-wiki-text-muted">
                                   {genre}
                                 </span>
                               ))}
-                              {track.genres.length > 3 && (
-                                <span class="text-xs text-wiki-text-muted">+{track.genres.length - 3}</span>
+                              {genres.length > 3 && (
+                                <span class="text-xs text-wiki-text-muted">+{genres.length - 3}</span>
                               )}
                             </div>
                           ) : (
@@ -216,7 +275,7 @@ const matchArtist = (artistName: string): MatchedArtist => {
                               <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
                               </svg>
-                              {confidence !== undefined && (
+                              {confidence !== null && (
                                 <span class="text-xs ml-1">{confidence.toFixed(0)}%</span>
                               )}
                             </span>
@@ -229,9 +288,9 @@ const matchArtist = (artistName: string): MatchedArtist => {
                           )}
                         </td>
                         <td class="py-2 px-2 text-center">
-                          {track.spotifyUrl ? (
+                          {track.spotify_url ? (
                             <a
-                              href={track.spotifyUrl}
+                              href={track.spotify_url}
                               target="_blank"
                               rel="noopener noreferrer"
                               class="inline-flex items-center justify-center w-6 h-6 bg-[#1DB954] rounded-full hover:bg-[#1ed760] transition-colors"

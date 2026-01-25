@@ -1,12 +1,46 @@
 ---
+/**
+ * WWOZ Archive Index - Shows all archived days with statistics
+ * Uses database for data (SSR) instead of content collections
+ */
 import Layout from '../../layouts/Layout.astro';
-import { getCollection } from 'astro:content';
+import { getDatabase } from '../../lib/db';
 
-// Get all WWOZ logs
-const wwozLogs = await getCollection('wwoz');
+// Set cache headers
+Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
 
-// Sort by date descending
-const sortedLogs = wwozLogs.sort((a, b) => b.id.localeCompare(a.id));
+// Get database adapter (works with both D1 and SQLite)
+const db = await getDatabase(Astro.locals);
+
+interface WWOZDay {
+  date: string;
+  playlist_url: string | null;
+  stats_json: string | null;
+  source_url: string | null;
+}
+
+interface WWOZStats {
+  totalTracks: number;
+  successfullyFound: number;
+  notFound: number;
+  lowConfidence: number;
+  duplicates: number;
+}
+
+// Fetch all days from database, sorted descending
+let sortedLogs: { date: string; stats: WWOZStats | null; playlistUrl: string | null }[] = [];
+
+if (db) {
+  const daysResult = await db
+    .prepare('SELECT date, playlist_url, stats_json FROM wwoz_days ORDER BY date DESC')
+    .all();
+
+  sortedLogs = ((daysResult.results || []) as WWOZDay[]).map(day => ({
+    date: day.date,
+    stats: day.stats_json ? JSON.parse(day.stats_json) : null,
+    playlistUrl: day.playlist_url,
+  }));
+}
 
 // Calculate summary statistics
 let totalTracks = 0;
@@ -14,7 +48,7 @@ let totalMatched = 0;
 let totalNotFound = 0;
 
 sortedLogs.forEach(log => {
-  const stats = log.data.stats;
+  const stats = log.stats;
   if (stats) {
     totalTracks += stats.totalTracks;
     totalMatched += stats.successfullyFound;
@@ -27,7 +61,7 @@ const matchRate = totalTracks > 0 ? ((totalMatched / totalTracks) * 100).toFixed
 // Group logs by month (YYYY-MM)
 const logsByMonth = new Map<string, typeof sortedLogs>();
 sortedLogs.forEach(log => {
-  const month = log.id.substring(0, 7); // YYYY-MM
+  const month = log.date.substring(0, 7); // YYYY-MM
   if (!logsByMonth.has(month)) {
     logsByMonth.set(month, []);
   }
@@ -36,7 +70,7 @@ sortedLogs.forEach(log => {
 
 // Sort dates descending within each month
 logsByMonth.forEach((logs) => {
-  logs.sort((a, b) => b.id.localeCompare(a.id));
+  logs.sort((a, b) => b.date.localeCompare(a.date));
 });
 
 // Format month for display
@@ -125,8 +159,8 @@ const formatDate = (dateStr: string) => {
     <!-- Monthly Archive -->
     <div class="space-y-8">
       {Array.from(logsByMonth.entries()).map(([month, logs]) => {
-        const monthTracks = logs.reduce((sum, log) => sum + (log.data.stats?.totalTracks || 0), 0);
-        const monthMatched = logs.reduce((sum, log) => sum + (log.data.stats?.successfullyFound || 0), 0);
+        const monthTracks = logs.reduce((sum, log) => sum + (log.stats?.totalTracks || 0), 0);
+        const monthMatched = logs.reduce((sum, log) => sum + (log.stats?.successfullyFound || 0), 0);
         const monthRate = monthTracks > 0 ? ((monthMatched / monthTracks) * 100).toFixed(0) : '0';
 
         return (
@@ -139,15 +173,15 @@ const formatDate = (dateStr: string) => {
             </h2>
             <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
               {logs.map(log => {
-                const { day, dayNum } = formatDate(log.id);
-                const stats = log.data.stats;
+                const { day, dayNum } = formatDate(log.date);
+                const stats = log.stats;
                 const rate = stats && stats.totalTracks > 0
                   ? ((stats.successfullyFound / stats.totalTracks) * 100).toFixed(0)
                   : '0';
 
                 return (
                   <a
-                    href={`/wwoz/${log.id}`}
+                    href={`/wwoz/${log.date}`}
                     class="group p-3 bg-wiki-bg border border-wiki-border rounded-lg hover:border-wiki-link hover:bg-wiki-accent-light transition-all"
                   >
                     <div class="text-lg font-bold text-wiki-text-heading group-hover:text-wiki-link">

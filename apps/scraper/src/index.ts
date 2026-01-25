@@ -57,7 +57,10 @@ program
     if (options.snapshot) {
       const date = String(options.snapshot);
       Logger.info(`Creating daily snapshot playlist for ${date}...`);
-      await workflow.createDailySnapshotPlaylistFromArchive(date);
+      const result = await workflow.createDailySnapshotPlaylistFromArchive(date);
+      if (result) {
+        Logger.info(`Playlist URL for ${result.date}: ${result.playlistUrl}`);
+      }
       return;
     }
 

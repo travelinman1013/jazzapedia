@@ -39,7 +39,7 @@ export interface IEnricher {
   isDuplicate(playlistId: string, trackId: string): Promise<boolean>;
   addToPlaylist(playlistId: string, trackUri: string, position?: number): Promise<void>;
   loadPlaylistCache(playlistId: string): Promise<void>;
-  getOrCreatePlaylist(name: string): Promise<{ id: string; name: string }>;
+  getOrCreatePlaylist(name: string): Promise<{ id: string; name: string; url: string }>;
   clearPlaylistCache(playlistId?: string): Promise<void> | void;
   getCachedTrackCount?(playlistId: string): number;
 }

@@ -440,11 +440,11 @@ export class WorkflowService {
     Logger.info(`[Artist Discovery] Pending archive queued: ${archivePath}`);
   }
 
-  async createDailySnapshotPlaylistFromArchive(date: string): Promise<void> {
+  async createDailySnapshotPlaylistFromArchive(date: string): Promise<{ date: string; playlistUrl: string } | null> {
     const archiverAny = this.archiver as any;
-    if (typeof archiverAny.getDailySpotifyTrackUris !== 'function') return;
+    if (typeof archiverAny.getDailySpotifyTrackUris !== 'function') return null;
     const uris: string[] = await archiverAny.getDailySpotifyTrackUris(date);
-    if (!uris || uris.length === 0) return;
+    if (!uris || uris.length === 0) return null;
     const d = dayjs(date);
     const playlistName = d.isValid() ? buildWwozDisplayTitle(d) : `WWOZ ${date}`;
     const pl = await this.enricher.getOrCreatePlaylist(playlistName);
@@ -457,8 +457,8 @@ export class WorkflowService {
       : 0;
 
     if (currentTrackCount >= uris.length) {
-      Logger.info(`Daily snapshot playlist already populated: ${playlistName}. Skipping (${currentTrackCount} tracks).`);
-      return;
+      Logger.info(`Daily snapshot playlist already populated: ${playlistName}. Skipping (${currentTrackCount} tracks). URL: ${pl.url}`);
+      return { date, playlistUrl: pl.url };
     }
 
     // Get current position to append tracks at the end (maintaining chronological order)
@@ -472,7 +472,8 @@ export class WorkflowService {
       position++; // Increment position for next track
       added++;
     }
-    Logger.info(`Daily snapshot playlist ensured: ${playlistName}. Tracks added=${added}.`);
+    Logger.info(`Daily snapshot playlist ensured: ${playlistName}. Tracks added=${added}. URL: ${pl.url}`);
+    return { date, playlistUrl: pl.url };
   }
 
   async backfillDailySnapshots(days: number): Promise<void> {

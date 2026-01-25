@@ -7,6 +7,10 @@ on:
       - 'apps/web/**'
       - 'packages/**'
       - '.github/workflows/deploy-web.yml'
+      # Exclude database-driven content (no rebuild needed)
+      - '!apps/web/src/content/wwoz/**'
+      - '!apps/web/src/data/artist-slugs.json'
+      - '!apps/web/content-deploy/**'
   workflow_dispatch:
 
 jobs:

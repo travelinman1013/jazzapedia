@@ -74,6 +74,8 @@ Tables:
 - `songs` - Individual track plays
 - `artist_songs` - Junction table
 - `daily_logs` - WWOZ daily archive metadata
+- `wwoz_days` - WWOZ daily metadata (date, playlist_url, stats_json)
+- `wwoz_tracks` - Individual track plays per day (time, artist, title, status, etc.)
 - `search_index` - FTS5 search index for artists
 
 ## Data Flow Architecture
@@ -84,8 +86,7 @@ Tables:
 |-----------|-----------------|--------|----------------------|
 | Artist markdown | `content/artists/` | SQLite via sync | D1 via GitHub Actions |
 | Portraits | `portraits/` | Local filesystem | R2 bucket (`media.jazzapedia.com`) |
-| WWOZ archives | `archives/` symlink | Baked into Docker image | Git via `src/content/wwoz/` |
-| Artist slugs index | Generated | Baked into Docker image | Git via `src/data/artist-slugs.json` |
+| WWOZ archives | `archives/` symlink | SQLite (wwoz_days, wwoz_tracks) | D1 via sync-wwoz-db.ts |
 
 ### Daily Sync Pipeline
 
@@ -101,22 +102,17 @@ The `unified-daily-sync.sh` script orchestrates all sync operations (runs at 4:3
 │  ├── Reads: content/artists/, portraits/                                    │
 │  └── Writes: data/jazzapedia.db                                             │
 │                                                                             │
-│  Step 1.5: Generate Artist Slugs Index                                      │
-│  ├── generate-artist-slugs.ts                                               │
-│  └── Writes: src/data/artist-slugs.json                                     │
-│                                                                             │
-│  Step 1.6: WWOZ Archives → Content                                          │
-│  ├── sync-wwoz.ts                                                           │
-│  ├── Reads: archives/YYYY/MM/*.md                                           │
-│  └── Writes: src/content/wwoz/*.md                                          │
+│  Step 1.5: WWOZ Archives → Database                                         │
+│  ├── sync-wwoz-db.ts                                                        │
+│  ├── Reads: archives/YYYY/MM/*.md (via src/content/wwoz/)                   │
+│  └── Writes: SQLite (wwoz_days, wwoz_tracks tables)                         │
 │                                                                             │
 │  Step 2: Local → Obsidian Vault (backup)                                    │
 │  ├── rsync artists and portraits                                            │
 │  └── Destination: Obsidian vault directories                                │
 │                                                                             │
 │  Step 3: Docker Update                                                      │
-│  ├── Rebuild if WWOZ/slugs changed (content baked into image)               │
-│  └── Restart if only SQLite changed (runtime volume)                        │
+│  └── Restart if runtime data changed (SQLite is a volume mount)             │
 │                                                                             │
 │  Step 3.5: Upload Portraits to R2                                           │
 │  ├── upload-portraits-r2.ts                                                 │
@@ -126,7 +122,7 @@ The `unified-daily-sync.sh` script orchestrates all sync operations (runs at 4:3
 │  Step 4: Local Content → Git Push                                           │
 │  ├── rsync content/artists/ → content-deploy/artists/                       │
 │  ├── rsync portraits/ → content-deploy/portraits/ (for D1 sync matching)    │
-│  ├── Commit changes to: content-deploy/, src/content/wwoz/, artist-slugs    │
+│  ├── Commit changes to: content-deploy/ only (WWOZ is database-driven)      │
 │  └── Push to origin/main                                                    │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
@@ -239,29 +235,30 @@ volumes:
 
 ## WWOZ Archive Sync
 
-The web app displays WWOZ daily track logs at `/wwoz`. Archive markdown files are synced from the scraper's output to the web content directory.
+The web app displays WWOZ daily track logs at `/wwoz`. WWOZ pages are database-driven (SSR), eliminating the need to rebuild/redeploy for new content.
 
 **Pipeline:**
 1. Scraper writes archives to `/archives/` (symlink to Obsidian vault)
-2. `sync-wwoz.ts` syncs to `apps/web/src/content/wwoz/` with ISO date filenames
-3. `unified-daily-sync.sh` commits changes and pushes to git
-4. GitHub Actions deploys to Cloudflare
+2. `sync-wwoz-db.ts` syncs to SQLite (`wwoz_days`, `wwoz_tracks` tables)
+3. `unified-daily-sync.sh` restarts Docker to pick up changes
+4. GitHub Actions syncs to D1 on schedule (5am CT daily)
 
-**File transformation:**
-- Source: `/archives/YYYY/MM/WWOZ Monday, Jan. 20, 2026.md`
-- Destination: `apps/web/src/content/wwoz/2026-01-20.md`
+**Database tables:**
+- `wwoz_days` - Day metadata: date, playlist_url, stats_json, source_url
+- `wwoz_tracks` - Track data: date, time, artist, title, album, genres, show, host, spotify_url, status, confidence
 
 **Manual sync:**
 ```bash
 cd apps/web
-npm run sync:wwoz              # Incremental sync
-npm run sync:wwoz:dry-run      # Preview changes
+npm run sync:wwoz:db              # Sync to local SQLite
+npm run sync:wwoz:db:remote       # Sync to D1 (production)
+npm run sync:wwoz:db:dry-run      # Preview changes
 ```
 
 **Key files:**
-- `apps/web/scripts/sync-wwoz.ts` - TypeScript sync script
-- `apps/web/src/content/wwoz/` - Synced archive files
-- `apps/web/src/content/config.ts` - Content collection loader
+- `apps/web/scripts/sync-wwoz-db.ts` - Database sync script
+- `apps/web/src/pages/wwoz/index.astro` - Archive index (database-driven)
+- `apps/web/src/pages/wwoz/[date].astro` - Day detail page (database-driven)
 
 ## Web Application
 
@@ -307,9 +304,8 @@ Volumes:
 | `sync-incremental-sqlite.ts` | Sync artists to local SQLite | Local (unified-daily-sync.sh) |
 | `sync-incremental.ts --remote` | Sync artists to D1 | GitHub Actions |
 | `sync-to-d1.ts --remote` | Full sync to D1 (all artists) | Manual only |
-| `sync-wwoz.ts` | Sync WWOZ archives | Local (unified-daily-sync.sh) |
+| `sync-wwoz-db.ts` | Sync WWOZ archives to database | Local + GitHub Actions |
 | `upload-portraits-r2.ts` | Upload portraits to R2 | Local (unified-daily-sync.sh) |
-| `generate-artist-slugs.ts` | Generate artist-slugs.json | Local (unified-daily-sync.sh) |
 | `unified-daily-sync.sh` | Orchestrates all sync operations | Local (launchd at 4:30am CT) |
 
 ## Common Tasks
@@ -422,7 +418,7 @@ Secrets required:
 5. **Type errors** - Web app has pre-existing type errors; CI skips type-check to allow builds
 6. **Archives symlink** - The `./archives` directory is a symlink to the Obsidian vault; don't delete it or commit it as a regular directory
 7. **Artist discovery paths** - The `/vault/Artists` and `/vault/ArtistPortraits` mounts in docker-compose.yml use absolute host paths specific to the deployment environment
-8. **Artist slugs index** - The `apps/web/src/data/artist-slugs.json` file must be regenerated (`npm run generate:slugs` in apps/web) after adding new artists. This file is used by WWOZ pages to link artist names and is baked into the Docker image at build time.
+8. **WWOZ database-driven** - WWOZ pages (`/wwoz`, `/wwoz/[date]`) are served from database (wwoz_days, wwoz_tracks tables), not static content. Artist linking uses database lookup (`SELECT slug FROM artists`). No rebuild needed for new WWOZ content - just database sync.
 9. **Dual deployment updates** - Database changes and data fixes must be applied to BOTH Cloudflare D1 (production) AND Docker SQLite (staging). They use separate databases:
    - **Cloudflare D1**: Use `npx wrangler d1 execute jazzapedia --file=<sql> --remote`
    - **Docker SQLite**: Use `sqlite3 ./data/jazzapedia.db < <sql>` then `docker compose restart web`

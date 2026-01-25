@@ -1,7 +1,12 @@
 name: Sync Artists to Jazzapedia
 
 on:
-  # Run daily at 5am Central Time (11:00 UTC)
+  # Run when content-deploy changes are pushed
+  push:
+    branches: [main]
+    paths:
+      - 'apps/web/content-deploy/**'
+  # Run daily at 5am Central Time (11:00 UTC) as backup
   schedule:
     - cron: '0 11 * * *'
   # Allow manual triggers
@@ -70,6 +75,15 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           ARTISTS_DIR: ./content-deploy/artists
           PORTRAITS_DIR: ./content-deploy/portraits
+
+      - name: Sync WWOZ archives to D1
+        if: ${{ github.event_name == 'schedule' }}
+        working-directory: apps/web
+        run: pnpm exec tsx scripts/sync-wwoz-db.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          WWOZ_DIR: ./src/content/wwoz
 
   # NOTE: Portrait uploads are now handled directly from the local machine
   # via unified-daily-sync.sh which uploads to R2 before pushing to git.

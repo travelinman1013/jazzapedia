@@ -178,7 +178,7 @@ export class SpotifyEnricher implements IEnricher {
     return Array.from(allGenres);
   }
 
-  async getOrCreatePlaylist(name: string): Promise<{ id: string; name: string }> {
+  async getOrCreatePlaylist(name: string): Promise<{ id: string; name: string; url: string }> {
     const { userId } = config.spotify;
     const existing = await this.findUserPlaylistByName(userId, name);
     if (existing) {
@@ -188,10 +188,11 @@ export class SpotifyEnricher implements IEnricher {
     Logger.info(`Creating playlist: ${name}`);
     const res = await this.schedule(() => this.spotify.createPlaylist(name, { public: true }), 'createPlaylist', 5);
     const pl = res.body;
-    return { id: pl.id, name: pl.name };
+    const url = `https://open.spotify.com/playlist/${pl.id}`;
+    return { id: pl.id, name: pl.name, url };
   }
 
-  private async findUserPlaylistByName(userId: string, name: string): Promise<{ id: string; name: string } | null> {
+  private async findUserPlaylistByName(userId: string, name: string): Promise<{ id: string; name: string; url: string } | null> {
     const target = name.trim().toLowerCase();
     let offset = 0;
     const limit = 50;
@@ -200,7 +201,10 @@ export class SpotifyEnricher implements IEnricher {
       const res = await this.schedule(() => this.spotify.getUserPlaylists(userId, { limit, offset }), 'getUserPlaylists');
       const items = res.body.items ?? [];
       for (const pl of items) {
-        if (pl.name.trim().toLowerCase() === target) return { id: pl.id, name: pl.name };
+        if (pl.name.trim().toLowerCase() === target) {
+          const url = `https://open.spotify.com/playlist/${pl.id}`;
+          return { id: pl.id, name: pl.name, url };
+        }
       }
       if (items.length < limit) break;
       offset += limit;
