@@ -32,7 +32,7 @@ const CONFIG = {
   wwozDir: process.env.WWOZ_DIR || './src/content/wwoz',
   databaseName: 'jazzapedia',
   sqliteDbPath: process.env.DATABASE_PATH || '../../data/jazzapedia.db',
-  batchSize: 10,
+  batchSize: 100,
 };
 
 // ============================================================
