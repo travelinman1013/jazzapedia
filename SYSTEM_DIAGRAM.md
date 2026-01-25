@@ -33,7 +33,7 @@
 │  │                         Astro SSR Application                                │   │
 │  │  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────────┐   │   │
 │  │  │  /       │  │ /artists │  │ /genres  │  │  /wwoz   │  │   /search    │   │   │
-│  │  │  Home    │  │  Index   │  │  Filter  │  │ Archives │  │              │   │   │
+│  │  │  Home    │  │  Index   │  │  Filter  │  │(DB-driven)│  │              │   │   │
 │  │  └──────────┘  └──────────┘  └──────────┘  └──────────┘  └──────────────┘   │   │
 │  └─────────────────────────────────────────────────────────────────────────────┘   │
 └────────────────────────────────────────────────────────────────────────────────────┘
@@ -91,17 +91,18 @@
 │  5. SYNC (4:30am CT)                                                            │
 │  ┌─────────────────────────────────────────────────────────────────────────┐    │
 │  │  unified-daily-sync.sh                                                  │    │
-│  │  • Vault → SQLite (incremental)                                         │    │
-│  │  • WWOZ archives → src/content/wwoz/                                    │    │
-│  │  • Git commit + push                                                    │    │
+│  │  • Artists: Vault → SQLite (incremental)                                │    │
+│  │  • WWOZ: archives/ → SQLite (wwoz_days, wwoz_tracks tables)             │    │
+│  │  • Portraits: Upload to R2                                              │    │
+│  │  • Git commit + push (artists only, WWOZ is DB-driven)                  │    │
 │  └─────────────────────────────────────────────────────────────────────────┘    │
 │                          │                                                      │
 │                          ▼                                                      │
 │  6. DEPLOY (5:00am CT via GitHub Actions)                                       │
 │  ┌─────────────────────────────────────────────────────────────────────────┐    │
-│  │  • Incremental D1 sync                                                  │    │
-│  │  • Portrait upload to R2                                                │    │
-│  │  • Cloudflare Pages rebuild                                             │    │
+│  │  • Artists: Incremental D1 sync                                         │    │
+│  │  • WWOZ: sync-wwoz-db.ts → D1 (wwoz_days, wwoz_tracks)                  │    │
+│  │  • No rebuild needed - WWOZ pages are SSR from database                 │    │
 │  └─────────────────────────────────────────────────────────────────────────┘    │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -117,6 +118,17 @@
 │  ├── genres, instruments, roles (JSON arrays)                                   │
 │  ├── spotify_data, audio_profile, musical_connections (JSON)                    │
 │  └── content_hash (for incremental sync)                                        │
+│                                                                                 │
+│  wwoz_days (WWOZ daily archive metadata)                                        │
+│  ├── id, date (unique), playlist_url                                            │
+│  ├── stats_json (total_tracks, found, not_found, etc.)                         │
+│  └── source_url, created_at                                                     │
+│                                                                                 │
+│  wwoz_tracks (individual track plays)                                           │
+│  ├── id, date, time, artist, title, album                                       │
+│  ├── genres, show_name, host                                                    │
+│  ├── status (found/not_found), confidence                                       │
+│  └── spotify_url, created_at                                                    │
 │                                                                                 │
 │  genres / instruments / roles                                                   │
 │  ├── id, name, slug, artist_count                                              │
