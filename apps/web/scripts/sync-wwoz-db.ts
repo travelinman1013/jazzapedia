@@ -3,20 +3,22 @@
  * WWOZ Database Sync: Sync WWOZ archives from markdown to database
  *
  * This script:
- * 1. Parses WWOZ markdown files from src/content/wwoz/
+ * 1. Parses WWOZ markdown files from archives/ directory (YYYY/MM/ structure)
  * 2. Syncs day-level data to wwoz_days table
  * 3. Syncs track-level data to wwoz_tracks table
  *
  * Usage:
- *   npx tsx scripts/sync-wwoz-db.ts --local          # Sync to local SQLite
- *   npx tsx scripts/sync-wwoz-db.ts --remote         # Sync to production D1
- *   npx tsx scripts/sync-wwoz-db.ts --local --dry-run  # Preview changes
+ *   npx tsx scripts/sync-wwoz-db.ts --sqlite           # Incremental sync to local SQLite
+ *   npx tsx scripts/sync-wwoz-db.ts --remote           # Incremental sync to production D1
+ *   npx tsx scripts/sync-wwoz-db.ts --sqlite --full    # Full sync all archives to SQLite
+ *   npx tsx scripts/sync-wwoz-db.ts --dry-run          # Preview what would be synced
  *
  * Options:
- *   --local     Sync to local SQLite database (default)
+ *   --local     Sync to local D1 database (wrangler dev)
  *   --remote    Sync to production D1 database
+ *   --sqlite    Sync to local SQLite database
  *   --dry-run   Show what would be synced without making changes
- *   --force     Force sync all days (ignore existing)
+ *   --full      Force full sync of all archives (ignore incremental)
  */
 
 import fs from 'node:fs';
@@ -29,7 +31,8 @@ import matter from 'gray-matter';
 // ============================================================
 
 const CONFIG = {
-  wwozDir: process.env.WWOZ_DIR || './src/content/wwoz',
+  // Archives directory (YYYY/MM/ structure with human-readable filenames)
+  wwozDir: process.env.WWOZ_DIR || '../../archives',
   databaseName: 'jazzapedia',
   sqliteDbPath: process.env.DATABASE_PATH || '../../data/jazzapedia.db',
   batchSize: 100,
@@ -68,7 +71,52 @@ interface WWOZDay {
 }
 
 // ============================================================
-// PARSING FUNCTIONS (from content/config.ts)
+// FILE DISCOVERY
+// ============================================================
+
+/**
+ * Find all archive files in YYYY/MM/ directory structure
+ * Returns array of full file paths
+ */
+function findArchiveFiles(baseDir: string): string[] {
+  const files: string[] = [];
+
+  if (!fs.existsSync(baseDir)) {
+    return files;
+  }
+
+  // Walk YYYY directories
+  const yearDirs = fs.readdirSync(baseDir)
+    .filter(d => /^20\d{2}$/.test(d))
+    .sort();
+
+  for (const year of yearDirs) {
+    const yearPath = path.join(baseDir, year);
+    if (!fs.statSync(yearPath).isDirectory()) continue;
+
+    // Walk MM directories
+    const monthDirs = fs.readdirSync(yearPath)
+      .filter(d => /^(0[1-9]|1[0-2])$/.test(d))
+      .sort();
+
+    for (const month of monthDirs) {
+      const monthPath = path.join(yearPath, month);
+      if (!fs.statSync(monthPath).isDirectory()) continue;
+
+      // Find all .md files in this month
+      const mdFiles = fs.readdirSync(monthPath)
+        .filter(f => f.endsWith('.md') && f.startsWith('WWOZ'))
+        .map(f => path.join(monthPath, f));
+
+      files.push(...mdFiles);
+    }
+  }
+
+  return files.sort();
+}
+
+// ============================================================
+// PARSING FUNCTIONS
 // ============================================================
 
 function parseWWOZStats(content: string): WWOZStats | null {
@@ -167,16 +215,22 @@ function parseWWOZTracks(content: string): WWOZTrack[] {
   return tracks;
 }
 
+/**
+ * Parse a WWOZ archive file
+ * Uses frontmatter 'date' field (ISO format) instead of parsing filename
+ */
 function parseWWOZFile(filePath: string): WWOZDay | null {
   try {
     const content = fs.readFileSync(filePath, 'utf-8');
     const { data: frontmatter, content: body } = matter(content);
 
-    const filename = path.basename(filePath);
-    const dateMatch = filename.match(/^(\d{4}-\d{2}-\d{2})\.md$/);
-    if (!dateMatch) return null;
+    // Get date from frontmatter (already in ISO format: "YYYY-MM-DD")
+    const date = frontmatter.date;
+    if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+      console.warn(`  Skipping ${path.basename(filePath)}: invalid or missing date in frontmatter`);
+      return null;
+    }
 
-    const date = dateMatch[1];
     const stats = parseWWOZStats(body);
     const tracks = parseWWOZTracks(body);
 
@@ -250,6 +304,39 @@ ON CONFLICT(date, time, artist, title) DO UPDATE SET
 }
 
 // ============================================================
+// DATABASE QUERIES
+// ============================================================
+
+/**
+ * Get the latest synced date from the database
+ */
+function getLatestSyncedDate(useSQLite: boolean, isRemote: boolean): string | null {
+  const query = "SELECT MAX(date) as latest FROM wwoz_days;";
+
+  try {
+    if (useSQLite) {
+      const dbPath = path.resolve(process.cwd(), CONFIG.sqliteDbPath);
+      const result = execSync(`sqlite3 "${dbPath}" "${query}"`, {
+        encoding: 'utf-8',
+      }).trim();
+      return result || null;
+    } else {
+      const location = isRemote ? '--remote' : '--local';
+      const result = execSync(
+        `npx wrangler d1 execute ${CONFIG.databaseName} ${location} --command "${query}" --json`,
+        { encoding: 'utf-8' }
+      );
+      const parsed = JSON.parse(result);
+      const latest = parsed?.[0]?.results?.[0]?.latest;
+      return latest || null;
+    }
+  } catch {
+    // Table might not exist yet or be empty
+    return null;
+  }
+}
+
+// ============================================================
 // DATABASE EXECUTION
 // ============================================================
 
@@ -290,57 +377,70 @@ function executeSQLite(sql: string): void {
 async function main() {
   const args = process.argv.slice(2);
   const isRemote = args.includes('--remote');
-  const isLocal = args.includes('--local') || !isRemote;
   const isDryRun = args.includes('--dry-run');
-  const isForce = args.includes('--force');
-  const useSQLite = args.includes('--sqlite'); // For local SQLite sync
+  const isFull = args.includes('--full');
+  const useSQLite = args.includes('--sqlite');
 
   console.log('='.repeat(60));
   console.log('WWOZ Database Sync');
   console.log('='.repeat(60));
   console.log(`Target: ${useSQLite ? 'SQLite' : (isRemote ? 'D1 (remote)' : 'D1 (local)')}`);
-  console.log(`Mode: ${isDryRun ? 'DRY RUN' : 'LIVE'}`);
-  console.log(`WWOZ Dir: ${CONFIG.wwozDir}`);
+  console.log(`Mode: ${isDryRun ? 'DRY RUN' : 'LIVE'} | ${isFull ? 'FULL SYNC' : 'INCREMENTAL'}`);
+  console.log(`Archives Dir: ${CONFIG.wwozDir}`);
   console.log('');
 
-  // Find all WWOZ markdown files
+  // Find all WWOZ archive files
   const wwozDir = path.resolve(process.cwd(), CONFIG.wwozDir);
   if (!fs.existsSync(wwozDir)) {
-    console.error(`WWOZ directory not found: ${wwozDir}`);
+    console.error(`Archives directory not found: ${wwozDir}`);
     process.exit(1);
   }
 
-  const files = fs.readdirSync(wwozDir)
-    .filter(f => f.endsWith('.md'))
-    .sort();
-
+  const files = findArchiveFiles(wwozDir);
   console.log(`Found ${files.length} WWOZ archive files`);
 
   // Parse all files
-  const days: WWOZDay[] = [];
-  for (const file of files) {
-    const filePath = path.join(wwozDir, file);
+  let days: WWOZDay[] = [];
+  for (const filePath of files) {
     const day = parseWWOZFile(filePath);
     if (day) {
       days.push(day);
     }
   }
 
+  // Sort by date
+  days.sort((a, b) => a.date.localeCompare(b.date));
   console.log(`Parsed ${days.length} valid WWOZ days`);
+
+  // Incremental filtering (unless --full)
+  if (!isFull && !isDryRun) {
+    const latestSynced = getLatestSyncedDate(useSQLite, isRemote);
+    if (latestSynced) {
+      const originalCount = days.length;
+      days = days.filter(d => d.date > latestSynced);
+      console.log(`Latest synced: ${latestSynced}`);
+      console.log(`New days to sync: ${days.length} (filtered from ${originalCount})`);
+    } else {
+      console.log('No existing data found - will sync all days');
+    }
+  }
 
   // Calculate totals
   const totalTracks = days.reduce((sum, day) => sum + day.tracks.length, 0);
   console.log(`Total tracks to sync: ${totalTracks}`);
   console.log('');
 
+  if (days.length === 0) {
+    console.log('No new days to sync. Use --full to force complete resync.');
+    return;
+  }
+
   if (isDryRun) {
     console.log('DRY RUN - No changes will be made');
     console.log('');
-    for (const day of days.slice(0, 5)) {
+    console.log('Days to sync:');
+    for (const day of days) {
       console.log(`  ${day.date}: ${day.tracks.length} tracks`);
-    }
-    if (days.length > 5) {
-      console.log(`  ... and ${days.length - 5} more days`);
     }
     return;
   }
