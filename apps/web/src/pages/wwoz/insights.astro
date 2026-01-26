@@ -1,21 +1,113 @@
 ---
 /**
  * WWOZ Insights Dashboard
- * Pre-computed statistics from all WWOZ daily logs
+ * Live statistics from database
  * Shows top artists, genres, shows, and trends
  */
 import Layout from '../../layouts/Layout.astro';
-import insightsData from '../../data/wwoz-insights.json';
+import { getDatabase } from '../../lib/db';
 
-// Extract pre-computed data
-const { summary, topArtists, topGenres, topShows } = insightsData;
+// Get database adapter
+const db = await getDatabase(Astro.locals);
 
-// Calculate stats from summary
-const daysTracked = summary.totalDays;
-const totalTracks = summary.totalTracks;
-const uniqueArtists = summary.uniqueArtists;
-const uniqueGenres = summary.uniqueGenres ?? topGenres.length; // Use actual count from summary
-const matchRate = totalTracks > 0 ? ((summary.matchedTracks / totalTracks) * 100).toFixed(1) : '0';
+// Set cache headers
+Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
+
+interface TopArtist {
+  name: string;
+  count: number;
+  slug: string | null;
+}
+
+interface TopGenre {
+  name: string;
+  count: number;
+}
+
+interface TopShow {
+  name: string;
+  trackCount: number;
+}
+
+// Default values
+let daysTracked = 0;
+let totalTracks = 0;
+let uniqueArtists = 0;
+let uniqueGenres = 0;
+let matchedTracks = 0;
+let topArtists: TopArtist[] = [];
+let topGenres: TopGenre[] = [];
+let topShows: TopShow[] = [];
+
+if (db) {
+  try {
+    const [
+      daysResult,
+      tracksResult,
+      artistsResult,
+      matchedResult,
+      genresCountResult,
+      topArtistsResult,
+      topGenresResult,
+      topShowsResult,
+    ] = await Promise.all([
+      // Days tracked
+      db.prepare('SELECT COUNT(*) as count FROM wwoz_days').first(),
+      // Total tracks
+      db.prepare('SELECT COUNT(*) as count FROM wwoz_tracks').first(),
+      // Unique artists
+      db.prepare('SELECT COUNT(DISTINCT artist) as count FROM wwoz_tracks').first(),
+      // Matched tracks (status = 'found')
+      db.prepare("SELECT COUNT(*) as count FROM wwoz_tracks WHERE status = 'found'").first(),
+      // Unique genres count (from genres table)
+      db.prepare("SELECT COUNT(*) as count FROM genres").first(),
+      // Top 20 artists with play counts and wiki links
+      db.prepare(`
+        SELECT
+          t.artist as name,
+          COUNT(*) as count,
+          a.slug
+        FROM wwoz_tracks t
+        LEFT JOIN artists a ON LOWER(REPLACE(REPLACE(t.artist, ' ', '-'), '''', '')) = a.slug
+           OR LOWER(REPLACE(REPLACE(REPLACE(t.artist, ' ', '-'), '''', ''), '.', '')) = a.slug
+        GROUP BY t.artist
+        ORDER BY count DESC
+        LIMIT 20
+      `).all(),
+      // Top genres from tracks
+      db.prepare(`
+        SELECT genres as name, COUNT(*) as count
+        FROM wwoz_tracks
+        WHERE genres IS NOT NULL AND genres != ''
+        GROUP BY genres
+        ORDER BY count DESC
+        LIMIT 30
+      `).all(),
+      // Top shows
+      db.prepare(`
+        SELECT show_name as name, COUNT(*) as trackCount
+        FROM wwoz_tracks
+        WHERE show_name IS NOT NULL AND show_name != ''
+        GROUP BY show_name
+        ORDER BY trackCount DESC
+        LIMIT 12
+      `).all(),
+    ]);
+
+    daysTracked = (daysResult as { count: number })?.count || 0;
+    totalTracks = (tracksResult as { count: number })?.count || 0;
+    uniqueArtists = (artistsResult as { count: number })?.count || 0;
+    matchedTracks = (matchedResult as { count: number })?.count || 0;
+    uniqueGenres = (genresCountResult as { count: number })?.count || 0;
+    topArtists = (topArtistsResult.results || []) as TopArtist[];
+    topGenres = (topGenresResult.results || []) as TopGenre[];
+    topShows = (topShowsResult.results || []) as TopShow[];
+  } catch (error) {
+    console.error('Error loading insights data:', error);
+  }
+}
+
+const matchRate = totalTracks > 0 ? ((matchedTracks / totalTracks) * 100).toFixed(1) : '0';
 
 // Calculate max for bar chart scaling
 const maxArtistPlays = topArtists.length > 0 ? topArtists[0].count : 1;

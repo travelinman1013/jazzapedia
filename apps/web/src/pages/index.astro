@@ -31,12 +31,25 @@ interface Genre {
   artist_count: number;
 }
 
+interface WWOZDay {
+  date: string;
+  playlist_url: string | null;
+  stats_json: string | null;
+}
+
+interface WWOZStats {
+  totalTracks: number;
+  successfullyFound: number;
+}
+
 let artistCount = 0;
-let genreCount = 0;
-let instrumentCount = 0;
 let randomArtists: Artist[] = [];
 let recentArtists: Artist[] = [];
 let topGenres: Genre[] = [];
+let recentWWOZDays: WWOZDay[] = [];
+let wwozDaysCount = 0;
+let wwozTotalTracks = 0;
+let wwozUniqueArtists = 0;
 let errorMessage = '';
 
 if (db) {
@@ -44,18 +57,16 @@ if (db) {
     // Run queries in parallel for better performance
     const [
       artistCountResult,
-      genreCountResult,
-      instrumentCountResult,
       randomResult,
       recentResult,
       genresResult,
+      wwozResult,
+      wwozDaysCountResult,
+      wwozTotalTracksResult,
+      wwozUniqueArtistsResult,
     ] = await Promise.all([
       // Total artists
       db.prepare('SELECT COUNT(*) as count FROM artists').first(),
-      // Total genres
-      db.prepare('SELECT COUNT(*) as count FROM genres').first(),
-      // Total instruments
-      db.prepare('SELECT COUNT(*) as count FROM instruments').first(),
       // 12 random artists with images
       db.prepare(`
         SELECT slug, title, artist_type, genres, image_filename, spotify_data
@@ -79,14 +90,29 @@ if (db) {
         ORDER BY artist_count DESC
         LIMIT 15
       `).all(),
+      // 3 most recent WWOZ archive days
+      db.prepare(`
+        SELECT date, playlist_url, stats_json
+        FROM wwoz_days
+        ORDER BY date DESC
+        LIMIT 3
+      `).all(),
+      // WWOZ stats: Days tracked
+      db.prepare('SELECT COUNT(*) as count FROM wwoz_days').first(),
+      // WWOZ stats: Total tracks
+      db.prepare('SELECT COUNT(*) as count FROM wwoz_tracks').first(),
+      // WWOZ stats: Unique artists
+      db.prepare('SELECT COUNT(DISTINCT artist) as count FROM wwoz_tracks').first(),
     ]);
 
     artistCount = (artistCountResult as { count: number })?.count || 0;
-    genreCount = (genreCountResult as { count: number })?.count || 0;
-    instrumentCount = (instrumentCountResult as { count: number })?.count || 0;
     randomArtists = randomResult.results as Artist[];
     recentArtists = recentResult.results as Artist[];
     topGenres = genresResult.results as Genre[];
+    recentWWOZDays = (wwozResult.results || []) as WWOZDay[];
+    wwozDaysCount = (wwozDaysCountResult as { count: number })?.count || 0;
+    wwozTotalTracks = (wwozTotalTracksResult as { count: number })?.count || 0;
+    wwozUniqueArtists = (wwozUniqueArtistsResult as { count: number })?.count || 0;
   } catch (error) {
     console.error('Error loading homepage data:', error);
     errorMessage = String(error);
@@ -117,6 +143,31 @@ const getArtistType = (artist: Artist): string | undefined => {
   if (bg === 'instrumentalist') return 'Instrumentalist';
   if (bg === 'group_or_band') return 'Group';
   return undefined;
+};
+
+// WWOZ helper functions
+const formatWWOZDate = (dateStr: string) => {
+  const date = new Date(dateStr + 'T12:00:00');
+  const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+  const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  return `${days[date.getDay()]}, ${months[date.getMonth()]} ${date.getDate()}`;
+};
+
+const getMatchRate = (statsJson: string | null): number => {
+  if (!statsJson) return 0;
+  try {
+    const stats = JSON.parse(statsJson) as WWOZStats;
+    if (stats.totalTracks === 0) return 0;
+    return Math.round((stats.successfullyFound / stats.totalTracks) * 100);
+  } catch {
+    return 0;
+  }
+};
+
+const getMatchRateColor = (rate: number): string => {
+  if (rate >= 60) return 'text-green-600';
+  if (rate >= 40) return 'text-jazz-amber';
+  return 'text-red-400';
 };
 ---
 
@@ -153,14 +204,66 @@ const getArtistType = (artist: Artist): string | undefined => {
     </div>
   )}
 
-  <!-- Stats Section -->
+  <!-- Stats Section - WWOZ Insights -->
   <section class="stats-section">
     <div class="stats-grid">
-      <StatBox value={artistCount} label="Artists" icon="&#9835;" href="/artists" />
-      <StatBox value={genreCount} label="Genres" icon="&#127926;" href="/genres" />
-      <StatBox value={instrumentCount} label="Instruments" icon="&#127927;" href="/instruments" />
+      <StatBox value={wwozDaysCount} label="Days Tracked" icon="&#128197;" href="/wwoz" />
+      <StatBox value={wwozTotalTracks} label="Total Tracks" icon="&#127925;" href="/wwoz" />
+      <StatBox value={wwozUniqueArtists} label="Unique Artists" icon="&#127908;" href="/artists" />
     </div>
   </section>
+
+  <!-- WWOZ Radio Section -->
+  {recentWWOZDays.length > 0 && (
+    <section class="content-section">
+      <header class="section-header">
+        <div class="section-title-group">
+          <span class="section-icon">&#127908;</span>
+          <h2 class="section-title">WWOZ Radio</h2>
+        </div>
+        <p class="section-subtitle">Recent playlists from New Orleans</p>
+        <a href="/wwoz" class="section-link">
+          View all archives
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      </header>
+
+      <div class="wwoz-grid">
+        {recentWWOZDays.map((day) => {
+          const stats = parseJson(day.stats_json, null) as WWOZStats | null;
+          const matchRate = getMatchRate(day.stats_json);
+          const matchColor = getMatchRateColor(matchRate);
+
+          return (
+            <a href={`/wwoz/${day.date}`} class="wwoz-card">
+              <div class="wwoz-card-header">
+                <span class="wwoz-date">{formatWWOZDate(day.date)}</span>
+                {day.playlist_url && (
+                  <span class="wwoz-spotify" title="Spotify playlist available">
+                    <svg class="w-4 h-4 text-[#1DB954]" viewBox="0 0 24 24" fill="currentColor">
+                      <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
+                    </svg>
+                  </span>
+                )}
+              </div>
+              <div class="wwoz-card-stats">
+                <div class="wwoz-stat">
+                  <span class="wwoz-stat-value">{stats?.totalTracks || 0}</span>
+                  <span class="wwoz-stat-label">tracks</span>
+                </div>
+                <div class="wwoz-stat">
+                  <span class={`wwoz-stat-value ${matchColor}`}>{matchRate}%</span>
+                  <span class="wwoz-stat-label">matched</span>
+                </div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  )}
 
   <!-- Recently Added -->
   {recentArtists.length > 0 && (
@@ -264,7 +367,7 @@ const getArtistType = (artist: Artist): string | undefined => {
       <a href="/genres" class="quick-nav-card">
         <span class="quick-nav-icon">&#127926;</span>
         <h3 class="quick-nav-title">Genres</h3>
-        <p class="quick-nav-desc">Explore {genreCount} musical genres</p>
+        <p class="quick-nav-desc">Explore musical genres</p>
       </a>
       <a href="/instruments" class="quick-nav-card">
         <span class="quick-nav-icon">&#127927;</span>
@@ -655,6 +758,111 @@ const getArtistType = (artist: Artist): string | undefined => {
   }
 
   :global([data-mode="dark"]) .recent-item {
+    background: var(--jazz-smoke);
+  }
+
+  /* ============================================
+     WWOZ Archive Cards
+     ============================================ */
+  .wwoz-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+
+  @media (max-width: 768px) {
+    .wwoz-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .wwoz-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .wwoz-card {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 1.25rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-lg);
+    text-decoration: none;
+    transition: all var(--duration-fast) var(--ease-smooth);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .wwoz-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--jazz-amber), var(--electric-cyan));
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform var(--duration-normal) var(--ease-jazz);
+  }
+
+  .wwoz-card:hover {
+    border-color: var(--color-link);
+    background: var(--color-accent-light);
+    transform: translateY(-2px);
+  }
+
+  .wwoz-card:hover::before {
+    transform: scaleX(1);
+  }
+
+  .wwoz-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+  }
+
+  .wwoz-date {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-text-heading);
+  }
+
+  .wwoz-spotify {
+    display: flex;
+    align-items: center;
+  }
+
+  .wwoz-card-stats {
+    display: flex;
+    gap: 1.5rem;
+  }
+
+  .wwoz-stat {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .wwoz-stat-value {
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-text-heading);
+    line-height: 1.2;
+  }
+
+  .wwoz-stat-label {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  :global([data-mode="dark"]) .wwoz-card {
     background: var(--jazz-smoke);
   }
 </style>

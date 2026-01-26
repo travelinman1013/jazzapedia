@@ -152,6 +152,35 @@ else
 fi
 
 # ============================================================
+# STEP 1.6: Backfill WWOZ Playlist URLs from Spotify
+# ============================================================
+
+log_section "Step 1.6: Backfill WWOZ Playlist URLs"
+
+if [ "$DRY_RUN" = true ]; then
+  log "DRY RUN: Would backfill playlist URLs from Spotify"
+else
+  # Use Docker to run the scraper's export command (has Spotify credentials)
+  PLAYLIST_SQL_FILE="/tmp/wwoz-playlist-urls-$$.sql"
+
+  log "Fetching playlist URLs from Spotify via scraper..."
+  if docker compose exec -T scraper node dist/index.js --export-playlist-urls 2>/dev/null | grep "^UPDATE" > "$PLAYLIST_SQL_FILE"; then
+    PLAYLIST_COUNT=$(wc -l < "$PLAYLIST_SQL_FILE" | tr -d ' ')
+    if [ "$PLAYLIST_COUNT" -gt 0 ]; then
+      log "Found $PLAYLIST_COUNT playlist URLs, applying to SQLite..."
+      sqlite3 "$SQLITE_DB" < "$PLAYLIST_SQL_FILE" >> "$LOG_FILE" 2>&1
+      log "Playlist URLs: Updated"
+    else
+      log "Playlist URLs: No playlists found"
+    fi
+  else
+    log "WARNING: Could not fetch playlist URLs (scraper not running or Spotify issue)"
+  fi
+
+  rm -f "$PLAYLIST_SQL_FILE"
+fi
+
+# ============================================================
 # STEP 2: Local -> Obsidian Vault (backup sync)
 # ============================================================
 
