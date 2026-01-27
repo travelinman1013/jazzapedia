@@ -417,9 +417,18 @@ async function main() {
     const latestSynced = getLatestSyncedDate(useSQLite, isRemote);
     if (latestSynced) {
       const originalCount = days.length;
-      days = days.filter(d => d.date > latestSynced);
+
+      // Calculate cutoff date: 3 days ago to catch ongoing updates
+      const threeDaysAgo = new Date();
+      threeDaysAgo.setDate(threeDaysAgo.getDate() - 3);
+      const cutoff = threeDaysAgo.toISOString().split('T')[0];
+
+      // Re-sync anything from the last 3 days OR newer than latest synced
+      days = days.filter(d => d.date >= cutoff || d.date > latestSynced);
+
       console.log(`Latest synced: ${latestSynced}`);
-      console.log(`New days to sync: ${days.length} (filtered from ${originalCount})`);
+      console.log(`Re-sync cutoff: ${cutoff} (last 3 days)`);
+      console.log(`Days to sync: ${days.length} (filtered from ${originalCount})`);
     } else {
       console.log('No existing data found - will sync all days');
     }
