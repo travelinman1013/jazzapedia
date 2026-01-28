@@ -19,6 +19,9 @@
  *   --sqlite    Sync to local SQLite database
  *   --dry-run   Show what would be synced without making changes
  *   --full      Force full sync of all archives (ignore incremental)
+ *
+ * IMPORTANT: Database target flags (--sqlite, --remote, --local) are mutually exclusive.
+ * Only specify ONE target flag. The script will error if multiple targets are specified.
  */
 
 import fs from 'node:fs';
@@ -66,6 +69,7 @@ interface WWOZStats {
 interface WWOZDay {
   date: string;
   sourceUrl?: string;
+  playlistUrl?: string;
   stats: WWOZStats | null;
   tracks: WWOZTrack[];
 }
@@ -237,6 +241,7 @@ function parseWWOZFile(filePath: string): WWOZDay | null {
     return {
       date,
       sourceUrl: frontmatter.source_url,
+      playlistUrl: frontmatter.spotify_playlist_url || undefined,
       stats,
       tracks,
     };
@@ -265,13 +270,14 @@ function generateDaySQL(day: WWOZDay): string {
   return `INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
   ${escapeSql(day.date)},
-  NULL,
+  ${escapeSql(day.playlistUrl)},
   ${escapeJson(day.stats)},
   ${escapeSql(day.sourceUrl)},
   datetime('now'),
   datetime('now')
 )
 ON CONFLICT(date) DO UPDATE SET
+  playlist_url = COALESCE(excluded.playlist_url, playlist_url),
   stats_json = excluded.stats_json,
   source_url = COALESCE(excluded.source_url, source_url),
   updated_at = datetime('now');`;
@@ -346,7 +352,7 @@ function executeD1(sql: string, isRemote: boolean): void {
   fs.writeFileSync(tempFile, sql);
 
   try {
-    execSync(`npx wrangler d1 execute ${CONFIG.databaseName} ${location} --file="${tempFile}"`, {
+    execSync(`npx wrangler d1 execute ${CONFIG.databaseName} ${location} --file="${tempFile}" --yes`, {
       stdio: 'inherit',
       encoding: 'utf-8',
     });
@@ -377,9 +383,18 @@ function executeSQLite(sql: string): void {
 async function main() {
   const args = process.argv.slice(2);
   const isRemote = args.includes('--remote');
+  const isLocal = args.includes('--local');
   const isDryRun = args.includes('--dry-run');
   const isFull = args.includes('--full');
   const useSQLite = args.includes('--sqlite');
+
+  // Validate mutual exclusivity of database targets
+  const targetFlags = [useSQLite, isRemote, isLocal].filter(Boolean);
+  if (targetFlags.length > 1) {
+    console.error('ERROR: Cannot specify multiple database targets');
+    console.error('Choose exactly ONE of: --sqlite, --remote, or --local');
+    process.exit(1);
+  }
 
   console.log('='.repeat(60));
   console.log('WWOZ Database Sync');

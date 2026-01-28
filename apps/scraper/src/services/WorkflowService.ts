@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import dayjs from 'dayjs';
+import matter from 'gray-matter';
 import { EventEmitter } from 'events';
 import { Logger } from '../utils/logger.js';
 import { config } from '../utils/config.js';
@@ -440,6 +441,50 @@ export class WorkflowService {
     Logger.info(`[Artist Discovery] Pending archive queued: ${archivePath}`);
   }
 
+  /**
+   * Update the spotify_playlist_url field in the archive markdown frontmatter
+   */
+  private async updateArchivePlaylistUrl(date: string, playlistUrl: string): Promise<void> {
+    try {
+      const archiverAny = this.archiver as any;
+      if (typeof archiverAny.getDailyFilePath !== 'function') {
+        Logger.warn('Cannot update archive playlist URL: archiver does not support getDailyFilePath');
+        return;
+      }
+
+      // Get the archive file path
+      const basePath = config.archive.basePath;
+      if (!basePath) {
+        Logger.warn('Cannot update archive playlist URL: archive.basePath not configured');
+        return;
+      }
+
+      const root = path.resolve(basePath);
+      const d = dayjs(date);
+      const { filePath } = await archiverAny.getDailyFilePath(root, d);
+
+      if (!fs.existsSync(filePath)) {
+        Logger.warn(`Cannot update archive playlist URL: file not found at ${filePath}`);
+        return;
+      }
+
+      // Read and parse the markdown file
+      const content = await fs.promises.readFile(filePath, 'utf8');
+      const parsed = matter(content);
+
+      // Update the spotify_playlist_url in frontmatter
+      parsed.data.spotify_playlist_url = playlistUrl;
+
+      // Write back the updated content
+      const updated = matter.stringify(parsed.content, parsed.data);
+      await fs.promises.writeFile(filePath, updated, 'utf8');
+
+      Logger.info(`Updated archive playlist URL for ${date}: ${playlistUrl}`);
+    } catch (err) {
+      Logger.error(`Failed to update archive playlist URL for ${date} (non-fatal)`, err as Error);
+    }
+  }
+
   async createDailySnapshotPlaylistFromArchive(date: string): Promise<{ date: string; playlistUrl: string } | null> {
     const archiverAny = this.archiver as any;
     if (typeof archiverAny.getDailySpotifyTrackUris !== 'function') return null;
@@ -458,6 +503,8 @@ export class WorkflowService {
 
     if (currentTrackCount >= uris.length) {
       Logger.info(`Daily snapshot playlist already populated: ${playlistName}. Skipping (${currentTrackCount} tracks). URL: ${pl.url}`);
+      // Update the archive file with the playlist URL
+      await this.updateArchivePlaylistUrl(date, pl.url);
       return { date, playlistUrl: pl.url };
     }
 
@@ -473,6 +520,10 @@ export class WorkflowService {
       added++;
     }
     Logger.info(`Daily snapshot playlist ensured: ${playlistName}. Tracks added=${added}. URL: ${pl.url}`);
+
+    // Update the archive file with the playlist URL
+    await this.updateArchivePlaylistUrl(date, pl.url);
+
     return { date, playlistUrl: pl.url };
   }
 
