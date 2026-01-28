@@ -76,14 +76,20 @@ jobs:
           ARTISTS_DIR: ./content-deploy/artists
           PORTRAITS_DIR: ./content-deploy/portraits
 
-      - name: Sync WWOZ archives to D1
+      - name: Import WWOZ SQL to D1
         if: ${{ github.event_name == 'schedule' }}
         working-directory: apps/web
-        run: pnpm exec tsx scripts/sync-wwoz-db.ts --remote ${{ inputs.dry_run && '--dry-run' || '' }}
+        run: |
+          if [ -f "scripts/.wwoz-export/wwoz-sync.sql" ]; then
+            echo "Importing WWOZ SQL to D1..."
+            npx wrangler d1 execute jazzapedia --remote --file="scripts/.wwoz-export/wwoz-sync.sql" --yes
+            echo "WWOZ import complete"
+          else
+            echo "No WWOZ SQL file found - skipping import"
+          fi
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          WWOZ_DIR: ./src/content/wwoz
 
   # NOTE: Portrait uploads are now handled directly from the local machine
   # via unified-daily-sync.sh which uploads to R2 before pushing to git.

@@ -61,3 +61,6 @@ venv/
 archives.backup/
 scraper-state/
 sync-output/
+
+# WWOZ export (track SQL file, ignore timestamp)
+apps/web/scripts/.wwoz-export/.last-export-time

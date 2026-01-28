@@ -181,6 +181,32 @@ else
 fi
 
 # ============================================================
+# STEP 1.7: Export WWOZ SQL for D1 Sync
+# ============================================================
+
+log_section "Step 1.7: Export WWOZ SQL for D1"
+
+WWOZ_EXPORT_DIR="$SCRIPT_DIR/.wwoz-export"
+WWOZ_EXPORT_FILE="$WWOZ_EXPORT_DIR/wwoz-sync.sql"
+
+if [ "$DRY_RUN" = true ]; then
+  log "DRY RUN: Would export WWOZ SQL"
+else
+  log "Exporting WWOZ changes to SQL..."
+  cd "$WEB_DIR"
+
+  # Run export script (incremental by default)
+  EXPORT_OUTPUT=$(npx tsx "$SCRIPT_DIR/export-wwoz-sql.ts" 2>&1 | tee -a "$LOG_FILE")
+
+  if [ -f "$WWOZ_EXPORT_FILE" ]; then
+    EXPORT_SIZE=$(du -k "$WWOZ_EXPORT_FILE" | cut -f1)
+    log "WWOZ SQL: Exported (${EXPORT_SIZE}KB)"
+  else
+    log "WWOZ SQL: No changes to export"
+  fi
+fi
+
+# ============================================================
 # STEP 2: Local -> Obsidian Vault (backup sync)
 # ============================================================
 
@@ -316,14 +342,14 @@ else
     log "Content sync verified: $LOCAL_COUNT artists in both directories"
   fi
 
-  # Check for changes in content-deploy only
-  # NOTE: WWOZ content and artist-slugs.json are no longer tracked in git
-  # (served from database instead), so we only track artist/portrait content
+  # Check for changes in content-deploy AND WWOZ SQL export
+  # NOTE: WWOZ data is now synced via SQL export (apps/web/scripts/.wwoz-export/wwoz-sync.sql)
+  # instead of markdown files
 
   CONTENT_CHANGED=false
 
   # Check for changes (both tracked and untracked files)
-  [ -n "$(git status --porcelain "$CONTENT_DEPLOY" 2>/dev/null)" ] && CONTENT_CHANGED=true
+  [ -n "$(git status --porcelain "$CONTENT_DEPLOY" "$WWOZ_EXPORT_DIR" 2>/dev/null)" ] && CONTENT_CHANGED=true
 
   if [ "$CONTENT_CHANGED" = false ]; then
     log "Git: No changes to commit"
@@ -331,10 +357,16 @@ else
     # Build commit message based on what changed
     ARTIST_COUNT=$(git status --porcelain "$CONTENT_DEPLOY/artists" 2>/dev/null | wc -l | tr -d ' ')
     PORTRAIT_COUNT=$(git status --porcelain "$CONTENT_DEPLOY/portraits" 2>/dev/null | wc -l | tr -d ' ')
+    WWOZ_CHANGED=$(git status --porcelain "$WWOZ_EXPORT_DIR" 2>/dev/null | wc -l | tr -d ' ')
 
-    COMMIT_PARTS="artists"
-    log "Git: $ARTIST_COUNT artist changes, $PORTRAIT_COUNT portrait changes"
-    git add "$CONTENT_DEPLOY"
+    COMMIT_PARTS=""
+    [ "$ARTIST_COUNT" -gt 0 ] && COMMIT_PARTS="artists"
+    [ "$WWOZ_CHANGED" -gt 0 ] && {
+      [ -n "$COMMIT_PARTS" ] && COMMIT_PARTS="$COMMIT_PARTS, WWOZ" || COMMIT_PARTS="WWOZ"
+    }
+
+    log "Git: $ARTIST_COUNT artist changes, $PORTRAIT_COUNT portrait changes, WWOZ export: $([ "$WWOZ_CHANGED" -gt 0 ] && echo "changed" || echo "unchanged")"
+    git add "$CONTENT_DEPLOY" "$WWOZ_EXPORT_DIR"
 
     log "Git: Committing $COMMIT_PARTS..."
     git commit -m "Auto-sync: Update $COMMIT_PARTS [$(date '+%Y-%m-%d %H:%M')]" >> "$LOG_FILE" 2>&1
