@@ -96,7 +96,7 @@ async function main() {
 VALUES (
   ${escapeSql(day.date)},
   ${escapeSql(day.playlist_url)},
-  ${escapeJson(day.stats_json)},
+  ${escapeSql(day.stats_json)},
   ${escapeSql(day.source_url)},
   ${escapeSql(day.created_at)},
   ${escapeSql(day.updated_at)}
