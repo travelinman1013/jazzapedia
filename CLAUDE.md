@@ -82,11 +82,39 @@ Tables:
 
 ### Content Storage Locations
 
-| Data Type | Source of Truth | Docker | Cloudflare Production |
-|-----------|-----------------|--------|----------------------|
-| Artist markdown | `content/artists/` | SQLite via sync | D1 via GitHub Actions |
-| Portraits | `portraits/` | Local filesystem | R2 bucket (`media.jazzapedia.com`) |
-| WWOZ archives | `archives/` symlink | SQLite (wwoz_days, wwoz_tracks) | D1 via sync-wwoz-db.ts |
+| Data Type | Source of Truth | Git Tracked? | Served From |
+|-----------|-----------------|--------------|-------------|
+| Artist markdown | `content/artists/` | ❌ NO (gitignored) | Database (D1/SQLite) |
+| Artist metadata | `content/artists/artist_connections.json` | ❌ NO (gitignored) | Database |
+| Artist markdown (deploy) | `content-deploy/artists/` | ✅ YES (for D1 sync only) | Not served directly |
+| Portraits | `portraits/` | ❌ NO (gitignored) | R2 / Local filesystem |
+| Portraits (deploy) | `content-deploy/portraits/` | ✅ YES (for D1 sync matching) | Not served directly |
+| WWOZ archives | `archives/` symlink | ❌ NO (gitignored) | Database (wwoz_days, wwoz_tracks) |
+
+**Key Principle**: Artist and WWOZ content are **database-driven**, not file-driven. The website reads from D1 (production) or SQLite (Docker), NOT from markdown files. Git only tracks `content-deploy/` as an intermediary for the D1 sync process.
+
+### Git Tracking Strategy
+
+**What's tracked in git:**
+- ✅ `content-deploy/artists/*.md` - Artist markdown (intermediary for D1 sync)
+- ✅ `content-deploy/portraits/*.jpg` - Portrait copies (for D1 sync matching)
+- ✅ Source code (`apps/`, `packages/`, etc.)
+- ✅ Configuration files (except secrets)
+- ✅ Documentation
+
+**What's NOT tracked (gitignored):**
+- ❌ `content/artists/*.md` - Artist source files (synced to database)
+- ❌ `content/artists/artist_connections.json` - Artist metadata (synced to database)
+- ❌ `/portraits/` - Portrait source directory (synced to R2)
+- ❌ `/archives/` - WWOZ archives (symlink, synced to database)
+- ❌ `/data/` - SQLite database files
+- ❌ `.claude/PRPs/` - Claude investigation/planning artifacts
+
+**Why this architecture?**
+1. **Database is the source of truth** for production - Website always reads from D1/SQLite
+2. **Smaller git history** - No large binary files or frequently-changing content
+3. **Separation of concerns** - Content generation (scraper) is separate from git workflow
+4. **content-deploy/ is an intermediary** - Only exists to pass data from local SQLite → GitHub Actions → D1
 
 ### Daily Sync Pipeline
 
@@ -427,4 +455,11 @@ Secrets required:
 11. **R2 manifest file** - The `portraits/.r2-uploaded-manifest.json` tracks which portraits have been uploaded to R2. This file is local-only and not committed to git. If lost, portraits will be re-uploaded (idempotent).
 12. **image_filename preservation** - The D1 sync scripts use `COALESCE(excluded.image_filename, image_filename)` to preserve existing values if a portrait isn't found. This prevents accidental NULL overwrites.
 13. **created_at preservation** - The sync scripts use `INSERT...ON CONFLICT DO UPDATE` to preserve the original `created_at` timestamp, preventing artists from appearing repeatedly in "Recently Added".
-14. **.gitignore patterns** - Root `/portraits/` is ignored, but `apps/web/content-deploy/portraits/` is tracked. Be careful when modifying gitignore patterns.
+14. **.gitignore patterns** - Content source directories are gitignored, only deploy directories are tracked:
+   - `content/artists/*.md` - gitignored (source)
+   - `content/artists/artist_connections.json` - gitignored (metadata)
+   - `content-deploy/artists/` - tracked (for D1 sync)
+   - `/portraits/` - gitignored (source)
+   - `content-deploy/portraits/` - tracked (for D1 sync matching)
+   - `.claude/PRPs/` - gitignored (investigation artifacts)
+15. **Artist data is database-driven** - The website serves artist content from the database (D1/SQLite), NOT from markdown files. Artist markdown files in `content/artists/` are the source of truth for the sync pipeline, but they're never committed to git. Only `content-deploy/artists/` (a copy for D1 sync) is tracked.

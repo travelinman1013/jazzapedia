@@ -43,9 +43,10 @@ archives/
 /portraits/
 
 # Content directories
-# Artist content is tracked (source of truth for the project)
-# content/artists/ is NOT ignored - it should be committed
-# But we ignore any backup directories
+# Artist markdown files and metadata are NOT committed - they're synced to database
+# Only content-deploy/artists/ is tracked (for D1 sync via GitHub Actions)
+content/artists/*.md
+content/artists/artist_connections.json
 content/artists.backup*/
 
 # Python
@@ -64,3 +65,13 @@ sync-output/
 
 # WWOZ export (track SQL file, ignore timestamp)
 apps/web/scripts/.wwoz-export/.last-export-time
+
+# Claude PRP artifacts (investigation/planning files)
+.claude/PRPs/
+.claude/prp-ralph.state.md
+
+# Environment backups
+.env.backup*
+
+# Temp/utility files
+finish_jpedia_updates
