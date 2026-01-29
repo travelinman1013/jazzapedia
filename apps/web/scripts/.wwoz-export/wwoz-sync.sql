@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-01-29T08:08:37.102Z
+-- Generated: 2026-01-29T10:30:10.606Z
 -- Mode: INCREMENTAL
--- Last export: 2026-01-29 08:07:25
+-- Last export: 2026-01-29 08:08:37
 -- Days: 4
--- Tracks: 507
+-- Tracks: 508
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '"{\"totalTracks\":170,\"successfullyFound\":115,\"notFound\":55,\"lowConfidence\":0,\"duplicates\":0}"',
   'https://wwoz.org/programs/playlists',
   '2026-01-26 13:13:15',
-  '2026-01-29 08:08:33'
+  '2026-01-29 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '"{\"totalTracks\":141,\"successfullyFound\":100,\"notFound\":41,\"lowConfidence\":0,\"duplicates\":0}"',
   'https://wwoz.org/programs/playlists',
   '2026-01-27 07:58:51',
-  '2026-01-29 08:08:33'
+  '2026-01-29 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '"{\"totalTracks\":183,\"successfullyFound\":95,\"notFound\":88,\"lowConfidence\":0,\"duplicates\":0}"',
   'https://wwoz.org/programs/playlists',
   '2026-01-28 22:40:47',
-  '2026-01-29 08:08:33'
+  '2026-01-29 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-01-29',
   NULL,
-  '"{\"totalTracks\":5,\"successfullyFound\":2,\"notFound\":3,\"lowConfidence\":0,\"duplicates\":0}"',
+  '"{\"totalTracks\":6,\"successfullyFound\":2,\"notFound\":4,\"lowConfidence\":0,\"duplicates\":0}"',
   'https://wwoz.org/programs/playlists',
   '2026-01-29 08:07:21',
-  '2026-01-29 08:08:33'
+  '2026-01-29 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -8183,4 +8183,20 @@ VALUES (
   'not_found',
   NULL,
   '2026-01-29 08:07:21'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-29',
+  '02:33',
+  'Earl King',
+  'Mardi Gras In The City',
+  'King Of New Orleans',
+  '',
+  'Overnight Music - Thursday',
+  NULL,
+  NULL,
+  'not_found',
+  NULL,
+  '2026-01-29 10:30:06'
 );
