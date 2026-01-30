@@ -200,6 +200,143 @@ export function getArtistConnections(
   };
 }
 
+/**
+ * Database-driven connections query
+ * Returns bidirectional connection graph for an artist from live database
+ */
+export async function getArtistConnectionsFromDb(
+  db: any,
+  slug: string
+): Promise<{
+  forward: {
+    collaborators: string[];
+    influenced: string[];
+    mentors: string[];
+  };
+  reverse: {
+    collaboratedWith: string[];
+    influencedBy: string[];
+    mentoredBy: string[];
+  };
+  nameToSlug: Record<string, string>;
+}> {
+  // Query the artist's connections from database
+  const artistRows = await db
+    .prepare('SELECT slug, title, musical_connections FROM artists WHERE slug = ?')
+    .bind(slug)
+    .all();
+
+  if (!artistRows.results?.length || !artistRows.results[0].musical_connections) {
+    return {
+      forward: { collaborators: [], influenced: [], mentors: [] },
+      reverse: { collaboratedWith: [], influencedBy: [], mentoredBy: [] },
+      nameToSlug: {},
+    };
+  }
+
+  const artist = artistRows.results[0];
+
+  // Parse the JSON connections
+  const connections: MusicalConnections = JSON.parse(artist.musical_connections);
+
+  // Build nameToSlug mapping from all artists in database
+  const allArtistsRows = await db
+    .prepare('SELECT slug, title FROM artists')
+    .all();
+
+  const nameToSlug: Record<string, string> = {};
+  for (const row of allArtistsRows.results || []) {
+    nameToSlug[row.title.toLowerCase()] = row.slug;
+    nameToSlug[row.slug] = row.slug;
+  }
+
+  // Convert names to slugs
+  const forward = {
+    collaborators: nameListToSlugs(connections.collaborators || [], nameToSlug),
+    influenced: nameListToSlugs(connections.influenced || [], nameToSlug),
+    mentors: nameListToSlugs(connections.mentors || [], nameToSlug),
+  };
+
+  // Build reverse connections by querying other artists
+  const reverse = await getReverseConnectionsFromDb(db, artist.title);
+
+  return { forward, reverse, nameToSlug };
+}
+
+/**
+ * Convert artist names to slugs using database-built name mapping
+ */
+function nameListToSlugs(
+  names: string[],
+  nameToSlug: Record<string, string>
+): string[] {
+  if (!names?.length) return [];
+
+  return names
+    .map((name) => {
+      const normalized = name.toLowerCase().trim();
+      return nameToSlug[normalized] || toArtistSlug(name);
+    })
+    .filter((slug) => nameToSlug[slug]); // Only include artists that exist in DB
+}
+
+/**
+ * Find artists that reference this artist in their connections
+ */
+async function getReverseConnectionsFromDb(
+  db: any,
+  targetArtistName: string
+): Promise<{
+  collaboratedWith: string[];
+  influencedBy: string[];
+  mentoredBy: string[];
+}> {
+  // Query all artists with non-empty connections
+  const allArtistsRows = await db
+    .prepare(
+      `SELECT slug, title, musical_connections
+       FROM artists
+       WHERE musical_connections IS NOT NULL
+       AND musical_connections != '{}'
+       AND musical_connections != 'null'`
+    )
+    .all();
+
+  const reverse = {
+    collaboratedWith: [] as string[],
+    influencedBy: [] as string[],
+    mentoredBy: [] as string[],
+  };
+
+  // Check each artist's connections for references to target artist
+  for (const other of allArtistsRows.results || []) {
+    if (!other.musical_connections) continue;
+
+    try {
+      const connections: MusicalConnections = JSON.parse(other.musical_connections);
+
+      // Check if target artist is in their collaborators
+      if (connections.collaborators?.some((name) => name === targetArtistName)) {
+        reverse.collaboratedWith.push(other.slug);
+      }
+
+      // Check if target artist influenced them
+      if (connections.influenced?.some((name) => name === targetArtistName)) {
+        reverse.influencedBy.push(other.slug);
+      }
+
+      // Check if target artist mentored them
+      if (connections.mentors?.some((name) => name === targetArtistName)) {
+        reverse.mentoredBy.push(other.slug);
+      }
+    } catch (e) {
+      console.error(`Failed to parse connections for ${other.slug}:`, e);
+    }
+  }
+
+  return reverse;
+}
+
 // CLI entry point for generating the index
 if (import.meta.url === `file://${process.argv[1]}`) {
   const artistsDir = path.join(process.cwd(), 'src/content/artists');
