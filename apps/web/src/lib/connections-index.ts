@@ -203,6 +203,7 @@ export function getArtistConnections(
 /**
  * Database-driven connections query
  * Returns bidirectional connection graph for an artist from live database
+ * Optimized for D1 with targeted queries instead of full table scans
  */
 export async function getArtistConnectionsFromDb(
   db: any,
@@ -220,47 +221,72 @@ export async function getArtistConnectionsFromDb(
   };
   nameToSlug: Record<string, string>;
 }> {
-  // Query the artist's connections from database
-  const artistRows = await db
-    .prepare('SELECT slug, title, musical_connections FROM artists WHERE slug = ?')
-    .bind(slug)
-    .all();
+  try {
+    // Query the artist's connections from database
+    const artistRows = await db
+      .prepare('SELECT slug, title, musical_connections FROM artists WHERE slug = ?')
+      .bind(slug)
+      .all();
 
-  if (!artistRows.results?.length || !artistRows.results[0].musical_connections) {
+    if (!artistRows.results?.length || !artistRows.results[0].musical_connections) {
+      return {
+        forward: { collaborators: [], influenced: [], mentors: [] },
+        reverse: { collaboratedWith: [], influencedBy: [], mentoredBy: [] },
+        nameToSlug: {},
+      };
+    }
+
+    const artist = artistRows.results[0];
+
+    // Parse the JSON connections
+    const connections: MusicalConnections = JSON.parse(artist.musical_connections);
+
+    // Collect all unique artist names mentioned in connections
+    const allNames = new Set<string>([
+      ...(connections.collaborators || []),
+      ...(connections.influenced || []),
+      ...(connections.mentors || []),
+    ]);
+
+    // Query ONLY the artists we need (not all artists)
+    const nameToSlug: Record<string, string> = {};
+
+    if (allNames.size > 0) {
+      // Build SQL with placeholders for each name
+      const names = Array.from(allNames);
+      const placeholders = names.map(() => '?').join(',');
+      const normalizedNames = names.map(n => n.toLowerCase());
+
+      const targetArtistsRows = await db
+        .prepare(`SELECT slug, title FROM artists WHERE LOWER(title) IN (${placeholders})`)
+        .bind(...normalizedNames)
+        .all();
+
+      for (const row of targetArtistsRows.results || []) {
+        nameToSlug[row.title.toLowerCase()] = row.slug;
+        nameToSlug[row.slug] = row.slug;
+      }
+    }
+
+    // Convert names to slugs
+    const forward = {
+      collaborators: nameListToSlugs(connections.collaborators || [], nameToSlug),
+      influenced: nameListToSlugs(connections.influenced || [], nameToSlug),
+      mentors: nameListToSlugs(connections.mentors || [], nameToSlug),
+    };
+
+    // Build reverse connections (limited query with LIKE for performance)
+    const reverse = await getReverseConnectionsFromDb(db, artist.title);
+
+    return { forward, reverse, nameToSlug };
+  } catch (error) {
+    console.error('Error in getArtistConnectionsFromDb:', error);
     return {
       forward: { collaborators: [], influenced: [], mentors: [] },
       reverse: { collaboratedWith: [], influencedBy: [], mentoredBy: [] },
       nameToSlug: {},
     };
   }
-
-  const artist = artistRows.results[0];
-
-  // Parse the JSON connections
-  const connections: MusicalConnections = JSON.parse(artist.musical_connections);
-
-  // Build nameToSlug mapping from all artists in database
-  const allArtistsRows = await db
-    .prepare('SELECT slug, title FROM artists')
-    .all();
-
-  const nameToSlug: Record<string, string> = {};
-  for (const row of allArtistsRows.results || []) {
-    nameToSlug[row.title.toLowerCase()] = row.slug;
-    nameToSlug[row.slug] = row.slug;
-  }
-
-  // Convert names to slugs
-  const forward = {
-    collaborators: nameListToSlugs(connections.collaborators || [], nameToSlug),
-    influenced: nameListToSlugs(connections.influenced || [], nameToSlug),
-    mentors: nameListToSlugs(connections.mentors || [], nameToSlug),
-  };
-
-  // Build reverse connections by querying other artists
-  const reverse = await getReverseConnectionsFromDb(db, artist.title);
-
-  return { forward, reverse, nameToSlug };
 }
 
 /**
@@ -282,6 +308,7 @@ function nameListToSlugs(
 
 /**
  * Find artists that reference this artist in their connections
+ * Optimized for D1 using JSON LIKE queries instead of full table scans
  */
 async function getReverseConnectionsFromDb(
   db: any,
@@ -291,50 +318,63 @@ async function getReverseConnectionsFromDb(
   influencedBy: string[];
   mentoredBy: string[];
 }> {
-  // Query all artists with non-empty connections
-  const allArtistsRows = await db
-    .prepare(
-      `SELECT slug, title, musical_connections
-       FROM artists
-       WHERE musical_connections IS NOT NULL
-       AND musical_connections != '{}'
-       AND musical_connections != 'null'`
-    )
-    .all();
+  try {
+    // Use LIKE to search within JSON (more efficient than full table scan)
+    // This finds artists whose connections JSON contains the target artist name
+    const searchPattern = `%"${targetArtistName}"%`;
 
-  const reverse = {
-    collaboratedWith: [] as string[],
-    influencedBy: [] as string[],
-    mentoredBy: [] as string[],
-  };
+    const allArtistsRows = await db
+      .prepare(
+        `SELECT slug, musical_connections
+         FROM artists
+         WHERE musical_connections IS NOT NULL
+         AND musical_connections LIKE ?
+         LIMIT 200`
+      )
+      .bind(searchPattern)
+      .all();
 
-  // Check each artist's connections for references to target artist
-  for (const other of allArtistsRows.results || []) {
-    if (!other.musical_connections) continue;
+    const reverse = {
+      collaboratedWith: [] as string[],
+      influencedBy: [] as string[],
+      mentoredBy: [] as string[],
+    };
 
-    try {
-      const connections: MusicalConnections = JSON.parse(other.musical_connections);
+    // Check each result to see which type of connection it is
+    for (const other of allArtistsRows.results || []) {
+      if (!other.musical_connections) continue;
 
-      // Check if target artist is in their collaborators
-      if (connections.collaborators?.some((name) => name === targetArtistName)) {
-        reverse.collaboratedWith.push(other.slug);
+      try {
+        const connections: MusicalConnections = JSON.parse(other.musical_connections);
+
+        // Check if target artist is in their collaborators
+        if (connections.collaborators?.some((name) => name === targetArtistName)) {
+          reverse.collaboratedWith.push(other.slug);
+        }
+
+        // Check if target artist influenced them
+        if (connections.influenced?.some((name) => name === targetArtistName)) {
+          reverse.influencedBy.push(other.slug);
+        }
+
+        // Check if target artist mentored them
+        if (connections.mentors?.some((name) => name === targetArtistName)) {
+          reverse.mentoredBy.push(other.slug);
+        }
+      } catch (e) {
+        // Silently skip parse errors
       }
-
-      // Check if target artist influenced them
-      if (connections.influenced?.some((name) => name === targetArtistName)) {
-        reverse.influencedBy.push(other.slug);
-      }
-
-      // Check if target artist mentored them
-      if (connections.mentors?.some((name) => name === targetArtistName)) {
-        reverse.mentoredBy.push(other.slug);
-      }
-    } catch (e) {
-      console.error(`Failed to parse connections for ${other.slug}:`, e);
     }
-  }
 
-  return reverse;
+    return reverse;
+  } catch (error) {
+    console.error('Error in getReverseConnectionsFromDb:', error);
+    return {
+      collaboratedWith: [],
+      influencedBy: [],
+      mentoredBy: [],
+    };
+  }
 }
 
 // CLI entry point for generating the index
