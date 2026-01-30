@@ -275,8 +275,13 @@ export async function getArtistConnectionsFromDb(
       mentors: nameListToSlugs(connections.mentors || [], nameToSlug),
     };
 
-    // Build reverse connections (limited query with LIKE for performance)
-    const reverse = await getReverseConnectionsFromDb(db, artist.title);
+    // Skip reverse connections on D1 for now (performance issues)
+    // TODO: Implement efficient reverse connections for D1
+    const reverse = {
+      collaboratedWith: [],
+      influencedBy: [],
+      mentoredBy: [],
+    };
 
     return { forward, reverse, nameToSlug };
   } catch (error) {
