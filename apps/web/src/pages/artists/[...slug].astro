@@ -193,12 +193,14 @@ if (hasWWOZPlays) {
   headings.push({ id: 'heard-on-wwoz', text: 'Heard on WWOZ' });
 }
 
+// Import static connections index (generated at build time)
+import connectionsIndex from '../../data/connections-index.json';
+
 // Check if bio_html already has a Musical Connections section
 // If so, the graph will be rendered as a subsection (no h2)
 const bioHasMusicalConnections = /<h2[^>]*>Musical Connections<\/h2>/i.test(htmlContent);
 
-// Get connections for this artist (database-driven, not static import)
-// Only fetch if bio mentions Musical Connections to avoid unnecessary DB queries
+// Get connections for this artist from static index
 let artistConnections = {
   forward: {},
   reverse: {},
@@ -207,29 +209,22 @@ let nameToSlug: Record<string, string> = {};
 let hasConnections = false;
 
 if (bioHasMusicalConnections) {
-  try {
-    // Import the database-driven connections function
-    const { getArtistConnectionsFromDb } = await import('../../lib/connections-index');
+  // Extract from static JSON (type assertion for TypeScript)
+  const index = connectionsIndex as any;
+  artistConnections = {
+    forward: index.forward?.[slug] || { collaborators: [], influenced: [], mentors: [] },
+    reverse: index.reverse?.[slug] || { collaboratedWith: [], influencedBy: [], mentoredBy: [] },
+  };
+  nameToSlug = index.nameToSlug || {};
 
-    // Query connections directly from database (works during SSR)
-    const connectionsData = await getArtistConnectionsFromDb(db, slug);
-    artistConnections = {
-      forward: connectionsData.forward,
-      reverse: connectionsData.reverse,
-    };
-    nameToSlug = connectionsData.nameToSlug;
-
-    // Check if artist has any connections
-    hasConnections =
-      (artistConnections.forward?.collaborators?.length > 0) ||
-      (artistConnections.forward?.influenced?.length > 0) ||
-      (artistConnections.forward?.mentors?.length > 0) ||
-      (artistConnections.reverse?.collaboratedWith?.length > 0) ||
-      (artistConnections.reverse?.influencedBy?.length > 0) ||
-      (artistConnections.reverse?.mentoredBy?.length > 0);
-  } catch (error) {
-    console.error(`Error fetching connections for ${slug}:`, error);
-  }
+  // Check if artist has any connections
+  hasConnections =
+    (artistConnections.forward?.collaborators?.length > 0) ||
+    (artistConnections.forward?.influenced?.length > 0) ||
+    (artistConnections.forward?.mentors?.length > 0) ||
+    (artistConnections.reverse?.collaboratedWith?.length > 0) ||
+    (artistConnections.reverse?.influencedBy?.length > 0) ||
+    (artistConnections.reverse?.mentoredBy?.length > 0);
 }
 
 // Split content to insert Connection Graph after Musical Connections section
