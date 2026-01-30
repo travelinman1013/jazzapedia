@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-01-30T10:30:11.039Z
+-- Generated: 2026-01-30T14:46:53.402Z
 -- Mode: INCREMENTAL
--- Last export: 2026-01-30 07:23:08
+-- Last export: 2026-01-30 10:30:11
 -- Days: 4
--- Tracks: 574
+-- Tracks: 582
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":141,"successfullyFound":100,"notFound":41,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-01-27 07:58:51',
-  '2026-01-30 10:30:06'
+  '2026-01-30 14:46:52'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":183,"successfullyFound":95,"notFound":88,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-01-28 22:40:47',
-  '2026-01-30 10:30:06'
+  '2026-01-30 14:46:52'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":206,"successfullyFound":118,"notFound":88,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-01-29 08:07:21',
-  '2026-01-30 10:30:06'
+  '2026-01-30 14:46:52'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-01-30',
   NULL,
-  '{"totalTracks":26,"successfullyFound":19,"notFound":7,"lowConfidence":0,"duplicates":0}',
+  '{"totalTracks":34,"successfullyFound":23,"notFound":11,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-01-30 07:22:02',
-  '2026-01-30 10:30:06'
+  '2026-01-30 14:46:52'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -9255,4 +9255,132 @@ VALUES (
   'not_found',
   NULL,
   '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '06:04',
+  'Buddy Rich',
+  'Cardin Blue',
+  NULL,
+  '',
+  'The Morning Set',
+  'Dave Dauterive',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-01-30 14:46:52'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '06:24',
+  'Larry Coryell',
+  'Wrong is right',
+  NULL,
+  'jazz fusion, smooth jazz, jazz',
+  'The Morning Set',
+  'Dave Dauterive',
+  'https://open.spotify.com/track/2aG4J8PSSJQS2DCEVpaTqG',
+  'found',
+  98,
+  '2026-01-30 14:46:52'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '06:43',
+  'Brad Allen Williams',
+  'satellites are spinning (feat. Fay Victor)',
+  'light rivers',
+  '',
+  'The Morning Set',
+  'Dave Dauterive',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-01-30 14:46:52'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '07:04',
+  'Dave Stryker',
+  '2 Blue Fire',
+  'Blue Fire',
+  '',
+  'The Morning Set',
+  'Dave Dauterive',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-01-30 14:46:52'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '07:04',
+  'Marques Carroll',
+  'The March On Montgomery',
+  NULL,
+  '',
+  'The Morning Set',
+  'Dave Dauterive',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-01-30 14:46:52'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '07:23',
+  'Anika Nilles',
+  'Radiate',
+  'False Truth',
+  'jazz fusion, jazz funk',
+  'The Morning Set',
+  'Dave Dauterive',
+  'https://open.spotify.com/track/03e1HJGTY4u6aeRCMkjQY2',
+  'found',
+  100,
+  '2026-01-30 14:46:52'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '07:31',
+  'Lafayette Harris, Jr.',
+  'We Are One in the Spirit',
+  'All in Good Time',
+  'jazz',
+  'The Morning Set',
+  'Dave Dauterive',
+  'https://open.spotify.com/track/6NclZfQcE4dBcvQt6iQra5',
+  'found',
+  100,
+  '2026-01-30 14:46:52'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '07:38',
+  'Bill Laurance & WDR Big Band',
+  'Golden Hour (Live)',
+  'Live at the Philharmonie, Cologne (Live)',
+  'jazz fusion, nu jazz, jazz',
+  'The Morning Set',
+  'Dave Dauterive',
+  'https://open.spotify.com/track/3ERGmWeUJn2Vt7GRyhXY8s',
+  'found',
+  98,
+  '2026-01-30 14:46:52'
 );
