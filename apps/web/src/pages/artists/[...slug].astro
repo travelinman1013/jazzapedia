@@ -8,6 +8,7 @@ import ConnectionGraph from '../../components/artist/ConnectionGraph.astro';
 import WWOZPlays from '../../components/artist/WWOZPlays.astro';
 import { getWWOZPlaysForArtist } from '../../lib/wwoz';
 import { getDatabase, getPortraitUrl } from '../../lib/db';
+import connectionsIndex from '../../data/connections-index.json';
 
 // Get the slug from params
 const { slug } = Astro.params;
@@ -129,23 +130,15 @@ function convertNameToSlug(name: string): string {
 }
 
 // Process wiki links in bio_html: [[Artist Name|Display Text]] -> HTML links
-// Optimization: Only query slugs that are actually referenced in wiki links
+// Optimization: Use static slug mapping instead of database query (D1 compatible)
+const nameToSlugMap = (connectionsIndex as any).nameToSlug;
 const wikiLinkedNames = extractWikiLinks(htmlContent);
-let artistSlugs = new Set<string>();
+const slugsToCheck = wikiLinkedNames.map(convertNameToSlug);
 
-if (wikiLinkedNames.length > 0) {
-  // Convert names to slugs for querying
-  const slugsToCheck = wikiLinkedNames.map(convertNameToSlug);
-
-  // Query only the slugs we need (not all 4,000+ artists)
-  const placeholders = slugsToCheck.map(() => '?').join(',');
-  const result = await db
-    .prepare(`SELECT slug FROM artists WHERE slug IN (${placeholders})`)
-    .bind(...slugsToCheck)
-    .all();
-
-  artistSlugs = new Set((result.results || []).map((r: any) => r.slug));
-}
+// Check which slugs exist using static data (no D1 query needed)
+const artistSlugs = new Set<string>(
+  slugsToCheck.filter(slug => nameToSlugMap[slug])
+);
 
 // Convert wiki links [[artist_name|Display Name]] to HTML links
 htmlContent = htmlContent.replace(
