@@ -1,10 +1,11 @@
 ---
 /**
  * WWOZ Playlist Page - Shows tracks played on a specific date
- * Uses database for data (SSR) and artist slug lookup
+ * Uses database for track data (SSR) and static slug mapping for artist links
  */
 import Layout from '../../layouts/Layout.astro';
 import { getDatabase } from '../../lib/db';
+import connectionsIndex from '../../data/connections-index.json';
 
 // Set cache headers
 Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
@@ -64,22 +65,16 @@ function artistNameToSlug(name: string): string {
   return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
 }
 
-// Optimization: Only fetch slugs for artists mentioned in tracks (not all 4,000+ artists)
+// Optimization: Use static slug mapping instead of database query
+// Extract nameToSlug from connections index (works on both Docker and D1)
+const nameToSlugMap = (connectionsIndex as any).nameToSlug;
 const uniqueArtistNames = new Set(tracks.map(track => track.artist));
 const slugsToCheck = Array.from(uniqueArtistNames).map(artistNameToSlug);
 
-let artistSlugs = new Set<string>();
-
-if (slugsToCheck.length > 0) {
-  // Query only the slugs we need
-  const placeholders = slugsToCheck.map(() => '?').join(',');
-  const artistsResult = await db
-    .prepare(`SELECT slug FROM artists WHERE slug IN (${placeholders})`)
-    .bind(...slugsToCheck)
-    .all();
-
-  artistSlugs = new Set((artistsResult.results || []).map((r: any) => r.slug));
-}
+// Check which slugs exist using static data (no D1 query needed)
+const artistSlugs = new Set<string>(
+  slugsToCheck.filter(slug => nameToSlugMap[slug])
+);
 
 // Format date for display
 const formatDateFull = (dateStr: string) => {
