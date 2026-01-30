@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-01-30T07:23:08.402Z
+-- Generated: 2026-01-30T10:30:11.039Z
 -- Mode: INCREMENTAL
--- Last export: 2026-01-30 07:22:07
+-- Last export: 2026-01-30 07:23:08
 -- Days: 4
--- Tracks: 562
+-- Tracks: 574
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":141,"successfullyFound":100,"notFound":41,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-01-27 07:58:51',
-  '2026-01-30 07:23:04'
+  '2026-01-30 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":183,"successfullyFound":95,"notFound":88,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-01-28 22:40:47',
-  '2026-01-30 07:23:04'
+  '2026-01-30 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":206,"successfullyFound":118,"notFound":88,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-01-29 08:07:21',
-  '2026-01-30 07:23:04'
+  '2026-01-30 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-01-30',
   NULL,
-  '{"totalTracks":14,"successfullyFound":11,"notFound":3,"lowConfidence":0,"duplicates":0}',
+  '{"totalTracks":26,"successfullyFound":19,"notFound":7,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-01-30 07:22:02',
-  '2026-01-30 07:23:04'
+  '2026-01-30 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -9063,4 +9063,196 @@ VALUES (
   'found',
   81.6,
   '2026-01-30 07:22:02'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:10',
+  'The Staple Singers',
+  'For What It''s Worth',
+  NULL,
+  'soul, motown, classic soul',
+  'Midnight Music',
+  NULL,
+  'https://open.spotify.com/track/4la9jiqXYHQlEwbRhqYsd7',
+  'found',
+  100,
+  '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:12',
+  'Resistance Revival Chorus, Rhiannon Giddens',
+  'All You Fascists Bound to Lose',
+  NULL,
+  'folk, americana, southern gothic',
+  'Midnight Music',
+  NULL,
+  'https://open.spotify.com/track/0lYykZNNBNE33o5izvZFrG',
+  'found',
+  100,
+  '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:17',
+  'Jon Batiste',
+  'American Symphony Theme',
+  'Beethoven Blues',
+  '',
+  'Midnight Music',
+  NULL,
+  'https://open.spotify.com/track/12YNZAFHGLIrtzQU7cfnQ6',
+  'found',
+  100,
+  '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:20',
+  'Hanoun Brass Band',
+  'Ya Zareef / Del''aouna/Wein ''a Ramallah',
+  'From New Orleans to Palestine',
+  '',
+  'Midnight Music',
+  NULL,
+  NULL,
+  'not_found',
+  NULL,
+  '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:26',
+  'Trendafilka',
+  'Kaliora Ne'' Xoun I Elyes',
+  'For the Olives',
+  '',
+  'Midnight Music',
+  NULL,
+  NULL,
+  'not_found',
+  NULL,
+  '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:34',
+  'Mike Dillon, Brian Haas, Nikki Glaspie',
+  'Houser',
+  'Run White Boy Run',
+  'jam band, cajun, nu jazz',
+  'Midnight Music',
+  NULL,
+  'https://open.spotify.com/track/0ilY9qK1otuaQpy5LAuk2j',
+  'found',
+  100,
+  '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:36',
+  'John Zorn, Kris Davis Quartet',
+  'Bagatelle #86',
+  NULL,
+  '',
+  'Midnight Music',
+  NULL,
+  NULL,
+  'not_found',
+  NULL,
+  '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:39',
+  'archie shepp',
+  'attica blues',
+  'attica blues',
+  'free jazz, jazz, avant-garde',
+  'Midnight Music',
+  NULL,
+  'https://open.spotify.com/track/6VdtTwF9ZW5m9Lct4ep02s',
+  'found',
+  100,
+  '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:40',
+  'James Booker',
+  'Fur Elise/One Helluva Nerve',
+  'Rhapsody In Bronze',
+  'boogie-woogie, cajun, ragtime',
+  'Midnight Music',
+  NULL,
+  'https://open.spotify.com/track/0Yx6ytd4nCdRIacZ4dIvd3',
+  'found',
+  86,
+  '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:45',
+  'Greg Schatz',
+  'Siren in the Sky',
+  'The Sun is Still Going to Shine',
+  '',
+  'Midnight Music',
+  NULL,
+  'https://open.spotify.com/track/6AufoUleHquinpXIBmZTJG',
+  'found',
+  100,
+  '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:48',
+  'woody guthrie',
+  'tear the fascists down',
+  'my dusty road',
+  'folk, traditional folk, americana',
+  'Midnight Music',
+  NULL,
+  'https://open.spotify.com/track/649Zk1kqe5TpkMYSCr0sI6',
+  'found',
+  88.8,
+  '2026-01-30 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-01-30',
+  '01:58',
+  'Mardi Gras Indians',
+  'Red Whie and Blue got a Golden Band',
+  NULL,
+  '',
+  'Midnight Music',
+  NULL,
+  NULL,
+  'not_found',
+  NULL,
+  '2026-01-30 10:30:06'
 );
