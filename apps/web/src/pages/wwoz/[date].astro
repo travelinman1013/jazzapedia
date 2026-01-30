@@ -59,11 +59,27 @@ interface WWOZTrack {
 
 const tracks: WWOZTrack[] = (tracksResult.results || []) as WWOZTrack[];
 
-// Fetch all artist slugs for linking (single query, cached per request)
-const artistsResult = await db
-  .prepare('SELECT slug FROM artists')
-  .all();
-const artistSlugs = new Set((artistsResult.results || []).map((r: any) => r.slug));
+// Helper: Convert artist name to slug format
+function artistNameToSlug(name: string): string {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+}
+
+// Optimization: Only fetch slugs for artists mentioned in tracks (not all 4,000+ artists)
+const uniqueArtistNames = new Set(tracks.map(track => track.artist));
+const slugsToCheck = Array.from(uniqueArtistNames).map(artistNameToSlug);
+
+let artistSlugs = new Set<string>();
+
+if (slugsToCheck.length > 0) {
+  // Query only the slugs we need
+  const placeholders = slugsToCheck.map(() => '?').join(',');
+  const artistsResult = await db
+    .prepare(`SELECT slug FROM artists WHERE slug IN (${placeholders})`)
+    .bind(...slugsToCheck)
+    .all();
+
+  artistSlugs = new Set((artistsResult.results || []).map((r: any) => r.slug));
+}
 
 // Format date for display
 const formatDateFull = (dateStr: string) => {

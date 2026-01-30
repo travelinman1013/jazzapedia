@@ -3,8 +3,10 @@
  *
  * Searches WWOZ daily logs for tracks matching an artist.
  * Used by both the artist page (for TOC) and WWOZPlays component (for rendering).
+ *
+ * Database-driven: Queries wwoz_tracks table instead of loading content collections.
  */
-import { getCollection } from 'astro:content';
+import type { DatabaseAdapter } from '@jazzapedia/db';
 
 export interface MatchedTrack {
   date: string;
@@ -19,64 +21,59 @@ export interface MatchedTrack {
 
 /**
  * Get all WWOZ plays for an artist, sorted by date (newest first).
+ *
+ * @param artistSlug - Artist slug (e.g., "dr-john")
+ * @param artistName - Artist display name (e.g., "Dr. John")
+ * @param db - Database adapter (D1 or SQLite)
+ * @returns Array of matched tracks sorted by date (newest first)
  */
-export async function getWWOZPlaysForArtist(artistSlug: string, artistName: string): Promise<MatchedTrack[]> {
-  const wwozLogs = await getCollection('wwoz');
-  const matchedTracks: MatchedTrack[] = [];
+export async function getWWOZPlaysForArtist(
+  artistSlug: string,
+  artistName: string,
+  db: DatabaseAdapter
+): Promise<MatchedTrack[]> {
+  // Build LIKE patterns for flexible artist matching
+  // Pattern 1: Match artist name with wildcards (handles "feat." credits)
+  const artistPattern = `%${artistName}%`;
 
-  // Normalize artist name for matching
-  const normalizedArtistName = artistName.toLowerCase().trim();
-  const artistWords = normalizedArtistName.split(/\s+/);
+  // Pattern 2: Match slug-based name (replaces hyphens with spaces)
+  const slugAsName = artistSlug.replace(/-/g, ' ');
+  const slugPattern = `%${slugAsName}%`;
 
-  // Also match on slug variations
-  const slugVariations = [
-    artistSlug,
-    artistSlug.replace(/-/g, ' '),
-    artistName.toLowerCase()
-  ];
+  // Query database for matching tracks
+  // Uses idx_wwoz_artist_status for performance
+  const result = await db
+    .prepare(`
+      SELECT
+        date,
+        time,
+        title,
+        album,
+        show_name as show,
+        host,
+        spotify_url as spotifyUrl,
+        confidence
+      FROM wwoz_tracks
+      WHERE status = 'found'
+        AND (
+          LOWER(artist) LIKE LOWER(?)
+          OR LOWER(artist) LIKE LOWER(?)
+        )
+      ORDER BY date DESC, time DESC
+    `)
+    .bind(artistPattern, slugPattern)
+    .all();
 
-  for (const log of wwozLogs) {
-    const tracks = log.data.tracks || [];
-    const date = log.data.date;
-
-    for (const track of tracks) {
-      if (track.status !== 'found') continue; // Only show found tracks
-
-      const trackArtist = track.artist.toLowerCase().trim();
-
-      // Match strategies:
-      // 1. Exact match
-      // 2. Artist name contained in track artist (handles "feat." credits)
-      // 3. Track artist contained in artist name
-      // 4. All words of artist name present in track artist
-      const isMatch =
-        trackArtist === normalizedArtistName ||
-        trackArtist.includes(normalizedArtistName) ||
-        normalizedArtistName.includes(trackArtist) ||
-        artistWords.every(word => trackArtist.includes(word)) ||
-        slugVariations.some(v => trackArtist.includes(v));
-
-      if (isMatch) {
-        matchedTracks.push({
-          date,
-          time: track.time,
-          title: track.title,
-          album: track.album,
-          show: track.show,
-          host: track.host,
-          spotifyUrl: track.spotifyUrl,
-          confidence: track.confidence
-        });
-      }
-    }
-  }
-
-  // Sort by date (newest first), then by time
-  matchedTracks.sort((a, b) => {
-    const dateCompare = b.date.localeCompare(a.date);
-    if (dateCompare !== 0) return dateCompare;
-    return b.time.localeCompare(a.time);
-  });
-
-  return matchedTracks;
+  // Map database results to MatchedTrack interface
+  const tracks = (result.results || []) as any[];
+  return tracks.map(track => ({
+    date: track.date,
+    time: track.time,
+    title: track.title,
+    album: track.album || undefined,
+    show: track.show,
+    host: track.host || undefined,
+    spotifyUrl: track.spotifyUrl || undefined,
+    confidence: track.confidence !== null ? track.confidence : undefined,
+  }));
 }

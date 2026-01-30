@@ -7,7 +7,6 @@ import WikiArticle from '../../layouts/WikiArticle.astro';
 import ConnectionGraph from '../../components/artist/ConnectionGraph.astro';
 import WWOZPlays from '../../components/artist/WWOZPlays.astro';
 import { getWWOZPlaysForArtist } from '../../lib/wwoz';
-import connectionsIndex from '../../data/connections-index.json';
 import { getDatabase, getPortraitUrl } from '../../lib/db';
 
 // Get the slug from params
@@ -113,18 +112,46 @@ if (researchSources.length === 0) {
 htmlContent = htmlContent.replace(/<p><em>Enhanced with Perplexity AI research<\/em><\/p>/gi, '');
 htmlContent = htmlContent.replace(/<p><em>Sources:[\s\S]*?<\/em><\/p>/gi, '');
 
+// Helper: Extract wiki link names from HTML content
+function extractWikiLinks(html: string): string[] {
+  const wikiLinkRegex = /\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g;
+  const names = new Set<string>();
+  let match;
+  while ((match = wikiLinkRegex.exec(html)) !== null) {
+    names.add(match[1]);
+  }
+  return Array.from(names);
+}
+
+// Helper: Convert name to slug format
+function convertNameToSlug(name: string): string {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+}
+
 // Process wiki links in bio_html: [[Artist Name|Display Text]] -> HTML links
-// First, we need to get all artist slugs for red link detection
-const allArtistsResult = await db
-  .prepare('SELECT slug FROM artists')
-  .all();
-const artistSlugs = new Set((allArtistsResult.results || []).map((r: any) => r.slug));
+// Optimization: Only query slugs that are actually referenced in wiki links
+const wikiLinkedNames = extractWikiLinks(htmlContent);
+let artistSlugs = new Set<string>();
+
+if (wikiLinkedNames.length > 0) {
+  // Convert names to slugs for querying
+  const slugsToCheck = wikiLinkedNames.map(convertNameToSlug);
+
+  // Query only the slugs we need (not all 4,000+ artists)
+  const placeholders = slugsToCheck.map(() => '?').join(',');
+  const result = await db
+    .prepare(`SELECT slug FROM artists WHERE slug IN (${placeholders})`)
+    .bind(...slugsToCheck)
+    .all();
+
+  artistSlugs = new Set((result.results || []).map((r: any) => r.slug));
+}
 
 // Convert wiki links [[artist_name|Display Name]] to HTML links
 htmlContent = htmlContent.replace(
   /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g,
   (match: string, pageName: string, displayName: string) => {
-    const linkSlug = pageName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+    const linkSlug = convertNameToSlug(pageName);
     const text = displayName || pageName;
     if (artistSlugs.has(linkSlug)) {
       return `<a href="/artists/${linkSlug}" class="wiki-link">${text}</a>`;
@@ -157,8 +184,8 @@ if (researchSources.length > 0) {
 // Get title with fallback
 const title = artistRow.title || slug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
 
-// Get WWOZ plays for this artist
-const wwozPlays = await getWWOZPlaysForArtist(slug, title);
+// Get WWOZ plays for this artist (database-driven query)
+const wwozPlays = await getWWOZPlaysForArtist(slug, title, db);
 const hasWWOZPlays = wwozPlays.length > 0;
 
 // Add WWOZ to TOC if there are plays
@@ -166,27 +193,44 @@ if (hasWWOZPlays) {
   headings.push({ id: 'heard-on-wwoz', text: 'Heard on WWOZ' });
 }
 
-// Get connections for this artist from the static index
-const artistConnections = {
-  forward: (connectionsIndex as any).forward?.[slug] || {},
-  reverse: (connectionsIndex as any).reverse?.[slug] || {},
-};
-
-// Check if artist has any connections
-const hasConnections =
-  (artistConnections.forward?.collaborators?.length > 0) ||
-  (artistConnections.forward?.influenced?.length > 0) ||
-  (artistConnections.forward?.mentors?.length > 0) ||
-  (artistConnections.reverse?.collaboratedWith?.length > 0) ||
-  (artistConnections.reverse?.influencedBy?.length > 0) ||
-  (artistConnections.reverse?.mentoredBy?.length > 0);
-
-// Get name to slug mapping for connection graph navigation
-const nameToSlug = (connectionsIndex as any).nameToSlug || {};
-
 // Check if bio_html already has a Musical Connections section
 // If so, the graph will be rendered as a subsection (no h2)
 const bioHasMusicalConnections = /<h2[^>]*>Musical Connections<\/h2>/i.test(htmlContent);
+
+// Get connections for this artist (on-demand via API, not 2MB static import)
+// Only fetch if bio mentions Musical Connections to avoid unnecessary API calls
+let artistConnections = {
+  forward: {},
+  reverse: {},
+};
+let nameToSlug: Record<string, string> = {};
+let hasConnections = false;
+
+if (bioHasMusicalConnections) {
+  try {
+    const connectionsUrl = new URL(`/api/artists/${slug}/connections`, Astro.url);
+    const response = await fetch(connectionsUrl);
+
+    if (response.ok) {
+      const data = await response.json();
+      artistConnections = data.connections || { forward: {}, reverse: {} };
+      nameToSlug = data.nameToSlug || {};
+
+      // Check if artist has any connections
+      hasConnections =
+        (artistConnections.forward?.collaborators?.length > 0) ||
+        (artistConnections.forward?.influenced?.length > 0) ||
+        (artistConnections.forward?.mentors?.length > 0) ||
+        (artistConnections.reverse?.collaboratedWith?.length > 0) ||
+        (artistConnections.reverse?.influencedBy?.length > 0) ||
+        (artistConnections.reverse?.mentoredBy?.length > 0);
+    } else {
+      console.warn(`Failed to fetch connections for ${slug}: ${response.status}`);
+    }
+  } catch (error) {
+    console.error(`Error fetching connections for ${slug}:`, error);
+  }
+}
 
 // Split content to insert Connection Graph after Musical Connections section
 // Find the h2 that comes after Musical Connections (usually Discography or External Links)
