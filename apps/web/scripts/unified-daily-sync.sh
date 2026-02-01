@@ -207,6 +207,29 @@ else
 fi
 
 # ============================================================
+# STEP 1.8: Regenerate Connections Index
+# ============================================================
+# The connections-index.json is a static file used by the ConnectionGraph
+# component. It must be regenerated whenever artists are added/modified
+# so that new artist connections are visible on the website.
+
+log_section "Step 1.8: Regenerate Connections Index"
+
+CONNECTIONS_INDEX="$WEB_DIR/src/data/connections-index.json"
+
+if [ "$DRY_RUN" = true ]; then
+  log "DRY RUN: Would regenerate connections-index.json"
+else
+  log "Regenerating connections-index.json from SQLite..."
+  cd "$WEB_DIR"
+  if DATABASE_PATH="$SQLITE_DB" npx tsx "$SCRIPT_DIR/build-connections-static.ts" 2>&1 | tee -a "$LOG_FILE"; then
+    log "Connections index: regenerated"
+  else
+    log "WARNING: Failed to regenerate connections index"
+  fi
+fi
+
+# ============================================================
 # STEP 2: Local -> Obsidian Vault (backup sync)
 # ============================================================
 
@@ -349,7 +372,7 @@ else
   CONTENT_CHANGED=false
 
   # Check for changes (both tracked and untracked files)
-  [ -n "$(git status --porcelain "$CONTENT_DEPLOY" "$WWOZ_EXPORT_DIR" 2>/dev/null)" ] && CONTENT_CHANGED=true
+  [ -n "$(git status --porcelain "$CONTENT_DEPLOY" "$WWOZ_EXPORT_DIR" "$CONNECTIONS_INDEX" 2>/dev/null)" ] && CONTENT_CHANGED=true
 
   if [ "$CONTENT_CHANGED" = false ]; then
     log "Git: No changes to commit"
@@ -358,15 +381,19 @@ else
     ARTIST_COUNT=$(git status --porcelain "$CONTENT_DEPLOY/artists" 2>/dev/null | wc -l | tr -d ' ')
     PORTRAIT_COUNT=$(git status --porcelain "$CONTENT_DEPLOY/portraits" 2>/dev/null | wc -l | tr -d ' ')
     WWOZ_CHANGED=$(git status --porcelain "$WWOZ_EXPORT_DIR" 2>/dev/null | wc -l | tr -d ' ')
+    CONNECTIONS_CHANGED=$(git status --porcelain "$CONNECTIONS_INDEX" 2>/dev/null | wc -l | tr -d ' ')
 
     COMMIT_PARTS=""
     [ "$ARTIST_COUNT" -gt 0 ] && COMMIT_PARTS="artists"
     [ "$WWOZ_CHANGED" -gt 0 ] && {
       [ -n "$COMMIT_PARTS" ] && COMMIT_PARTS="$COMMIT_PARTS, WWOZ" || COMMIT_PARTS="WWOZ"
     }
+    [ "$CONNECTIONS_CHANGED" -gt 0 ] && {
+      [ -n "$COMMIT_PARTS" ] && COMMIT_PARTS="$COMMIT_PARTS, connections" || COMMIT_PARTS="connections"
+    }
 
-    log "Git: $ARTIST_COUNT artist changes, $PORTRAIT_COUNT portrait changes, WWOZ export: $([ "$WWOZ_CHANGED" -gt 0 ] && echo "changed" || echo "unchanged")"
-    git add "$CONTENT_DEPLOY" "$WWOZ_EXPORT_DIR"
+    log "Git: $ARTIST_COUNT artist changes, $PORTRAIT_COUNT portrait changes, WWOZ: $([ "$WWOZ_CHANGED" -gt 0 ] && echo "changed" || echo "unchanged"), connections: $([ "$CONNECTIONS_CHANGED" -gt 0 ] && echo "changed" || echo "unchanged")"
+    git add "$CONTENT_DEPLOY" "$WWOZ_EXPORT_DIR" "$CONNECTIONS_INDEX"
 
     log "Git: Committing $COMMIT_PARTS..."
     git commit -m "Auto-sync: Update $COMMIT_PARTS [$(date '+%Y-%m-%d %H:%M')]" >> "$LOG_FILE" 2>&1
