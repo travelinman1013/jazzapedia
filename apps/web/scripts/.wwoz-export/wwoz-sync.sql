@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-02-01T07:35:55.852Z
+-- Generated: 2026-02-01T10:30:10.586Z
 -- Mode: INCREMENTAL
--- Last export: 2026-02-01 07:34:23
--- Days: 3
--- Tracks: 605
+-- Last export: 2026-02-01 07:35:55
+-- Days: 4
+-- Tracks: 611
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":206,"successfullyFound":118,"notFound":88,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-01-29 08:07:21',
-  '2026-02-01 07:35:51'
+  '2026-02-01 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":208,"successfullyFound":135,"notFound":73,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-01-30 07:22:02',
-  '2026-02-01 07:35:51'
+  '2026-02-01 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,22 @@ VALUES (
   '{"totalTracks":165,"successfullyFound":91,"notFound":74,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-01 07:34:19',
-  '2026-02-01 07:35:51'
+  '2026-02-01 10:30:06'
+)
+ON CONFLICT(date) DO UPDATE SET
+  playlist_url = COALESCE(excluded.playlist_url, playlist_url),
+  stats_json = excluded.stats_json,
+  source_url = COALESCE(excluded.source_url, source_url),
+  updated_at = excluded.updated_at;
+
+INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
+VALUES (
+  '2026-02-01',
+  NULL,
+  '{"totalTracks":6,"successfullyFound":2,"notFound":4,"lowConfidence":0,"duplicates":0}',
+  'https://wwoz.org/programs/playlists',
+  '2026-02-01 10:30:06',
+  '2026-02-01 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -9734,4 +9749,102 @@ VALUES (
   'found',
   100,
   '2026-02-01 07:34:20'
+);
+
+DELETE FROM wwoz_tracks WHERE date = '2026-02-01';
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-01',
+  '01:34',
+  'Ben Sidran',
+  'Can We Talk',
+  'Don` Cry For No Hipster',
+  'vocal jazz, aor',
+  'Blues in the Night',
+  'Jamie Dell''Apa',
+  'https://open.spotify.com/track/4ikro8mf3UDGoYvDPRWEw4',
+  'found',
+  100,
+  '2026-02-01 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-01',
+  '01:40',
+  'John Prine',
+  'The Lonesome Friends Of Science',
+  'The Tree Of Forgiveness',
+  '',
+  'Blues in the Night',
+  'Jamie Dell''Apa',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-01 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-01',
+  '01:44',
+  'Wanda Jackson',
+  'Rum And Coca-Cola',
+  'The Party Ain`t Over',
+  'rockabilly, psychobilly, rock and roll',
+  'Blues in the Night',
+  'Jamie Dell''Apa',
+  'https://open.spotify.com/track/3PNbtlInLWQ7Q3CC5R5CwX',
+  'found',
+  100,
+  '2026-02-01 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-01',
+  '01:49',
+  'Sax Kari',
+  'The Twitch, Pts. 1 & 2',
+  'Fumigate Funky Broadway',
+  '',
+  'Blues in the Night',
+  'Jamie Dell''Apa',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-01 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-01',
+  '01:54',
+  'Willie Nelson',
+  'Sunday Morning Coming Down',
+  'Naked Willie',
+  '',
+  'Blues in the Night',
+  'Jamie Dell''Apa',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-01 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-01',
+  '03:27',
+  'Hawkettes',
+  'Mardi Gras Mambo',
+  'Mardi Gras In New Orleans [Mardi',
+  '',
+  'Overnight Music - Sunday',
+  NULL,
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-01 10:30:06'
 );
