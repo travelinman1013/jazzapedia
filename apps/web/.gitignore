@@ -60,6 +60,9 @@ HANDOFF-*.md
 PLAN-*.md
 prompts/
 
+# Generated data files (recreated during build)
+src/data/graph-layout.json
+
 # Misc
 process_batch.js
 

@@ -1,0 +1,372 @@
+---
+/**
+ * Graph Page - Full-viewport ecosystem visualization
+ *
+ * Displays all connected artists (~3,500) and their relationships (~10,000 edges)
+ * using Three.js with GPU instancing for smooth 60fps interaction.
+ */
+import '../styles/theme-variables.css';
+import CommandPalette from '../components/ui/CommandPalette.astro';
+import EcosystemGraph from '../components/graph/EcosystemGraph.astro';
+import GraphControls from '../components/graph/GraphControls.astro';
+import GraphInfoPanel from '../components/graph/GraphInfoPanel.astro';
+
+// Import variable fonts
+import '@fontsource-variable/playfair-display';
+import '@fontsource-variable/inter';
+import '@fontsource-variable/jetbrains-mono';
+
+// Import pre-computed layout
+import graphLayout from '../data/graph-layout.json';
+
+const title = 'Artist Ecosystem';
+const description = 'Explore the connections between jazz artists - collaborators, influences, and mentors visualized in an interactive graph.';
+---
+
+<!doctype html>
+<html lang="en" data-theme="classic-jazz" data-mode="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title} - Jazzapedia</title>
+
+    <!-- Import map for Three.js ESM modules -->
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.169.0/build/three.module.min.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.169.0/examples/jsm/"
+        }
+      }
+    </script>
+
+    <!-- Inline settings initialization (prevents FOUC) -->
+    <script is:inline>
+      (function() {
+        var STORAGE_KEY = 'wiki-settings';
+        var defaults = {
+          theme: 'classic-jazz',
+          mode: 'system',
+          fontSize: 'medium',
+          articleWidth: 'medium',
+          showToc: true,
+          compactMode: false,
+          externalLinksNewTab: true
+        };
+
+        var settings = defaults;
+        try {
+          var stored = localStorage.getItem(STORAGE_KEY);
+          if (stored) settings = Object.assign({}, defaults, JSON.parse(stored));
+        } catch(e) {}
+
+        var html = document.documentElement;
+        html.setAttribute('data-theme', settings.theme);
+
+        var effectiveMode = settings.mode;
+        if (settings.mode === 'system') {
+          effectiveMode = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        html.setAttribute('data-mode', effectiveMode);
+      })();
+    </script>
+  </head>
+  <body>
+    <!-- Minimal header for graph page -->
+    <header class="graph-header">
+      <a href="/" class="logo-link">
+        <span class="logo-note">&#9835;</span>
+        <span class="logo-text">Jazzapedia</span>
+      </a>
+
+      <nav class="header-nav">
+        <a href="/artists" class="nav-link">Artists</a>
+        <a href="/wwoz" class="nav-link">WWOZ</a>
+        <button type="button" class="nav-link search-trigger" title="Search (Cmd+K)" aria-label="Open search">
+          <svg class="icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+        </button>
+      </nav>
+    </header>
+
+    <!-- Full viewport graph -->
+    <main class="graph-main">
+      <GraphControls />
+      <EcosystemGraph layout={graphLayout} />
+      <GraphInfoPanel />
+    </main>
+
+    <!-- Help tooltip -->
+    <div class="help-tooltip" id="help-tooltip">
+      <button class="help-toggle" id="help-toggle" aria-label="Show help">
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
+      </button>
+      <div class="help-content" id="help-content">
+        <h4>Navigation</h4>
+        <ul>
+          <li><strong>Pan:</strong> Click + drag</li>
+          <li><strong>Zoom:</strong> Scroll wheel</li>
+          <li><strong>Select:</strong> Click a node</li>
+          <li><strong>Search:</strong> Type in search box</li>
+        </ul>
+        <h4>Legend</h4>
+        <ul class="legend-list">
+          <li><span class="dot collaborator"></span> Collaborators</li>
+          <li><span class="dot influenced"></span> Influenced</li>
+          <li><span class="dot mentor"></span> Mentors</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Command Palette -->
+    <CommandPalette />
+
+    <style is:global>
+      * {
+        box-sizing: border-box;
+      }
+
+      html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+        font-family: 'Inter Variable', system-ui, sans-serif;
+        background: var(--color-bg);
+        color: var(--color-text);
+      }
+
+      .graph-header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 56px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 1rem;
+        background: linear-gradient(to bottom, var(--color-bg-content), transparent);
+        z-index: 200;
+        pointer-events: none;
+      }
+
+      .graph-header > * {
+        pointer-events: auto;
+      }
+
+      .logo-link {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        text-decoration: none;
+        color: var(--color-text-heading);
+      }
+
+      .logo-note {
+        color: var(--jazz-amber);
+        font-size: 1.5rem;
+      }
+
+      .logo-text {
+        font-family: 'Playfair Display Variable', Georgia, serif;
+        font-size: 1.125rem;
+        font-weight: 600;
+      }
+
+      .header-nav {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .nav-link {
+        padding: 0.5rem 0.75rem;
+        font-size: 0.875rem;
+        color: var(--color-text-secondary);
+        text-decoration: none;
+        background: var(--color-bg-content);
+        border: 1px solid var(--color-border);
+        border-radius: var(--radius-md);
+        transition: all var(--duration-fast);
+        cursor: pointer;
+      }
+
+      .nav-link:hover {
+        color: var(--color-link);
+        border-color: var(--color-link);
+      }
+
+      .nav-link .icon {
+        width: 1rem;
+        height: 1rem;
+      }
+
+      .search-trigger {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .graph-main {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+      }
+
+      /* Help tooltip */
+      .help-tooltip {
+        position: fixed;
+        bottom: 1rem;
+        left: 1rem;
+        z-index: 100;
+      }
+
+      .help-toggle {
+        width: 40px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--color-bg-content);
+        border: 1px solid var(--color-border);
+        border-radius: 50%;
+        color: var(--color-text-secondary);
+        cursor: pointer;
+        transition: all var(--duration-fast);
+      }
+
+      .help-toggle:hover {
+        color: var(--color-link);
+        border-color: var(--color-link);
+      }
+
+      .help-toggle svg {
+        width: 20px;
+        height: 20px;
+      }
+
+      .help-content {
+        position: absolute;
+        bottom: 50px;
+        left: 0;
+        width: 200px;
+        padding: 0.75rem;
+        background: var(--color-bg-content);
+        border: 1px solid var(--color-border);
+        border-radius: var(--radius-md);
+        box-shadow: var(--shadow-md);
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(10px);
+        transition: all var(--duration-normal) var(--ease-jazz);
+      }
+
+      .help-tooltip:hover .help-content,
+      .help-content.active {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+      }
+
+      .help-content h4 {
+        font-size: 0.75rem;
+        font-weight: 600;
+        color: var(--color-text-heading);
+        margin: 0 0 0.5rem 0;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+
+      .help-content h4:not(:first-child) {
+        margin-top: 0.75rem;
+      }
+
+      .help-content ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        font-size: 0.75rem;
+        color: var(--color-text-secondary);
+      }
+
+      .help-content li {
+        margin-bottom: 0.25rem;
+      }
+
+      .help-content li strong {
+        color: var(--color-text);
+      }
+
+      .legend-list .dot {
+        display: inline-block;
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        margin-right: 0.375rem;
+      }
+
+      .dot.collaborator { background: #06b6d4; }
+      .dot.influenced { background: #a855f7; }
+      .dot.mentor { background: #eab308; }
+
+      /* Mobile adjustments */
+      @media (max-width: 640px) {
+        .graph-header {
+          padding: 0 0.75rem;
+        }
+
+        .logo-text {
+          display: none;
+        }
+
+        .header-nav .nav-link:not(.search-trigger) {
+          display: none;
+        }
+      }
+    </style>
+
+    <script>
+      // Help tooltip toggle for touch devices
+      const helpToggle = document.getElementById('help-toggle');
+      const helpContent = document.getElementById('help-content');
+
+      if (helpToggle && helpContent) {
+        helpToggle.addEventListener('click', () => {
+          helpContent.classList.toggle('active');
+        });
+
+        // Close on outside click
+        document.addEventListener('click', (e) => {
+          if (!helpToggle.contains(e.target) && !helpContent.contains(e.target)) {
+            helpContent.classList.remove('active');
+          }
+        });
+      }
+
+      // Search trigger
+      document.querySelectorAll('.search-trigger').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.dispatchEvent(new KeyboardEvent('keydown', { key: 'k', metaKey: true }));
+        });
+      });
+
+      // Listen for system color scheme changes
+      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+        const stored = localStorage.getItem('wiki-settings');
+        const settings = stored ? JSON.parse(stored) : {};
+        if (settings.mode === 'system') {
+          document.documentElement.setAttribute('data-mode', e.matches ? 'dark' : 'light');
+        }
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,233 @@
+---
+/**
+ * GraphControls - Search and filter controls overlay for the ecosystem graph
+ */
+---
+
+<div class="graph-controls" id="graph-controls">
+  <!-- Search -->
+  <div class="search-container">
+    <input
+      type="text"
+      id="graph-search"
+      placeholder="Search artists..."
+      autocomplete="off"
+      class="search-input"
+    />
+    <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+    </svg>
+    <ul class="search-results" id="search-results"></ul>
+  </div>
+
+  <!-- Filter toggles -->
+  <div class="filter-controls">
+    <label class="filter-toggle">
+      <input type="checkbox" data-edge-type="collaborator" checked />
+      <span class="filter-dot collaborator"></span>
+      <span class="filter-label">Collaborators</span>
+    </label>
+    <label class="filter-toggle">
+      <input type="checkbox" data-edge-type="influenced" checked />
+      <span class="filter-dot influenced"></span>
+      <span class="filter-label">Influenced</span>
+    </label>
+    <label class="filter-toggle">
+      <input type="checkbox" data-edge-type="mentor" checked />
+      <span class="filter-dot mentor"></span>
+      <span class="filter-label">Mentors</span>
+    </label>
+  </div>
+
+  <!-- Stats display -->
+  <div class="graph-stats" id="graph-stats">
+    <span class="stat-item">
+      <span class="stat-value" id="node-count">0</span>
+      <span class="stat-label">artists</span>
+    </span>
+    <span class="stat-divider">|</span>
+    <span class="stat-item">
+      <span class="stat-value" id="edge-count">0</span>
+      <span class="stat-label">connections</span>
+    </span>
+  </div>
+</div>
+
+<style>
+  .graph-controls {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    max-width: 280px;
+  }
+
+  .search-container {
+    position: relative;
+  }
+
+  .search-input {
+    width: 100%;
+    padding: 0.625rem 0.875rem 0.625rem 2.5rem;
+    font-size: 0.875rem;
+    background: var(--color-bg-content);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    color: var(--color-text);
+    outline: none;
+    transition: border-color var(--duration-fast), box-shadow var(--duration-fast);
+  }
+
+  .search-input:focus {
+    border-color: var(--electric-cyan);
+    box-shadow: 0 0 0 3px rgba(6, 182, 212, 0.15);
+  }
+
+  .search-input::placeholder {
+    color: var(--color-text-muted);
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1rem;
+    height: 1rem;
+    color: var(--color-text-muted);
+    pointer-events: none;
+  }
+
+  .search-results {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    margin-top: 0.25rem;
+    padding: 0;
+    list-style: none;
+    background: var(--color-bg-content);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md);
+    max-height: 240px;
+    overflow-y: auto;
+    display: none;
+  }
+
+  .search-results.active {
+    display: block;
+  }
+
+  .search-results li {
+    padding: 0.5rem 0.75rem;
+    cursor: pointer;
+    font-size: 0.875rem;
+    color: var(--color-text);
+    transition: background var(--duration-fast);
+  }
+
+  .search-results li:hover,
+  .search-results li.selected {
+    background: var(--color-accent-light);
+  }
+
+  .search-results li .connections-count {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    margin-left: 0.5rem;
+  }
+
+  .filter-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    background: var(--color-bg-content);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+  }
+
+  .filter-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+    cursor: pointer;
+    font-size: 0.75rem;
+    user-select: none;
+  }
+
+  .filter-toggle input {
+    display: none;
+  }
+
+  .filter-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid transparent;
+    transition: opacity var(--duration-fast), border-color var(--duration-fast);
+  }
+
+  .filter-toggle input:not(:checked) + .filter-dot {
+    opacity: 0.3;
+    border-color: var(--color-border);
+  }
+
+  .filter-dot.collaborator { background: #06b6d4; }
+  .filter-dot.influenced { background: #a855f7; }
+  .filter-dot.mentor { background: #eab308; }
+
+  .filter-label {
+    color: var(--color-text-secondary);
+  }
+
+  .graph-stats {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.375rem 0.75rem;
+    background: var(--color-bg-content);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    font-size: 0.75rem;
+  }
+
+  .stat-item {
+    display: flex;
+    align-items: baseline;
+    gap: 0.25rem;
+  }
+
+  .stat-value {
+    font-weight: 600;
+    color: var(--color-text);
+    font-family: 'JetBrains Mono Variable', monospace;
+  }
+
+  .stat-label {
+    color: var(--color-text-muted);
+  }
+
+  .stat-divider {
+    color: var(--color-border);
+  }
+
+  /* Mobile adjustments */
+  @media (max-width: 640px) {
+    .graph-controls {
+      top: 0.5rem;
+      left: 0.5rem;
+      right: 0.5rem;
+      max-width: none;
+    }
+
+    .filter-controls {
+      flex-direction: column;
+      gap: 0.375rem;
+    }
+  }
+</style>
