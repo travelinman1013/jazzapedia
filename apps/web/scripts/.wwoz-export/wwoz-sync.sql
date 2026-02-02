@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-02-02T07:51:50.366Z
+-- Generated: 2026-02-02T10:30:15.408Z
 -- Mode: INCREMENTAL
--- Last export: 2026-02-02 07:50:32
+-- Last export: 2026-02-02 07:51:50
 -- Days: 4
--- Tracks: 567
+-- Tracks: 585
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":208,"successfullyFound":135,"notFound":73,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-01-30 07:22:02',
-  '2026-02-02 07:51:47'
+  '2026-02-02 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":165,"successfullyFound":91,"notFound":74,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-01 07:34:19',
-  '2026-02-02 07:51:47'
+  '2026-02-02 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":158,"successfullyFound":98,"notFound":60,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-01 10:30:06',
-  '2026-02-02 07:51:47'
+  '2026-02-02 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-02-02',
   NULL,
-  '{"totalTracks":19,"successfullyFound":13,"notFound":6,"lowConfidence":0,"duplicates":0}',
+  '{"totalTracks":37,"successfullyFound":25,"notFound":12,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-02 07:50:28',
-  '2026-02-02 07:51:47'
+  '2026-02-02 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -9143,4 +9143,292 @@ VALUES (
   'found',
   100,
   '2026-02-02 07:50:29'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '01:35',
+  'Aurora Nealand, Tom McDermott, Michael Skinkus',
+  'Visions of Saint Lucia',
+  'City of Timbres',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '01:37',
+  'Tom McDermott, Chloe Feoranzo, Michael Skinkus',
+  'Curvilineo',
+  'Zeppelins made to Order',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '01:41',
+  'Irene Sage',
+  'Keep the Faith',
+  'Come on In',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/7pLUCAIsAV160NsCXGeaPP',
+  'found',
+  100,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '01:43',
+  'Beth Patterson',
+  'Starting Over',
+  'Love Says',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/1zwSE5e693d4ZcSRacMoG5',
+  'found',
+  100,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '01:48',
+  'Jhelisa',
+  'Flute Band in Gauteng',
+  'A Primitive Guide to Being There',
+  'uk garage, acid jazz, house',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0wDWzbUDDhrtUpV6JmgVNz',
+  'found',
+  100,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '01:54',
+  'Mark Bingham',
+  'Louisiana Proverbs',
+  'Psalms of Vengeance',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/65pWMBhSwYXaO3VaaAtYjL',
+  'found',
+  100,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:00',
+  'Martin Simpson',
+  'I Can''t Keep From Crying Sometimes',
+  'Righteousness & Humidity',
+  'folk, traditional folk, celtic',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/4ezaYuIpdvvbvuOeZZ8ATz',
+  'found',
+  100,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:05',
+  'Floatstone',
+  'Sweet',
+  'Skipping Over Damaged Area',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/6dI8kcuu6ZeggPplDthdlA',
+  'found',
+  100,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:09',
+  'The Allyn Robinson Project',
+  'Esplanade and Habana Vieja',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/1AoGwbvhBcfyi9oqAznRs5',
+  'found',
+  98,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:19',
+  'Dr. John',
+  'Food for Thot',
+  'Creole Moon',
+  'cajun, zydeco',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0pS0ArJxesOWbEbRBDKKBh',
+  'found',
+  100,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:23',
+  'Honey Island Swamp Band',
+  'Cast the First Stone',
+  'Cane Sugar',
+  'cajun',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/6prnkadVJC2uqDDNKMrPW8',
+  'found',
+  100,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:26',
+  'The Marc Stone Band',
+  'Tell Me',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:32',
+  'Anders Osborne',
+  'Nothin'' On',
+  'Which Way to Here',
+  'modern blues, jam band, blues rock',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/5D3s5xWk4ERfmzLjlW1jyY',
+  'found',
+  100,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:39',
+  'Bobby Rush & Blindog Smokin''',
+  'Dr. Rush',
+  'Decisions',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:43',
+  'Charlie Dennard, Michael Skinkus, Brent Rose, Ray Moore',
+  'Capoeira Mata Um',
+  'From Brazil to New Orleans',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:48',
+  'Charles Lloyd',
+  'Prayer, Sanctuary',
+  'Which Way is East',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:53',
+  'Nina Simone',
+  'Just Say I Love Him',
+  'Forbidden Fruit',
+  'vocal jazz, soul jazz, soul',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0JdhUTIfiMG1bM33QduwgL',
+  'found',
+  100,
+  '2026-02-02 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-02',
+  '02:58',
+  'Louis Prima',
+  'Buona Sera',
+  'Angelina [Prima]',
+  'swing music, big band',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0DXm5n7SBxCED9ssTvrx2J',
+  'found',
+  81.7,
+  '2026-02-02 10:30:07'
 );
