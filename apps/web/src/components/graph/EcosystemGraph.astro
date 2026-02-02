@@ -1,0 +1,809 @@
+---
+/**
+ * EcosystemGraph - Three.js visualization of the artist connection ecosystem
+ *
+ * Uses GPU instancing for efficient rendering of ~3,500 nodes and ~10,000 edges.
+ * Pre-computed positions from graph-layout.json eliminate runtime layout computation.
+ */
+
+interface GraphNode {
+  slug: string;
+  name: string;
+  x: number;
+  y: number;
+  connections: number;
+}
+
+interface GraphEdge {
+  source: string;
+  target: string;
+  type: 'collaborator' | 'influenced' | 'mentor';
+}
+
+interface GraphLayout {
+  nodes: GraphNode[];
+  edges: GraphEdge[];
+  metadata: {
+    generatedAt: string;
+    nodeCount: number;
+    edgeCount: number;
+    bounds: {
+      minX: number;
+      maxX: number;
+      minY: number;
+      maxY: number;
+    };
+  };
+}
+
+interface Props {
+  layout: GraphLayout;
+}
+
+const { layout } = Astro.props;
+
+// Serialize for client-side script
+const layoutJSON = JSON.stringify(layout);
+---
+
+<div class="graph-container" id="graph-container">
+  <canvas id="graph-canvas"></canvas>
+  <div class="labels-container" id="labels-container"></div>
+  <div class="loading-overlay" id="loading-overlay">
+    <div class="loading-spinner"></div>
+    <p>Loading ecosystem graph...</p>
+  </div>
+</div>
+
+<script define:vars={{ layoutJSON }}>
+  window.__graphLayout = JSON.parse(layoutJSON);
+</script>
+
+<script type="module">
+  (async () => {
+    // Load Three.js using import map (defined in graph.astro)
+    const THREE = await import('three');
+    const { OrbitControls } = await import('three/addons/controls/OrbitControls.js');
+
+    const layout = window.__graphLayout;
+    const { nodes, edges, metadata } = layout;
+
+    // DOM elements
+    const container = document.getElementById('graph-container');
+    const canvas = document.getElementById('graph-canvas');
+    const labelsContainer = document.getElementById('labels-container');
+    const loadingOverlay = document.getElementById('loading-overlay');
+
+    // Update stats
+    const nodeCountEl = document.getElementById('node-count');
+    const edgeCountEl = document.getElementById('edge-count');
+    if (nodeCountEl) nodeCountEl.textContent = metadata.nodeCount.toLocaleString();
+    if (edgeCountEl) edgeCountEl.textContent = metadata.edgeCount.toLocaleString();
+
+    // Color scheme
+    const colors = {
+      collaborator: new THREE.Color('#06b6d4'),
+      influenced: new THREE.Color('#a855f7'),
+      mentor: new THREE.Color('#eab308'),
+      highlight: new THREE.Color('#f59e0b'),
+      default: new THREE.Color('#6b7280')
+    };
+
+    // Theme detection
+    const isDarkMode = () => document.documentElement.getAttribute('data-mode') === 'dark';
+    const getBgColor = () => isDarkMode() ? 0x0D0D0D : 0xF5F0E6;
+
+    // Scene setup
+    const scene = new THREE.Scene();
+    scene.background = new THREE.Color(getBgColor());
+
+    // Renderer
+    const renderer = new THREE.WebGLRenderer({
+      canvas,
+      antialias: true,
+      alpha: false,
+      powerPreference: 'high-performance'
+    });
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+
+    // Camera (orthographic for 2D feel)
+    const { bounds } = metadata;
+    const frustumWidth = bounds.maxX - bounds.minX;
+    const frustumHeight = bounds.maxY - bounds.minY;
+    const aspect = container.clientWidth / container.clientHeight;
+
+    let frustumSize = Math.max(frustumWidth, frustumHeight);
+    const camera = new THREE.OrthographicCamera(
+      -frustumSize * aspect / 2,
+      frustumSize * aspect / 2,
+      frustumSize / 2,
+      -frustumSize / 2,
+      0.1,
+      1000
+    );
+    camera.position.z = 10;
+    camera.zoom = 0.9;
+    camera.updateProjectionMatrix();
+
+    // Controls
+    const controls = new OrbitControls(camera, renderer.domElement);
+    controls.enableRotate = false;
+    controls.enableDamping = true;
+    controls.dampingFactor = 0.08;
+    controls.minZoom = 0.1;
+    controls.maxZoom = 15;
+    controls.mouseButtons = {
+      LEFT: THREE.MOUSE.PAN,
+      MIDDLE: THREE.MOUSE.DOLLY,
+      RIGHT: THREE.MOUSE.PAN
+    };
+    controls.touches = {
+      ONE: THREE.TOUCH.PAN,
+      TWO: THREE.TOUCH.DOLLY_PAN
+    };
+
+    // Build node position lookup
+    const nodePositions = {};
+    const nodeIndexBySlug = {};
+    const basePositions = {}; // Store base positions for scaling
+    nodes.forEach((node, i) => {
+      nodePositions[node.slug] = { x: node.x, y: node.y };
+      nodeIndexBySlug[node.slug] = i;
+      basePositions[node.slug] = { x: node.x, y: node.y };
+    });
+
+    // Build node-to-edge indices for edge highlighting
+    const nodeToEdgeIndices = {};
+    edges.forEach((edge, i) => {
+      if (!nodeToEdgeIndices[edge.source]) nodeToEdgeIndices[edge.source] = [];
+      if (!nodeToEdgeIndices[edge.target]) nodeToEdgeIndices[edge.target] = [];
+      nodeToEdgeIndices[edge.source].push(i);
+      nodeToEdgeIndices[edge.target].push(i);
+    });
+
+    // Edge highlight colors (brighter variants)
+    const edgeHighlightColors = {
+      collaborator: new THREE.Color('#4dd9ff'),
+      influenced: new THREE.Color('#c77dff'),
+      mentor: new THREE.Color('#ffd23f')
+    };
+
+    // Build adjacency list for highlighting
+    const adjacency = {};
+    edges.forEach(edge => {
+      if (!adjacency[edge.source]) adjacency[edge.source] = [];
+      if (!adjacency[edge.target]) adjacency[edge.target] = [];
+      adjacency[edge.source].push({ slug: edge.target, type: edge.type });
+      adjacency[edge.target].push({ slug: edge.source, type: edge.type });
+    });
+
+    // Create instanced mesh for nodes
+    const nodeGeometry = new THREE.CircleGeometry(1, 24);
+    const nodeMaterial = new THREE.MeshBasicMaterial({ vertexColors: false });
+    const nodesMesh = new THREE.InstancedMesh(nodeGeometry, nodeMaterial, nodes.length);
+
+    // Set up instance colors
+    const instanceColors = new Float32Array(nodes.length * 3);
+    const originalColors = new Float32Array(nodes.length * 3);
+    const originalScales = new Float32Array(nodes.length);
+
+    const dummy = new THREE.Object3D();
+    const baseSize = 3;
+
+    nodes.forEach((node, i) => {
+      // Position and scale
+      dummy.position.set(node.x, node.y, 0);
+      const scale = baseSize + Math.log(node.connections + 1) * 1.5;
+      dummy.scale.setScalar(scale);
+      originalScales[i] = scale;
+      dummy.updateMatrix();
+      nodesMesh.setMatrixAt(i, dummy.matrix);
+
+      // Color based on connection count (gradient from gray to cyan)
+      const intensity = Math.min(node.connections / 30, 1);
+      const color = new THREE.Color().lerpColors(colors.default, colors.collaborator, intensity);
+      instanceColors[i * 3] = color.r;
+      instanceColors[i * 3 + 1] = color.g;
+      instanceColors[i * 3 + 2] = color.b;
+
+      // Store original colors for unhighlighting
+      originalColors[i * 3] = color.r;
+      originalColors[i * 3 + 1] = color.g;
+      originalColors[i * 3 + 2] = color.b;
+    });
+
+    nodesMesh.instanceMatrix.needsUpdate = true;
+    nodesMesh.instanceColor = new THREE.InstancedBufferAttribute(instanceColors, 3);
+    scene.add(nodesMesh);
+
+    // Create line segments for edges
+    const edgePositions = new Float32Array(edges.length * 6);
+    const edgeColors = new Float32Array(edges.length * 6);
+    const edgeTypeIndices = { collaborator: [], influenced: [], mentor: [] };
+
+    edges.forEach((edge, i) => {
+      const sourcePos = nodePositions[edge.source];
+      const targetPos = nodePositions[edge.target];
+
+      if (sourcePos && targetPos) {
+        edgePositions[i * 6] = sourcePos.x;
+        edgePositions[i * 6 + 1] = sourcePos.y;
+        edgePositions[i * 6 + 2] = 0;
+        edgePositions[i * 6 + 3] = targetPos.x;
+        edgePositions[i * 6 + 4] = targetPos.y;
+        edgePositions[i * 6 + 5] = 0;
+
+        const color = colors[edge.type] || colors.default;
+        edgeColors[i * 6] = color.r;
+        edgeColors[i * 6 + 1] = color.g;
+        edgeColors[i * 6 + 2] = color.b;
+        edgeColors[i * 6 + 3] = color.r;
+        edgeColors[i * 6 + 4] = color.g;
+        edgeColors[i * 6 + 5] = color.b;
+
+        edgeTypeIndices[edge.type]?.push(i);
+      }
+    });
+
+    const edgeGeometry = new THREE.BufferGeometry();
+    edgeGeometry.setAttribute('position', new THREE.BufferAttribute(edgePositions, 3));
+    edgeGeometry.setAttribute('color', new THREE.BufferAttribute(edgeColors, 3));
+
+    const edgeMaterial = new THREE.LineBasicMaterial({
+      vertexColors: true,
+      transparent: true,
+      opacity: 0.35,
+      depthTest: false
+    });
+    const edgesMesh = new THREE.LineSegments(edgeGeometry, edgeMaterial);
+    edgesMesh.renderOrder = -1;
+    scene.add(edgesMesh);
+
+    // Raycaster for interaction
+    const raycaster = new THREE.Raycaster();
+    raycaster.params.Points = { threshold: 10 };
+    const mouse = new THREE.Vector2();
+
+    let hoveredIndex = -1;
+    let selectedIndex = -1;
+
+    // Interaction handlers
+    function onMouseMove(event) {
+      const rect = renderer.domElement.getBoundingClientRect();
+      mouse.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
+      mouse.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
+
+      raycaster.setFromCamera(mouse, camera);
+      const intersects = raycaster.intersectObject(nodesMesh);
+
+      if (intersects.length > 0) {
+        const newHovered = intersects[0].instanceId;
+        if (newHovered !== hoveredIndex) {
+          unhighlightNode(hoveredIndex);
+          hoveredIndex = newHovered;
+          highlightNode(hoveredIndex);
+          renderer.domElement.style.cursor = 'pointer';
+        }
+      } else if (hoveredIndex !== -1) {
+        unhighlightNode(hoveredIndex);
+        hoveredIndex = -1;
+        renderer.domElement.style.cursor = 'grab';
+      }
+    }
+
+    function onClick(event) {
+      if (hoveredIndex !== -1) {
+        selectNode(hoveredIndex);
+      } else {
+        deselectNode();
+      }
+    }
+
+    function highlightNode(index) {
+      if (index < 0) return;
+
+      const node = nodes[index];
+      const color = colors.highlight;
+      const posScale = window.__graphSettings?.positionScale || 1.0;
+      const sizeScale = window.__graphSettings?.nodeSize || 1.0;
+      const basePos = basePositions[node.slug];
+
+      // Update node color
+      nodesMesh.instanceColor.array[index * 3] = color.r;
+      nodesMesh.instanceColor.array[index * 3 + 1] = color.g;
+      nodesMesh.instanceColor.array[index * 3 + 2] = color.b;
+      nodesMesh.instanceColor.needsUpdate = true;
+
+      // Scale up
+      dummy.position.set(basePos.x * posScale, basePos.y * posScale, 0);
+      dummy.scale.setScalar(originalScales[index] * sizeScale * 1.3);
+      dummy.updateMatrix();
+      nodesMesh.setMatrixAt(index, dummy.matrix);
+      nodesMesh.instanceMatrix.needsUpdate = true;
+
+      // Highlight connected edges
+      highlightConnectedEdges(node.slug);
+    }
+
+    function unhighlightNode(index) {
+      if (index < 0 || index === selectedIndex) return;
+
+      const node = nodes[index];
+      const posScale = window.__graphSettings?.positionScale || 1.0;
+      const sizeScale = window.__graphSettings?.nodeSize || 1.0;
+      const basePos = basePositions[node.slug];
+
+      // Restore original color
+      nodesMesh.instanceColor.array[index * 3] = originalColors[index * 3];
+      nodesMesh.instanceColor.array[index * 3 + 1] = originalColors[index * 3 + 1];
+      nodesMesh.instanceColor.array[index * 3 + 2] = originalColors[index * 3 + 2];
+      nodesMesh.instanceColor.needsUpdate = true;
+
+      // Restore original scale
+      dummy.position.set(basePos.x * posScale, basePos.y * posScale, 0);
+      dummy.scale.setScalar(originalScales[index] * sizeScale);
+      dummy.updateMatrix();
+      nodesMesh.setMatrixAt(index, dummy.matrix);
+      nodesMesh.instanceMatrix.needsUpdate = true;
+
+      // Unhighlight connected edges
+      unhighlightConnectedEdges();
+    }
+
+    function selectNode(index) {
+      // Deselect previous
+      if (selectedIndex !== -1 && selectedIndex !== index) {
+        unhighlightNode(selectedIndex);
+      }
+
+      selectedIndex = index;
+      const node = nodes[index];
+
+      // Show info panel
+      const panel = document.getElementById('info-panel');
+      const nameEl = document.getElementById('panel-artist-name');
+      const linkEl = document.getElementById('panel-link');
+
+      if (panel && nameEl && linkEl) {
+        nameEl.textContent = node.name;
+        linkEl.href = `/artists/${node.slug}`;
+
+        // Count connections by type
+        const connections = adjacency[node.slug] || [];
+        const counts = { collaborator: 0, influenced: 0, mentor: 0 };
+        connections.forEach(conn => {
+          if (counts[conn.type] !== undefined) counts[conn.type]++;
+        });
+
+        document.getElementById('panel-collaborators').textContent = counts.collaborator;
+        document.getElementById('panel-influenced').textContent = counts.influenced;
+        document.getElementById('panel-mentors').textContent = counts.mentor;
+
+        panel.classList.add('active');
+      }
+
+      // Dispatch event for external listeners
+      window.dispatchEvent(new CustomEvent('graph:nodeSelected', { detail: node }));
+    }
+
+    function deselectNode() {
+      if (selectedIndex !== -1) {
+        unhighlightNode(selectedIndex);
+        selectedIndex = -1;
+      }
+
+      const panel = document.getElementById('info-panel');
+      if (panel) panel.classList.remove('active');
+    }
+
+    // Search functionality
+    const searchInput = document.getElementById('graph-search');
+    const searchResults = document.getElementById('search-results');
+
+    if (searchInput && searchResults) {
+      let searchTimeout;
+
+      searchInput.addEventListener('input', (e) => {
+        clearTimeout(searchTimeout);
+        const query = e.target.value.toLowerCase().trim();
+
+        if (query.length < 2) {
+          searchResults.classList.remove('active');
+          return;
+        }
+
+        searchTimeout = setTimeout(() => {
+          const matches = nodes
+            .filter(n => n.name.toLowerCase().includes(query))
+            .sort((a, b) => b.connections - a.connections)
+            .slice(0, 10);
+
+          searchResults.innerHTML = matches.map(node =>
+            `<li data-slug="${node.slug}">
+              ${node.name}
+              <span class="connections-count">${node.connections} connections</span>
+            </li>`
+          ).join('');
+
+          searchResults.classList.toggle('active', matches.length > 0);
+        }, 150);
+      });
+
+      searchResults.addEventListener('click', (e) => {
+        const li = e.target.closest('li');
+        if (li) {
+          const slug = li.dataset.slug;
+          flyToArtist(slug);
+          searchResults.classList.remove('active');
+          searchInput.value = '';
+        }
+      });
+
+      // Close search on escape
+      searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          searchResults.classList.remove('active');
+          searchInput.blur();
+        }
+      });
+    }
+
+    function flyToArtist(slug) {
+      const pos = nodePositions[slug];
+      const index = nodeIndexBySlug[slug];
+      if (!pos || index === undefined) return;
+
+      const startTarget = controls.target.clone();
+      const endTarget = new THREE.Vector3(pos.x, pos.y, 0);
+
+      const startZoom = camera.zoom;
+      const endZoom = 3;
+
+      const duration = 800;
+      const startTime = Date.now();
+
+      function animateFly() {
+        const elapsed = Date.now() - startTime;
+        const t = Math.min(elapsed / duration, 1);
+        const eased = 1 - Math.pow(1 - t, 3); // easeOutCubic
+
+        controls.target.lerpVectors(startTarget, endTarget, eased);
+        camera.zoom = startZoom + (endZoom - startZoom) * eased;
+        camera.updateProjectionMatrix();
+
+        if (t < 1) {
+          requestAnimationFrame(animateFly);
+        } else {
+          selectNode(index);
+        }
+      }
+
+      animateFly();
+    }
+
+    // Edge visibility and opacity state
+    const edgeOpacities = { collaborator: 0.35, influenced: 0.35, mentor: 0.35 };
+    const edgeVisibility = { collaborator: true, influenced: true, mentor: true };
+
+    // Edge highlighting state
+    let highlightedEdgeIndices = new Set();
+
+    function highlightConnectedEdges(nodeSlug) {
+      const edgeIndices = nodeToEdgeIndices[nodeSlug] || [];
+      const colorAttr = edgeGeometry.getAttribute('color');
+
+      edgeIndices.forEach(i => {
+        highlightedEdgeIndices.add(i);
+        const edge = edges[i];
+        const highlightColor = edgeHighlightColors[edge.type];
+
+        colorAttr.array[i * 6] = highlightColor.r;
+        colorAttr.array[i * 6 + 1] = highlightColor.g;
+        colorAttr.array[i * 6 + 2] = highlightColor.b;
+        colorAttr.array[i * 6 + 3] = highlightColor.r;
+        colorAttr.array[i * 6 + 4] = highlightColor.g;
+        colorAttr.array[i * 6 + 5] = highlightColor.b;
+      });
+
+      colorAttr.needsUpdate = true;
+      edgeMaterial.opacity = 0.8; // Boost overall edge visibility during highlight
+    }
+
+    function unhighlightConnectedEdges() {
+      if (highlightedEdgeIndices.size === 0) return;
+
+      const colorAttr = edgeGeometry.getAttribute('color');
+
+      highlightedEdgeIndices.forEach(i => {
+        const edge = edges[i];
+        const color = colors[edge.type];
+        const opacity = edgeOpacities[edge.type];
+        const visible = edgeVisibility[edge.type];
+        const factor = visible ? opacity / 0.35 : 0.05 / 0.35;
+
+        colorAttr.array[i * 6] = color.r * factor;
+        colorAttr.array[i * 6 + 1] = color.g * factor;
+        colorAttr.array[i * 6 + 2] = color.b * factor;
+        colorAttr.array[i * 6 + 3] = color.r * factor;
+        colorAttr.array[i * 6 + 4] = color.g * factor;
+        colorAttr.array[i * 6 + 5] = color.b * factor;
+      });
+
+      highlightedEdgeIndices.clear();
+      colorAttr.needsUpdate = true;
+      edgeMaterial.opacity = 0.35;
+    }
+
+    function updateEdgeOpacities() {
+      const colorAttr = edgeGeometry.getAttribute('color');
+
+      edges.forEach((edge, i) => {
+        // Skip highlighted edges
+        if (highlightedEdgeIndices.has(i)) return;
+
+        const opacity = edgeOpacities[edge.type];
+        const visible = edgeVisibility[edge.type];
+        const color = colors[edge.type] || colors.default;
+
+        // Adjust color intensity based on opacity and visibility
+        const factor = visible ? opacity / 0.35 : 0.05 / 0.35;
+        colorAttr.array[i * 6] = color.r * factor;
+        colorAttr.array[i * 6 + 1] = color.g * factor;
+        colorAttr.array[i * 6 + 2] = color.b * factor;
+        colorAttr.array[i * 6 + 3] = color.r * factor;
+        colorAttr.array[i * 6 + 4] = color.g * factor;
+        colorAttr.array[i * 6 + 5] = color.b * factor;
+      });
+
+      colorAttr.needsUpdate = true;
+    }
+
+    // Close info panel
+    const closeBtn = document.getElementById('close-panel');
+    if (closeBtn) {
+      closeBtn.addEventListener('click', deselectNode);
+    }
+
+    // Resize handler
+    function onResize() {
+      const width = container.clientWidth;
+      const height = container.clientHeight;
+
+      renderer.setSize(width, height);
+
+      const newAspect = width / height;
+      camera.left = -frustumSize * newAspect / 2;
+      camera.right = frustumSize * newAspect / 2;
+      camera.top = frustumSize / 2;
+      camera.bottom = -frustumSize / 2;
+      camera.updateProjectionMatrix();
+    }
+
+    // Theme change handler
+    const themeObserver = new MutationObserver(() => {
+      scene.background = new THREE.Color(getBgColor());
+    });
+    themeObserver.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ['data-mode']
+    });
+
+    // Event listeners
+    renderer.domElement.addEventListener('mousemove', onMouseMove);
+    renderer.domElement.addEventListener('click', onClick);
+    window.addEventListener('resize', onResize);
+
+    // Expose flyToArtist globally for external use
+    window.flyToArtist = flyToArtist;
+
+    // Initialize global settings state
+    window.__graphSettings = {
+      positionScale: 1.0,
+      nodeSize: 1.0,
+      edgeOpacity: {
+        collaborator: 0.35,
+        influenced: 0.35,
+        mentor: 0.35
+      },
+      edgeVisibility: {
+        collaborator: true,
+        influenced: true,
+        mentor: true
+      }
+    };
+
+    // Settings apply functions
+    function applyPositionScale(scale) {
+      window.__graphSettings.positionScale = scale;
+      const sizeScale = window.__graphSettings.nodeSize;
+
+      nodes.forEach((node, i) => {
+        const basePos = basePositions[node.slug];
+        dummy.position.set(basePos.x * scale, basePos.y * scale, 0);
+        dummy.scale.setScalar(originalScales[i] * sizeScale);
+        dummy.updateMatrix();
+        nodesMesh.setMatrixAt(i, dummy.matrix);
+      });
+      nodesMesh.instanceMatrix.needsUpdate = true;
+
+      // Update edge positions
+      const posAttr = edgeGeometry.getAttribute('position');
+      edges.forEach((edge, i) => {
+        const sourcePos = basePositions[edge.source];
+        const targetPos = basePositions[edge.target];
+        if (sourcePos && targetPos) {
+          posAttr.array[i * 6] = sourcePos.x * scale;
+          posAttr.array[i * 6 + 1] = sourcePos.y * scale;
+          posAttr.array[i * 6 + 3] = targetPos.x * scale;
+          posAttr.array[i * 6 + 4] = targetPos.y * scale;
+        }
+      });
+      posAttr.needsUpdate = true;
+    }
+
+    function applyNodeSize(sizeMultiplier) {
+      window.__graphSettings.nodeSize = sizeMultiplier;
+      const posScale = window.__graphSettings.positionScale;
+
+      nodes.forEach((node, i) => {
+        const basePos = basePositions[node.slug];
+        dummy.position.set(basePos.x * posScale, basePos.y * posScale, 0);
+        dummy.scale.setScalar(originalScales[i] * sizeMultiplier);
+        dummy.updateMatrix();
+        nodesMesh.setMatrixAt(i, dummy.matrix);
+      });
+      nodesMesh.instanceMatrix.needsUpdate = true;
+    }
+
+    function applyEdgeOpacity(type, opacity) {
+      edgeOpacities[type] = opacity;
+      window.__graphSettings.edgeOpacity[type] = opacity;
+      updateEdgeOpacities();
+    }
+
+    function applyEdgeVisibility(type, visible) {
+      edgeVisibility[type] = visible;
+      window.__graphSettings.edgeVisibility[type] = visible;
+      updateEdgeOpacities();
+    }
+
+    // Camera animation function
+    function animateCameraTo(target, zoom) {
+      const startTarget = controls.target.clone();
+      const startZoom = camera.zoom;
+      const duration = 500;
+      const startTime = Date.now();
+
+      function animate() {
+        const elapsed = Date.now() - startTime;
+        const t = Math.min(elapsed / duration, 1);
+        const eased = 1 - Math.pow(1 - t, 3); // easeOutCubic
+
+        controls.target.lerpVectors(startTarget, target, eased);
+        camera.zoom = startZoom + (zoom - startZoom) * eased;
+        camera.updateProjectionMatrix();
+
+        if (t < 1) requestAnimationFrame(animate);
+      }
+      animate();
+    }
+
+    // Expose camera controls globally
+    window.graphZoomToFit = function() {
+      const targetZoom = 0.85;
+      animateCameraTo(new THREE.Vector3(0, 0, 0), targetZoom);
+    };
+
+    window.graphResetView = function() {
+      animateCameraTo(new THREE.Vector3(0, 0, 0), 0.9);
+    };
+
+    // Listen for settings changes from GraphSettingsPanel
+    window.addEventListener('graph:settingsChanged', (e) => {
+      const { key, value } = e.detail;
+
+      switch (key) {
+        case 'positionScale':
+          applyPositionScale(value);
+          break;
+        case 'nodeSize':
+          applyNodeSize(value);
+          break;
+        case 'edgeOpacity':
+          applyEdgeOpacity(value.type, value.opacity);
+          break;
+        case 'edgeVisibility':
+          applyEdgeVisibility(value.type, value.visible);
+          break;
+      }
+    });
+
+    // Initial setup
+    onResize();
+
+    // Animation loop
+    function animate() {
+      requestAnimationFrame(animate);
+      controls.update();
+      renderer.render(scene, camera);
+    }
+
+    // Hide loading and start
+    loadingOverlay.style.display = 'none';
+    renderer.domElement.style.cursor = 'grab';
+    animate();
+
+    // Log performance info
+    console.log(`[EcosystemGraph] Initialized with ${nodes.length} nodes and ${edges.length} edges`);
+  })();
+</script>
+
+<style>
+  .graph-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    min-height: 500px;
+    overflow: hidden;
+    background: var(--color-bg);
+  }
+
+  #graph-canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+
+  .labels-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    overflow: hidden;
+  }
+
+  .node-label {
+    position: absolute;
+    font-size: 0.625rem;
+    font-weight: 500;
+    color: var(--color-text);
+    white-space: nowrap;
+    transform: translate(-50%, 0);
+    pointer-events: none;
+    text-shadow:
+      1px 1px 2px var(--color-bg),
+      -1px -1px 2px var(--color-bg),
+      1px -1px 2px var(--color-bg),
+      -1px 1px 2px var(--color-bg);
+  }
+
+  .loading-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    background: var(--color-bg);
+    z-index: 50;
+  }
+
+  .loading-spinner {
+    width: 40px;
+    height: 40px;
+    border: 3px solid var(--color-border);
+    border-top-color: var(--electric-cyan);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+  }
+
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+
+  .loading-overlay p {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+  }
+</style>

@@ -7,7 +7,8 @@
     "type-check": "astro check",
     "clean": "rm -rf dist .astro",
     "dev": "astro dev",
-    "prebuild": "tsx scripts/build-connections-static.ts",
+    "prebuild": "tsx scripts/build-connections-static.ts && tsx scripts/build-graph-layout.ts",
+    "build:graph": "tsx scripts/build-graph-layout.ts",
     "build": "astro build",
     "preview": "wrangler dev",
     "deploy": "astro build && wrangler pages deploy dist --project-name jazzapedia",
@@ -57,7 +58,9 @@
     "@astrojs/check": "^0.9.6",
     "@cloudflare/workers-types": "^4.20260109.0",
     "@types/better-sqlite3": "^7.6.0",
+    "@types/d3-force": "^3.0.10",
     "@types/node": "^25.0.3",
+    "d3-force": "^3.0.0",
     "tsx": "^4.20.6",
     "wrangler": "^4.58.0"
   }

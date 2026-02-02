@@ -1,0 +1,188 @@
+---
+/**
+ * GraphInfoPanel - Artist information panel shown when a node is selected
+ */
+---
+
+<div class="info-panel" id="info-panel">
+  <button class="close-btn" id="close-panel" aria-label="Close panel">
+    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+    </svg>
+  </button>
+
+  <div class="panel-content">
+    <h3 class="artist-name" id="panel-artist-name"></h3>
+
+    <div class="connection-stats">
+      <div class="stat-badge collaborator">
+        <span class="stat-count" id="panel-collaborators">0</span>
+        <span class="stat-type">collaborators</span>
+      </div>
+      <div class="stat-badge influenced">
+        <span class="stat-count" id="panel-influenced">0</span>
+        <span class="stat-type">influenced</span>
+      </div>
+      <div class="stat-badge mentor">
+        <span class="stat-count" id="panel-mentors">0</span>
+        <span class="stat-type">mentors</span>
+      </div>
+    </div>
+
+    <a href="#" class="view-profile-btn" id="panel-link">
+      View Profile
+      <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+      </svg>
+    </a>
+  </div>
+</div>
+
+<style>
+  .info-panel {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    z-index: 100;
+    width: 280px;
+    background: var(--color-bg-content);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    transform: translateY(20px);
+    opacity: 0;
+    visibility: hidden;
+    transition: transform var(--duration-normal) var(--ease-jazz),
+                opacity var(--duration-normal) var(--ease-jazz),
+                visibility var(--duration-normal);
+  }
+
+  .info-panel.active {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .close-btn {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background: transparent;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    border-radius: var(--radius-sm);
+    transition: background var(--duration-fast), color var(--duration-fast);
+  }
+
+  .close-btn:hover {
+    background: var(--color-bg);
+    color: var(--color-text);
+  }
+
+  .close-btn svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  .panel-content {
+    padding: 1rem;
+  }
+
+  .artist-name {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-text-heading);
+    margin: 0 0 0.75rem 0;
+    padding-right: 1.5rem;
+  }
+
+  .connection-stats {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .stat-badge {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5rem 0.25rem;
+    background: var(--color-bg);
+    border-radius: var(--radius-sm);
+    border-left: 3px solid transparent;
+  }
+
+  .stat-badge.collaborator { border-left-color: #06b6d4; }
+  .stat-badge.influenced { border-left-color: #a855f7; }
+  .stat-badge.mentor { border-left-color: #eab308; }
+
+  .stat-count {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-text);
+    font-family: 'JetBrains Mono Variable', monospace;
+  }
+
+  .stat-type {
+    font-size: 0.625rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .view-profile-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    width: 100%;
+    padding: 0.625rem 1rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: white;
+    background: linear-gradient(135deg, var(--electric-cyan), var(--electric-purple));
+    border: none;
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    text-decoration: none;
+    transition: transform var(--duration-fast), box-shadow var(--duration-fast);
+  }
+
+  .view-profile-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(6, 182, 212, 0.3);
+    text-decoration: none;
+    color: white;
+  }
+
+  .view-profile-btn svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  /* Mobile adjustments */
+  @media (max-width: 640px) {
+    .info-panel {
+      bottom: 0.5rem;
+      right: 0.5rem;
+      left: 0.5rem;
+      width: auto;
+    }
+
+    .connection-stats {
+      flex-wrap: wrap;
+    }
+
+    .stat-badge {
+      min-width: 70px;
+    }
+  }
+</style>
