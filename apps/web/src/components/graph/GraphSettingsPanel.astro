@@ -1,0 +1,415 @@
+---
+/**
+ * GraphSettingsPanel - Collapsible settings for graph visualization
+ *
+ * Controls: position scale, node size, edge visibility/opacity, navigation
+ */
+---
+
+<div class="settings-panel-container">
+  <button class="settings-toggle" id="settings-toggle" aria-label="Graph Settings">
+    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+        d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+  </button>
+
+  <div class="settings-panel" id="settings-panel">
+    <div class="panel-header">
+      <h3>Graph Settings</h3>
+      <button class="close-btn" id="close-settings">&times;</button>
+    </div>
+
+    <div class="settings-section">
+      <h4>View</h4>
+
+      <div class="setting-row">
+        <label for="position-scale">Spacing</label>
+        <div class="slider-container">
+          <input type="range" id="position-scale" min="0.5" max="2" step="0.1" value="1" />
+          <span class="slider-value" id="position-scale-value">1.0x</span>
+        </div>
+      </div>
+
+      <div class="setting-row">
+        <label for="node-size">Node Size</label>
+        <div class="slider-container">
+          <input type="range" id="node-size" min="0.5" max="2" step="0.1" value="1" />
+          <span class="slider-value" id="node-size-value">1.0x</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="settings-section">
+      <h4>Edges</h4>
+
+      <div class="edge-row">
+        <label class="edge-toggle">
+          <input type="checkbox" data-edge-type="collaborator" checked />
+          <span class="edge-dot collaborator"></span>
+          <span>Collaborators</span>
+        </label>
+        <input type="range" class="edge-opacity" data-edge-type="collaborator"
+          min="0.1" max="1" step="0.05" value="0.35" />
+      </div>
+
+      <div class="edge-row">
+        <label class="edge-toggle">
+          <input type="checkbox" data-edge-type="influenced" checked />
+          <span class="edge-dot influenced"></span>
+          <span>Influenced</span>
+        </label>
+        <input type="range" class="edge-opacity" data-edge-type="influenced"
+          min="0.1" max="1" step="0.05" value="0.35" />
+      </div>
+
+      <div class="edge-row">
+        <label class="edge-toggle">
+          <input type="checkbox" data-edge-type="mentor" checked />
+          <span class="edge-dot mentor"></span>
+          <span>Mentors</span>
+        </label>
+        <input type="range" class="edge-opacity" data-edge-type="mentor"
+          min="0.1" max="1" step="0.05" value="0.35" />
+      </div>
+    </div>
+
+    <div class="settings-section">
+      <h4>Navigation</h4>
+      <div class="button-row">
+        <button class="action-btn" id="zoom-fit">Zoom to Fit</button>
+        <button class="action-btn" id="reset-view">Reset View</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .settings-panel-container {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    z-index: 100;
+  }
+
+  .settings-toggle {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-bg-content);
+    border: 1px solid var(--color-border);
+    border-radius: 50%;
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    transition: all var(--duration-fast);
+  }
+
+  .settings-toggle:hover {
+    color: var(--color-link);
+    border-color: var(--color-link);
+  }
+
+  .settings-toggle svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  .settings-toggle.active {
+    background: var(--color-accent-light);
+    border-color: var(--color-link);
+    color: var(--color-link);
+  }
+
+  .settings-panel {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    width: 260px;
+    background: var(--color-bg-content);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all var(--duration-normal) var(--ease-jazz);
+  }
+
+  .settings-panel.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  .panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .panel-header h3 {
+    margin: 0;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-text-heading);
+  }
+
+  .close-btn {
+    background: none;
+    border: none;
+    font-size: 1.25rem;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+  }
+
+  .close-btn:hover {
+    color: var(--color-text);
+  }
+
+  .settings-section {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .settings-section:last-child {
+    border-bottom: none;
+  }
+
+  .settings-section h4 {
+    margin: 0 0 0.5rem;
+    font-size: 0.625rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+  }
+
+  .setting-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .setting-row:last-child {
+    margin-bottom: 0;
+  }
+
+  .setting-row label {
+    font-size: 0.75rem;
+    color: var(--color-text-secondary);
+  }
+
+  .slider-container {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  input[type="range"] {
+    -webkit-appearance: none;
+    width: 80px;
+    height: 4px;
+    background: var(--color-border);
+    border-radius: 2px;
+    cursor: pointer;
+  }
+
+  input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 12px;
+    height: 12px;
+    background: var(--electric-cyan);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: transform var(--duration-fast);
+  }
+
+  input[type="range"]::-webkit-slider-thumb:hover {
+    transform: scale(1.2);
+  }
+
+  input[type="range"]::-moz-range-thumb {
+    width: 12px;
+    height: 12px;
+    background: var(--electric-cyan);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
+  .slider-value {
+    font-size: 0.625rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    color: var(--color-text-muted);
+    width: 2.5rem;
+    text-align: right;
+  }
+
+  .edge-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .edge-row:last-child {
+    margin-bottom: 0;
+  }
+
+  .edge-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+    cursor: pointer;
+    font-size: 0.75rem;
+    color: var(--color-text-secondary);
+    user-select: none;
+  }
+
+  .edge-toggle input {
+    display: none;
+  }
+
+  .edge-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    border: 2px solid transparent;
+    transition: opacity var(--duration-fast);
+  }
+
+  .edge-toggle input:not(:checked) + .edge-dot {
+    opacity: 0.3;
+    border-color: var(--color-border);
+  }
+
+  .edge-dot.collaborator { background: #06b6d4; }
+  .edge-dot.influenced { background: #a855f7; }
+  .edge-dot.mentor { background: #eab308; }
+
+  .edge-opacity {
+    width: 60px;
+  }
+
+  .button-row {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .action-btn {
+    flex: 1;
+    padding: 0.5rem;
+    font-size: 0.75rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    transition: all var(--duration-fast);
+  }
+
+  .action-btn:hover {
+    background: var(--color-accent-light);
+    border-color: var(--color-link);
+    color: var(--color-link);
+  }
+
+  @media (max-width: 640px) {
+    .settings-panel-container {
+      top: 4rem;
+      right: 0.5rem;
+    }
+
+    .settings-panel {
+      width: calc(100vw - 1rem);
+      right: 0;
+    }
+  }
+</style>
+
+<script>
+  const toggle = document.getElementById('settings-toggle');
+  const panel = document.getElementById('settings-panel');
+  const closeBtn = document.getElementById('close-settings');
+
+  // Toggle panel
+  toggle?.addEventListener('click', () => {
+    toggle.classList.toggle('active');
+    panel?.classList.toggle('active');
+  });
+
+  closeBtn?.addEventListener('click', () => {
+    toggle?.classList.remove('active');
+    panel?.classList.remove('active');
+  });
+
+  // Close panel on outside click
+  document.addEventListener('click', (e) => {
+    if (!toggle?.contains(e.target) && !panel?.contains(e.target)) {
+      toggle?.classList.remove('active');
+      panel?.classList.remove('active');
+    }
+  });
+
+  // Position scale slider
+  const positionScale = document.getElementById('position-scale');
+  const positionScaleValue = document.getElementById('position-scale-value');
+
+  positionScale?.addEventListener('input', (e) => {
+    const value = parseFloat(e.target.value);
+    if (positionScaleValue) positionScaleValue.textContent = value.toFixed(1) + 'x';
+    window.dispatchEvent(new CustomEvent('graph:settingsChanged', {
+      detail: { key: 'positionScale', value }
+    }));
+  });
+
+  // Node size slider
+  const nodeSize = document.getElementById('node-size');
+  const nodeSizeValue = document.getElementById('node-size-value');
+
+  nodeSize?.addEventListener('input', (e) => {
+    const value = parseFloat(e.target.value);
+    if (nodeSizeValue) nodeSizeValue.textContent = value.toFixed(1) + 'x';
+    window.dispatchEvent(new CustomEvent('graph:settingsChanged', {
+      detail: { key: 'nodeSize', value }
+    }));
+  });
+
+  // Edge visibility toggles
+  document.querySelectorAll('.edge-toggle input').forEach(checkbox => {
+    checkbox.addEventListener('change', (e) => {
+      const type = e.target.dataset.edgeType;
+      window.dispatchEvent(new CustomEvent('graph:settingsChanged', {
+        detail: { key: 'edgeVisibility', value: { type, visible: e.target.checked } }
+      }));
+    });
+  });
+
+  // Edge opacity sliders
+  document.querySelectorAll('.edge-opacity').forEach(slider => {
+    slider.addEventListener('input', (e) => {
+      const type = e.target.dataset.edgeType;
+      const opacity = parseFloat(e.target.value);
+      window.dispatchEvent(new CustomEvent('graph:settingsChanged', {
+        detail: { key: 'edgeOpacity', value: { type, opacity } }
+      }));
+    });
+  });
+
+  // Navigation buttons
+  document.getElementById('zoom-fit')?.addEventListener('click', () => {
+    if (window.graphZoomToFit) window.graphZoomToFit();
+  });
+
+  document.getElementById('reset-view')?.addEventListener('click', () => {
+    if (window.graphResetView) window.graphResetView();
+  });
+</script>

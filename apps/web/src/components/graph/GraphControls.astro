@@ -20,25 +20,6 @@
     <ul class="search-results" id="search-results"></ul>
   </div>
 
-  <!-- Filter toggles -->
-  <div class="filter-controls">
-    <label class="filter-toggle">
-      <input type="checkbox" data-edge-type="collaborator" checked />
-      <span class="filter-dot collaborator"></span>
-      <span class="filter-label">Collaborators</span>
-    </label>
-    <label class="filter-toggle">
-      <input type="checkbox" data-edge-type="influenced" checked />
-      <span class="filter-dot influenced"></span>
-      <span class="filter-label">Influenced</span>
-    </label>
-    <label class="filter-toggle">
-      <input type="checkbox" data-edge-type="mentor" checked />
-      <span class="filter-dot mentor"></span>
-      <span class="filter-label">Mentors</span>
-    </label>
-  </div>
-
   <!-- Stats display -->
   <div class="graph-stats" id="graph-stats">
     <span class="stat-item">
@@ -141,50 +122,6 @@
     margin-left: 0.5rem;
   }
 
-  .filter-controls {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    padding: 0.5rem 0.75rem;
-    background: var(--color-bg-content);
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius-md);
-  }
-
-  .filter-toggle {
-    display: flex;
-    align-items: center;
-    gap: 0.375rem;
-    cursor: pointer;
-    font-size: 0.75rem;
-    user-select: none;
-  }
-
-  .filter-toggle input {
-    display: none;
-  }
-
-  .filter-dot {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    border: 2px solid transparent;
-    transition: opacity var(--duration-fast), border-color var(--duration-fast);
-  }
-
-  .filter-toggle input:not(:checked) + .filter-dot {
-    opacity: 0.3;
-    border-color: var(--color-border);
-  }
-
-  .filter-dot.collaborator { background: #06b6d4; }
-  .filter-dot.influenced { background: #a855f7; }
-  .filter-dot.mentor { background: #eab308; }
-
-  .filter-label {
-    color: var(--color-text-secondary);
-  }
-
   .graph-stats {
     display: flex;
     align-items: center;
@@ -223,11 +160,6 @@
       left: 0.5rem;
       right: 0.5rem;
       max-width: none;
-    }
-
-    .filter-controls {
-      flex-direction: column;
-      gap: 0.375rem;
     }
   }
 </style>

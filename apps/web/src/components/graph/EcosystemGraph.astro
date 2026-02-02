@@ -145,10 +145,28 @@ const layoutJSON = JSON.stringify(layout);
     // Build node position lookup
     const nodePositions = {};
     const nodeIndexBySlug = {};
+    const basePositions = {}; // Store base positions for scaling
     nodes.forEach((node, i) => {
       nodePositions[node.slug] = { x: node.x, y: node.y };
       nodeIndexBySlug[node.slug] = i;
+      basePositions[node.slug] = { x: node.x, y: node.y };
     });
+
+    // Build node-to-edge indices for edge highlighting
+    const nodeToEdgeIndices = {};
+    edges.forEach((edge, i) => {
+      if (!nodeToEdgeIndices[edge.source]) nodeToEdgeIndices[edge.source] = [];
+      if (!nodeToEdgeIndices[edge.target]) nodeToEdgeIndices[edge.target] = [];
+      nodeToEdgeIndices[edge.source].push(i);
+      nodeToEdgeIndices[edge.target].push(i);
+    });
+
+    // Edge highlight colors (brighter variants)
+    const edgeHighlightColors = {
+      collaborator: new THREE.Color('#4dd9ff'),
+      influenced: new THREE.Color('#c77dff'),
+      mentor: new THREE.Color('#ffd23f')
+    };
 
     // Build adjacency list for highlighting
     const adjacency = {};
@@ -286,6 +304,9 @@ const layoutJSON = JSON.stringify(layout);
 
       const node = nodes[index];
       const color = colors.highlight;
+      const posScale = window.__graphSettings?.positionScale || 1.0;
+      const sizeScale = window.__graphSettings?.nodeSize || 1.0;
+      const basePos = basePositions[node.slug];
 
       // Update node color
       nodesMesh.instanceColor.array[index * 3] = color.r;
@@ -294,17 +315,23 @@ const layoutJSON = JSON.stringify(layout);
       nodesMesh.instanceColor.needsUpdate = true;
 
       // Scale up
-      dummy.position.set(node.x, node.y, 0);
-      dummy.scale.setScalar(originalScales[index] * 1.3);
+      dummy.position.set(basePos.x * posScale, basePos.y * posScale, 0);
+      dummy.scale.setScalar(originalScales[index] * sizeScale * 1.3);
       dummy.updateMatrix();
       nodesMesh.setMatrixAt(index, dummy.matrix);
       nodesMesh.instanceMatrix.needsUpdate = true;
+
+      // Highlight connected edges
+      highlightConnectedEdges(node.slug);
     }
 
     function unhighlightNode(index) {
       if (index < 0 || index === selectedIndex) return;
 
       const node = nodes[index];
+      const posScale = window.__graphSettings?.positionScale || 1.0;
+      const sizeScale = window.__graphSettings?.nodeSize || 1.0;
+      const basePos = basePositions[node.slug];
 
       // Restore original color
       nodesMesh.instanceColor.array[index * 3] = originalColors[index * 3];
@@ -313,11 +340,14 @@ const layoutJSON = JSON.stringify(layout);
       nodesMesh.instanceColor.needsUpdate = true;
 
       // Restore original scale
-      dummy.position.set(node.x, node.y, 0);
-      dummy.scale.setScalar(originalScales[index]);
+      dummy.position.set(basePos.x * posScale, basePos.y * posScale, 0);
+      dummy.scale.setScalar(originalScales[index] * sizeScale);
       dummy.updateMatrix();
       nodesMesh.setMatrixAt(index, dummy.matrix);
       nodesMesh.instanceMatrix.needsUpdate = true;
+
+      // Unhighlight connected edges
+      unhighlightConnectedEdges();
     }
 
     function selectNode(index) {
@@ -451,27 +481,72 @@ const layoutJSON = JSON.stringify(layout);
       animateFly();
     }
 
-    // Filter controls
-    const filterCheckboxes = document.querySelectorAll('[data-edge-type]');
+    // Edge visibility and opacity state
     const edgeOpacities = { collaborator: 0.35, influenced: 0.35, mentor: 0.35 };
+    const edgeVisibility = { collaborator: true, influenced: true, mentor: true };
 
-    filterCheckboxes.forEach(checkbox => {
-      checkbox.addEventListener('change', (e) => {
-        const type = e.target.dataset.edgeType;
-        edgeOpacities[type] = e.target.checked ? 0.35 : 0.05;
-        updateEdgeOpacities();
+    // Edge highlighting state
+    let highlightedEdgeIndices = new Set();
+
+    function highlightConnectedEdges(nodeSlug) {
+      const edgeIndices = nodeToEdgeIndices[nodeSlug] || [];
+      const colorAttr = edgeGeometry.getAttribute('color');
+
+      edgeIndices.forEach(i => {
+        highlightedEdgeIndices.add(i);
+        const edge = edges[i];
+        const highlightColor = edgeHighlightColors[edge.type];
+
+        colorAttr.array[i * 6] = highlightColor.r;
+        colorAttr.array[i * 6 + 1] = highlightColor.g;
+        colorAttr.array[i * 6 + 2] = highlightColor.b;
+        colorAttr.array[i * 6 + 3] = highlightColor.r;
+        colorAttr.array[i * 6 + 4] = highlightColor.g;
+        colorAttr.array[i * 6 + 5] = highlightColor.b;
       });
-    });
+
+      colorAttr.needsUpdate = true;
+      edgeMaterial.opacity = 0.8; // Boost overall edge visibility during highlight
+    }
+
+    function unhighlightConnectedEdges() {
+      if (highlightedEdgeIndices.size === 0) return;
+
+      const colorAttr = edgeGeometry.getAttribute('color');
+
+      highlightedEdgeIndices.forEach(i => {
+        const edge = edges[i];
+        const color = colors[edge.type];
+        const opacity = edgeOpacities[edge.type];
+        const visible = edgeVisibility[edge.type];
+        const factor = visible ? opacity / 0.35 : 0.05 / 0.35;
+
+        colorAttr.array[i * 6] = color.r * factor;
+        colorAttr.array[i * 6 + 1] = color.g * factor;
+        colorAttr.array[i * 6 + 2] = color.b * factor;
+        colorAttr.array[i * 6 + 3] = color.r * factor;
+        colorAttr.array[i * 6 + 4] = color.g * factor;
+        colorAttr.array[i * 6 + 5] = color.b * factor;
+      });
+
+      highlightedEdgeIndices.clear();
+      colorAttr.needsUpdate = true;
+      edgeMaterial.opacity = 0.35;
+    }
 
     function updateEdgeOpacities() {
       const colorAttr = edgeGeometry.getAttribute('color');
 
       edges.forEach((edge, i) => {
+        // Skip highlighted edges
+        if (highlightedEdgeIndices.has(i)) return;
+
         const opacity = edgeOpacities[edge.type];
+        const visible = edgeVisibility[edge.type];
         const color = colors[edge.type] || colors.default;
 
-        // Adjust color intensity based on opacity
-        const factor = opacity / 0.35;
+        // Adjust color intensity based on opacity and visibility
+        const factor = visible ? opacity / 0.35 : 0.05 / 0.35;
         colorAttr.array[i * 6] = color.r * factor;
         colorAttr.array[i * 6 + 1] = color.g * factor;
         colorAttr.array[i * 6 + 2] = color.b * factor;
@@ -520,6 +595,128 @@ const layoutJSON = JSON.stringify(layout);
 
     // Expose flyToArtist globally for external use
     window.flyToArtist = flyToArtist;
+
+    // Initialize global settings state
+    window.__graphSettings = {
+      positionScale: 1.0,
+      nodeSize: 1.0,
+      edgeOpacity: {
+        collaborator: 0.35,
+        influenced: 0.35,
+        mentor: 0.35
+      },
+      edgeVisibility: {
+        collaborator: true,
+        influenced: true,
+        mentor: true
+      }
+    };
+
+    // Settings apply functions
+    function applyPositionScale(scale) {
+      window.__graphSettings.positionScale = scale;
+      const sizeScale = window.__graphSettings.nodeSize;
+
+      nodes.forEach((node, i) => {
+        const basePos = basePositions[node.slug];
+        dummy.position.set(basePos.x * scale, basePos.y * scale, 0);
+        dummy.scale.setScalar(originalScales[i] * sizeScale);
+        dummy.updateMatrix();
+        nodesMesh.setMatrixAt(i, dummy.matrix);
+      });
+      nodesMesh.instanceMatrix.needsUpdate = true;
+
+      // Update edge positions
+      const posAttr = edgeGeometry.getAttribute('position');
+      edges.forEach((edge, i) => {
+        const sourcePos = basePositions[edge.source];
+        const targetPos = basePositions[edge.target];
+        if (sourcePos && targetPos) {
+          posAttr.array[i * 6] = sourcePos.x * scale;
+          posAttr.array[i * 6 + 1] = sourcePos.y * scale;
+          posAttr.array[i * 6 + 3] = targetPos.x * scale;
+          posAttr.array[i * 6 + 4] = targetPos.y * scale;
+        }
+      });
+      posAttr.needsUpdate = true;
+    }
+
+    function applyNodeSize(sizeMultiplier) {
+      window.__graphSettings.nodeSize = sizeMultiplier;
+      const posScale = window.__graphSettings.positionScale;
+
+      nodes.forEach((node, i) => {
+        const basePos = basePositions[node.slug];
+        dummy.position.set(basePos.x * posScale, basePos.y * posScale, 0);
+        dummy.scale.setScalar(originalScales[i] * sizeMultiplier);
+        dummy.updateMatrix();
+        nodesMesh.setMatrixAt(i, dummy.matrix);
+      });
+      nodesMesh.instanceMatrix.needsUpdate = true;
+    }
+
+    function applyEdgeOpacity(type, opacity) {
+      edgeOpacities[type] = opacity;
+      window.__graphSettings.edgeOpacity[type] = opacity;
+      updateEdgeOpacities();
+    }
+
+    function applyEdgeVisibility(type, visible) {
+      edgeVisibility[type] = visible;
+      window.__graphSettings.edgeVisibility[type] = visible;
+      updateEdgeOpacities();
+    }
+
+    // Camera animation function
+    function animateCameraTo(target, zoom) {
+      const startTarget = controls.target.clone();
+      const startZoom = camera.zoom;
+      const duration = 500;
+      const startTime = Date.now();
+
+      function animate() {
+        const elapsed = Date.now() - startTime;
+        const t = Math.min(elapsed / duration, 1);
+        const eased = 1 - Math.pow(1 - t, 3); // easeOutCubic
+
+        controls.target.lerpVectors(startTarget, target, eased);
+        camera.zoom = startZoom + (zoom - startZoom) * eased;
+        camera.updateProjectionMatrix();
+
+        if (t < 1) requestAnimationFrame(animate);
+      }
+      animate();
+    }
+
+    // Expose camera controls globally
+    window.graphZoomToFit = function() {
+      const targetZoom = 0.85;
+      animateCameraTo(new THREE.Vector3(0, 0, 0), targetZoom);
+    };
+
+    window.graphResetView = function() {
+      animateCameraTo(new THREE.Vector3(0, 0, 0), 0.9);
+    };
+
+    // Listen for settings changes from GraphSettingsPanel
+    window.addEventListener('graph:settingsChanged', (e) => {
+      const { key, value } = e.detail;
+
+      switch (key) {
+        case 'positionScale':
+          applyPositionScale(value);
+          break;
+        case 'nodeSize':
+          applyNodeSize(value);
+          break;
+        case 'edgeOpacity':
+          applyEdgeOpacity(value.type, value.opacity);
+          break;
+        case 'edgeVisibility':
+          applyEdgeVisibility(value.type, value.visible);
+          break;
+      }
+    });
 
     // Initial setup
     onResize();

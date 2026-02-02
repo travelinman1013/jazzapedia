@@ -7,6 +7,31 @@
  * Three.js visualization can render instantly at runtime.
  *
  * Generated file: src/data/graph-layout.json (gitignored)
+ *
+ * D3-FORCE PARAMETERS (modify FORCE_CONFIG below to change layout)
+ *
+ * Run: cd apps/web && npx tsx scripts/build-graph-layout.ts
+ *
+ * LINK FORCE:
+ *   distance: 50  - Target link length in pixels (30-100 recommended)
+ *                   Lower = tighter clusters, Higher = more spread out
+ *   strength: 0.3 - How rigid links are (0.1-0.7)
+ *                   Lower = more organic/loose, Higher = more mechanical
+ *
+ * CHARGE FORCE:
+ *   strength: -30     - Node repulsion strength (-100 to -10)
+ *                       More negative = nodes push apart harder
+ *   distanceMax: 300  - Max distance for repulsion effect
+ *                       Higher = global repulsion, Lower = local only
+ *
+ * COLLISION:
+ *   baseRadius: 5           - Minimum collision radius for all nodes
+ *   connectionMultiplier: 2 - Scales radius by sqrt(connections)
+ *                             Higher = bigger nodes get more space
+ *
+ * SIMULATION:
+ *   iterations: 300 - Number of ticks to run (200-500)
+ *                     More = more stable but slower build
  */
 
 import Database from 'better-sqlite3';
@@ -67,6 +92,28 @@ interface SimLink {
   target: string | SimNode;
   type: 'collaborator' | 'influenced' | 'mentor';
 }
+
+/**
+ * Force simulation configuration
+ * Modify these values to change the graph layout behavior
+ */
+const FORCE_CONFIG = {
+  link: {
+    distance: 50,   // Target link length (30-100 recommended)
+    strength: 0.3   // How rigid links are (0.1-0.7)
+  },
+  charge: {
+    strength: -30,      // Node repulsion (-100 to -10)
+    distanceMax: 300    // Max repulsion distance
+  },
+  collision: {
+    baseRadius: 5,          // Minimum node radius
+    connectionMultiplier: 2 // Scales radius by sqrt(connections)
+  },
+  simulation: {
+    iterations: 300 // Ticks to run (200-500)
+  }
+};
 
 async function buildGraphLayout() {
   const startTime = Date.now();
@@ -212,21 +259,22 @@ async function buildGraphLayout() {
 
   // Run d3-force simulation
   console.log('[build-graph] Running force simulation...');
+  console.log('[build-graph] Force config:', JSON.stringify(FORCE_CONFIG, null, 2));
 
   const simulation = d3.forceSimulation<SimNode>(nodes)
     .force('link', d3.forceLink<SimNode, SimLink>(edges)
       .id(d => d.slug)
-      .distance(50)
-      .strength(0.3))
+      .distance(FORCE_CONFIG.link.distance)
+      .strength(FORCE_CONFIG.link.strength))
     .force('charge', d3.forceManyBody<SimNode>()
-      .strength(-30)
-      .distanceMax(300))
+      .strength(FORCE_CONFIG.charge.strength)
+      .distanceMax(FORCE_CONFIG.charge.distanceMax))
     .force('center', d3.forceCenter(0, 0))
     .force('collision', d3.forceCollide<SimNode>()
-      .radius(d => 5 + Math.sqrt(d.connections) * 2));
+      .radius(d => FORCE_CONFIG.collision.baseRadius + Math.sqrt(d.connections) * FORCE_CONFIG.collision.connectionMultiplier));
 
   // Run simulation until stable
-  const iterations = 300;
+  const iterations = FORCE_CONFIG.simulation.iterations;
   console.log(`[build-graph] Running ${iterations} iterations...`);
 
   for (let i = 0; i < iterations; i++) {

@@ -10,6 +10,7 @@ import CommandPalette from '../components/ui/CommandPalette.astro';
 import EcosystemGraph from '../components/graph/EcosystemGraph.astro';
 import GraphControls from '../components/graph/GraphControls.astro';
 import GraphInfoPanel from '../components/graph/GraphInfoPanel.astro';
+import GraphSettingsPanel from '../components/graph/GraphSettingsPanel.astro';
 
 // Import variable fonts
 import '@fontsource-variable/playfair-display';
@@ -96,6 +97,7 @@ const description = 'Explore the connections between jazz artists - collaborator
     <!-- Full viewport graph -->
     <main class="graph-main">
       <GraphControls />
+      <GraphSettingsPanel />
       <EcosystemGraph layout={graphLayout} />
       <GraphInfoPanel />
     </main>
