@@ -61,7 +61,7 @@ PLAN-*.md
 prompts/
 
 # Generated data files (recreated during build)
-src/data/graph-layout.json
+# Note: graph-layout.json is committed as CI fallback (no DB in GitHub Actions)
 
 # Misc
 process_batch.js
