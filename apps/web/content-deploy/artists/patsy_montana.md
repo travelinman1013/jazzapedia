@@ -1,171 +1,99 @@
 ---
-title: Patsy Montana
-wiki_slug: patsy-montana
-schema_version: 2
-status: deceased
-birth_name: Ruby Rose Blevins
-also_known_as:
-- Patsy Montana
-aliases:
-- Patsy Montana
-birth_date: '1908-10-30'
-birth_place: Hot Springs
-death_date: '1996-05-03'
-years_active: 1933–1996
-genres:
-- traditional country
-instruments:
-- guitar
-- voice
-occupation:
-- musician
-- singer
-- yodeler
-- songwriter
-record_labels:
-- Decca
-- Vocalion Records
-infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Patsy_Montana.jpg
-  caption: Patsy Montana
-  background: solo_singer
-  birth_name: Ruby Rose Blevins
-  born: '1908-10-30'
-  origin: Hot Springs
-  died: '1996-05-03'
-audio_profile:
-  tempo_avg: 126.5
-  energy_avg: 0.306
-  valence_avg: 0.782
-  danceability_avg: 0.646
-  acousticness_avg: 0.903
-  instrumentalness_avg: 0.034
-  loudness_avg: -10.8
-  speechiness_avg: 0.051
-  liveness_avg: 0.196
-  track_count: 60
-  computed_at: '2025-12-23T08:16:14.002700'
-similar_artists: []
-related_artists: []
-spotify_data:
-  followers: 11365
-  id: 0I9aDRzQdpLnNbMEZM7RHG
-  popularity: 25
-  url: https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG
-  verified: false
-discography_enriched: true
-albums_count: 5
-singles_count: 0
-top_tracks:
-- 'I Didn''t Know the Gun Was Loaded - Remastered (Anthology: The Cowboy''s Sweetheart (Remastered))'
-- I Want to Be a Cowboy's Sweetheart (Presenting Patsy Montana)
-- My Poncho Pony (Presenting Patsy Montana)
-- Old Nevada Moon (Presenting Patsy Montana)
-- I Wanna Be A Cowboy's Sweetheart (Alternate Take) (Presenting Patsy Montana)
-- I Wanna Be A Cowboy's Sweetheart (Cowgirl's Best)
-- I Want to Be a Cowboy's Sweetheart (Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe])
-- I Didn't Know The Gun Was Loaded
-- 'I Want To Be A Cowboy''s Sweetheart (Columbia Country Classics Volume 1: The Golden Age)'
-- I Want to Be a Cowboy's Sweetheart - 78rpm Version (Boots, Buckles & Spurs - 50 Songs Celebrate 50 Years of Cowboy Tradition)
+biography_enhanced_at: '2026-02-07T01:28:02.845262'
+birth_place: Hope, Arkansas, United States
+enhancement_provider: perplexity
+entry_created: '2026-02-07T01:28:02.845278'
 external_urls:
-  musicbrainz: null
   spotify: https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG
   wikipedia: https://en.wikipedia.org/wiki/Patsy_Montana
-image_path: 03_Resources/source_material/ArtistPortraits/Patsy_Montana.jpg
-biography_source: wikipedia
-biography_enhanced_at: '2025-09-18T16:16:59.992168'
-entry_created: 2025-09-18 11:50:35.995997
-last_updated: '2025-12-23T08:16:14.003066'
-
+genres:
+- traditional country
+- classic country
+image_path: 03_Resources/source_material/ArtistPortraits/patsy_montana.jpg
+last_updated: '2026-02-07T01:28:02.845281'
+musical_connections:
+  collaborators:
+  - Prairie Ramblers
+  - Gene Autry
+  - Red Foley
+  - Pat Buttram
+  - George Gobel
+  - Girls of the Golden West
+  - Monte Montana
+  - Paul Rose
+  - Patsy Montana Trio
+  influenced:
+  - Subsequent female country artists
+  mentors:
+  - Jimmie Rodgers
+  - Jimmie Davis
+  - Stuart Hamblen
+network_extracted: true
+primary_source: perplexity
+research_sources:
+- https://en.wikipedia.org/wiki/Patsy_Montana
+- https://encyclopediaofarkansas.net/entries/patsy-montana-1718/
+- http://tabbycatmusicarchives.com/singcowboydog/patmontana/patsymontana.htm
+- https://www.countryuniverse.net/2018/07/16/100-greatest-women-45-patsy-montana/
+- https://www.loc.gov/static/programs/national-recording-preservation-board/documents/PatsyMontana.pdf
+- https://folkworks.org/blog/patsy-montana-the-cowboys-sweetheart-with-a-heart-of-her-own/
+- https://www.countrymusichalloffame.org/artist/patsy-montana
+spotify_data:
+  followers: 11633
+  id: 0I9aDRzQdpLnNbMEZM7RHG
+  popularity: 24
+  url: https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG
+status: active
+title: patsy montana
 ---
 
-![](Patsy_Montana.jpg)
+![](patsy_montana.jpg)
 
-# Patsy Montana
+# patsy montana
 
 ## Quick Info
 - **Genres**: traditional country, classic country
-- **Birth Name**: Ruby Rose Blevins
-- **Also Known As**: Patsy Montana
-- **Born**: 1908-10-30 in Hot Springs
-- **Died**: 1996-05-03
-- **Occupation**: musician, singer, yodeler
-- **Instruments**: guitar, voice
-- **Years Active**: 1933–1996
-- **Record Labels**: Decca, Vocalion Records
-- **Spotify Popularity**: 25/100
-- **Followers**: 11,365
+- **Spotify Popularity**: 24/100
+- **Followers**: 11,633
+- **Born**: Hope, Arkansas, United States
 
 ## Biography
-Patsy Montana, born Rubye Rose Blevins in Beaudry, Arkansas in 1908, was the first female country performer to achieve a million-selling single.  Growing up with ten brothers near Hope, Arkansas, two of whom died in a childhood fire, she developed a musical talent early on.  In 1929, she moved to California to study violin at the University of the West (UCLA), winning a talent contest that launched her radio career on the Hollywood Breakfast Club program.  Her musical journey continued with a trip to the 1933 Chicago World's Fair, where an unexpected audition led to a spot with the Prairie Ramblers on WLS-AM's National Barn Dance. This experience proved pivotal in shaping her career.
+Ruby Rose Blevins, professionally known as Patsy Montana, was born on October 30, 1908, in Hope, Arkansas, as the only girl among eleven siblings. She grew up immersed in church songs, fiddle music, and the recordings of country star Jimmie Rodgers. In 1929, she moved to California to study violin at UCLA, where she won a local talent contest in 1931 by yodeling and performing Jimmie Rodgers songs, earning her initial radio exposure on KMIC as "The Yodeling Cowgirl From San Antone." She adopted the stage name Patsy Montana after performing with cowboy star Monte Montana on a radio show hosted by singer-songwriter Stuart Hamblen.
 
-Montana's career blossomed with the Prairie Ramblers, who backed her on recordings for ARC Records, Decca, and RCA Victor.  In 1934, she reworked the song "Texas Plains" into "Montana Plains," which she further developed into her signature hit, "I Want to Be a Cowboy's Sweetheart," released in 1935. This song propelled her to unprecedented success, making her the first female country artist to sell a million records.  Her National Barn Dance tenure extended into the 1950s, during which she collaborated with notable figures like Gene Autry, Pat Buttram, Red Foley, the Girls of the Golden West, and George Gobel.  She also starred in the feature film *Colorado Sunset* alongside Smiley Burnette and Gene Autry.  It was through the National Barn Dance that she met her husband, Paul E. Rose, a stage manager for Gene Autry.  Later, she and her two daughters formed the Patsy Montana Trio.  After a semi-retirement in the late 1950s, she attempted a comeback in 1964, recording an album with Waylon Jennings on lead guitar.
+Montana's breakthrough came in 1933 when she joined the Prairie Ramblers, a successful Kentucky string band, and became a regular performer on WLS Chicago's National Barn Dance, one of the pioneering country-themed broadcasts that predated the Grand Ole Opry. Her signature song, "I Want to Be a Cowboy's Sweetheart," which she composed herself and recorded in 1935, became a historic milestone—it was the first million-selling single by a female country artist. This achievement established her as a groundbreaking figure in country music, demonstrating that women could write their own songs, headline shows independently, and achieve major commercial success in a male-dominated industry.
 
-Montana's musical style blended country and western influences, incorporating yodeling and guitar playing into her performances.  Her innovative approach to country music, particularly her success with "I Want to Be a Cowboy's Sweetheart," broke barriers for female artists in the genre.  Her legacy is cemented by her induction into both the National Cowgirl Museum and Hall of Fame (1987) and the Country Music Hall of Fame (1996).  Her influence is evident in the work of later singers such as Patsy Cline, Dottie West, and more recently, Devon Dawson, the singing voice of Jessie the Yodeling Cowgirl in *Toy Story 2*.  The enduring popularity of "I Want to Be a Cowboy's Sweetheart," featured in the closing credits of John Sayles' 1996 film *Lone Star*, further underscores her lasting impact on country music.
+Montana maintained an active career spanning over seven decades, performing regularly on the National Barn Dance until the 1950s and collaborating with notable artists including Gene Autry, Pat Buttram, Red Foley, and George Gobel. Though rock and roll and folk music challenged her career in the 1960s, she experienced a revival in the 1970s through college campus concerts and renewed interest in country music. She continued performing into late 1995, just before her eighty-seventh birthday, and passed away on May 3, 1996. Later that year, she was inducted into the Country Music Hall of Fame, cementing her legacy as one of the most important pioneering female country music stars.
+
+*Enhanced with Perplexity AI research*
+
+*Sources: [Source1](https://encyclopediaofarkansas.net/entries/patsy-montana-1718/), [Source2](http://tabbycatmusicarchives.com/singcowboydog/patmontana/patsymontana.htm), [Source3](https://www.countryuniverse.net/2018/07/16/100-greatest-women-45-patsy-montana/), [Source4](https://www.loc.gov/static/programs/national-recording-preservation-board/documents/PatsyMontana.pdf), [Source5](https://folkworks.org/blog/patsy-montana-the-cowboys-sweetheart-with-a-heart-of-her-own/), [Source6](https://www.countrymusichalloffame.org/artist/patsy-montana)*
 
 ## Fun Facts
-
-* Montana's stage name was inspired by silent film star and roper Monte Montana.
-* Her million-selling single, "I Want to Be a Cowboy's Sweetheart," was a reworked version of "Texas Plains."
-* She and her husband, Paul E. Rose, often went on separate tours even while honeymooning.
-* Her song "I Want to Be a Cowboy's Sweetheart" was featured in the film *Lone Star*, released shortly after her death.
+- Montana was the only girl among eleven siblings and often joked, 'Ten brothers and every one of them had a sister except me.'
+- She was born in either Hope or Hot Springs, Arkansas (sources vary), and grew up in Hope, the same town that would later be the childhood home of President Bill Clinton.
+- In 1933, Montana traveled with her brothers carrying a watermelon to the Chicago World's Fair, where she auditioned for and was hired on the spot by the Prairie Ramblers.
+- Her professional career spanned over seven decades, performing from 1922 until late 1995, and she completed dictating her autobiography prior to her death in May 1996.
 
 ## Musical Connections
 
 ### Mentors/Influences
-
-* None explicitly mentioned in the source.
+- [[jimmie_rodgers|Jimmie Rodgers]] - Musical inspiration and stylistic influence; Montana grew up listening to Rodgers' recordings and performed his yodeling songs early in her career (Yodeling songs and country recordings) [1920s-1930s]
+- [[jimmie_davis|Jimmie Davis]] - Record label artist who heard Montana perform on KWKH radio in Shreveport, Louisiana, and invited her to sing backup and record her debut songs (Debut recording session) [1932]
+- [[stuart_hamblen|Stuart Hamblen]] - Singer-songwriter and radio host who gave Montana her professional stage name while she performed on his KMIC radio show (Radio broadcasts) [1931]
 
 ### Key Collaborators
-
-* The Prairie Ramblers – Her backing band on many recordings and performances.
-* Gene Autry – Collaborated on the film *Colorado Sunset* and shared the stage at the National Barn Dance.
-* Pat Buttram – Collaborated with her at the National Barn Dance.
-* Red Foley – Collaborated with her at the National Barn Dance.
-* The Girls of the Golden West – Collaborated with her at the National Barn Dance.
-* George Gobel – Collaborated with her at the National Barn Dance.
-* Waylon Jennings – Played lead guitar on her 1964 comeback album.
+- [[prairie_ramblers|Prairie Ramblers]] - Montana joined this Kentucky string band as vocalist and became billed as Patsy Montana & the Prairie Ramblers; performed regularly on National Barn Dance (National Barn Dance performances and recordings) [1933-1950s]
+- [[gene_autry|Gene Autry]] - Collaborated with the singing cowboy star during her career (Various performances and recordings) [1930s-1940s]
+- [[red_foley|Red Foley]] - Country music performer and collaborator (Various performances) [1930s-1940s]
+- [[pat_buttram|Pat Buttram]] - Collaborator in various performances (Various performances) [1930s-1940s]
+- [[george_gobel|George Gobel]] - Performer and collaborator (Various performances) [1930s-1940s]
+- [[girls_of_the_golden_west|Girls of the Golden West]] - Female vocal group that Montana worked with (Various performances) [1930s-1940s]
+- [[monte_montana|Monte Montana]] - World Champion Roper and cowboy star whose stage name inspired Montana's professional name; they performed together on radio (KMIC radio broadcasts) [1931]
+- [[paul_rose|Paul Rose]] - Husband and manager; married July 4, 1934; worked with WLS touring shows (Career management and touring) [1934-1996]
+- [[patsy_montana_trio|Patsy Montana Trio]] - Montana performed with her two daughters, Beverly and Judy, as the Patsy Montana Trio (Family performances) [1940s-1960s]
 
 ### Artists Influenced
-
-* Patsy Cline – Influenced by Montana's career.
-* Dottie West – Influenced by Montana's career.
-* Devon Dawson – Influenced by Montana's career, notably as the singing voice of Jessie in *Toy Story 2*.
-
-*Enhanced with AI analysis*
-
-*Source: [Wikipedia](https://en.wikipedia.org/wiki/Patsy_Montana)*
-
-## Discography
-
-### Albums
-| Title | Release Date | Type |
-|-------|--------------|------|
-| Anthology: The Cowboy's Sweetheart (Remastered) | 2021-09-10 | Album |
-| Cowgirl's Best | 2009-01-01 | Album |
-| Cowboy's Sweetheart (Original Starday Records Recordings) | 1996 | Album |
-| Montana Melodies - The Legacy of Patsy Montana | 2023-06-23 | Album |
-| The Original Cowboy's Sweetheart 1932-1945 | 2015-07-01 | Album |
-| The Cowboy's Sweetheart | 1988-01-01 | Album |
-| Cowboys Sweetheart | 2020-10-05 | Album |
-| The Best Recordings (Doxy Collection) | 2015-03-12 | Album |
-| Patsy Montana (Doxy Collection) | 2014-09-08 | Album |
-| Out on the Lone Prairie | 2013-04-28 | Album |
-| My Million Dollar Smile | 2009-05-11 | Album |
-| Patsy Montana's The Wheel Of The Wagon Is Broken | 2006-06-25 | Album |
-| Patsy Montana's The Wheel Of The Wagon Is Broken | 2006 | Album |
-
-### Top Tracks
-1. I Didn't Know the Gun Was Loaded - Remastered (Anthology: The Cowboy's Sweetheart (Remastered))
-2. I Want to Be a Cowboy's Sweetheart (Presenting Patsy Montana)
-3. My Poncho Pony (Presenting Patsy Montana)
-4. Old Nevada Moon (Presenting Patsy Montana)
-5. I Wanna Be A Cowboy's Sweetheart (Alternate Take) (Presenting Patsy Montana)
-6. I Wanna Be A Cowboy's Sweetheart (Cowgirl's Best)
-7. I Want to Be a Cowboy's Sweetheart (Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe])
-8. I Didn't Know The Gun Was Loaded
-9. I Want To Be A Cowboy's Sweetheart (Columbia Country Classics Volume 1: The Golden Age)
-10. I Want to Be a Cowboy's Sweetheart - 78rpm Version (Boots, Buckles & Spurs - 50 Songs Celebrate 50 Years of Cowboy Tradition)
+- [[subsequent_female_country_artists|Subsequent female country artists]] - Montana's success demonstrated that women could write their own songs, headline shows independently, and achieve major commercial success, paving the way for generations of female country musicians (Her career trajectory and achievements) [1935 onwards]
 
 ## External Links
 - [Spotify](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG)
