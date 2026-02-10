@@ -307,6 +307,61 @@ Key routes:
 - `/wwoz/insights` - Archive statistics dashboard
 - `/api/*` - API endpoints
 
+## Favicon & Open Graph (Link Previews)
+
+### Favicon & Icons
+
+The site uses a custom Jazzapedia logo (gold saxophone-treble clef on dark navy circle). Icon files live in `apps/web/public/`:
+
+| File | Size | Purpose |
+|------|------|---------|
+| `favicon.png` | 32x32 | Primary browser tab icon |
+| `favicon.ico` | 16/32/48 | ICO fallback (multi-size) |
+| `apple-touch-icon.png` | 180x180 | iOS home screen, iMessage link previews |
+| `icon-192.png` | 192x192 | Android/PWA |
+| `icon-512.png` | 512x512 | PWA splash screen |
+| `og-default.png` | 1200x630 | Default Open Graph image for non-artist pages |
+
+**Source logo:** `Gemini_Generated_Image_galpvqgalpvqgalp.png` (1024x1024, root of repo, not committed to git). Corners are masked to transparent so the circular logo displays cleanly.
+
+**Regenerating icons from a new logo:**
+```python
+# Requires Pillow: pip3 install Pillow
+# 1. Make corners transparent (circular mask)
+# 2. Resize to each target size with LANCZOS resampling
+# 3. Build favicon.ico manually (PNG-in-ICO format, sizes 16/32/48)
+# 4. Create og-default.png (1200x630, navy background #1A2035, logo centered at 500x500)
+```
+
+**Icon links in `Layout.astro` `<head>`:**
+```html
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+```
+
+### Open Graph Meta Tags
+
+OG tags enable rich link previews in iMessage, Slack, Twitter, Facebook, etc.
+
+**Architecture:**
+- `Layout.astro` accepts optional `ogImage`, `ogType`, `canonicalUrl` props
+- `WikiArticle.astro` passes these through to `Layout.astro`
+- Artist pages (`[...slug].astro`) provide the artist's portrait as `ogImage`
+
+**Artist pages OG image:**
+- Uses absolute R2 URL: `https://media.jazzapedia.com/portraits/{image_filename}`
+- Falls back to `https://jazzapedia.com/og-default.png` if no portrait exists
+- `og:type` is set to `profile` for artist pages, `website` for others
+- Twitter card is `summary_large_image` when a portrait exists
+
+**Key files:**
+- `apps/web/src/layouts/Layout.astro` - OG/Twitter meta tag rendering
+- `apps/web/src/layouts/WikiArticle.astro` - Passes OG props through to Layout
+- `apps/web/src/pages/artists/[...slug].astro` - Constructs portrait URL + canonical URL
+
+**Important:** OG image URLs must always be absolute production URLs (not relative paths), because social media crawlers fetch them from the public internet. Always use `https://media.jazzapedia.com/portraits/...` even in Docker/development.
+
 ## Docker Services
 
 **Docker is the testing/staging environment.** Always verify changes work in Docker before deploying to Cloudflare production.
@@ -371,6 +426,18 @@ cd apps/web
 cd apps/web
 PORTRAITS_DIR=../../portraits npx tsx scripts/upload-portraits-r2.ts
 ```
+
+### Update favicon / site icon
+1. Place new source logo image in repo root (square PNG, ideally 1024x1024+)
+2. Use Python/Pillow to make corners transparent (circular mask) and resize to all target sizes:
+   - `apps/web/public/favicon.png` (32x32)
+   - `apps/web/public/favicon.ico` (16/32/48 multi-size ICO)
+   - `apps/web/public/apple-touch-icon.png` (180x180)
+   - `apps/web/public/icon-192.png` (192x192)
+   - `apps/web/public/icon-512.png` (512x512)
+   - `apps/web/public/og-default.png` (1200x630, logo centered on navy `#1A2035` background)
+3. Deploy: `docker compose up -d --build web` (Docker) + `npx wrangler pages deploy` (Cloudflare)
+4. Note: iMessage and social platforms cache link previews — new icons may take time to appear
 
 ### Fix missing portrait in D1
 ```bash
