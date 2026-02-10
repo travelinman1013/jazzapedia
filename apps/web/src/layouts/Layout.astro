@@ -10,13 +10,24 @@ import '@fontsource-variable/jetbrains-mono';
 interface Props {
   title: string;
   description?: string;
+  ogTitle?: string;
   ogImage?: string;
   ogType?: string;
   canonicalUrl?: string;
 }
 
-const { title, description = 'A personal wiki for music artists and their connections', ogImage, ogType, canonicalUrl } = Astro.props;
-const fullTitle = `${title} - Jazzapedia`;
+const {
+  title,
+  description = 'Mapping Out Jazz and World Music History as Told by the Greatest Station in the Universe',
+  ogTitle,
+  ogImage,
+  ogType,
+  canonicalUrl,
+} = Astro.props;
+
+const siteName = 'Jazzapedia';
+const fullTitle = title === siteName ? siteName : `${title} - ${siteName}`;
+const effectiveOgTitle = ogTitle ?? fullTitle;
 const defaultOgImage = 'https://jazzapedia.com/og-default.png';
 const effectiveOgImage = ogImage || defaultOgImage;
 ---
@@ -34,7 +45,7 @@ const effectiveOgImage = ogImage || defaultOgImage;
     <title>{fullTitle}</title>
 
     <!-- Open Graph -->
-    <meta property="og:title" content={fullTitle} />
+    <meta property="og:title" content={effectiveOgTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:site_name" content="Jazzapedia" />
     <meta property="og:type" content={ogType || 'website'} />
@@ -43,7 +54,7 @@ const effectiveOgImage = ogImage || defaultOgImage;
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
-    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:title" content={effectiveOgTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={effectiveOgImage} />
 
@@ -100,7 +111,7 @@ const effectiveOgImage = ogImage || defaultOgImage;
         <div class="flex items-center justify-between">
           <!-- Logo/Title -->
           <a href="/" class="group flex items-center space-x-3 hover:no-underline">
-            <span class="text-jazz-amber text-2xl">&#9835;</span>
+            <img src="/favicon.png" alt="Jazzapedia" class="navbar-logo" width="28" height="28" />
             <span class="text-xl font-display text-wiki-text-heading font-semibold tracking-tight group-hover:text-wiki-accent transition-colors duration-fast">
               Jazzapedia
             </span>
@@ -171,7 +182,7 @@ const effectiveOgImage = ogImage || defaultOgImage;
       <div class="max-w-6xl mx-auto px-4 py-6">
         <div class="flex flex-col md:flex-row justify-between items-center text-sm text-wiki-text-muted gap-4">
           <div class="flex items-center gap-2">
-            <span class="text-jazz-amber">&#9835;</span>
+            <img src="/favicon.png" alt="Jazzapedia" class="navbar-logo" width="20" height="20" />
             <p class="font-display">Jazzapedia</p>
           </div>
           <p>
@@ -189,6 +200,12 @@ const effectiveOgImage = ogImage || defaultOgImage;
 
     <!-- Global Styles -->
     <style is:global>
+      /* Navbar logo */
+      .navbar-logo {
+        display: inline-block;
+        vertical-align: middle;
+      }
+
       /* Navigation link styling */
       .nav-link {
         @apply px-3 py-2 text-sm text-wiki-text-secondary hover:text-wiki-link rounded-md transition-all duration-fast;
