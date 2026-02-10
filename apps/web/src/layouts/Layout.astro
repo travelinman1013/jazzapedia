@@ -10,9 +10,15 @@ import '@fontsource-variable/jetbrains-mono';
 interface Props {
   title: string;
   description?: string;
+  ogImage?: string;
+  ogType?: string;
+  canonicalUrl?: string;
 }
 
-const { title, description = 'A personal wiki for music artists and their connections' } = Astro.props;
+const { title, description = 'A personal wiki for music artists and their connections', ogImage, ogType, canonicalUrl } = Astro.props;
+const fullTitle = `${title} - Jazzapedia`;
+const defaultOgImage = 'https://jazzapedia.com/og-default.png';
+const effectiveOgImage = ogImage || defaultOgImage;
 ---
 
 <!doctype html>
@@ -21,9 +27,25 @@ const { title, description = 'A personal wiki for music artists and their connec
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <meta name="generator" content={Astro.generator} />
-    <title>{title} - Jazzapedia</title>
+    <title>{fullTitle}</title>
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:site_name" content="Jazzapedia" />
+    <meta property="og:type" content={ogType || 'website'} />
+    <meta property="og:image" content={effectiveOgImage} />
+    {canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={effectiveOgImage} />
 
     <!-- Inline settings initialization (prevents FOUC) -->
     <script is:inline>

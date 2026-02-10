@@ -243,6 +243,12 @@ if (bioHasMusicalConnections && hasConnections) {
   }
 }
 
+// Build OG meta data (always use absolute production URLs for social crawlers)
+const ogImage = artistRow.image_filename
+  ? `https://media.jazzapedia.com/portraits/${artistRow.image_filename}`
+  : 'https://jazzapedia.com/og-default.png';
+const canonicalUrl = `https://jazzapedia.com/artists/${slug}`;
+
 // Set cache headers for stale-while-revalidate caching
 Astro.response.headers.set(
   'Cache-Control',
@@ -250,7 +256,7 @@ Astro.response.headers.set(
 );
 ---
 
-<WikiArticle title={title} data={data} headings={headings} connections={artistConnections} artistSlug={slug}>
+<WikiArticle title={title} data={data} headings={headings} connections={artistConnections} artistSlug={slug} ogImage={ogImage} ogType="profile" canonicalUrl={canonicalUrl}>
   {/* Content before the Connection Graph (Bio through Musical Connections text) */}
   <Fragment set:html={contentBeforeGraph} />
 

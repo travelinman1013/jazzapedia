@@ -26,6 +26,9 @@ interface Props {
   title: string;
   data: Record<string, unknown>;
   description?: string;
+  ogImage?: string;
+  ogType?: string;
+  canonicalUrl?: string;
   headings?: { id: string; text: string }[];
   connections?: {
     forward?: MusicalConnections;
@@ -34,7 +37,7 @@ interface Props {
   artistSlug?: string;
 }
 
-const { title, data, description, headings = [], connections, artistSlug } = Astro.props;
+const { title, data, description, ogImage, ogType, canonicalUrl, headings = [], connections, artistSlug } = Astro.props;
 
 // Generate description from genres if not provided
 const genres = (data.genres || []) as string[];
@@ -42,7 +45,7 @@ const instruments = (data.instruments || []) as string[];
 const autoDescription = description || `${title} - ${genres.slice(0, 3).join(', ')} artist${instruments.length > 0 ? ` playing ${instruments.slice(0, 2).join(', ')}` : ''}`;
 ---
 
-<Layout title={title} description={autoDescription}>
+<Layout title={title} description={autoDescription} ogImage={ogImage} ogType={ogType} canonicalUrl={canonicalUrl}>
   <article class="wiki-article-grid">
     <!-- Article Header -->
     <header class="wiki-header">
