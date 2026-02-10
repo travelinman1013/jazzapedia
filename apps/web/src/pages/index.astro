@@ -49,7 +49,6 @@ let topGenres: Genre[] = [];
 let recentWWOZDays: WWOZDay[] = [];
 let wwozDaysCount = 0;
 let wwozTotalTracks = 0;
-let wwozUniqueArtists = 0;
 let errorMessage = '';
 
 if (db) {
@@ -63,7 +62,6 @@ if (db) {
       wwozResult,
       wwozDaysCountResult,
       wwozTotalTracksResult,
-      wwozUniqueArtistsResult,
     ] = await Promise.all([
       // Total artists
       db.prepare('SELECT COUNT(*) as count FROM artists').first(),
@@ -101,8 +99,6 @@ if (db) {
       db.prepare('SELECT COUNT(*) as count FROM wwoz_days').first(),
       // WWOZ stats: Total tracks
       db.prepare('SELECT COUNT(*) as count FROM wwoz_tracks').first(),
-      // WWOZ stats: Unique artists
-      db.prepare('SELECT COUNT(DISTINCT artist) as count FROM wwoz_tracks').first(),
     ]);
 
     artistCount = (artistCountResult as { count: number })?.count || 0;
@@ -112,7 +108,6 @@ if (db) {
     recentWWOZDays = (wwozResult.results || []) as WWOZDay[];
     wwozDaysCount = (wwozDaysCountResult as { count: number })?.count || 0;
     wwozTotalTracks = (wwozTotalTracksResult as { count: number })?.count || 0;
-    wwozUniqueArtists = (wwozUniqueArtistsResult as { count: number })?.count || 0;
   } catch (error) {
     console.error('Error loading homepage data:', error);
     errorMessage = String(error);
@@ -179,7 +174,7 @@ const getMatchRateColor = (rate: number): string => {
   <!-- Hero Section -->
   <section class="hero">
     <div class="hero-content">
-      <div class="hero-badge">EST. 2024</div>
+      <div class="hero-badge">EST. 2025</div>
       <h1 class="hero-title">
         <span class="hero-title-accent">Jazzapedia</span>
       </h1>
@@ -213,7 +208,7 @@ const getMatchRateColor = (rate: number): string => {
     <div class="stats-grid">
       <StatBox value={wwozDaysCount} label="Days Tracked" icon="&#128197;" href="/wwoz" />
       <StatBox value={wwozTotalTracks} label="Total Tracks" icon="&#127925;" href="/wwoz" />
-      <StatBox value={wwozUniqueArtists} label="Unique Artists" icon="&#127908;" href="/artists" />
+      <StatBox value={artistCount} label="Unique Artists" icon="&#127908;" href="/artists" />
     </div>
   </section>
 
