@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-02-10T08:01:38.826Z
+-- Generated: 2026-02-10T10:30:07.365Z
 -- Mode: INCREMENTAL
--- Last export: 2026-02-10 08:00:07
+-- Last export: 2026-02-10 08:01:38
 -- Days: 4
--- Tracks: 531
+-- Tracks: 538
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":121,"successfullyFound":59,"notFound":62,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-08 08:04:07',
-  '2026-02-10 08:01:37'
+  '2026-02-10 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":142,"successfullyFound":75,"notFound":67,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-09 07:25:29',
-  '2026-02-10 08:01:37'
+  '2026-02-10 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":228,"successfullyFound":160,"notFound":68,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-09 07:25:29',
-  '2026-02-10 08:01:37'
+  '2026-02-10 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-02-10',
   NULL,
-  '{"totalTracks":21,"successfullyFound":17,"notFound":4,"lowConfidence":0,"duplicates":0}',
+  '{"totalTracks":28,"successfullyFound":23,"notFound":5,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-10 08:00:06',
-  '2026-02-10 08:01:37'
+  '2026-02-10 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -8567,4 +8567,116 @@ VALUES (
   'found',
   100,
   '2026-02-10 08:00:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-10',
+  '01:28',
+  'Celeste',
+  'This Is Who I Am',
+  'Woman Of Faces',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/3XYHmR1VSj0QLzGcOtsQgu',
+  'found',
+  100,
+  '2026-02-10 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-10',
+  '01:32',
+  'Beck',
+  'I Only Have Eyes For You',
+  'Enerybody''s Gotta Learn Sometime',
+  'anti-folk',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/4PWwobtq0cX7tynOoKc3sG',
+  'found',
+  100,
+  '2026-02-10 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-10',
+  '01:36',
+  'James Blake',
+  'Assume Form',
+  'Assume Form',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/6cJrQc34txUzXd90xWEAOh',
+  'found',
+  100,
+  '2026-02-10 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-10',
+  '01:41',
+  'Puma Blue',
+  'Hush',
+  'Croak Dream',
+  'bedroom pop',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/5d367xvZxdp7wNbnXnIoEs',
+  'found',
+  100,
+  '2026-02-10 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-10',
+  '01:44',
+  'Zero 7',
+  'Passing By (feat. Sophie Barker)',
+  'When It Falls',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-10 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-10',
+  '01:51',
+  'Orion Sun',
+  'Mary Jane',
+  'Mary Jane',
+  'alternative r&b, bedroom pop',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/1coqWiiu5XGN3sgSBoJ3A5',
+  'found',
+  100,
+  '2026-02-10 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-10',
+  '01:54',
+  'Sade',
+  'Is It a Crime? (Live)',
+  'Lovers Live',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/1WFao0rkH7gKrxvTowXxnq',
+  'found',
+  98,
+  '2026-02-10 10:30:06'
 );
