@@ -1,0 +1,475 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const photos = Array.from({ length: 14 }, (_, i) => ({
+  src: `/about/photo-${String(i + 1).padStart(2, '0')}.jpg`,
+  alt: `Live music photography by Maxwell Erlich - New Orleans ${i + 1}`,
+}));
+---
+
+<Layout
+  title="About"
+  description="The story behind Jazzapedia — six years of live music in New Orleans"
+>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-badge">THE STORY</div>
+      <h1 class="hero-title">
+        <span class="hero-title-accent">About</span>
+      </h1>
+    </div>
+    <div class="hero-decoration"></div>
+  </section>
+
+  <!-- Story -->
+  <section class="content-section">
+    <header class="section-header">
+      <div class="section-title-group">
+        <span class="section-icon">&#127911;</span>
+        <h2 class="section-title">The Story</h2>
+      </div>
+    </header>
+
+    <div class="story-text">
+      <p>
+        My name is Maxwell. I spent six years in New Orleans (2019–2025) and fell in love with
+        the city, its music, and its culture. I spent my nights chasing the thriving live music
+        scene and eventually started photographing as much of it as I could.
+      </p>
+      <p>
+        Between the sheer intertwinedness of the music and the culture, the knowledge gurus I
+        was lucky enough to be surrounded by, and above all, the DJs on
+        <a href="https://www.wwoz.org" class="wwoz-link">WWOZ 90.7FM</a>, I absorbed more
+        musical history than I ever thought possible.
+      </p>
+      <p>
+        WWOZ is entirely volunteer-run, community-funded, and is the world's (if not the
+        universe's) premier Jazz &amp; Heritage station. I love it so much that I get genuine
+        FOMO when I'm not listening.
+      </p>
+      <p class="story-conclusion">
+        This site is my solution to never missing a beat.
+      </p>
+    </div>
+  </section>
+
+  <!-- Photo Gallery -->
+  <section class="content-section">
+    <header class="section-header">
+      <div class="section-title-group">
+        <span class="section-icon">&#128247;</span>
+        <h2 class="section-title">Photography</h2>
+      </div>
+      <p class="section-subtitle">Live music in New Orleans</p>
+    </header>
+
+    <div class="gallery-grid">
+      {photos.map((photo, i) => (
+        <button
+          class="gallery-item"
+          data-index={i}
+          type="button"
+          aria-label={`View photo ${i + 1}`}
+        >
+          <img
+            src={photo.src}
+            alt={photo.alt}
+            loading={i < 3 ? 'eager' : 'lazy'}
+            decoding="async"
+          />
+        </button>
+      ))}
+    </div>
+  </section>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Photo viewer">
+    <button class="lightbox-close" type="button" aria-label="Close">&times;</button>
+    <button class="lightbox-prev" type="button" aria-label="Previous photo">&#8249;</button>
+    <button class="lightbox-next" type="button" aria-label="Next photo">&#8250;</button>
+    <div class="lightbox-content">
+      <img id="lightbox-img" src="" alt="" />
+    </div>
+    <div class="lightbox-counter" id="lightbox-counter"></div>
+  </div>
+</Layout>
+
+<style>
+  /* ============================================
+     Hero Section (matches homepage)
+     ============================================ */
+  .hero {
+    position: relative;
+    padding: 3rem 0;
+    margin: -1.5rem -1.5rem 2rem -1.5rem;
+    background: linear-gradient(135deg, var(--color-bg-nav) 0%, var(--color-bg) 100%);
+    border-bottom: 2px solid var(--jazz-brass);
+    overflow: hidden;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.02) 2px,
+      rgba(0, 0, 0, 0.02) 4px
+    );
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative;
+    text-align: center;
+    padding: 0 1.5rem;
+  }
+
+  .hero-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    margin-bottom: 1rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    color: var(--jazz-amber);
+    border: 1px solid var(--jazz-brass);
+    border-radius: 9999px;
+  }
+
+  .hero-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: clamp(2.5rem, 8vw, 4rem);
+    font-weight: 600;
+    line-height: 1.1;
+    margin: 0;
+    color: var(--color-text-heading);
+  }
+
+  .hero-title-accent {
+    display: block;
+    background: linear-gradient(135deg, var(--jazz-amber) 0%, var(--electric-cyan) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .hero-decoration {
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent 0%, var(--jazz-amber) 50%, transparent 100%);
+  }
+
+  :global([data-mode="dark"]) .hero {
+    background: linear-gradient(135deg, var(--jazz-smoke) 0%, var(--jazz-black) 100%);
+  }
+
+  :global([data-mode="dark"]) .hero::before {
+    background-image: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(255, 255, 255, 0.02) 2px,
+      rgba(255, 255, 255, 0.02) 4px
+    );
+  }
+
+  /* ============================================
+     Content Sections (matches homepage)
+     ============================================ */
+  .content-section {
+    margin-bottom: 3rem;
+  }
+
+  .section-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem 1rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .section-title-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .section-icon {
+    font-size: 1.25rem;
+  }
+
+  .section-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: var(--color-text-heading);
+    margin: 0;
+  }
+
+  .section-subtitle {
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+    margin: 0;
+    flex: 1;
+  }
+
+  /* ============================================
+     Story Text
+     ============================================ */
+  .story-text {
+    max-width: 42rem;
+    font-size: 1.0625rem;
+    line-height: 1.75;
+    color: var(--color-text);
+  }
+
+  .story-text p {
+    margin-bottom: 1.25rem;
+  }
+
+  .story-text .wwoz-link {
+    color: var(--jazz-amber);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color var(--duration-fast) var(--ease-smooth);
+  }
+
+  .story-text .wwoz-link:hover {
+    color: var(--electric-cyan);
+    text-decoration: underline;
+  }
+
+  .story-conclusion {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.25rem;
+    font-style: italic;
+    color: var(--jazz-amber);
+    border-left: 3px solid var(--jazz-brass);
+    padding-left: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  /* ============================================
+     Photo Gallery
+     ============================================ */
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+
+  @media (min-width: 640px) {
+    .gallery-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .gallery-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .gallery-item {
+    display: block;
+    border: none;
+    padding: 0;
+    background: none;
+    cursor: pointer;
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    position: relative;
+    line-height: 0;
+  }
+
+  .gallery-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform var(--duration-normal) var(--ease-smooth),
+                filter var(--duration-normal) var(--ease-smooth);
+  }
+
+  .gallery-item:hover img {
+    transform: scale(1.03);
+    filter: brightness(1.1);
+  }
+
+  .gallery-item::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border: 2px solid transparent;
+    border-radius: var(--radius-md);
+    transition: border-color var(--duration-fast) var(--ease-smooth);
+    pointer-events: none;
+  }
+
+  .gallery-item:hover::after {
+    border-color: var(--jazz-amber);
+  }
+
+  /* ============================================
+     Lightbox
+     ============================================ */
+  .lightbox {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    background: rgba(0, 0, 0, 0.92);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .lightbox.is-open {
+    display: flex;
+  }
+
+  .lightbox-content {
+    max-width: 90vw;
+    max-height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .lightbox-content img {
+    max-width: 100%;
+    max-height: 85vh;
+    object-fit: contain;
+    border-radius: var(--radius-md);
+  }
+
+  .lightbox-close {
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 2.5rem;
+    cursor: pointer;
+    z-index: 10;
+    line-height: 1;
+    padding: 0.5rem;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+  }
+
+  .lightbox-close:hover {
+    opacity: 1;
+  }
+
+  .lightbox-prev,
+  .lightbox-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: white;
+    font-size: 3rem;
+    cursor: pointer;
+    z-index: 10;
+    padding: 1rem;
+    opacity: 0.6;
+    transition: opacity 0.2s;
+    line-height: 1;
+  }
+
+  .lightbox-prev:hover,
+  .lightbox-next:hover {
+    opacity: 1;
+  }
+
+  .lightbox-prev {
+    left: 0.5rem;
+  }
+
+  .lightbox-next {
+    right: 0.5rem;
+  }
+
+  .lightbox-counter {
+    color: rgba(255, 255, 255, 0.6);
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.75rem;
+    margin-top: 1rem;
+    letter-spacing: 0.1em;
+  }
+</style>
+
+<script is:inline>
+  (function() {
+    var lightbox = document.getElementById('lightbox');
+    var lightboxImg = document.getElementById('lightbox-img');
+    var lightboxCounter = document.getElementById('lightbox-counter');
+    var items = document.querySelectorAll('.gallery-item');
+    var current = 0;
+    var total = items.length;
+
+    function openLightbox(index) {
+      current = index;
+      updateImage();
+      lightbox.classList.add('is-open');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeLightbox() {
+      lightbox.classList.remove('is-open');
+      document.body.style.overflow = '';
+    }
+
+    function updateImage() {
+      var img = items[current].querySelector('img');
+      lightboxImg.src = img.src;
+      lightboxImg.alt = img.alt;
+      lightboxCounter.textContent = (current + 1) + ' / ' + total;
+    }
+
+    function next() {
+      current = (current + 1) % total;
+      updateImage();
+    }
+
+    function prev() {
+      current = (current - 1 + total) % total;
+      updateImage();
+    }
+
+    items.forEach(function(item) {
+      item.addEventListener('click', function() {
+        openLightbox(parseInt(item.dataset.index));
+      });
+    });
+
+    lightbox.querySelector('.lightbox-close').addEventListener('click', closeLightbox);
+    lightbox.querySelector('.lightbox-prev').addEventListener('click', prev);
+    lightbox.querySelector('.lightbox-next').addEventListener('click', next);
+
+    lightbox.addEventListener('click', function(e) {
+      if (e.target === lightbox || e.target.classList.contains('lightbox-content')) {
+        closeLightbox();
+      }
+    });
+
+    document.addEventListener('keydown', function(e) {
+      if (!lightbox.classList.contains('is-open')) return;
+      if (e.key === 'Escape') closeLightbox();
+      if (e.key === 'ArrowRight') next();
+      if (e.key === 'ArrowLeft') prev();
+    });
+  })();
+</script>
