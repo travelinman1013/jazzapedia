@@ -456,8 +456,58 @@ async function main() {
     }
   }
 
+  // Update lookup tables (genres, instruments, roles)
+  console.log('\n\nUpdating lookup tables...');
+  const lookupSQL = `
+DELETE FROM genres;
+INSERT INTO genres (name, slug, artist_count)
+SELECT
+  json_each.value as name,
+  LOWER(REPLACE(REPLACE(TRIM(json_each.value), ' ', '-'), '''', '')) as slug,
+  COUNT(*) as artist_count
+FROM artists, json_each(artists.genres)
+WHERE json_each.value IS NOT NULL AND json_each.value != ''
+GROUP BY LOWER(TRIM(json_each.value))
+ORDER BY artist_count DESC;
+
+DELETE FROM instruments;
+INSERT INTO instruments (name, slug, artist_count)
+SELECT
+  json_each.value as name,
+  LOWER(REPLACE(REPLACE(TRIM(json_each.value), ' ', '-'), '''', '')) as slug,
+  COUNT(*) as artist_count
+FROM artists, json_each(artists.instruments)
+WHERE json_each.value IS NOT NULL AND json_each.value != ''
+GROUP BY LOWER(TRIM(json_each.value))
+ORDER BY artist_count DESC;
+
+DELETE FROM roles;
+INSERT INTO roles (name, slug, artist_count)
+SELECT
+  json_each.value as name,
+  LOWER(REPLACE(REPLACE(TRIM(json_each.value), ' ', '-'), '''', '')) as slug,
+  COUNT(*) as artist_count
+FROM artists, json_each(artists.roles)
+WHERE json_each.value IS NOT NULL AND json_each.value != ''
+GROUP BY LOWER(TRIM(json_each.value))
+ORDER BY artist_count DESC;
+`.trim();
+
+  const lookupFile = path.join(CONFIG.outputDir, 'lookup_tables.sql');
+  fs.writeFileSync(lookupFile, lookupSQL);
+
+  try {
+    execSync(
+      `npx wrangler d1 execute ${CONFIG.databaseName} ${target} --file="${path.resolve(lookupFile)}"`,
+      { stdio: 'pipe' }
+    );
+    console.log('  Done');
+  } catch (err: any) {
+    console.error('  Lookup tables update failed:', err.message);
+  }
+
   // Rebuild FTS index
-  console.log('\n\nRebuilding FTS index...');
+  console.log('\nRebuilding FTS index...');
   try {
     execSync(
       `npx wrangler d1 execute ${CONFIG.databaseName} ${target} --command="INSERT INTO search_fts(search_fts) VALUES ('rebuild');"`,
