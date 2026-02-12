@@ -31,26 +31,31 @@ const photos = Array.from({ length: 14 }, (_, i) => ({
       </div>
     </header>
 
-    <div class="story-text">
-      <p>
-        My name is Maxwell. I spent six years in New Orleans (2019–2025) and fell in love with
-        the city, its music, and its culture. I spent my nights chasing the thriving live music
-        scene and eventually started photographing as much of it as I could.
-      </p>
-      <p>
-        Between the sheer intertwinedness of the music and the culture, the knowledge gurus I
-        was lucky enough to be surrounded by, and above all, the DJs on
-        <a href="https://www.wwoz.org" class="wwoz-link">WWOZ 90.7FM</a>, I absorbed more
-        musical history than I ever thought possible.
-      </p>
-      <p>
-        WWOZ is entirely volunteer-run, community-funded, and is the world's (if not the
-        universe's) premier Jazz &amp; Heritage station. I love it so much that I get genuine
-        FOMO when I'm not listening.
-      </p>
-      <p class="story-conclusion">
-        This site is my solution to never missing a beat.
-      </p>
+    <div class="story-layout">
+      <div class="story-text">
+        <p>
+          My name is Maxwell. I spent six years in New Orleans (2019–2025) and fell in love with
+          the city, its music, and its culture. I spent my nights chasing the thriving live music
+          scene and eventually started photographing as much of it as I could.
+        </p>
+        <p>
+          Between the sheer intertwinedness of the music and the culture, the knowledge gurus I
+          was lucky enough to be surrounded by, and above all, the DJs on
+          <a href="https://www.wwoz.org" class="wwoz-link">WWOZ 90.7FM</a>, I absorbed more
+          musical history than I ever thought possible.
+        </p>
+        <p>
+          WWOZ is entirely volunteer-run, community-funded, and is the world's (if not the
+          universe's) premier Jazz &amp; Heritage station. I love it so much that I get genuine
+          FOMO when I'm not listening.
+        </p>
+        <p class="story-conclusion">
+          This site is my solution to never missing a beat.
+        </p>
+      </div>
+      <div class="story-profile">
+        <img src="/about/profile.jpg" alt="Maxwell and Bobby" class="profile-photo" />
+      </div>
     </div>
   </section>
 
@@ -224,9 +229,43 @@ const photos = Array.from({ length: 14 }, (_, i) => ({
   }
 
   /* ============================================
+     Story Layout (text + profile photo)
+     ============================================ */
+  .story-layout {
+    display: flex;
+    gap: 2.5rem;
+    align-items: flex-start;
+  }
+
+  @media (max-width: 768px) {
+    .story-layout {
+      flex-direction: column-reverse;
+      align-items: center;
+    }
+  }
+
+  .story-profile {
+    flex-shrink: 0;
+  }
+
+  .profile-photo {
+    width: 280px;
+    border-radius: var(--radius-lg);
+    border: 2px solid var(--jazz-brass);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  @media (max-width: 768px) {
+    .profile-photo {
+      width: 240px;
+    }
+  }
+
+  /* ============================================
      Story Text
      ============================================ */
   .story-text {
+    flex: 1;
     max-width: 42rem;
     font-size: 1.0625rem;
     line-height: 1.75;
