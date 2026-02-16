@@ -1,7 +1,7 @@
 -- WWOZ Database Export
--- Generated: 2026-02-16T07:06:37.457Z
+-- Generated: 2026-02-16T10:30:07.682Z
 -- Mode: INCREMENTAL
--- Last export: 2026-02-16 07:05:52
+-- Last export: 2026-02-16 07:06:37
 -- Days: 4
 -- Tracks: 476
 
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":126,"successfullyFound":87,"notFound":39,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-14 07:35:29',
-  '2026-02-16 07:06:36'
+  '2026-02-16 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":161,"successfullyFound":88,"notFound":73,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-15 07:56:06',
-  '2026-02-16 07:06:36'
+  '2026-02-16 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":157,"successfullyFound":107,"notFound":50,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-16 07:05:51',
-  '2026-02-16 07:06:36'
+  '2026-02-16 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -57,7 +57,7 @@ VALUES (
   '{"totalTracks":3,"successfullyFound":3,"notFound":0,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-16 07:05:51',
-  '2026-02-16 07:06:36'
+  '2026-02-16 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
