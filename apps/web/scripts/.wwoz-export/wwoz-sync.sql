@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-02-17T07:23:12.735Z
+-- Generated: 2026-02-17T10:30:07.357Z
 -- Mode: INCREMENTAL
--- Last export: 2026-02-17 07:22:33
--- Days: 3
--- Tracks: 474
+-- Last export: 2026-02-17 07:23:12
+-- Days: 4
+-- Tracks: 479
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":161,"successfullyFound":88,"notFound":73,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-15 07:56:06',
-  '2026-02-17 07:23:11'
+  '2026-02-17 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":157,"successfullyFound":107,"notFound":50,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-16 07:05:51',
-  '2026-02-17 07:23:11'
+  '2026-02-17 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,22 @@ VALUES (
   '{"totalTracks":137,"successfullyFound":84,"notFound":53,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-16 07:05:51',
-  '2026-02-17 07:23:11'
+  '2026-02-17 10:30:06'
+)
+ON CONFLICT(date) DO UPDATE SET
+  playlist_url = COALESCE(excluded.playlist_url, playlist_url),
+  stats_json = excluded.stats_json,
+  source_url = COALESCE(excluded.source_url, source_url),
+  updated_at = excluded.updated_at;
+
+INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
+VALUES (
+  '2026-02-17',
+  NULL,
+  '{"totalTracks":5,"successfullyFound":3,"notFound":2,"lowConfidence":0,"duplicates":0}',
+  'https://wwoz.org/programs/playlists',
+  '2026-02-17 10:30:06',
+  '2026-02-17 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -7638,4 +7653,86 @@ VALUES (
   'found',
   100,
   '2026-02-17 07:22:32'
+);
+
+DELETE FROM wwoz_tracks WHERE date = '2026-02-17';
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-17',
+  '03:29',
+  'Golden Eagles',
+  'SHOO FLY',
+  'Lightning and Thunder',
+  '',
+  'Overnight Music - Tuesday',
+  NULL,
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-17 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-17',
+  '03:32',
+  'Indians of the Nation',
+  'Mardi Gras Day',
+  'United We Stand/Divided We Fall',
+  '',
+  'Overnight Music - Tuesday',
+  NULL,
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-17 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-17',
+  '03:47',
+  'The Wild Magnolias',
+  'Smoke My Peace Pipe (Smoke It Right)',
+  'The Wild Magnolias',
+  'cajun, zydeco, brass band',
+  'Overnight Music - Tuesday',
+  NULL,
+  'https://open.spotify.com/track/1aQNUVzM5jxI9inIP4wtBQ',
+  'found',
+  100,
+  '2026-02-17 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-17',
+  '03:47',
+  'The Wild Magnolias',
+  'Two Way Pak e Way',
+  'OUTTAKES AND LIVE 1973-74',
+  'cajun, zydeco, brass band',
+  'Overnight Music - Tuesday',
+  NULL,
+  'https://open.spotify.com/track/2IBkpOi1Oou2zSXWbkJmge',
+  'found',
+  98,
+  '2026-02-17 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-17',
+  '03:53',
+  'dave bartholomew',
+  'carnival day',
+  'THE 50S SINGLES',
+  'cajun',
+  'Overnight Music - Tuesday',
+  NULL,
+  'https://open.spotify.com/track/6JHF4NG2PeyzL7AFa4VOID',
+  'found',
+  100,
+  '2026-02-17 10:30:06'
 );
