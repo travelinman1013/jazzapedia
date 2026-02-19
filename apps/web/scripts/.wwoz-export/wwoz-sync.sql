@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-02-19T08:00:35.904Z
+-- Generated: 2026-02-19T10:30:07.319Z
 -- Mode: INCREMENTAL
--- Last export: 2026-02-19 07:59:40
+-- Last export: 2026-02-19 08:00:35
 -- Days: 4
--- Tracks: 392
+-- Tracks: 398
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":137,"successfullyFound":84,"notFound":53,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-16 07:05:51',
-  '2026-02-19 08:00:34'
+  '2026-02-19 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":96,"successfullyFound":56,"notFound":40,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-17 10:30:06',
-  '2026-02-19 08:00:34'
+  '2026-02-19 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":137,"successfullyFound":89,"notFound":48,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-19 07:59:39',
-  '2026-02-19 08:00:34'
+  '2026-02-19 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-02-19',
   NULL,
-  '{"totalTracks":16,"successfullyFound":6,"notFound":10,"lowConfidence":0,"duplicates":0}',
+  '{"totalTracks":22,"successfullyFound":10,"notFound":12,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-19 07:59:39',
-  '2026-02-19 08:00:34'
+  '2026-02-19 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -6343,4 +6343,100 @@ VALUES (
   'not_found',
   NULL,
   '2026-02-19 07:59:39'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-19',
+  '02:04',
+  'Robert Glasper Experiment',
+  'Dillalude #2',
+  'Black Radio Recovered The Remix EP',
+  'neo soul, jazz rap',
+  'Overnight Music - Thursday',
+  NULL,
+  'https://open.spotify.com/track/28nRXN4A40t56B7FjaG0NB',
+  'found',
+  79.6,
+  '2026-02-19 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-19',
+  '02:05',
+  'Nine Yards',
+  'Always Find A Way (ft.J Dilla)',
+  NULL,
+  '',
+  'Overnight Music - Thursday',
+  NULL,
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-19 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-19',
+  '02:06',
+  'Slum Village',
+  'Look Of Love (remix)',
+  NULL,
+  'jazz rap',
+  'Overnight Music - Thursday',
+  NULL,
+  'https://open.spotify.com/track/5LOGLuUInD0YuOn9wdkhYV',
+  'found',
+  100,
+  '2026-02-19 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-19',
+  '02:07',
+  '9th Wonder',
+  'ONe More (ft. Eli Tha Don)',
+  'Zion XI',
+  '',
+  'Overnight Music - Thursday',
+  NULL,
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-19 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-19',
+  '02:07',
+  'SALIMATA',
+  'Jackpot & Foil - A COLORS SHOW',
+  'Jackpot & Foil - A COLORS SHOW - Single',
+  'experimental hip hop',
+  'Overnight Music - Thursday',
+  NULL,
+  'https://open.spotify.com/track/3fMtAAd4ZIWxHIv4ahEdHt',
+  'found',
+  71.8,
+  '2026-02-19 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-19',
+  '02:08',
+  'Nubiyan Twist',
+  'Red Herring',
+  NULL,
+  'indie jazz, jazz rap, nu jazz',
+  'Overnight Music - Thursday',
+  NULL,
+  'https://open.spotify.com/track/3IpC0acr0nUhVtyud4Obj5',
+  'found',
+  74.8,
+  '2026-02-19 10:30:06'
 );
