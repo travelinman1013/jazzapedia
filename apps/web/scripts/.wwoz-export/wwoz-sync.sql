@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-02-21T07:40:00.793Z
+-- Generated: 2026-02-21T10:30:07.546Z
 -- Mode: INCREMENTAL
--- Last export: 2026-02-21 07:38:59
--- Days: 3
--- Tracks: 534
+-- Last export: 2026-02-21 07:40:00
+-- Days: 4
+-- Tracks: 535
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":137,"successfullyFound":89,"notFound":48,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-19 07:59:39',
-  '2026-02-21 07:39:59'
+  '2026-02-21 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":208,"successfullyFound":150,"notFound":58,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-19 07:59:39',
-  '2026-02-21 07:39:59'
+  '2026-02-21 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,22 @@ VALUES (
   '{"totalTracks":151,"successfullyFound":108,"notFound":43,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-20 07:25:22',
-  '2026-02-21 07:39:59'
+  '2026-02-21 10:30:06'
+)
+ON CONFLICT(date) DO UPDATE SET
+  playlist_url = COALESCE(excluded.playlist_url, playlist_url),
+  stats_json = excluded.stats_json,
+  source_url = COALESCE(excluded.source_url, source_url),
+  updated_at = excluded.updated_at;
+
+INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
+VALUES (
+  '2026-02-21',
+  NULL,
+  '{"totalTracks":1,"successfullyFound":1,"notFound":0,"lowConfidence":0,"duplicates":0}',
+  'https://wwoz.org/programs/playlists',
+  '2026-02-21 10:30:06',
+  '2026-02-21 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -8598,4 +8613,22 @@ VALUES (
   'found',
   100,
   '2026-02-21 07:38:58'
+);
+
+DELETE FROM wwoz_tracks WHERE date = '2026-02-21';
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-21',
+  '02:28',
+  'Art Neville',
+  'What`s Going On',
+  'His Specialty Recordings',
+  'blues',
+  'Overnight Music - Saturday',
+  NULL,
+  'https://open.spotify.com/track/4N0wDSschgunusYDgJmKhI',
+  'found',
+  100,
+  '2026-02-21 10:30:06'
 );
