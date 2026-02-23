@@ -1,24 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-02-22T10:30:07.523Z
+-- Generated: 2026-02-23T09:11:00.395Z
 -- Mode: INCREMENTAL
--- Last export: 2026-02-22 07:51:21
--- Days: 3
--- Tracks: 509
-
-INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
-VALUES (
-  '2026-02-19',
-  'https://open.spotify.com/playlist/0pblqZvRwtenoG161IRWwV',
-  '{"totalTracks":208,"successfullyFound":150,"notFound":58,"lowConfidence":0,"duplicates":0}',
-  'https://wwoz.org/programs/playlists',
-  '2026-02-19 07:59:39',
-  '2026-02-22 10:30:06'
-)
-ON CONFLICT(date) DO UPDATE SET
-  playlist_url = COALESCE(excluded.playlist_url, playlist_url),
-  stats_json = excluded.stats_json,
-  source_url = COALESCE(excluded.source_url, source_url),
-  updated_at = excluded.updated_at;
+-- Last export: 2026-02-22 10:30:07
+-- Days: 4
+-- Tracks: 455
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -27,7 +12,7 @@ VALUES (
   '{"totalTracks":151,"successfullyFound":108,"notFound":43,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-20 07:25:22',
-  '2026-02-22 10:30:06'
+  '2026-02-23 09:10:59'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +27,7 @@ VALUES (
   '{"totalTracks":118,"successfullyFound":54,"notFound":64,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-21 10:30:06',
-  '2026-02-22 10:30:06'
+  '2026-02-23 09:10:59'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -50,3847 +35,35 @@ ON CONFLICT(date) DO UPDATE SET
   source_url = COALESCE(excluded.source_url, source_url),
   updated_at = excluded.updated_at;
 
-DELETE FROM wwoz_tracks WHERE date = '2026-02-19';
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '00:23',
-  'J Dilla',
-  'Crushin'' (Yeeeeaah!)',
-  'Ruff Draft',
-  'plunderphonics, alternative hip hop, jazz rap',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  'https://open.spotify.com/track/2hhDTkFoGCLAPEy6TlpkBA',
-  'found',
-  100,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '00:28',
-  'Black Thought',
-  'Cold Steel Freestyle',
-  'Exclusive! J. PERIOD & Black Thought Present The Live Mixtape...',
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '00:30',
-  'Jay Electronica',
-  'So What You Sayin''',
-  'StyleWarsEP',
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '00:47',
-  'Karriem Riggins',
-  'Long Live J Dilla feat. Westside Gunn & Busta Rhymes',
-  'Long Live J Dilla (SINGLE)',
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '00:49',
-  'Pete Rock',
-  'Niggaz Know feat. J Dilla',
-  'Soul Survivor II',
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '00:52',
-  'Lex Machina',
-  'Textures (Prayer) feat. Nesby Phips',
-  'Textures (Prayer) SINGLE',
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '00:53',
-  'Charm Taylor',
-  'Shine feat. MoRuf',
-  'Shine (SINGLE)',
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '01:02',
-  'ET DEAUX',
-  'SEALAB 2024 feat. Knox Ketchum & Houses At Nigh',
-  'Adult Swimming II',
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '01:05',
-  'Knox Ketchum',
-  'Operator',
-  'Operator (SINGLE)',
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  'https://open.spotify.com/track/18A0p7kaYPQcLruiXPCU5g',
-  'found',
-  100,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '01:06',
-  'Knox Ketchum',
-  'Trending Topic',
-  'Knox Machina',
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  'https://open.spotify.com/track/3DuN6Prk2YpfslmMbA0SOC',
-  'found',
-  100,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '01:23',
-  'Aisha Raquel',
-  'Astral Project',
-  NULL,
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  'https://open.spotify.com/track/5cTlu8YS4kEiOFUB9Ep0MJ',
-  'found',
-  100,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '01:23',
-  'ET Deaux',
-  'FTR (feat. Knox Ketchum, BJE'')',
-  'Adult Swimming III',
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '01:23',
-  'Good News Bas',
-  'Get Paid feat. Mac Infinity',
-  'Get Paid (SINGLE)',
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '01:25',
-  'SkiiWii',
-  'Ni9',
-  NULL,
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  'https://open.spotify.com/track/1eYWUENU1BEntiWg6nLFZF',
-  'found',
-  100,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '01:27',
-  'Vega Heartbreak & Indiana Rome',
-  'Flowers',
-  NULL,
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  'https://open.spotify.com/track/5UrIYCPzWkWCp6qRwI7QJZ',
-  'found',
-  100,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '01:29',
-  'Apbeatz, Concepts',
-  'Woes ( feat. Apollo Black)',
-  NULL,
-  '',
-  'Draw Fo',
-  'Slangston Hughes & Thelonious Kryptonite',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 07:59:39'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '02:04',
-  'Robert Glasper Experiment',
-  'Dillalude #2',
-  'Black Radio Recovered The Remix EP',
-  'neo soul, jazz rap',
-  'Overnight Music - Thursday',
-  NULL,
-  'https://open.spotify.com/track/28nRXN4A40t56B7FjaG0NB',
-  'found',
-  79.6,
-  '2026-02-19 10:30:06'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '02:05',
-  'Nine Yards',
-  'Always Find A Way (ft.J Dilla)',
-  NULL,
-  '',
-  'Overnight Music - Thursday',
-  NULL,
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 10:30:06'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '02:06',
-  'Slum Village',
-  'Look Of Love (remix)',
-  NULL,
-  'jazz rap',
-  'Overnight Music - Thursday',
-  NULL,
-  'https://open.spotify.com/track/5LOGLuUInD0YuOn9wdkhYV',
-  'found',
-  100,
-  '2026-02-19 10:30:06'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '02:07',
-  '9th Wonder',
-  'ONe More (ft. Eli Tha Don)',
-  'Zion XI',
-  '',
-  'Overnight Music - Thursday',
-  NULL,
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-19 10:30:06'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '02:07',
-  'SALIMATA',
-  'Jackpot & Foil - A COLORS SHOW',
-  'Jackpot & Foil - A COLORS SHOW - Single',
-  'experimental hip hop',
-  'Overnight Music - Thursday',
-  NULL,
-  'https://open.spotify.com/track/3fMtAAd4ZIWxHIv4ahEdHt',
-  'found',
-  71.8,
-  '2026-02-19 10:30:06'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '02:08',
-  'Nubiyan Twist',
-  'Red Herring',
-  NULL,
-  'indie jazz, jazz rap, nu jazz',
-  'Overnight Music - Thursday',
-  NULL,
-  'https://open.spotify.com/track/3IpC0acr0nUhVtyud4Obj5',
-  'found',
-  74.8,
-  '2026-02-19 10:30:06'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '04:31',
-  'Allen Toussaint',
-  'Electricity',
-  'The Complete Warner Bros. Record',
-  'cajun',
-  'Overnight Music - Thursday',
-  NULL,
-  'https://open.spotify.com/track/3CFOzOwsYW0U8xnvVsAwVR',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '06:01',
-  'Mike Dillon',
-  'Waltz While You Sleep',
-  'Mike Dillon',
-  'jam band, cajun',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/2NKjAkLZQq2ysa4Oq427kH',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '06:04',
-  'redrawblak',
-  'In The West',
-  'redrawblak',
-  '',
-  'The Morning Set',
-  'Scott Borne',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '06:15',
-  'Alice Coltrane',
-  'Shiva-Loka',
-  'The Carnegie Hall Concert',
-  'free jazz, jazz, experimental jazz',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/79Z9rj7XAOHpsQ4Ep7Dq6s',
-  'found',
-  87.7,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '06:33',
-  'Jeff Parker',
-  'Freakadelic',
-  'The Way Out Of Easy',
-  'bluegrass, christian bluegrass, experimental jazz',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/32tkzMaROMJN9Adl2Wu86V',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '06:57',
-  'Sam Gendel, Sam Wilkes',
-  'GBTC',
-  'The Doober',
-  'ambient jazz, nu jazz, experimental jazz',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/65GFsgPvRGPJUpShEQ1v5s',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '07:08',
-  'Duke Ellington',
-  'Blue Pepper',
-  'Far East Suite',
-  'jazz, big band, swing music',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/506xNpMVd0yiRu4huAFNtM',
-  'found',
-  74.5,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '07:09',
-  'Brendan Buckley/ Earl Harvin',
-  'Brendan + Earl',
-  'DrummerPlusDrummer Vol. 3',
-  'jazz fusion',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/1rM7QEObFs1BpRE81GmSJM',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '07:12',
-  'Karl Hector and the Malcouns',
-  'Dege Dub',
-  'Ka Rica-TYar',
-  '',
-  'The Morning Set',
-  'Scott Borne',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '07:16',
-  'Azymuth',
-  'Unknown Jam',
-  'Demos (`1973-1975)',
-  'brazilian jazz, jazz funk, jazz fusion',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/5TTnesU4FqO8b377ZENaqM',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '07:18',
-  'Salah Ragab & The Cairo Jazz Band',
-  'Neveen',
-  'Egyptian Jazz',
-  'ethiopian jazz, free jazz',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/1rU5TrPEoGHRjopPaefAb9',
-  'found',
-  98,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '07:28',
-  'Ahmed Malek',
-  'Maya',
-  'Habibi',
-  'ethiopian jazz',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/2HIMlOV55G5S11mWcMyQ23',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '07:32',
-  'Mike Reed',
-  'Rahsaan In The Serengetti',
-  'The Separtist Party',
-  '',
-  'The Morning Set',
-  'Scott Borne',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '07:36',
-  'Ryo Fukui',
-  'Early Summer',
-  'Scenery Of Japaneese Jazz',
-  'jazz, jazz fusion, bebop',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/0MR3s9hsGHPuKmdQjwZUvb',
-  'found',
-  98,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '07:47',
-  'Charles Earland',
-  'Morgan',
-  'Kharma',
-  'jazz funk, soul jazz, hard bop',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/4XWFne46R9jA9du1a8vwz0',
-  'found',
-  77.9,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '08:03',
-  'Alan Evans/ Neal Evans/ Eric Krasno/ Karl Denson',
-  'Nubian Lady',
-  'Spark!',
-  '',
-  'The Morning Set',
-  'Scott Borne',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '08:18',
-  'BadBadNotGood',
-  'Juan''s World',
-  'Mid Spiral',
-  '',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/0utrPWRDKtuavrLD2HKcGi',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '08:19',
-  'Jahari Massamba Unit',
-  'Massamba Afundance',
-  'Massamba Afundance',
-  'nu jazz, experimental hip hop, alternative hip hop',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/3NRY5U5HwXk1xP43Hd5cJj',
-  'found',
-  73.7,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '08:21',
-  'Dee Dee Bridgewater',
-  'Compared to What',
-  'Red Earth--A Malian Journey',
-  'vocal jazz, french jazz, jazz',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/1xtmkrd0PG8BrdQjJz21u6',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '08:27',
-  'Eddie Henderson',
-  'Dr. Mganga',
-  'Heritage',
-  'jazz funk, jazz fusion, jazz',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/13mxG4lI2FguVdBkPbmpUr',
-  'found',
-  98,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '08:36',
-  'Galt MacDermot',
-  'Coffee Cold',
-  'Shapes of Rhythm/Woman Is Sweeter',
-  '',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/6MN6yRVriszuyAVlyF8ndB',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '08:40',
-  'Dave Alexander',
-  'That Cold Feeling',
-  'The Dirt on The Ground',
-  '',
-  'The Morning Set',
-  'Scott Borne',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '08:45',
-  'Phil Ranelin`',
-  'How Do We End All Of This Madness',
-  'A Message From The Tribe',
-  'free jazz, jazz funk, soul jazz',
-  'The Morning Set',
-  'Scott Borne',
-  'https://open.spotify.com/track/7EvgVkW9KnXydA4gdx7x3w',
-  'found',
-  72,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:04',
-  'Kermit Ruffins',
-  'Good Morning New Orleans',
-  NULL,
-  'brass band, cajun',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/09LHgBX7qtVQtFsZufi6vx',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:07',
-  'Kevin Louis and The Palm Court Jazz Band',
-  'Tin Roof Blues',
-  'Last Chance To Dance',
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/68fj2As1gWz88c5GgvwAQ7',
-  'found',
-  98,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:15',
-  'Classic Jazz Trio',
-  'Si Tu Vois Ma Mere',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/6U8DLPukYAmyL2OZXhe9TQ',
-  'found',
-  74.7,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:20',
-  'Ernie Elly',
-  'Oh, Lady Be Good',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:25',
-  'Mari Watanabe',
-  'Stompin'' At The Savoy',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:31',
-  'Sidney Bechet',
-  'Limehouse Blues',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:33',
-  'Mark Braud',
-  'Alabamy Bound',
-  'Hot Sausage Rag',
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:38',
-  'Royal Roses',
-  'Blue Horizon',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:43',
-  'Louis Armstrong',
-  'Wrap Your Troubles In Dreams',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:47',
-  'Lucien Barbarin & he Palm Court Swingsters',
-  'Blues My Naughty Sweetie Gives Me',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:51',
-  'Frank Oxley''s Louisiana Moonshine Band',
-  'Pretty Baby',
-  NULL,
-  'ragtime',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/4y3LHFnK4pzC2S24Qh1mBJ',
-  'found',
-  75.3,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '09:56',
-  'Lionel Ferbos',
-  'Five Minutes More',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:01',
-  'Louis Armstrong',
-  'Jelly Roll Blues',
-  NULL,
-  'jazz, swing music, vocal jazz',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/0EbfKbfwlptVJYuSB0tu6d',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:03',
-  'Wilbur De Paris',
-  'Shreveport Stomp',
-  NULL,
-  'ragtime, swing music',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:06',
-  'Dr. Michael White',
-  'Martinique',
-  NULL,
-  'ragtime, brass band, cajun',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/0HOrVYvCuYaXPcHudzrrlX',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:16',
-  'Colossus Brass Band',
-  'By And By',
-  'Sing On',
-  'brass band',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/0REXDReqM7YDt8DYqHwxee',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:16',
-  'Topsy Chapman, Koen De Cauter',
-  'Nobody Knows When You''re Down And Out',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/28IgWfIWPUtgQwcDM4oREx',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:19',
-  'Calvin Johnson, Jr.',
-  'Hotter Than That',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/77axVyIE9mPSmvrRoumGuM',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:26',
-  'Tuba Fats',
-  'Didn''t He Ramble',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:26',
-  'Willie Humphrey',
-  'All Of Me',
-  NULL,
-  'brass band, ragtime',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/0b3h3ZdOrxEcImaqy9M3Lz',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:30',
-  'Olympia Brass Band',
-  'Back Home In Indiana',
-  NULL,
-  'brass band, cajun, zydeco',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/69yw2D1NXCgL45h3fZMzXE',
-  'found',
-  79.2,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:36',
-  'DeDe Pierce and His New orleans Stompers',
-  'Coquette',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:40',
-  'Basin Street Six',
-  'I''m Going Home',
-  NULL,
-  'ragtime',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/395dfUegkWdLgxhfcHyY3B',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:42',
-  'Louis Nelson',
-  'Muskrat Ramble',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  'https://open.spotify.com/track/66idwbXeb1WeglnGpmPTIq',
-  'found',
-  71.3,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:47',
-  'Magnolia Jazz Band w/ Lillian Boutte',
-  'Down By The River',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:56',
-  'Allen Toussaint',
-  'On The Sunny Side Of The Street',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '10:56',
-  'Preservation Hall Jazz Band',
-  'Lady Be Good',
-  NULL,
-  '',
-  'Traditional Jazz',
-  'Sally Young',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:05',
-  'james booker',
-  'on the sunny side of the street',
-  NULL,
-  'boogie-woogie, cajun, ragtime',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/1J7N2A9TacvffOGYY3AGA5',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:06',
-  'james booker',
-  'keep on gwine',
-  NULL,
-  'boogie-woogie, cajun, ragtime',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/727aecJcYKGOXDmlrGtA5n',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:10',
-  'james booker',
-  'people get ready',
-  NULL,
-  'boogie-woogie, cajun, ragtime',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/0uljHhGl4lbKNGxtjyvhim',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:13',
-  'Craig Klein',
-  'I`ll Fly Away',
-  'New Orleans Trombonism',
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/1zpE9lAV9ktZsvXXoEgHXR',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:13',
-  'Preservation Hall Jazz Band',
-  'I`ll Fly Away',
-  'St. Peter & 57th St',
-  'bluegrass, newgrass, christian bluegrass',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/5ynHigy4SOle0alSQRDp9y',
-  'found',
-  78.6,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:19',
-  'james booker',
-  'angel eyes',
-  NULL,
-  'boogie-woogie, cajun, ragtime',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/2Y27YH2oghEdi9gF4gzfJ6',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:20',
-  'james booker',
-  'lonely avenue',
-  NULL,
-  'boogie-woogie, cajun, ragtime',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/1CiowmuO4yVXLgO7Yq2htI',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:28',
-  'james booker',
-  'three keys/amen',
-  'classified',
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:33',
-  'Zion Harmonizers',
-  'I`ll Fly Away',
-  'The Best of New Orleans Gospel,',
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:40',
-  'Irma Thomas',
-  'Ruler of My Heart',
-  'Time Is On My Side',
-  'classic soul',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:42',
-  'sarah quintana',
-  'everybody''s on the mend now',
-  NULL,
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:42',
-  'sarah quintana',
-  'new orleans',
-  NULL,
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:43',
-  'Irma Thomas',
-  'I''ve Been Loving You',
-  'Something Good: The Muscle Shoal',
-  'classic soul',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/7zZq7VSs4uBJ9ybDBXH0Ec',
-  'found',
-  91,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:43',
-  'harry connick, jr.',
-  'new orleans',
-  NULL,
-  'big band, christmas, vocal jazz',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/2wO37xCW3vzgVgEH85BmXm',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:48',
-  'HARRY CONNICK, JR.',
-  'THE FIRST TIME EVER I SAW YOUR FACE',
-  NULL,
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:53',
-  'PERCY SLEDGE',
-  'COME SOFTLY TO ME',
-  NULL,
-  'motown, classic soul, soul',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/1hpO42JggRwEeF0yq96Y4E',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:56',
-  'PERCY SLEDGE',
-  'WHAT AM I LIVING FOR?',
-  NULL,
-  'motown, classic soul, soul',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/3yjuIBV7rnHvoPlMRjgis1',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '11:58',
-  'PERCY SLEDGE',
-  'THAT''S HOW STRONG MY LOVE IS',
-  NULL,
-  'motown, classic soul, soul',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/75sJMuYaqm7HCrMQF1qXvb',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '12:01',
-  'PERCY SLEDGE',
-  'LOVE ME TENDER',
-  NULL,
-  'motown, classic soul, soul',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/5fK4wYEwuDxwnq4FQgpMis',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '12:04',
-  'JOHNNY ADAMS',
-  'LOVE ME TENDER',
-  NULL,
-  'soul blues, blues',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/1ZRmqtq8Sogctz1gpZCB47',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '12:08',
-  'JOHNNY ADAMS',
-  'THE TENDER SIDE OF ME',
-  NULL,
-  'soul blues, blues',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/0GiBeoUoH6FlmNcQACIZHy',
-  'found',
-  86.5,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '12:26',
-  'NOLATET',
-  'SWITCHBACK',
-  'SOMETHIN'' TO RELAX WITH',
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '12:47',
-  'Irma Thomas',
-  'Love is the Foundation',
-  'Love is the Foundation',
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '12:55',
-  'Irma Thomas',
-  'I Need Your Love So Bad',
-  'Time Is On My Side',
-  'classic soul',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/2ykaQGOB0YE3oF4S5J4E6Q',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '13:03',
-  'NOLATET',
-  'BLACK PENCIL',
-  NULL,
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '13:05',
-  'NOLATET',
-  'SOMETHIN'' TO RELAX WITH',
-  NULL,
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '13:06',
-  'Irma Thomas',
-  'Medley Coming From Behind (Monol',
-  'A Woman`s Viewpoint The Essentia',
-  'classic soul',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/7lUEHNxrfYU2WtzIMzPksW',
-  'found',
-  78.1,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '13:19',
-  'Irma Thomas',
-  'Good To Me',
-  'Something Good: The Muscle Shoal',
-  'classic soul',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/5DAWBCuEUbhJQgqp424IU9',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '13:23',
-  'LAZY LESTER',
-  'I DONE GOT OVER IT',
-  NULL,
-  'blues, classic blues, modern blues',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/77ji4UVW8Y1q1xrCS1A0sy',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '13:24',
-  'GUITAR SLIM',
-  'THE THINGS I USED TO DO',
-  NULL,
-  'classic blues, country blues, blues',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/0Lfswb6Q4EfG1Rzlunmj3v',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '13:29',
-  'BOBBY MARCHAN',
-  'THE THINGS I USED TO DO PARTS 1 & 2',
-  NULL,
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '13:34',
-  'BOBBY MARCHAN',
-  'IT''S WRITTEN ALL OVER YOUR FACE PARTS 1 & 2',
-  NULL,
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '13:45',
-  'BOBBY MARCHAN',
-  'SNOOPIN'' AND ACCUSIN''',
-  NULL,
-  'northern soul, doo-wop, motown',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/0vdlkJgzpMjTFBNKltCPjj',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '13:45',
-  'BOBBY MARCHAN',
-  'THERE''S SOMETHING ON YOUR MIND? PARTS 1 & 2',
-  NULL,
-  '',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '13:47',
-  'THE TREME BRASS BAND',
-  'FOOD STAMP BLUES',
-  NULL,
-  'brass band, cajun, zydeco',
-  'New Orleans Music Show',
-  'Michael Dominici',
-  'https://open.spotify.com/track/5Kp97BdhHY8CFC01OmAB89',
-  'found',
-  86.1,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:00',
-  'Dr. John',
-  'Eleggua',
-  'Locked Down',
-  'cajun, zydeco',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/5zbKKnn0Ar6EMkP9q7nzd9',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:03',
-  'Betty Wright',
-  'Clean Up Woman',
-  'The Platinum Collection',
-  'classic soul, soul',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:06',
-  'BILL WITHERS',
-  'KISSING MY LOVE',
-  'STILL BILL',
-  'soul',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:09',
-  'Johnny Guitar Watson',
-  'Ain`t That A Bitch',
-  'The Best Of The Funk Years',
-  'blues',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/5tcrRMV4ibCLHx8s2yp2O3',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:14',
-  'STEVIE WONDER',
-  'THAT GIRL',
-  'ORIGINAL MUSIQUARIUM',
-  'motown, classic soul, soul',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/5oNi6zJgIcGh8pv3XlmZb3',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:19',
-  'Bobby Blue Bland',
-  'Members Only',
-  'Members Only',
-  'blues, classic blues, soul blues',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/4wvKPOCiOlZh6xwwympC8c',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:23',
-  'L.T.D.',
-  '(EVERY TIME I TURM AROUND) BACK IN LOVE AGAIN',
-  'L.T.D. GREARTEST HITS',
-  '',
-  'Blues',
-  'DJ Giant',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:28',
-  'Earth, Wind And Fire',
-  'On Your Face',
-  'Spirit',
-  'funk, disco',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/1364cfVtDUV74zIeMl6ydQ',
-  'found',
-  89.5,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:33',
-  'SHIRLEY BROWN',
-  'WOMAN TO WOMAN',
-  'WOMAN TO WOMAN',
-  'classic soul, soul, blues',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:36',
-  'Marvin Gaye',
-  'I Want You (Vocal)',
-  'Great Songs and Performances [19',
-  '',
-  'Blues',
-  'DJ Giant',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:41',
-  'october london',
-  'make me wanna',
-  'the rebirth of marvin',
-  'retro soul, neo soul, contemporary r&b',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/7aTcdBz0stpZqhqbnDCXBI',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:44',
-  'Freddie King',
-  'Big Legged Woman',
-  'The Shelter Records Years',
-  'blues, classic blues, blues rock',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:48',
-  'THE STAPLE SINGERS',
-  'I''ll Take You There/Fire',
-  'THE BEST OF THE STAPLE SINGERS',
-  '',
-  'Blues',
-  'DJ Giant',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:52',
-  'Dr. John',
-  'Food For Thot',
-  'The Best Of The Parlophone Years',
-  'cajun, zydeco',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/0pS0ArJxesOWbEbRBDKKBh',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '14:57',
-  'MAZE & FRAKIE BEVERLY',
-  'GOLDEN TIME OF DAY',
-  'THE GREATEST HITS: LIFELINES, VOL. 1',
-  '',
-  'Blues',
-  'DJ Giant',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '15:09',
-  'Chuck Carbo',
-  'Meet Me With Your Black Draws On',
-  'with Ed Frank''s N.O. R& B Band',
-  '',
-  'Blues',
-  'DJ Giant',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '15:14',
-  'Johnny Adams',
-  'Bulldog Break His Chain',
-  'Man of My Word',
-  'soul blues, blues',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/6Lds5HNnNUUezB9XNtw0Kt',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '15:19',
-  'Etta James',
-  'A Sunday Kind of Love',
-  'Ultimate Diva Collection- The Di',
-  'soul, soul blues, blues',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '15:24',
-  'Luther Kent',
-  'I Wouldn`t Treat A Dog',
-  'The Bobby Bland Songbook',
-  'ragtime',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/1Vun1rw5qKLKa2w7xKV7dO',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '15:28',
-  'Luther Vandross',
-  'Never Too Much',
-  'Never Too Much',
-  'quiet storm, soul, classic soul',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '15:34',
-  'STEVIE WONDER',
-  'BOOGIE ON REGGAE WOMAN',
-  'FULFILLINGNESS'' FIRST FINALE',
-  'motown, classic soul, soul',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/7wOKVOhqghB6rCyaPWVegJ',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '15:37',
-  'Koko Taylor',
-  'Don`t Put Your Hands On Me',
-  'Force of Nature',
-  'blues, classic blues, soul blues',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/2WX1Opbc92E3zwBThDJUAb',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '15:40',
-  'FRANK MCMOMB',
-  'GOTTA FIND A WAY',
-  'LOVE STORIES',
-  '',
-  'Blues',
-  'DJ Giant',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '15:45',
-  'Aretha Franklin',
-  'Until You Come Back To Me (Tha',
-  '30 Greatest Hits [Disc 2]',
-  'soul, motown, classic soul',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173',
-  'found',
-  81.5,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '15:49',
-  'GLADYS KNIGHT& THE PIPS',
-  'NEITHER ONE OF US',
-  'NEITHER ONE OF US',
-  'motown, classic soul, soul',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS',
-  'found',
-  77.9,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '15:53',
-  'Etta James',
-  'If You Want Me To Stay',
-  'Life, Love & The Blues',
-  'soul, soul blues, blues',
-  'Blues',
-  'DJ Giant',
-  'https://open.spotify.com/track/3ux4SABKVVgyXzB0A4D2zQ',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '16:12',
-  'Ellis Marsalis',
-  'Swinging At The Haven',
-  'The Classic Ellis Marsalis',
-  'jazz',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/0DBIYyONtffnfzghtKeOV6',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '16:13',
-  'Kermit Ruffins',
-  'Song For My Father',
-  'Livin'' A Treme Life',
-  'brass band, cajun',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/5i19UHS02oiAFq0zQOf08T',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '16:15',
-  'Harold Batiste',
-  'marzique dancing',
-  'Next Generation',
-  '',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '16:30',
-  'Dr. John',
-  'In a Sentimental Mood',
-  'In a Sentimental Mood',
-  'cajun, zydeco',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/3kIdqliyG5S2LohVySPqUh',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '16:30',
-  'Wynton Marsalis',
-  'Hickory Dickory Dock',
-  'The Majesty Of The Blues',
-  'jazz, latin jazz, big band',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/1WADBO07rBnRGs9d2HwwXz',
-  'found',
-  98,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '16:31',
-  'Bernard Purdie',
-  'Moanin''',
-  'Soul Trian',
-  '',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '16:47',
-  'Karen Shiraishi',
-  'Now I Know',
-  NULL,
-  '',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '17:08',
-  'Jimmy Scott',
-  'I''m Through With Love',
-  'Dream',
-  'vocal jazz',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/0yMUOh6rkkXcPB41hV4asp',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '17:08',
-  'Joe Henderson',
-  'Take The A Train',
-  'Lush Life',
-  'hard bop, jazz, jazz ballads',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/5kLeN0CtYwMuaon1SMZ54R',
-  'found',
-  98,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '17:12',
-  'Theo Croker & Dee Dee Bridgewater',
-  'i can''t help it if i''m still in love with you',
-  'Afro Physicist',
-  '',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '17:16',
-  'Dexter Gordon',
-  'The Girl With The Purple Eyes',
-  'More Than You Know',
-  'hard bop, jazz, jazz ballads',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/0Y5b1eRD9UVtLEKwTpY6Dd',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '17:20',
-  'Terrence Martin',
-  'Community Research',
-  'PEACE',
-  '',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '17:26',
-  'Theo Croker, Sullivan Fortner',
-  'A Prayer for Peace',
-  'Play',
-  'nu jazz, soul jazz, jazz',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/5R3e5tMI5Ugr2HCzH90hpx',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '17:29',
-  'Lonnie Listen Smith',
-  'A Garden Of Peace 2025',
-  'A Garden Of Peace 2025',
-  '',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '17:43',
-  'Eddie Harris',
-  'Listen Here',
-  'The Electrifying Eddie Harris',
-  'soul jazz, jazz funk, hard bop',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/54cxEkH90CHuDMe3dfiWOl',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '17:53',
-  'Mongo Santamaria',
-  'Sofrito',
-  'Sofrito',
-  'latin jazz, afro-cuban jazz, cha cha cha',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '18:04',
-  'Audrey LeCrone',
-  'Hot Nuts',
-  'single',
-  '',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/4xfJJxQPTZgE3hmaaGbltM',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '18:04',
-  'Dayramir Gonzales',
-  'El Manosero',
-  'V.I.D.A.',
-  '',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '18:09',
-  'Russell Gunn',
-  'You Don''t Know What Love Is',
-  'Jazz For Quiet Times',
-  '',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/5RjAkeG9u32FvRsy3JyUgN',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '18:14',
-  'john coltrane',
-  'giant steps',
-  'giant steps',
-  'jazz, hard bop, free jazz',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/0gCKwy3YmhKc9rzjYjTQKx',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '18:19',
-  'Lee Morgan',
-  'Hocus-Pocus',
-  'The Sidewinder',
-  'hard bop, jazz, bebop',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/4oLmztYOcw02rDTUe7dfNO',
-  'found',
-  71,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '18:27',
-  'wayne shorter',
-  'black nile',
-  'night dreamer',
-  'hard bop, jazz, jazz ballads',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/0Dfpbbbwi2MW7o6fGPJnNr',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '18:33',
-  'Joe Sample & The Soul Commite',
-  'THE SIDEWINDER',
-  'Did You Feel That?',
-  '',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '18:40',
-  'The Marsalis Family',
-  'Syndrome',
-  'Music Redeems',
-  'brass band, jazz',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/4dDsI8FAm4RolLBRdQIfZO',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '18:47',
-  'Herlin Riley',
-  'Borders Without Lines',
-  'Perpetual Optimism',
-  'jazz',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/5mrtCmMRDHNyfaqssLLAtW',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '18:52',
-  'Miles Davis',
-  'Footprints',
-  'Miles Smiles',
-  'jazz, cool jazz, hard bop',
-  'Jazz from Jax Brewery',
-  'Keith Hill',
-  'https://open.spotify.com/track/2wjHWYJVAs5TYSRP83JLmc',
-  'found',
-  98,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:02',
-  'DIRTY DOZEN BRASS BAND',
-  'JOHN THE REVELATOR',
-  'Funeral For A Friend',
-  'brass band, jam band, cajun',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/2YDUeulONtt8IFIsZfmRst',
-  'found',
-  90.3,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:07',
-  'the dave brubeck quartet',
-  'when the saints go marching in',
-  NULL,
-  'jazz, cool jazz',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/3eeT0t6MxHUDYiSZcqCiq1',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:14',
-  'roosevelt sykes',
-  'hangover.',
-  NULL,
-  'blues, classic blues, boogie-woogie',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/4eLOvMKyA4tPO76yeEyijY',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:17',
-  'leyla mccalla',
-  'too blue',
-  NULL,
-  '',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/6dihaTlhmgp3AeId9CFABA',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:20',
-  'slim harpo',
-  'blues hangover.',
-  NULL,
-  'classic blues, blues',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:23',
-  'Ahmad Jamal Trio',
-  'Volga Boatman',
-  NULL,
-  'jazz, cool jazz, hard bop',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:24',
-  'madeleine peyroux',
-  'tango till theyre sore',
-  NULL,
-  'french jazz, vocal jazz, jazz',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/1A9DYyFtMlzHfxuiw6qYWa',
-  'found',
-  86,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:31',
-  'hank thompson',
-  'hangover tavern',
-  NULL,
-  'classic country, honky tonk, traditional country',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/6PGwCYugiMElOKisqRCQJv',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:31',
-  'una mae carlisle',
-  'hangover blues',
-  NULL,
-  'swing music, vocal jazz',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/2MXrmvq2RltO8Rr8JuJun6',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:36',
-  'dinah washington',
-  'the blues ain''t nothin'' but a woman cryin for her man',
-  NULL,
-  'vocal jazz, jazz',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/11HamG7mirnNVVTRuwPNse',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:42',
-  'the harlem hamfats',
-  'you drink too much',
-  NULL,
-  'swing music, ragtime, electro swing',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/1NHClzSnO9FfRsMPAM0u7a',
-  'found',
-  86,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:43',
-  'bob dylan',
-  'moonshiner',
-  NULL,
-  '',
-  'R&B',
-  'Your Cousin Dimitri',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:48',
-  'buddy knox',
-  'i think i''m gonna kill myself',
-  NULL,
-  'rockabilly, doo-wop, rock and roll',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/2AJoUAh4ViufVpeJZq84xK',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:48',
-  'sister rosetta tharpe',
-  'god don''t like it',
-  NULL,
-  'traditional gospel, blues, classic blues',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/5jz86OQYMMXfo8XNZGogT4',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:49',
-  'ahmad jamal trio',
-  'on green dolphin street',
-  NULL,
-  'jazz, cool jazz, hard bop',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/6DqM5cWUuuEDpQlrB6eHIl',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:53',
-  'dave van ronk',
-  'last call',
-  NULL,
-  'folk, traditional folk, country blues',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/7geEJH4dCkV3QVOMxmK60i',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '19:54',
-  'bessie smith',
-  'moan you moaners',
-  NULL,
-  'classic blues, blues, ragtime',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/14WjlQCK50CiurEjy6YuM0',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:01',
-  'LOS LOBOS',
-  'JOCKEY FULL OF BOURBON',
-  NULL,
-  'roots rock',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/0TC94QE55ZWSHxZQp3JIwu',
-  'found',
-  87.3,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:01',
-  'the harlem hamfats',
-  'hallelujah joe ain''t preachin no more',
-  NULL,
-  'swing music, ragtime, electro swing',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/5IVOcuHHLJSTWFzdCECmwu',
-  'found',
-  86,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:04',
-  'truckstop honeymoon',
-  'walk of shame',
-  NULL,
-  'bluegrass, alt country',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/0qC1iWcjoOoI3cDb40G4Tg',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:07',
-  'harlem hamfats',
-  'weed smoker''s dream',
-  NULL,
-  'swing music, ragtime, electro swing',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/30vlYkT6mzbwlS3gp1XSs8',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:10',
-  'ahmad jamal trio',
-  'maryam',
-  NULL,
-  'jazz, cool jazz, hard bop',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/28KLUr9xteoLXkB1a3cP36',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:14',
-  'lil green',
-  'why don''t you do right',
-  NULL,
-  'blues, classic blues',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/3RWSq4TNReOQtOsXk1myyM',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:16',
-  'alvin youngblood hart',
-  'sunday mornin comin down',
-  NULL,
-  'blues, modern blues, country blues',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/13thmREHjJ17QnoNRY1ekr',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:22',
-  'swamp dogg',
-  'i was born blue',
-  NULL,
-  'retro soul',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/4f3yeyj1ZVpzQfbrNcVQdi',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:24',
-  'junior wells and buddy guy',
-  'early in the morning.',
-  NULL,
-  '',
-  'R&B',
-  'Your Cousin Dimitri',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:28',
-  'snooks eaglin',
-  'let me go home whiskey',
-  NULL,
-  'blues, classic blues, country blues',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/22UVizCSSrqVfXJ1o1jVQx',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:34',
-  'andre williams',
-  'my last dance with you',
-  NULL,
-  'northern soul',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/3A7kvgZwv8j0b9zEgZUOsC',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:36',
-  'ahmad jamal trio',
-  'i just can''t see for lookin''',
-  NULL,
-  'jazz, cool jazz, hard bop',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/2BF0THIU6pBVbwcvBt05N7',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:36',
-  'della reese',
-  'leftover wine',
-  NULL,
-  'cha cha cha',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/2AMrtYt1mMMLy2ykcOeL4z',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:39',
-  'abner jay',
-  'depression',
-  NULL,
-  '',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/0VwLW92oo8DpDPsn4Jld8r',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:41',
-  'etta james',
-  'don''t get around much anymore',
-  NULL,
-  'soul, soul blues, blues',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/2uwsVhs7pgu8kNcxRT3WqO',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:48',
-  'champion jack dupree',
-  'failing health blues',
-  NULL,
-  'blues, classic blues, boogie-woogie',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/0n6Y6a4ayO2XozZOgUv0ds',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:48',
-  'rickie lee jones',
-  'one for my baby...',
-  NULL,
-  'singer-songwriter',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/4jJmwvdkZVOxu8mapPwW3w',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:49',
-  'jerry lee lewis',
-  'good time charlie''s got the blues',
-  NULL,
-  'rockabilly, rock and roll, boogie-woogie',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/7Jkq9XdZb1dLTeXwUuP414',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:53',
-  'nina simone',
-  'just like tom thumb''s blues',
-  NULL,
-  'vocal jazz, soul jazz, soul',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/5pYoVsL8N5h8gO7dGqs2q7',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '20:57',
-  'ahmad jamal trio',
-  'how about you.',
-  NULL,
-  'jazz, cool jazz, hard bop',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/49nD4jdvCvvX80zIcoc8VP',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:03',
-  'james brown',
-  'that''s life',
-  NULL,
-  'funk, soul, motown',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/2ypFEmLB5q5j2l34bFxF8Y',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:07',
-  'aaron neville',
-  'for the good times',
-  NULL,
-  'classic soul',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/6afPuR3pUo2zrVlmpBNX3n',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:09',
-  'oscar brown,jr.',
-  'but i was cool',
-  'sin and soul',
-  'vocal jazz, soul jazz',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/1UXRfEt0nDsoXAnpKeNBNS',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:12',
-  'eartha kitt',
-  'lilac wine',
-  NULL,
-  'christmas',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/0kJ3enCNnfnsHXzAbfbYKY',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:17',
-  'ahmad jamal trio',
-  'spring will be a little late this year',
-  NULL,
-  'jazz, cool jazz, hard bop',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/22YpaeCulbxOoGo6nD3h6Y',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:20',
-  'big maybelle',
-  'don''t let the sun catch you crying',
-  NULL,
-  'blues, classic blues',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/1MLrtjEvPooOwisEfSVFF8',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:27',
-  'taj mahal',
-  'mind your own business',
-  NULL,
-  'blues, classic blues, country blues',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/6MogZKDqwPROGFksZYGVs1',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:31',
-  'etta jones',
-  'fine and mellow.',
-  NULL,
-  'vocal jazz, jazz',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/2LppzNdnjnE3i7VH0hMuko',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:31',
-  'hurray for the riff raff',
-  'look out mama',
-  NULL,
-  'americana, alt country',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/7AHoCClLCJHYgbgYSvrKED',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:31',
-  'lightnin hopkins',
-  'trouble in mind..,',
-  NULL,
-  'blues, classic blues, country blues',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/2QkmNNiHM9e3R8oT2yGeVo',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:34',
-  'ahmad jamal trio',
-  'jim loves sue',
-  NULL,
-  'jazz, cool jazz, hard bop',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/6ltgatpNYao471J42ilohI',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:35',
-  'dayna kurtz',
-  'invocation',
-  NULL,
-  '',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/1bhG1T6J0qXEgWqdYOyUnH',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:47',
-  'billie holiday',
-  'good morning heartache',
-  NULL,
-  'jazz, vocal jazz, big band',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:47',
-  'ray charles',
-  'hard times (no one knows better than i)',
-  NULL,
-  'soul, soul blues, blues',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:48',
-  'otis redding',
-  'nobody''s fault but mine',
-  NULL,
-  'motown, soul, classic soul',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/70UtqJue6sAuuc0yn3tDaj',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:52',
-  'memphins minnie',
-  'ain''t no use trying to tell on me',
-  NULL,
-  '',
-  'R&B',
-  'Your Cousin Dimitri',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:54',
-  'ahmad jamal trio',
-  'beat out one',
-  NULL,
-  'jazz, cool jazz, hard bop',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/6KsuFpHMncbrdCPcSbXZ5H',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '21:54',
-  'lucinda williams',
-  'the end of the world',
-  NULL,
-  'alt country, americana, outlaw country',
-  'R&B',
-  'Your Cousin Dimitri',
-  'https://open.spotify.com/track/3DnXjzVixxHsjmHT7fNyJf',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:08',
-  'Jill Scott',
-  'It''s Love (Live)',
-  'Experience: Jill Scott 826+ (Live)',
-  '',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:11',
-  'A Tribe Called Quest',
-  'Jazz (We''ve Got)',
-  'The Anthology',
-  'jazz rap, east coast hip hop, old school hip hop',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/7AgMX97ljLm9BzszyyXEYZ',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:14',
-  'Chaka Khan',
-  'Like Sugar',
-  'Like Sugar - Single',
-  '',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:23',
-  'Meshell Ndegeocello',
-  'Who Is He and What Is He to You',
-  'Soul Music - EP',
-  'neo soul, indie jazz',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/2OdtM5DtnEuMYPUGzkmNR7',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:23',
-  'Pastor T.L. Barrett and The Youth for Christ Choir',
-  'Nobody Knows',
-  'Like a Ship (Without a Sail)',
-  'funk gospel, classic soul',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/2TM24qZOOgsmA94g6Ovy48',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:31',
-  'Etta James',
-  'Fire',
-  'Tell Mama',
-  'soul, soul blues, blues',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/7AOWYNfEB86AgkIc9NN3qm',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:36',
-  'R.L. Burnside',
-  'Sitting On Top of the World',
-  'Sound Machine Groove',
-  'blues, country blues, modern blues',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/1Vi9TLYIBoI4tc2qZaCEz1',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:38',
-  'Willie Dixon',
-  'You Shook Me',
-  'I Am the Blues',
-  'blues, classic blues, soul blues',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:42',
-  'Lottie Kimbrough',
-  'Rolling Log Blues',
-  'Country Blues Outlaws',
-  'country blues',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/7rTLnEjs92rVjBfraf3Nut',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:46',
-  'Shirley Brown',
-  'I Ain''t Gonna Tell (Nobody)',
-  'Funky Tales',
-  'classic soul, soul, blues',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/01s2dlvPFIh3gu4fA7CgLl',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:55',
-  'Roberta Flack',
-  'Compared to What',
-  'First Take',
-  'adult standards, classic soul',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '22:56',
-  'Taj Mahal',
-  'Frankie & Albert',
-  'In Progress & In Motion (1965-1998)',
-  'blues, classic blues, country blues',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/2EP9sayfivcag8HyOUNAoh',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:00',
-  'Odetta',
-  'Baby, I''m In the Mood for You',
-  'Odetta Sings Dylan',
-  'folk, traditional folk',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/50ZHlDg707OUDn61nba1gy',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:02',
-  'Teta Lando',
-  'Muato Wa N'' Ginjila',
-  'Pebbles Vol. 3, Africa Pt. 1, Originals Artifacts from the Psych',
-  'kizomba',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/0fh3Fz8fMUtI1LRABB4n4G',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:06',
-  'Zap Mama',
-  'African Sunset',
-  '[7]',
-  'afropop, neo soul',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/5yKIICLO05zCPoiUX5TytK',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:10',
-  'Les Nubians',
-  'Les gens (feat. Blitz the Ambassador)',
-  'Nu Revolution',
-  '',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  NULL,
-  'not_found',
-  NULL,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:15',
-  'Phirpo Y Sus Caribes',
-  'Comencemos',
-  'Black Man'' s Cry: The Influence and Inspiration of Fela Kuti',
-  'afrobeat, afro soul',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/43z8P5XtmwqzzKxOEQMDCe',
-  'found',
-  98,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:27',
-  'Jurassic 5',
-  'Canto de Ossanha',
-  'Feedback',
-  'hip hop',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/2Mw9lHRbSkcIgSk0DZUzeY',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:31',
-  'Calexico',
-  'Cumbia de Donde',
-  'Edge of the Sun (Deluxe Edition)',
-  'alt country, americana, roots rock',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/5nnqQF4uBfulDbM7Tae4kN',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:37',
-  'Khruangbin',
-  'Evan Finds the Third Room',
-  'Con Todo El Mundo',
-  'neo-psychedelic',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:38',
-  'Valerie June',
-  'You Can'' t Be Told',
-  'Pushin'' Against a Stone',
-  'folk, americana',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/4afYc6b90xaA04w6Cm8Xa2',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:41',
-  'Lee Fields',
-  'Without a Heart',
-  'Sentimental Fool',
-  'retro soul, soul',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/5zCAzCihjhSIKHfH9VYshI',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:47',
-  'Sly & The Family Stone',
-  'In Time',
-  'Fresh (Deluxe Edition)',
-  'funk, motown, classic soul',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/21SHzZ1qsXzJ5Socuuyo8w',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:51',
-  'Edwin Starr',
-  '25 Miles',
-  'The Very Best of Edwin Starr',
-  'northern soul, motown, classic soul',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/6X7Ey60HxS5J2SC4k6pJj8',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:54',
-  'Betty Davis',
-  'Anti Love Song',
-  'Betty Davis (Bonus Track Version)',
-  'funk rock, funk',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/0dgfS9OaA9GJwCFjZrU3aT',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
-
-INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
-VALUES (
-  '2026-02-19',
-  '23:59',
-  'Yvonne Fair',
-  'Funky Music Sho Nuff Turns Me On',
-  'The Bitch Is Black',
-  'classic soul, motown, northern soul',
-  'Kitchen Sink',
-  'Jennifer Brady',
-  'https://open.spotify.com/track/2vSNNXAcXcfANa8AJ3Z1Tw',
-  'found',
-  100,
-  '2026-02-20 07:25:22'
-);
+INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
+VALUES (
+  '2026-02-22',
+  'https://open.spotify.com/playlist/6SF1dt8PNV2TalVU5Bl0lF',
+  '{"totalTracks":146,"successfullyFound":89,"notFound":57,"lowConfidence":0,"duplicates":0}',
+  'https://wwoz.org/programs/playlists',
+  '2026-02-23 09:10:59',
+  '2026-02-23 09:10:59'
+)
+ON CONFLICT(date) DO UPDATE SET
+  playlist_url = COALESCE(excluded.playlist_url, playlist_url),
+  stats_json = excluded.stats_json,
+  source_url = COALESCE(excluded.source_url, source_url),
+  updated_at = excluded.updated_at;
+
+INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
+VALUES (
+  '2026-02-23',
+  NULL,
+  '{"totalTracks":39,"successfullyFound":30,"notFound":9,"lowConfidence":0,"duplicates":0}',
+  'https://wwoz.org/programs/playlists',
+  '2026-02-23 09:10:59',
+  '2026-02-23 09:10:59'
+)
+ON CONFLICT(date) DO UPDATE SET
+  playlist_url = COALESCE(excluded.playlist_url, playlist_url),
+  stats_json = excluded.stats_json,
+  source_url = COALESCE(excluded.source_url, source_url),
+  updated_at = excluded.updated_at;
 
 DELETE FROM wwoz_tracks WHERE date = '2026-02-20';
 
@@ -8198,4 +4371,2984 @@ VALUES (
   'not_found',
   NULL,
   '2026-02-22 07:50:28'
+);
+
+DELETE FROM wwoz_tracks WHERE date = '2026-02-22';
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '05:26',
+  'Irma Thomas',
+  'These Four Walls',
+  'A Woman`s Viewpoint The Essentia',
+  'classic soul',
+  'Overnight Music - Sunday',
+  NULL,
+  'https://open.spotify.com/track/5znJY3Ph9EWBhnOHFyFlbw',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:06',
+  'Dave Ferrato',
+  'Later, On Decatur',
+  'Later, On Decatur',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/4ws5E5xmWSdBacSO8MGZWD',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:06',
+  'The Oscar Peterson Trio',
+  'In The Still Of The Night',
+  '1959',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:08',
+  'Benny Goodman',
+  'But Not For Me',
+  'Complete Capitol Small Group Recordings Benny Goodman',
+  'big band, swing music, jazz',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/27xZGgIXVlPc2viNYEiTWz',
+  'found',
+  81.8,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:12',
+  'Helen Merrill',
+  'I''m A Fool To Want You',
+  'Helen Merrill With Gil Evans & Hal Mooney',
+  'vocal jazz, jazz ballads, jazz',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/6tHYmn2CeK7I34u9F6Y7IL',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:16',
+  'Hank Jones',
+  'When Hearts Are Young',
+  'Solo And With His Own Bands 1947-59',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:21',
+  'Ben Webster',
+  'When I Fall In Love',
+  'A Night Out With Verve',
+  'jazz, jazz ballads, cool jazz',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/4DlBA6MzvC9imYVTBAUO6e',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:25',
+  'Vaughn Monroe and his Orchestra',
+  'I Miss Your Kiss',
+  '1944-1945',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:29',
+  'Ray Brown',
+  'Jim',
+  'The Man Complete Recordings 1946-1959',
+  'jazz, cool jazz, bebop',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/0VfE0hHdVU9SQuhuW3f7yg',
+  'found',
+  98,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:38',
+  'The Garden District Trio',
+  'Watch What Happens',
+  'Back In New Orleans',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:41',
+  'Ella Fitzgerald',
+  'The Starlit Hour',
+  'Ella Fitzgerald: The Early Years - Part 2',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:49',
+  'Duke Ellington and his Orchestra',
+  'In A Mellotone',
+  'The Blanton-Webster Band',
+  'jazz, big band, swing music',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/7ej47XvK3Lu3u0tLyhM9td',
+  'found',
+  83.2,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:49',
+  'Pee Wee Russewll',
+  'All Too Soon',
+  'Seven Classic Albums',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '06:57',
+  'Dakota Staton',
+  'You Showed Me The Way',
+  'Five Classic Albums',
+  'vocal jazz, jazz',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/7a0RuqgO4Fw916SgZ95Ah3',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '07:00',
+  'Ray Brown',
+  'Cool Walk',
+  'The Man Complete Recordings 1946-1959',
+  'jazz, cool jazz, bebop',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/0XrBYYkLpm3prH0v2nyYl8',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '07:06',
+  'Buddy Tate',
+  'That''s All',
+  'Midnight Slows',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '07:10',
+  'Ray Charles',
+  'Willow Weep For Me',
+  'Standards',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '07:15',
+  'Vic Dickenson and Buck Clayton',
+  'The Lamp Is Low',
+  'Kansas City',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '07:21',
+  'Georgie Auld',
+  'Blue And Sentimental',
+  'Four Classic Albums',
+  'bebop, big band, exotica',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/5f7zKf7mBvvegFwjChfABF',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '07:24',
+  'Melody Gardot',
+  'My One And Only Thrill',
+  'My One And Only Thrill',
+  'vocal jazz, french jazz, jazz',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/2UAeHdOS92bO64Wz5CrGjA',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '07:31',
+  'Red Norvo''s All Star Sextet',
+  'The Man I Love',
+  'The Keynote Jazz Collection',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/3beVI20o8ELflbubNYB4io',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '07:36',
+  'Edison, DeFranco, Carter, Smith, Getz, Gray, Basie, Green et al',
+  'Ballad Medley',
+  'The Complete Norman Granz Jam Sessions',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '07:50',
+  'The Glenn Miller Orchestra',
+  'At Last',
+  'Timeless',
+  'big band, swing music',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/53EWX6NEJknT5mtcdo8CXD',
+  'found',
+  89.5,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '07:55',
+  'Count Basie & His Atomic Band',
+  'The Deacon',
+  'Complete Live At The Crescendo 1958',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '08:11',
+  'Jenny Swoish',
+  'Moonlight Serenade',
+  'Tonight In Dreamland',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '08:16',
+  'Nnenna Freelon, Kenny Barron, Ron Carter, Ben Riley, Jon Faddis',
+  'If I Had You',
+  'A Great Night In Harlem',
+  '',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '08:22',
+  'Luiz Bonfa',
+  'Eurydice',
+  'Bossa Nova',
+  'bossa nova, brazilian jazz, latin jazz',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/4eeKG1IH8lzFsvCHPXivHM',
+  'found',
+  70.2,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '08:24',
+  'Arnett Cobb',
+  'Just A Closer Walk With Thee',
+  'Show Time',
+  'hard bop, jazz ballads, jazz',
+  'The Sunday Morning Jazz Set',
+  'Mark Landesman',
+  'https://open.spotify.com/track/6aDcrxrm8bt3Tnq5ZYoP3F',
+  'found',
+  98,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:01',
+  'Bruce Daigrepont',
+  'Perrodin Two-Step',
+  'Petit Cadeau',
+  'cajun, zydeco',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/4qzNsWHpgobDVDHgbODci8',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:07',
+  'Bruce Daigrepont',
+  'Perrodin two step',
+  'Petit Cadeau',
+  'cajun, zydeco',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/4qzNsWHpgobDVDHgbODci8',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:08',
+  'David Doucet',
+  'Port Arthur waltz',
+  '1957',
+  'cajun, zydeco',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/5R9bSj3MNYiclJaYyGiTct',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:09',
+  'Michael Doucet',
+  'Gigue dAcadie',
+  'Beau Solo',
+  'cajun, zydeco',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/7yVehr9PScaHWJfXBsDQdb',
+  'found',
+  79,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:10',
+  'Daigle-Frey Affair',
+  'slow steppin',
+  'Daigle-Frey Affair',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:11',
+  'Dewey Balfa, Marc SAvoy, D.L. Menard',
+  'Jai passe devant ta porte',
+  'En Bas du Chene Vert',
+  'cajun, zydeco, folk québécois',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/5sLfaNbNyNPEWBtBNByUac',
+  'found',
+  75.3,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:19',
+  'Balfa Brothers',
+  'Casey Jones',
+  'JAi Vu Le Loup, Le Renard Et La Belette',
+  'cajun, zydeco, folk québécois',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/1y0sljAjLVcJkf8iaqq5Le',
+  'found',
+  86,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:21',
+  'Basin Brothers',
+  'Little dark eyes',
+  'Louisiana Music Commission & Mulates Presents the Basin Brothers',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:24',
+  'T-Sale',
+  'Le jogue ou plombeau',
+  'T-Sale',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:27',
+  'Savoir Faire',
+  'Le moulin',
+  'REnaissance',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:34',
+  'Bonsoir, Catin',
+  'Un boquet de camelias',
+  'Vive lAmour',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:39',
+  'Nathan Abshire',
+  'Blues de tac-tac',
+  'Great Cajun Accordionist',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:42',
+  'Acadian Cajun Band',
+  'A pound of tobacco',
+  'All Night Long',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:48',
+  'Savoy-Doucet Cajun Band',
+  'Aux Natchitoches',
+  'Home Music with Spirits',
+  'cajun, zydeco',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/5M9POAuQPpTzUh6GDrYwyH',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:52',
+  'Sidney Brown',
+  'Valse des mache',
+  'Best of Two Cajun Greats',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:54',
+  'LInzay Young and Joel Savoy',
+  'Le vol de la faquetaique',
+  'After Hours at Valcour Records',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '12:57',
+  'Tracy Schwarz Cajun Trio',
+  'Evangeline Special',
+  'Tracy Schwarz Cajun Trio',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:02',
+  'Les Amis Creole',
+  'Fais pas tout ca',
+  'Les Amis Creole',
+  'cajun, zydeco, traditional music',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/4aFKF6SCn28pGGiKlfruH5',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:07',
+  'Sunpie Barnes, Michael Doucet',
+  'Joe Pete got two women',
+  'New Orleans Visit Before Katrina',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:11',
+  'Albert Chevalier',
+  'Moman couche',
+  'Zydeco the Early Years',
+  'zydeco, cajun',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/2a5ScdecXiFLLnXTiPdpwt',
+  'found',
+  98,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:13',
+  'Fernest and the Thunders',
+  'Little rain falling',
+  'Fernest and the Thunders',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:17',
+  'Bois Sec Ardoin & Canray Fontenot',
+  'Bon soir, Moreau',
+  'La Musique Creole',
+  'cajun, zydeco',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/5WjtUdpYUo7fm2dsBRrGlU',
+  'found',
+  89.8,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:19',
+  'Canray Fontenot',
+  'La valse de mom et pop',
+  'Louisiana Hot Sauce, Creole Style',
+  'cajun, zydeco',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/2sfmkTFIeM7aR07JWfU341',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:24',
+  'Joe Hall & the Cane Cutters',
+  'La robe a parasol',
+  'Melange',
+  'cajun, zydeco, traditional music',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/4SHQiZsO8Xjq85A3Vm1r20',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:25',
+  'Motordude Zydeco',
+  'I am a farmer',
+  'Big Oakland',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:31',
+  'Miss Ann Godly and the Zydeco Brothers',
+  'Strutt and hump',
+  'Miss Ann Godly and the Zydeco Brothers',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:34',
+  'Rockin Dopsie & the Twisters',
+  'I passed in front of your door',
+  'French Style',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:39',
+  'John Hart',
+  'Opelousas half step',
+  'Blowin Man',
+  '',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:41',
+  'Boozoo Chavis',
+  'Make it to me',
+  'Zydeco Homebrew',
+  'zydeco, cajun',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/7i8t3KNpZQVDPs3z3pyoOz',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:46',
+  'Clifton Chenier',
+  'Cliftons blues',
+  'King of Louisiana Blues & Zydeco',
+  'zydeco, cajun',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/0wSydZ8PboFsSq8vn3YtGH',
+  'found',
+  79,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:49',
+  'Clifton Chenier',
+  'Ay Ai Ai',
+  'Clifton Cheniers Rockin Accordion',
+  'zydeco, cajun',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/1WUD9fIg0fUDrM7eWwXcD2',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:52',
+  'Clifton Chenier',
+  'Lafayette waltz',
+  'King of Louisiana Blues & Zydeco',
+  'zydeco, cajun',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/2rRIwcUCEsUzjJeDwuyMi6',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '13:57',
+  'Clifton Chenier',
+  'Louisiana shuffle--live',
+  'King of Louisiana Blues & Zydeco',
+  'zydeco, cajun',
+  'Cajun and Zydeco',
+  'Charles Laborde or Jim Hobbs',
+  'https://open.spotify.com/track/0ml0HL7WAYhnKZD9EuVHJe',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:02',
+  'Todd Snider',
+  'Enjoy Yourself',
+  'East Nashville Skyline',
+  'alt country, americana, outlaw country',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/3fevsds61d5JAzZvSWnI64',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:04',
+  'The War And Treaty',
+  'If This Day (From The Gray House Original Soundtrack)',
+  'The Gray House (Original Soundtrack From the Amazon Series)',
+  '',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/0Te2w0wQWeyPwvrKxsrkXq',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:07',
+  'Crys Matthews',
+  'Like Jesus Would',
+  'Reclamation',
+  'americana',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/31Df2MU9sXelRZU7f4yZWP',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:11',
+  'Southern Culture On the Skids',
+  'Jesus Took My Burden',
+  'Kudzu Records Presents',
+  'psychobilly, rockabilly, alt country',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/53rxcy9Y6c6Ul0gM8Yiieq',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:14',
+  'The Band of Heathens',
+  'Pleasing People',
+  'Country Sides',
+  'red dirt, texas country, alt country',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/1HNaPyVz6DAqJQoXPN3PPi',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:17',
+  'Katie Dahl',
+  'Braver Than Me (feat. Allison Russell)',
+  'Wildwood',
+  '',
+  'Homespun Americana',
+  'Ol Man River',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:21',
+  'Terry Klein',
+  'Hopelessness Is Going Around',
+  'Hill Country Folk Music',
+  'americana, alt country',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/25hPrn5opZkrODM2sgOwJS',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:24',
+  'Jim Lauderdale',
+  'That Kind of Life (That Kind of Day)',
+  'Game Changer',
+  'bluegrass, americana, alt country',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/3iLyHVr3Vqc7pE9GaikcCD',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:33',
+  'The Po'' Ramblin'' Boys',
+  'I Believe in the Old Time Way',
+  'Back to the Mountains',
+  'bluegrass, newgrass, christian bluegrass',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/4WKHvRkGLRdKJaqpvgBOxc',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:46',
+  'Caleb & Reeb',
+  'Too Far Gone',
+  'Gold In Your Pocket',
+  'bluegrass, cajun, americana',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/4nbtBijv5gZDVqGhVKvmb6',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:50',
+  'Bronwyn Keith-Hynes',
+  'I Built A World (feat. Jason Carter)',
+  'I Built A World',
+  '',
+  'Homespun Americana',
+  'Ol Man River',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '14:54',
+  'The String Cheese Incident',
+  'Nobody Thought You Would',
+  'Lend Me A Hand',
+  'jam band, newgrass, bluegrass',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/4vGUgnCW773gUG9DGxseO8',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:06',
+  'Gurf Morlix',
+  'My Lesson',
+  'Fishin'' in the Muddy',
+  'americana, alt country',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/0hkG0774LMgy66BHsQGFxX',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:12',
+  'Todd Snider',
+  'THE TEMPTATION TO EXIST.',
+  'HIGH, LONESOME AND THEN SOME.',
+  'alt country, americana, outlaw country',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/37ziZTSS7tkIHU2pnqdo0y',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:16',
+  'Lucinda Williams',
+  'Freedom Speaks',
+  'World''s Gone Wrong',
+  '',
+  'Homespun Americana',
+  'Ol Man River',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:22',
+  'Eighteen Mile',
+  'Living Waters',
+  'Living Waters - Single',
+  'christian bluegrass, bluegrass, southern gospel',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/6oCHQR2RrG6KGOff5IYk1e',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:25',
+  'The Carter Sisters',
+  'My Clinch Mountain Home',
+  'Voice From The Ridge-The Final Sessions',
+  'classic country, traditional country',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/25kp1aNm99vvYpQH1dSjS3',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:33',
+  'I''m With Her',
+  'Wild and Clear and Blue',
+  'Wild and Clear and Blue',
+  'newgrass, bluegrass, americana',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/6OIvQ2YzNJ2tckkVkUqieI',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:36',
+  'Nanci Griffith',
+  'Love At The Five & Dime',
+  'The Last Of The True Believers',
+  'folk, americana, singer-songwriter',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:41',
+  'Rhiannon Giddens, Resistance Revival Chorus & Crys Matthews',
+  'How I Long for Peace',
+  'How I Long for Peace - Single',
+  'folk, americana, southern gothic',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/1c1GPJWgvwyrBk7sT7vio9',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:45',
+  'Melissa Etheridge',
+  'Bein'' Alive',
+  'Bein'' Alive - Single',
+  '',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/3SVJYWgXciZ7MU5JfsMknA',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:49',
+  'Sara Bug',
+  'No Man No Kids',
+  'Into The Blue',
+  '',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/0YqtKLedoDE4XyyNJ9k9UW',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:52',
+  'Carsie Blanton',
+  'Party At The End Of The World',
+  'Love & Rage',
+  '',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/3UDx0BL9CLgKyrgmOY1eZt',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '15:59',
+  'Hunter Root',
+  'If the Body is a Temple',
+  'Crooked Home',
+  '',
+  'Homespun Americana',
+  'Ol Man River',
+  'https://open.spotify.com/track/1ntV8lwnTzJZl1dialMJ8T',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '16:01',
+  'Chris Connor & Maynard Ferguson',
+  'I Feel A Song Coming On',
+  'Two''s Company',
+  '',
+  'Sitting In',
+  'Elizabeth Meneray',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '16:07',
+  'Hampton Haws',
+  'HIP',
+  NULL,
+  '',
+  'Sitting In',
+  'Elizabeth Meneray',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '16:10',
+  'JOHNNY HODGES',
+  'EMPTY BALLRJOOM BLUES',
+  '3 SHADES OF BLUE',
+  '',
+  'Sitting In',
+  'Elizabeth Meneray',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '16:14',
+  'NANCY WILSON AND CANNONBALL ADDERLEY',
+  'HAPPY TALK',
+  'Happy Talk',
+  'vocal jazz, jazz, jazz ballads',
+  'Sitting In',
+  'Elizabeth Meneray',
+  'https://open.spotify.com/track/7ahQIRq0EOeY9UYVvABDFp',
+  'found',
+  84.8,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '16:19',
+  'dave brubeck',
+  'Gone With The Wind',
+  'dave brubeck at storyille',
+  'jazz, cool jazz',
+  'Sitting In',
+  'Elizabeth Meneray',
+  'https://open.spotify.com/track/1Ggi3QPEkijZ4UHznlMh7W',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '16:21',
+  'benny goodman',
+  'East Of The Sun',
+  'The Classic 1950s Sessions',
+  '',
+  'Sitting In',
+  'Elizabeth Meneray',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '16:43',
+  'BUDDI COLLETE',
+  'SLEEPY SLEPT HERE',
+  'THE CHICKO HAMILTON QUINTET',
+  '',
+  'Sitting In',
+  'Elizabeth Meneray',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '16:45',
+  'DJKE FETTER LATOUCH',
+  'TAKIN A CHANCE ON LOVE',
+  NULL,
+  '',
+  'Sitting In',
+  'Elizabeth Meneray',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '16:54',
+  'BUDDY DEFRANCO',
+  'OLD BLACK MAGIC',
+  'SWEET AND LOVELY',
+  '',
+  'Sitting In',
+  'Elizabeth Meneray',
+  'https://open.spotify.com/track/0YYYvMw9saiWwA3cRDN6ZN',
+  'found',
+  74.5,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '16:57',
+  'DAVE BRUBECK',
+  'I WAMT TO BE HAPPY',
+  'JAZZ GOES TO COLLEGE',
+  '',
+  'Sitting In',
+  'Elizabeth Meneray',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '17:00',
+  'buddy de franco',
+  'they say it''s wonderful',
+  'sweet and lovely',
+  '',
+  'Sitting In',
+  'Elizabeth Meneray',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '17:16',
+  'JACK MONTROSE QUINTET',
+  'CONCERTINO DA CAMERA (BLUES AND VANILLA)',
+  'BLUES AND VANILLA',
+  'cool jazz, swing music, bebop',
+  'Sitting In',
+  'Elizabeth Meneray',
+  'https://open.spotify.com/track/4zr5c1KQCcDSNySKg6ivtg',
+  'found',
+  74.5,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '17:36',
+  'BARNEY KESSEL',
+  'Satin Doll',
+  'THE POLL WINNERS',
+  '',
+  'Sitting In',
+  'Elizabeth Meneray',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '17:38',
+  'ART Blakey',
+  'CAFE',
+  'a jazz massage',
+  'hard bop, jazz, bebop',
+  'Sitting In',
+  'Elizabeth Meneray',
+  'https://open.spotify.com/track/23GEnfTtqV3zCQY8QaETSJ',
+  'found',
+  82.7,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '17:46',
+  'art blakey',
+  'just knock on my door',
+  'a jazz massage',
+  'hard bop, jazz, bebop',
+  'Sitting In',
+  'Elizabeth Meneray',
+  'https://open.spotify.com/track/4whk8lIF9QP2LBPWJr8uog',
+  'found',
+  82.7,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '17:54',
+  'the modern jazz quartet',
+  'delaunay''s dielemma',
+  'django',
+  '',
+  'Sitting In',
+  'Elizabeth Meneray',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '17:58',
+  'Gene Krupa Orchestra',
+  'Thanks for the Boogie Ride',
+  '45 Single - Okeh',
+  'big band, swing music',
+  'Sitting In',
+  'Elizabeth Meneray',
+  'https://open.spotify.com/track/6OlXaFu6dst9anqntQm8Nz',
+  'found',
+  88.3,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '19:59',
+  'Louis Armstrong',
+  'Hepcat''s Ball',
+  NULL,
+  '',
+  'Hep Cat''s Ball',
+  'the Secretary of Swing',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:05',
+  'Tony Allen',
+  'Gbedu',
+  'Legos No Shaking',
+  'afrobeat',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/4WRoz05bYGW0uoI7qnQLBX',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:13',
+  'The Gladiators',
+  'Looks Is Deceiving',
+  'Dreadlocks The Time Is Now',
+  'roots reggae, reggae, rocksteady',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/3GoATJsKLQG75M4rQa479Z',
+  'found',
+  81.6,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:16',
+  'Hollie Cook',
+  'Milk & Honey',
+  'Hollie Cook',
+  'reggae, dub, roots reggae',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:18',
+  'Hollie Cook',
+  'Together',
+  'Vessel of Love',
+  'reggae, dub, roots reggae',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/74s0iAUGtNzPHReA8Uhybj',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:23',
+  'Winston McAnuff, The Bazbaz Orchestra',
+  'Common Sense',
+  'A Drop',
+  '',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:27',
+  'Bob Marley & The Wailers, Nutty O, Winky D',
+  'So Much Trouble In The World',
+  'Africa Unite',
+  'reggae, roots reggae, dancehall',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/6llDUgUyYmnnismQIpfbEX',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:31',
+  'Don Carlos',
+  'Jah People Unite',
+  'Ease Up',
+  'roots reggae, reggae, dub',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/73q30e2ezrtXQDFyrfxAXf',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:34',
+  'Augustus Pablo',
+  '555 Crown Street',
+  'Rockers Story',
+  'dub, roots reggae, reggae',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/4sS2rWuZpN2KwOF7e8hunc',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:42',
+  'Perfect Giddimani',
+  'Hit Them With Music',
+  'What To Do Riddim',
+  'reggae, roots reggae, ragga',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/5IiYrqwy6NGVDHTXSGwmlF',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:46',
+  'Gladiators',
+  'Naturality',
+  'Dreadlocks The Time Is Now',
+  'roots reggae, reggae, rocksteady',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/7xFDtobpAbrgYkqwy53B8K',
+  'found',
+  74.5,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:51',
+  'Alton Ellis',
+  'Back To Africa',
+  'Lloyd Daley''s Matador Production',
+  'rocksteady, reggae, lovers rock',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/6daVDNsc42HId1FfWsN1Kp',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:53',
+  'Breeze',
+  'Reality',
+  'Woman Talk: Caribbean Dub Poetry',
+  '',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:53',
+  'Jerry Jones',
+  'Trying Times',
+  'Jerry Jones at the Hotel Kingston',
+  'rocksteady, soul jazz, lovers rock',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/48mhkCF8yLeFBWf5X6AHxX',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '20:58',
+  'Dezarie',
+  'Eaze The Pain',
+  'Eaze The Pain',
+  'reggae, roots reggae',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/5mGSP2dK4Ui09iLIRKxJzy',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:01',
+  'Rico',
+  'This Day',
+  'Man From Wareika',
+  '',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/1mvvLt4YksidNbXeW3vseZ',
+  'found',
+  70,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:08',
+  'Rico',
+  'Ramble',
+  'Man From Wareika',
+  '',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:17',
+  'Sister Carol',
+  'Nubian Wombman',
+  'Nubian Wombman',
+  'reggae, roots reggae, ragga',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/3vjGsLZ0M9Uop89CreL6Bz',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:20',
+  'Jason Mraz, Sister Carol',
+  'Time Out (feat. Sister Carol)',
+  'Look For The Good',
+  'soft pop, acoustic pop, reggae',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/3gjzRSiItyvJBysIDJkffH',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:23',
+  'Sister Carol',
+  'International Style',
+  'Black Cinderella',
+  '',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/5MRNQupnoSHZ6GCVVESqnc',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:27',
+  'Nakeeba Amaniyea',
+  'Roots Rasta',
+  'Beyond The Sky',
+  '',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/2uMIDO1Vr7UtmQtmPznVZo',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:28',
+  'Nakeeba Amaniyea, Sister Carol',
+  'Muma and Pickney Reunion',
+  'Beyond The Sky',
+  'reggae, roots reggae, ragga',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/6CMKtktkcrGt3nB4es7EDv',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:30',
+  'Sidney Thrope',
+  'Hot Spot',
+  'Interpertations & Improvisations: T Tribute To Reggae''s Keyboard',
+  '',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:38',
+  'Queen Omega, The Expanders, Walshy Fire',
+  'Roots Daughter Flex',
+  'Top Shelf Riddim',
+  'reggae, ragga, dub',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/3is4AaXyjyt5s2jQliEnrk',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:39',
+  'Doreen Schaffer',
+  'Try A Little Smile',
+  'Adorable You',
+  'rocksteady, lovers rock, roots reggae',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/5ObFPYKe6nhHBKyeTyA7py',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:40',
+  'Chick Webb',
+  'Jungle Mama',
+  'Spinnin` The Webb',
+  'swing music, big band, jazz',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/7jTBgH7GklBZG4enplNQrf',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:44',
+  'U-Roy',
+  'Sound Of The Wise',
+  'Lloyd Daley''s Matador Productions 1968-1972',
+  'reggae, roots reggae, rocksteady',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/46qTIfFLS0uogq5OA5OIa8',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:46',
+  'Big Youth',
+  'Wake Up EverybodyWake Up Everybody',
+  'Hit The Road Jack',
+  '',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:48',
+  'Everton Blender',
+  'Ali Ali Ho',
+  'Higher Heights Revolution',
+  'lovers rock, reggae, roots reggae',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/4MrEp411BPB7pOxYtExdZJ',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:51',
+  'Prince Alla',
+  'Bucket Bottom',
+  'Only Love Can Conquer',
+  'roots reggae, dub, reggae',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/0vLchBeCobi9Xfk0rr4k40',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:53',
+  'Rico',
+  'Lumumba',
+  'Man From Wareika',
+  '',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '21:57',
+  'Protoje, Mortimer',
+  'Truths & Rights',
+  'A Matter Of time',
+  'reggae, roots reggae, ragga',
+  'Spirits of Congo Square',
+  'Baba Geno',
+  'https://open.spotify.com/track/20rK352sPUjBz04rCquZSK',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '22:01',
+  'CENTER OF THE RIVER',
+  'Mississippi',
+  'CENTER OF THE RIVER',
+  '',
+  'What''s New',
+  'Duane Williams',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '22:18',
+  'David Buchbinder',
+  'White Horse',
+  'CENTER OF THE RIVER',
+  '',
+  'What''s New',
+  'Duane Williams',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '22:35',
+  'CENTER OF THE RIVER',
+  'Over in the Glory Land',
+  'CENTER OF THE RIVER',
+  '',
+  'What''s New',
+  'Duane Williams',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '22:42',
+  'Joe Krown',
+  'With You in Mind',
+  'Tribute',
+  '',
+  'What''s New',
+  'Duane Williams',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '22:48',
+  'John Papa Gros',
+  'Yes We Can Can',
+  'GIANTS',
+  '',
+  'What''s New',
+  'Duane Williams',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '22:54',
+  'Funk Monkey',
+  'Double Toke',
+  'Pre-Roll',
+  '',
+  'What''s New',
+  'Duane Williams',
+  'https://open.spotify.com/track/4lVGwvp70NJz2qTydMixjJ',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '23:02',
+  'bonerama',
+  'empty world (so much love)',
+  'so much love',
+  '',
+  'What''s New',
+  'Duane Williams',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '23:06',
+  'Barakat',
+  'Beit Beirut',
+  'Taawilat Sittee',
+  '',
+  'What''s New',
+  'Duane Williams',
+  'https://open.spotify.com/track/2P3FLV9QMaeZAB8rVyKhhR',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '23:13',
+  'David Bandrowski',
+  'Mama & Papa',
+  'Serpentine',
+  '',
+  'What''s New',
+  'Duane Williams',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '23:20',
+  'TOMMY CHEEK',
+  'SUNNY DAY',
+  'ST. CLAUDE BRIDGE',
+  '',
+  'What''s New',
+  'Duane Williams',
+  'https://open.spotify.com/track/244bU28bUMiNqN0h9S8fi3',
+  'found',
+  98,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '23:32',
+  'james houlahan',
+  'I Believe in You',
+  'on a wing',
+  '',
+  'What''s New',
+  'Duane Williams',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '23:38',
+  'Anna Pidgorna, Ludovico Ensemble',
+  'Drown in the depth',
+  'Invented Folksongs',
+  'minimalism',
+  'What''s New',
+  'Duane Williams',
+  'https://open.spotify.com/track/2kvl1kpqORRywZzYfNYUHt',
+  'found',
+  98,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-22',
+  '23:50',
+  'Vesna Pisarovic, Noel Akchote, Tony Buck, Greg Cohen, Axel Dorne',
+  'Pokraj Save bagrem drvo raste',
+  'Poravna',
+  'renaissance, musique concrète, free jazz',
+  'What''s New',
+  'Duane Williams',
+  'https://open.spotify.com/track/4HMbRVmQMz9IRlZRVbhwY9',
+  'found',
+  77.4,
+  '2026-02-23 09:10:59'
+);
+
+DELETE FROM wwoz_tracks WHERE date = '2026-02-23';
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:01',
+  'Rahsaan Roland Kirk',
+  'No Tonic Press',
+  'Rip, Rig, and Panic',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:05',
+  'Billy Pierce',
+  'The Future is Now',
+  'Give and Take',
+  'hard bop, bebop, jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/31GZycEVL60nfc0iRZMgMJ',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:11',
+  'Spencer Bohren',
+  'Skin a Cat',
+  'Seven Birds',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:16',
+  'Curtis Stigers',
+  'Dirty Water',
+  'Lost in Dreams',
+  'vocal jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/29lUVvbwKyauw5TXdaEHNT',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:21',
+  'The Last Poets',
+  'Bird''s Word',
+  NULL,
+  'spoken word',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/58Cpxpq46Lfj6Y42GSHb5B',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:27',
+  'Billy Paul',
+  'Peace Holy Peace',
+  'War of the Gods',
+  'philly soul, classic soul, soul',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:34',
+  'The Neville Brothers',
+  'My Brother''s Keeper',
+  NULL,
+  'cajun, zydeco',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/4IJD8rhBCvafc98R1cUJUw',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:37',
+  'Charles Lloyd & The Marvels',
+  'Peace',
+  'Tone Poem',
+  'jazz, free jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/2DNisYLgSdMhaFBbXmFpE2',
+  'found',
+  75.1,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:42',
+  'LYR',
+  'After the Carnival',
+  'An Unnatural History',
+  'spoken word',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/2AvJaG0BmjP75rNXAp6wX5',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:46',
+  'Al Jarreau',
+  'Take Five',
+  NULL,
+  'yacht rock, smooth jazz, vocal jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0i61htnvT0fj2DdA68z5uv',
+  'found',
+  98,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:49',
+  'Tito Puente',
+  'Take Five',
+  NULL,
+  'latin jazz, afro-cuban jazz, cha cha cha',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/7t43m7V3xrlUMrIHlphxTm',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '00:57',
+  'Friends of Jabu',
+  'From Ash, To Seed, To Flower',
+  'First Offering',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/6gsnDZwjbPw0S3zPeRJp7j',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:02',
+  'Ed Harcourt',
+  'After Carnival',
+  'Monochrome to Colour',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/2xsziJSC6ZXVYxeuXyv6HG',
+  'found',
+  89.7,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:07',
+  'Naked Orchestra',
+  'The Heart of Diego Rivera',
+  'From Pandemonium to a View of Eidolons',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/2hiCaYFy3Qq26Wzo0Nh8sI',
+  'found',
+  86,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:13',
+  'Celia Cruz, Willie Colon, & Johnny Pacheco',
+  'Quimbara',
+  NULL,
+  'salsa, son cubano, bolero',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/1CkuZ3qvhxfMv7y0Nt0sV5',
+  'found',
+  75.1,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:17',
+  'Willie Colon & Hector Lavoe',
+  'El Dia de Mi Suerte',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:23',
+  'Willie Colon',
+  'Talento de Television',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:27',
+  'Johnny Pacheco & Celia Cruz',
+  'Toro Mata',
+  NULL,
+  'salsa, son cubano, latin jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/6gjpaSYPsEtE91CztLsyt0',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:33',
+  'Fania All-Stars',
+  'Quitate Tu',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:39',
+  'Charlie Parker w/Al Haig, Kenny Dorham, Max Roach, Tommy Potter',
+  'Little Willie Leaps',
+  NULL,
+  'bebop, jazz, hard bop',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0qOfllgfH0LAiJajpPvQmU',
+  'found',
+  95.2,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:43',
+  'Bobby Previte & the New Bump',
+  'Set the Alarm for Monday',
+  NULL,
+  'free jazz, jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/5MVBUEzT5zAuw7cwWkGq3X',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:49',
+  'Jimmy Smith w/Etta James & Dr. John',
+  'I Just Wanna Make Love to You',
+  'Dot Com Blues',
+  'hard bop, soul jazz, jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/1uxasgAnJi3jZZkGuJWQFk',
+  'found',
+  92.8,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:53',
+  'Serabee w/Russell Batiste',
+  'New Orleans',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '01:59',
+  'Preservation Hall Jazz Band',
+  'St. James Infirmary',
+  NULL,
+  'brass band, swing music, ragtime',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/5nqbUJ751TPqbUSXj1DQUY',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:04',
+  'Billie Holiday',
+  'Do You Know What It Means to Miss New Orleans',
+  NULL,
+  'jazz, vocal jazz, big band',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/5Q8D29Q2BcBnMQHjQGxlMH',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:05',
+  'Vitamin String Quartet',
+  'God Only Knows',
+  NULL,
+  'orchestral',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/3SlxghuYSMBUa9wGeCnkqg',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:09',
+  'John Wright',
+  'Now Hang In There',
+  'The Soul Touch of John Wright',
+  'traditional folk',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/3DRq57VOBNDUsCve6DMt6N',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:13',
+  'Christine Lavin',
+  'Cold Pizza for Breakfast',
+  NULL,
+  'folk',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/1DmQz0PblmcUacIIifJv3z',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:16',
+  'Dr. John',
+  'New York City Blues',
+  'Afterglow',
+  'cajun, zydeco',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:19',
+  'Louis Armstrong w/Thelma Middleton & His All Stars',
+  'Baby It''s Cold Outside',
+  'Live at the Pasadena Civic Auditorium 1951',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:25',
+  'Hank Jones & Oliver Nelson',
+  'Spy with a Cold Nose',
+  NULL,
+  'jazz, hard bop, bebop',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/7CcClOT4oE1THs0G2iQ2wW',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:28',
+  'Gil Scott-Heron',
+  'Everyday',
+  'Small Talk at 125th and Lenox',
+  'spoken word, jazz funk',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/2lqvn7XuKbMQffUMX8anet',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:33',
+  'Kip Hanrahan',
+  'Velasquez',
+  'Desire Develops an Edge',
+  'afro-cuban jazz, latin jazz, free jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/3oxd8jaNygz4JYO6zdofxu',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:38',
+  'Sinne Egg & Thomas Fonnesbaek',
+  'The Dry Cleaner from Des Moines',
+  'Staying in Touch',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:43',
+  'Betty Carter',
+  '''Round Midnight',
+  NULL,
+  'vocal jazz, jazz, jazz ballads',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/3VS1qUm62nDLZJtxd0V2bb',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:44',
+  'Ravi Coltrane',
+  '''Round Midnight',
+  'Mad 6',
+  'jazz, free jazz, jazz ballads',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/1UAAZySSY9Mpyb8QIYic0y',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:50',
+  'Jeff Albert',
+  'Similar in the Opposite Way',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:56',
+  'James Bond Sextet',
+  'For Your Eyes Only',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/4q1BySiOKFjGXvb6tqlHj5',
+  'found',
+  100,
+  '2026-02-23 09:10:59'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-23',
+  '02:58',
+  'Louis Prima',
+  'Buona Sera',
+  'Angelina [Prima]',
+  'swing music, big band',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0DXm5n7SBxCED9ssTvrx2J',
+  'found',
+  81.7,
+  '2026-02-23 09:10:59'
 );
