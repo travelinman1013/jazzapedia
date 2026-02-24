@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-02-24T07:51:38.256Z
+-- Generated: 2026-02-24T10:30:07.320Z
 -- Mode: INCREMENTAL
--- Last export: 2026-02-24 07:50:21
+-- Last export: 2026-02-24 07:51:38
 -- Days: 4
--- Tracks: 517
+-- Tracks: 525
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":118,"successfullyFound":54,"notFound":64,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-21 10:30:06',
-  '2026-02-24 07:51:37'
+  '2026-02-24 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":146,"successfullyFound":89,"notFound":57,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-23 09:10:59',
-  '2026-02-24 07:51:37'
+  '2026-02-24 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":218,"successfullyFound":148,"notFound":70,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-23 09:10:59',
-  '2026-02-24 07:51:37'
+  '2026-02-24 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-02-24',
   NULL,
-  '{"totalTracks":23,"successfullyFound":11,"notFound":12,"lowConfidence":0,"duplicates":0}',
+  '{"totalTracks":31,"successfullyFound":18,"notFound":13,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-24 07:50:20',
-  '2026-02-24 07:51:37'
+  '2026-02-24 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -8343,4 +8343,132 @@ VALUES (
   'not_found',
   NULL,
   '2026-02-24 07:50:21'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-24',
+  '01:28',
+  'Young Fathers',
+  'I Heard',
+  'TAPE TWO',
+  'experimental hip hop',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ',
+  'found',
+  100,
+  '2026-02-24 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-24',
+  '01:32',
+  'Handsome Boy Modeling School',
+  'I''ve Been Thinking (feat. Cat Power)',
+  'White People',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-02-24 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-24',
+  '01:37',
+  'Gorillaz',
+  'Tomorrow Comes Today',
+  'Gorillaz',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/3qdDjz9kOvquEFbvXBYOMQ',
+  'found',
+  100,
+  '2026-02-24 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-24',
+  '01:42',
+  'Nightmares on Wax',
+  'You Wish',
+  'In a Space Outta Sound',
+  'trip hop, downtempo, acid jazz',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m',
+  'found',
+  100,
+  '2026-02-24 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-24',
+  '01:46',
+  'Charlotte Day Wilson',
+  'Patchwork',
+  'Patchwork',
+  'alternative r&b',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/3n5EsLJkjOwYVpx2yE7k4Y',
+  'found',
+  100,
+  '2026-02-24 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-24',
+  '01:47',
+  'Flea',
+  'Thinkin Bout You',
+  'Honora',
+  'funk rock',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/4LiSdLjUXbS4daVzBJCTwH',
+  'found',
+  100,
+  '2026-02-24 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-24',
+  '01:52',
+  'Sade',
+  'Soldier of Love',
+  'Soldier of Love',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz',
+  'found',
+  100,
+  '2026-02-24 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-02-24',
+  '01:58',
+  'James Blake',
+  'I Had a Dream She Took My Hand',
+  'Trying Times',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5',
+  'found',
+  100,
+  '2026-02-24 10:30:06'
 );
