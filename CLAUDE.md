@@ -20,7 +20,7 @@ jazzapedia/
 │       ├── scripts/            # Sync and deployment scripts
 │       └── src/
 │           ├── content/wwoz/   # WWOZ archive files
-│           └── data/           # Generated data files (artist-slugs.json)
+│           └── data/           # Generated data files (artist-slugs.json, playlists.json)
 ├── packages/
 │   ├── types/            # @jazzapedia/types - shared interfaces
 │   ├── db/               # @jazzapedia/db - database abstraction
@@ -90,6 +90,7 @@ Tables:
 | Portraits | `portraits/` | ❌ NO (gitignored) | R2 / Local filesystem |
 | Portraits (deploy) | `content-deploy/portraits/` | ✅ YES (for D1 sync matching) | Not served directly |
 | WWOZ archives | `archives/` symlink | ❌ NO (gitignored) | Database (wwoz_days, wwoz_tracks) |
+| Playlist data | `apps/web/src/data/playlists.json` | ✅ YES | Static JSON (read at build time) |
 
 **Key Principle**: Artist and WWOZ content are **database-driven**, not file-driven. The website reads from D1 (production) or SQLite (Docker), NOT from markdown files. Git only tracks `content-deploy/` as an intermediary for the D1 sync process.
 
@@ -288,6 +289,33 @@ npm run sync:wwoz:db:dry-run      # Preview changes
 - `apps/web/src/pages/wwoz/index.astro` - Archive index (database-driven)
 - `apps/web/src/pages/wwoz/[date].astro` - Day detail page (database-driven)
 
+## Spotify Playlists Page
+
+The `/playlists` page displays Spotify playlists in three sections:
+
+1. **Live Playlist** — The main WWOZTracker rolling playlist (ID: `3hMHYtjltORPaT2RPvPZZO`) with a Spotify embed
+2. **Archives** — Multi-day archived playlists (named `WWOZTracker M/D/YY - M/D/YY`), created automatically when the live playlist exceeds 65 hours
+3. **Max Trax** — Legacy personal playlists (older playlists no longer visible on Spotify profile due to the 200 public playlist limit)
+
+**Data source:** `apps/web/src/data/playlists.json` — a static JSON file with categorized playlist entries (live, archives, legacy). This file is read at build time by the Astro page.
+
+**Auto-update:** When `PlaylistArchiver` creates a new archive, it automatically appends the new entry to `playlists.json` (newest first in the archives array).
+
+**Export script:** `apps/scraper/src/scripts/export-playlists.ts` fetches all playlists from the Spotify API and generates:
+- `apps/web/src/data/playlists.json` — categorized data for the website
+- `exports/playlists.csv` — flat CSV of all playlists for sharing
+
+```bash
+# Regenerate playlists data from Spotify
+cd apps/scraper && npx tsx src/scripts/export-playlists.ts
+```
+
+**Key files:**
+- `apps/web/src/pages/playlists.astro` - Playlists page
+- `apps/web/src/data/playlists.json` - Playlist data (git-tracked)
+- `apps/scraper/src/scripts/export-playlists.ts` - Export/regeneration script
+- `apps/scraper/src/services/PlaylistArchiver.ts` - Auto-appends new archives
+
 ## Web Application
 
 Astro SSR with conditional adapters:
@@ -305,6 +333,7 @@ Key routes:
 - `/wwoz` - WWOZ daily archive index
 - `/wwoz/[date]` - Individual day's track log
 - `/wwoz/insights` - Archive statistics dashboard
+- `/playlists` - Spotify playlists (live, archives, Max Trax)
 - `/api/*` - API endpoints
 
 ## Favicon & Open Graph (Link Previews)
@@ -390,6 +419,7 @@ Volumes:
 | `sync-wwoz-db.ts` | Sync WWOZ archives to database | Local + GitHub Actions |
 | `upload-portraits-r2.ts` | Upload portraits to R2 | Local (unified-daily-sync.sh) |
 | `unified-daily-sync.sh` | Orchestrates all sync operations | Local (launchd at 4:30am CT) |
+| `export-playlists.ts` | Export Spotify playlists to JSON + CSV | Manual (scraper scripts dir) |
 
 ## Common Tasks
 
