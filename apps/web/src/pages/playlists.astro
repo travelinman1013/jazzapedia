@@ -1,0 +1,477 @@
+---
+import Layout from '../layouts/Layout.astro';
+import playlistData from '../data/playlists.json';
+
+const { live, archives, legacy } = playlistData;
+
+// Calculate total tracks across all archives
+const totalArchiveTracks = archives.reduce((sum, a) => sum + a.trackCount, 0);
+---
+
+<Layout
+  title="Playlists"
+  description="Spotify playlists from the WWOZTracker — live, archived, and legacy collections"
+>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-badge">LISTEN</div>
+      <h1 class="hero-title">
+        <span class="hero-title-accent">Playlists</span>
+      </h1>
+      <p class="hero-subtitle">Every track we've tracked on WWOZ, available on Spotify</p>
+    </div>
+    <div class="hero-decoration"></div>
+  </section>
+
+  <!-- Live Playlist -->
+  <section class="content-section">
+    <header class="section-header">
+      <div class="section-title-group">
+        <span class="section-icon">&#127925;</span>
+        <h2 class="section-title">Live Playlist</h2>
+      </div>
+      <p class="section-subtitle">Updated continuously as WWOZ plays</p>
+    </header>
+
+    <div class="live-card">
+      <div class="live-card-content">
+        <div class="live-badge">
+          <span class="live-dot"></span>
+          LIVE
+        </div>
+        <h3 class="live-name">{live.name}</h3>
+        <p class="live-description">{live.description}</p>
+        <a href={live.url} target="_blank" rel="noopener noreferrer" class="spotify-btn">
+          <svg class="spotify-icon" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+            <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
+          </svg>
+          Listen on Spotify
+        </a>
+      </div>
+      <div class="live-card-embed">
+        <iframe
+          style="border-radius:12px"
+          src={`https://open.spotify.com/embed/playlist/${live.id}?utm_source=generator&theme=0`}
+          width="100%"
+          height="352"
+          frameBorder="0"
+          allowfullscreen=""
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"
+        ></iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- Archives -->
+  <section class="content-section">
+    <header class="section-header">
+      <div class="section-title-group">
+        <span class="section-icon">&#128218;</span>
+        <h2 class="section-title">Archives</h2>
+      </div>
+      <p class="section-subtitle">{archives.length} playlists &middot; {totalArchiveTracks.toLocaleString()} tracks</p>
+    </header>
+
+    <div class="archives-grid">
+      {archives.map((archive) => {
+        const start = new Date(archive.startDate + 'T12:00:00');
+        const end = new Date(archive.endDate + 'T12:00:00');
+        const startStr = start.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        const endStr = end.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        return (
+          <a href={archive.url} target="_blank" rel="noopener noreferrer" class="archive-card">
+            <div class="archive-dates">{startStr} &ndash; {endStr}</div>
+            <div class="archive-tracks">{archive.trackCount.toLocaleString()} tracks</div>
+            <div class="archive-listen">
+              <svg class="spotify-icon-sm" viewBox="0 0 24 24" fill="currentColor" width="16" height="16">
+                <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
+              </svg>
+              Open
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- Legacy Playlists -->
+  {legacy.length > 0 && (
+    <section class="content-section">
+      <header class="section-header">
+        <div class="section-title-group">
+          <span class="section-icon">&#127926;</span>
+          <h2 class="section-title">Max Trax</h2>
+        </div>
+        <p class="section-subtitle">{legacy.length} playlists</p>
+      </header>
+
+      <div class="legacy-list">
+        {legacy.map((pl) => (
+          <a href={pl.url} target="_blank" rel="noopener noreferrer" class="legacy-item">
+            <div class="legacy-info">
+              <span class="legacy-name">{pl.name}</span>
+              {pl.description && <span class="legacy-desc">{pl.description}</span>}
+            </div>
+            <div class="legacy-meta">
+              <span class="legacy-tracks">{pl.trackCount} tracks</span>
+              <svg class="spotify-icon-sm" viewBox="0 0 24 24" fill="currentColor" width="16" height="16">
+                <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
+              </svg>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+</Layout>
+
+<style>
+  /* ============================================
+     Hero Section (matches homepage/about)
+     ============================================ */
+  .hero {
+    position: relative;
+    padding: 3rem 0;
+    margin: -1.5rem -1.5rem 2rem -1.5rem;
+    background: linear-gradient(135deg, var(--color-bg-nav) 0%, var(--color-bg) 100%);
+    border-bottom: 2px solid var(--jazz-brass);
+    overflow: hidden;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.02) 2px,
+      rgba(0, 0, 0, 0.02) 4px
+    );
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative;
+    text-align: center;
+    padding: 0 1.5rem;
+  }
+
+  .hero-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    margin-bottom: 1rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    color: var(--jazz-amber);
+    border: 1px solid var(--jazz-brass);
+    border-radius: 9999px;
+  }
+
+  .hero-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: clamp(2.5rem, 8vw, 4rem);
+    font-weight: 600;
+    line-height: 1.1;
+    margin: 0;
+    color: var(--color-text-heading);
+  }
+
+  .hero-title-accent {
+    display: block;
+    background: linear-gradient(135deg, var(--jazz-amber) 0%, var(--electric-cyan) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .hero-subtitle {
+    margin: 1rem 0 0;
+    color: var(--color-text-muted);
+    font-size: 1rem;
+  }
+
+  .hero-decoration {
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent 0%, var(--jazz-amber) 50%, transparent 100%);
+  }
+
+  :global([data-mode="dark"]) .hero {
+    background: linear-gradient(135deg, var(--jazz-smoke) 0%, var(--jazz-black) 100%);
+  }
+
+  :global([data-mode="dark"]) .hero::before {
+    background-image: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(255, 255, 255, 0.02) 2px,
+      rgba(255, 255, 255, 0.02) 4px
+    );
+  }
+
+  /* ============================================
+     Content Sections (matches homepage/about)
+     ============================================ */
+  .content-section {
+    margin-bottom: 3rem;
+  }
+
+  .section-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem 1rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .section-title-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .section-icon {
+    font-size: 1.25rem;
+  }
+
+  .section-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: var(--color-text-heading);
+    margin: 0;
+  }
+
+  .section-subtitle {
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+    margin: 0;
+    flex: 1;
+  }
+
+  /* ============================================
+     Live Playlist Card
+     ============================================ */
+  .live-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    align-items: start;
+    padding: 1.5rem;
+    background: var(--color-bg-elevated, var(--color-bg-nav));
+    border: 1px solid var(--jazz-brass);
+    border-radius: var(--radius-lg);
+  }
+
+  @media (max-width: 768px) {
+    .live-card {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .live-card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .live-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.25rem 0.75rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    color: #1db954;
+    background: rgba(29, 185, 84, 0.1);
+    border: 1px solid rgba(29, 185, 84, 0.3);
+    border-radius: 9999px;
+    width: fit-content;
+  }
+
+  .live-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #1db954;
+    animation: pulse 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+
+  .live-name {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: var(--color-text-heading);
+    margin: 0;
+  }
+
+  .live-description {
+    color: var(--color-text-muted);
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  .spotify-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.625rem 1.25rem;
+    background: #1db954;
+    color: white;
+    font-weight: 600;
+    font-size: 0.875rem;
+    border-radius: 9999px;
+    text-decoration: none;
+    width: fit-content;
+    transition: background var(--duration-fast) var(--ease-smooth),
+                transform var(--duration-fast) var(--ease-smooth);
+  }
+
+  .spotify-btn:hover {
+    background: #1ed760;
+    transform: translateY(-1px);
+  }
+
+  .spotify-icon {
+    flex-shrink: 0;
+  }
+
+  /* ============================================
+     Archives Grid
+     ============================================ */
+  .archives-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .archive-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 1rem;
+    background: var(--color-bg-elevated, var(--color-bg-nav));
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: border-color var(--duration-fast) var(--ease-smooth),
+                transform var(--duration-fast) var(--ease-smooth);
+  }
+
+  .archive-card:hover {
+    border-color: var(--jazz-brass);
+    transform: translateY(-2px);
+  }
+
+  .archive-dates {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--color-text-heading);
+  }
+
+  .archive-tracks {
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+  }
+
+  .archive-listen {
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+    margin-top: 0.25rem;
+    font-size: 0.75rem;
+    color: #1db954;
+    font-weight: 500;
+  }
+
+  .spotify-icon-sm {
+    flex-shrink: 0;
+  }
+
+  /* ============================================
+     Legacy Playlists List
+     ============================================ */
+  .legacy-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .legacy-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem 1rem;
+    background: var(--color-bg-elevated, var(--color-bg-nav));
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: border-color var(--duration-fast) var(--ease-smooth);
+  }
+
+  .legacy-item:hover {
+    border-color: var(--jazz-brass);
+  }
+
+  .legacy-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.125rem;
+    min-width: 0;
+  }
+
+  .legacy-name {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--color-text-heading);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .legacy-desc {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 400px;
+  }
+
+  .legacy-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-shrink: 0;
+  }
+
+  .legacy-tracks {
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+  }
+</style>

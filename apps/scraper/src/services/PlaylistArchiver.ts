@@ -1,4 +1,6 @@
 import dayjs from 'dayjs';
+import fs from 'fs';
+import path from 'path';
 import { Logger } from '../utils/logger.js';
 import { config } from '../utils/config.js';
 import type { SpotifyEnricher } from '../modules/enrichers/SpotifyEnricher.js';
@@ -83,10 +85,82 @@ export class PlaylistArchiver {
         Logger.info('Cleared main playlist cache after archiving.');
       }
 
+      // Step 7: Append to playlists.json for the website
+      this.appendToPlaylistsJson(archivePlaylist, tracks.length, startDate, endDate);
+
       Logger.info(`Playlist archiving completed successfully: ${archivePlaylistName}`);
     } catch (err) {
       Logger.error('Playlist archiving failed:', err as Error);
       throw err;
+    }
+  }
+
+  /**
+   * Append a new archive entry to the web app's playlists.json file.
+   * Searches for the file relative to common monorepo layouts.
+   */
+  private appendToPlaylistsJson(
+    playlist: { id: string; name: string; url: string },
+    trackCount: number,
+    startDateDisplay: string,
+    endDateDisplay: string,
+  ): void {
+    // Resolve playlists.json path - try env var, then common monorepo paths
+    const candidates = [
+      process.env.PLAYLISTS_JSON_PATH,
+      path.resolve(process.cwd(), '../../apps/web/src/data/playlists.json'),
+      path.resolve(process.cwd(), '../web/src/data/playlists.json'),
+      // Docker: if mounted as a shared volume
+      '/app/apps/web/src/data/playlists.json',
+    ].filter(Boolean) as string[];
+
+    let jsonPath: string | null = null;
+    for (const p of candidates) {
+      if (fs.existsSync(p)) {
+        jsonPath = p;
+        break;
+      }
+    }
+
+    if (!jsonPath) {
+      Logger.warn('Could not find playlists.json to append archive entry. Skipping.');
+      return;
+    }
+
+    try {
+      const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+
+      // Parse display dates (M/D/YY) to ISO (YYYY-MM-DD)
+      const parseDate = (d: string): string => {
+        const parts = d.split('/');
+        if (parts.length !== 3) return '';
+        const [m, day, y] = parts;
+        return `20${y}-${m.padStart(2, '0')}-${day.padStart(2, '0')}`;
+      };
+
+      const entry = {
+        id: playlist.id,
+        name: playlist.name,
+        url: playlist.url,
+        trackCount,
+        startDate: parseDate(startDateDisplay),
+        endDate: parseDate(endDateDisplay),
+      };
+
+      // Check for duplicates
+      if (data.archives?.some((a: any) => a.id === playlist.id)) {
+        Logger.info(`Archive ${playlist.id} already in playlists.json, skipping.`);
+        return;
+      }
+
+      // Insert at the beginning (newest first)
+      if (!data.archives) data.archives = [];
+      data.archives.unshift(entry);
+
+      fs.writeFileSync(jsonPath, JSON.stringify(data, null, 2) + '\n');
+      Logger.info(`Appended archive to playlists.json: ${playlist.name}`);
+    } catch (err) {
+      Logger.warn(`Failed to update playlists.json: ${(err as Error).message}`);
     }
   }
 

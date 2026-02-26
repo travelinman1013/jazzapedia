@@ -1,0 +1,369 @@
+{
+  "live": {
+    "id": "3hMHYtjltORPaT2RPvPZZO",
+    "name": "WWOZTracker",
+    "url": "https://open.spotify.com/playlist/3hMHYtjltORPaT2RPvPZZO",
+    "description": "Live rolling playlist of tracks heard on WWOZ 90.7 FM New Orleans"
+  },
+  "archives": [
+    {
+      "id": "2F8RRK1CHDHLrQS9qTpq99",
+      "name": "WWOZTracker 2/8/26 - 2/19/26",
+      "url": "https://open.spotify.com/playlist/2F8RRK1CHDHLrQS9qTpq99",
+      "trackCount": 925,
+      "startDate": "2026-02-08",
+      "endDate": "2026-02-19"
+    },
+    {
+      "id": "05CJxcZ6kzKfZebxcEd5Xi",
+      "name": "WWOZTracker 1/31/26 - 2/9/26",
+      "url": "https://open.spotify.com/playlist/05CJxcZ6kzKfZebxcEd5Xi",
+      "trackCount": 932,
+      "startDate": "2026-01-31",
+      "endDate": "2026-02-09"
+    },
+    {
+      "id": "5TLv3Bxlmcj7dwKphaTWr6",
+      "name": "WWOZTracker 1/24/26 - 2/1/26",
+      "url": "https://open.spotify.com/playlist/5TLv3Bxlmcj7dwKphaTWr6",
+      "trackCount": 903,
+      "startDate": "2026-01-24",
+      "endDate": "2026-02-01"
+    },
+    {
+      "id": "1hFUA4IvStyB8IjTectU9i",
+      "name": "WWOZTracker 1/16/26 - 1/25/26",
+      "url": "https://open.spotify.com/playlist/1hFUA4IvStyB8IjTectU9i",
+      "trackCount": 908,
+      "startDate": "2026-01-16",
+      "endDate": "2026-01-25"
+    },
+    {
+      "id": "3ItSKoR7X1yLox7Lg4Txs5",
+      "name": "WWOZTracker 1/8/26 - 1/17/26",
+      "url": "https://open.spotify.com/playlist/3ItSKoR7X1yLox7Lg4Txs5",
+      "trackCount": 912,
+      "startDate": "2026-01-08",
+      "endDate": "2026-01-17"
+    },
+    {
+      "id": "0ATvOyZmQkfKbkBM5PRsU0",
+      "name": "WWOZTracker 1/1/26 - 1/9/26",
+      "url": "https://open.spotify.com/playlist/0ATvOyZmQkfKbkBM5PRsU0",
+      "trackCount": 920,
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-09"
+    },
+    {
+      "id": "1qHaiLynykhcoIU8eVPzPY",
+      "name": "WWOZTracker 12/24/25 - 1/2/26",
+      "url": "https://open.spotify.com/playlist/1qHaiLynykhcoIU8eVPzPY",
+      "trackCount": 953,
+      "startDate": "2025-12-24",
+      "endDate": "2026-01-02"
+    },
+    {
+      "id": "0iVRShECiWShK5c43DEJZh",
+      "name": "WWOZTracker 12/14/25 - 12/24/25",
+      "url": "https://open.spotify.com/playlist/0iVRShECiWShK5c43DEJZh",
+      "trackCount": 991,
+      "startDate": "2025-12-14",
+      "endDate": "2025-12-24"
+    },
+    {
+      "id": "4G0Bn8VH7EV1huDTBh3s3n",
+      "name": "WWOZTracker 12/7/25 - 12/15/25",
+      "url": "https://open.spotify.com/playlist/4G0Bn8VH7EV1huDTBh3s3n",
+      "trackCount": 903,
+      "startDate": "2025-12-07",
+      "endDate": "2025-12-15"
+    },
+    {
+      "id": "0dKCCN3Ry43vM7FFCm3mpi",
+      "name": "WWOZTracker 11/30/25 - 12/8/25",
+      "url": "https://open.spotify.com/playlist/0dKCCN3Ry43vM7FFCm3mpi",
+      "trackCount": 908,
+      "startDate": "2025-11-30",
+      "endDate": "2025-12-08"
+    },
+    {
+      "id": "3BxktHM21veUWOk6wfRrIz",
+      "name": "WWOZTracker 11/23/25 - 12/1/25",
+      "url": "https://open.spotify.com/playlist/3BxktHM21veUWOk6wfRrIz",
+      "trackCount": 992,
+      "startDate": "2025-11-23",
+      "endDate": "2025-12-01"
+    },
+    {
+      "id": "0wbijX8uYrYbNIuGve5rKY",
+      "name": "WWOZTracker 11/15/25 - 11/23/25",
+      "url": "https://open.spotify.com/playlist/0wbijX8uYrYbNIuGve5rKY",
+      "trackCount": 908,
+      "startDate": "2025-11-15",
+      "endDate": "2025-11-23"
+    },
+    {
+      "id": "6xJs4x9PYEmIqYyibU8KpF",
+      "name": "WWOZTracker 11/8/25 - 11/16/25",
+      "url": "https://open.spotify.com/playlist/6xJs4x9PYEmIqYyibU8KpF",
+      "trackCount": 913,
+      "startDate": "2025-11-08",
+      "endDate": "2025-11-16"
+    },
+    {
+      "id": "6wp8HW8CHk6FKul1Tfp1JL",
+      "name": "WWOZTracker 10/31/25 - 11/9/25",
+      "url": "https://open.spotify.com/playlist/6wp8HW8CHk6FKul1Tfp1JL",
+      "trackCount": 936,
+      "startDate": "2025-10-31",
+      "endDate": "2025-11-09"
+    },
+    {
+      "id": "7pvlRshJfAm9FUoJdN5770",
+      "name": "WWOZTracker 10/23/25 - 11/1/25",
+      "url": "https://open.spotify.com/playlist/7pvlRshJfAm9FUoJdN5770",
+      "trackCount": 952,
+      "startDate": "2025-10-23",
+      "endDate": "2025-11-01"
+    },
+    {
+      "id": "0EzpvvcRHsZw3xs1tOtJ77",
+      "name": "WWOZTracker 10/15/25 - 10/24/25",
+      "url": "https://open.spotify.com/playlist/0EzpvvcRHsZw3xs1tOtJ77",
+      "trackCount": 932,
+      "startDate": "2025-10-15",
+      "endDate": "2025-10-24"
+    },
+    {
+      "id": "7zWCAiUGvCK1a7eJfuo2vl",
+      "name": "WWOZTracker 9/30/25 - 10/16/25",
+      "url": "https://open.spotify.com/playlist/7zWCAiUGvCK1a7eJfuo2vl",
+      "trackCount": 1040,
+      "startDate": "2025-09-30",
+      "endDate": "2025-10-16"
+    },
+    {
+      "id": "4K1a7oYwaSPknCa73Stx8P",
+      "name": "WWOZTracker 9/11/25 - 9/30/25",
+      "url": "https://open.spotify.com/playlist/4K1a7oYwaSPknCa73Stx8P",
+      "trackCount": 978,
+      "startDate": "2025-09-11",
+      "endDate": "2025-09-30"
+    },
+    {
+      "id": "1Y67x7Czlkdvwrz08GQQFD",
+      "name": "WWOZTracker 9/11/25 - 9/18/25",
+      "url": "https://open.spotify.com/playlist/1Y67x7Czlkdvwrz08GQQFD",
+      "trackCount": 796,
+      "startDate": "2025-09-11",
+      "endDate": "2025-09-18"
+    },
+    {
+      "id": "2UBBzAv2otqzo6n3jR5fg3",
+      "name": "WWOZTracker 8/28/25 - 9/11/25",
+      "url": "https://open.spotify.com/playlist/2UBBzAv2otqzo6n3jR5fg3",
+      "trackCount": 937,
+      "startDate": "2025-08-28",
+      "endDate": "2025-09-11"
+    },
+    {
+      "id": "5lxm4h6YoAytFNF6ZHPMvB",
+      "name": "WWOZTracker 8/28/25 - 9/4/25",
+      "url": "https://open.spotify.com/playlist/5lxm4h6YoAytFNF6ZHPMvB",
+      "trackCount": 878,
+      "startDate": "2025-08-28",
+      "endDate": "2025-09-04"
+    },
+    {
+      "id": "4NimhzkDxa8RlSpKu9BeRR",
+      "name": "WWOZTracker  8/16/25 - 8/28/25",
+      "url": "https://open.spotify.com/playlist/4NimhzkDxa8RlSpKu9BeRR",
+      "trackCount": 1354,
+      "startDate": "2025-08-16",
+      "endDate": "2025-08-28"
+    },
+    {
+      "id": "2hXCMtkGBjqVbPaerolFVV",
+      "name": "WWOZTracker 8/6/25 - 8 /16/25",
+      "url": "https://open.spotify.com/playlist/2hXCMtkGBjqVbPaerolFVV",
+      "trackCount": 1010,
+      "startDate": "2025-08-06",
+      "endDate": "2025-08-16"
+    },
+    {
+      "id": "2JeXFyoJVvJK0gEQPNlwNp",
+      "name": "WWOZTracker 7/30/25 - 8/6/25",
+      "url": "https://open.spotify.com/playlist/2JeXFyoJVvJK0gEQPNlwNp",
+      "trackCount": 1076,
+      "startDate": "2025-07-30",
+      "endDate": "2025-08-06"
+    },
+    {
+      "id": "5mgL3VBZwEguSfRp56vKNS",
+      "name": "WWOZTracker 7/22/25 - 7/29/25",
+      "url": "https://open.spotify.com/playlist/5mgL3VBZwEguSfRp56vKNS",
+      "trackCount": 1042,
+      "startDate": "2025-07-22",
+      "endDate": "2025-07-29"
+    },
+    {
+      "id": "6KNs0ht6d5PeWJNtN3cgM1",
+      "name": "WWOZTracker 7/15/25 - 7/22/25",
+      "url": "https://open.spotify.com/playlist/6KNs0ht6d5PeWJNtN3cgM1",
+      "trackCount": 1037,
+      "startDate": "2025-07-15",
+      "endDate": "2025-07-22"
+    },
+    {
+      "id": "29q25Qm7bXJIPJfEkaa8w6",
+      "name": "WWOZTracker 7/9/25 - 7/15/25",
+      "url": "https://open.spotify.com/playlist/29q25Qm7bXJIPJfEkaa8w6",
+      "trackCount": 939,
+      "startDate": "2025-07-09",
+      "endDate": "2025-07-15"
+    },
+    {
+      "id": "6jkkOgzUBFdv2Z5AcKNtze",
+      "name": "WWOZTracker 7/2/25 - 7/9/25",
+      "url": "https://open.spotify.com/playlist/6jkkOgzUBFdv2Z5AcKNtze",
+      "trackCount": 1021,
+      "startDate": "2025-07-02",
+      "endDate": "2025-07-09"
+    }
+  ],
+  "legacy": [
+    {
+      "id": "1jvUhm6GI8k2SLlqREjhtw",
+      "name": "Max Trax: Vol. Rocktober 2024",
+      "url": "https://open.spotify.com/playlist/1jvUhm6GI8k2SLlqREjhtw",
+      "trackCount": 13,
+      "description": ""
+    },
+    {
+      "id": "7Av3OpTLcet11BYGTUTTwK",
+      "name": "Max Trax: Vol. 2024",
+      "url": "https://open.spotify.com/playlist/7Av3OpTLcet11BYGTUTTwK",
+      "trackCount": 35,
+      "description": ""
+    },
+    {
+      "id": "6qfmAZARzSMpUvJWnDv9l9",
+      "name": "Max Trax: Vol. Rawncktober 2023",
+      "url": "https://open.spotify.com/playlist/6qfmAZARzSMpUvJWnDv9l9",
+      "trackCount": 21,
+      "description": "Shit-chyea!"
+    },
+    {
+      "id": "0jGfVmIRfaIoBRHJ91jdO5",
+      "name": "Max Trax: Vol. Samantha",
+      "url": "https://open.spotify.com/playlist/0jGfVmIRfaIoBRHJ91jdO5",
+      "trackCount": 18,
+      "description": ""
+    },
+    {
+      "id": "2XV9OfYuJxhTnkT4xEPVPk",
+      "name": "Max Trax: Vol. Showdown",
+      "url": "https://open.spotify.com/playlist/2XV9OfYuJxhTnkT4xEPVPk",
+      "trackCount": 34,
+      "description": ""
+    },
+    {
+      "id": "0J4HPpgFN24mt0NWrrg6Xg",
+      "name": "Max Trax: Vol. Mexico ",
+      "url": "https://open.spotify.com/playlist/0J4HPpgFN24mt0NWrrg6Xg",
+      "trackCount": 67,
+      "description": "For your Playa &quot;Downtime&quot;"
+    },
+    {
+      "id": "2xP8wU1wpABCqkpIZmiBjw",
+      "name": "Max Trax: Vol. Mexico II",
+      "url": "https://open.spotify.com/playlist/2xP8wU1wpABCqkpIZmiBjw",
+      "trackCount": 81,
+      "description": "For your Playa &quot;downtime&quot;....AGAIN"
+    },
+    {
+      "id": "4pwD6XzxofE5CH767zLfAm",
+      "name": "Max Trax: Vol. December 2022",
+      "url": "https://open.spotify.com/playlist/4pwD6XzxofE5CH767zLfAm",
+      "trackCount": 36,
+      "description": "A Max Trax 2022 Greatest Hits Playlist. 3 Songs from every month of Max Trax this year + 3 bonus songs. Can be shuffled."
+    },
+    {
+      "id": "3luk2hjSgnhirht1w24B2x",
+      "name": "Max Trax: Vol. November 2022",
+      "url": "https://open.spotify.com/playlist/3luk2hjSgnhirht1w24B2x",
+      "trackCount": 13,
+      "description": "Foreign hits."
+    },
+    {
+      "id": "7D5GLyPSEGuGxS87sjbQV3",
+      "name": "Max Trax: Vol. Layloween 2022",
+      "url": "https://open.spotify.com/playlist/7D5GLyPSEGuGxS87sjbQV3",
+      "trackCount": 44,
+      "description": "Spooked ya!"
+    },
+    {
+      "id": "5utcNYmoITzv9aULJWNIkW",
+      "name": "Max Trax: Vol. Rocktober 2022",
+      "url": "https://open.spotify.com/playlist/5utcNYmoITzv9aULJWNIkW",
+      "trackCount": 19,
+      "description": "Let&#x27;s rock. This one is dedicated to Brian Hoeger. Thanks for everything Brian! Keep rockin&#x27;! "
+    },
+    {
+      "id": "1q0rbv68SR6e8Nvt8xHKCU",
+      "name": "Max Trax: Vol. September 2022",
+      "url": "https://open.spotify.com/playlist/1q0rbv68SR6e8Nvt8xHKCU",
+      "trackCount": 18,
+      "description": "Welcome to Fall Disco Season"
+    },
+    {
+      "id": "1YAtWjfTNgDyNvsZBcMzRE",
+      "name": "Max Trax: Vol. August 2022",
+      "url": "https://open.spotify.com/playlist/1YAtWjfTNgDyNvsZBcMzRE",
+      "trackCount": 17,
+      "description": "Fawnk."
+    },
+    {
+      "id": "7aHnsGJm8cmdaAOyrpWisV",
+      "name": "Max Trax: Vol. July 2022",
+      "url": "https://open.spotify.com/playlist/7aHnsGJm8cmdaAOyrpWisV",
+      "trackCount": 14,
+      "description": "It&#x27;s hot."
+    },
+    {
+      "id": "49cmmwPlngZt3opS5RGehC",
+      "name": "Max Trax: Vol. Jewn 2022",
+      "url": "https://open.spotify.com/playlist/49cmmwPlngZt3opS5RGehC",
+      "trackCount": 19,
+      "description": "Jewn Jams for my month in CO"
+    },
+    {
+      "id": "0JLYQSB0pjGLmxrXZCfd4W",
+      "name": "Max Trax: Vol. May 2022",
+      "url": "https://open.spotify.com/playlist/0JLYQSB0pjGLmxrXZCfd4W",
+      "trackCount": 27,
+      "description": "Welcome to Summer."
+    },
+    {
+      "id": "0QWKJ8saR5gFOB8mJv5dTi",
+      "name": "Max Trax: Brendi and Courtski's Double Birthday Mixtape",
+      "url": "https://open.spotify.com/playlist/0QWKJ8saR5gFOB8mJv5dTi",
+      "trackCount": 66,
+      "description": "People gonna be talm&#x27; bout April 9, 2022 for a long time y&#x27;all yerd me"
+    },
+    {
+      "id": "6yu8Y8RQRxgXor2yNsYGch",
+      "name": "Max Trax: Vol. April 2022",
+      "url": "https://open.spotify.com/playlist/6yu8Y8RQRxgXor2yNsYGch",
+      "trackCount": 22,
+      "description": "Blues &amp; Rain"
+    },
+    {
+      "id": "6Npvsgc1hpRoVvNScJ2rOr",
+      "name": "Max Trax: Vol. Cherri's Chicken Hat Birthday  Dance Off Spectacular",
+      "url": "https://open.spotify.com/playlist/6Npvsgc1hpRoVvNScJ2rOr",
+      "trackCount": 18,
+      "description": "Happy birthday Cherri!! You are a fire hose of love! Love you so so so much!"
+    }
+  ]
+}
