@@ -2,52 +2,39 @@
 import Layout from '../layouts/Layout.astro';
 import ArtistCard from '../components/jazz/ArtistCard.astro';
 import { getDatabase, getPortraitUrl } from '../lib/db';
+import { search, type SearchResponse, type ArtistSearchResult, type TrackSearchResult } from '../lib/search';
 
-// Get search query from URL
+// Get search parameters from URL
 const query = Astro.url.searchParams.get('q') || '';
 const trimmedQuery = query.trim();
+const type = (Astro.url.searchParams.get('type') || 'all') as 'artists' | 'tracks' | 'all';
+const genre = Astro.url.searchParams.get('genre') || '';
+const instrument = Astro.url.searchParams.get('instrument') || '';
+const role = Astro.url.searchParams.get('role') || '';
+const artistType = Astro.url.searchParams.get('artist_type') || '';
+const page = Math.max(parseInt(Astro.url.searchParams.get('page') || '1', 10) || 1, 1);
+const limit = 24;
+const offset = (page - 1) * limit;
 
-// Get database adapter (works with both D1 and SQLite)
+// Get database adapter
 const db = await getDatabase(Astro.locals);
 
-interface SearchResult {
-  slug: string;
-  title: string;
-  artist_type: string | null;
-  genres: string | null;
-  image_filename: string | null;
-  bio_snippet: string;
-}
-
-let results: SearchResult[] = [];
-let searchTime = 0;
+let searchResult: SearchResponse | null = null;
 let errorMessage = '';
 
 // Only search if query is at least 2 characters
 if (db && trimmedQuery.length >= 2) {
   try {
-    const startTime = Date.now();
-
-    // FTS5 search with BM25 ranking
-    const stmt = db.prepare(`
-      SELECT
-        a.slug,
-        a.title,
-        a.artist_type,
-        a.genres,
-        a.image_filename,
-        snippet(search_fts, 1, '<mark>', '</mark>', '...', 32) as bio_snippet
-      FROM search_fts fts
-      JOIN artists a ON fts.rowid = a.id
-      WHERE search_fts MATCH ?
-      ORDER BY bm25(search_fts, 10.0, 5.0, 1.0, 1.0)
-      LIMIT 50
-    `);
-
-    const dbResults = await stmt.bind(trimmedQuery).all();
-    results = dbResults.results as SearchResult[];
-
-    searchTime = Date.now() - startTime;
+    searchResult = await search(db, {
+      query: trimmedQuery,
+      type,
+      genre: genre || undefined,
+      instrument: instrument || undefined,
+      role: role || undefined,
+      artistType: artistType || undefined,
+      limit,
+      offset,
+    });
   } catch (error) {
     console.error('Search error:', error);
     errorMessage = 'An error occurred while searching. Please try again.';
@@ -68,11 +55,36 @@ function parseGenres(genresJson: string | null): string[] {
     return [];
   }
 }
+
+// Build URL preserving current params but overriding specific ones
+function buildUrl(overrides: Record<string, string>): string {
+  const params = new URLSearchParams();
+  if (trimmedQuery) params.set('q', trimmedQuery);
+
+  const currentParams: Record<string, string> = { type, genre, instrument, role, artist_type: artistType };
+  for (const [key, value] of Object.entries({ ...currentParams, ...overrides })) {
+    if (value) params.set(key, value);
+    else params.delete(key);
+  }
+
+  // Reset page when changing filters
+  if (Object.keys(overrides).some(k => k !== 'page')) {
+    params.delete('page');
+  }
+
+  return `/search?${params.toString()}`;
+}
+
+const hasFilters = genre || instrument || role || artistType;
+const artistResults = searchResult?.results.artists || [];
+const trackResults = searchResult?.results.tracks || [];
+const totalResults = artistResults.length + trackResults.length;
+const hasNextPage = artistResults.length === limit || trackResults.length === limit;
 ---
 
 <Layout
   title={trimmedQuery ? `Search: ${trimmedQuery}` : 'Search'}
-  description="Search Jazzapedia for artists, genres, and instruments"
+  description="Search Jazzapedia for artists, genres, instruments, and WWOZ tracks"
 >
   <article class="article-content">
     <h1>Search</h1>
@@ -84,7 +96,7 @@ function parseGenres(genresJson: string | null): string[] {
           type="search"
           name="q"
           value={query}
-          placeholder="Search artists, genres, instruments..."
+          placeholder="Search artists, genres, instruments, WWOZ tracks..."
           class="search-input"
           autofocus
           autocomplete="off"
@@ -94,6 +106,12 @@ function parseGenres(genresJson: string | null): string[] {
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
           </svg>
         </button>
+        {/* Preserve filter params in hidden fields */}
+        {type !== 'all' && <input type="hidden" name="type" value={type} />}
+        {genre && <input type="hidden" name="genre" value={genre} />}
+        {instrument && <input type="hidden" name="instrument" value={instrument} />}
+        {role && <input type="hidden" name="role" value={role} />}
+        {artistType && <input type="hidden" name="artist_type" value={artistType} />}
       </div>
     </form>
 
@@ -106,51 +124,200 @@ function parseGenres(genresJson: string | null): string[] {
           </p>
         ) : errorMessage ? (
           <p class="text-red-600 mt-4">{errorMessage}</p>
-        ) : results.length > 0 ? (
+        ) : searchResult ? (
           <>
-            <div class="search-meta">
-              <p class="text-wiki-text-muted">
-                Found <strong>{results.length}</strong> {results.length === 1 ? 'artist' : 'artists'}
-                {searchTime > 0 && ` in ${searchTime}ms`}
-              </p>
+            {/* Did You Mean */}
+            {searchResult.correctedQuery && (
+              <div class="did-you-mean">
+                Showing results for <strong>{searchResult.correctedQuery}</strong>.
+                <a href={`/search?q=${encodeURIComponent(trimmedQuery)}&type=${type}`}>
+                  Search instead for &ldquo;{trimmedQuery}&rdquo;
+                </a>
+              </div>
+            )}
+
+            {/* Type Tabs */}
+            <div class="search-tabs">
+              <a href={buildUrl({ type: 'all' })} class:list={["search-tab", { active: type === 'all' }]}>
+                All
+              </a>
+              <a href={buildUrl({ type: 'artists' })} class:list={["search-tab", { active: type === 'artists' }]}>
+                Artists
+                {artistResults.length > 0 && <span class="tab-count">{artistResults.length}</span>}
+              </a>
+              <a href={buildUrl({ type: 'tracks' })} class:list={["search-tab", { active: type === 'tracks' }]}>
+                WWOZ Tracks
+                {trackResults.length > 0 && <span class="tab-count">{trackResults.length}</span>}
+              </a>
             </div>
 
-            <div class="results-grid">
-              {results.map(result => (
-                <ArtistCard
-                  name={result.title}
-                  slug={result.slug}
-                  portrait={getPortraitUrl(Astro.locals, result.image_filename)}
-                  genres={parseGenres(result.genres)}
-                  artistType={result.artist_type || undefined}
-                />
-              ))}
+            {/* Active Filters */}
+            {hasFilters && (
+              <div class="active-filters">
+                {genre && (
+                  <a href={buildUrl({ genre: '' })} class="filter-chip">
+                    Genre: {genre} <span class="filter-remove">&times;</span>
+                  </a>
+                )}
+                {instrument && (
+                  <a href={buildUrl({ instrument: '' })} class="filter-chip">
+                    Instrument: {instrument} <span class="filter-remove">&times;</span>
+                  </a>
+                )}
+                {role && (
+                  <a href={buildUrl({ role: '' })} class="filter-chip">
+                    Role: {role} <span class="filter-remove">&times;</span>
+                  </a>
+                )}
+                {artistType && (
+                  <a href={buildUrl({ artist_type: '' })} class="filter-chip">
+                    Type: {artistType} <span class="filter-remove">&times;</span>
+                  </a>
+                )}
+                <a href={buildUrl({ genre: '', instrument: '', role: '', artist_type: '' })} class="filter-clear">
+                  Clear all
+                </a>
+              </div>
+            )}
+
+            {/* Search Meta */}
+            <div class="search-meta">
+              <p class="text-wiki-text-muted">
+                Found <strong>{totalResults}</strong> {totalResults === 1 ? 'result' : 'results'}
+                {searchResult.searchTime > 0 && ` in ${searchResult.searchTime}ms`}
+                {page > 1 && ` (page ${page})`}
+              </p>
+
+              {/* Filter Toggle (artists tab or all) */}
+              {(type === 'artists' || type === 'all') && (
+                <button class="filter-toggle" id="filter-toggle" type="button">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
+                  </svg>
+                  Filters
+                </button>
+              )}
             </div>
+
+            {/* Filter Panel */}
+            <div class="filter-panel" id="filter-panel" style="display: none;">
+              <div class="filter-group" id="filter-genres">
+                <label class="filter-label">Genre</label>
+                <select class="filter-select" data-filter="genre">
+                  <option value="">Any genre</option>
+                </select>
+              </div>
+              <div class="filter-group" id="filter-instruments">
+                <label class="filter-label">Instrument</label>
+                <select class="filter-select" data-filter="instrument">
+                  <option value="">Any instrument</option>
+                </select>
+              </div>
+              <div class="filter-group" id="filter-roles">
+                <label class="filter-label">Role</label>
+                <select class="filter-select" data-filter="role">
+                  <option value="">Any role</option>
+                </select>
+              </div>
+              <div class="filter-group">
+                <label class="filter-label">Type</label>
+                <select class="filter-select" data-filter="artist_type">
+                  <option value="">Any type</option>
+                  <option value="person" selected={artistType === 'person'}>Person</option>
+                  <option value="band" selected={artistType === 'band'}>Band</option>
+                </select>
+              </div>
+            </div>
+
+            {/* Artist Results */}
+            {artistResults.length > 0 && (type === 'artists' || type === 'all') && (
+              <div class="results-section">
+                {type === 'all' && <h2 class="results-section-title">Artists</h2>}
+                <div class="results-grid">
+                  {artistResults.map(result => (
+                    <ArtistCard
+                      name={result.title}
+                      slug={result.slug}
+                      portrait={getPortraitUrl(Astro.locals, result.image_filename)}
+                      genres={parseGenres(result.genres)}
+                      artistType={result.artist_type || undefined}
+                    />
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Track Results */}
+            {trackResults.length > 0 && (type === 'tracks' || type === 'all') && (
+              <div class="results-section">
+                {type === 'all' && <h2 class="results-section-title">WWOZ Tracks</h2>}
+                <div class="tracks-list">
+                  {trackResults.map(track => (
+                    <a href={`/wwoz/${track.date}`} class="track-item">
+                      <div class="track-main">
+                        <span class="track-artist">{track.artist}</span>
+                        <span class="track-separator">&mdash;</span>
+                        <span class="track-title">{track.title}</span>
+                      </div>
+                      <div class="track-meta">
+                        {track.album && <span class="track-album">{track.album}</span>}
+                        <span class="track-date">{track.date}</span>
+                        {track.show_name && <span class="track-show">{track.show_name}</span>}
+                        {track.spotify_url && <span class="track-spotify" title="Available on Spotify">&#127925;</span>}
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* No Results */}
+            {totalResults === 0 && (
+              <div class="no-results">
+                <p class="text-wiki-text-muted">
+                  No results found for &ldquo;<strong>{trimmedQuery}</strong>&rdquo;
+                  {hasFilters && ' with the current filters'}
+                </p>
+                <p class="text-wiki-text-muted text-sm mt-2">
+                  Try:
+                </p>
+                <ul class="suggestions-list">
+                  <li>Different search terms or spellings</li>
+                  {hasFilters && <li><a href={buildUrl({ genre: '', instrument: '', role: '', artist_type: '' })}>Removing filters</a></li>}
+                  <li>Artist names (e.g., "Miles Davis", "Coltrane")</li>
+                  <li>Genres (e.g., "bebop", "cool jazz", "swing")</li>
+                  <li>Instruments (e.g., "saxophone", "piano", "trumpet")</li>
+                </ul>
+              </div>
+            )}
+
+            {/* Pagination */}
+            {(page > 1 || hasNextPage) && (
+              <div class="pagination">
+                {page > 1 && (
+                  <a href={buildUrl({ page: String(page - 1) })} class="pagination-btn">
+                    &larr; Previous
+                  </a>
+                )}
+                <span class="pagination-info">Page {page}</span>
+                {hasNextPage && (
+                  <a href={buildUrl({ page: String(page + 1) })} class="pagination-btn">
+                    Next &rarr;
+                  </a>
+                )}
+              </div>
+            )}
           </>
-        ) : (
-          <div class="no-results">
-            <p class="text-wiki-text-muted">
-              No artists found for "<strong>{trimmedQuery}</strong>"
-            </p>
-            <p class="text-wiki-text-muted text-sm mt-2">
-              Try searching for:
-            </p>
-            <ul class="suggestions-list">
-              <li>Artist names (e.g., "Miles Davis", "Coltrane")</li>
-              <li>Genres (e.g., "bebop", "cool jazz", "swing")</li>
-              <li>Instruments (e.g., "saxophone", "piano", "trumpet")</li>
-              <li>Time periods or styles</li>
-            </ul>
-          </div>
-        )}
+        ) : null}
       </div>
     )}
 
     {!trimmedQuery && (
       <div class="search-help">
         <p class="text-wiki-text-muted mb-4">
-          Search through 3,400+ musician profiles. Try searching for artist names, genres (jazz, bebop, cool jazz),
-          instruments (saxophone, piano, trumpet), or time periods.
+          Search through 3,600+ musician profiles and 17,500+ WWOZ track plays.
+          Try searching for artist names, genres, instruments, song titles, or WWOZ shows.
         </p>
 
         <div class="search-examples">
@@ -160,6 +327,7 @@ function parseGenres(genresJson: string | null): string[] {
             <li><a href="/search?q=saxophone" class="text-wiki-link hover:text-wiki-link-hover">saxophone</a></li>
             <li><a href="/search?q=New+Orleans" class="text-wiki-link hover:text-wiki-link-hover">New Orleans</a></li>
             <li><a href="/search?q=1950s" class="text-wiki-link hover:text-wiki-link-hover">1950s</a></li>
+            <li><a href="/search?q=piano&type=tracks" class="text-wiki-link hover:text-wiki-link-hover">piano (tracks)</a></li>
           </ul>
         </div>
       </div>
@@ -169,7 +337,7 @@ function parseGenres(genresJson: string | null): string[] {
 
 <style>
   .search-form {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
   }
 
   .search-input-wrapper {
@@ -216,14 +384,208 @@ function parseGenres(genresJson: string | null): string[] {
     transform: translateY(1px);
   }
 
-  .search-results-section {
-    margin-top: 1.5rem;
+  /* ============================================
+     Did You Mean
+     ============================================ */
+  .did-you-mean {
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    background-color: var(--color-accent-light);
+    border-radius: var(--radius-md);
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
   }
 
+  .did-you-mean a {
+    color: var(--color-link);
+    text-decoration: none;
+  }
+
+  .did-you-mean a:hover {
+    text-decoration: underline;
+  }
+
+  /* ============================================
+     Type Tabs
+     ============================================ */
+  .search-tabs {
+    display: flex;
+    gap: 0;
+    border-bottom: 2px solid var(--color-border-light);
+    margin-bottom: 1rem;
+  }
+
+  .search-tab {
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.625rem 1.25rem;
+    text-decoration: none;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    font-weight: 500;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -2px;
+    transition: color 0.15s, border-color 0.15s;
+  }
+
+  .search-tab:hover {
+    color: var(--color-text);
+  }
+
+  .search-tab.active {
+    color: var(--color-link);
+    border-bottom-color: var(--color-link);
+  }
+
+  .tab-count {
+    font-size: 0.7rem;
+    padding: 0.1rem 0.4rem;
+    background: var(--color-accent-light);
+    border-radius: 10px;
+    font-weight: 600;
+  }
+
+  /* ============================================
+     Active Filters
+     ============================================ */
+  .active-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .filter-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.25rem 0.75rem;
+    background: var(--color-accent-light);
+    border: 1px solid var(--color-border-light);
+    border-radius: 20px;
+    font-size: 0.8rem;
+    color: var(--color-text);
+    text-decoration: none;
+    transition: background-color 0.15s;
+  }
+
+  .filter-chip:hover {
+    background: var(--color-border);
+  }
+
+  .filter-remove {
+    font-size: 1rem;
+    line-height: 1;
+    opacity: 0.6;
+  }
+
+  .filter-clear {
+    font-size: 0.8rem;
+    color: var(--color-link);
+    text-decoration: none;
+  }
+
+  .filter-clear:hover {
+    text-decoration: underline;
+  }
+
+  /* ============================================
+     Search Meta & Filter Toggle
+     ============================================ */
   .search-meta {
-    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
     padding-bottom: 0.75rem;
     border-bottom: 1px solid var(--color-border-light);
+  }
+
+  .filter-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.375rem 0.75rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .filter-toggle:hover {
+    border-color: var(--color-link);
+    color: var(--color-link);
+  }
+
+  .filter-toggle.active {
+    background: var(--color-accent-light);
+    border-color: var(--color-link);
+    color: var(--color-link);
+  }
+
+  /* ============================================
+     Filter Panel
+     ============================================ */
+  .filter-panel {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 0.75rem;
+    padding: 1rem;
+    margin-bottom: 1.25rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-md);
+  }
+
+  .filter-label {
+    display: block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+    margin-bottom: 0.25rem;
+  }
+
+  .filter-select {
+    width: 100%;
+    padding: 0.375rem 0.5rem;
+    font-size: 0.85rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    background: var(--color-bg-content);
+    color: var(--color-text);
+    cursor: pointer;
+  }
+
+  .filter-select:focus {
+    border-color: var(--color-link);
+    outline: none;
+    box-shadow: 0 0 0 2px var(--color-accent-light);
+  }
+
+  /* ============================================
+     Results Sections
+     ============================================ */
+  .results-section {
+    margin-bottom: 2rem;
+  }
+
+  .results-section-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--color-text-heading);
+  }
+
+  .search-results-section {
+    margin-top: 1rem;
   }
 
   .results-grid {
@@ -244,12 +606,106 @@ function parseGenres(genresJson: string | null): string[] {
     }
   }
 
+  /* ============================================
+     Track Results
+     ============================================ */
+  .tracks-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .track-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    color: var(--color-text);
+    border-bottom: 1px solid var(--color-border-light);
+    transition: background-color 0.15s;
+  }
+
+  .track-item:first-child {
+    border-top: 1px solid var(--color-border-light);
+  }
+
+  .track-item:hover {
+    background-color: var(--color-accent-light);
+  }
+
+  .track-main {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    align-items: baseline;
+  }
+
+  .track-artist {
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .track-separator {
+    color: var(--color-text-muted);
+    margin: 0 0.25rem;
+  }
+
+  .track-title {
+    font-style: italic;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .track-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-shrink: 0;
+    margin-left: 1rem;
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+  }
+
+  .track-album {
+    display: none;
+  }
+
+  .track-show {
+    display: none;
+  }
+
+  @media (min-width: 768px) {
+    .track-album {
+      display: inline;
+    }
+
+    .track-show {
+      display: inline;
+    }
+  }
+
+  /* ============================================
+     No Results & Help
+     ============================================ */
   .no-results {
     margin-top: 2rem;
     padding: 2rem;
     background-color: var(--color-bg);
     border-radius: var(--radius-md);
     border: 1px solid var(--color-border-light);
+  }
+
+  .no-results a {
+    color: var(--color-link);
+    text-decoration: none;
+  }
+
+  .no-results a:hover {
+    text-decoration: underline;
   }
 
   .suggestions-list {
@@ -302,6 +758,40 @@ function parseGenres(genresJson: string | null): string[] {
     transform: translateY(-1px);
   }
 
+  /* ============================================
+     Pagination
+     ============================================ */
+  .pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--color-border-light);
+  }
+
+  .pagination-btn {
+    padding: 0.5rem 1rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    color: var(--color-link);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: all 0.15s;
+  }
+
+  .pagination-btn:hover {
+    background: var(--color-accent-light);
+    border-color: var(--color-link);
+  }
+
+  .pagination-info {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+  }
+
   /* Highlight styling for search snippets */
   :global(.search-results-section mark) {
     background-color: var(--color-accent-light);
@@ -311,3 +801,85 @@ function parseGenres(genresJson: string | null): string[] {
     font-weight: 500;
   }
 </style>
+
+<script>
+  // Filter panel toggle and filter selection
+  document.addEventListener('DOMContentLoaded', () => {
+    const toggle = document.getElementById('filter-toggle');
+    const panel = document.getElementById('filter-panel');
+
+    if (toggle && panel) {
+      toggle.addEventListener('click', () => {
+        const isVisible = panel.style.display !== 'none';
+        panel.style.display = isVisible ? 'none' : 'grid';
+        toggle.classList.toggle('active', !isVisible);
+
+        // Lazily load filter options on first open
+        if (!isVisible && !panel.dataset.loaded) {
+          panel.dataset.loaded = 'true';
+          loadFilters();
+        }
+      });
+    }
+
+    // Load filter options from API
+    async function loadFilters() {
+      const fields = ['genres', 'instruments', 'roles'] as const;
+      const filterMap: Record<string, string> = {
+        genres: 'genre',
+        instruments: 'instrument',
+        roles: 'role',
+      };
+
+      // Get current URL params for pre-selecting
+      const params = new URLSearchParams(window.location.search);
+
+      for (const field of fields) {
+        try {
+          const response = await fetch(`/api/tags/${field}`);
+          if (!response.ok) continue;
+          const data = await response.json();
+          const suggestions: string[] = data.suggestions || [];
+
+          const filterName = filterMap[field];
+          const select = document.querySelector(`[data-filter="${filterName}"]`) as HTMLSelectElement;
+          if (!select) continue;
+
+          const currentValue = params.get(filterName) || '';
+
+          for (const tag of suggestions) {
+            const option = document.createElement('option');
+            option.value = tag;
+            option.textContent = tag;
+            if (tag === currentValue) option.selected = true;
+            select.appendChild(option);
+          }
+        } catch {
+          // Silently fail for individual filter loads
+        }
+      }
+    }
+
+    // Handle filter selection -> navigate
+    document.querySelectorAll('.filter-select').forEach((select) => {
+      select.addEventListener('change', () => {
+        const params = new URLSearchParams(window.location.search);
+
+        document.querySelectorAll('.filter-select').forEach((s) => {
+          const sel = s as HTMLSelectElement;
+          const filterName = sel.dataset.filter || '';
+          if (sel.value) {
+            params.set(filterName, sel.value);
+          } else {
+            params.delete(filterName);
+          }
+        });
+
+        // Reset page on filter change
+        params.delete('page');
+
+        window.location.href = `/search?${params.toString()}`;
+      });
+    });
+  });
+</script>
