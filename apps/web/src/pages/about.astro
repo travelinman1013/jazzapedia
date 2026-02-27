@@ -1,7 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 
-const photos = Array.from({ length: 14 }, (_, i) => ({
+const photos = Array.from({ length: 15 }, (_, i) => ({
   src: `/about/photo-${String(i + 1).padStart(2, '0')}.jpg`,
   alt: `Live music photography by Maxwell Erlich - New Orleans ${i + 1}`,
 }));
@@ -24,17 +24,11 @@ const photos = Array.from({ length: 14 }, (_, i) => ({
 
   <!-- Story -->
   <section class="content-section">
-    <header class="section-header">
-      <div class="section-title-group">
-        <span class="section-icon">&#127911;</span>
-        <h2 class="section-title">The Story</h2>
-      </div>
-    </header>
 
     <div class="story-layout">
       <div class="story-text">
         <p>
-          My name is Maxwell. I spent six years in New Orleans (2019–2025) and fell in love with
+          My name is Maxwell. I spent six years in New Orleans (2019-2025) and fell in love with
           the city, its music, and its culture. I spent my nights chasing the thriving live music
           scene and eventually started photographing as much of it as I could.
         </p>
@@ -50,11 +44,23 @@ const photos = Array.from({ length: 14 }, (_, i) => ({
           FOMO when I'm not listening.
         </p>
         <p class="story-conclusion">
-          This site is my solution to never missing a beat.
+          So I built something to make sure I never miss a beat.
+        </p>
+        <p>
+          Jazzapedia started as a personal scraper that watches WWOZ's playlists around the clock,
+          capturing every song the DJs spin. From there it snowballed: the scraper matches tracks
+          to Spotify, AI-powered research generates artist biographies, and everything feeds into
+          the encyclopedia you're browsing now.
+        </p>
+        <p>
+          What began as a handful of notes has grown into a living catalog of over 4,500 artists
+          spanning the full lineage of jazz, funk, brass band, R&amp;B, gospel, zydeco, and
+          everything else that makes New Orleans the musical capital of the world.
         </p>
       </div>
       <div class="story-profile">
-        <img src="/about/profile.jpg" alt="Maxwell and Bobby" class="profile-photo" />
+        <img src="/about/profile.jpg" alt="Maxwell and Bobby Rush" class="profile-photo" />
+        <p class="profile-caption">Bobby Rush and I before photographing his solo acoustic show at Chickie-Wah-Wah in New Orleans (show photo below!)</p>
       </div>
     </div>
   </section>
@@ -66,7 +72,7 @@ const photos = Array.from({ length: 14 }, (_, i) => ({
         <span class="section-icon">&#128247;</span>
         <h2 class="section-title">Photography</h2>
       </div>
-      <p class="section-subtitle">Live music in New Orleans</p>
+      <p class="section-subtitle">Documenting the music visually became inseparable from studying it. These are some of the moments I was lucky enough to witness and capture.</p>
     </header>
 
     <div class="gallery-grid">
@@ -225,7 +231,7 @@ const photos = Array.from({ length: 14 }, (_, i) => ({
     color: var(--color-text-muted);
     font-size: 0.875rem;
     margin: 0;
-    flex: 1;
+    flex-basis: 100%;
   }
 
   /* ============================================
@@ -255,9 +261,23 @@ const photos = Array.from({ length: 14 }, (_, i) => ({
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
   }
 
+  .profile-caption {
+    max-width: 280px;
+    margin-top: 0.75rem;
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    color: var(--color-text-muted);
+    text-align: center;
+    font-style: italic;
+  }
+
   @media (max-width: 768px) {
     .profile-photo {
       width: 240px;
+    }
+
+    .profile-caption {
+      max-width: 240px;
     }
   }
 
