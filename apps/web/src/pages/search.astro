@@ -10,7 +10,6 @@ const trimmedQuery = query.trim();
 const type = (Astro.url.searchParams.get('type') || 'all') as 'artists' | 'tracks' | 'all';
 const genre = Astro.url.searchParams.get('genre') || '';
 const instrument = Astro.url.searchParams.get('instrument') || '';
-const role = Astro.url.searchParams.get('role') || '';
 const artistType = Astro.url.searchParams.get('artist_type') || '';
 const page = Math.max(parseInt(Astro.url.searchParams.get('page') || '1', 10) || 1, 1);
 const limit = 24;
@@ -30,7 +29,6 @@ if (db && trimmedQuery.length >= 2) {
       type,
       genre: genre || undefined,
       instrument: instrument || undefined,
-      role: role || undefined,
       artistType: artistType || undefined,
       limit,
       offset,
@@ -61,7 +59,7 @@ function buildUrl(overrides: Record<string, string>): string {
   const params = new URLSearchParams();
   if (trimmedQuery) params.set('q', trimmedQuery);
 
-  const currentParams: Record<string, string> = { type, genre, instrument, role, artist_type: artistType };
+  const currentParams: Record<string, string> = { type, genre, instrument, artist_type: artistType };
   for (const [key, value] of Object.entries({ ...currentParams, ...overrides })) {
     if (value) params.set(key, value);
     else params.delete(key);
@@ -75,7 +73,7 @@ function buildUrl(overrides: Record<string, string>): string {
   return `/search?${params.toString()}`;
 }
 
-const hasFilters = genre || instrument || role || artistType;
+const hasFilters = genre || instrument || artistType;
 const artistResults = searchResult?.results.artists || [];
 const trackResults = searchResult?.results.tracks || [];
 const totalResults = artistResults.length + trackResults.length;
@@ -164,17 +162,12 @@ const hasNextPage = artistResults.length === limit || trackResults.length === li
                     Instrument: {instrument} <span class="filter-remove">&times;</span>
                   </a>
                 )}
-                {role && (
-                  <a href={buildUrl({ role: '' })} class="filter-chip">
-                    Role: {role} <span class="filter-remove">&times;</span>
-                  </a>
-                )}
                 {artistType && (
                   <a href={buildUrl({ artist_type: '' })} class="filter-chip">
                     Type: {artistType} <span class="filter-remove">&times;</span>
                   </a>
                 )}
-                <a href={buildUrl({ genre: '', instrument: '', role: '', artist_type: '' })} class="filter-clear">
+                <a href={buildUrl({ genre: '', instrument: '', artist_type: '' })} class="filter-clear">
                   Clear all
                 </a>
               </div>
@@ -212,12 +205,6 @@ const hasNextPage = artistResults.length === limit || trackResults.length === li
                 <label class="filter-label">Instrument</label>
                 <select class="filter-select" data-filter="instrument">
                   <option value="">Any instrument</option>
-                </select>
-              </div>
-              <div class="filter-group" id="filter-roles">
-                <label class="filter-label">Role</label>
-                <select class="filter-select" data-filter="role">
-                  <option value="">Any role</option>
                 </select>
               </div>
               <div class="filter-group">
@@ -824,11 +811,10 @@ const hasNextPage = artistResults.length === limit || trackResults.length === li
 
     // Load filter options from API
     async function loadFilters() {
-      const fields = ['genres', 'instruments', 'roles'] as const;
+      const fields = ['genres', 'instruments'] as const;
       const filterMap: Record<string, string> = {
         genres: 'genre',
         instruments: 'instrument',
-        roles: 'role',
       };
 
       // Get current URL params for pre-selecting

@@ -11,7 +11,7 @@ import { getWritableDatabase } from '../../../../lib/db';
 
 // Editable fields whitelist
 const EDITABLE_FIELDS = [
-  'genres', 'roles', 'instruments', 'artist_type', 'birth_date', 'death_date',
+  'genres', 'instruments', 'artist_type', 'birth_date', 'death_date',
   'birth_place', 'origin', 'career_span', 'is_active', 'aliases', 'birth_name',
   'discography_summary',
 ] as const;
@@ -21,7 +21,6 @@ type EditableField = (typeof EDITABLE_FIELDS)[number];
 // Field validation configuration
 const FIELD_VALIDATIONS: Record<EditableField, { type: string; maxItems?: number; maxLength?: number; enumValues?: string[]; nullable?: boolean }> = {
   genres: { type: 'string[]', maxItems: 30, maxLength: 100 },
-  roles: { type: 'string[]', maxItems: 20, maxLength: 100 },
   instruments: { type: 'string[]', maxItems: 30, maxLength: 100 },
   artist_type: { type: 'enum', enumValues: ['person', 'band'], nullable: true },
   birth_date: { type: 'date', nullable: true },

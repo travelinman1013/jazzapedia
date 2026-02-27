@@ -4,13 +4,13 @@
  * GET /api/tags/[field]
  * Returns: { suggestions: string[] }
  *
- * Supported fields: genres, roles, instruments
+ * Supported fields: genres, instruments
  */
 
 import type { APIRoute } from 'astro';
 import { getDatabase } from '../../../lib/db';
 
-const ALLOWED_FIELDS = ['genres', 'roles', 'instruments'] as const;
+const ALLOWED_FIELDS = ['genres', 'instruments'] as const;
 type TagField = (typeof ALLOWED_FIELDS)[number];
 
 /**

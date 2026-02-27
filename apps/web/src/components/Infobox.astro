@@ -274,7 +274,7 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
               <div class="field-view">
                 <div class="tag-list">
                   {roles.slice(0, 3).map(role => (
-                    <a href={`/roles/${toSlug(role)}`} class="tag">{role}</a>
+                    <span class="tag">{role}</span>
                   ))}
                   {roles.length > 3 && <span class="tag-more">+{roles.length - 3}</span>}
                 </div>

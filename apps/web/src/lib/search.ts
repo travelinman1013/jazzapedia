@@ -16,7 +16,6 @@ export interface SearchOptions {
   type: 'artists' | 'tracks' | 'all';
   genre?: string;
   instrument?: string;
-  role?: string;
   artistType?: string;
   limit: number;
   offset: number;
@@ -59,7 +58,6 @@ export interface SearchResponse {
   filters: {
     genre?: string;
     instrument?: string;
-    role?: string;
     artistType?: string;
   };
 }
@@ -154,10 +152,6 @@ export async function searchArtists(
     extraClauses.push('AND EXISTS (SELECT 1 FROM json_each(a.instruments) je WHERE je.value = ?)');
     params.push(opts.instrument);
   }
-  if (opts.role) {
-    extraClauses.push('AND EXISTS (SELECT 1 FROM json_each(a.roles) je WHERE je.value = ?)');
-    params.push(opts.role);
-  }
   if (opts.artistType) {
     extraClauses.push('AND a.artist_type = ?');
     params.push(opts.artistType);
@@ -211,10 +205,6 @@ async function searchArtistsByTitle(
   if (opts.instrument) {
     extraClauses.push('AND EXISTS (SELECT 1 FROM json_each(instruments) je WHERE je.value = ?)');
     params.push(opts.instrument);
-  }
-  if (opts.role) {
-    extraClauses.push('AND EXISTS (SELECT 1 FROM json_each(roles) je WHERE je.value = ?)');
-    params.push(opts.role);
   }
   if (opts.artistType) {
     extraClauses.push('AND artist_type = ?');
@@ -319,7 +309,6 @@ export async function search(
     filters: {
       genre: opts.genre,
       instrument: opts.instrument,
-      role: opts.role,
       artistType: opts.artistType,
     },
   };
