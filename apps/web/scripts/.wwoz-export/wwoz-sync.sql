@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-03-02T07:18:01.400Z
+-- Generated: 2026-03-02T10:30:07.648Z
 -- Mode: INCREMENTAL
--- Last export: 2026-03-02 07:16:55
+-- Last export: 2026-03-02 07:18:01
 -- Days: 4
--- Tracks: 463
+-- Tracks: 495
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":170,"successfullyFound":102,"notFound":68,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-02-27 07:39:37',
-  '2026-03-02 07:18:00'
+  '2026-03-02 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":111,"successfullyFound":56,"notFound":55,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-01 08:03:39',
-  '2026-03-02 07:18:00'
+  '2026-03-02 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":161,"successfullyFound":100,"notFound":61,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-02 07:16:54',
-  '2026-03-02 07:18:00'
+  '2026-03-02 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-03-02',
   NULL,
-  '{"totalTracks":12,"successfullyFound":12,"notFound":0,"lowConfidence":0,"duplicates":0}',
+  '{"totalTracks":44,"successfullyFound":33,"notFound":11,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-02 07:16:54',
-  '2026-03-02 07:18:00'
+  '2026-03-02 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -7479,4 +7479,516 @@ VALUES (
   'found',
   100,
   '2026-03-02 07:16:55'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:02',
+  'Zeke Bleek',
+  'Bleaker by the Week',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/2SG7lImvcjHVhitKk4lxX7',
+  'found',
+  100,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:04',
+  'Amy Winehouse',
+  'What Is It About Men',
+  'Frank',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0dA0ono4Zz0IBc02pYlWIQ',
+  'found',
+  100,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:08',
+  'Helen Gillet',
+  'Lettre a Kissinger',
+  'ReBelle',
+  'cajun',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0ulWucrpfGBeAglseZO2XC',
+  'found',
+  89.6,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:14',
+  'Nuwki Nu',
+  'War is not the Answer',
+  'Cosmic Forces',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:15',
+  'Sariyah Idan',
+  'I''m a Warrior',
+  'Live in Berlin',
+  'dub, dubstep, native american music',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/01WD3nMWzHuKl0QrtCEGHA',
+  'found',
+  70.4,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:21',
+  'Martin Luther King, Jr.',
+  'Unjust Evil and Futile War',
+  NULL,
+  'spoken word',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/1ivirjVgZmgZfsOG70lcsv',
+  'found',
+  100,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:25',
+  'Allen Ginsberg',
+  'America',
+  NULL,
+  'spoken word',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/6XVVPboSP8bsaNHRditnk9',
+  'found',
+  100,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:26',
+  'Valerie June w/Carla Thomas',
+  'African Proverb/Two Roads',
+  'The Moon and Stars: Prescriptions for Dreamers',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:31',
+  'Yusef Lateef',
+  'Warm Fire',
+  '1984',
+  'jazz, hard bop, free jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0BNk2xPZB2fsu11ez91YR3',
+  'found',
+  100,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:36',
+  'Panorama Jazz Band w/Yulena Velasquez',
+  'La Negra Atilia',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:39',
+  'Paul McCartney & Wings',
+  'Let It Be',
+  'One Hand Clapping Sessions',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0G4Yve4fDmKGDdckGt6nC3',
+  'found',
+  75.3,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:41',
+  'Burnt Sugar Arkestra Chamber',
+  'Chicken Scratching Dre Shows SaxTone the Way',
+  NULL,
+  'indie jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/3nNHIbOWfJ1qI71Yhou9U2',
+  'found',
+  89.8,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:41',
+  'Burnt Sugar Arkestra Chamber',
+  'Naomi''s Lullaby',
+  'More Than Posthuman, Rise of the Mojosexual Cotillion',
+  'indie jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/7jEihm5bMTaawebwfy5WJY',
+  'found',
+  91.6,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:45',
+  'Pyeng Threadgill',
+  'Love in Vain Blues',
+  'Sweet Home: The Music of Robert Johnson',
+  'soul blues',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/498RwTR8JYrsUdZNdh7W2i',
+  'found',
+  100,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:48',
+  'Ethan',
+  'At the Labyrinth',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:50',
+  'Hank Mobley',
+  'This I Dig of You',
+  'Soul Station',
+  'hard bop, jazz, bebop',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/3VBLGJLIeClZVG7HveHmG8',
+  'found',
+  100,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '01:56',
+  'Charles Mingus',
+  'Duke Ellington''s Sound of Love',
+  'Changes Two',
+  'jazz, hard bop, bebop',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/6hXQ9XEL2TBc9E0SgAvc0l',
+  'found',
+  100,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:00',
+  'King Pleasure',
+  'Parker''s Mood',
+  'Golden Days',
+  'vocal jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/5851IyaolohKE7xJL7TqdB',
+  'found',
+  100,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:03',
+  'Jack Kerouac w/Steve Allen',
+  'Charlie Parker',
+  'Poetry for the Beat Generation',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:07',
+  'Melody Gardot, Donny McCaslin, Ben Monder, Craig Taborn',
+  'The King of 52nd Street (Chan''s Declaration)',
+  'The Passion of Charlie Parker',
+  'vocal jazz, french jazz, jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/2Z49IHSe7C8lEPMKMVuDPY',
+  'found',
+  72.5,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:10',
+  'Charlie Parker',
+  'Koko',
+  'Best of the Complete Savoy & Dial Studio Recordings',
+  'bebop, jazz, hard bop',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0fh5g0221cWO1oYQw6d3aW',
+  'found',
+  100,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:14',
+  'Charlie Parker w/Al Haig, Kenny Dorham, Max Roach, Tommy Potter',
+  'Little Willie Leaps',
+  NULL,
+  'bebop, jazz, hard bop',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0qOfllgfH0LAiJajpPvQmU',
+  'found',
+  95.2,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:17',
+  'Fluid Motion',
+  'Whispers',
+  NULL,
+  'free jazz, tropical music, hard bop',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/5qoE8WNUNs8KYXhRw566Mq',
+  'found',
+  73,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:23',
+  'Billy Harper',
+  'Amazing Grace',
+  'Blueprints of Jazz',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:28',
+  'Nina Simone',
+  'Zongo',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:32',
+  'Eartha Kitt',
+  'Lilac Tree',
+  NULL,
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:35',
+  'Kat Edmondson',
+  'I''d Be a Fool',
+  'Old Fashioned Gal',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:40',
+  'Krown/Washington/Batiste',
+  'Another Day in the Life',
+  'Soul Understanding',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:43',
+  'The Afrodiziac''s Jazz',
+  'Belomi Benna',
+  'Immigration',
+  'jazz funk, latin jazz',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/21w3sh1VAuzGsXzDZQQ9js',
+  'found',
+  98,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:51',
+  'Col. Bruce Hampton & the Aquarium Rescue Unit',
+  'Basically Frightened',
+  NULL,
+  'jam band, jazz fusion',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/59uT1xFkvMQxAyq1q2VVMM',
+  'found',
+  90,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:55',
+  'John Hammond w/Tom Waits',
+  'I Know I''ve Been Changed',
+  'Wicked Grin',
+  '',
+  'The Dean''s List',
+  'Dean Ellis',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-02 10:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-02',
+  '02:57',
+  'Louis Prima',
+  'Buona Sera',
+  'Angelina [Prima]',
+  'swing music, big band',
+  'The Dean''s List',
+  'Dean Ellis',
+  'https://open.spotify.com/track/0DXm5n7SBxCED9ssTvrx2J',
+  'found',
+  81.7,
+  '2026-03-02 10:30:06'
 );
