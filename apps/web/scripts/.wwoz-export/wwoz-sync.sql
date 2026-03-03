@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-03-03T07:41:44.846Z
+-- Generated: 2026-03-03T10:30:07.764Z
 -- Mode: INCREMENTAL
--- Last export: 2026-03-03 07:39:58
+-- Last export: 2026-03-03 07:41:44
 -- Days: 4
--- Tracks: 490
+-- Tracks: 500
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":111,"successfullyFound":56,"notFound":55,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-01 08:03:39',
-  '2026-03-03 07:41:43'
+  '2026-03-03 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":161,"successfullyFound":100,"notFound":61,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-02 07:16:54',
-  '2026-03-03 07:41:43'
+  '2026-03-03 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":184,"successfullyFound":118,"notFound":66,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-02 07:16:54',
-  '2026-03-03 07:41:43'
+  '2026-03-03 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-03-03',
   NULL,
-  '{"totalTracks":15,"successfullyFound":7,"notFound":8,"lowConfidence":0,"duplicates":0}',
+  '{"totalTracks":25,"successfullyFound":15,"notFound":10,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-03 07:39:57',
-  '2026-03-03 07:41:43'
+  '2026-03-03 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -7911,4 +7911,164 @@ VALUES (
   'found',
   100,
   '2026-03-03 07:39:57'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-03',
+  '01:00',
+  'Don Toliver and Toro y Moi',
+  'Madonna',
+  'Hole Erth',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-03 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-03',
+  '01:03',
+  'Tom Misch',
+  'Slow Tonight',
+  'Full Circle',
+  'indie soul',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5',
+  'found',
+  100,
+  '2026-03-03 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-03',
+  '01:08',
+  'Ms Ray & Nourished by Time',
+  'Miss You',
+  'Miss You - Single',
+  'indie electronic',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60',
+  'found',
+  100,
+  '2026-03-03 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-03',
+  '01:11',
+  'Sault',
+  'God, Protect Me from My Enemies',
+  'Chapter 1',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/0yCBRfjBgCjK0LBXOppEzW',
+  'found',
+  100,
+  '2026-03-03 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-03',
+  '01:18',
+  'ELIZA',
+  'Major',
+  'Major - Single',
+  'alternative r&b, neo soul, uk r&b',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/4q4uLhe5EVIQ1WsrT15nkv',
+  'found',
+  100,
+  '2026-03-03 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-03',
+  '01:24',
+  'Daniel Caesar',
+  'Get You (feat. Kali Uchis)',
+  'Freudian',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh',
+  'found',
+  74.8,
+  '2026-03-03 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-03',
+  '01:30',
+  'Tyler, The Creator, Brent Faiyaz, Fana Hues',
+  'Sweet / I Thought You Wanted to Dance',
+  'Call Me If You Get Lost: Estate Sale',
+  'r&b, alternative r&b',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz',
+  'found',
+  98,
+  '2026-03-03 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-03',
+  '01:40',
+  'Nicholas Payton',
+  'Jazz Is a Four-Letter Word',
+  'Afro-Caribbean Mixtape',
+  'jazz',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/6z5EnYmdUrRI9XXc1kVVOV',
+  'found',
+  100,
+  '2026-03-03 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-03',
+  '01:48',
+  'Wynton Marsalis',
+  'The Worst Thing (feat. Natalie Merchant)',
+  'United We Swing: Best of the Jazz at Lincoln Center Galas',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-03 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-03',
+  '01:56',
+  'James Blake',
+  'The First Time Ever I Saw Your Face',
+  'Covers',
+  '',
+  'Adjacent',
+  'Benny Poppins',
+  'https://open.spotify.com/track/0iOuOHywtfaQEcWKeyuH3m',
+  'found',
+  100,
+  '2026-03-03 10:30:07'
 );
