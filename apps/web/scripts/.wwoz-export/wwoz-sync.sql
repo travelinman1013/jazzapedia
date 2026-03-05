@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-03-05T08:05:51.486Z
+-- Generated: 2026-03-05T10:30:07.810Z
 -- Mode: INCREMENTAL
--- Last export: 2026-03-05 08:04:53
+-- Last export: 2026-03-05 08:05:51
 -- Days: 4
--- Tracks: 462
+-- Tracks: 467
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":184,"successfullyFound":118,"notFound":66,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-02 07:16:54',
-  '2026-03-05 08:05:50'
+  '2026-03-05 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":96,"successfullyFound":55,"notFound":41,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-03 07:39:57',
-  '2026-03-05 08:05:50'
+  '2026-03-05 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":163,"successfullyFound":109,"notFound":54,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-05 08:04:52',
-  '2026-03-05 08:05:50'
+  '2026-03-05 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-03-05',
   NULL,
-  '{"totalTracks":7,"successfullyFound":2,"notFound":5,"lowConfidence":0,"duplicates":0}',
+  '{"totalTracks":12,"successfullyFound":5,"notFound":7,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-05 08:04:52',
-  '2026-03-05 08:05:50'
+  '2026-03-05 10:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -7463,4 +7463,84 @@ VALUES (
   'not_found',
   NULL,
   '2026-03-05 08:04:53'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '01:31',
+  'Feratu',
+  'Typo',
+  'Typo (SINGLE)',
+  '',
+  'Draw Fo',
+  'Slangston Hughes & Thelonious Kryptonite',
+  'https://open.spotify.com/track/1SvLn3H6ABr48oJtI4QD8t',
+  'found',
+  100,
+  '2026-03-05 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '01:34',
+  'glbl wrmng',
+  'No ICE In NOLA feat. K''Ophie, Lucid Dreams, Damian Ch & Suave',
+  'No ICE In NOLA (SINGLE)',
+  '',
+  'Draw Fo',
+  'Slangston Hughes & Thelonious Kryptonite',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '01:41',
+  'Anjelika',
+  'Fya feat. Ha-Sizzle',
+  'Fya (SINGLE)',
+  '',
+  'Draw Fo',
+  'Slangston Hughes & Thelonious Kryptonite',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '01:42',
+  'Tank and the Bangas',
+  'Oak Tree',
+  'Red Balloon',
+  'alternative r&b',
+  'Draw Fo',
+  'Slangston Hughes & Thelonious Kryptonite',
+  'https://open.spotify.com/track/4kj92jveROrq8SVf7OyhIK',
+  'found',
+  100,
+  '2026-03-05 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '02:33',
+  'Meters',
+  'Tippi-Toes',
+  'Funkify Your Life- The Meters An',
+  'funk, soul, jazz funk',
+  'Overnight Music - Thursday',
+  NULL,
+  'https://open.spotify.com/track/4IC87geBnjbgduIfAz5xbd',
+  'found',
+  73.9,
+  '2026-03-05 10:30:07'
 );
