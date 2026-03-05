@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-03-05T10:30:07.810Z
+-- Generated: 2026-03-05T19:02:04.426Z
 -- Mode: INCREMENTAL
--- Last export: 2026-03-05 08:05:51
+-- Last export: 2026-03-05 10:30:07
 -- Days: 4
--- Tracks: 467
+-- Tracks: 491
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":184,"successfullyFound":118,"notFound":66,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-02 07:16:54',
-  '2026-03-05 10:30:06'
+  '2026-03-05 19:02:03'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":96,"successfullyFound":55,"notFound":41,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-03 07:39:57',
-  '2026-03-05 10:30:06'
+  '2026-03-05 19:02:03'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":163,"successfullyFound":109,"notFound":54,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-05 08:04:52',
-  '2026-03-05 10:30:06'
+  '2026-03-05 19:02:03'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-03-05',
   NULL,
-  '{"totalTracks":12,"successfullyFound":5,"notFound":7,"lowConfidence":0,"duplicates":0}',
+  '{"totalTracks":36,"successfullyFound":17,"notFound":19,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-05 08:04:52',
-  '2026-03-05 10:30:06'
+  '2026-03-05 19:02:03'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -7543,4 +7543,388 @@ VALUES (
   'found',
   73.9,
   '2026-03-05 10:30:07'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '04:33',
+  'Johnny Adams',
+  'Cookin` In Style',
+  'One Foot In The Blues',
+  'soul blues, blues',
+  'Overnight Music - Thursday',
+  NULL,
+  'https://open.spotify.com/track/2wgBrNf7xjVKfkyQWk6znp',
+  'found',
+  100,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '06:01',
+  'Mike Dillon',
+  'Waltz While You Sleep',
+  'Mike Dillon',
+  'jam band, cajun',
+  'The Morning Set',
+  'Scott Borne',
+  'https://open.spotify.com/track/2NKjAkLZQq2ysa4Oq427kH',
+  'found',
+  100,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '06:12',
+  'Shabaka',
+  'The Dimensions of Subtle Awareness',
+  'Afrikan Culture',
+  '',
+  'The Morning Set',
+  'Scott Borne',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '06:14',
+  'Kamasi Washington [feat. Andre 3000]',
+  'Dream State',
+  'Fearless Movement',
+  '',
+  'The Morning Set',
+  'Scott Borne',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '06:23',
+  'Mulatu Astatke',
+  'Mascaram Setaba',
+  'Mulatu of Ethiopia',
+  'ethiopian jazz',
+  'The Morning Set',
+  'Scott Borne',
+  'https://open.spotify.com/track/6vSY1FnuOXKtdKgNjjMCKl',
+  'found',
+  100,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '06:39',
+  'Charles Mingus',
+  'Better Git Hot In Your Soul',
+  'Three or Four Shades Of Blues',
+  '',
+  'The Morning Set',
+  'Scott Borne',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '06:40',
+  'Bill Frisell',
+  'Small Hands',
+  'In My Dreams',
+  'jazz, jazz fusion, free jazz',
+  'The Morning Set',
+  'Scott Borne',
+  'https://open.spotify.com/track/0acNUAZsQ9snE0di0RPR0W',
+  'found',
+  87.4,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '06:48',
+  'TJ Kirk',
+  'Stomping Ground/ Untitled/ Green Chimney',
+  'If Four Was One',
+  '',
+  'The Morning Set',
+  'Scott Borne',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '07:03',
+  'Joe Henderson and Alice Coltrane',
+  'Earth',
+  'The Elements',
+  '',
+  'The Morning Set',
+  'Scott Borne',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '07:26',
+  'Jamie Branch',
+  'Simple Silver Surfer',
+  'Fly Of Die ll: Bird Dogs of Paradise',
+  '',
+  'The Morning Set',
+  'Scott Borne',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '07:32',
+  'Grazyna Auguscik',
+  'River',
+  'Live Sounds Live',
+  '',
+  'The Morning Set',
+  'Scott Borne',
+  'https://open.spotify.com/track/7Evsse0GgnMFR26el5yCq1',
+  'found',
+  80,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '07:49',
+  'Nduduzo Makhathini',
+  'Amathongo',
+  'In The Spirit Of Ntu',
+  'jazz',
+  'The Morning Set',
+  'Scott Borne',
+  'https://open.spotify.com/track/7dII4RBxD5LxbkbQHlWfWJ',
+  'found',
+  100,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '07:55',
+  'Chelsea Carmichael',
+  'All We Know',
+  'The River Doesn''t Like Strangers',
+  'nu jazz',
+  'The Morning Set',
+  'Scott Borne',
+  'https://open.spotify.com/track/43P9ATR9KbSpDlqsp2sGKW',
+  'found',
+  98,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '08:14',
+  'Yusef Dayes',
+  'Turquoise Galaxy',
+  'Black Classical Music',
+  'nu jazz, indie jazz',
+  'The Morning Set',
+  'Scott Borne',
+  'https://open.spotify.com/track/443JNQpv6lz4wxnHZKV7wH',
+  'found',
+  72,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '08:17',
+  '44th Move/ Alfa Mist',
+  'Anthem',
+  'Anthem',
+  'nu jazz, indie jazz, ambient jazz',
+  'The Morning Set',
+  'Scott Borne',
+  'https://open.spotify.com/track/32a8jbDTdYxLy489EwfK5Z',
+  'found',
+  81,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '08:23',
+  'Apifera',
+  'Beyond The Sunrays',
+  '6 Visits',
+  '',
+  'The Morning Set',
+  'Scott Borne',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '08:41',
+  'Vels Trio',
+  'enderness',
+  'Yellow Ochre',
+  '',
+  'The Morning Set',
+  'Scott Borne',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '08:44',
+  'Black Flower',
+  'Clap Hands',
+  'Future Flora',
+  'ethiopian jazz, nu jazz',
+  'The Morning Set',
+  'Scott Borne',
+  'https://open.spotify.com/track/2RkltQIPCo6jUOUCMXk4ID',
+  'found',
+  100,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '08:53',
+  'Trioritat',
+  'Death Pacito',
+  'ALGO',
+  '',
+  'The Morning Set',
+  'Scott Borne',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '11:11',
+  'Jon Batiste',
+  'Nocturne',
+  NULL,
+  '',
+  'New Orleans Music Show',
+  'Michael Dominici',
+  'https://open.spotify.com/track/4OhTF2HxbbxFzGMAQYaFPx',
+  'found',
+  71.7,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '11:11',
+  'TAKE SIX WITH AARON NEVILLE',
+  'DO YOU KNOW WHAT IT MEANS TO MISS NEW ORLEANS?',
+  NULL,
+  '',
+  'New Orleans Music Show',
+  'Michael Dominici',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '11:14',
+  'AARON NEVILLE',
+  'ITS ALLRIGHT',
+  NULL,
+  '',
+  'New Orleans Music Show',
+  'Michael Dominici',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '11:28',
+  'LEDISI',
+  'FEELING GOOD',
+  'LEDISI SINGS NINA',
+  '',
+  'New Orleans Music Show',
+  'Michael Dominici',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-05 19:02:03'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-05',
+  '11:32',
+  'MAHALIA JACKSON',
+  'DON''T LET NOBODY TURN YOU AROUND',
+  NULL,
+  'traditional gospel, gospel, christmas',
+  'New Orleans Music Show',
+  'Michael Dominici',
+  'https://open.spotify.com/track/3oOqSuuanq8NBbBCS6jLeL',
+  'found',
+  100,
+  '2026-03-05 19:02:03'
 );
