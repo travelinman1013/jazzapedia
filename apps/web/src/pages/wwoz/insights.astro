@@ -29,6 +29,18 @@ interface TopShow {
   trackCount: number;
 }
 
+// Normalize artist name for deduplication (mirrors compute-wwoz-insights.ts)
+function normalizeArtistName(name: string): string {
+  return name
+    .toLowerCase()
+    .trim()
+    .replace(/[.,'"!?]/g, '')
+    .replace(/\s+&\s+/g, ' and ')
+    .replace(/^the\s+/, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 // Default values
 let daysTracked = 0;
 let totalTracks = 0;
@@ -43,37 +55,29 @@ if (db) {
   try {
     const [
       daysResult,
-      tracksResult,
-      artistsResult,
-      matchedResult,
+      tracksStatsResult,
+      artistCountsResult,
       genresCountResult,
-      topArtistsResult,
+      artistSlugsResult,
       topGenresResult,
       topShowsResult,
     ] = await Promise.all([
       // Days tracked
       db.prepare('SELECT COUNT(*) as count FROM wwoz_days').first(),
-      // Total tracks
-      db.prepare('SELECT COUNT(*) as count FROM wwoz_tracks').first(),
-      // Unique artists
-      db.prepare('SELECT COUNT(DISTINCT artist) as count FROM wwoz_tracks').first(),
-      // Matched tracks (status = 'found')
-      db.prepare("SELECT COUNT(*) as count FROM wwoz_tracks WHERE status = 'found'").first(),
-      // Unique genres count (from genres table)
-      db.prepare("SELECT COUNT(*) as count FROM genres").first(),
-      // Top 20 artists with play counts and wiki links
+      // Total tracks and matched from stats_json (same source as /wwoz index page)
       db.prepare(`
         SELECT
-          t.artist as name,
-          COUNT(*) as count,
-          a.slug
-        FROM wwoz_tracks t
-        LEFT JOIN artists a ON LOWER(REPLACE(REPLACE(t.artist, ' ', '-'), '''', '')) = a.slug
-           OR LOWER(REPLACE(REPLACE(REPLACE(t.artist, ' ', '-'), '''', ''), '.', '')) = a.slug
-        GROUP BY t.artist
-        ORDER BY count DESC
-        LIMIT 20
-      `).all(),
+          COALESCE(SUM(json_extract(stats_json, '$.totalTracks')), 0) as totalTracks,
+          COALESCE(SUM(json_extract(stats_json, '$.successfullyFound')), 0) as matchedTracks
+        FROM wwoz_days
+        WHERE stats_json IS NOT NULL
+      `).first(),
+      // All artist names with play counts for TypeScript normalization
+      db.prepare('SELECT artist, COUNT(*) as count FROM wwoz_tracks GROUP BY artist').all(),
+      // Unique genres count (from genres table)
+      db.prepare("SELECT COUNT(*) as count FROM genres").first(),
+      // Artist slugs for wiki links
+      db.prepare('SELECT slug FROM artists').all(),
       // Top genres from tracks
       db.prepare(`
         SELECT genres as name, COUNT(*) as count
@@ -95,11 +99,52 @@ if (db) {
     ]);
 
     daysTracked = (daysResult as { count: number })?.count || 0;
-    totalTracks = (tracksResult as { count: number })?.count || 0;
-    uniqueArtists = (artistsResult as { count: number })?.count || 0;
-    matchedTracks = (matchedResult as { count: number })?.count || 0;
+
+    const statsRow = tracksStatsResult as { totalTracks: number; matchedTracks: number } | null;
+    totalTracks = statsRow?.totalTracks || 0;
+    matchedTracks = statsRow?.matchedTracks || 0;
+
+    // Build artist slug lookup set for wiki links
+    const slugSet = new Set(
+      ((artistSlugsResult.results || []) as { slug: string }[]).map(r => r.slug)
+    );
+
+    // Normalize and group artist play counts in TypeScript
+    const artistCounts = (artistCountsResult.results || []) as { artist: string; count: number }[];
+    const normalizedGroups = new Map<string, { displayName: string; displayCount: number; totalCount: number }>();
+
+    for (const { artist, count } of artistCounts) {
+      const norm = normalizeArtistName(artist);
+      const existing = normalizedGroups.get(norm);
+      if (!existing) {
+        normalizedGroups.set(norm, { displayName: artist, displayCount: count, totalCount: count });
+      } else {
+        existing.totalCount += count;
+        // Keep the variant with the most plays as display name
+        if (count > existing.displayCount) {
+          existing.displayName = artist;
+          existing.displayCount = count;
+        }
+      }
+    }
+
+    uniqueArtists = normalizedGroups.size;
+
+    // Build top 20 artists with wiki link resolution
+    topArtists = Array.from(normalizedGroups.values())
+      .sort((a, b) => b.totalCount - a.totalCount)
+      .slice(0, 20)
+      .map(({ displayName, totalCount }) => {
+        const slug1 = displayName.toLowerCase().replace(/ /g, '-').replace(/'/g, '');
+        const slug2 = slug1.replace(/\./g, '');
+        return {
+          name: displayName,
+          count: totalCount,
+          slug: slugSet.has(slug1) ? slug1 : slugSet.has(slug2) ? slug2 : null,
+        };
+      });
+
     uniqueGenres = (genresCountResult as { count: number })?.count || 0;
-    topArtists = (topArtistsResult.results || []) as TopArtist[];
     topGenres = (topGenresResult.results || []) as TopGenre[];
     topShows = (topShowsResult.results || []) as TopShow[];
   } catch (error) {
