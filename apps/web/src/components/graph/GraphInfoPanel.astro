@@ -35,6 +35,27 @@
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
       </svg>
     </a>
+
+    <!-- Data quality flag (shown when preset is active) -->
+    <div class="flag-section" id="flag-section" style="display:none">
+      <button class="flag-toggle" id="flag-toggle" title="Flag data issue">
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" width="14" height="14">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 21v-4m0 0V5a2 2 0 012-2h6.5l1 1H21l-3 6 3 6h-8.5l-1-1H5a2 2 0 00-2 2zm9-13.5V9" />
+        </svg>
+        Flag Issue
+      </button>
+      <div class="flag-form" id="flag-form" style="display:none">
+        <select id="flag-type" class="flag-select">
+          <option value="wrong-genre">Wrong genre for this scene</option>
+          <option value="wrong-connection">Wrong connection type</option>
+          <option value="missing-from-scene">Should be in this scene</option>
+          <option value="doesnt-belong">Doesn't belong in this scene</option>
+        </select>
+        <input type="text" id="flag-note" class="flag-note" placeholder="Optional note..." />
+        <button id="submit-flag" class="flag-submit">Submit Flag</button>
+      </div>
+      <div class="flag-success" id="flag-success" style="display:none">Flagged!</div>
+    </div>
   </div>
 </div>
 
@@ -168,6 +189,85 @@
     height: 16px;
   }
 
+  /* Flag section */
+  .flag-section {
+    margin-top: 0.75rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .flag-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.375rem 0.625rem;
+    font-size: 0.75rem;
+    background: none;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    color: var(--color-text-muted);
+    cursor: pointer;
+    transition: all var(--duration-fast);
+  }
+
+  .flag-toggle:hover {
+    border-color: #f59e0b;
+    color: #f59e0b;
+  }
+
+  .flag-form {
+    margin-top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.375rem;
+  }
+
+  .flag-select {
+    padding: 0.375rem;
+    font-size: 0.75rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    color: var(--color-text);
+  }
+
+  .flag-note {
+    padding: 0.375rem;
+    font-size: 0.75rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    color: var(--color-text);
+    outline: none;
+  }
+
+  .flag-note:focus {
+    border-color: var(--electric-cyan);
+  }
+
+  .flag-submit {
+    padding: 0.375rem;
+    font-size: 0.75rem;
+    background: #f59e0b;
+    border: none;
+    border-radius: var(--radius-sm);
+    color: #1a1a1a;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background var(--duration-fast);
+  }
+
+  .flag-submit:hover {
+    background: #d97706;
+  }
+
+  .flag-success {
+    margin-top: 0.375rem;
+    font-size: 0.75rem;
+    color: #10b981;
+    font-weight: 500;
+  }
+
   /* Mobile adjustments */
   @media (max-width: 640px) {
     .info-panel {
@@ -186,3 +286,76 @@
     }
   }
 </style>
+
+<script>
+  const STORAGE_KEY = 'jazzapedia-graph-flags';
+  const flagSection = document.getElementById('flag-section');
+  const flagToggle = document.getElementById('flag-toggle');
+  const flagForm = document.getElementById('flag-form');
+  const flagSuccess = document.getElementById('flag-success');
+  const submitFlag = document.getElementById('submit-flag');
+
+  let currentArtistSlug = '';
+  let currentPresetId = '';
+
+  // Show/hide flag section based on active filter
+  window.addEventListener('graph:filterChanged', (e) => {
+    currentPresetId = e.detail.presetId || '';
+    if (flagSection) {
+      flagSection.style.display = currentPresetId ? 'block' : 'none';
+    }
+  });
+
+  // Track selected artist
+  window.addEventListener('graph:nodeSelected', (e) => {
+    currentArtistSlug = e.detail.slug;
+    // Reset flag form
+    if (flagForm) flagForm.style.display = 'none';
+    if (flagSuccess) flagSuccess.style.display = 'none';
+  });
+
+  // Toggle flag form
+  flagToggle?.addEventListener('click', () => {
+    if (flagForm) {
+      flagForm.style.display = flagForm.style.display === 'none' ? 'flex' : 'none';
+      flagSuccess.style.display = 'none';
+    }
+  });
+
+  // Submit flag
+  submitFlag?.addEventListener('click', () => {
+    const flagType = document.getElementById('flag-type')?.value;
+    const flagNote = document.getElementById('flag-note')?.value || '';
+
+    if (!currentArtistSlug || !currentPresetId) return;
+
+    // Load existing flags
+    let flags = [];
+    try {
+      const stored = localStorage.getItem(STORAGE_KEY);
+      if (stored) flags = JSON.parse(stored);
+    } catch {}
+
+    // Add new flag
+    flags.push({
+      artist: currentArtistSlug,
+      preset: currentPresetId,
+      type: flagType,
+      note: flagNote,
+      timestamp: new Date().toISOString()
+    });
+
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(flags));
+
+    // Show success
+    if (flagForm) flagForm.style.display = 'none';
+    if (flagSuccess) {
+      flagSuccess.style.display = 'block';
+      flagSuccess.textContent = `Flagged! (${flags.length} total)`;
+    }
+
+    // Clear note
+    const noteInput = document.getElementById('flag-note');
+    if (noteInput) noteInput.value = '';
+  });
+</script>

@@ -17,8 +17,9 @@ import '@fontsource-variable/playfair-display';
 import '@fontsource-variable/inter';
 import '@fontsource-variable/jetbrains-mono';
 
-// Import pre-computed layout
+// Import pre-computed layout and presets
 import graphLayout from '../data/graph-layout.json';
+import graphPresets from '../data/graph-presets.json';
 
 const title = 'Artist Ecosystem';
 const description = 'Explore the connections between jazz artists - collaborators, influences, and mentors visualized in an interactive graph.';
@@ -34,12 +35,16 @@ const description = 'Explore the connections between jazz artists - collaborator
     <meta name="generator" content={Astro.generator} />
     <title>{title} - Jazzapedia</title>
 
-    <!-- Import map for Three.js ESM modules -->
+    <!-- Import map for Three.js and d3-force ESM modules -->
     <script type="importmap">
       {
         "imports": {
           "three": "https://cdn.jsdelivr.net/npm/three@0.169.0/build/three.module.min.js",
-          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.169.0/examples/jsm/"
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.169.0/examples/jsm/",
+          "d3-force": "https://esm.sh/d3-force@3",
+          "d3-dispatch": "https://esm.sh/d3-dispatch@3",
+          "d3-quadtree": "https://esm.sh/d3-quadtree@3",
+          "d3-timer": "https://esm.sh/d3-timer@3"
         }
       }
     </script>
@@ -96,9 +101,9 @@ const description = 'Explore the connections between jazz artists - collaborator
 
     <!-- Full viewport graph -->
     <main class="graph-main">
-      <GraphControls />
+      <GraphControls presets={graphPresets} />
       <GraphSettingsPanel />
-      <EcosystemGraph layout={graphLayout} />
+      <EcosystemGraph layout={graphLayout} presets={graphPresets} />
       <GraphInfoPanel />
     </main>
 

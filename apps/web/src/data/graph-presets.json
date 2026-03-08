@@ -1,0 +1,127 @@
+{
+  "presets": [
+    {
+      "id": "jazz-core",
+      "name": "Jazz Core",
+      "description": "The heart of jazz — from swing to hard bop to free jazz",
+      "genres": ["jazz", "jazz funk", "jazz fusion", "jazz blues", "soul jazz", "free jazz", "jazz ballads"],
+      "dateRange": null,
+      "featured": ["louis-armstrong", "miles-davis", "john-coltrane"]
+    },
+    {
+      "id": "bebop-hard-bop",
+      "name": "Bebop & Hard Bop",
+      "description": "The revolutionary sounds of jazz innovators",
+      "genres": ["bebop", "hard bop"],
+      "dateRange": null,
+      "featured": ["charlie-parker", "dizzy-gillespie", "thelonious-monk"]
+    },
+    {
+      "id": "cool-jazz",
+      "name": "Cool Jazz",
+      "description": "The laid-back, cerebral side of jazz",
+      "genres": ["cool jazz", "nu jazz", "acid jazz"],
+      "dateRange": null,
+      "featured": []
+    },
+    {
+      "id": "vocal-jazz",
+      "name": "Vocal Jazz",
+      "description": "The great voices of jazz",
+      "genres": ["vocal jazz"],
+      "dateRange": null,
+      "featured": []
+    },
+    {
+      "id": "swing-big-band",
+      "name": "Swing & Big Band",
+      "description": "Big bands and the golden age of dance music",
+      "genres": ["swing music", "big band"],
+      "dateRange": null,
+      "featured": []
+    },
+    {
+      "id": "blues-tradition",
+      "name": "Blues Tradition",
+      "description": "From country blues to classic blues, rock, and beyond",
+      "genres": ["blues", "classic blues", "blues rock", "modern blues", "country blues", "soul blues", "jazz blues", "boogie-woogie"],
+      "dateRange": null,
+      "featured": []
+    },
+    {
+      "id": "soul-funk",
+      "name": "Soul & Funk",
+      "description": "Rhythm, groove, and the power of the one",
+      "genres": ["soul", "funk", "r&b", "neo soul", "motown", "retro soul", "classic soul", "northern soul", "philly soul", "soul jazz", "soul blues"],
+      "dateRange": null,
+      "featured": []
+    },
+    {
+      "id": "cajun-zydeco",
+      "name": "Cajun & Zydeco",
+      "description": "Louisiana's French Creole musical traditions",
+      "genres": ["cajun", "zydeco"],
+      "dateRange": null,
+      "featured": []
+    },
+    {
+      "id": "brass-band",
+      "name": "Brass Band & NOLA",
+      "description": "New Orleans street music and bounce traditions",
+      "genres": ["brass band", "new orleans bounce"],
+      "dateRange": null,
+      "featured": []
+    },
+    {
+      "id": "ragtime",
+      "name": "Ragtime",
+      "description": "The syncopated roots that preceded jazz",
+      "genres": ["ragtime"],
+      "dateRange": null,
+      "featured": []
+    },
+    {
+      "id": "americana-roots",
+      "name": "Americana & Roots",
+      "description": "Country, folk, bluegrass, and roots music traditions",
+      "genres": ["americana", "country", "folk", "roots rock", "alt country", "bluegrass", "newgrass", "rockabilly", "traditional country", "singer-songwriter", "country rock", "country blues"],
+      "dateRange": null,
+      "featured": []
+    },
+    {
+      "id": "latin-brazilian",
+      "name": "Latin & Brazilian",
+      "description": "Latin jazz, bossa nova, and Afro-Cuban traditions",
+      "genres": ["latin jazz", "bossa nova", "brazilian jazz", "son cubano", "mpb", "afro-cuban jazz"],
+      "dateRange": null,
+      "featured": []
+    },
+    {
+      "id": "reggae-dub",
+      "name": "Reggae & Dub",
+      "description": "Jamaican roots music and its global influence",
+      "genres": ["reggae", "roots reggae", "rocksteady", "dub", "lovers rock", "ragga"],
+      "dateRange": null,
+      "featured": []
+    },
+    {
+      "id": "afrobeat-world",
+      "name": "Afrobeat & World",
+      "description": "African-rooted global music traditions",
+      "genres": ["afrobeat", "afropop", "afro soul"],
+      "dateRange": null,
+      "featured": []
+    }
+  ],
+  "genreGroups": {
+    "Jazz": ["jazz", "bebop", "hard bop", "cool jazz", "free jazz", "vocal jazz", "jazz fusion", "jazz funk", "soul jazz", "jazz blues", "jazz ballads", "nu jazz", "acid jazz", "latin jazz"],
+    "Blues": ["blues", "classic blues", "blues rock", "modern blues", "country blues", "soul blues", "jazz blues", "boogie-woogie"],
+    "Soul/Funk/R&B": ["soul", "funk", "r&b", "neo soul", "motown", "retro soul", "classic soul", "northern soul", "philly soul", "quiet storm", "doo-wop"],
+    "Louisiana": ["cajun", "zydeco", "brass band", "new orleans bounce"],
+    "Swing/Standards": ["swing music", "big band", "ragtime", "vocal jazz"],
+    "Roots/Country": ["americana", "alt country", "folk", "roots rock", "bluegrass", "newgrass", "rockabilly", "traditional country", "country", "country rock", "singer-songwriter", "southern rock"],
+    "Latin/Brazilian": ["latin jazz", "bossa nova", "brazilian jazz", "son cubano", "mpb"],
+    "Reggae": ["reggae", "roots reggae", "rocksteady", "dub", "lovers rock", "ragga"],
+    "African/World": ["afrobeat", "afropop", "afro soul"]
+  }
+}

@@ -82,6 +82,14 @@
         <button class="action-btn" id="reset-view">Reset View</button>
       </div>
     </div>
+
+    <div class="settings-section">
+      <h4>Data Quality</h4>
+      <div class="button-row">
+        <button class="action-btn" id="download-flags">Download Flags</button>
+      </div>
+      <p class="flag-count" id="settings-flag-count" style="font-size:0.625rem;color:var(--color-text-muted);margin:0.25rem 0 0"></p>
+    </div>
   </div>
 </div>
 
@@ -412,4 +420,30 @@
   document.getElementById('reset-view')?.addEventListener('click', () => {
     if (window.graphResetView) window.graphResetView();
   });
+
+  // Download flags
+  const flagCountEl = document.getElementById('settings-flag-count');
+  function updateFlagCount() {
+    try {
+      const flags = JSON.parse(localStorage.getItem('jazzapedia-graph-flags') || '[]');
+      if (flagCountEl) flagCountEl.textContent = `${flags.length} flags collected`;
+    } catch {}
+  }
+  updateFlagCount();
+
+  document.getElementById('download-flags')?.addEventListener('click', () => {
+    try {
+      const flags = JSON.parse(localStorage.getItem('jazzapedia-graph-flags') || '[]');
+      const blob = new Blob([JSON.stringify({ flags }, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `graph-flags-${new Date().toISOString().split('T')[0]}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+    } catch {}
+  });
+
+  // Update count periodically
+  window.addEventListener('storage', updateFlagCount);
 </script>

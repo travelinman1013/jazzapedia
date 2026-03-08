@@ -51,6 +51,8 @@ interface GraphNode {
   x: number;
   y: number;
   connections: number;
+  genres?: string[];
+  era?: string;
 }
 
 interface GraphEdge {
@@ -142,10 +144,12 @@ async function buildGraphLayout() {
 
   console.log('[build-graph] Building graph layout from SQLite...');
 
-  // Get all artists
-  const allArtists = db.prepare('SELECT slug, title FROM artists').all() as Array<{
+  // Get all artists with genre and era data
+  const allArtists = db.prepare('SELECT slug, title, genres, birth_date FROM artists').all() as Array<{
     slug: string;
     title: string;
+    genres: string | null;
+    birth_date: string | null;
   }>;
 
   console.log(`[build-graph] Found ${allArtists.length} total artists`);
@@ -156,6 +160,33 @@ async function buildGraphLayout() {
     nameToSlug[artist.title.toLowerCase()] = artist.slug;
     nameToSlug[artist.slug] = artist.slug;
   }
+
+  // Build genre and era lookups
+  const genreLookup: Record<string, string[]> = {};
+  const eraLookup: Record<string, string> = {};
+  let genreCount = 0;
+  let eraCount = 0;
+
+  for (const artist of allArtists) {
+    if (artist.genres && artist.genres !== '[]') {
+      try {
+        const parsed = JSON.parse(artist.genres);
+        if (Array.isArray(parsed) && parsed.length > 0) {
+          genreLookup[artist.slug] = parsed;
+          genreCount++;
+        }
+      } catch { /* skip malformed JSON */ }
+    }
+    if (artist.birth_date) {
+      const year = parseInt(artist.birth_date.substring(0, 4));
+      if (!isNaN(year) && year > 1800 && year < 2020) {
+        eraLookup[artist.slug] = `${Math.floor(year / 10) * 10}s`;
+        eraCount++;
+      }
+    }
+  }
+
+  console.log(`[build-graph] Genre data: ${genreCount} artists, Era data: ${eraCount} artists`);
 
   // Get artists with musical connections
   const artistsWithConnections = db.prepare(`
@@ -308,14 +339,22 @@ async function buildGraphLayout() {
 
   console.log(`[build-graph] Bounds: X[${minX.toFixed(0)}, ${maxX.toFixed(0)}], Y[${minY.toFixed(0)}, ${maxY.toFixed(0)}]`);
 
-  // Build output
-  const outputNodes: GraphNode[] = nodes.map(n => ({
-    slug: n.slug,
-    name: n.name,
-    x: Math.round((n.x || 0) * 100) / 100,
-    y: Math.round((n.y || 0) * 100) / 100,
-    connections: n.connections
-  }));
+  // Build output (include genres and era for scene filtering)
+  const outputNodes: GraphNode[] = nodes.map(n => {
+    const node: GraphNode = {
+      slug: n.slug,
+      name: n.name,
+      x: Math.round((n.x || 0) * 100) / 100,
+      y: Math.round((n.y || 0) * 100) / 100,
+      connections: n.connections
+    };
+    if (genreLookup[n.slug]) node.genres = genreLookup[n.slug];
+    if (eraLookup[n.slug]) node.era = eraLookup[n.slug];
+    return node;
+  });
+
+  const nodesWithGenres = outputNodes.filter(n => n.genres).length;
+  console.log(`[build-graph] Nodes with genres: ${nodesWithGenres}/${outputNodes.length}`);
 
   // Convert edges to use slugs (d3 may have replaced them with node references)
   const outputEdges: GraphEdge[] = edges.map(e => ({

@@ -12,6 +12,8 @@ interface GraphNode {
   x: number;
   y: number;
   connections: number;
+  genres?: string[];
+  era?: string;
 }
 
 interface GraphEdge {
@@ -38,6 +40,7 @@ interface GraphLayout {
 
 interface Props {
   layout: GraphLayout;
+  presets?: any;
 }
 
 const { layout } = Astro.props;
@@ -306,7 +309,7 @@ const layoutJSON = JSON.stringify(layout);
       const color = colors.highlight;
       const posScale = window.__graphSettings?.positionScale || 1.0;
       const sizeScale = window.__graphSettings?.nodeSize || 1.0;
-      const basePos = basePositions[node.slug];
+      const pos = currentPositions[node.slug] || basePositions[node.slug];
 
       // Update node color
       nodesMesh.instanceColor.array[index * 3] = color.r;
@@ -315,7 +318,7 @@ const layoutJSON = JSON.stringify(layout);
       nodesMesh.instanceColor.needsUpdate = true;
 
       // Scale up
-      dummy.position.set(basePos.x * posScale, basePos.y * posScale, 0);
+      dummy.position.set(pos.x * posScale, pos.y * posScale, 0);
       dummy.scale.setScalar(originalScales[index] * sizeScale * 1.3);
       dummy.updateMatrix();
       nodesMesh.setMatrixAt(index, dummy.matrix);
@@ -331,7 +334,7 @@ const layoutJSON = JSON.stringify(layout);
       const node = nodes[index];
       const posScale = window.__graphSettings?.positionScale || 1.0;
       const sizeScale = window.__graphSettings?.nodeSize || 1.0;
-      const basePos = basePositions[node.slug];
+      const pos = currentPositions[node.slug] || basePositions[node.slug];
 
       // Restore original color
       nodesMesh.instanceColor.array[index * 3] = originalColors[index * 3];
@@ -340,7 +343,7 @@ const layoutJSON = JSON.stringify(layout);
       nodesMesh.instanceColor.needsUpdate = true;
 
       // Restore original scale
-      dummy.position.set(basePos.x * posScale, basePos.y * posScale, 0);
+      dummy.position.set(pos.x * posScale, pos.y * posScale, 0);
       dummy.scale.setScalar(originalScales[index] * sizeScale);
       dummy.updateMatrix();
       nodesMesh.setMatrixAt(index, dummy.matrix);
@@ -493,8 +496,10 @@ const layoutJSON = JSON.stringify(layout);
       const colorAttr = edgeGeometry.getAttribute('color');
 
       edgeIndices.forEach(i => {
-        highlightedEdgeIndices.add(i);
         const edge = edges[i];
+        // Skip edges outside the active filter
+        if (filteredNodeSlugs && (!filteredNodeSlugs.has(edge.source) || !filteredNodeSlugs.has(edge.target))) return;
+        highlightedEdgeIndices.add(i);
         const highlightColor = edgeHighlightColors[edge.type];
 
         colorAttr.array[i * 6] = highlightColor.r;
@@ -519,7 +524,9 @@ const layoutJSON = JSON.stringify(layout);
         const color = colors[edge.type];
         const opacity = edgeOpacities[edge.type];
         const visible = edgeVisibility[edge.type];
-        const factor = visible ? opacity / 0.35 : 0.05 / 0.35;
+        const edgeVisible = !filteredNodeSlugs || (filteredNodeSlugs.has(edge.source) && filteredNodeSlugs.has(edge.target));
+        const baseFactor = visible ? opacity / 0.35 : 0.05 / 0.35;
+        const factor = edgeVisible ? baseFactor : DIM_FACTOR * 0.3;
 
         colorAttr.array[i * 6] = color.r * factor;
         colorAttr.array[i * 6 + 1] = color.g * factor;
@@ -544,9 +551,11 @@ const layoutJSON = JSON.stringify(layout);
         const opacity = edgeOpacities[edge.type];
         const visible = edgeVisibility[edge.type];
         const color = colors[edge.type] || colors.default;
+        const edgeVisible = !filteredNodeSlugs || (filteredNodeSlugs.has(edge.source) && filteredNodeSlugs.has(edge.target));
 
-        // Adjust color intensity based on opacity and visibility
-        const factor = visible ? opacity / 0.35 : 0.05 / 0.35;
+        // Adjust color intensity based on opacity, visibility, and filter state
+        const baseFactor = visible ? opacity / 0.35 : 0.05 / 0.35;
+        const factor = edgeVisible ? baseFactor : DIM_FACTOR * 0.3;
         colorAttr.array[i * 6] = color.r * factor;
         colorAttr.array[i * 6 + 1] = color.g * factor;
         colorAttr.array[i * 6 + 2] = color.b * factor;
@@ -670,9 +679,15 @@ const layoutJSON = JSON.stringify(layout);
     // Camera animation function
     function animateCameraTo(target, zoom) {
       const startTarget = controls.target.clone();
+      const startCamPos = camera.position.clone();
       const startZoom = camera.zoom;
       const duration = 500;
       const startTime = Date.now();
+
+      // Compute end camera position: shift by same delta as target
+      const endCamPos = startCamPos.clone();
+      endCamPos.x += target.x - startTarget.x;
+      endCamPos.y += target.y - startTarget.y;
 
       function animate() {
         const elapsed = Date.now() - startTime;
@@ -680,6 +695,8 @@ const layoutJSON = JSON.stringify(layout);
         const eased = 1 - Math.pow(1 - t, 3); // easeOutCubic
 
         controls.target.lerpVectors(startTarget, target, eased);
+        camera.position.x = startCamPos.x + (endCamPos.x - startCamPos.x) * eased;
+        camera.position.y = startCamPos.y + (endCamPos.y - startCamPos.y) * eased;
         camera.zoom = startZoom + (zoom - startZoom) * eased;
         camera.updateProjectionMatrix();
 
@@ -717,6 +734,456 @@ const layoutJSON = JSON.stringify(layout);
           break;
       }
     });
+
+    // =====================================================
+    // Scene Filtering + Re-layout
+    // =====================================================
+
+    // Track current filter state
+    let filteredNodeSlugs = null; // null = all nodes, Set = filtered
+    let currentPositions = {}; // current animated positions
+    let animationFrameId = null;
+
+    // Initialize current positions from base positions
+    nodes.forEach(node => {
+      currentPositions[node.slug] = { x: node.x, y: node.y };
+    });
+
+    // Dimming factor for non-matching nodes
+    const DIM_FACTOR = 0.08;
+
+    async function applyFilter(genreList, dateRange, presetId) {
+      // Cancel any running animation
+      if (animationFrameId) {
+        cancelAnimationFrame(animationFrameId);
+        animationFrameId = null;
+      }
+
+      // If no filter, restore everything
+      if (!genreList) {
+        filteredNodeSlugs = null;
+        restoreFullGraph();
+        return;
+      }
+
+      const genreSet = new Set(genreList.map(g => g.toLowerCase()));
+
+      // Find matching nodes
+      const matchSet = new Set();
+      nodes.forEach(node => {
+        const nodeGenres = node.genres || [];
+        const genreMatch = nodeGenres.some(g => genreSet.has(g.toLowerCase()));
+        if (genreMatch) {
+          matchSet.add(node.slug);
+        }
+      });
+
+      // Apply date range filter if present
+      if (dateRange) {
+        nodes.forEach(node => {
+          if (!matchSet.has(node.slug)) return;
+          if (node.era) {
+            const decade = parseInt(node.era);
+            if (!isNaN(decade) && (decade < dateRange.start || decade > dateRange.end)) {
+              matchSet.delete(node.slug);
+            }
+          }
+        });
+      }
+
+      filteredNodeSlugs = matchSet;
+
+      // Find edges within filtered subgraph
+      const subEdges = edges.filter(e =>
+        matchSet.has(e.source) && matchSet.has(e.target)
+      );
+
+      // Compute within-scene connection counts
+      const sceneCounts = {};
+      subEdges.forEach(e => {
+        sceneCounts[e.source] = (sceneCounts[e.source] || 0) + 1;
+        sceneCounts[e.target] = (sceneCounts[e.target] || 0) + 1;
+      });
+
+      // Update stats display
+      const nodeCountEl = document.getElementById('node-count');
+      const edgeCountEl = document.getElementById('edge-count');
+      if (nodeCountEl) nodeCountEl.textContent = matchSet.size.toLocaleString();
+      if (edgeCountEl) edgeCountEl.textContent = subEdges.length.toLocaleString();
+
+      // Run d3-force on subgraph
+      const d3Force = await import('d3-force');
+
+      const simNodes = nodes
+        .filter(n => matchSet.has(n.slug))
+        .map(n => ({
+          slug: n.slug,
+          x: currentPositions[n.slug].x,
+          y: currentPositions[n.slug].y,
+          connections: sceneCounts[n.slug] || 0
+        }));
+
+      // Use direct object references instead of string IDs to avoid
+      // d3-force .id() accessor issues with esm.sh module loading
+      const nodeMap = Object.fromEntries(simNodes.map(n => [n.slug, n]));
+      const simEdges = subEdges
+        .map(e => ({
+          source: nodeMap[e.source],
+          target: nodeMap[e.target],
+          type: e.type
+        }))
+        .filter(e => e.source && e.target);
+
+      const simulation = d3Force.forceSimulation(simNodes)
+        .force('link', d3Force.forceLink(simEdges)
+          .distance(60)
+          .strength(0.4))
+        .force('charge', d3Force.forceManyBody()
+          .strength(-50)
+          .distanceMax(250))
+        .force('center', d3Force.forceCenter(0, 0))
+        .force('collision', d3Force.forceCollide()
+          .radius(d => 8 + Math.sqrt(d.connections || 0) * 3));
+
+      // Run simulation
+      const iterations = Math.min(200, Math.max(80, simNodes.length));
+      for (let i = 0; i < iterations; i++) {
+        simulation.tick();
+      }
+      simulation.stop();
+
+      // Build target positions
+      const targetPositions = {};
+      simNodes.forEach(n => {
+        targetPositions[n.slug] = { x: n.x, y: n.y };
+      });
+
+      // Animate transition
+      animateTransition(matchSet, targetPositions, sceneCounts);
+
+      console.log(`[EcosystemGraph] Filter applied: ${matchSet.size} nodes, ${subEdges.length} edges`);
+    }
+
+    function animateTransition(matchSet, targetPositions, sceneCounts) {
+      const duration = 600;
+      const startTime = Date.now();
+      const posScale = window.__graphSettings?.positionScale || 1.0;
+      const sizeScale = window.__graphSettings?.nodeSize || 1.0;
+
+      // Capture start positions for all nodes
+      const startPositions = {};
+      nodes.forEach(n => {
+        startPositions[n.slug] = { ...currentPositions[n.slug] };
+      });
+
+      // For non-matched nodes, target position is their current position (they just fade)
+      function step() {
+        const elapsed = Date.now() - startTime;
+        const t = Math.min(elapsed / duration, 1);
+        const eased = 1 - Math.pow(1 - t, 3); // easeOutCubic
+
+        nodes.forEach((node, i) => {
+          const isMatch = matchSet.has(node.slug);
+          const start = startPositions[node.slug];
+
+          let targetX, targetY;
+          if (isMatch && targetPositions[node.slug]) {
+            targetX = targetPositions[node.slug].x;
+            targetY = targetPositions[node.slug].y;
+          } else {
+            targetX = start.x;
+            targetY = start.y;
+          }
+
+          // Lerp position
+          const x = start.x + (targetX - start.x) * eased;
+          const y = start.y + (targetY - start.y) * eased;
+          currentPositions[node.slug] = { x, y };
+
+          // Update node transform
+          dummy.position.set(x * posScale, y * posScale, 0);
+
+          if (isMatch) {
+            // Scale based on within-scene connectivity
+            const sceneConns = sceneCounts[node.slug] || 0;
+            const sceneScale = baseSize + Math.log(sceneConns + 1) * 2.0;
+            dummy.scale.setScalar(sceneScale * sizeScale);
+
+            // Restore full color
+            const intensity = Math.min(sceneConns / 20, 1);
+            const color = new THREE.Color().lerpColors(colors.default, colors.collaborator, intensity);
+            nodesMesh.instanceColor.array[i * 3] = color.r;
+            nodesMesh.instanceColor.array[i * 3 + 1] = color.g;
+            nodesMesh.instanceColor.array[i * 3 + 2] = color.b;
+          } else {
+            // Dim non-matching nodes
+            const dimmedScale = originalScales[i] * sizeScale * 0.5;
+            dummy.scale.setScalar(dimmedScale);
+
+            nodesMesh.instanceColor.array[i * 3] = originalColors[i * 3] * DIM_FACTOR;
+            nodesMesh.instanceColor.array[i * 3 + 1] = originalColors[i * 3 + 1] * DIM_FACTOR;
+            nodesMesh.instanceColor.array[i * 3 + 2] = originalColors[i * 3 + 2] * DIM_FACTOR;
+          }
+
+          dummy.updateMatrix();
+          nodesMesh.setMatrixAt(i, dummy.matrix);
+        });
+
+        nodesMesh.instanceMatrix.needsUpdate = true;
+        nodesMesh.instanceColor.needsUpdate = true;
+
+        // Update edge positions and colors
+        const posAttr = edgeGeometry.getAttribute('position');
+        const colorAttr = edgeGeometry.getAttribute('color');
+
+        edges.forEach((edge, i) => {
+          const sourcePos = currentPositions[edge.source];
+          const targetPos = currentPositions[edge.target];
+          if (sourcePos && targetPos) {
+            posAttr.array[i * 6] = sourcePos.x * posScale;
+            posAttr.array[i * 6 + 1] = sourcePos.y * posScale;
+            posAttr.array[i * 6 + 3] = targetPos.x * posScale;
+            posAttr.array[i * 6 + 4] = targetPos.y * posScale;
+          }
+
+          // Dim edges where both endpoints aren't in the filtered set
+          const edgeVisible = matchSet.has(edge.source) && matchSet.has(edge.target);
+          const color = colors[edge.type] || colors.default;
+          const factor = edgeVisible ? 1.0 : DIM_FACTOR * 0.3;
+
+          colorAttr.array[i * 6] = color.r * factor;
+          colorAttr.array[i * 6 + 1] = color.g * factor;
+          colorAttr.array[i * 6 + 2] = color.b * factor;
+          colorAttr.array[i * 6 + 3] = color.r * factor;
+          colorAttr.array[i * 6 + 4] = color.g * factor;
+          colorAttr.array[i * 6 + 5] = color.b * factor;
+        });
+
+        posAttr.needsUpdate = true;
+        colorAttr.needsUpdate = true;
+
+        if (t < 1) {
+          animationFrameId = requestAnimationFrame(step);
+        } else {
+          animationFrameId = null;
+          // Fit camera to filtered nodes
+          fitCameraToFiltered(matchSet);
+        }
+      }
+
+      animationFrameId = requestAnimationFrame(step);
+    }
+
+    function fitCameraToFiltered(matchSet) {
+      let minX = Infinity, maxX = -Infinity;
+      let minY = Infinity, maxY = -Infinity;
+      const posScale = window.__graphSettings?.positionScale || 1.0;
+
+      nodes.forEach(node => {
+        if (!matchSet.has(node.slug)) return;
+        const pos = currentPositions[node.slug];
+        minX = Math.min(minX, pos.x * posScale);
+        maxX = Math.max(maxX, pos.x * posScale);
+        minY = Math.min(minY, pos.y * posScale);
+        maxY = Math.max(maxY, pos.y * posScale);
+      });
+
+      if (minX === Infinity) return;
+
+      const centerX = (minX + maxX) / 2;
+      const centerY = (minY + maxY) / 2;
+      const spanX = maxX - minX;
+      const spanY = maxY - minY;
+
+      const aspect = container.clientWidth / container.clientHeight;
+      const targetZoom = Math.min(
+        frustumSize * aspect / (spanX + 200),
+        frustumSize / (spanY + 200),
+        4
+      ) * 0.8;
+
+      animateCameraTo(new THREE.Vector3(centerX, centerY, 0), Math.max(targetZoom, 0.3));
+    }
+
+    function restoreFullGraph() {
+      const posScale = window.__graphSettings?.positionScale || 1.0;
+      const sizeScale = window.__graphSettings?.nodeSize || 1.0;
+      const duration = 600;
+      const startTime = Date.now();
+
+      // Capture start positions
+      const startPositions = {};
+      nodes.forEach(n => {
+        startPositions[n.slug] = { ...currentPositions[n.slug] };
+      });
+
+      // Update stats
+      const nodeCountEl = document.getElementById('node-count');
+      const edgeCountEl = document.getElementById('edge-count');
+      if (nodeCountEl) nodeCountEl.textContent = metadata.nodeCount.toLocaleString();
+      if (edgeCountEl) edgeCountEl.textContent = metadata.edgeCount.toLocaleString();
+
+      function step() {
+        const elapsed = Date.now() - startTime;
+        const t = Math.min(elapsed / duration, 1);
+        const eased = 1 - Math.pow(1 - t, 3);
+
+        nodes.forEach((node, i) => {
+          const start = startPositions[node.slug];
+          const base = basePositions[node.slug];
+
+          const x = start.x + (base.x - start.x) * eased;
+          const y = start.y + (base.y - start.y) * eased;
+          currentPositions[node.slug] = { x, y };
+
+          dummy.position.set(x * posScale, y * posScale, 0);
+          dummy.scale.setScalar(originalScales[i] * sizeScale);
+          dummy.updateMatrix();
+          nodesMesh.setMatrixAt(i, dummy.matrix);
+
+          // Restore original colors
+          nodesMesh.instanceColor.array[i * 3] = originalColors[i * 3];
+          nodesMesh.instanceColor.array[i * 3 + 1] = originalColors[i * 3 + 1];
+          nodesMesh.instanceColor.array[i * 3 + 2] = originalColors[i * 3 + 2];
+        });
+
+        nodesMesh.instanceMatrix.needsUpdate = true;
+        nodesMesh.instanceColor.needsUpdate = true;
+
+        // Restore edge positions and colors
+        const posAttr = edgeGeometry.getAttribute('position');
+        const colorAttr = edgeGeometry.getAttribute('color');
+
+        edges.forEach((edge, i) => {
+          const sourcePos = currentPositions[edge.source];
+          const targetPos = currentPositions[edge.target];
+          if (sourcePos && targetPos) {
+            posAttr.array[i * 6] = sourcePos.x * posScale;
+            posAttr.array[i * 6 + 1] = sourcePos.y * posScale;
+            posAttr.array[i * 6 + 3] = targetPos.x * posScale;
+            posAttr.array[i * 6 + 4] = targetPos.y * posScale;
+          }
+
+          const color = colors[edge.type] || colors.default;
+          const opacity = edgeOpacities[edge.type] || 0.35;
+          const visible = edgeVisibility[edge.type] !== false;
+          const factor = visible ? opacity / 0.35 : 0.05 / 0.35;
+
+          colorAttr.array[i * 6] = color.r * factor;
+          colorAttr.array[i * 6 + 1] = color.g * factor;
+          colorAttr.array[i * 6 + 2] = color.b * factor;
+          colorAttr.array[i * 6 + 3] = color.r * factor;
+          colorAttr.array[i * 6 + 4] = color.g * factor;
+          colorAttr.array[i * 6 + 5] = color.b * factor;
+        });
+
+        posAttr.needsUpdate = true;
+        colorAttr.needsUpdate = true;
+
+        if (t < 1) {
+          animationFrameId = requestAnimationFrame(step);
+        } else {
+          animationFrameId = null;
+          // Reset camera to fit all — move position with target
+          const dx = 0 - controls.target.x;
+          const dy = 0 - controls.target.y;
+          controls.target.set(0, 0, 0);
+          camera.position.x += dx;
+          camera.position.y += dy;
+          camera.zoom = 0.9;
+          camera.updateProjectionMatrix();
+          controls.update();
+        }
+      }
+
+      animationFrameId = requestAnimationFrame(step);
+    }
+
+    // Listen for filter changes from GraphControls
+    window.addEventListener('graph:filterChanged', (e) => {
+      const { genres, dateRange, presetId } = e.detail;
+      applyFilter(genres, dateRange, presetId);
+    });
+
+    // Modify search to scope to filtered nodes
+    const originalSearchFilter = (node, query) => node.name.toLowerCase().includes(query);
+
+    // Override the search behavior to scope to filtered set
+    if (searchInput && searchResults) {
+      // Remove old listener and add new one
+      const newSearchInput = searchInput.cloneNode(true);
+      searchInput.parentNode.replaceChild(newSearchInput, searchInput);
+
+      let searchTimeout;
+      newSearchInput.addEventListener('input', (e) => {
+        clearTimeout(searchTimeout);
+        const query = e.target.value.toLowerCase().trim();
+
+        if (query.length < 2) {
+          searchResults.classList.remove('active');
+          return;
+        }
+
+        searchTimeout = setTimeout(() => {
+          const matches = nodes
+            .filter(n => {
+              if (filteredNodeSlugs && !filteredNodeSlugs.has(n.slug)) return false;
+              return n.name.toLowerCase().includes(query);
+            })
+            .sort((a, b) => b.connections - a.connections)
+            .slice(0, 10);
+
+          searchResults.innerHTML = matches.map(node =>
+            `<li data-slug="${node.slug}">
+              ${node.name}
+              <span class="connections-count">${node.connections} connections</span>
+            </li>`
+          ).join('');
+
+          searchResults.classList.toggle('active', matches.length > 0);
+        }, 150);
+      });
+
+      newSearchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          searchResults.classList.remove('active');
+          newSearchInput.blur();
+        }
+      });
+
+      searchResults.addEventListener('click', (e) => {
+        const li = e.target.closest('li');
+        if (li) {
+          const slug = li.dataset.slug;
+          // Fly to the artist at their current (possibly filtered) position
+          const pos = currentPositions[slug];
+          const index = nodeIndexBySlug[slug];
+          if (pos && index !== undefined) {
+            const posScale = window.__graphSettings?.positionScale || 1.0;
+            const startTarget = controls.target.clone();
+            const endTarget = new THREE.Vector3(pos.x * posScale, pos.y * posScale, 0);
+            const startZoom = camera.zoom;
+            const endZoom = 3;
+            const duration = 800;
+            const startTime = Date.now();
+
+            function animateFly() {
+              const elapsed = Date.now() - startTime;
+              const t = Math.min(elapsed / duration, 1);
+              const eased = 1 - Math.pow(1 - t, 3);
+              controls.target.lerpVectors(startTarget, endTarget, eased);
+              camera.zoom = startZoom + (endZoom - startZoom) * eased;
+              camera.updateProjectionMatrix();
+              if (t < 1) requestAnimationFrame(animateFly);
+              else selectNode(index);
+            }
+            animateFly();
+          }
+          searchResults.classList.remove('active');
+          newSearchInput.value = '';
+        }
+      });
+    }
 
     // Initial setup
     onResize();
