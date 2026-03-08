@@ -497,8 +497,8 @@
           this.open();
         }
 
-        // R for random (when not in input)
-        if (e.key === 'r' && document.activeElement?.tagName !== 'INPUT') {
+        // R for random (when not in input, no modifiers)
+        if (e.key === 'r' && !e.shiftKey && !e.metaKey && !e.ctrlKey && !e.altKey && document.activeElement?.tagName !== 'INPUT' && document.activeElement?.tagName !== 'TEXTAREA') {
           // Only if palette is closed
           if (!this.backdrop.classList.contains('is-open')) {
             window.location.href = '/random';

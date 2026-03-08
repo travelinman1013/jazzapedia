@@ -1,19 +1,16 @@
 ---
 /**
- * Home Page - Jazz Club Playbill Aesthetic
- * Features art deco hero, animated stat boxes, and featured content sections
- * Uses D1 database for SSR
+ * Home Page - Search-First Jazz Discovery
+ * Tier 1: Search hero with inline typeahead
+ * Tier 2: WWOZ days, recently added, random artists
  */
 import Layout from '../layouts/Layout.astro';
-import StatBox from '../components/jazz/StatBox.astro';
 import ArtistCard from '../components/jazz/ArtistCard.astro';
-import GenreBadge from '../components/jazz/GenreBadge.astro';
+import HeroSearch from '../components/HeroSearch.astro';
 import { getDatabase, getPortraitUrl } from '../lib/db';
 
-// Get database adapter (works with both D1 and SQLite)
 const db = await getDatabase(Astro.locals);
 
-// Set cache headers (shorter for homepage with random content)
 Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-revalidate=3600');
 
 interface Artist {
@@ -24,11 +21,6 @@ interface Artist {
   image_filename: string | null;
   spotify_data: string | null;
   created_at: string | null;
-}
-
-interface Genre {
-  name: string;
-  artist_count: number;
 }
 
 interface WWOZDay {
@@ -45,35 +37,25 @@ interface WWOZStats {
 let artistCount = 0;
 let randomArtists: Artist[] = [];
 let recentArtists: Artist[] = [];
-let topGenres: Genre[] = [];
 let recentWWOZDays: WWOZDay[] = [];
-let wwozDaysCount = 0;
-let wwozTotalTracks = 0;
 let errorMessage = '';
 
 if (db) {
   try {
-    // Run queries in parallel for better performance
     const [
       artistCountResult,
       randomResult,
       recentResult,
-      genresResult,
       wwozResult,
-      wwozDaysCountResult,
-      wwozTotalTracksResult,
     ] = await Promise.all([
-      // Total artists
       db.prepare('SELECT COUNT(*) as count FROM artists').first(),
-      // 12 random artists with images
       db.prepare(`
         SELECT slug, title, artist_type, genres, image_filename, spotify_data
         FROM artists
         WHERE image_filename IS NOT NULL
         ORDER BY RANDOM()
-        LIMIT 12
+        LIMIT 5
       `).all(),
-      // 6 recently added artists
       db.prepare(`
         SELECT slug, title, genres, created_at
         FROM artists
@@ -81,33 +63,18 @@ if (db) {
         ORDER BY created_at DESC
         LIMIT 6
       `).all(),
-      // Top 15 genres
-      db.prepare(`
-        SELECT name, artist_count
-        FROM genres
-        ORDER BY artist_count DESC
-        LIMIT 15
-      `).all(),
-      // 3 most recent WWOZ archive days
       db.prepare(`
         SELECT date, playlist_url, stats_json
         FROM wwoz_days
         ORDER BY date DESC
         LIMIT 3
       `).all(),
-      // WWOZ stats: Days tracked
-      db.prepare('SELECT COUNT(*) as count FROM wwoz_days').first(),
-      // WWOZ stats: Total tracks
-      db.prepare('SELECT COUNT(*) as count FROM wwoz_tracks').first(),
     ]);
 
     artistCount = (artistCountResult as { count: number })?.count || 0;
     randomArtists = randomResult.results as Artist[];
     recentArtists = recentResult.results as Artist[];
-    topGenres = genresResult.results as Genre[];
     recentWWOZDays = (wwozResult.results || []) as WWOZDay[];
-    wwozDaysCount = (wwozDaysCountResult as { count: number })?.count || 0;
-    wwozTotalTracks = (wwozTotalTracksResult as { count: number })?.count || 0;
   } catch (error) {
     console.error('Error loading homepage data:', error);
     errorMessage = String(error);
@@ -116,14 +83,9 @@ if (db) {
   errorMessage = 'Database not available';
 }
 
-// Helper functions
 function parseJson(json: string | null, fallback: any): any {
   if (!json) return fallback;
-  try {
-    return JSON.parse(json);
-  } catch {
-    return fallback;
-  }
+  try { return JSON.parse(json); } catch { return fallback; }
 }
 
 const formatNumber = (num: number) => num.toLocaleString();
@@ -140,7 +102,6 @@ const getArtistType = (artist: Artist): string | undefined => {
   return undefined;
 };
 
-// WWOZ helper functions
 const formatWWOZDate = (dateStr: string) => {
   const date = new Date(dateStr + 'T12:00:00');
   const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
@@ -154,9 +115,7 @@ const getMatchRate = (statsJson: string | null): number => {
     const stats = JSON.parse(statsJson) as WWOZStats;
     if (stats.totalTracks === 0) return 0;
     return Math.round((stats.successfullyFound / stats.totalTracks) * 100);
-  } catch {
-    return 0;
-  }
+  } catch { return 0; }
 };
 
 const getMatchRateColor = (rate: number): string => {
@@ -171,27 +130,18 @@ const getMatchRateColor = (rate: number): string => {
   ogTitle="Jazz and World Music History as Told by the Greatest Station in the Universe"
   description="Jazz and World Music History as Told by the Greatest Station in the Universe"
 >
-  <!-- Hero Section -->
+  <!-- TIER 1: Search Hero -->
   <section class="hero">
     <div class="hero-content">
-      <div class="hero-badge">EST. 2025</div>
       <h1 class="hero-title">
-        <span class="hero-title-accent">Jazzapedia</span>
+        <span class="hero-title-accent hero-animate hero-animate-1">Jazzapedia</span>
       </h1>
-      <p class="hero-tagline">
-        A curated encyclopedia of <strong class="text-jazz-amber">{formatNumber(artistCount)}</strong> musicians,
-        their stories, and musical connections.
+      <p class="hero-tagline hero-animate hero-animate-2">
+        <strong class="text-jazz-amber">{formatNumber(artistCount)}</strong> artists discovered on WWOZ 90.7 FM
       </p>
-      <div class="hero-actions">
-        <a href="/artists" class="hero-btn hero-btn-primary">
-          Browse Artists
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-          </svg>
-        </a>
-        <a href="/random" class="hero-btn hero-btn-secondary">
-          Surprise Me
-        </a>
+
+      <div class="hero-animate hero-animate-3">
+        <HeroSearch artistCount={artistCount} />
       </div>
     </div>
     <div class="hero-decoration"></div>
@@ -203,26 +153,17 @@ const getMatchRateColor = (rate: number): string => {
     </div>
   )}
 
-  <!-- Stats Section - WWOZ Insights -->
-  <section class="stats-section">
-    <div class="stats-grid">
-      <StatBox value={wwozDaysCount} label="Days Tracked" icon="&#128197;" href="/wwoz" />
-      <StatBox value={wwozTotalTracks} label="Total Tracks" icon="&#127925;" href="/wwoz" />
-      <StatBox value={artistCount} label="Unique Artists" icon="&#127908;" href="/artists" />
-    </div>
-  </section>
+  <!-- TIER 2: Discovery -->
 
-  <!-- WWOZ Radio Section -->
+  <!-- WWOZ Recent Days -->
   {recentWWOZDays.length > 0 && (
     <section class="content-section">
       <header class="section-header">
         <div class="section-title-group">
-          <span class="section-icon">&#127908;</span>
-          <h2 class="section-title">WWOZ Radio</h2>
+          <h2 class="section-title">WWOZ Recent Days</h2>
         </div>
-        <p class="section-subtitle">Recent playlists from New Orleans</p>
         <a href="/wwoz" class="section-link">
-          View all archives
+          View all
           <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
           </svg>
@@ -269,10 +210,8 @@ const getMatchRateColor = (rate: number): string => {
     <section class="content-section">
       <header class="section-header">
         <div class="section-title-group">
-          <span class="section-icon">&#10024;</span>
           <h2 class="section-title">Recently Added</h2>
         </div>
-        <p class="section-subtitle">Newly discovered artists</p>
       </header>
 
       <div class="recent-list">
@@ -280,6 +219,7 @@ const getMatchRateColor = (rate: number): string => {
           const genres = parseJson(artist.genres, []);
           return (
             <a href={`/artists/${artist.slug}`} class="recent-item">
+              <span class="recent-dot"></span>
               <span class="recent-name">{artist.title}</span>
               <span class="recent-genres">
                 {genres.slice(0, 2).join(', ') || 'Various'}
@@ -291,23 +231,21 @@ const getMatchRateColor = (rate: number): string => {
     </section>
   )}
 
-  <!-- Random Artists Section -->
+  <!-- Random Artists -->
   <section class="content-section">
     <header class="section-header">
       <div class="section-title-group">
-        <span class="section-icon">&#127927;</span>
         <h2 class="section-title">Random Artists</h2>
       </div>
-      <p class="section-subtitle">A random selection from the collection</p>
-      <a href="/artists" class="section-link">
-        View all artists
-        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+      <button type="button" class="shuffle-btn" id="shuffle-btn" title="Shuffle artists">
+        <svg class="shuffle-icon" id="shuffle-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5" />
         </svg>
-      </a>
+        Shuffle
+      </button>
     </header>
 
-    <div class="artists-grid">
+    <div class="random-artists-grid" id="random-artists-grid">
       {randomArtists.map((artist) => {
         const genres = parseJson(artist.genres, []);
         const spotify = parseJson(artist.spotify_data, {});
@@ -324,81 +262,20 @@ const getMatchRateColor = (rate: number): string => {
       })}
     </div>
   </section>
-
-  <!-- Genre Exploration -->
-  <section class="content-section">
-    <header class="section-header">
-      <div class="section-title-group">
-        <span class="section-icon">&#127926;</span>
-        <h2 class="section-title">Explore Genres</h2>
-      </div>
-      <p class="section-subtitle">Discover artists by musical style</p>
-      <a href="/genres" class="section-link">
-        All genres
-        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-        </svg>
-      </a>
-    </header>
-
-    <div class="genres-cloud">
-      {topGenres.map((genre) => (
-        <GenreBadge genre={genre.name} count={genre.artist_count} showCount size="md" />
-      ))}
-    </div>
-  </section>
-
-  <!-- Quick Navigation -->
-  <section class="content-section">
-    <header class="section-header">
-      <div class="section-title-group">
-        <span class="section-icon">&#128269;</span>
-        <h2 class="section-title">Quick Navigation</h2>
-      </div>
-    </header>
-
-    <div class="quick-nav-grid">
-      <a href="/artists" class="quick-nav-card">
-        <span class="quick-nav-icon">&#9835;</span>
-        <h3 class="quick-nav-title">All Artists</h3>
-        <p class="quick-nav-desc">Browse {formatNumber(artistCount)} artists alphabetically</p>
-      </a>
-      <a href="/genres" class="quick-nav-card">
-        <span class="quick-nav-icon">&#127926;</span>
-        <h3 class="quick-nav-title">Genres</h3>
-        <p class="quick-nav-desc">Explore musical genres</p>
-      </a>
-      <a href="/instruments" class="quick-nav-card">
-        <span class="quick-nav-icon">&#127927;</span>
-        <h3 class="quick-nav-title">Instruments</h3>
-        <p class="quick-nav-desc">Find artists by instrument</p>
-      </a>
-      <a href="/about" class="quick-nav-card">
-        <span class="quick-nav-icon">&#128247;</span>
-        <h3 class="quick-nav-title">About</h3>
-        <p class="quick-nav-desc">The story behind Jazzapedia</p>
-      </a>
-      <a href="/random" class="quick-nav-card quick-nav-card-accent">
-        <span class="quick-nav-icon">&#127922;</span>
-        <h3 class="quick-nav-title">Random Artist</h3>
-        <p class="quick-nav-desc">Discover someone new</p>
-        <kbd class="quick-nav-kbd">R</kbd>
-      </a>
-    </div>
-  </section>
 </Layout>
 
 <style>
   /* ============================================
-     Hero Section - Jazz Club Playbill
+     Hero Section - Search First
      ============================================ */
   .hero {
     position: relative;
-    padding: 3rem 0;
+    z-index: 95;
+    padding: 3.5rem 0 3rem;
     margin: -1.5rem -1.5rem 2rem -1.5rem;
-    background: linear-gradient(135deg, var(--color-bg-nav) 0%, var(--color-bg) 100%);
+    background: radial-gradient(ellipse at center, var(--color-bg-nav) 0%, var(--color-bg) 70%);
     border-bottom: 2px solid var(--jazz-brass);
-    overflow: hidden;
+    overflow: visible;
   }
 
   .hero::before {
@@ -413,25 +290,14 @@ const getMatchRateColor = (rate: number): string => {
       rgba(0, 0, 0, 0.02) 4px
     );
     pointer-events: none;
+    clip-path: inset(0);
   }
 
   .hero-content {
     position: relative;
+    z-index: 1;
     text-align: center;
     padding: 0 1.5rem;
-  }
-
-  .hero-badge {
-    display: inline-block;
-    padding: 0.25rem 0.75rem;
-    margin-bottom: 1rem;
-    font-family: 'JetBrains Mono Variable', monospace;
-    font-size: 0.65rem;
-    font-weight: 600;
-    letter-spacing: 0.2em;
-    color: var(--jazz-amber);
-    border: 1px solid var(--jazz-brass);
-    border-radius: 9999px;
   }
 
   .hero-title {
@@ -439,13 +305,8 @@ const getMatchRateColor = (rate: number): string => {
     font-size: clamp(2.5rem, 8vw, 4rem);
     font-weight: 600;
     line-height: 1.2;
-    margin: 0 0 1rem 0;
+    margin: 0 0 0.75rem 0;
     color: var(--color-text-heading);
-  }
-
-  .hero-title-line {
-    display: block;
-    font-weight: 400;
   }
 
   .hero-title-accent {
@@ -460,47 +321,8 @@ const getMatchRateColor = (rate: number): string => {
     font-size: 1.125rem;
     color: var(--color-text-secondary);
     max-width: 36rem;
-    margin: 0 auto 1.5rem auto;
+    margin: 0 auto 2rem auto;
     line-height: 1.6;
-  }
-
-  .hero-actions {
-    display: flex;
-    gap: 1rem;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-
-  .hero-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.75rem 1.5rem;
-    font-weight: 500;
-    border-radius: var(--radius-md);
-    text-decoration: none;
-    transition: all var(--duration-fast) var(--ease-smooth);
-  }
-
-  .hero-btn-primary {
-    background: var(--jazz-amber);
-    color: var(--jazz-black);
-  }
-
-  .hero-btn-primary:hover {
-    background: var(--electric-cyan);
-    box-shadow: var(--glow-cyan);
-  }
-
-  .hero-btn-secondary {
-    background: transparent;
-    border: 1px solid var(--color-border);
-    color: var(--color-text);
-  }
-
-  .hero-btn-secondary:hover {
-    border-color: var(--jazz-amber);
-    color: var(--jazz-amber);
   }
 
   .hero-decoration {
@@ -513,21 +335,31 @@ const getMatchRateColor = (rate: number): string => {
   }
 
   /* ============================================
-     Stats Section
+     Hero Entrance Animations
      ============================================ */
-  .stats-section {
-    margin-bottom: 3rem;
+  .hero-animate {
+    opacity: 0;
+    transform: translateY(12px);
+    animation: hero-entrance 0.5s var(--ease-jazz) forwards;
   }
 
-  .stats-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
+  .hero-animate-1 { animation-delay: 0.1s; }
+  .hero-animate-2 { animation-delay: 0.25s; }
+  .hero-animate-3 { animation-delay: 0.4s; }
+
+  @keyframes hero-entrance {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
   }
 
-  @media (min-width: 768px) {
-    .stats-grid {
-      grid-template-columns: repeat(3, 1fr);
+  /* Respect reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .hero-animate {
+      opacity: 1;
+      transform: none;
+      animation: none;
     }
   }
 
@@ -535,17 +367,20 @@ const getMatchRateColor = (rate: number): string => {
      Content Sections
      ============================================ */
   .content-section {
-    margin-bottom: 3rem;
+    margin-bottom: 2.5rem;
   }
 
   .section-header {
     display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    gap: 0.5rem 1rem;
-    margin-bottom: 1.5rem;
-    padding-bottom: 0.75rem;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.625rem;
     border-bottom: 1px solid var(--color-border);
+    background-image: linear-gradient(90deg, var(--jazz-amber), transparent);
+    background-size: 100% 1px;
+    background-position: bottom;
+    background-repeat: no-repeat;
   }
 
   .section-title-group {
@@ -554,215 +389,28 @@ const getMatchRateColor = (rate: number): string => {
     gap: 0.5rem;
   }
 
-  .section-icon {
-    font-size: 1.25rem;
-  }
-
   .section-title {
     font-family: 'Playfair Display Variable', Georgia, serif;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: 500;
     color: var(--color-text-heading);
     margin: 0;
-  }
-
-  .section-subtitle {
-    color: var(--color-text-muted);
-    font-size: 0.875rem;
-    margin: 0;
-    flex: 1;
+    letter-spacing: 0.01em;
   }
 
   .section-link {
     display: inline-flex;
     align-items: center;
     gap: 0.25rem;
-    font-size: 0.875rem;
+    font-size: 0.85rem;
     color: var(--color-link);
     text-decoration: none;
     transition: color var(--duration-fast) var(--ease-smooth);
+    flex-shrink: 0;
   }
 
   .section-link:hover {
     color: var(--color-link-hover);
-  }
-
-  /* ============================================
-     Artists Grid
-     ============================================ */
-  .artists-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-  }
-
-  @media (min-width: 640px) {
-    .artists-grid {
-      grid-template-columns: repeat(3, 1fr);
-    }
-  }
-
-  @media (min-width: 1024px) {
-    .artists-grid {
-      grid-template-columns: repeat(4, 1fr);
-    }
-  }
-
-  /* ============================================
-     Genres Cloud
-     ============================================ */
-  .genres-cloud {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-
-  /* ============================================
-     Recent List
-     ============================================ */
-  .recent-list {
-    display: grid;
-    gap: 0.5rem;
-  }
-
-  @media (min-width: 768px) {
-    .recent-list {
-      grid-template-columns: repeat(2, 1fr);
-    }
-  }
-
-  .recent-item {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0.75rem 1rem;
-    background: var(--color-bg);
-    border: 1px solid var(--color-border-light);
-    border-radius: var(--radius-md);
-    text-decoration: none;
-    transition: all var(--duration-fast) var(--ease-smooth);
-  }
-
-  .recent-item:hover {
-    border-color: var(--color-link);
-    background: var(--color-accent-light);
-  }
-
-  .recent-name {
-    font-weight: 500;
-    color: var(--color-link);
-  }
-
-  .recent-genres {
-    font-size: 0.75rem;
-    color: var(--color-text-muted);
-  }
-
-  /* ============================================
-     Quick Navigation
-     ============================================ */
-  .quick-nav-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-  }
-
-  @media (min-width: 768px) {
-    .quick-nav-grid {
-      grid-template-columns: repeat(5, 1fr);
-    }
-  }
-
-  .quick-nav-card {
-    position: relative;
-    padding: 1.25rem;
-    background: var(--color-bg);
-    border: 1px solid var(--color-border-light);
-    border-radius: var(--radius-lg);
-    text-decoration: none;
-    transition: all var(--duration-fast) var(--ease-smooth);
-  }
-
-  .quick-nav-card:hover {
-    border-color: var(--color-link);
-    background: var(--color-accent-light);
-    transform: translateY(-2px);
-  }
-
-  .quick-nav-card-accent {
-    border-color: var(--jazz-brass);
-    background: linear-gradient(135deg, var(--color-accent-light) 0%, transparent 100%);
-  }
-
-  .quick-nav-icon {
-    display: block;
-    font-size: 1.5rem;
-    margin-bottom: 0.5rem;
-  }
-
-  .quick-nav-title {
-    font-family: 'Playfair Display Variable', Georgia, serif;
-    font-size: 1rem;
-    font-weight: 600;
-    color: var(--color-link);
-    margin: 0 0 0.25rem 0;
-  }
-
-  .quick-nav-desc {
-    font-size: 0.75rem;
-    color: var(--color-text-muted);
-    margin: 0;
-    line-height: 1.4;
-  }
-
-  .quick-nav-kbd {
-    position: absolute;
-    top: 0.75rem;
-    right: 0.75rem;
-    padding: 0.125rem 0.375rem;
-    font-family: 'JetBrains Mono Variable', monospace;
-    font-size: 0.6rem;
-    background: var(--color-bg-nav);
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius-sm);
-    color: var(--color-text-muted);
-  }
-
-  /* ============================================
-     Error State
-     ============================================ */
-  .error-banner {
-    background: rgba(220, 38, 38, 0.1);
-    border: 1px solid rgba(220, 38, 38, 0.3);
-    color: #DC2626;
-    padding: 1rem;
-    border-radius: var(--radius-md);
-    margin-bottom: 2rem;
-  }
-
-  /* ============================================
-     Dark Mode Enhancements
-     ============================================ */
-  :global([data-mode="dark"]) .hero {
-    background: linear-gradient(135deg, var(--jazz-smoke) 0%, var(--jazz-black) 100%);
-  }
-
-  :global([data-mode="dark"]) .hero::before {
-    background-image: repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 2px,
-      rgba(255, 255, 255, 0.02) 2px,
-      rgba(255, 255, 255, 0.02) 4px
-    );
-  }
-
-  :global([data-mode="dark"]) .quick-nav-card {
-    background: var(--jazz-smoke);
-  }
-
-  :global([data-mode="dark"]) .recent-item {
-    background: var(--jazz-smoke);
   }
 
   /* ============================================
@@ -866,7 +514,257 @@ const getMatchRateColor = (rate: number): string => {
     letter-spacing: 0.05em;
   }
 
+  /* ============================================
+     Recently Added - Light list format
+     ============================================ */
+  .recent-list {
+    display: grid;
+    gap: 0;
+  }
+
+  @media (min-width: 768px) {
+    .recent-list {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .recent-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.625rem 0.75rem;
+    text-decoration: none;
+    border-radius: var(--radius-md);
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .recent-item:hover {
+    background: var(--color-accent-light);
+  }
+
+  .recent-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--jazz-amber);
+    flex-shrink: 0;
+    opacity: 0.6;
+  }
+
+  .recent-item:hover .recent-dot {
+    opacity: 1;
+    background: var(--electric-cyan);
+  }
+
+  .recent-name {
+    font-weight: 500;
+    color: var(--color-link);
+    flex: 1;
+    min-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .recent-genres {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    flex-shrink: 0;
+  }
+
+  /* ============================================
+     Random Artists Grid
+     ============================================ */
+  .random-artists-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    transition: opacity var(--duration-normal) var(--ease-smooth);
+  }
+
+  .random-artists-grid.is-shuffling {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+
+  @media (min-width: 640px) {
+    .random-artists-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .random-artists-grid {
+      grid-template-columns: repeat(5, 1fr);
+    }
+  }
+
+  /* ============================================
+     Shuffle Button
+     ============================================ */
+  .shuffle-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.375rem 0.75rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    font-family: inherit;
+    color: var(--color-text-muted);
+    background: transparent;
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: all var(--duration-fast) var(--ease-smooth);
+    flex-shrink: 0;
+  }
+
+  .shuffle-btn:hover {
+    border-color: var(--electric-cyan);
+    color: var(--electric-cyan);
+  }
+
+  .shuffle-btn:active .shuffle-icon {
+    transform: rotate(180deg);
+  }
+
+  .shuffle-icon {
+    transition: transform var(--duration-normal) var(--ease-bounce);
+  }
+
+  .shuffle-btn.is-spinning .shuffle-icon {
+    transform: rotate(180deg);
+  }
+
+  /* ============================================
+     Error State
+     ============================================ */
+  .error-banner {
+    background: rgba(220, 38, 38, 0.1);
+    border: 1px solid rgba(220, 38, 38, 0.3);
+    color: #DC2626;
+    padding: 1rem;
+    border-radius: var(--radius-md);
+    margin-bottom: 2rem;
+  }
+
+  /* ============================================
+     Dark Mode
+     ============================================ */
+  :global([data-mode="dark"]) .hero {
+    background: radial-gradient(ellipse at center, var(--jazz-smoke) 0%, var(--jazz-black) 70%);
+  }
+
+  :global([data-mode="dark"]) .hero::before {
+    background-image: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(255, 255, 255, 0.02) 2px,
+      rgba(255, 255, 255, 0.02) 4px
+    );
+  }
+
   :global([data-mode="dark"]) .wwoz-card {
     background: var(--jazz-smoke);
+  }
+
+</style>
+
+<script>
+  // Shuffle button functionality
+  document.addEventListener('DOMContentLoaded', () => {
+    const shuffleBtn = document.getElementById('shuffle-btn');
+    const shuffleIcon = document.getElementById('shuffle-icon');
+    const grid = document.getElementById('random-artists-grid');
+    if (!shuffleBtn || !grid) return;
+
+    let isShuffling = false;
+
+    shuffleBtn.addEventListener('click', async () => {
+      if (isShuffling) return;
+      isShuffling = true;
+
+      // Animate out
+      shuffleBtn.classList.add('is-spinning');
+      grid.classList.add('is-shuffling');
+
+      try {
+        const response = await fetch('/api/random-artists?count=5');
+        if (!response.ok) throw new Error('Failed to fetch');
+        const data = await response.json();
+        const artists = data.artists || [];
+
+        // Wait for fade-out to complete
+        await new Promise(r => setTimeout(r, 250));
+
+        // Build new cards
+        const html = artists.map((a: any, i: number) => {
+          const genresHtml = a.genres && a.genres.length > 0
+            ? `<div class="mt-1 flex flex-wrap gap-1">${a.genres.map((g: string) => `<span class="text-xs text-wiki-text-muted">${escapeHtml(g)}</span>`).join('')}</div>`
+            : '';
+
+          const portraitHtml = a.portrait
+            ? `<img src="${escapeHtml(a.portrait)}" alt="${escapeHtml(a.name)}" loading="lazy" decoding="async" class="w-full h-full object-cover transition-transform duration-slow group-hover:scale-105" />`
+            : `<div class="w-full h-full flex items-center justify-center text-wiki-text-muted"><span class="text-4xl opacity-50">&#9835;</span></div>`;
+
+          const popularityHtml = a.popularity !== undefined
+            ? `<div class="absolute top-2 right-2 px-2 py-1 bg-jazz-black/70 backdrop-blur-sm rounded text-xs font-mono text-jazz-amber">${a.popularity}</div>`
+            : '';
+
+          const artistTypeHtml = a.artistType
+            ? `<div class="absolute bottom-2 left-2 opacity-0 group-hover:opacity-100 transition-opacity duration-normal"><span class="inline-flex items-center px-2 py-0.5 text-xs rounded-md bg-jazz-black/80 text-electric-cyan border border-electric-cyan/30">${escapeHtml(a.artistType)}</span></div>`
+            : '';
+
+          return `
+            <a href="/artists/${escapeHtml(a.slug)}" class="artist-card-shuffle group block bg-wiki-bg-card border border-wiki-border rounded-lg shadow-card overflow-hidden hover:shadow-elevated transition-all duration-fast" style="opacity: 0; animation: card-enter 0.3s var(--ease-jazz) forwards; animation-delay: ${i * 60}ms;">
+              <div class="aspect-square relative overflow-hidden bg-wiki-bg-nav">
+                ${portraitHtml}
+                <div class="absolute inset-0 bg-gradient-to-t from-jazz-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-normal"></div>
+                ${popularityHtml}
+                ${artistTypeHtml}
+              </div>
+              <div class="p-3">
+                <h3 class="font-display font-semibold text-wiki-text-heading truncate group-hover:text-wiki-accent transition-colors duration-fast">${escapeHtml(a.name)}</h3>
+                ${genresHtml}
+              </div>
+            </a>
+          `;
+        }).join('');
+
+        grid.innerHTML = html;
+        grid.classList.remove('is-shuffling');
+
+      } catch (err) {
+        console.error('Shuffle error:', err);
+        grid.classList.remove('is-shuffling');
+      } finally {
+        shuffleBtn.classList.remove('is-spinning');
+        isShuffling = false;
+      }
+    });
+
+    function escapeHtml(str: string): string {
+      const div = document.createElement('div');
+      div.textContent = str;
+      return div.innerHTML;
+    }
+  });
+</script>
+
+<style is:global>
+  @keyframes card-enter {
+    from {
+      opacity: 0;
+      transform: translateY(8px) scale(0.97);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  }
+
+  .artist-card-shuffle:hover {
+    transform: translateY(-2px);
   }
 </style>
