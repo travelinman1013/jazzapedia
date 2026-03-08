@@ -605,6 +605,80 @@ const layoutJSON = JSON.stringify(layout);
     // Expose flyToArtist globally for external use
     window.flyToArtist = flyToArtist;
 
+    // =====================================================
+    // DOM Label Pooling & LOD
+    // =====================================================
+    const LABEL_POOL_SIZE = 100;
+    const labelPool = [];
+    for (let i = 0; i < LABEL_POOL_SIZE; i++) {
+      const el = document.createElement('div');
+      el.className = 'node-label';
+      el.style.display = 'none';
+      labelsContainer.appendChild(el);
+      labelPool.push(el);
+    }
+
+    // Pre-sort nodes by connection count (most prominent first)
+    const nodesByProminence = [...nodes].sort((a, b) => b.connections - a.connections);
+
+    const labelVec = new THREE.Vector3();
+
+    function updateLabels() {
+      camera.updateProjectionMatrix();
+      camera.updateMatrixWorld();
+      const w = container.clientWidth;
+      const h = container.clientHeight;
+      const posScale = window.__graphSettings?.positionScale || 1.0;
+      const zoom = camera.zoom;
+
+      // Dynamic label count based on zoom level
+      let maxLabels;
+      if (zoom < 0.5) {
+        maxLabels = 0;
+      } else if (zoom < 1.0) {
+        maxLabels = Math.round(10 + (zoom - 0.5) * 30);
+      } else if (zoom < 3.0) {
+        maxLabels = Math.round(25 + (zoom - 1.0) * 27.5);
+      } else {
+        maxLabels = LABEL_POOL_SIZE;
+      }
+
+      // Eligible nodes: filtered set or all, sorted by prominence
+      const eligible = filteredNodeSlugs
+        ? nodesByProminence.filter(n => filteredNodeSlugs.has(n.slug))
+        : nodesByProminence;
+
+      let labelIdx = 0;
+
+      for (let i = 0; i < eligible.length && labelIdx < maxLabels; i++) {
+        const node = eligible[i];
+        const pos = currentPositions[node.slug];
+        if (!pos) continue;
+
+        // Project world position to NDC
+        labelVec.set(pos.x * posScale, pos.y * posScale, 0);
+        labelVec.project(camera);
+
+        // Frustum culling
+        if (labelVec.x < -1 || labelVec.x > 1 || labelVec.y < -1 || labelVec.y > 1) continue;
+
+        // NDC to screen pixels (with vertical offset below node)
+        const screenX = (labelVec.x * 0.5 + 0.5) * w;
+        const screenY = (-labelVec.y * 0.5 + 0.5) * h + 8;
+
+        const el = labelPool[labelIdx];
+        el.textContent = node.name;
+        el.style.transform = `translate3d(calc(${screenX}px - 50%), ${screenY}px, 0)`;
+        el.style.display = '';
+        labelIdx++;
+      }
+
+      // Hide unused pool elements
+      for (let i = labelIdx; i < LABEL_POOL_SIZE; i++) {
+        labelPool[i].style.display = 'none';
+      }
+    }
+
     // Initialize global settings state
     window.__graphSettings = {
       positionScale: 1.0,
@@ -1197,10 +1271,14 @@ const layoutJSON = JSON.stringify(layout);
     onResize();
 
     // Animation loop
+    let labelFrameCount = 0;
     function animate() {
       requestAnimationFrame(animate);
       controls.update();
       renderer.render(scene, camera);
+      if (++labelFrameCount % 3 === 0) {
+        updateLabels();
+      }
     }
 
     // Hide loading and start
@@ -1233,17 +1311,21 @@ const layoutJSON = JSON.stringify(layout);
     position: absolute;
     top: 0;
     left: 0;
+    width: 100%;
+    height: 100%;
     pointer-events: none;
     overflow: hidden;
   }
 
-  .node-label {
+  :global(.node-label) {
     position: absolute;
+    top: 0;
+    left: 0;
+    will-change: transform;
     font-size: 0.625rem;
     font-weight: 500;
     color: var(--color-text);
     white-space: nowrap;
-    transform: translate(-50%, 0);
     pointer-events: none;
     text-shadow:
       1px 1px 2px var(--color-bg),
