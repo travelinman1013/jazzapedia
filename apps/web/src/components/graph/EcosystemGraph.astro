@@ -526,7 +526,7 @@ const layoutJSON = JSON.stringify(layout);
         const visible = edgeVisibility[edge.type];
         const edgeVisible = !filteredNodeSlugs || (filteredNodeSlugs.has(edge.source) && filteredNodeSlugs.has(edge.target));
         const baseFactor = visible ? opacity / 0.35 : 0.05 / 0.35;
-        const factor = edgeVisible ? baseFactor : DIM_FACTOR * 0.3;
+        const factor = edgeVisible ? baseFactor : 0.0;
 
         colorAttr.array[i * 6] = color.r * factor;
         colorAttr.array[i * 6 + 1] = color.g * factor;
@@ -555,7 +555,7 @@ const layoutJSON = JSON.stringify(layout);
 
         // Adjust color intensity based on opacity, visibility, and filter state
         const baseFactor = visible ? opacity / 0.35 : 0.05 / 0.35;
-        const factor = edgeVisible ? baseFactor : DIM_FACTOR * 0.3;
+        const factor = edgeVisible ? baseFactor : 0.0;
         colorAttr.array[i * 6] = color.r * factor;
         colorAttr.array[i * 6 + 1] = color.g * factor;
         colorAttr.array[i * 6 + 2] = color.b * factor;
@@ -917,7 +917,7 @@ const layoutJSON = JSON.stringify(layout);
             nodesMesh.instanceColor.array[i * 3 + 2] = color.b;
           } else {
             // Dim non-matching nodes
-            const dimmedScale = originalScales[i] * sizeScale * 0.5;
+            const dimmedScale = 0.0001;
             dummy.scale.setScalar(dimmedScale);
 
             nodesMesh.instanceColor.array[i * 3] = originalColors[i * 3] * DIM_FACTOR;
@@ -939,17 +939,25 @@ const layoutJSON = JSON.stringify(layout);
         edges.forEach((edge, i) => {
           const sourcePos = currentPositions[edge.source];
           const targetPos = currentPositions[edge.target];
+          const edgeVisible = matchSet.has(edge.source) && matchSet.has(edge.target);
+
           if (sourcePos && targetPos) {
-            posAttr.array[i * 6] = sourcePos.x * posScale;
-            posAttr.array[i * 6 + 1] = sourcePos.y * posScale;
-            posAttr.array[i * 6 + 3] = targetPos.x * posScale;
-            posAttr.array[i * 6 + 4] = targetPos.y * posScale;
+            if (edgeVisible) {
+              posAttr.array[i * 6] = sourcePos.x * posScale;
+              posAttr.array[i * 6 + 1] = sourcePos.y * posScale;
+              posAttr.array[i * 6 + 3] = targetPos.x * posScale;
+              posAttr.array[i * 6 + 4] = targetPos.y * posScale;
+            } else {
+              // NaN discards the line at the GPU vertex shader level
+              posAttr.array[i * 6] = NaN;
+              posAttr.array[i * 6 + 1] = NaN;
+              posAttr.array[i * 6 + 3] = NaN;
+              posAttr.array[i * 6 + 4] = NaN;
+            }
           }
 
-          // Dim edges where both endpoints aren't in the filtered set
-          const edgeVisible = matchSet.has(edge.source) && matchSet.has(edge.target);
           const color = colors[edge.type] || colors.default;
-          const factor = edgeVisible ? 1.0 : DIM_FACTOR * 0.3;
+          const factor = edgeVisible ? 1.0 : 0.0;
 
           colorAttr.array[i * 6] = color.r * factor;
           colorAttr.array[i * 6 + 1] = color.g * factor;
