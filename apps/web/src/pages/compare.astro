@@ -344,21 +344,26 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-re
       link.href = '#';
       link.className = 'picker-option';
       link.dataset.slug = artist.slug;
+      link.style.cssText = 'display:flex;align-items:center;gap:0.75rem;padding:0.625rem 0.75rem;text-decoration:none;color:var(--color-text,#ccc);overflow:hidden;cursor:pointer;';
+      link.addEventListener('mouseenter', () => link.style.background = 'rgba(212,162,84,0.1)');
+      link.addEventListener('mouseleave', () => link.style.background = '');
 
+      const thumbStyle = 'width:2rem;height:2rem;min-width:2rem;min-height:2rem;border-radius:50%;object-fit:cover;flex-shrink:0;';
       if (artist.image_filename) {
         const img = document.createElement('img');
         img.src = portraitBaseUrl + '/portraits/' + artist.image_filename;
-        img.className = 'picker-thumb';
         img.alt = '';
+        img.style.cssText = thumbStyle;
         link.appendChild(img);
       } else {
         const placeholder = document.createElement('span');
-        placeholder.className = 'picker-thumb-placeholder';
         placeholder.textContent = '\u266B';
+        placeholder.style.cssText = thumbStyle + 'display:flex;align-items:center;justify-content:center;font-size:0.75rem;color:#888;background:#2a2a2e;';
         link.appendChild(placeholder);
       }
 
       const nameSpan = document.createElement('span');
+      nameSpan.style.cssText = 'overflow:hidden;text-overflow:ellipsis;white-space:nowrap;';
       nameSpan.textContent = artist.text;
       link.appendChild(nameSpan);
 
@@ -381,7 +386,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-re
           dropdown.replaceChildren();
           if (artists.length === 0) {
             const empty = document.createElement('div');
-            empty.className = 'picker-empty';
+            empty.style.cssText = 'padding:0.75rem;text-align:center;font-size:0.8rem;color:var(--color-text-muted,#888);';
             empty.textContent = 'No artists found';
             dropdown.appendChild(empty);
           } else {
@@ -634,6 +639,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-re
     text-decoration: none;
     color: var(--color-text);
     transition: background 0.1s ease;
+    overflow: hidden;
   }
 
   .picker-option:hover {
@@ -643,6 +649,10 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-re
   .picker-thumb {
     width: 2rem;
     height: 2rem;
+    min-width: 2rem;
+    min-height: 2rem;
+    max-width: 2rem;
+    max-height: 2rem;
     border-radius: 50%;
     object-fit: cover;
     flex-shrink: 0;
