@@ -1,0 +1,295 @@
+---
+/**
+ * Genre Heatmap - Server-rendered SVG heatmap of genre play frequency by week.
+ * Shows top 20 genres across all tracked weeks with trend indicators.
+ */
+import { getDatabase } from '../../lib/db';
+
+interface Props {
+  locals: App.Locals;
+}
+
+const { locals } = Astro.props;
+const db = await getDatabase(locals);
+
+interface GenreWeeklyRow {
+  week_start: string;
+  genre: string;
+  play_count: number;
+}
+
+interface GenreTotal {
+  genre: string;
+  total: number;
+}
+
+let weeks: string[] = [];
+let genres: string[] = [];
+let heatmapData: Map<string, number> = new Map();
+let maxCount = 1;
+let genreTrends: Map<string, { change: number; direction: 'up' | 'down' | 'flat' }> = new Map();
+
+if (db) {
+  try {
+    // Get top 20 genres by total plays
+    const topGenresResult = await db.prepare(`
+      SELECT genre, SUM(play_count) as total
+      FROM wwoz_genre_weekly
+      GROUP BY genre
+      ORDER BY total DESC
+      LIMIT 20
+    `).all();
+    const topGenres = (topGenresResult.results || []) as GenreTotal[];
+    genres = topGenres.map(g => g.genre);
+
+    if (genres.length > 0) {
+      // Get all weekly data for these genres
+      const placeholders = genres.map(() => '?').join(',');
+      const weeklyResult = await db.prepare(`
+        SELECT week_start, genre, play_count
+        FROM wwoz_genre_weekly
+        WHERE genre IN (${placeholders})
+        ORDER BY week_start
+      `).bind(...genres).all();
+      const weeklyRows = (weeklyResult.results || []) as GenreWeeklyRow[];
+
+      // Build unique sorted weeks
+      const weekSet = new Set<string>();
+      for (const row of weeklyRows) {
+        weekSet.add(row.week_start);
+        heatmapData.set(`${row.week_start}|${row.genre}`, row.play_count);
+        if (row.play_count > maxCount) maxCount = row.play_count;
+      }
+      weeks = Array.from(weekSet).sort();
+
+      // Compute trends: last 4 weeks vs prior 4 weeks
+      if (weeks.length >= 8) {
+        const recentWeeks = new Set(weeks.slice(-4));
+        const priorWeeks = new Set(weeks.slice(-8, -4));
+
+        for (const genre of genres) {
+          let recentTotal = 0;
+          let priorTotal = 0;
+          for (const w of recentWeeks) {
+            recentTotal += heatmapData.get(`${w}|${genre}`) || 0;
+          }
+          for (const w of priorWeeks) {
+            priorTotal += heatmapData.get(`${w}|${genre}`) || 0;
+          }
+          const change = priorTotal > 0
+            ? Math.round(((recentTotal - priorTotal) / priorTotal) * 100)
+            : recentTotal > 0 ? 100 : 0;
+          const direction = change > 10 ? 'up' : change < -10 ? 'down' : 'flat';
+          genreTrends.set(genre, { change, direction });
+        }
+      }
+    }
+  } catch (error) {
+    console.error('Error loading genre heatmap data:', error);
+  }
+}
+
+// SVG dimensions
+const cellSize = 20;
+const cellGap = 2;
+const labelWidth = 140;
+const trendWidth = 60;
+const headerHeight = 60;
+const svgWidth = labelWidth + (weeks.length * (cellSize + cellGap)) + trendWidth + 20;
+const svgHeight = headerHeight + (genres.length * (cellSize + cellGap)) + 10;
+
+// Format week label (show month/day)
+function formatWeek(weekStart: string): string {
+  const d = new Date(weekStart + 'T00:00:00Z');
+  return `${d.getUTCMonth() + 1}/${d.getUTCDate()}`;
+}
+
+// Color interpolation: smoke → amber → cyan
+function getColor(count: number): string {
+  if (count === 0) return 'var(--color-border-light)';
+  const ratio = count / maxCount;
+  if (ratio < 0.5) {
+    // smoke to amber
+    const t = ratio * 2;
+    const r = Math.round(36 + t * (212 - 36));
+    const g = Math.round(36 + t * (162 - 36));
+    const b = Math.round(40 + t * (84 - 40));
+    return `rgb(${r}, ${g}, ${b})`;
+  }
+  // amber to cyan
+  const t = (ratio - 0.5) * 2;
+  const r = Math.round(212 + t * (0 - 212));
+  const g = Math.round(162 + t * (217 - 162));
+  const b = Math.round(84 + t * (255 - 84));
+  return `rgb(${r}, ${g}, ${b})`;
+}
+---
+
+{genres.length > 0 ? (
+  <div class="heatmap-container">
+    <div class="heatmap-scroll">
+      <svg
+        viewBox={`0 0 ${svgWidth} ${svgHeight}`}
+        width={svgWidth}
+        height={svgHeight}
+        class="heatmap-svg"
+        role="img"
+        aria-label="Genre play frequency heatmap by week"
+      >
+        {/* Week labels along top */}
+        {weeks.map((week, i) => {
+          const x = labelWidth + i * (cellSize + cellGap) + cellSize / 2;
+          // Show every 4th week label to avoid crowding
+          if (i % 4 !== 0 && i !== weeks.length - 1) return null;
+          return (
+            <text
+              x={x}
+              y={headerHeight - 8}
+              text-anchor="middle"
+              class="heatmap-week-label"
+            >
+              {formatWeek(week)}
+            </text>
+          );
+        })}
+
+        {/* Genre rows */}
+        {genres.map((genre, gi) => {
+          const y = headerHeight + gi * (cellSize + cellGap);
+          const trend = genreTrends.get(genre);
+          return (
+            <g>
+              {/* Genre name label */}
+              <text
+                x={labelWidth - 8}
+                y={y + cellSize / 2 + 4}
+                text-anchor="end"
+                class="heatmap-genre-label"
+              >
+                {genre.length > 18 ? genre.slice(0, 16) + '...' : genre}
+              </text>
+
+              {/* Heatmap cells */}
+              {weeks.map((week, wi) => {
+                const count = heatmapData.get(`${week}|${genre}`) || 0;
+                const cx = labelWidth + wi * (cellSize + cellGap);
+                return (
+                  <rect
+                    x={cx}
+                    y={y}
+                    width={cellSize}
+                    height={cellSize}
+                    rx="3"
+                    fill={getColor(count)}
+                    class="heatmap-cell"
+                  >
+                    <title>{`${genre}: ${count} plays (week of ${formatWeek(week)})`}</title>
+                  </rect>
+                );
+              })}
+
+              {/* Trend indicator */}
+              {trend && (
+                <text
+                  x={labelWidth + weeks.length * (cellSize + cellGap) + 8}
+                  y={y + cellSize / 2 + 4}
+                  class={`heatmap-trend heatmap-trend--${trend.direction}`}
+                >
+                  {trend.direction === 'up' ? `▲ ${trend.change}%` :
+                   trend.direction === 'down' ? `▼ ${Math.abs(trend.change)}%` :
+                   '—'}
+                </text>
+              )}
+            </g>
+          );
+        })}
+      </svg>
+    </div>
+
+    {/* Legend */}
+    <div class="heatmap-legend">
+      <span class="heatmap-legend-label">Fewer plays</span>
+      <div class="heatmap-legend-gradient"></div>
+      <span class="heatmap-legend-label">More plays</span>
+    </div>
+  </div>
+) : (
+  <p class="text-wiki-text-muted">No genre data available.</p>
+)}
+
+<style>
+  .heatmap-container {
+    margin-top: 1rem;
+  }
+
+  .heatmap-scroll {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 0.5rem;
+  }
+
+  .heatmap-svg {
+    display: block;
+    min-width: 100%;
+  }
+
+  .heatmap-week-label {
+    font-size: 9px;
+    fill: var(--color-text-muted);
+    font-family: 'JetBrains Mono Variable', monospace;
+  }
+
+  .heatmap-genre-label {
+    font-size: 11px;
+    fill: var(--color-text-secondary);
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  .heatmap-cell {
+    transition: opacity var(--duration-fast) var(--ease-smooth);
+  }
+
+  .heatmap-cell:hover {
+    opacity: 0.8;
+    stroke: var(--color-text);
+    stroke-width: 1;
+  }
+
+  .heatmap-trend {
+    font-size: 10px;
+    font-family: 'JetBrains Mono Variable', monospace;
+  }
+
+  .heatmap-trend--up {
+    fill: #22c55e;
+  }
+
+  .heatmap-trend--down {
+    fill: #ef4444;
+  }
+
+  .heatmap-trend--flat {
+    fill: var(--color-text-muted);
+  }
+
+  .heatmap-legend {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    margin-top: 1rem;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+  }
+
+  .heatmap-legend-gradient {
+    width: 120px;
+    height: 12px;
+    border-radius: 6px;
+    background: linear-gradient(90deg, var(--color-border-light) 0%, var(--jazz-amber) 50%, var(--electric-cyan) 100%);
+  }
+
+  .heatmap-legend-label {
+    white-space: nowrap;
+  }
+</style>

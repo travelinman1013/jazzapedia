@@ -1,0 +1,351 @@
+---
+/**
+ * Host Profiles - Server-rendered host profile cards.
+ * Shows WWOZ hosts with their track counts, match rates, and top genres.
+ */
+import { getDatabase } from '../../lib/db';
+
+interface Props {
+  locals: App.Locals;
+}
+
+const { locals } = Astro.props;
+const db = await getDatabase(locals);
+
+interface HostProfileRow {
+  host: string;
+  total_tracks: number;
+  unique_artists: number;
+  match_rate: number;
+  top_genres_json: string;
+  top_artists_json: string;
+  show_names_json: string;
+  first_seen: string;
+  last_seen: string;
+}
+
+interface HostProfile {
+  host: string;
+  totalTracks: number;
+  uniqueArtists: number;
+  matchRate: number;
+  topGenres: { genre: string; count: number }[];
+  topArtists: { artist: string; count: number }[];
+  shows: string[];
+  firstSeen: string;
+  lastSeen: string;
+}
+
+let profiles: HostProfile[] = [];
+
+if (db) {
+  try {
+    const result = await db.prepare(`
+      SELECT * FROM wwoz_host_profiles
+      ORDER BY total_tracks DESC
+      LIMIT 30
+    `).all();
+
+    profiles = ((result.results || []) as HostProfileRow[]).map(row => ({
+      host: row.host,
+      totalTracks: row.total_tracks,
+      uniqueArtists: row.unique_artists,
+      matchRate: row.match_rate,
+      topGenres: JSON.parse(row.top_genres_json || '[]'),
+      topArtists: JSON.parse(row.top_artists_json || '[]'),
+      shows: JSON.parse(row.show_names_json || '[]'),
+      firstSeen: row.first_seen,
+      lastSeen: row.last_seen,
+    }));
+  } catch (error) {
+    console.error('Error loading host profiles:', error);
+  }
+}
+
+const maxTracks = profiles.length > 0 ? profiles[0].totalTracks : 1;
+
+function formatDate(dateStr: string): string {
+  const d = new Date(dateStr + 'T00:00:00Z');
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+}
+---
+
+{profiles.length > 0 ? (
+  <div class="host-grid">
+    {profiles.map((profile) => (
+      <details class="host-card">
+        <summary class="host-summary">
+          <div class="host-header">
+            <h3 class="host-name">{profile.host}</h3>
+            <span class="host-track-count">
+              {profile.totalTracks.toLocaleString()} tracks
+            </span>
+          </div>
+          <div class="host-stats">
+            <span class="host-stat">
+              <span class="host-stat-value">{profile.uniqueArtists.toLocaleString()}</span>
+              <span class="host-stat-label">artists</span>
+            </span>
+            <span class="host-stat">
+              <span class="host-stat-value">{(profile.matchRate * 100).toFixed(0)}%</span>
+              <span class="host-stat-label">match rate</span>
+            </span>
+          </div>
+          <div class="host-bar-container">
+            <div
+              class="host-bar"
+              style={`width: ${(profile.totalTracks / maxTracks) * 100}%`}
+            ></div>
+          </div>
+          <div class="host-genres">
+            {profile.topGenres.slice(0, 3).map(g => (
+              <span class="host-genre-badge">{g.genre}</span>
+            ))}
+          </div>
+        </summary>
+
+        <div class="host-detail">
+          <div class="host-detail-section">
+            <h4>Top Artists</h4>
+            <ol class="host-top-list">
+              {profile.topArtists.slice(0, 8).map(a => (
+                <li>
+                  <span class="host-list-name">{a.artist}</span>
+                  <span class="host-list-count">{a.count}</span>
+                </li>
+              ))}
+            </ol>
+          </div>
+
+          <div class="host-detail-section">
+            <h4>Top Genres</h4>
+            <ol class="host-top-list">
+              {profile.topGenres.slice(0, 8).map(g => (
+                <li>
+                  <span class="host-list-name">{g.genre}</span>
+                  <span class="host-list-count">{g.count}</span>
+                </li>
+              ))}
+            </ol>
+          </div>
+
+          {profile.shows.length > 0 && (
+            <div class="host-detail-section">
+              <h4>Shows</h4>
+              <div class="host-show-tags">
+                {profile.shows.map(s => (
+                  <span class="host-show-tag">{s}</span>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <p class="host-date-range">
+            Active: {formatDate(profile.firstSeen)} — {formatDate(profile.lastSeen)}
+          </p>
+        </div>
+      </details>
+    ))}
+  </div>
+) : (
+  <p class="text-wiki-text-muted">No host data available.</p>
+)}
+
+<style>
+  .host-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+
+  .host-card {
+    background: var(--color-bg);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-lg);
+    transition: all var(--duration-fast) var(--ease-smooth);
+    overflow: hidden;
+  }
+
+  .host-card:hover {
+    border-color: var(--jazz-amber);
+  }
+
+  .host-card[open] {
+    border-color: var(--jazz-amber);
+  }
+
+  .host-summary {
+    padding: 1rem;
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .host-summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .host-summary::marker {
+    display: none;
+    content: '';
+  }
+
+  .host-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0.5rem;
+  }
+
+  .host-name {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--color-text-heading);
+    margin: 0;
+  }
+
+  .host-track-count {
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+  }
+
+  .host-stats {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .host-stat {
+    display: flex;
+    align-items: baseline;
+    gap: 0.25rem;
+  }
+
+  .host-stat-value {
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--jazz-amber);
+  }
+
+  .host-stat-label {
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .host-bar-container {
+    height: 4px;
+    background: var(--color-border-light);
+    border-radius: 9999px;
+    overflow: hidden;
+    margin-bottom: 0.75rem;
+  }
+
+  .host-bar {
+    height: 100%;
+    background: linear-gradient(90deg, var(--jazz-amber), var(--electric-cyan));
+    border-radius: 9999px;
+  }
+
+  .host-genres {
+    display: flex;
+    gap: 0.375rem;
+    flex-wrap: wrap;
+  }
+
+  .host-genre-badge {
+    font-size: 0.65rem;
+    padding: 0.125rem 0.5rem;
+    background: var(--color-accent-light);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-sm);
+    color: var(--color-text-secondary);
+    text-transform: lowercase;
+  }
+
+  /* Detail section (expanded) */
+  .host-detail {
+    padding: 0 1rem 1rem;
+    border-top: 1px solid var(--color-border-light);
+  }
+
+  .host-detail-section {
+    margin-top: 0.75rem;
+  }
+
+  .host-detail-section h4 {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-text-muted);
+    margin: 0 0 0.375rem;
+  }
+
+  .host-top-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    counter-reset: host-list;
+  }
+
+  .host-top-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.2rem 0;
+    font-size: 0.8rem;
+    counter-increment: host-list;
+  }
+
+  .host-top-list li::before {
+    content: counter(host-list) ".";
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+    min-width: 1.25rem;
+  }
+
+  .host-list-name {
+    flex: 1;
+    color: var(--color-text);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 0 0.5rem;
+  }
+
+  .host-list-count {
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+  }
+
+  .host-show-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.375rem;
+  }
+
+  .host-show-tag {
+    font-size: 0.7rem;
+    padding: 0.125rem 0.5rem;
+    background: var(--color-bg-nav);
+    border-radius: var(--radius-sm);
+    color: var(--color-text-secondary);
+  }
+
+  .host-date-range {
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+    margin: 0.75rem 0 0;
+    font-style: italic;
+  }
+
+  /* Dark mode */
+  :global([data-mode="dark"]) .host-card {
+    background: var(--jazz-smoke);
+  }
+</style>

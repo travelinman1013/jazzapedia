@@ -152,6 +152,23 @@ else
 fi
 
 # ============================================================
+# STEP 1.55: Compute WWOZ Intelligence Tables
+# ============================================================
+
+log_section "Step 1.55: Compute WWOZ Intelligence Tables"
+
+if [ "$DRY_RUN" = true ]; then
+  log "DRY RUN: Would compute WWOZ intelligence tables"
+else
+  log "Computing WWOZ intelligence materialized tables..."
+  if npx tsx "$SCRIPT_DIR/compute-wwoz-intelligence.ts" 2>&1 | tee -a "$LOG_FILE"; then
+    log "WWOZ Intelligence: Tables computed successfully"
+  else
+    log "WARNING: WWOZ Intelligence computation failed (non-fatal)"
+  fi
+fi
+
+# ============================================================
 # STEP 1.6: Backfill WWOZ Playlist URLs from Spotify
 # ============================================================
 

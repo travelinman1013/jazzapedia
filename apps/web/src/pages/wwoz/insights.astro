@@ -1,11 +1,15 @@
 ---
 /**
- * WWOZ Insights Dashboard
- * Live statistics from database
- * Shows top artists, genres, shows, and trends
+ * WWOZ Intelligence Dashboard
+ * Tabbed analytics dashboard: Overview, Trends, Hosts
+ * Pre-computed data from materialized tables + live summary stats
  */
 import Layout from '../../layouts/Layout.astro';
 import { getDatabase } from '../../lib/db';
+import GenreHeatmap from '../../components/wwoz/GenreHeatmap.astro';
+import HostProfiles from '../../components/wwoz/HostProfiles.astro';
+import DiscoveryVelocity from '../../components/wwoz/DiscoveryVelocity.astro';
+import { normalizeArtistName } from '../../../scripts/lib/normalize.js';
 
 // Get database adapter
 const db = await getDatabase(Astro.locals);
@@ -29,16 +33,10 @@ interface TopShow {
   trackCount: number;
 }
 
-// Normalize artist name for deduplication (mirrors compute-wwoz-insights.ts)
-function normalizeArtistName(name: string): string {
-  return name
-    .toLowerCase()
-    .trim()
-    .replace(/[.,'"!?]/g, '')
-    .replace(/\s+&\s+/g, ' and ')
-    .replace(/^the\s+/, '')
-    .replace(/\s+/g, ' ')
-    .trim();
+interface CooccurrenceRow {
+  artist_a: string;
+  artist_b: string;
+  cooccurrence_count: number;
 }
 
 // Default values
@@ -50,6 +48,7 @@ let matchedTracks = 0;
 let topArtists: TopArtist[] = [];
 let topGenres: TopGenre[] = [];
 let topShows: TopShow[] = [];
+let frequentlyPaired: CooccurrenceRow[] = [];
 
 if (db) {
   try {
@@ -61,10 +60,9 @@ if (db) {
       artistSlugsResult,
       topGenresResult,
       topShowsResult,
+      cooccurrenceResult,
     ] = await Promise.all([
-      // Days tracked
       db.prepare('SELECT COUNT(*) as count FROM wwoz_days').first(),
-      // Total tracks and matched from stats_json (same source as /wwoz index page)
       db.prepare(`
         SELECT
           COALESCE(SUM(json_extract(stats_json, '$.totalTracks')), 0) as totalTracks,
@@ -72,13 +70,9 @@ if (db) {
         FROM wwoz_days
         WHERE stats_json IS NOT NULL
       `).first(),
-      // All artist names with play counts for TypeScript normalization
       db.prepare('SELECT artist, COUNT(*) as count FROM wwoz_tracks GROUP BY artist').all(),
-      // Unique genres count (from genres table)
       db.prepare("SELECT COUNT(*) as count FROM genres").first(),
-      // Artist slugs for wiki links
       db.prepare('SELECT slug FROM artists').all(),
-      // Top genres from tracks
       db.prepare(`
         SELECT genres as name, COUNT(*) as count
         FROM wwoz_tracks
@@ -87,7 +81,6 @@ if (db) {
         ORDER BY count DESC
         LIMIT 30
       `).all(),
-      // Top shows
       db.prepare(`
         SELECT show_name as name, COUNT(*) as trackCount
         FROM wwoz_tracks
@@ -95,6 +88,12 @@ if (db) {
         GROUP BY show_name
         ORDER BY trackCount DESC
         LIMIT 12
+      `).all(),
+      db.prepare(`
+        SELECT artist_a, artist_b, cooccurrence_count
+        FROM wwoz_artist_cooccurrence
+        ORDER BY cooccurrence_count DESC
+        LIMIT 20
       `).all(),
     ]);
 
@@ -104,12 +103,10 @@ if (db) {
     totalTracks = statsRow?.totalTracks || 0;
     matchedTracks = statsRow?.matchedTracks || 0;
 
-    // Build artist slug lookup set for wiki links
     const slugSet = new Set(
       ((artistSlugsResult.results || []) as { slug: string }[]).map(r => r.slug)
     );
 
-    // Normalize and group artist play counts in TypeScript
     const artistCounts = (artistCountsResult.results || []) as { artist: string; count: number }[];
     const normalizedGroups = new Map<string, { displayName: string; displayCount: number; totalCount: number }>();
 
@@ -120,7 +117,6 @@ if (db) {
         normalizedGroups.set(norm, { displayName: artist, displayCount: count, totalCount: count });
       } else {
         existing.totalCount += count;
-        // Keep the variant with the most plays as display name
         if (count > existing.displayCount) {
           existing.displayName = artist;
           existing.displayCount = count;
@@ -130,7 +126,6 @@ if (db) {
 
     uniqueArtists = normalizedGroups.size;
 
-    // Build top 20 artists with wiki link resolution
     topArtists = Array.from(normalizedGroups.values())
       .sort((a, b) => b.totalCount - a.totalCount)
       .slice(0, 20)
@@ -147,23 +142,21 @@ if (db) {
     uniqueGenres = (genresCountResult as { count: number })?.count || 0;
     topGenres = (topGenresResult.results || []) as TopGenre[];
     topShows = (topShowsResult.results || []) as TopShow[];
+    frequentlyPaired = (cooccurrenceResult.results || []) as CooccurrenceRow[];
   } catch (error) {
     console.error('Error loading insights data:', error);
   }
 }
 
 const matchRate = totalTracks > 0 ? ((matchedTracks / totalTracks) * 100).toFixed(1) : '0';
-
-// Calculate max for bar chart scaling
 const maxArtistPlays = topArtists.length > 0 ? topArtists[0].count : 1;
 const maxGenreCount = topGenres.length > 0 ? topGenres[0].count : 1;
 
-// Helper to create genre slug
 const toGenreSlug = (genre: string) =>
   genre.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
 ---
 
-<Layout title="WWOZ Insights">
+<Layout title="WWOZ Intelligence Dashboard">
   <div class="article-content">
     <!-- Header -->
     <div class="flex items-center gap-4 mb-2">
@@ -174,15 +167,15 @@ const toGenreSlug = (genre: string) =>
 
     <h1 class="flex items-center gap-3">
       <span class="text-jazz-amber">&#128251;</span>
-      WWOZ Insights
+      WWOZ Intelligence Dashboard
     </h1>
 
     <p class="text-wiki-text-secondary mb-8">
-      Aggregated statistics from <strong class="text-jazz-amber">{daysTracked}</strong> days of WWOZ playlist tracking.
+      Analytics from <strong class="text-jazz-amber">{daysTracked}</strong> days of WWOZ playlist tracking.
     </p>
 
-    <!-- Summary Stats -->
-    <section class="stats-grid mb-10">
+    <!-- Summary Stats (always visible) -->
+    <section class="stats-grid mb-8">
       <div class="stat-card">
         <span class="stat-icon">&#128197;</span>
         <span class="stat-value">{daysTracked}</span>
@@ -210,119 +203,282 @@ const toGenreSlug = (genre: string) =>
       </div>
     </section>
 
-    <!-- Top Artists -->
-    <section class="mb-10">
-      <h2 class="section-title">
-        <span class="section-icon">&#127911;</span>
-        Top Artists
-      </h2>
-      <p class="text-wiki-text-muted text-sm mb-4">
-        Most played artists across all tracked days
-      </p>
+    <!-- Tab Navigation -->
+    <nav class="tab-bar" role="tablist">
+      <button class="tab-btn tab-btn--active" data-tab="overview" role="tab" aria-selected="true">
+        Overview
+      </button>
+      <button class="tab-btn" data-tab="trends" role="tab" aria-selected="false">
+        Trends
+      </button>
+      <button class="tab-btn" data-tab="hosts" role="tab" aria-selected="false">
+        Hosts
+      </button>
+    </nav>
 
-      <div class="artist-chart">
-        {topArtists.map((artist, index) => {
-          const barWidth = (artist.count / maxArtistPlays) * 100;
-          return (
-            <div class="artist-row">
-              <span class="artist-rank">{index + 1}</span>
-              <div class="artist-info">
-                {artist.slug ? (
-                  <a href={`/artists/${artist.slug}`} class="artist-name wiki-link">
-                    {artist.name}
-                  </a>
-                ) : (
-                  <span class="artist-name">{artist.name}</span>
-                )}
-                <span class="artist-count">{artist.count} plays</span>
-              </div>
-              <div class="artist-bar-container">
-                <div class="artist-bar" style={`width: ${barWidth}%`}></div>
-              </div>
-            </div>
-          );
-        })}
-      </div>
-    </section>
-
-    <!-- Top Genres -->
-    <section class="mb-10">
-      <h2 class="section-title">
-        <span class="section-icon">&#127926;</span>
-        Top Genres
-      </h2>
-      <p class="text-wiki-text-muted text-sm mb-4">
-        Most common genres in WWOZ playlists
-      </p>
-
-      <div class="genre-cloud">
-        {topGenres.map((genre) => {
-          // Scale font size based on count
-          const scale = 0.8 + (genre.count / maxGenreCount) * 0.6;
-          return (
-            <a
-              href={`/genres/${toGenreSlug(genre.name)}`}
-              class="genre-tag"
-              style={`font-size: ${scale}rem`}
-            >
-              {genre.name}
-              <span class="genre-count">{genre.count}</span>
-            </a>
-          );
-        })}
-      </div>
-    </section>
-
-    <!-- Top Shows -->
-    <section class="mb-10">
-      <h2 class="section-title">
-        <span class="section-icon">&#128251;</span>
-        Top Shows
-      </h2>
-      <p class="text-wiki-text-muted text-sm mb-4">
-        WWOZ programs with the most tracked songs
-      </p>
-
-      <div class="shows-grid">
-        {topShows.map((show) => (
-          <div class="show-card">
-            <span class="show-icon">&#127908;</span>
-            <h3 class="show-name">{show.name}</h3>
-            <p class="show-tracks">
-              {show.trackCount.toLocaleString()} tracks
-            </p>
-          </div>
-        ))}
-      </div>
-    </section>
-
-    <!-- Artist Match Stats -->
-    <section class="mb-6">
-      <h2 class="section-title">
-        <span class="section-icon">&#128279;</span>
-        Wiki Coverage
-      </h2>
-      <p class="text-wiki-text-muted text-sm mb-4">
-        How many WWOZ artists are in our wiki
-      </p>
-
-      <div class="coverage-stats">
-        <div class="coverage-bar">
-          <div
-            class="coverage-fill"
-            style={`width: ${topArtists.filter(a => a.slug).length / topArtists.length * 100}%`}
-          ></div>
-        </div>
-        <p class="coverage-text">
-          <strong>{topArtists.filter(a => a.slug).length}</strong> of the top {topArtists.length} artists
-          ({((topArtists.filter(a => a.slug).length / topArtists.length) * 100).toFixed(0)}%) have wiki profiles
+    <!-- Overview Tab -->
+    <section class="tab-panel tab-panel--active" data-panel="overview" role="tabpanel">
+      <!-- Top Artists -->
+      <div class="mb-10">
+        <h2 class="section-title">
+          <span class="section-icon">&#127911;</span>
+          Top Artists
+        </h2>
+        <p class="text-wiki-text-muted text-sm mb-4">
+          Most played artists across all tracked days
         </p>
+
+        <div class="artist-chart">
+          {topArtists.map((artist, index) => {
+            const barWidth = (artist.count / maxArtistPlays) * 100;
+            return (
+              <div class="artist-row">
+                <span class="artist-rank">{index + 1}</span>
+                <div class="artist-info">
+                  {artist.slug ? (
+                    <a href={`/artists/${artist.slug}`} class="artist-name wiki-link">
+                      {artist.name}
+                    </a>
+                  ) : (
+                    <span class="artist-name">{artist.name}</span>
+                  )}
+                  <span class="artist-count">{artist.count} plays</span>
+                </div>
+                <div class="artist-bar-container">
+                  <div class="artist-bar" style={`width: ${barWidth}%`}></div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+
+      <!-- Frequently Paired -->
+      {frequentlyPaired.length > 0 && (
+        <div class="mb-10">
+          <h2 class="section-title">
+            <span class="section-icon">&#127932;</span>
+            Frequently Paired
+          </h2>
+          <p class="text-wiki-text-muted text-sm mb-4">
+            Artists most often played on the same day
+          </p>
+
+          <div class="paired-list">
+            {frequentlyPaired.map((pair, index) => (
+              <div class="paired-row">
+                <span class="paired-rank">{index + 1}</span>
+                <div class="paired-artists">
+                  <span class="paired-name">{pair.artist_a}</span>
+                  <span class="paired-separator">&amp;</span>
+                  <span class="paired-name">{pair.artist_b}</span>
+                </div>
+                <span class="paired-count">{pair.cooccurrence_count} days</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <!-- Top Genres -->
+      <div class="mb-10">
+        <h2 class="section-title">
+          <span class="section-icon">&#127926;</span>
+          Top Genres
+        </h2>
+        <p class="text-wiki-text-muted text-sm mb-4">
+          Most common genres in WWOZ playlists
+        </p>
+
+        <div class="genre-cloud">
+          {topGenres.map((genre) => {
+            const scale = 0.8 + (genre.count / maxGenreCount) * 0.6;
+            return (
+              <a
+                href={`/genres/${toGenreSlug(genre.name)}`}
+                class="genre-tag"
+                style={`font-size: ${scale}rem`}
+              >
+                {genre.name}
+                <span class="genre-count">{genre.count}</span>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+
+      <!-- Top Shows -->
+      <div class="mb-10">
+        <h2 class="section-title">
+          <span class="section-icon">&#128251;</span>
+          Top Shows
+        </h2>
+        <p class="text-wiki-text-muted text-sm mb-4">
+          WWOZ programs with the most tracked songs
+        </p>
+
+        <div class="shows-grid">
+          {topShows.map((show) => (
+            <div class="show-card">
+              <span class="show-icon">&#127908;</span>
+              <h3 class="show-name">{show.name}</h3>
+              <p class="show-tracks">
+                {show.trackCount.toLocaleString()} tracks
+              </p>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <!-- Wiki Coverage -->
+      <div class="mb-6">
+        <h2 class="section-title">
+          <span class="section-icon">&#128279;</span>
+          Wiki Coverage
+        </h2>
+        <p class="text-wiki-text-muted text-sm mb-4">
+          How many WWOZ artists are in our wiki
+        </p>
+
+        <div class="coverage-stats">
+          <div class="coverage-bar">
+            <div
+              class="coverage-fill"
+              style={`width: ${topArtists.filter(a => a.slug).length / topArtists.length * 100}%`}
+            ></div>
+          </div>
+          <p class="coverage-text">
+            <strong>{topArtists.filter(a => a.slug).length}</strong> of the top {topArtists.length} artists
+            ({((topArtists.filter(a => a.slug).length / topArtists.length) * 100).toFixed(0)}%) have wiki profiles
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Trends Tab -->
+    <section class="tab-panel" data-panel="trends" role="tabpanel" hidden>
+      <div class="mb-10">
+        <h2 class="section-title">
+          <span class="section-icon">&#128293;</span>
+          Genre Trends
+        </h2>
+        <p class="text-wiki-text-muted text-sm mb-4">
+          Weekly genre play frequency across all tracked days
+        </p>
+        <GenreHeatmap locals={Astro.locals} />
+      </div>
+
+      <div class="mb-10">
+        <h2 class="section-title">
+          <span class="section-icon">&#127793;</span>
+          Discovery Velocity
+        </h2>
+        <p class="text-wiki-text-muted text-sm mb-4">
+          How quickly new artists are being discovered on WWOZ
+        </p>
+        <DiscoveryVelocity locals={Astro.locals} />
+      </div>
+    </section>
+
+    <!-- Hosts Tab -->
+    <section class="tab-panel" data-panel="hosts" role="tabpanel" hidden>
+      <div class="mb-10">
+        <h2 class="section-title">
+          <span class="section-icon">&#127897;</span>
+          Host Profiles
+        </h2>
+        <p class="text-wiki-text-muted text-sm mb-4">
+          WWOZ DJs and their musical personalities. Click a card to expand.
+        </p>
+        <HostProfiles locals={Astro.locals} />
       </div>
     </section>
   </div>
 </Layout>
 
+<script is:inline>
+  // Tab switching
+  document.addEventListener('DOMContentLoaded', () => {
+    const tabs = document.querySelectorAll('.tab-btn');
+    const panels = document.querySelectorAll('.tab-panel');
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        const targetTab = tab.dataset.tab;
+
+        // Update tab buttons
+        tabs.forEach(t => {
+          t.classList.remove('tab-btn--active');
+          t.setAttribute('aria-selected', 'false');
+        });
+        tab.classList.add('tab-btn--active');
+        tab.setAttribute('aria-selected', 'true');
+
+        // Update panels
+        panels.forEach(p => {
+          if (p.dataset.panel === targetTab) {
+            p.classList.add('tab-panel--active');
+            p.removeAttribute('hidden');
+          } else {
+            p.classList.remove('tab-panel--active');
+            p.setAttribute('hidden', '');
+          }
+        });
+
+        // Update URL hash (without scrolling)
+        history.replaceState(null, '', `#${targetTab}`);
+      });
+    });
+
+    // Restore tab from URL hash
+    const hash = window.location.hash.slice(1);
+    if (hash) {
+      const targetTab = document.querySelector(`.tab-btn[data-tab="${hash}"]`);
+      if (targetTab) targetTab.click();
+    }
+  });
+</script>
+
 <style>
+  /* Tab Navigation */
+  .tab-bar {
+    display: flex;
+    gap: 0;
+    border-bottom: 2px solid var(--color-border);
+    margin-bottom: 2rem;
+  }
+
+  .tab-btn {
+    padding: 0.75rem 1.5rem;
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--color-text-muted);
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -2px;
+    cursor: pointer;
+    transition: all var(--duration-fast) var(--ease-jazz);
+  }
+
+  .tab-btn:hover {
+    color: var(--color-text);
+  }
+
+  .tab-btn--active {
+    color: var(--jazz-amber);
+    border-bottom-color: var(--jazz-amber);
+  }
+
+  .tab-panel {
+    display: none;
+  }
+
+  .tab-panel--active {
+    display: block;
+  }
+
   /* Stats Grid */
   .stats-grid {
     display: grid;
@@ -479,6 +635,70 @@ const toGenreSlug = (genre: string) =>
     }
   }
 
+  /* Frequently Paired */
+  .paired-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .paired-row {
+    display: grid;
+    grid-template-columns: 2rem 1fr auto;
+    gap: 0.75rem;
+    align-items: center;
+    padding: 0.5rem 0.75rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-md);
+    transition: all var(--duration-fast) var(--ease-smooth);
+  }
+
+  .paired-row:hover {
+    border-color: var(--jazz-amber);
+  }
+
+  .paired-rank {
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    text-align: center;
+  }
+
+  .paired-artists {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-width: 0;
+  }
+
+  .paired-name {
+    font-weight: 500;
+    color: var(--color-text);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .paired-separator {
+    color: var(--jazz-amber);
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+
+  .paired-count {
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+  }
+
+  @media (max-width: 640px) {
+    .paired-artists {
+      flex-wrap: wrap;
+    }
+  }
+
   /* Genre Cloud */
   .genre-cloud {
     display: flex;
@@ -593,6 +813,7 @@ const toGenreSlug = (genre: string) =>
   /* Dark mode adjustments */
   :global([data-mode="dark"]) .stat-card,
   :global([data-mode="dark"]) .artist-row,
+  :global([data-mode="dark"]) .paired-row,
   :global([data-mode="dark"]) .genre-tag,
   :global([data-mode="dark"]) .show-card,
   :global([data-mode="dark"]) .coverage-stats {
