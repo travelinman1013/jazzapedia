@@ -567,7 +567,26 @@ const getMatchRateColor = (rate: number): string => {
   .recent-genres {
     font-size: 0.75rem;
     color: var(--color-text-muted);
-    flex-shrink: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex-shrink: 1;
+  }
+
+  @media (max-width: 640px) {
+    .recent-item {
+      flex-wrap: wrap;
+    }
+
+    .recent-name {
+      flex: 1 1 0;
+    }
+
+    .recent-genres {
+      width: 100%;
+      padding-left: calc(36px + 0.75rem);
+      margin-top: -0.25rem;
+    }
   }
 
   /* ============================================

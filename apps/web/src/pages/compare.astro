@@ -822,6 +822,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-re
     align-items: center;
     gap: 0.5rem;
     height: 1.125rem;
+    width: 100%;
   }
 
   .bar {
@@ -829,6 +830,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-re
     border-radius: 9999px;
     transition: width 0.3s ease;
     min-width: 2px;
+    flex: none;
   }
 
   .bar--a {
@@ -956,6 +958,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-re
     .feature-row {
       flex-direction: column;
       gap: 0.25rem;
+      align-items: stretch;
     }
 
     .feature-label {
