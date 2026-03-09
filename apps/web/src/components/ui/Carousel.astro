@@ -1,0 +1,220 @@
+---
+interface Props {
+  id?: string;
+  class?: string;
+  itemWidth?: string;
+  label?: string;
+}
+
+const { id, class: className, itemWidth = '200px', label } = Astro.props;
+---
+
+<div class:list={['carousel-wrapper', className]} id={id} style={`--carousel-item-width: ${itemWidth}`}>
+  <button class="carousel-arrow carousel-arrow-left" aria-label="Scroll left" data-dir="-1">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 18l-6-6 6-6" />
+    </svg>
+  </button>
+  <div class="carousel-track" role="region" aria-label={label} tabindex="0">
+    <slot />
+  </div>
+  <button class="carousel-arrow carousel-arrow-right" aria-label="Scroll right" data-dir="1">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M9 18l6-6-6-6" />
+    </svg>
+  </button>
+</div>
+
+<style>
+  .carousel-wrapper {
+    position: relative;
+  }
+
+  .carousel-track {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    scroll-snap-type: x proximity;
+    scroll-behavior: smooth;
+    scroll-padding-inline-start: 0.5rem;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding: 0.5rem;
+    outline: none;
+  }
+
+  .carousel-track::-webkit-scrollbar {
+    display: none;
+  }
+
+  .carousel-track > :global(*) {
+    flex: 0 0 var(--carousel-item-width, 200px);
+    scroll-snap-align: start;
+  }
+
+  /* Fade edge hints */
+  .carousel-wrapper::before,
+  .carousel-wrapper::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 24px;
+    z-index: 2;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+  }
+
+  .carousel-wrapper::before {
+    left: 0;
+    background: linear-gradient(to right, var(--color-bg, #1a1a2e), transparent);
+    opacity: 0;
+  }
+
+  .carousel-wrapper::after {
+    right: 0;
+    background: linear-gradient(to left, var(--color-bg, #1a1a2e), transparent);
+    opacity: 1;
+  }
+
+  .carousel-wrapper.at-start::before {
+    opacity: 0;
+  }
+
+  .carousel-wrapper:not(.at-start)::before {
+    opacity: 1;
+  }
+
+  .carousel-wrapper.at-end::after {
+    opacity: 0;
+  }
+
+  /* Arrow buttons */
+  .carousel-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 3;
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+    background: var(--color-bg-nav, #1e1e30);
+    border: 1px solid var(--color-border-light, #333);
+    color: var(--color-text-muted, #999);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s ease;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .carousel-arrow.is-visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .carousel-arrow:hover {
+    border-color: var(--jazz-amber, #d4a843);
+    color: var(--jazz-amber, #d4a843);
+    background: var(--color-bg, #1a1a2e);
+  }
+
+  .carousel-arrow-left {
+    left: -0.5rem;
+  }
+
+  .carousel-arrow-right {
+    right: -0.5rem;
+  }
+
+  /* Hide arrows on mobile - touch swipe is natural */
+  @media (max-width: 768px) {
+    .carousel-arrow {
+      display: none;
+    }
+  }
+
+  /* Responsive item widths */
+  @media (max-width: 1023px) and (min-width: 769px) {
+    .carousel-track > :global(*) {
+      flex-basis: calc(var(--carousel-item-width, 200px) * 0.92);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .carousel-track > :global(*) {
+      flex-basis: calc(var(--carousel-item-width, 200px) * 0.85);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .carousel-track > :global(*) {
+      flex-basis: max(var(--carousel-item-width, 200px) * 0.7, 44vw);
+    }
+  }
+
+  /* Respect reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .carousel-track {
+      scroll-behavior: auto;
+    }
+  }
+</style>
+
+<script>
+  document.querySelectorAll('.carousel-wrapper').forEach((wrapper) => {
+    const track = wrapper.querySelector('.carousel-track') as HTMLElement;
+    const leftBtn = wrapper.querySelector('.carousel-arrow-left');
+    const rightBtn = wrapper.querySelector('.carousel-arrow-right');
+    if (!track || !leftBtn || !rightBtn) return;
+
+    let rafPending = false;
+
+    const updateArrows = () => {
+      const { scrollLeft, scrollWidth, clientWidth } = track;
+      const atStart = scrollLeft <= 10;
+      const atEnd = scrollLeft >= scrollWidth - clientWidth - 10;
+
+      leftBtn.classList.toggle('is-visible', !atStart);
+      rightBtn.classList.toggle('is-visible', !atEnd);
+      wrapper.classList.toggle('at-start', atStart);
+      wrapper.classList.toggle('at-end', atEnd);
+      rafPending = false;
+    };
+
+    const onScroll = () => {
+      if (!rafPending) {
+        rafPending = true;
+        requestAnimationFrame(updateArrows);
+      }
+    };
+
+    track.addEventListener('scroll', onScroll, { passive: true });
+
+    // Arrow click - scroll by ~80% of visible width
+    [leftBtn, rightBtn].forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const dir = parseInt((btn as HTMLElement).dataset.dir || '1');
+        track.scrollBy({ left: dir * track.clientWidth * 0.8, behavior: 'smooth' });
+      });
+    });
+
+    // Keyboard arrow keys when track is focused
+    track.addEventListener('keydown', (e: Event) => {
+      const ke = e as KeyboardEvent;
+      if (ke.key === 'ArrowLeft' || ke.key === 'ArrowRight') {
+        ke.preventDefault();
+        const dir = ke.key === 'ArrowLeft' ? -1 : 1;
+        track.scrollBy({ left: dir * track.clientWidth * 0.4, behavior: 'smooth' });
+      }
+    });
+
+    // Re-check on resize
+    new ResizeObserver(updateArrows).observe(track);
+
+    // Initial state
+    updateArrows();
+  });
+</script>

@@ -7,6 +7,7 @@
 import Layout from '../layouts/Layout.astro';
 import ArtistCard from '../components/jazz/ArtistCard.astro';
 import HeroSearch from '../components/HeroSearch.astro';
+import Carousel from '../components/ui/Carousel.astro';
 import { getDatabase, getPortraitUrl } from '../lib/db';
 
 const db = await getDatabase(Astro.locals);
@@ -54,7 +55,7 @@ if (db) {
         FROM artists
         WHERE image_filename IS NOT NULL
         ORDER BY RANDOM()
-        LIMIT 5
+        LIMIT 10
       `).all(),
       db.prepare(`
         SELECT slug, title, genres, created_at
@@ -67,7 +68,7 @@ if (db) {
         SELECT date, playlist_url, stats_json
         FROM wwoz_days
         ORDER BY date DESC
-        LIMIT 3
+        LIMIT 7
       `).all(),
     ]);
 
@@ -170,7 +171,7 @@ const getMatchRateColor = (rate: number): string => {
         </a>
       </header>
 
-      <div class="wwoz-grid">
+      <Carousel id="wwoz-carousel" itemWidth="260px" label="WWOZ recent days">
         {recentWWOZDays.map((day) => {
           const stats = parseJson(day.stats_json, null) as WWOZStats | null;
           const matchRate = getMatchRate(day.stats_json);
@@ -201,7 +202,7 @@ const getMatchRateColor = (rate: number): string => {
             </a>
           );
         })}
-      </div>
+      </Carousel>
     </section>
   )}
 
@@ -245,7 +246,7 @@ const getMatchRateColor = (rate: number): string => {
       </button>
     </header>
 
-    <div class="random-artists-grid" id="random-artists-grid">
+    <Carousel id="random-artists-carousel" itemWidth="200px" label="Random artists">
       {randomArtists.map((artist) => {
         const genres = parseJson(artist.genres, []);
         const spotify = parseJson(artist.spotify_data, {});
@@ -260,7 +261,7 @@ const getMatchRateColor = (rate: number): string => {
           />
         );
       })}
-    </div>
+    </Carousel>
   </section>
 </Layout>
 
@@ -416,24 +417,6 @@ const getMatchRateColor = (rate: number): string => {
   /* ============================================
      WWOZ Archive Cards
      ============================================ */
-  .wwoz-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
-  }
-
-  @media (max-width: 768px) {
-    .wwoz-grid {
-      grid-template-columns: 1fr;
-    }
-  }
-
-  @media (min-width: 769px) and (max-width: 1024px) {
-    .wwoz-grid {
-      grid-template-columns: repeat(2, 1fr);
-    }
-  }
-
   .wwoz-card {
     display: flex;
     flex-direction: column;
@@ -575,29 +558,6 @@ const getMatchRateColor = (rate: number): string => {
   /* ============================================
      Random Artists Grid
      ============================================ */
-  .random-artists-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-    transition: opacity var(--duration-normal) var(--ease-smooth);
-  }
-
-  .random-artists-grid.is-shuffling {
-    opacity: 0;
-    transform: scale(0.98);
-  }
-
-  @media (min-width: 640px) {
-    .random-artists-grid {
-      grid-template-columns: repeat(3, 1fr);
-    }
-  }
-
-  @media (min-width: 1024px) {
-    .random-artists-grid {
-      grid-template-columns: repeat(5, 1fr);
-    }
-  }
 
   /* ============================================
      Shuffle Button
@@ -676,7 +636,8 @@ const getMatchRateColor = (rate: number): string => {
   document.addEventListener('DOMContentLoaded', () => {
     const shuffleBtn = document.getElementById('shuffle-btn');
     const shuffleIcon = document.getElementById('shuffle-icon');
-    const grid = document.getElementById('random-artists-grid');
+    const wrapper = document.getElementById('random-artists-carousel');
+    const grid = wrapper?.querySelector('.carousel-track') as HTMLElement | null;
     if (!shuffleBtn || !grid) return;
 
     let isShuffling = false;
@@ -690,7 +651,7 @@ const getMatchRateColor = (rate: number): string => {
       grid.classList.add('is-shuffling');
 
       try {
-        const response = await fetch('/api/random-artists?count=5');
+        const response = await fetch('/api/random-artists?count=10');
         if (!response.ok) throw new Error('Failed to fetch');
         const data = await response.json();
         const artists = data.artists || [];
@@ -733,7 +694,9 @@ const getMatchRateColor = (rate: number): string => {
         }).join('');
 
         grid.innerHTML = html;
+        grid.scrollTo({ left: 0, behavior: 'instant' as ScrollBehavior });
         grid.classList.remove('is-shuffling');
+        grid.dispatchEvent(new Event('scroll'));
 
       } catch (err) {
         console.error('Shuffle error:', err);
@@ -766,5 +729,11 @@ const getMatchRateColor = (rate: number): string => {
 
   .artist-card-shuffle:hover {
     transform: translateY(-2px);
+  }
+
+  .carousel-track.is-shuffling {
+    opacity: 0;
+    transform: scale(0.98);
+    transition: opacity var(--duration-normal, 0.2s) var(--ease-smooth, ease), transform var(--duration-normal, 0.2s) var(--ease-smooth, ease);
   }
 </style>
