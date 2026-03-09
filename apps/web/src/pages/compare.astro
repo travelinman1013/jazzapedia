@@ -318,6 +318,16 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-re
             </div>
           </section>
         )}
+        {/* Connect link */}
+        <div class="compare-connect">
+          <a href={`/connect?a=${artistA.slug}&b=${artistB.slug}`} class="connect-btn">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="16" height="16">
+              <path d="M13.828 10.172a4 4 0 0 0-5.656 0l-4 4a4 4 0 1 0 5.656 5.656l1.102-1.101" stroke-linecap="round" stroke-linejoin="round" />
+              <path d="M10.172 13.828a4 4 0 0 0 5.656 0l4-4a4 4 0 0 0-5.656-5.656l-1.102 1.101" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+            Find connection path
+          </a>
+        </div>
       </div>
     )}
 
@@ -930,6 +940,33 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-re
 
   .font-mono {
     font-family: 'JetBrains Mono Variable', monospace;
+  }
+
+  /* Connect Link */
+  .compare-connect {
+    display: flex;
+    justify-content: center;
+    padding-top: 0.5rem;
+  }
+
+  .connect-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--jazz-amber);
+    border: 1px solid rgba(212, 162, 84, 0.3);
+    border-radius: var(--radius-lg, 0.5rem);
+    text-decoration: none;
+    transition: all 0.15s ease;
+  }
+
+  .connect-btn:hover {
+    background: rgba(212, 162, 84, 0.1);
+    border-color: var(--jazz-amber);
+    transform: translateY(-1px);
   }
 
   /* Empty State */

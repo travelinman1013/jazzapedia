@@ -78,6 +78,8 @@ Tables:
 - `wwoz_tracks` - Individual track plays per day (time, artist, title, status, etc.)
 - `search_index` - FTS5 search index for artists
 - `artist_similarity` - Pre-computed audio similarity scores (artist_slug, similar_slug, score)
+- `artist_relationships` - Normalized artist connections (source_slug, target_slug, relationship_type). Replaces JSON-based `musical_connections` for queries. Types: collaborator, influenced, mentor, member, associated, former_member
+- `artist_graph_stats` - Pre-computed graph centrality metrics (slug, degree, in_degree, out_degree, betweenness, clustering)
 
 ## Data Flow Architecture
 
@@ -332,6 +334,7 @@ Key routes:
 - `/artists` - Artist listing with search
 - `/artists/[slug]` - Individual artist page (includes Audio DNA radar chart + Sounds Like)
 - `/compare` - Side-by-side artist comparison (`/compare?a=slug1&b=slug2`)
+- `/connect` - Degrees of separation path finder (`/connect?a=slug1&b=slug2`)
 - `/wwoz` - WWOZ daily archive index
 - `/wwoz/[date]` - Individual day's track log
 - `/wwoz/insights` - Archive statistics dashboard
@@ -447,6 +450,8 @@ Volumes:
 | `unified-daily-sync.sh` | Orchestrates all sync operations | Local (launchd at 4:30am CT) |
 | `export-playlists.ts` | Export Spotify playlists to JSON + CSV | Manual (scraper scripts dir) |
 | `compute-audio-similarity.ts` | Pre-compute audio similarity scores | Prebuild + Manual |
+| `populate-artist-relationships.ts` | Normalize connections JSON into relational table | Prebuild + Manual |
+| `compute-graph-analytics.ts` | Compute graph centrality (degree, betweenness) | Prebuild + Manual |
 
 ## Audio DNA & Artist Comparison
 
@@ -470,11 +475,59 @@ Artists with Spotify `audio_profile` data display an **Audio DNA** radar chart i
 - Overlaid radar charts (amber = artist A, cyan = artist B)
 - Feature comparison bars, shared genres, shared connections, career timeline
 - Artist picker with autocomplete via `/api/search/suggest`
+- "Find connection path" link to `/connect` page
 
 **Regenerate similarity data:**
 ```bash
 cd apps/web && pnpm build:similarity
 ```
+
+## Normalized Relationship Graph & Path Finding
+
+Artist relationships are stored in the normalized `artist_relationships` table (13K+ edges) alongside the legacy `musical_connections` JSON column on `artists`. The normalized table enables indexed reverse lookups, BFS path finding, and graph analytics — the JSON column is still the scraper's output format and source of truth for the population script.
+
+**Data flow:**
+1. Scraper writes `musical_connections` JSON to artist markdown → synced to `artists` table
+2. `populate-artist-relationships.ts` reads JSON from all artists, resolves names→slugs, inserts into `artist_relationships` (idempotent via `INSERT OR IGNORE`)
+3. `build-connections-static.ts` reads from `artist_relationships` table (not JSON) to generate `connections-index.json`
+4. `compute-graph-analytics.ts` computes degree, betweenness centrality (Brandes'), and clustering coefficient → `artist_graph_stats` table
+
+**Key files:**
+- `apps/web/migrations/0012_artist_relationships.sql` — Normalized edge table (composite PK: source_slug, target_slug, relationship_type)
+- `apps/web/migrations/0013_artist_graph_stats.sql` — Graph centrality metrics table
+- `apps/web/scripts/populate-artist-relationships.ts` — Populates from `musical_connections` JSON. Runs in prebuild. Supports `--remote` for D1.
+- `apps/web/scripts/compute-graph-analytics.ts` — Brandes' algorithm (~15s for 4,130 nodes). Runs in prebuild.
+- `apps/web/src/pages/api/graph/path.ts` — BFS path-finding API (TypeScript, not SQL CTE). Loads adjacency list into memory for O(V+E) traversal.
+- `apps/web/src/pages/connect.astro` — "Degrees of separation" page with artist pickers and SVG path chain
+- `apps/web/src/lib/connections-index.ts` — `getArtistConnectionsFromDb()` queries `artist_relationships` for both forward AND reverse connections on D1
+- `packages/db/src/queries.ts` — `getArtistRelationships()`, `getReverseRelationships()`, `getArtistConnectionsFull()`, `getAllRelationshipEdges()`
+
+**Connect page (`/connect?a=slug1&b=slug2`):**
+- BFS shortest path with max depth 6, visualized as vertical node chain with relationship labels
+- Edge labels are direction-aware: "influenced" vs "influenced by" depending on display order
+- Links to Compare page; Compare page links back to Connect
+- Located in nav "More" dropdown alongside Compare
+
+**Relationship types in `artist_relationships`:**
+`collaborator`, `influenced`, `mentor`, `member`, `associated`, `former_member`
+
+**Prebuild chain order** (`apps/web/package.json`):
+```
+populate-artist-relationships → build-connections-static → build-graph-layout → compute-audio-similarity → compute-graph-analytics → compute-wwoz-intelligence
+```
+
+**Regenerate graph data:**
+```bash
+cd apps/web
+npx tsx scripts/populate-artist-relationships.ts    # Re-populate edges from JSON
+pnpm build:graph-stats                               # Recompute centrality metrics
+```
+
+**Architecture notes:**
+- `musical_connections` JSON column is NOT deprecated — it's the scraper's output format. The `artist_relationships` table is a derived/denormalized view for fast queries.
+- `connections-index.json` (~1.2MB) is still generated at build time and consumed by artist pages for wiki-link resolution and connection display. Future work: replace with DB queries + lightweight `artist-slugs.json`.
+- Path-finding uses TypeScript BFS (not SQL recursive CTEs) to avoid D1 row limits and get deterministic performance.
+- The `artist_graph_stats` table must be recomputed when relationships change significantly. It runs in prebuild automatically.
 
 ## Common Tasks
 
@@ -615,4 +668,4 @@ Secrets required:
    - `content-deploy/portraits/` - tracked (for D1 sync matching)
    - `.claude/PRPs/` - gitignored (investigation artifacts)
 15. **Artist data is database-driven** - The website serves artist content from the database (D1/SQLite), NOT from markdown files. Artist markdown files in `content/artists/` are the source of truth for the sync pipeline, but they're never committed to git. Only `content-deploy/artists/` (a copy for D1 sync) is tracked.
-16. **connections-index.json is too large** - NEVER read, cat, head, tail, diff, or output `apps/web/src/data/connections-index.json` (~1.1MB). This file causes session freezes. Only interact via metadata commands like `ls -la` or `wc -l`. The file is generated by `build-connections-static.ts` from SQLite at build time.
+16. **connections-index.json is too large** - NEVER read, cat, head, tail, diff, or output `apps/web/src/data/connections-index.json` (~1.2MB). This file causes session freezes. Only interact via metadata commands like `ls -la` or `wc -l`. The file is generated by `build-connections-static.ts` from the `artist_relationships` table at build time. For querying connections at runtime, use `getArtistConnectionsFull()` from `packages/db/src/queries.ts` which reads the normalized table directly.
