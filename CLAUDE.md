@@ -77,6 +77,7 @@ Tables:
 - `wwoz_days` - WWOZ daily metadata (date, playlist_url, stats_json)
 - `wwoz_tracks` - Individual track plays per day (time, artist, title, status, etc.)
 - `search_index` - FTS5 search index for artists
+- `artist_similarity` - Pre-computed audio similarity scores (artist_slug, similar_slug, score)
 
 ## Data Flow Architecture
 
@@ -329,7 +330,8 @@ adapter: isDocker ? node({ mode: 'standalone' }) : cloudflare({...})
 Key routes:
 - `/` - Home page with recent artists
 - `/artists` - Artist listing with search
-- `/artists/[slug]` - Individual artist page
+- `/artists/[slug]` - Individual artist page (includes Audio DNA radar chart + Sounds Like)
+- `/compare` - Side-by-side artist comparison (`/compare?a=slug1&b=slug2`)
 - `/wwoz` - WWOZ daily archive index
 - `/wwoz/[date]` - Individual day's track log
 - `/wwoz/insights` - Archive statistics dashboard
@@ -444,6 +446,35 @@ Volumes:
 | `upload-portraits-r2.ts` | Upload portraits to R2 | Local (unified-daily-sync.sh) |
 | `unified-daily-sync.sh` | Orchestrates all sync operations | Local (launchd at 4:30am CT) |
 | `export-playlists.ts` | Export Spotify playlists to JSON + CSV | Manual (scraper scripts dir) |
+| `compute-audio-similarity.ts` | Pre-compute audio similarity scores | Prebuild + Manual |
+
+## Audio DNA & Artist Comparison
+
+Artists with Spotify `audio_profile` data display an **Audio DNA** radar chart in the infobox, visualizing 6 features: danceability, energy, valence, acousticness, instrumentalness, and liveness. A **Sounds Like** section shows the top 5 most similar-sounding artists.
+
+**Key files:**
+- `apps/web/src/components/artist/AudioDNA.astro` — SVG radar chart (pure server-rendered, zero JS)
+- `apps/web/src/components/artist/SoundsLike.astro` — Similar artists list in infobox
+- `apps/web/src/pages/compare.astro` — Side-by-side artist comparison page
+- `apps/web/scripts/compute-audio-similarity.ts` — Euclidean distance similarity computation
+- `apps/web/src/data/audio-similarity.json` — Pre-computed top-5 similar artists (gitignored, regenerated at build)
+
+**How similarity works:**
+1. `compute-audio-similarity.ts` runs during `prebuild` (or manually via `pnpm build:similarity`)
+2. Loads all artists with `audio_profile` from SQLite (~3,400 artists)
+3. Computes Euclidean distance across 6 normalized features (0–1 range)
+4. Stores top 10 per artist in `artist_similarity` table, top 5 in `audio-similarity.json`
+5. Artist pages import the static JSON and query DB for similar artist details
+
+**Compare page (`/compare?a=slug1&b=slug2`):**
+- Overlaid radar charts (amber = artist A, cyan = artist B)
+- Feature comparison bars, shared genres, shared connections, career timeline
+- Artist picker with autocomplete via `/api/search/suggest`
+
+**Regenerate similarity data:**
+```bash
+cd apps/web && pnpm build:similarity
+```
 
 ## Common Tasks
 

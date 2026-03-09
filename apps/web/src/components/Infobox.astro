@@ -5,6 +5,8 @@
  * Features brass accents, warm lighting effects, and electric hover states
  */
 import MiniConnectionGraph from './artist/MiniConnectionGraph.astro';
+import AudioDNA from './artist/AudioDNA.astro';
+import SoundsLike from './artist/SoundsLike.astro';
 
 interface MusicalConnections {
   collaborators?: string[];
@@ -396,6 +398,16 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
           </a>
         )}
       </div>
+    )}
+
+    <!-- Audio DNA Radar Chart -->
+    {data.audio_profile && artistSlug && (
+      <AudioDNA audioProfile={data.audio_profile as Record<string, number | string | undefined>} artistSlug={artistSlug} />
+    )}
+
+    <!-- Similar Sounding Artists -->
+    {(data.similar_artists as any[])?.length > 0 && (
+      <SoundsLike similarArtists={data.similar_artists as any[]} />
     )}
 
     <!-- Mini Connection Graph -->

@@ -1,0 +1,986 @@
+---
+/**
+ * Artist Comparison Page
+ * Compare two artists side-by-side: overlaid radar charts, shared genres, shared connections
+ * URL: /compare?a=slug1&b=slug2
+ */
+import Layout from '../layouts/Layout.astro';
+import { getDatabase, getPortraitUrl, getPortraitBaseUrl } from '../lib/db';
+
+const slugA = Astro.url.searchParams.get('a') || '';
+const portraitBaseUrl = getPortraitBaseUrl(Astro.locals);
+const slugB = Astro.url.searchParams.get('b') || '';
+
+const db = await getDatabase(Astro.locals);
+
+interface ArtistData {
+  slug: string;
+  title: string;
+  genres: string[];
+  audioProfile: Record<string, number>;
+  imageUrl?: string;
+  careerSpan?: string;
+  artistType?: string;
+  musicalConnections: { collaborators?: string[]; influenced?: string[]; mentors?: string[] };
+  instruments: string[];
+  roles: string[];
+}
+
+async function loadArtist(slug: string): Promise<ArtistData | null> {
+  if (!slug || !db) return null;
+  const row = await db.prepare(
+    `SELECT slug, title, genres, audio_profile, image_filename, career_span,
+            artist_type, musical_connections, instruments, roles
+     FROM artists WHERE slug = ?`
+  ).bind(slug).first<Record<string, unknown>>();
+  if (!row) return null;
+  return {
+    slug: row.slug as string,
+    title: row.title as string,
+    genres: row.genres ? JSON.parse(row.genres as string) : [],
+    audioProfile: row.audio_profile ? JSON.parse(row.audio_profile as string) : {},
+    imageUrl: getPortraitUrl(Astro.locals, row.image_filename as string | null),
+    careerSpan: row.career_span as string | undefined,
+    artistType: row.artist_type as string | undefined,
+    musicalConnections: row.musical_connections ? JSON.parse(row.musical_connections as string) : {},
+    instruments: row.instruments ? JSON.parse(row.instruments as string) : [],
+    roles: row.roles ? JSON.parse(row.roles as string) : [],
+  };
+}
+
+const artistA = await loadArtist(slugA);
+const artistB = await loadArtist(slugB);
+const hasBoth = artistA && artistB;
+
+// Radar chart math
+const FEATURES = [
+  { key: 'danceability_avg', label: 'Dance' },
+  { key: 'energy_avg', label: 'Energy' },
+  { key: 'valence_avg', label: 'Valence' },
+  { key: 'acousticness_avg', label: 'Acoustic' },
+  { key: 'instrumentalness_avg', label: 'Instr.' },
+  { key: 'liveness_avg', label: 'Live' },
+];
+
+const SIZE = 300;
+const CX = SIZE / 2;
+const CY = SIZE / 2;
+const R = 110;
+const LABEL_R = R + 22;
+const ANGLE_OFFSET = -Math.PI / 2;
+
+function point(index: number, value: number): [number, number] {
+  const angle = ANGLE_OFFSET + (2 * Math.PI * index) / FEATURES.length;
+  return [CX + R * value * Math.cos(angle), CY + R * value * Math.sin(angle)];
+}
+
+function polygonPoints(scale: number): string {
+  return FEATURES.map((_, i) => point(i, scale).join(',')).join(' ');
+}
+
+function dataPolygon(profile: Record<string, number>): string {
+  return FEATURES.map((f, i) => {
+    const v = Math.max(0, Math.min(1, Number(profile[f.key]) || 0));
+    return point(i, v).join(',');
+  }).join(' ');
+}
+
+function getValues(profile: Record<string, number>): number[] {
+  return FEATURES.map(f => Math.max(0, Math.min(1, Number(profile[f.key]) || 0)));
+}
+
+const labelPositions = FEATURES.map((f, i) => {
+  const angle = ANGLE_OFFSET + (2 * Math.PI * i) / FEATURES.length;
+  return {
+    x: CX + LABEL_R * Math.cos(angle),
+    y: CY + LABEL_R * Math.sin(angle),
+    label: f.label,
+    anchor: Math.abs(Math.cos(angle)) < 0.01 ? 'middle' : Math.cos(angle) > 0 ? 'start' : 'end',
+  };
+});
+
+// Comparison data
+let sharedGenres: string[] = [];
+let sharedConnections: string[] = [];
+let careerOverlap: { startA?: number; endA?: number; startB?: number; endB?: number } = {};
+
+if (hasBoth) {
+  const genresA = new Set(artistA.genres.map(g => g.toLowerCase()));
+  sharedGenres = artistB.genres.filter(g => genresA.has(g.toLowerCase()));
+
+  const connectionsA = new Set([
+    ...(artistA.musicalConnections.collaborators || []),
+    ...(artistA.musicalConnections.influenced || []),
+    ...(artistA.musicalConnections.mentors || []),
+  ].map(n => n.toLowerCase()));
+  const connectionsB = [
+    ...(artistB.musicalConnections.collaborators || []),
+    ...(artistB.musicalConnections.influenced || []),
+    ...(artistB.musicalConnections.mentors || []),
+  ];
+  sharedConnections = connectionsB.filter(n => connectionsA.has(n.toLowerCase()));
+
+  // Career overlap
+  const parseCareer = (span?: string) => {
+    if (!span) return {};
+    const yearMatch = span.match(/(\d{4})/g);
+    if (!yearMatch) return {};
+    const hasPresent = /present/i.test(span);
+    return {
+      start: parseInt(yearMatch[0]),
+      end: yearMatch[1] ? parseInt(yearMatch[1]) : (hasPresent ? 2026 : undefined),
+    };
+  };
+  const cA = parseCareer(artistA.careerSpan);
+  const cB = parseCareer(artistB.careerSpan);
+  careerOverlap = { startA: cA.start, endA: cA.end, startB: cB.start, endB: cB.end };
+}
+
+// For client-side artist picker
+const selectedA = slugA;
+const selectedB = slugB;
+
+// Page title
+const pageTitle = hasBoth
+  ? `${artistA.title} vs ${artistB.title}`
+  : artistA
+    ? `Compare ${artistA.title}`
+    : 'Compare Artists';
+
+// Set cache headers
+Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-revalidate=600');
+---
+
+<Layout title={pageTitle}>
+  <div class="compare-page">
+    <h1 class="compare-title">Compare Artists</h1>
+    <p class="compare-subtitle">Side-by-side audio DNA comparison</p>
+
+    <!-- Artist Pickers -->
+    <div class="pickers-row">
+      <div class="picker-slot">
+        {artistA ? (
+          <div class="selected-artist selected-artist--a">
+            <div class="selected-portrait">
+              {artistA.imageUrl ? (
+                <img src={artistA.imageUrl} alt={artistA.title} class="selected-img" />
+              ) : (
+                <span class="selected-placeholder">&#9835;</span>
+              )}
+            </div>
+            <div class="selected-info">
+              <a href={`/artists/${artistA.slug}`} class="selected-name">{artistA.title}</a>
+              {artistA.genres.slice(0, 2).map(g => <span class="selected-genre">{g}</span>)}
+            </div>
+            <a href={artistB ? `/compare?a=${artistB.slug}` : '/compare'} class="remove-btn" title="Remove">&times;</a>
+          </div>
+        ) : (
+          <div class="artist-picker" data-slot="a" data-other-slug={slugB}>
+            <input type="text" class="picker-input" placeholder="Search for an artist..." autocomplete="off" />
+            <div class="picker-dropdown"></div>
+          </div>
+        )}
+      </div>
+
+      <div class="vs-badge">
+        {hasBoth ? (
+          <a href={`/compare?a=${artistB.slug}&b=${artistA.slug}`} class="swap-btn" title="Swap artists">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20">
+              <path d="M7 16V4m0 0L3 8m4-4l4 4m6 4v12m0 0l4-4m-4 4l-4-4" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </a>
+        ) : (
+          <span class="vs-text">vs</span>
+        )}
+      </div>
+
+      <div class="picker-slot">
+        {artistB ? (
+          <div class="selected-artist selected-artist--b">
+            <div class="selected-portrait">
+              {artistB.imageUrl ? (
+                <img src={artistB.imageUrl} alt={artistB.title} class="selected-img" />
+              ) : (
+                <span class="selected-placeholder">&#9835;</span>
+              )}
+            </div>
+            <div class="selected-info">
+              <a href={`/artists/${artistB.slug}`} class="selected-name">{artistB.title}</a>
+              {artistB.genres.slice(0, 2).map(g => <span class="selected-genre">{g}</span>)}
+            </div>
+            <a href={artistA ? `/compare?a=${artistA.slug}` : '/compare'} class="remove-btn" title="Remove">&times;</a>
+          </div>
+        ) : (
+          <div class="artist-picker" data-slot="b" data-other-slug={slugA}>
+            <input type="text" class="picker-input" placeholder="Search for an artist..." autocomplete="off" />
+            <div class="picker-dropdown"></div>
+          </div>
+        )}
+      </div>
+    </div>
+
+    {/* Full comparison view */}
+    {hasBoth && (
+      <div class="comparison-content">
+
+        {/* Overlaid Radar Chart */}
+        {(getValues(artistA.audioProfile).some(v => v > 0.01) || getValues(artistB.audioProfile).some(v => v > 0.01)) && (
+          <section class="compare-section">
+            <h2 class="section-heading">Audio DNA</h2>
+            <div class="radar-container">
+              <div class="radar-legend">
+                <span class="legend-item legend-item--a">{artistA.title}</span>
+                <span class="legend-item legend-item--b">{artistB.title}</span>
+              </div>
+              <svg viewBox={`0 0 ${SIZE} ${SIZE}`} class="radar-svg" xmlns="http://www.w3.org/2000/svg">
+                {[0.33, 0.67, 1.0].map(scale => (
+                  <polygon points={polygonPoints(scale)} class="grid-ring" />
+                ))}
+                {FEATURES.map((_, i) => {
+                  const [ex, ey] = point(i, 1);
+                  return <line x1={CX} y1={CY} x2={ex} y2={ey} class="axis-line" />;
+                })}
+                <polygon points={dataPolygon(artistA.audioProfile)} class="data-polygon data-polygon--a" />
+                <polygon points={dataPolygon(artistB.audioProfile)} class="data-polygon data-polygon--b" />
+                {labelPositions.map(({ x, y, label, anchor }) => (
+                  <text x={x} y={y} text-anchor={anchor} dominant-baseline="central" class="axis-label">{label}</text>
+                ))}
+              </svg>
+            </div>
+          </section>
+        )}
+
+        {/* Feature Comparison Bars */}
+        {(getValues(artistA.audioProfile).some(v => v > 0.01) || getValues(artistB.audioProfile).some(v => v > 0.01)) && (
+          <section class="compare-section">
+            <h2 class="section-heading">Feature Breakdown</h2>
+            <div class="feature-bars">
+              {FEATURES.map(f => {
+                const vA = Math.max(0, Math.min(1, Number(artistA.audioProfile[f.key]) || 0));
+                const vB = Math.max(0, Math.min(1, Number(artistB.audioProfile[f.key]) || 0));
+                return (
+                  <div class="feature-row">
+                    <span class="feature-label">{f.label}</span>
+                    <div class="feature-pair">
+                      <div class="bar-row">
+                        <div class="bar bar--a" style={`width: ${vA * 100}%`}></div>
+                        <span class="bar-value bar-value--a">{Math.round(vA * 100)}%</span>
+                      </div>
+                      <div class="bar-row">
+                        <div class="bar bar--b" style={`width: ${vB * 100}%`}></div>
+                        <span class="bar-value bar-value--b">{Math.round(vB * 100)}%</span>
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </section>
+        )}
+
+        {/* Shared Genres */}
+        {sharedGenres.length > 0 && (
+          <section class="compare-section">
+            <h2 class="section-heading">Shared Genres</h2>
+            <div class="shared-tags">
+              {sharedGenres.map(g => (
+                <a href={`/genres/${g.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`} class="shared-tag">{g}</a>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Shared Connections */}
+        {sharedConnections.length > 0 && (
+          <section class="compare-section">
+            <h2 class="section-heading">Shared Connections</h2>
+            <div class="shared-connections">
+              {sharedConnections.map(name => (
+                <span class="connection-name">{name}</span>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Career Timeline */}
+        {(careerOverlap.startA || careerOverlap.startB) && (
+          <section class="compare-section">
+            <h2 class="section-heading">Career Timeline</h2>
+            <div class="career-timeline">
+              <div class="timeline-row">
+                <span class="timeline-label timeline-label--a">{artistA.title}</span>
+                <span class="timeline-span font-mono">{artistA.careerSpan || 'Unknown'}</span>
+              </div>
+              <div class="timeline-row">
+                <span class="timeline-label timeline-label--b">{artistB.title}</span>
+                <span class="timeline-span font-mono">{artistB.careerSpan || 'Unknown'}</span>
+              </div>
+            </div>
+          </section>
+        )}
+      </div>
+    )}
+
+    {/* Empty state */}
+    {!artistA && !artistB && (
+      <div class="empty-state">
+        <p>Select two artists to compare their audio DNA, shared genres, and musical connections.</p>
+      </div>
+    )}
+  </div>
+</Layout>
+
+<script is:inline define:vars={{ selectedA, selectedB, portraitBaseUrl }}>
+  // Artist picker autocomplete (uses DOM APIs to prevent XSS)
+  document.querySelectorAll('.artist-picker').forEach(picker => {
+    const input = picker.querySelector('.picker-input');
+    const dropdown = picker.querySelector('.picker-dropdown');
+    const slot = picker.getAttribute('data-slot');
+    const otherSlug = picker.getAttribute('data-other-slug');
+    let debounceTimer;
+
+    function createOption(artist) {
+      const link = document.createElement('a');
+      link.href = '#';
+      link.className = 'picker-option';
+      link.dataset.slug = artist.slug;
+
+      if (artist.image_filename) {
+        const img = document.createElement('img');
+        img.src = portraitBaseUrl + '/portraits/' + artist.image_filename;
+        img.className = 'picker-thumb';
+        img.alt = '';
+        link.appendChild(img);
+      } else {
+        const placeholder = document.createElement('span');
+        placeholder.className = 'picker-thumb-placeholder';
+        placeholder.textContent = '\u266B';
+        link.appendChild(placeholder);
+      }
+
+      const nameSpan = document.createElement('span');
+      nameSpan.textContent = artist.text;
+      link.appendChild(nameSpan);
+
+      return link;
+    }
+
+    input.addEventListener('input', () => {
+      clearTimeout(debounceTimer);
+      const q = input.value.trim();
+      if (q.length < 1) {
+        dropdown.replaceChildren();
+        dropdown.style.display = 'none';
+        return;
+      }
+      debounceTimer = setTimeout(async () => {
+        try {
+          const res = await fetch('/api/search/suggest?q=' + encodeURIComponent(q));
+          const data = await res.json();
+          const artists = (data.suggestions || []).filter(s => s.type === 'artist');
+          dropdown.replaceChildren();
+          if (artists.length === 0) {
+            const empty = document.createElement('div');
+            empty.className = 'picker-empty';
+            empty.textContent = 'No artists found';
+            dropdown.appendChild(empty);
+          } else {
+            artists.forEach(a => dropdown.appendChild(createOption(a)));
+          }
+          dropdown.style.display = 'block';
+        } catch (e) {
+          console.error('[compare] Search error:', e);
+        }
+      }, 200);
+    });
+
+    dropdown.addEventListener('click', (e) => {
+      e.preventDefault();
+      const option = e.target.closest('.picker-option');
+      if (!option) return;
+      const slug = option.dataset.slug;
+      const params = new URLSearchParams();
+      if (slot === 'a') {
+        params.set('a', slug);
+        if (otherSlug) params.set('b', otherSlug);
+      } else {
+        if (otherSlug) params.set('a', otherSlug);
+        params.set('b', slug);
+      }
+      window.location.href = '/compare?' + params.toString();
+    });
+
+    // Close dropdown on click outside
+    document.addEventListener('click', (e) => {
+      if (!picker.contains(e.target)) {
+        dropdown.style.display = 'none';
+      }
+    });
+
+    // Auto-focus first empty picker
+    if (!selectedA || !selectedB) {
+      input.focus();
+    }
+  });
+</script>
+
+<style>
+  .compare-page {
+    max-width: 48rem;
+    margin: 0 auto;
+  }
+
+  .compare-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--color-text-heading);
+    margin: 0 0 0.25rem;
+  }
+
+  .compare-subtitle {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    margin: 0 0 1.5rem;
+  }
+
+  /* Pickers Row */
+  .pickers-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .picker-slot {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .vs-badge {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+
+  .vs-text {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    font-style: italic;
+  }
+
+  .swap-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-border-light);
+    transition: all 0.15s ease;
+    text-decoration: none;
+  }
+
+  .swap-btn:hover {
+    color: var(--electric-cyan);
+    border-color: var(--electric-cyan);
+    background: rgba(0, 217, 255, 0.1);
+    transform: rotate(180deg);
+  }
+
+  /* Selected Artist Card */
+  .selected-artist {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.625rem;
+    border-radius: var(--radius-lg, 0.5rem);
+    border: 1px solid var(--color-border-light);
+    background: var(--color-bg-card, #fff);
+    position: relative;
+  }
+
+  .selected-artist--a {
+    border-left: 3px solid var(--jazz-amber);
+  }
+
+  .selected-artist--b {
+    border-left: 3px solid var(--electric-cyan);
+  }
+
+  .selected-portrait {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    overflow: hidden;
+    flex-shrink: 0;
+    background: var(--color-bg-nav);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .selected-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .selected-placeholder {
+    font-size: 1.25rem;
+    color: var(--color-text-muted);
+    opacity: 0.5;
+  }
+
+  .selected-info {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .selected-name {
+    font-weight: 600;
+    font-size: 0.875rem;
+    color: var(--color-text-heading);
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .selected-name:hover {
+    color: var(--color-link-hover);
+  }
+
+  .selected-genre {
+    display: inline-block;
+    font-size: 0.65rem;
+    color: var(--color-text-muted);
+    padding: 0.05rem 0.3rem;
+    background: var(--color-tag-bg);
+    border-radius: 9999px;
+    margin-right: 0.25rem;
+  }
+
+  .remove-btn {
+    position: absolute;
+    top: 0.25rem;
+    right: 0.5rem;
+    font-size: 1.25rem;
+    color: var(--color-text-muted);
+    text-decoration: none;
+    opacity: 0.5;
+    transition: opacity 0.15s ease;
+    line-height: 1;
+  }
+
+  .remove-btn:hover {
+    opacity: 1;
+    color: var(--electric-magenta, #FF006E);
+  }
+
+  /* Artist Picker */
+  .artist-picker {
+    position: relative;
+  }
+
+  .picker-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 0.875rem;
+    font-family: inherit;
+    color: var(--color-text);
+    background: var(--color-bg-card, #fff);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-lg, 0.5rem);
+    outline: none;
+    transition: border-color 0.15s ease;
+  }
+
+  .picker-input:focus {
+    border-color: var(--electric-cyan);
+    box-shadow: 0 0 0 2px rgba(0, 217, 255, 0.15);
+  }
+
+  .picker-dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    margin-top: 0.25rem;
+    background: var(--color-bg-card, #fff);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg, 0.5rem);
+    box-shadow: var(--shadow-elevated, 0 4px 12px rgba(0,0,0,0.15));
+    max-height: 16rem;
+    overflow-y: auto;
+  }
+
+  .picker-option {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.625rem 0.75rem;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: background 0.1s ease;
+  }
+
+  .picker-option:hover {
+    background: var(--color-accent-light);
+  }
+
+  .picker-thumb {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+
+  .picker-thumb-placeholder {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    background: var(--color-bg-nav);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    flex-shrink: 0;
+  }
+
+  .picker-empty {
+    padding: 0.75rem;
+    text-align: center;
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+  }
+
+  /* Comparison Content */
+  .comparison-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .compare-section {
+    padding: 1.25rem;
+    background: var(--color-bg-card, #fff);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-lg, 0.5rem);
+  }
+
+  .section-heading {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-text-heading);
+    margin: 0 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-border-light);
+  }
+
+  /* Radar Chart */
+  .radar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .radar-legend {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .legend-item {
+    font-size: 0.75rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+  }
+
+  .legend-item::before {
+    content: '';
+    display: inline-block;
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 2px;
+  }
+
+  .legend-item--a {
+    color: var(--jazz-amber);
+  }
+
+  .legend-item--a::before {
+    background: rgba(212, 162, 84, 0.5);
+    border: 1px solid var(--jazz-amber);
+  }
+
+  .legend-item--b {
+    color: var(--electric-cyan);
+  }
+
+  .legend-item--b::before {
+    background: rgba(0, 217, 255, 0.3);
+    border: 1px solid var(--electric-cyan);
+  }
+
+  .radar-svg {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+  }
+
+  .grid-ring {
+    fill: none;
+    stroke: var(--color-border-light);
+    stroke-width: 0.5;
+    opacity: 0.5;
+  }
+
+  .axis-line {
+    stroke: var(--color-border-light);
+    stroke-width: 0.5;
+    opacity: 0.3;
+  }
+
+  .data-polygon--a {
+    fill: rgba(212, 162, 84, 0.2);
+    stroke: var(--jazz-amber);
+    stroke-width: 1.5;
+  }
+
+  .data-polygon--b {
+    fill: rgba(0, 217, 255, 0.15);
+    stroke: var(--electric-cyan);
+    stroke-width: 1.5;
+  }
+
+  .axis-label {
+    font-size: 9px;
+    font-family: 'JetBrains Mono Variable', monospace;
+    fill: var(--color-text-muted);
+    text-transform: uppercase;
+  }
+
+  /* Feature Bars */
+  .feature-bars {
+    display: flex;
+    flex-direction: column;
+    gap: 0.875rem;
+  }
+
+  .feature-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .feature-label {
+    width: 4.5rem;
+    flex-shrink: 0;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    padding-top: 0.125rem;
+  }
+
+  .feature-pair {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .bar-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    height: 1.125rem;
+  }
+
+  .bar {
+    height: 0.5rem;
+    border-radius: 9999px;
+    transition: width 0.3s ease;
+    min-width: 2px;
+  }
+
+  .bar--a {
+    background: linear-gradient(90deg, var(--jazz-amber), var(--jazz-gold));
+  }
+
+  .bar--b {
+    background: linear-gradient(90deg, var(--electric-cyan), var(--electric-cyan-dim));
+  }
+
+  .bar-value {
+    font-size: 0.7rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-weight: 500;
+    min-width: 2rem;
+  }
+
+  .bar-value--a {
+    color: var(--jazz-amber);
+  }
+
+  .bar-value--b {
+    color: var(--electric-cyan);
+  }
+
+  /* Shared Tags */
+  .shared-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.375rem;
+  }
+
+  .shared-tag {
+    display: inline-block;
+    padding: 0.25rem 0.625rem;
+    font-size: 0.75rem;
+    background: var(--color-tag-bg);
+    border: 1px solid var(--color-tag-border);
+    border-radius: 9999px;
+    color: var(--color-link);
+    text-decoration: none;
+    transition: all 0.15s ease;
+  }
+
+  .shared-tag:hover {
+    background: var(--color-accent-light);
+    border-color: var(--color-border-accent);
+  }
+
+  /* Shared Connections */
+  .shared-connections {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.375rem;
+  }
+
+  .connection-name {
+    display: inline-block;
+    padding: 0.25rem 0.625rem;
+    font-size: 0.75rem;
+    background: rgba(0, 217, 255, 0.08);
+    border: 1px solid rgba(0, 217, 255, 0.2);
+    border-radius: 9999px;
+    color: var(--electric-cyan);
+  }
+
+  /* Career Timeline */
+  .career-timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .timeline-row {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  .timeline-label {
+    width: 8rem;
+    flex-shrink: 0;
+    font-size: 0.8rem;
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .timeline-label--a { color: var(--jazz-amber); }
+  .timeline-label--b { color: var(--electric-cyan); }
+
+  .timeline-span {
+    font-size: 0.8rem;
+    color: var(--color-text-secondary);
+  }
+
+  .font-mono {
+    font-family: 'JetBrains Mono Variable', monospace;
+  }
+
+  /* Empty State */
+  .empty-state {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 640px) {
+    .pickers-row {
+      flex-direction: column;
+    }
+
+    .vs-badge {
+      width: 100%;
+      height: 2rem;
+    }
+
+    .swap-btn:hover {
+      transform: rotate(90deg);
+    }
+
+    .feature-row {
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+
+    .feature-label {
+      width: auto;
+    }
+
+    .timeline-row {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.125rem;
+    }
+
+    .timeline-label {
+      width: auto;
+    }
+  }
+
+  /* Dark mode */
+  :global([data-mode="dark"]) .compare-section {
+    background: var(--jazz-smoke, #242428);
+    border-color: var(--color-border);
+  }
+
+  :global([data-mode="dark"]) .selected-artist {
+    background: var(--jazz-smoke, #242428);
+    border-color: var(--color-border);
+  }
+
+  :global([data-mode="dark"]) .picker-input {
+    background: var(--jazz-smoke, #242428);
+    border-color: var(--color-border);
+  }
+
+  :global([data-mode="dark"]) .picker-dropdown {
+    background: var(--jazz-slate, #2E2E33);
+    border-color: var(--color-border);
+  }
+</style>

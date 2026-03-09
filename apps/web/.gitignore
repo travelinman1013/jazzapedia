@@ -62,6 +62,7 @@ prompts/
 
 # Generated data files (recreated during build)
 # Note: graph-layout.json is committed as CI fallback (no DB in GitHub Actions)
+src/data/audio-similarity.json
 
 # Misc
 process_batch.js

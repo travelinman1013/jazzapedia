@@ -1,0 +1,278 @@
+---
+/**
+ * AudioDNA Radar Chart - Pure SVG, Zero JS
+ * Visualizes 6 Spotify audio features as a radar/spider chart
+ * Uses jazz club amber palette with CSS-only hover effects
+ */
+
+interface Props {
+  audioProfile: Record<string, number | string | undefined>;
+  artistSlug: string;
+}
+
+const { audioProfile, artistSlug } = Astro.props;
+
+// 6 features to visualize (all 0-1 range)
+const FEATURES = [
+  { key: 'danceability_avg', label: 'Dance', short: 'DNC' },
+  { key: 'energy_avg', label: 'Energy', short: 'NRG' },
+  { key: 'valence_avg', label: 'Valence', short: 'VAL' },
+  { key: 'acousticness_avg', label: 'Acoustic', short: 'ACO' },
+  { key: 'instrumentalness_avg', label: 'Instr.', short: 'INS' },
+  { key: 'liveness_avg', label: 'Live', short: 'LIV' },
+] as const;
+
+// Extract values, defaulting to 0
+const values = FEATURES.map(f => {
+  const v = Number(audioProfile[f.key]) || 0;
+  return Math.max(0, Math.min(1, v)); // clamp 0-1
+});
+
+// Only render if at least one feature has a meaningful value
+const hasData = values.some(v => v > 0.01);
+if (!hasData) return;
+
+// SVG dimensions
+const SIZE = 200;
+const CX = SIZE / 2;
+const CY = SIZE / 2;
+const R = 72; // max radius for data polygon
+const LABEL_R = R + 18; // label distance from center
+const ANGLE_OFFSET = -Math.PI / 2; // start at top
+
+// Compute point on the radar for a given feature index and value
+function point(index: number, value: number, radius: number = R): [number, number] {
+  const angle = ANGLE_OFFSET + (2 * Math.PI * index) / FEATURES.length;
+  return [
+    CX + radius * value * Math.cos(angle),
+    CY + radius * value * Math.sin(angle),
+  ];
+}
+
+// Generate polygon points string
+function polygonPoints(scale: number): string {
+  return FEATURES.map((_, i) => point(i, scale).join(',')).join(' ');
+}
+
+// Data polygon
+const dataPoints = FEATURES.map((_, i) => point(i, values[i]));
+const dataPolygon = dataPoints.map(p => p.join(',')).join(' ');
+
+// Label positions
+const labelPositions = FEATURES.map((f, i) => {
+  const angle = ANGLE_OFFSET + (2 * Math.PI * i) / FEATURES.length;
+  return {
+    x: CX + LABEL_R * Math.cos(angle),
+    y: CY + LABEL_R * Math.sin(angle),
+    label: f.label,
+    value: values[i],
+    anchor: Math.abs(Math.cos(angle)) < 0.01 ? 'middle' as const
+      : Math.cos(angle) > 0 ? 'start' as const : 'end' as const,
+  };
+});
+
+// Tempo display (not on radar, shown separately)
+const tempo = Number(audioProfile.tempo_avg) || 0;
+---
+
+<div class="audio-dna-section">
+  <div class="audio-dna-header">
+    <svg class="audio-dna-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M12 2v20M2 12h20M5.64 5.64l12.73 12.73M18.36 5.64L5.64 18.36" stroke-linecap="round" opacity="0.6" />
+      <circle cx="12" cy="12" r="3" fill="currentColor" stroke="none" />
+    </svg>
+    <span>Audio DNA</span>
+  </div>
+
+  <div class="audio-dna-chart">
+    <svg viewBox={`0 0 ${SIZE} ${SIZE}`} xmlns="http://www.w3.org/2000/svg" class="radar-svg">
+      <!-- Grid rings -->
+      {[0.33, 0.67, 1.0].map(scale => (
+        <polygon
+          points={polygonPoints(scale)}
+          class="grid-ring"
+        />
+      ))}
+
+      <!-- Axis lines -->
+      {FEATURES.map((_, i) => {
+        const [ex, ey] = point(i, 1);
+        return <line x1={CX} y1={CY} x2={ex} y2={ey} class="axis-line" />;
+      })}
+
+      <!-- Data polygon -->
+      <polygon points={dataPolygon} class="data-polygon" />
+
+      <!-- Data points -->
+      {dataPoints.map(([x, y], i) => (
+        <circle cx={x} cy={y} r="3" class="data-point">
+          <title>{FEATURES[i].label}: {Math.round(values[i] * 100)}%</title>
+        </circle>
+      ))}
+
+      <!-- Labels -->
+      {labelPositions.map(({ x, y, label, value, anchor }) => (
+        <text
+          x={x}
+          y={y}
+          text-anchor={anchor}
+          dominant-baseline="central"
+          class="axis-label"
+        >
+          {label}
+        </text>
+      ))}
+    </svg>
+  </div>
+
+  {tempo > 0 && (
+    <div class="tempo-display">
+      <span class="tempo-label">Tempo</span>
+      <span class="tempo-value">{Math.round(tempo)} BPM</span>
+    </div>
+  )}
+
+  <a href={`/compare?a=${artistSlug}`} class="compare-link">
+    Compare with...
+    <svg class="compare-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M16 3h5v5M4 20L21 3M21 16v5h-5M14 14l7 7M3 8V3h5M10 10L3 3" stroke-linecap="round" stroke-linejoin="round" />
+    </svg>
+  </a>
+</div>
+
+<style>
+  .audio-dna-section {
+    padding: 0.75rem;
+    background: linear-gradient(135deg, rgba(212, 162, 84, 0.08) 0%, rgba(212, 162, 84, 0.02) 100%);
+    border-top: 1px solid var(--color-border-light);
+  }
+
+  .audio-dna-header {
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--jazz-amber);
+    margin-bottom: 0.5rem;
+  }
+
+  .audio-dna-icon {
+    width: 1rem;
+    height: 1rem;
+  }
+
+  .audio-dna-chart {
+    display: flex;
+    justify-content: center;
+    padding: 0.25rem 0;
+  }
+
+  .radar-svg {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+  }
+
+  .grid-ring {
+    fill: none;
+    stroke: var(--color-border-light);
+    stroke-width: 0.5;
+    opacity: 0.5;
+  }
+
+  .axis-line {
+    stroke: var(--color-border-light);
+    stroke-width: 0.5;
+    opacity: 0.3;
+  }
+
+  .data-polygon {
+    fill: rgba(212, 162, 84, 0.2);
+    stroke: var(--jazz-amber);
+    stroke-width: 1.5;
+    transition: fill 0.25s ease;
+  }
+
+  .audio-dna-section:hover .data-polygon {
+    fill: rgba(212, 162, 84, 0.35);
+  }
+
+  .data-point {
+    fill: var(--jazz-amber);
+    stroke: var(--color-bg-infobox, #F0EBE3);
+    stroke-width: 1.5;
+    transition: r 0.15s ease;
+    cursor: default;
+  }
+
+  .data-point:hover {
+    r: 4.5;
+  }
+
+  .axis-label {
+    font-size: 7px;
+    font-family: 'JetBrains Mono Variable', monospace;
+    fill: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .tempo-display {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.375rem 0;
+    margin-top: 0.25rem;
+  }
+
+  .tempo-label {
+    font-size: 0.75rem;
+    color: var(--color-text-secondary);
+  }
+
+  .tempo-value {
+    font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--jazz-amber);
+  }
+
+  .compare-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.375rem;
+    margin-top: 0.5rem;
+    padding: 0.375rem 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--electric-cyan);
+    border: 1px solid rgba(0, 217, 255, 0.3);
+    border-radius: var(--radius-md, 0.375rem);
+    text-decoration: none;
+    transition: all 0.15s ease;
+  }
+
+  .compare-link:hover {
+    background: rgba(0, 217, 255, 0.1);
+    border-color: var(--electric-cyan);
+    transform: translateY(-1px);
+  }
+
+  .compare-icon {
+    width: 0.75rem;
+    height: 0.75rem;
+  }
+
+  /* Dark mode */
+  :global([data-mode="dark"]) .audio-dna-section {
+    background: linear-gradient(135deg, rgba(212, 162, 84, 0.12) 0%, rgba(212, 162, 84, 0.04) 100%);
+  }
+
+  :global([data-mode="dark"]) .data-point {
+    stroke: var(--jazz-smoke, #242428);
+  }
+</style>

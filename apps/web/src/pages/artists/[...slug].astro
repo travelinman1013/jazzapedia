@@ -53,6 +53,38 @@ const origin = artistRow.origin || null;
 const birthPlace = artistRow.birth_place || null;
 let researchSources: string[] = artistRow.research_sources ? JSON.parse(artistRow.research_sources) : [];
 
+// Load audio similarity data (generated at build time)
+let similarityIndex: Record<string, { slug: string; score: number }[]> = {};
+try {
+  similarityIndex = (await import('../../data/audio-similarity.json')).default as any;
+} catch (e) {
+  // File may not exist yet (first build)
+  if (import.meta.env.DEV) console.warn('[slug] audio-similarity.json not found');
+}
+
+// Load similar artists details
+const similarSlugs = similarityIndex[slug!] || [];
+let similarArtists: { slug: string; title: string; image_filename: string | null; score: number; imageUrl?: string }[] = [];
+if (similarSlugs.length > 0 && db) {
+  const placeholders = similarSlugs.map(() => '?').join(',');
+  const { results: similarRows } = await db
+    .prepare(`SELECT slug, title, image_filename FROM artists WHERE slug IN (${placeholders})`)
+    .bind(...similarSlugs.map(s => s.slug))
+    .all<{ slug: string; title: string; image_filename: string | null }>();
+
+  const resultMap = new Map(similarRows.map(r => [r.slug, r]));
+  similarArtists = similarSlugs
+    .filter(s => resultMap.has(s.slug))
+    .map(s => {
+      const row = resultMap.get(s.slug)!;
+      return {
+        ...row,
+        score: s.score,
+        imageUrl: getPortraitUrl(Astro.locals, row.image_filename),
+      };
+    });
+}
+
 // Build the data object that Infobox expects
 const data: Record<string, unknown> = {
   title: artistRow.title,
@@ -75,6 +107,7 @@ const data: Record<string, unknown> = {
   primary_role: artistRow.primary_role,
   // For portrait in Infobox - use full R2 URL for Cloudflare, relative path for Docker
   image_path: getPortraitUrl(Astro.locals, artistRow.image_filename),
+  similar_artists: similarArtists,
   // Infobox also checks infobox.background for artist type styling
   infobox: {
     background: artistRow.artist_type,
@@ -185,9 +218,6 @@ const hasWWOZPlays = wwozPlays.length > 0;
 if (hasWWOZPlays) {
   headings.push({ id: 'heard-on-wwoz', text: 'Heard on WWOZ' });
 }
-
-// Import static connections index (generated at build time)
-import connectionsIndex from '../../data/connections-index.json';
 
 // Check if bio_html already has a Musical Connections section
 // If so, the graph will be rendered as a subsection (no h2)
