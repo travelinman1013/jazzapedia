@@ -58,7 +58,7 @@ if (db) {
         LIMIT 10
       `).all(),
       db.prepare(`
-        SELECT slug, title, genres, created_at
+        SELECT slug, title, genres, image_filename, created_at
         FROM artists
         WHERE created_at IS NOT NULL
         ORDER BY created_at DESC
@@ -218,9 +218,14 @@ const getMatchRateColor = (rate: number): string => {
       <div class="recent-list">
         {recentArtists.map(artist => {
           const genres = parseJson(artist.genres, []);
+          const portrait = getPortrait(artist);
           return (
             <a href={`/artists/${artist.slug}`} class="recent-item">
-              <span class="recent-dot"></span>
+              {portrait ? (
+                <img src={portrait} alt="" class="recent-thumb" loading="lazy" decoding="async" />
+              ) : (
+                <span class="recent-thumb recent-thumb-placeholder">&#9835;</span>
+              )}
               <span class="recent-name">{artist.title}</span>
               <span class="recent-genres">
                 {genres.slice(0, 2).join(', ') || 'Various'}
@@ -525,18 +530,28 @@ const getMatchRateColor = (rate: number): string => {
     background: var(--color-accent-light);
   }
 
-  .recent-dot {
-    width: 6px;
-    height: 6px;
+  .recent-thumb {
+    width: 36px;
+    height: 36px;
     border-radius: 50%;
-    background: var(--jazz-amber);
     flex-shrink: 0;
-    opacity: 0.6;
+    object-fit: cover;
+    border: 1.5px solid var(--color-border-light);
+    transition: border-color var(--duration-fast) var(--ease-smooth);
   }
 
-  .recent-item:hover .recent-dot {
-    opacity: 1;
-    background: var(--electric-cyan);
+  .recent-thumb-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-bg-nav);
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+    opacity: 0.5;
+  }
+
+  .recent-item:hover .recent-thumb {
+    border-color: var(--jazz-amber);
   }
 
   .recent-name {
