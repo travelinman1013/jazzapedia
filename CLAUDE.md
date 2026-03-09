@@ -393,7 +393,30 @@ OG tags enable rich link previews in iMessage, Slack, Twitter, Facebook, etc.
 
 ## Docker Services
 
-**Docker is the testing/staging environment.** Always verify changes work in Docker before deploying to Cloudflare production.
+### Verifying Frontend Changes
+
+For most frontend work (HTML, CSS, components, pages that read from SQLite), use the local Astro dev server:
+
+```bash
+cd apps/web && DEPLOY_TARGET=docker DATABASE_PATH=../../data/jazzapedia.db pnpm dev
+```
+
+The env vars are required — without `DEPLOY_TARGET=docker`, Astro uses the Cloudflare adapter which connects to D1's local emulation (an empty database), not your real SQLite. `DATABASE_PATH` points to the actual local database with all artist and WWOZ data.
+
+Portraits are served locally via a symlink: `apps/web/public/portraits` → `../../../portraits`. This symlink is gitignored. If missing, recreate with:
+
+```bash
+ln -s ../../../portraits apps/web/public/portraits
+```
+
+**Use Docker only when testing:**
+- Full nginx reverse proxy behavior
+- Scraper ↔ web app interactions
+- Exact `DEPLOY_TARGET=docker` production-like builds
+
+### Docker as Staging
+
+Docker is the full staging environment.
 
 ```yaml
 services:

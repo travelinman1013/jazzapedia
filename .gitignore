@@ -42,6 +42,7 @@ archives/
 # Portraits (large image files, served from volume)
 # Use /portraits/ to only match root-level directory, not content-deploy/portraits/
 /portraits/
+apps/web/public/portraits
 
 # Content directories
 # Artist markdown files and metadata are NOT committed - they're synced to database
