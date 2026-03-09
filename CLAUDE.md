@@ -80,6 +80,11 @@ Tables:
 - `artist_similarity` - Pre-computed audio similarity scores (artist_slug, similar_slug, score)
 - `artist_relationships` - Normalized artist connections (source_slug, target_slug, relationship_type). Replaces JSON-based `musical_connections` for queries. Types: collaborator, influenced, mentor, member, associated, former_member
 - `artist_graph_stats` - Pre-computed graph centrality metrics (slug, degree, in_degree, out_degree, betweenness, clustering)
+- `artist_locations` - Geocoded artist locations (slug PK, raw_location, city, region, country, lat, lng, geocode_source). Indexes on city, country, coordinates.
+- `wwoz_genre_weekly` - Weekly genre play counts for heatmap (week_start, genre, play_count, unique_artists)
+- `wwoz_host_profiles` - Host statistics (host, total_shows, total_tracks, date range, top genres/artists JSON)
+- `wwoz_artist_cooccurrence` - Artist co-occurrence in same show (artist1, artist2, cooccurrence_count)
+- `wwoz_artist_first_seen` - Artist discovery velocity (artist_name, first_date, first_show, first_host, play_count)
 
 ## Data Flow Architecture
 
@@ -330,16 +335,18 @@ adapter: isDocker ? node({ mode: 'standalone' }) : cloudflare({...})
 ```
 
 Key routes:
-- `/` - Home page with recent artists
-- `/artists` - Artist listing with search
+- `/` - Home page with recent artists (portrait thumbnails, carousel sections for WWOZ Recent Days and Random Artists)
+- `/artists` - Artist listing with search + decade filter pills above A-Z nav (`?decade=1940s&letter=D`)
 - `/artists/[slug]` - Individual artist page (includes Audio DNA radar chart + Sounds Like)
 - `/compare` - Side-by-side artist comparison (`/compare?a=slug1&b=slug2`)
 - `/connect` - Degrees of separation path finder (`/connect?a=slug1&b=slug2`)
+- `/map` - Interactive world map of artist origins (Leaflet + MarkerCluster, genre/decade filters, 4,000+ artists)
+- `/timeline` - Canvas-based horizontal timeline of artists by birth decade with era bands
 - `/wwoz` - WWOZ daily archive index
 - `/wwoz/[date]` - Individual day's track log
-- `/wwoz/insights` - Archive statistics dashboard
+- `/wwoz/insights` - WWOZ Intelligence Dashboard (three tabs: Overview, Trends, Hosts — genre heatmap, host profiles, discovery velocity)
 - `/playlists` - Spotify playlists (live, archives, Max Trax)
-- `/api/*` - API endpoints
+- `/api/*` - API endpoints (includes `/api/search/suggest` for unified search across artists, tracks, hosts, locations)
 
 ## Favicon & Open Graph (Link Previews)
 
@@ -452,6 +459,11 @@ Volumes:
 | `compute-audio-similarity.ts` | Pre-compute audio similarity scores | Prebuild + Manual |
 | `populate-artist-relationships.ts` | Normalize connections JSON into relational table | Prebuild + Manual |
 | `compute-graph-analytics.ts` | Compute graph centrality (degree, betweenness) | Prebuild + Manual |
+| `build-connections-static.ts` | Generate connections-index.json from `artist_relationships` table | Prebuild |
+| `build-graph-layout.ts` | Compute graph layout positions | Prebuild |
+| `geocode-artists.ts` | Geocode artist locations via Nominatim (cache + overrides) | Prebuild + Manual (`--fetch`) |
+| `build-timeline-data.ts` | Generate timeline-data.json from birth dates | Prebuild |
+| `compute-wwoz-intelligence.ts` | Aggregate WWOZ stats (genre weekly, host profiles, discovery) | Prebuild + Manual |
 
 ## Audio DNA & Artist Comparison
 
@@ -513,7 +525,7 @@ Artist relationships are stored in the normalized `artist_relationships` table (
 
 **Prebuild chain order** (`apps/web/package.json`):
 ```
-populate-artist-relationships → build-connections-static → build-graph-layout → compute-audio-similarity → compute-graph-analytics → compute-wwoz-intelligence
+populate-artist-relationships → build-connections-static → build-graph-layout → geocode-artists → build-timeline-data → compute-audio-similarity → compute-graph-analytics → compute-wwoz-intelligence
 ```
 
 **Regenerate graph data:**
@@ -528,6 +540,70 @@ pnpm build:graph-stats                               # Recompute centrality metr
 - `connections-index.json` (~1.2MB) is still generated at build time and consumed by artist pages for wiki-link resolution and connection display. Future work: replace with DB queries + lightweight `artist-slugs.json`.
 - Path-finding uses TypeScript BFS (not SQL recursive CTEs) to avoid D1 row limits and get deterministic performance.
 - The `artist_graph_stats` table must be recomputed when relationships change significantly. It runs in prebuild automatically.
+
+## Geographic Map & Timeline
+
+### Map Page (`/map`)
+
+Interactive Leaflet world map showing artist birth/origin locations. Uses CDN-loaded Leaflet + MarkerCluster with CartoDB DarkMatter tiles. Data is pre-computed at build time (not SSR queries).
+
+**Data pipeline:**
+1. `geocode-artists.ts` reads `birth_place`/`origin` from artists table
+2. Normalizes location strings (state abbreviations, city aliases, country synonyms, parenthetical stripping)
+3. Geocodes via Nominatim API (rate-limited 1/sec) with persistent cache (`geocode-cache.json`, 1,600+ entries)
+4. Manual overrides in `geocode-overrides.json` bypass normalization for edge cases
+5. Writes to `artist_locations` table (4,000+ rows) and generates `map-data.json` (~815KB)
+6. Map page imports `map-data.json` statically and embeds as JSON in client-side script
+
+**Key files:**
+- `apps/web/scripts/geocode-artists.ts` — Full pipeline (normalization, Nominatim fetch, SQL export)
+- `apps/web/src/pages/map.astro` — Leaflet map with genre/decade filters, marker popups with portraits
+- `apps/web/src/data/geocode-cache.json` — Nominatim response cache (committed so CI doesn't need API)
+- `apps/web/src/data/geocode-overrides.json` — Manual location corrections
+- `apps/web/migrations/0014_artist_locations.sql` — Location table + indexes
+
+**Geocode script flags:**
+- No flags: Cache-only mode (prebuild), generates map-data.json from existing cache + DB
+- `--fetch`: Calls Nominatim for uncached locations (manual use, rate-limited)
+- `--export-sql`: Exports INSERT statements for D1 sync
+
+**Portrait URLs:** Map popups use `getPortraitBaseUrl()` via `define:vars` for Docker/Cloudflare portability.
+
+### Timeline Page (`/timeline`)
+
+Canvas-based horizontal timeline showing artists by birth decade. Client-side rendering with decade filter pills and jazz era background bands (Ragtime, Swing, Bebop, etc.).
+
+**Data pipeline:**
+1. `build-timeline-data.ts` reads artists with `birth_date` from SQLite (~36% of all artists)
+2. Generates `timeline-data.json` (~370KB) with slug, title, birthYear, deathYear, genres, decadeId
+3. Timeline page imports JSON statically and renders on HTML Canvas
+
+**Key files:**
+- `apps/web/scripts/build-timeline-data.ts` — Data generation
+- `apps/web/src/pages/timeline.astro` — Canvas timeline with decade pills, hover tooltips, click navigation
+- `apps/web/src/data/decade-definitions.ts` — Shared decade/era definitions (used by map, timeline, and /artists)
+
+### Decade Filter on `/artists`
+
+Decade filter pills appear above the A-Z letter nav. Queries use `SUBSTR(birth_date,1,4)` with `CAST` — standard SQL compatible with both SQLite and D1. Supports combined filtering: `?decade=1940s&letter=D`.
+
+## WWOZ Intelligence Dashboard
+
+The `/wwoz/insights` page provides three-tab analytics: Overview (summary stats), Trends (genre heatmap by week), and Hosts (profile cards with top genres/artists and expandable details). Also tracks discovery velocity (new artists appearing on WWOZ over time).
+
+**Data pipeline:**
+1. `compute-wwoz-intelligence.ts` aggregates from `wwoz_tracks` table
+2. Populates four tables: `wwoz_genre_weekly`, `wwoz_host_profiles`, `wwoz_artist_cooccurrence`, `wwoz_artist_first_seen`
+3. Runs in prebuild automatically
+
+**Key files:**
+- `apps/web/scripts/compute-wwoz-intelligence.ts` — Aggregation script
+- `apps/web/src/pages/wwoz/insights.astro` — Dashboard page
+- `apps/web/migrations/0010_wwoz_intelligence.sql` — Four analytics tables
+
+## Unified Search
+
+Search suggestions (`/api/search/suggest`) surface results across artists, tracks, hosts, and locations — not just artist names. Enhanced with additional indexes via migration `0011_unified_search_indexes.sql`.
 
 ## Common Tasks
 
