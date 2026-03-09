@@ -398,10 +398,11 @@ OG tags enable rich link previews in iMessage, Slack, Twitter, Facebook, etc.
 For most frontend work (HTML, CSS, components, pages that read from SQLite), use the local Astro dev server:
 
 ```bash
-cd apps/web && DEPLOY_TARGET=docker DATABASE_PATH=../../data/jazzapedia.db pnpm dev
+pnpm web          # Start dev server on port 4321
+pnpm web:stop     # Stop server on port 4321 (even if you lost the terminal)
 ```
 
-The env vars are required — without `DEPLOY_TARGET=docker`, Astro uses the Cloudflare adapter which connects to D1's local emulation (an empty database), not your real SQLite. `DATABASE_PATH` points to the actual local database with all artist and WWOZ data.
+These scripts (defined in root `package.json`) set the required env vars automatically (`DEPLOY_TARGET=docker`, `DATABASE_PATH`). Without these, Astro uses the Cloudflare adapter which connects to D1's local emulation (an empty database), not your real SQLite.
 
 Portraits are served locally via a symlink: `apps/web/public/portraits` → `../../../portraits`. This symlink is gitignored. If missing, recreate with:
 

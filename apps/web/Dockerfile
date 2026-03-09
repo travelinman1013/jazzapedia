@@ -26,6 +26,10 @@ COPY apps/web/ ./apps/web/
 # Install all dependencies
 RUN pnpm install --frozen-lockfile
 
+# Replace broken portraits symlink with empty dir (symlink target doesn't exist
+# in container; portraits are served from R2 in production, not local files)
+RUN rm -f /app/apps/web/public/portraits && mkdir -p /app/apps/web/public/portraits
+
 # Build packages first, then web app
 # Pass DEPLOY_TARGET as build arg to ensure Node adapter is used
 RUN DEPLOY_TARGET=docker pnpm turbo build --filter=@jazzapedia/web --force

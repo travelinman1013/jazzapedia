@@ -9,7 +9,9 @@
     "lint": "turbo run lint",
     "type-check": "turbo run type-check",
     "test": "turbo run test",
-    "clean": "turbo run clean && rm -rf node_modules"
+    "clean": "turbo run clean && rm -rf node_modules",
+    "web": "cd apps/web && DEPLOY_TARGET=docker DATABASE_PATH=../../data/jazzapedia.db pnpm dev --port 4321",
+    "web:stop": "lsof -ti:4321 | xargs kill 2>/dev/null && echo 'Stopped server on 4321' || echo 'Nothing running on 4321'"
   },
   "devDependencies": {
     "turbo": "^2.3.0",
