@@ -700,14 +700,18 @@
         this.noResults.style.display = 'none';
         this.loading.style.display = 'none';
 
+        const iconMap: Record<string, string> = {
+          artist: '&#9835;', track: '&#127925;', genre: '&#127926;',
+          instrument: '&#127928;', host: '&#127908;', location: '&#128205;',
+        };
+
         let html = '<div class="palette-section-title">Suggestions</div>';
         html += suggestions.map((s: any) => {
-          const icon = s.type === 'genre' ? '&#127926;' :
-                       s.type === 'instrument' ? '&#127928;' : '&#9835;';
-          const href = s.type === 'genre' ? `/genres/${s.slug}` :
+          const icon = iconMap[s.type] || '&#9835;';
+          const href = s.url || (s.type === 'genre' ? `/genres/${s.slug}` :
                        s.type === 'instrument' ? `/instruments/${s.slug}` :
-                       `/artists/${s.slug}`;
-          const meta = s.type !== 'artist' ? `<span class="palette-item-meta">${s.type}</span>` : '';
+                       `/artists/${s.slug}`);
+          const meta = s.type !== 'artist' ? `<span class="palette-item-meta">${s.subtitle || s.type}</span>` : '';
 
           return `
             <a href="${href}" class="palette-item" data-palette-item>
