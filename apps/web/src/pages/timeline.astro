@@ -1,0 +1,405 @@
+---
+/**
+ * Artist Timeline
+ * Interactive horizontal timeline showing artists by birth year.
+ * Client-rendered Canvas for performance (1,900+ artist circles).
+ */
+import Layout from '../layouts/Layout.astro';
+import { DECADES, JAZZ_ERAS } from '../data/decade-definitions';
+
+// Load pre-computed timeline data
+let timelineData: any[] = [];
+try {
+  const raw = await import('../data/timeline-data.json');
+  timelineData = raw.default || raw;
+} catch {
+  // timeline-data.json not generated yet
+}
+
+const totalArtists = timelineData.length;
+
+// Count by decade
+const decadeCounts: Record<string, number> = {};
+for (const a of timelineData) {
+  decadeCounts[a.decadeId] = (decadeCounts[a.decadeId] || 0) + 1;
+}
+
+Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
+---
+
+<Layout title="Timeline — Jazzapedia" ogImage="/og-default.png">
+  <div class="timeline-page">
+    <header class="timeline-header">
+      <h1 class="font-display text-2xl text-wiki-text">Artist Timeline</h1>
+      <p class="text-wiki-text-muted text-sm mt-1">
+        Showing {totalArtists.toLocaleString()} artists with known birth years
+      </p>
+    </header>
+
+    <!-- Decade filter pills -->
+    <div class="decade-pills">
+      <button class="decade-pill active" data-decade="all">
+        All <span class="pill-count">{totalArtists}</span>
+      </button>
+      {DECADES.map(d => (
+        <button class="decade-pill" data-decade={d.id}>
+          {d.label} <span class="pill-count">{decadeCounts[d.id] || 0}</span>
+        </button>
+      ))}
+    </div>
+
+    <!-- Jazz era legend -->
+    <div class="era-legend">
+      {JAZZ_ERAS.map(era => (
+        <span class="era-badge" style={`border-color: ${era.color}`}>
+          {era.label} ({era.yearRange[0]}–{era.yearRange[1]})
+        </span>
+      ))}
+    </div>
+
+    <!-- Timeline Canvas Container -->
+    <div class="timeline-container" id="timeline-container">
+      <canvas id="timeline-canvas"></canvas>
+      <!-- Tooltip -->
+      <div id="timeline-tooltip" class="timeline-tooltip hidden"></div>
+    </div>
+
+    <p class="text-wiki-text-muted text-xs mt-2 text-center px-4 pb-4">
+      Scroll horizontally to explore. Hover over circles for artist details. Click to visit artist page.
+    </p>
+  </div>
+
+  <script is:inline define:vars={{ artistsJson: JSON.stringify(timelineData), jazzErasJson: JSON.stringify(JAZZ_ERAS) }}>
+    (function() {
+      const artists = JSON.parse(artistsJson);
+      const jazzEras = JSON.parse(jazzErasJson);
+      if (!artists.length) return;
+
+      const canvas = document.getElementById('timeline-canvas');
+      const container = document.getElementById('timeline-container');
+      const tooltip = document.getElementById('timeline-tooltip');
+      const ctx = canvas.getContext('2d');
+
+      // Layout constants
+      const YEAR_WIDTH = 18;
+      const DOT_RADIUS = 4;
+      const DOT_SPACING = 11;
+      const HEADER_HEIGHT = 50;
+      const ERA_BAND_HEIGHT = 24;
+      const TOP_MARGIN = HEADER_HEIGHT + ERA_BAND_HEIGHT + 10;
+      const BOTTOM_PADDING = 40;
+
+      // Determine year range
+      const minYear = Math.min(...artists.map(a => a.birthYear));
+      const maxYear = Math.max(...artists.map(a => a.birthYear));
+      const yearRange = maxYear - minYear + 1;
+
+      // Decade colors
+      const DECADE_COLORS = {
+        'pre-1920': '#8B6914',
+        '1920s': '#B8860B',
+        '1930s': '#D4A017',
+        '1940s': '#DAA520',
+        '1950s': '#C5A55A',
+        '1960s': '#E6BE8A',
+        '1970s': '#5EAEB1',
+        '1980s+': '#4A9DA0',
+      };
+
+      // Group artists by birth year
+      const byYear = {};
+      for (const a of artists) {
+        if (!byYear[a.birthYear]) byYear[a.birthYear] = [];
+        byYear[a.birthYear].push(a);
+      }
+
+      // Calculate max stack height
+      let maxStack = 0;
+      for (const year in byYear) {
+        maxStack = Math.max(maxStack, byYear[year].length);
+      }
+
+      // Canvas dimensions
+      const canvasWidth = yearRange * YEAR_WIDTH + 100;
+      const canvasHeight = TOP_MARGIN + maxStack * DOT_SPACING + BOTTOM_PADDING;
+
+      // Set canvas size with device pixel ratio
+      const dpr = window.devicePixelRatio || 1;
+      canvas.width = canvasWidth * dpr;
+      canvas.height = canvasHeight * dpr;
+      canvas.style.width = canvasWidth + 'px';
+      canvas.style.height = canvasHeight + 'px';
+      ctx.scale(dpr, dpr);
+
+      // Track dot positions for hit testing
+      const dotPositions = [];
+
+      // Active decade filter
+      let activeDecade = 'all';
+
+      function draw() {
+        ctx.clearRect(0, 0, canvasWidth, canvasHeight);
+        dotPositions.length = 0;
+
+        // Draw jazz era background bands
+        for (const era of jazzEras) {
+          const x1 = (era.yearRange[0] - minYear) * YEAR_WIDTH + 50;
+          const x2 = (era.yearRange[1] - minYear) * YEAR_WIDTH + 50;
+          ctx.fillStyle = era.color + '15'; // Very low opacity
+          ctx.fillRect(x1, HEADER_HEIGHT, x2 - x1, ERA_BAND_HEIGHT);
+          // Era label
+          ctx.fillStyle = era.color + '80';
+          ctx.font = '9px Inter, sans-serif';
+          ctx.textAlign = 'center';
+          const labelX = (x1 + x2) / 2;
+          ctx.fillText(era.label, labelX, HEADER_HEIGHT + ERA_BAND_HEIGHT / 2 + 3);
+        }
+
+        // Draw decade markers and year grid
+        for (let year = minYear; year <= maxYear; year++) {
+          const x = (year - minYear) * YEAR_WIDTH + 50;
+          const isDecadeStart = year % 10 === 0;
+
+          if (isDecadeStart) {
+            // Decade line
+            ctx.strokeStyle = '#374151';
+            ctx.lineWidth = 1;
+            ctx.beginPath();
+            ctx.moveTo(x, HEADER_HEIGHT);
+            ctx.lineTo(x, canvasHeight - BOTTOM_PADDING);
+            ctx.stroke();
+
+            // Decade label
+            ctx.fillStyle = '#9ca3af';
+            ctx.font = 'bold 11px Inter, sans-serif';
+            ctx.textAlign = 'center';
+            ctx.fillText(year.toString(), x, HEADER_HEIGHT - 8);
+          } else if (year % 5 === 0) {
+            // Mid-decade tick
+            ctx.strokeStyle = '#2a3040';
+            ctx.lineWidth = 0.5;
+            ctx.beginPath();
+            ctx.moveTo(x, TOP_MARGIN);
+            ctx.lineTo(x, canvasHeight - BOTTOM_PADDING);
+            ctx.stroke();
+          }
+        }
+
+        // Draw artist dots
+        for (let year = minYear; year <= maxYear; year++) {
+          const yearArtists = byYear[year];
+          if (!yearArtists) continue;
+
+          const x = (year - minYear) * YEAR_WIDTH + 50;
+
+          // Filter by decade if active
+          const filtered = activeDecade === 'all'
+            ? yearArtists
+            : yearArtists.filter(a => a.decadeId === activeDecade);
+
+          for (let i = 0; i < filtered.length; i++) {
+            const a = filtered[i];
+            const y = TOP_MARGIN + i * DOT_SPACING;
+            const color = DECADE_COLORS[a.decadeId] || '#d4a017';
+
+            // Draw career span line
+            if (a.deathYear || !a.isActive) {
+              const endYear = a.deathYear || Math.min(a.birthYear + 70, 2026);
+              const endX = (endYear - minYear) * YEAR_WIDTH + 50;
+              ctx.strokeStyle = color + '30';
+              ctx.lineWidth = 2;
+              ctx.beginPath();
+              ctx.moveTo(x, y);
+              ctx.lineTo(endX, y);
+              ctx.stroke();
+            }
+
+            // Draw dot
+            ctx.beginPath();
+            ctx.arc(x, y, DOT_RADIUS, 0, Math.PI * 2);
+            ctx.fillStyle = color;
+            ctx.fill();
+            ctx.strokeStyle = '#1a1f2e';
+            ctx.lineWidth = 1;
+            ctx.stroke();
+
+            dotPositions.push({ x, y, artist: a });
+          }
+        }
+      }
+
+      draw();
+
+      // ─── Interactivity ────────────────────────────────────
+      let hoveredDot = null;
+
+      function findDot(px, py) {
+        // Account for scroll position
+        const rect = canvas.getBoundingClientRect();
+        const cx = px - rect.left + container.scrollLeft;
+        const cy = py - rect.top + container.scrollTop;
+
+        for (const dot of dotPositions) {
+          const dx = dot.x - cx;
+          const dy = dot.y - cy;
+          if (dx * dx + dy * dy <= (DOT_RADIUS + 3) * (DOT_RADIUS + 3)) {
+            return dot;
+          }
+        }
+        return null;
+      }
+
+      canvas.addEventListener('mousemove', function(e) {
+        const dot = findDot(e.clientX, e.clientY);
+        if (dot) {
+          canvas.style.cursor = 'pointer';
+          const a = dot.artist;
+          const years = a.deathYear
+            ? a.birthYear + '–' + a.deathYear
+            : a.birthYear + '–present';
+          tooltip.innerHTML = '<strong>' + a.title + '</strong><br/>' +
+            '<span class="tt-years">' + years + '</span>' +
+            (a.genres ? '<br/><span class="tt-genres">' + a.genres + '</span>' : '');
+          tooltip.classList.remove('hidden');
+
+          // Position tooltip near the dot
+          const rect = canvas.getBoundingClientRect();
+          const tx = dot.x - container.scrollLeft + rect.left - container.getBoundingClientRect().left;
+          const ty = dot.y - container.scrollTop + 20;
+          tooltip.style.left = tx + 'px';
+          tooltip.style.top = ty + 'px';
+          hoveredDot = dot;
+        } else {
+          canvas.style.cursor = 'default';
+          tooltip.classList.add('hidden');
+          hoveredDot = null;
+        }
+      });
+
+      canvas.addEventListener('click', function(e) {
+        const dot = findDot(e.clientX, e.clientY);
+        if (dot) {
+          window.location.href = '/artists/' + dot.artist.slug;
+        }
+      });
+
+      canvas.addEventListener('mouseleave', function() {
+        tooltip.classList.add('hidden');
+        hoveredDot = null;
+      });
+
+      // ─── Decade filter pills ──────────────────────────────
+      document.querySelectorAll('.decade-pill').forEach(function(pill) {
+        pill.addEventListener('click', function() {
+          document.querySelectorAll('.decade-pill').forEach(p => p.classList.remove('active'));
+          pill.classList.add('active');
+          activeDecade = pill.dataset.decade;
+          draw();
+        });
+      });
+    })();
+  </script>
+</Layout>
+
+<style>
+  .timeline-page {
+    margin: -1.5rem;
+  }
+
+  .timeline-header {
+    padding: 1.5rem 1.5rem 0;
+  }
+
+  .decade-pills {
+    display: flex;
+    gap: 0.375rem;
+    padding: 0.75rem 1.5rem;
+    flex-wrap: wrap;
+  }
+
+  .decade-pill {
+    background: var(--wiki-bg-alt, #1a1f2e);
+    color: var(--wiki-text-muted, #9ca3af);
+    border: 1px solid var(--wiki-border, #374151);
+    border-radius: 9999px;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.75rem;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    white-space: nowrap;
+  }
+
+  .decade-pill:hover {
+    border-color: var(--jazz-amber, #d4a017);
+    color: var(--wiki-text, #e5e7eb);
+  }
+
+  .decade-pill.active {
+    background: rgba(212, 160, 23, 0.15);
+    border-color: var(--jazz-amber, #d4a017);
+    color: var(--jazz-amber, #d4a017);
+  }
+
+  .pill-count {
+    opacity: 0.6;
+    font-size: 0.6875rem;
+  }
+
+  .era-legend {
+    display: flex;
+    gap: 0.5rem;
+    padding: 0 1.5rem 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .era-badge {
+    font-size: 0.625rem;
+    color: var(--wiki-text-muted, #9ca3af);
+    border-left: 3px solid;
+    padding-left: 0.375rem;
+    opacity: 0.7;
+  }
+
+  .timeline-container {
+    position: relative;
+    overflow-x: auto;
+    overflow-y: auto;
+    max-height: 70vh;
+    border-top: 1px solid var(--wiki-border, #374151);
+    border-bottom: 1px solid var(--wiki-border, #374151);
+    background: var(--wiki-bg-alt, #141821);
+  }
+
+  .timeline-container canvas {
+    display: block;
+  }
+
+  .timeline-tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: var(--wiki-bg-content, #242b3d);
+    border: 1px solid var(--wiki-border, #374151);
+    border-radius: 0.375rem;
+    padding: 0.375rem 0.625rem;
+    font-size: 0.75rem;
+    color: var(--wiki-text, #e5e7eb);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    z-index: 100;
+    white-space: nowrap;
+    max-width: 250px;
+  }
+
+  .timeline-tooltip.hidden {
+    display: none;
+  }
+
+  :global(.tt-years) {
+    color: var(--jazz-amber, #d4a017);
+    font-size: 0.6875rem;
+  }
+
+  :global(.tt-genres) {
+    color: var(--wiki-text-muted, #9ca3af);
+    font-size: 0.625rem;
+  }
+</style>

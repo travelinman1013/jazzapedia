@@ -6,6 +6,7 @@
  */
 import Layout from '../../layouts/Layout.astro';
 import { getDatabase } from '../../lib/db';
+import { DECADES } from '../../data/decade-definitions';
 
 // Get database adapter (works with both D1 and SQLite)
 const db = await getDatabase(Astro.locals);
@@ -15,6 +16,10 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-r
 
 // Get current letter from query param (default to 'A')
 const currentLetter = (Astro.url.searchParams.get('letter') || 'A').toUpperCase();
+const currentDecade = Astro.url.searchParams.get('decade') || '';
+
+// Find the decade range if filtering
+const decadeDef = currentDecade ? DECADES.find(d => d.id === currentDecade) : null;
 
 interface Artist {
   slug: string;
@@ -28,8 +33,14 @@ interface LetterCount {
   count: number;
 }
 
+interface DecadeCount {
+  decade_id: string;
+  count: number;
+}
+
 let artists: Artist[] = [];
 let letterCounts: Map<string, number> = new Map();
+let decadeCounts: Map<string, number> = new Map();
 let totalArtists = 0;
 let errorMessage = '';
 
@@ -37,30 +48,85 @@ const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
 if (db) {
   try {
-    // Run queries in parallel
-    const [letterCountsResult, artistsResult, totalResult] = await Promise.all([
-      // Get counts per letter for navigation
-      db.prepare(`
-        SELECT UPPER(SUBSTR(title, 1, 1)) as letter, COUNT(*) as count
+    // Build decade count query
+    const decadeCountCases = DECADES.map(d =>
+      `SUM(CASE WHEN CAST(SUBSTR(birth_date,1,4) AS INTEGER) BETWEEN ${d.range[0]} AND ${d.range[1]} THEN 1 ELSE 0 END) as "${d.id}"`
+    ).join(', ');
+
+    // Build artist query with optional decade filter
+    let artistQuery: string;
+    let artistBindings: any[];
+    if (decadeDef) {
+      artistQuery = `
+        SELECT slug, title, genres, artist_type
         FROM artists
-        GROUP BY UPPER(SUBSTR(title, 1, 1))
-        ORDER BY letter
-      `).all(),
-      // Get artists for current letter
-      db.prepare(`
+        WHERE title LIKE ?
+          AND birth_date IS NOT NULL AND birth_date <> ''
+          AND CAST(SUBSTR(birth_date,1,4) AS INTEGER) BETWEEN ? AND ?
+        ORDER BY title
+      `;
+      artistBindings = [currentLetter + '%', decadeDef.range[0], decadeDef.range[1]];
+    } else {
+      artistQuery = `
         SELECT slug, title, genres, artist_type
         FROM artists
         WHERE title LIKE ?
         ORDER BY title
-      `).bind(currentLetter + '%').all(),
-      // Get total count
+      `;
+      artistBindings = [currentLetter + '%'];
+    }
+
+    // Build letter count query (with same decade filter if active)
+    let letterCountQuery: string;
+    let letterCountBindings: any[];
+    if (decadeDef) {
+      letterCountQuery = `
+        SELECT UPPER(SUBSTR(title, 1, 1)) as letter, COUNT(*) as count
+        FROM artists
+        WHERE birth_date IS NOT NULL AND birth_date <> ''
+          AND CAST(SUBSTR(birth_date,1,4) AS INTEGER) BETWEEN ? AND ?
+        GROUP BY UPPER(SUBSTR(title, 1, 1))
+        ORDER BY letter
+      `;
+      letterCountBindings = [decadeDef.range[0], decadeDef.range[1]];
+    } else {
+      letterCountQuery = `
+        SELECT UPPER(SUBSTR(title, 1, 1)) as letter, COUNT(*) as count
+        FROM artists
+        GROUP BY UPPER(SUBSTR(title, 1, 1))
+        ORDER BY letter
+      `;
+      letterCountBindings = [];
+    }
+
+    // Run queries in parallel
+    const [letterCountsResult, artistsResult, totalResult, decadeCountResult] = await Promise.all([
+      letterCountBindings.length
+        ? db.prepare(letterCountQuery).bind(...letterCountBindings).all()
+        : db.prepare(letterCountQuery).all(),
+      artistBindings.length === 3
+        ? db.prepare(artistQuery).bind(artistBindings[0], artistBindings[1], artistBindings[2]).all()
+        : db.prepare(artistQuery).bind(artistBindings[0]).all(),
       db.prepare('SELECT COUNT(*) as count FROM artists').first(),
+      db.prepare(`
+        SELECT ${decadeCountCases}
+        FROM artists
+        WHERE birth_date IS NOT NULL AND birth_date <> ''
+      `).first(),
     ]);
 
     // Build letter counts map
     (letterCountsResult.results as LetterCount[]).forEach(row => {
       letterCounts.set(row.letter, row.count);
     });
+
+    // Build decade counts map
+    if (decadeCountResult) {
+      for (const d of DECADES) {
+        const count = (decadeCountResult as any)[d.id] || 0;
+        decadeCounts.set(d.id, count);
+      }
+    }
 
     artists = artistsResult.results as Artist[];
     totalArtists = (totalResult as { count: number })?.count || 0;
@@ -71,6 +137,8 @@ if (db) {
 } else {
   errorMessage = 'Database not available.';
 }
+
+const totalWithBirthDate = Array.from(decadeCounts.values()).reduce((a, b) => a + b, 0);
 
 // Helper functions
 function parseJson(json: string | null, fallback: any): any {
@@ -103,7 +171,11 @@ const hasNonAlpha = Array.from(letterCounts.keys()).some(k => !alphabet.includes
         <h1 class="index-title">All Artists</h1>
       </div>
       <p class="index-subtitle">
-        Browse all <strong class="text-jazz-amber">{formatNumber(totalArtists)}</strong> artists alphabetically
+        {decadeDef ? (
+          <>Showing <strong class="text-jazz-amber">{formatNumber(totalWithBirthDate)}</strong> artists with known birth years &mdash; filtered to <strong class="text-jazz-amber">{decadeDef.label}</strong></>
+        ) : (
+          <>Browse all <strong class="text-jazz-amber">{formatNumber(totalArtists)}</strong> artists alphabetically</>
+        )}
       </p>
     </header>
 
@@ -129,6 +201,24 @@ const hasNonAlpha = Array.from(letterCounts.keys()).some(k => !alphabet.includes
           </div>
         </div>
 
+        <!-- Decade Filter -->
+        <div class="decade-filter">
+          <a
+            href={`?letter=${currentLetter}`}
+            class:list={["decade-pill", { active: !currentDecade }]}
+          >
+            All Eras <span class="pill-count">{formatNumber(totalArtists)}</span>
+          </a>
+          {DECADES.map(d => (
+            <a
+              href={`?decade=${d.id}&letter=${currentLetter}`}
+              class:list={["decade-pill", { active: currentDecade === d.id }]}
+            >
+              {d.label} <span class="pill-count">{decadeCounts.get(d.id) || 0}</span>
+            </a>
+          ))}
+        </div>
+
         <!-- A-Z Navigation -->
         <nav class="letter-nav" id="letter-nav">
           <div class="letter-nav-inner">
@@ -144,9 +234,10 @@ const hasNonAlpha = Array.from(letterCounts.keys()).some(k => !alphabet.includes
             )}
             {alphabet.map(letter => {
               const count = letterCounts.get(letter) || 0;
+              const letterHref = currentDecade ? `?decade=${currentDecade}&letter=${letter}` : `?letter=${letter}`;
               return count > 0 ? (
                 <a
-                  href={`?letter=${letter}`}
+                  href={letterHref}
                   class:list={["letter-link", { "is-active": currentLetter === letter }]}
                   data-letter={letter}
                 >
@@ -244,6 +335,44 @@ const hasNonAlpha = Array.from(letterCounts.keys()).some(k => !alphabet.includes
   .index-subtitle {
     color: var(--color-text-secondary);
     margin: 0;
+  }
+
+  /* ============================================
+     Decade Filter
+     ============================================ */
+  .decade-filter {
+    display: flex;
+    gap: 0.375rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .decade-pill {
+    background: var(--color-bg);
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-border);
+    border-radius: 9999px;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.75rem;
+    text-decoration: none;
+    transition: all var(--duration-fast) var(--ease-smooth);
+    white-space: nowrap;
+  }
+
+  .decade-pill:hover {
+    border-color: var(--jazz-amber);
+    color: var(--color-text);
+  }
+
+  .decade-pill.active {
+    background: rgba(212, 160, 23, 0.15);
+    border-color: var(--jazz-amber);
+    color: var(--jazz-amber);
+  }
+
+  .pill-count {
+    opacity: 0.6;
+    font-size: 0.6875rem;
   }
 
   /* ============================================
@@ -653,7 +782,9 @@ const hasNonAlpha = Array.from(letterCounts.keys()).some(k => !alphabet.includes
       // Letter keys to navigate to that letter
       if (/^[A-Z]$/.test(key)) {
         e.preventDefault();
-        window.location.href = `?letter=${key}`;
+        const params = new URLSearchParams(window.location.search);
+        params.set('letter', key);
+        window.location.href = '?' + params.toString();
       }
     });
 

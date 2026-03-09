@@ -414,3 +414,50 @@ export async function getAllRelationshipEdges(
   return results;
 }
 
+// ─── Artist Locations ──────────────────────────────────────────────────────
+
+export interface ArtistLocationRow {
+  slug: string;
+  title: string;
+  lat: number;
+  lng: number;
+  city: string;
+  country: string;
+  genres: string;
+  image_filename: string | null;
+}
+
+/**
+ * Get all artists with geocoded locations (for map page)
+ */
+export async function getArtistLocations(
+  db: DatabaseAdapter
+): Promise<ArtistLocationRow[]> {
+  const { results } = await db
+    .prepare(`
+      SELECT al.slug, a.title, al.lat, al.lng, al.city, al.country, a.genres, a.image_filename
+      FROM artist_locations al
+      JOIN artists a ON a.slug = al.slug
+      ORDER BY a.title
+    `)
+    .all<ArtistLocationRow>();
+  return results;
+}
+
+/**
+ * Get location statistics (city/country counts)
+ */
+export async function getLocationStats(
+  db: DatabaseAdapter
+): Promise<{ total: number; cities: number; countries: number }> {
+  const row = await db
+    .prepare(`
+      SELECT COUNT(*) as total,
+        COUNT(DISTINCT city || '|' || country) as cities,
+        COUNT(DISTINCT country) as countries
+      FROM artist_locations
+    `)
+    .first<{ total: number; cities: number; countries: number }>();
+  return row || { total: 0, cities: 0, countries: 0 };
+}
+

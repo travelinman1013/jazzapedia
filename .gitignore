@@ -75,5 +75,11 @@ apps/web/scripts/.wwoz-export/.last-export-time
 # Environment backups
 .env.backup*
 
+# Generated data files (rebuilt during prebuild)
+apps/web/src/data/map-data.json
+apps/web/src/data/timeline-data.json
+apps/web/src/data/audio-similarity.json
+apps/web/src/data/connections-index.json
+
 # Temp/utility files
 finish_jpedia_updates
