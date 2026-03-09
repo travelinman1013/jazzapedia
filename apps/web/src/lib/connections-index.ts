@@ -202,8 +202,8 @@ export function getArtistConnections(
 
 /**
  * Database-driven connections query
- * Returns bidirectional connection graph for an artist from live database
- * Optimized for D1 with targeted queries instead of full table scans
+ * Uses normalized artist_relationships table for both forward and reverse lookups.
+ * Works on both D1 and SQLite.
  */
 export async function getArtistConnectionsFromDb(
   db: any,
@@ -222,66 +222,48 @@ export async function getArtistConnectionsFromDb(
   nameToSlug: Record<string, string>;
 }> {
   try {
-    // Query the artist's connections from database
-    const artistRows = await db
-      .prepare('SELECT slug, title, musical_connections FROM artists WHERE slug = ?')
+    // Forward: who does this artist connect to?
+    const forwardRows = await db
+      .prepare(
+        `SELECT r.target_slug as slug, r.relationship_type, a.title
+         FROM artist_relationships r
+         LEFT JOIN artists a ON a.slug = r.target_slug
+         WHERE r.source_slug = ?`
+      )
       .bind(slug)
       .all();
 
-    if (!artistRows.results?.length || !artistRows.results[0].musical_connections) {
-      return {
-        forward: { collaborators: [], influenced: [], mentors: [] },
-        reverse: { collaboratedWith: [], influencedBy: [], mentoredBy: [] },
-        nameToSlug: {},
-      };
-    }
+    // Reverse: who connects to this artist?
+    const reverseRows = await db
+      .prepare(
+        `SELECT r.source_slug as slug, r.relationship_type, a.title
+         FROM artist_relationships r
+         LEFT JOIN artists a ON a.slug = r.source_slug
+         WHERE r.target_slug = ?`
+      )
+      .bind(slug)
+      .all();
 
-    const artist = artistRows.results[0];
-
-    // Parse the JSON connections
-    const connections: MusicalConnections = JSON.parse(artist.musical_connections);
-
-    // Collect all unique artist names mentioned in connections
-    const allNames = new Set<string>([
-      ...(connections.collaborators || []),
-      ...(connections.influenced || []),
-      ...(connections.mentors || []),
-    ]);
-
-    // Query ONLY the artists we need (not all artists)
-    const nameToSlug: Record<string, string> = {};
-
-    if (allNames.size > 0) {
-      // Build SQL with placeholders for each name
-      const names = Array.from(allNames);
-      const placeholders = names.map(() => '?').join(',');
-      const normalizedNames = names.map(n => n.toLowerCase());
-
-      const targetArtistsRows = await db
-        .prepare(`SELECT slug, title FROM artists WHERE LOWER(title) IN (${placeholders})`)
-        .bind(...normalizedNames)
-        .all();
-
-      for (const row of targetArtistsRows.results || []) {
-        nameToSlug[row.title.toLowerCase()] = row.slug;
-        nameToSlug[row.slug] = row.slug;
-      }
-    }
-
-    // Convert names to slugs
     const forward = {
-      collaborators: nameListToSlugs(connections.collaborators || [], nameToSlug),
-      influenced: nameListToSlugs(connections.influenced || [], nameToSlug),
-      mentors: nameListToSlugs(connections.mentors || [], nameToSlug),
+      collaborators: (forwardRows.results || []).filter((r: any) => r.relationship_type === 'collaborator').map((r: any) => r.slug),
+      influenced: (forwardRows.results || []).filter((r: any) => r.relationship_type === 'influenced').map((r: any) => r.slug),
+      mentors: (forwardRows.results || []).filter((r: any) => r.relationship_type === 'mentor').map((r: any) => r.slug),
     };
 
-    // Skip reverse connections on D1 for now (performance issues)
-    // TODO: Implement efficient reverse connections for D1
     const reverse = {
-      collaboratedWith: [],
-      influencedBy: [],
-      mentoredBy: [],
+      collaboratedWith: (reverseRows.results || []).filter((r: any) => r.relationship_type === 'collaborator').map((r: any) => r.slug),
+      influencedBy: (reverseRows.results || []).filter((r: any) => r.relationship_type === 'influenced').map((r: any) => r.slug),
+      mentoredBy: (reverseRows.results || []).filter((r: any) => r.relationship_type === 'mentor').map((r: any) => r.slug),
     };
+
+    // Build nameToSlug from all referenced artists
+    const nameToSlug: Record<string, string> = {};
+    for (const row of [...(forwardRows.results || []), ...(reverseRows.results || [])]) {
+      if (row.title) {
+        nameToSlug[row.title.toLowerCase()] = row.slug;
+      }
+      nameToSlug[row.slug] = row.slug;
+    }
 
     return { forward, reverse, nameToSlug };
   } catch (error) {

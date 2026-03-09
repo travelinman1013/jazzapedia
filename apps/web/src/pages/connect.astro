@@ -1,0 +1,717 @@
+---
+/**
+ * Artist Connection Path Finder
+ * Find the shortest path between two artists through their musical relationships.
+ * URL: /connect?a=slug1&b=slug2
+ */
+import Layout from '../layouts/Layout.astro';
+import { getDatabase, getPortraitUrl, getPortraitBaseUrl } from '../lib/db';
+
+const slugA = Astro.url.searchParams.get('a') || '';
+const slugB = Astro.url.searchParams.get('b') || '';
+const portraitBaseUrl = getPortraitBaseUrl(Astro.locals);
+
+const db = await getDatabase(Astro.locals);
+
+// Load artist details if slugs provided
+interface ArtistBrief {
+  slug: string;
+  title: string;
+  imageUrl?: string;
+  genres: string[];
+}
+
+async function loadArtist(slug: string): Promise<ArtistBrief | null> {
+  if (!slug || !db) return null;
+  const row = await db.prepare(
+    'SELECT slug, title, image_filename, genres FROM artists WHERE slug = ?'
+  ).bind(slug).first<Record<string, unknown>>();
+  if (!row) return null;
+  return {
+    slug: row.slug as string,
+    title: row.title as string,
+    imageUrl: getPortraitUrl(Astro.locals, row.image_filename as string | null),
+    genres: row.genres ? JSON.parse(row.genres as string) : [],
+  };
+}
+
+const artistA = await loadArtist(slugA);
+const artistB = await loadArtist(slugB);
+const hasBoth = artistA && artistB;
+
+// If both artists are provided, find path server-side
+let pathResult: any = null;
+if (hasBoth && db) {
+  try {
+    // Load edges for BFS
+    const { results: edges } = await db
+      .prepare('SELECT source_slug, target_slug, relationship_type FROM artist_relationships')
+      .all<{ source_slug: string; target_slug: string; relationship_type: string }>();
+
+    // Build adjacency list
+    const adj = new Map<string, Array<{ neighbor: string; type: string; direction: string }>>();
+    for (const edge of edges) {
+      if (!adj.has(edge.source_slug)) adj.set(edge.source_slug, []);
+      if (!adj.has(edge.target_slug)) adj.set(edge.target_slug, []);
+      adj.get(edge.source_slug)!.push({ neighbor: edge.target_slug, type: edge.relationship_type, direction: 'forward' });
+      adj.get(edge.target_slug)!.push({ neighbor: edge.source_slug, type: edge.relationship_type, direction: 'reverse' });
+    }
+
+    // BFS
+    const visited = new Set<string>([slugA]);
+    const parent = new Map<string, { slug: string; edgeType: string; direction: string }>();
+    const queue: Array<{ slug: string; depth: number }> = [{ slug: slugA, depth: 0 }];
+    let found = false;
+    const maxDepth = 6;
+
+    while (queue.length > 0) {
+      const { slug, depth } = queue.shift()!;
+      if (depth >= maxDepth) continue;
+      for (const { neighbor, type, direction } of (adj.get(slug) || [])) {
+        if (visited.has(neighbor)) continue;
+        visited.add(neighbor);
+        parent.set(neighbor, { slug, edgeType: type, direction });
+        if (neighbor === slugB) { found = true; break; }
+        queue.push({ slug: neighbor, depth: depth + 1 });
+      }
+      if (found) break;
+    }
+
+    if (found) {
+      const pathSlugs: string[] = [slugB];
+      const pathEdges: Array<{ from: string; to: string; type: string }> = [];
+      let current = slugB;
+      while (current !== slugA) {
+        const prev = parent.get(current)!;
+        pathSlugs.unshift(prev.slug);
+        if (prev.direction === 'forward') {
+          pathEdges.unshift({ from: prev.slug, to: current, type: prev.edgeType });
+        } else {
+          pathEdges.unshift({ from: current, to: prev.slug, type: prev.edgeType });
+        }
+        current = prev.slug;
+      }
+
+      // Fetch details for all path artists
+      const placeholders = pathSlugs.map(() => '?').join(',');
+      const { results: artistRows } = await db
+        .prepare(`SELECT slug, title, image_filename FROM artists WHERE slug IN (${placeholders})`)
+        .bind(...pathSlugs)
+        .all<{ slug: string; title: string; image_filename: string | null }>();
+
+      const artistMap = new Map(artistRows.map((a: any) => [a.slug, a]));
+      pathResult = {
+        path: pathSlugs.map(s => {
+          const a = artistMap.get(s);
+          return { slug: s, title: a?.title || s, image_filename: a?.image_filename || null };
+        }),
+        edges: pathEdges,
+        depth: pathSlugs.length - 1,
+      };
+    } else {
+      pathResult = { path: null, depth: 0, message: `No connection found within ${maxDepth} degrees` };
+    }
+  } catch (e) {
+    console.error('[connect] Path finding error:', e);
+    pathResult = { path: null, depth: 0, message: 'Error finding path' };
+  }
+}
+
+// Forward: "from" did X to "to"
+const FORWARD_LABELS: Record<string, string> = {
+  collaborator: 'collaborated with',
+  influenced: 'influenced',
+  mentor: 'mentored',
+  member: 'member of',
+  associated: 'associated with',
+  former_member: 'former member of',
+};
+
+// Reverse: "to" was X'd by "from" (when displayed from to's perspective)
+const REVERSE_LABELS: Record<string, string> = {
+  collaborator: 'collaborated with',
+  influenced: 'influenced by',
+  mentor: 'mentored by',
+  member: 'had member',
+  associated: 'associated with',
+  former_member: 'had former member',
+};
+
+/**
+ * Get the display label for an edge given the display order.
+ * upperSlug is the node shown above, lowerSlug is below.
+ * edge.from/edge.to reflect the original DB direction (source→target).
+ */
+function getEdgeLabel(edge: { from: string; to: string; type: string }, upperSlug: string): string {
+  if (edge.from === upperSlug) {
+    // Upper node is the source — use forward label
+    return FORWARD_LABELS[edge.type] || edge.type;
+  } else {
+    // Upper node is the target — use reverse label
+    return REVERSE_LABELS[edge.type] || edge.type;
+  }
+}
+
+const pageTitle = hasBoth
+  ? `${artistA.title} to ${artistB.title}`
+  : 'Connect Artists';
+
+Astro.response.headers.set('Cache-Control', 'public, max-age=300, stale-while-revalidate=600');
+---
+
+<Layout title={pageTitle}>
+  <div class="connect-page">
+    <h1 class="connect-title">Connect Artists</h1>
+    <p class="connect-subtitle">Find the musical path between any two artists</p>
+
+    <!-- Artist Pickers -->
+    <div class="pickers-row">
+      <div class="picker-slot">
+        {artistA ? (
+          <div class="selected-artist selected-artist--a">
+            <div class="selected-portrait">
+              {artistA.imageUrl ? (
+                <img src={artistA.imageUrl} alt={artistA.title} class="selected-img" />
+              ) : (
+                <span class="selected-placeholder">&#9835;</span>
+              )}
+            </div>
+            <div class="selected-info">
+              <a href={`/artists/${artistA.slug}`} class="selected-name">{artistA.title}</a>
+              {artistA.genres.slice(0, 2).map(g => <span class="selected-genre">{g}</span>)}
+            </div>
+            <a href={artistB ? `/connect?b=${artistB.slug}` : '/connect'} class="remove-btn" title="Remove">&times;</a>
+          </div>
+        ) : (
+          <div class="artist-picker" data-slot="a" data-other-slug={slugB}>
+            <input type="text" class="picker-input" placeholder="Search for an artist..." autocomplete="off" />
+            <div class="picker-dropdown"></div>
+          </div>
+        )}
+      </div>
+
+      <div class="connect-badge">
+        {hasBoth && pathResult?.path ? (
+          <span class="degree-count">{pathResult.depth}</span>
+        ) : (
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="20" height="20" class="connect-icon">
+            <path d="M13.828 10.172a4 4 0 0 0-5.656 0l-4 4a4 4 0 1 0 5.656 5.656l1.102-1.101" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M10.172 13.828a4 4 0 0 0 5.656 0l4-4a4 4 0 0 0-5.656-5.656l-1.102 1.101" stroke-linecap="round" stroke-linejoin="round" />
+          </svg>
+        )}
+      </div>
+
+      <div class="picker-slot">
+        {artistB ? (
+          <div class="selected-artist selected-artist--b">
+            <div class="selected-portrait">
+              {artistB.imageUrl ? (
+                <img src={artistB.imageUrl} alt={artistB.title} class="selected-img" />
+              ) : (
+                <span class="selected-placeholder">&#9835;</span>
+              )}
+            </div>
+            <div class="selected-info">
+              <a href={`/artists/${artistB.slug}`} class="selected-name">{artistB.title}</a>
+              {artistB.genres.slice(0, 2).map(g => <span class="selected-genre">{g}</span>)}
+            </div>
+            <a href={artistA ? `/connect?a=${artistA.slug}` : '/connect'} class="remove-btn" title="Remove">&times;</a>
+          </div>
+        ) : (
+          <div class="artist-picker" data-slot="b" data-other-slug={slugA}>
+            <input type="text" class="picker-input" placeholder="Search for an artist..." autocomplete="off" />
+            <div class="picker-dropdown"></div>
+          </div>
+        )}
+      </div>
+    </div>
+
+    {/* Path Result */}
+    {hasBoth && pathResult && (
+      <div class="path-result">
+        {pathResult.path ? (
+          <div class="path-found">
+            <h2 class="path-heading">
+              {pathResult.depth === 1
+                ? 'Direct connection'
+                : `${pathResult.depth} degrees of separation`}
+            </h2>
+
+            <div class="path-chain">
+              {pathResult.path.map((node: any, i: number) => (
+                <div class="path-step">
+                  <a href={`/artists/${node.slug}`} class="path-node">
+                    <div class="path-portrait">
+                      {node.image_filename ? (
+                        <img src={`${portraitBaseUrl}/portraits/${node.image_filename}`} alt={node.title} class="path-img" />
+                      ) : (
+                        <span class="path-placeholder">&#9835;</span>
+                      )}
+                    </div>
+                    <span class="path-name">{node.title}</span>
+                  </a>
+                  {i < pathResult.edges.length && (
+                    <div class="path-edge">
+                      <div class="path-line"></div>
+                      <span class="path-label">{getEdgeLabel(pathResult.edges[i], node.slug)}</span>
+                      <div class="path-line"></div>
+                    </div>
+                  )}
+                </div>
+              ))}
+            </div>
+
+            <div class="path-actions">
+              <a href={`/compare?a=${slugA}&b=${slugB}`} class="action-link">Compare Audio DNA</a>
+              <a href={`/connect?a=${slugB}&b=${slugA}`} class="action-link action-link--subtle">Swap direction</a>
+            </div>
+          </div>
+        ) : (
+          <div class="no-path">
+            <p class="no-path-text">{pathResult.message || 'No connection found'}</p>
+            <p class="no-path-hint">These artists may exist in separate clusters of the musical network.</p>
+          </div>
+        )}
+      </div>
+    )}
+
+    {/* Empty state */}
+    {!artistA && !artistB && (
+      <div class="empty-state">
+        <p>Select two artists to discover how they're connected through collaborations, influences, and mentorships.</p>
+      </div>
+    )}
+  </div>
+</Layout>
+
+<script is:inline define:vars={{ slugA: slugA || '', slugB: slugB || '', portraitBaseUrl }}>
+  // Artist picker autocomplete (reused from /compare)
+  document.querySelectorAll('.artist-picker').forEach(function(picker) {
+    var input = picker.querySelector('.picker-input');
+    var dropdown = picker.querySelector('.picker-dropdown');
+    var slot = picker.getAttribute('data-slot');
+    var otherSlug = picker.getAttribute('data-other-slug');
+    var debounceTimer;
+
+    function createOption(artist) {
+      var link = document.createElement('a');
+      link.href = '#';
+      link.className = 'picker-option';
+      link.dataset.slug = artist.slug;
+      link.style.cssText = 'display:flex;align-items:center;gap:0.75rem;padding:0.625rem 0.75rem;text-decoration:none;color:var(--color-text,#ccc);overflow:hidden;cursor:pointer;';
+      link.addEventListener('mouseenter', function() { link.style.background = 'rgba(212,162,84,0.1)'; });
+      link.addEventListener('mouseleave', function() { link.style.background = ''; });
+
+      var thumbStyle = 'width:2rem;height:2rem;min-width:2rem;min-height:2rem;border-radius:50%;object-fit:cover;flex-shrink:0;';
+      if (artist.image_filename) {
+        var img = document.createElement('img');
+        img.src = portraitBaseUrl + '/portraits/' + artist.image_filename;
+        img.alt = '';
+        img.style.cssText = thumbStyle;
+        link.appendChild(img);
+      } else {
+        var placeholder = document.createElement('span');
+        placeholder.textContent = '\u266B';
+        placeholder.style.cssText = thumbStyle + 'display:flex;align-items:center;justify-content:center;font-size:0.75rem;color:#888;background:#2a2a2e;';
+        link.appendChild(placeholder);
+      }
+
+      var nameSpan = document.createElement('span');
+      nameSpan.style.cssText = 'overflow:hidden;text-overflow:ellipsis;white-space:nowrap;';
+      nameSpan.textContent = artist.text;
+      link.appendChild(nameSpan);
+
+      return link;
+    }
+
+    input.addEventListener('input', function() {
+      clearTimeout(debounceTimer);
+      var q = input.value.trim();
+      if (q.length < 1) {
+        dropdown.replaceChildren();
+        dropdown.style.display = 'none';
+        return;
+      }
+      debounceTimer = setTimeout(async function() {
+        try {
+          var res = await fetch('/api/search/suggest?q=' + encodeURIComponent(q));
+          var data = await res.json();
+          var artists = (data.suggestions || []).filter(function(s) { return s.type === 'artist'; });
+          dropdown.replaceChildren();
+          if (artists.length === 0) {
+            var empty = document.createElement('div');
+            empty.style.cssText = 'padding:0.75rem;text-align:center;font-size:0.8rem;color:var(--color-text-muted,#888);';
+            empty.textContent = 'No artists found';
+            dropdown.appendChild(empty);
+          } else {
+            artists.forEach(function(a) { dropdown.appendChild(createOption(a)); });
+          }
+          dropdown.style.display = 'block';
+        } catch (e) {
+          console.error('[connect] Search error:', e);
+        }
+      }, 200);
+    });
+
+    dropdown.addEventListener('click', function(e) {
+      e.preventDefault();
+      var option = e.target.closest('.picker-option');
+      if (!option) return;
+      var artistSlug = option.dataset.slug;
+      var params = new URLSearchParams();
+      if (slot === 'a') {
+        params.set('a', artistSlug);
+        if (otherSlug) params.set('b', otherSlug);
+      } else {
+        if (otherSlug) params.set('a', otherSlug);
+        params.set('b', artistSlug);
+      }
+      window.location.href = '/connect?' + params.toString();
+    });
+
+    document.addEventListener('click', function(e) {
+      if (!picker.contains(e.target)) {
+        dropdown.style.display = 'none';
+      }
+    });
+
+    if (!slugA || !slugB) {
+      input.focus();
+    }
+  });
+</script>
+
+<style>
+  .connect-page {
+    max-width: 48rem;
+    margin: 0 auto;
+  }
+
+  .connect-title {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--color-text-heading);
+    margin: 0 0 0.25rem;
+  }
+
+  .connect-subtitle {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    margin: 0 0 1.5rem;
+  }
+
+  /* Pickers Row (reused from /compare) */
+  .pickers-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .picker-slot { flex: 1; min-width: 0; }
+
+  .connect-badge {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+
+  .connect-icon {
+    color: var(--color-text-muted);
+    opacity: 0.5;
+  }
+
+  .degree-count {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--jazz-amber);
+    line-height: 1;
+  }
+
+  /* Selected Artist Card */
+  .selected-artist {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.625rem;
+    border-radius: var(--radius-lg, 0.5rem);
+    border: 1px solid var(--color-border-light);
+    background: var(--color-bg-card, #fff);
+    position: relative;
+  }
+
+  .selected-artist--a { border-left: 3px solid var(--jazz-amber); }
+  .selected-artist--b { border-left: 3px solid var(--electric-cyan); }
+
+  .selected-portrait {
+    width: 3rem; height: 3rem;
+    border-radius: 50%; overflow: hidden; flex-shrink: 0;
+    background: var(--color-bg-nav);
+    display: flex; align-items: center; justify-content: center;
+  }
+
+  .selected-img { width: 100%; height: 100%; object-fit: cover; }
+  .selected-placeholder { font-size: 1.25rem; color: var(--color-text-muted); opacity: 0.5; }
+
+  .selected-info {
+    flex: 1; min-width: 0;
+    display: flex; flex-direction: column; gap: 0.25rem;
+  }
+
+  .selected-name {
+    font-weight: 600; font-size: 0.875rem;
+    color: var(--color-text-heading);
+    text-decoration: none;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+
+  .selected-name:hover { color: var(--color-link-hover); }
+
+  .selected-genre {
+    display: inline-block; font-size: 0.65rem; color: var(--color-text-muted);
+    padding: 0.05rem 0.3rem; background: var(--color-tag-bg);
+    border-radius: 9999px; margin-right: 0.25rem;
+  }
+
+  .remove-btn {
+    position: absolute; top: 0.25rem; right: 0.5rem;
+    font-size: 1.25rem; color: var(--color-text-muted);
+    text-decoration: none; opacity: 0.5;
+    transition: opacity 0.15s ease; line-height: 1;
+  }
+
+  .remove-btn:hover { opacity: 1; color: var(--electric-magenta, #FF006E); }
+
+  /* Artist Picker */
+  .artist-picker { position: relative; }
+
+  .picker-input {
+    width: 100%; padding: 0.75rem 1rem;
+    font-size: 0.875rem; font-family: inherit;
+    color: var(--color-text);
+    background: var(--color-bg-card, #fff);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-lg, 0.5rem);
+    outline: none; transition: border-color 0.15s ease;
+  }
+
+  .picker-input:focus {
+    border-color: var(--electric-cyan);
+    box-shadow: 0 0 0 2px rgba(0, 217, 255, 0.15);
+  }
+
+  .picker-dropdown {
+    display: none; position: absolute;
+    top: 100%; left: 0; right: 0; z-index: 100;
+    margin-top: 0.25rem;
+    background: var(--color-bg-card, #fff);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg, 0.5rem);
+    box-shadow: var(--shadow-elevated, 0 4px 12px rgba(0,0,0,0.15));
+    max-height: 16rem; overflow-y: auto;
+  }
+
+  /* Path Result */
+  .path-result {
+    margin-top: 0.5rem;
+  }
+
+  .path-found {
+    padding: 1.5rem;
+    background: var(--color-bg-card, #fff);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-lg, 0.5rem);
+  }
+
+  .path-heading {
+    font-family: 'Playfair Display Variable', Georgia, serif;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-text-heading);
+    margin: 0 0 1.5rem;
+    text-align: center;
+  }
+
+  /* Path Chain Visualization */
+  .path-chain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+  }
+
+  .path-step {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .path-node {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    color: var(--color-text);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-lg, 0.5rem);
+    background: var(--color-bg-nav);
+    transition: all 0.15s ease;
+    width: fit-content;
+    min-width: 12rem;
+  }
+
+  .path-node:hover {
+    border-color: var(--jazz-amber);
+    background: rgba(212, 162, 84, 0.05);
+  }
+
+  .path-portrait {
+    width: 2.5rem; height: 2.5rem;
+    border-radius: 50%; overflow: hidden; flex-shrink: 0;
+    background: var(--color-bg-card);
+    display: flex; align-items: center; justify-content: center;
+  }
+
+  .path-img { width: 100%; height: 100%; object-fit: cover; }
+  .path-placeholder { font-size: 1rem; color: var(--color-text-muted); opacity: 0.5; }
+
+  .path-name {
+    font-weight: 600;
+    font-size: 0.875rem;
+    color: var(--color-text-heading);
+  }
+
+  /* Edge label between nodes */
+  .path-edge {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.375rem 0;
+    gap: 0.125rem;
+  }
+
+  .path-line {
+    width: 1px;
+    height: 0.5rem;
+    background: var(--color-border-light);
+  }
+
+  .path-label {
+    font-size: 0.675rem;
+    font-family: 'JetBrains Mono Variable', monospace;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 0.125rem 0.5rem;
+    background: rgba(212, 162, 84, 0.08);
+    border: 1px solid rgba(212, 162, 84, 0.15);
+    border-radius: 9999px;
+  }
+
+  /* Actions */
+  .path-actions {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border-light);
+  }
+
+  .action-link {
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--jazz-amber);
+    text-decoration: none;
+    padding: 0.375rem 0.75rem;
+    border: 1px solid rgba(212, 162, 84, 0.3);
+    border-radius: var(--radius-lg, 0.5rem);
+    transition: all 0.15s ease;
+  }
+
+  .action-link:hover {
+    background: rgba(212, 162, 84, 0.1);
+    border-color: var(--jazz-amber);
+  }
+
+  .action-link--subtle {
+    color: var(--color-text-muted);
+    border-color: var(--color-border-light);
+  }
+
+  .action-link--subtle:hover {
+    color: var(--color-text);
+    background: rgba(255, 255, 255, 0.05);
+    border-color: var(--color-border);
+  }
+
+  /* No Path */
+  .no-path {
+    text-align: center;
+    padding: 2rem 1rem;
+    background: var(--color-bg-card, #fff);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-lg, 0.5rem);
+  }
+
+  .no-path-text {
+    font-size: 1rem;
+    color: var(--color-text-heading);
+    margin: 0 0 0.5rem;
+  }
+
+  .no-path-hint {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin: 0;
+  }
+
+  /* Empty State */
+  .empty-state {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 640px) {
+    .pickers-row { flex-direction: column; }
+    .connect-badge { width: 100%; height: 2rem; }
+    .path-node { min-width: 0; width: 100%; }
+  }
+
+  /* Dark mode */
+  :global([data-mode="dark"]) .path-found,
+  :global([data-mode="dark"]) .no-path {
+    background: var(--jazz-smoke, #242428);
+    border-color: var(--color-border);
+  }
+
+  :global([data-mode="dark"]) .selected-artist {
+    background: var(--jazz-smoke, #242428);
+    border-color: var(--color-border);
+  }
+
+  :global([data-mode="dark"]) .picker-input {
+    background: var(--jazz-smoke, #242428);
+    border-color: var(--color-border);
+  }
+
+  :global([data-mode="dark"]) .picker-dropdown {
+    background: var(--jazz-slate, #2E2E33);
+    border-color: var(--color-border);
+  }
+
+  :global([data-mode="dark"]) .path-node {
+    background: var(--jazz-smoke, #242428);
+    border-color: var(--color-border);
+  }
+</style>

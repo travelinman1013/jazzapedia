@@ -322,3 +322,95 @@ export async function getDistinctTagValues(
   return results.map((r) => r.tag);
 }
 
+// ============================================================
+// RELATIONSHIP QUERIES (from artist_relationships table)
+// ============================================================
+
+interface RelationshipRow {
+  slug: string;
+  relationship_type: string;
+  title: string | null;
+}
+
+/**
+ * Get forward connections for an artist (who they connect to)
+ */
+export async function getArtistRelationships(
+  db: DatabaseAdapter,
+  slug: string
+): Promise<RelationshipRow[]> {
+  const { results } = await db
+    .prepare(
+      `SELECT r.target_slug as slug, r.relationship_type, a.title
+       FROM artist_relationships r
+       LEFT JOIN artists a ON a.slug = r.target_slug
+       WHERE r.source_slug = ?
+       ORDER BY r.relationship_type, a.title`
+    )
+    .bind(slug)
+    .all<RelationshipRow>();
+  return results;
+}
+
+/**
+ * Get reverse connections for an artist (who connects to them)
+ */
+export async function getReverseRelationships(
+  db: DatabaseAdapter,
+  slug: string
+): Promise<RelationshipRow[]> {
+  const { results } = await db
+    .prepare(
+      `SELECT r.source_slug as slug, r.relationship_type, a.title
+       FROM artist_relationships r
+       LEFT JOIN artists a ON a.slug = r.source_slug
+       WHERE r.target_slug = ?
+       ORDER BY r.relationship_type, a.title`
+    )
+    .bind(slug)
+    .all<RelationshipRow>();
+  return results;
+}
+
+/**
+ * Get full bidirectional connections grouped by type
+ */
+export async function getArtistConnectionsFull(
+  db: DatabaseAdapter,
+  slug: string
+): Promise<{
+  forward: { collaborators: string[]; influenced: string[]; mentors: string[] };
+  reverse: { collaboratedWith: string[]; influencedBy: string[]; mentoredBy: string[] };
+}> {
+  const [forwardRows, reverseRows] = await Promise.all([
+    getArtistRelationships(db, slug),
+    getReverseRelationships(db, slug),
+  ]);
+
+  const forward = {
+    collaborators: forwardRows.filter(r => r.relationship_type === 'collaborator').map(r => r.slug),
+    influenced: forwardRows.filter(r => r.relationship_type === 'influenced').map(r => r.slug),
+    mentors: forwardRows.filter(r => r.relationship_type === 'mentor').map(r => r.slug),
+  };
+
+  const reverse = {
+    collaboratedWith: reverseRows.filter(r => r.relationship_type === 'collaborator').map(r => r.slug),
+    influencedBy: reverseRows.filter(r => r.relationship_type === 'influenced').map(r => r.slug),
+    mentoredBy: reverseRows.filter(r => r.relationship_type === 'mentor').map(r => r.slug),
+  };
+
+  return { forward, reverse };
+}
+
+/**
+ * Get all edges for the graph (used by path-finding BFS)
+ */
+export async function getAllRelationshipEdges(
+  db: DatabaseAdapter
+): Promise<Array<{ source_slug: string; target_slug: string; relationship_type: string }>> {
+  const { results } = await db
+    .prepare('SELECT source_slug, target_slug, relationship_type FROM artist_relationships')
+    .all<{ source_slug: string; target_slug: string; relationship_type: string }>();
+  return results;
+}
+
