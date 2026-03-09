@@ -40,6 +40,40 @@ function euclideanDistance(a: number[], b: number[]): number {
   return Math.sqrt(sum);
 }
 
+/** Normalize slug for dedup: strip "the-", "-and-*" / "and-*" suffixes, ensemble suffixes */
+function normalizeSlugForDedup(slug: string): string {
+  return slug
+    .replace(/^the-/, '')
+    .replace(/-?and-.*$/, '')
+    .replace(/-(trio|quartet|quintet|sextet|orchestra|band)$/, '');
+}
+
+/** Levenshtein distance between two strings */
+function levenshtein(a: string, b: string): number {
+  const m = a.length, n = b.length;
+  const dp: number[][] = Array.from({ length: m + 1 }, () => Array(n + 1).fill(0));
+  for (let i = 0; i <= m; i++) dp[i][0] = i;
+  for (let j = 0; j <= n; j++) dp[0][j] = j;
+  for (let i = 1; i <= m; i++) {
+    for (let j = 1; j <= n; j++) {
+      dp[i][j] = a[i - 1] === b[j - 1]
+        ? dp[i - 1][j - 1]
+        : 1 + Math.min(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1]);
+    }
+  }
+  return dp[m][n];
+}
+
+/** Check if two slugs likely refer to the same artist */
+function slugsAreSimilar(a: string, b: string): boolean {
+  const na = normalizeSlugForDedup(a);
+  const nb = normalizeSlugForDedup(b);
+  if (na === nb) return true;
+  // Only use Levenshtein for slugs of similar length (avoid false positives)
+  if (Math.abs(na.length - nb.length) > 2) return false;
+  return levenshtein(na, nb) <= 2;
+}
+
 async function computeSimilarity() {
   const dbPath = process.env.DATABASE_PATH || path.join(process.cwd(), '../../data/jazzapedia.db');
 
@@ -108,6 +142,7 @@ async function computeSimilarity() {
 
   const staticIndex: Record<string, { slug: string; score: number }[]> = {};
   let totalPairs = 0;
+  const startTime = Date.now();
 
   // Process in chunks to avoid memory issues with very large datasets
   for (let i = 0; i < vectors.length; i++) {
@@ -123,8 +158,19 @@ async function computeSimilarity() {
     // Sort by similarity descending
     distances.sort((a, b) => b.score - a.score);
 
+    // Deduplicate: keep only the highest-scored variant of similar-named artists
+    // Use early exit - only scan until we have enough results
+    const seen: string[] = [];
+    const deduped: { slug: string; score: number }[] = [];
+    for (const d of distances) {
+      if (deduped.length >= TOP_DB) break;
+      if (seen.some(s => slugsAreSimilar(s, d.slug))) continue;
+      seen.push(d.slug);
+      deduped.push(d);
+    }
+
     // Insert top N into database
-    const topN = distances.slice(0, TOP_DB);
+    const topN = deduped;
     insertBatch(topN.map(d => ({
       artist: vectors[i].slug,
       similar: d.slug,
@@ -132,15 +178,18 @@ async function computeSimilarity() {
     })));
     totalPairs += topN.length;
 
-    // Store top 5 in static index
-    staticIndex[vectors[i].slug] = distances.slice(0, TOP_JSON).map(d => ({
+    // Store top 5 in static index (deduped already has at most TOP_DB entries)
+    staticIndex[vectors[i].slug] = deduped.slice(0, TOP_JSON).map(d => ({
       slug: d.slug,
       score: Math.round(d.score * 1000) / 1000,
     }));
 
-    // Progress update every 500 artists
-    if ((i + 1) % 500 === 0) {
-      console.log(`[similarity] Processed ${i + 1}/${vectors.length} artists...`);
+    // Progress update every 100 artists
+    if ((i + 1) % 100 === 0 || i === 0) {
+      const elapsed = (Date.now() - startTime) / 1000;
+      const rate = (i + 1) / elapsed;
+      const remaining = Math.round((vectors.length - i - 1) / rate);
+      console.log(`[similarity] Processed ${i + 1}/${vectors.length} artists (${elapsed.toFixed(1)}s elapsed, ~${remaining}s remaining)`);
     }
   }
 

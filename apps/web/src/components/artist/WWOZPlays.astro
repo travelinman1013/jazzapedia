@@ -3,7 +3,8 @@
  * WWOZPlays - Display recent WWOZ plays for an artist
  *
  * Receives pre-computed plays from parent page and displays them
- * in a table with links to daily logs and Spotify.
+ * in a list layout with links to daily logs and Spotify.
+ * Shows first 10, with a "Show more" expand for the rest.
  */
 import type { MatchedTrack } from '../../lib/wwoz';
 
@@ -15,10 +16,11 @@ interface Props {
 
 const { artistSlug, artistName, plays } = Astro.props;
 
-// Limit to most recent 10 plays
-const recentPlays = plays.slice(0, 10);
 const totalPlays = plays.length;
-const hasPlays = recentPlays.length > 0;
+const hasPlays = totalPlays > 0;
+const initialPlays = plays.slice(0, 10);
+const overflowPlays = plays.slice(10);
+const hasMore = overflowPlays.length > 0;
 
 // Format date for display
 function formatDate(dateStr: string): string {
@@ -39,42 +41,69 @@ function formatDate(dateStr: string): string {
       {artistName} has been played {totalPlays} time{totalPlays !== 1 ? 's' : ''} on
       <a href="https://wwoz.org" target="_blank" rel="noopener noreferrer">WWOZ 90.7 FM</a>,
       New Orleans' jazz and heritage station.
-      {totalPlays > 10 && ` Showing the ${recentPlays.length} most recent plays.`}
     </p>
 
-    <div class="plays-table-container">
-      <table class="plays-table">
-        <thead>
-          <tr>
-            <th class="col-date">Date</th>
-            <th class="col-time">Time</th>
-            <th class="col-title">Title</th>
-            <th class="col-show">Show</th>
-            <th class="col-spotify">Spotify</th>
-          </tr>
-        </thead>
-        <tbody>
-          {recentPlays.map(track => (
-            <tr>
-              <td class="col-date">
-                <a href={`/wwoz/${track.date}`} class="date-link">
-                  {formatDate(track.date)}
-                </a>
-              </td>
-              <td class="col-time time">{track.time}</td>
-              <td class="col-title title">
-                <span class="track-title">{track.title}</span>
-                {track.album && (
-                  <span class="album">from {track.album}</span>
-                )}
-              </td>
-              <td class="col-show show">
-                {track.show}
-                {track.host && (
-                  <span class="host">w/ {track.host}</span>
-                )}
-              </td>
-              <td class="col-spotify spotify">
+    <div class="plays-list">
+      {initialPlays.map(track => (
+        <div class="play-item">
+          <div class="play-meta">
+            <span class="play-datetime">
+              <a href={`/wwoz/${track.date}`} class="date-link">{formatDate(track.date)}</a>
+              {track.time && <span class="play-time">· {track.time}</span>}
+            </span>
+            <span class="play-show">
+              {track.show}
+              {track.host && <span class="play-host"> w/ {track.host}</span>}
+            </span>
+          </div>
+          <div class="play-title-row">
+            <div class="play-title-info">
+              <span class="play-title">{track.title}</span>
+              {track.album && <span class="play-album"> from {track.album}</span>}
+            </div>
+            {track.spotifyUrl ? (
+              <a
+                href={track.spotifyUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="spotify-link"
+                title="Listen on Spotify"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
+                </svg>
+              </a>
+            ) : (
+              <span class="no-spotify">-</span>
+            )}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    {hasMore && (
+      <details class="show-more-details">
+        <summary class="show-more-btn">
+          Show {overflowPlays.length} more play{overflowPlays.length !== 1 ? 's' : ''}
+        </summary>
+        <div class="plays-list">
+          {overflowPlays.map(track => (
+            <div class="play-item">
+              <div class="play-meta">
+                <span class="play-datetime">
+                  <a href={`/wwoz/${track.date}`} class="date-link">{formatDate(track.date)}</a>
+                  {track.time && <span class="play-time">· {track.time}</span>}
+                </span>
+                <span class="play-show">
+                  {track.show}
+                  {track.host && <span class="play-host"> w/ {track.host}</span>}
+                </span>
+              </div>
+              <div class="play-title-row">
+                <div class="play-title-info">
+                  <span class="play-title">{track.title}</span>
+                  {track.album && <span class="play-album"> from {track.album}</span>}
+                </div>
                 {track.spotifyUrl ? (
                   <a
                     href={track.spotifyUrl}
@@ -83,26 +112,18 @@ function formatDate(dateStr: string): string {
                     class="spotify-link"
                     title="Listen on Spotify"
                   >
-                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
                       <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
                     </svg>
                   </a>
                 ) : (
                   <span class="no-spotify">-</span>
                 )}
-              </td>
-            </tr>
+              </div>
+            </div>
           ))}
-        </tbody>
-      </table>
-    </div>
-
-    {totalPlays > 10 && (
-      <p class="view-all-link">
-        <a href={`/wwoz?artist=${encodeURIComponent(artistName)}`}>
-          View all {totalPlays} plays
-        </a>
-      </p>
+        </div>
+      </details>
     )}
   </section>
 )}
@@ -139,97 +160,89 @@ function formatDate(dateStr: string): string {
     text-decoration: underline;
   }
 
-  .plays-table-container {
-    overflow-x: auto;
-    margin-bottom: 0.75rem;
+  .plays-list {
+    display: flex;
+    flex-direction: column;
   }
 
-  .plays-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.875rem;
-    table-layout: fixed;
-  }
-
-  /* Column widths */
-  .col-date { width: 100px; }
-  .col-time { width: 55px; }
-  .col-title { width: auto; }
-  .col-show { width: auto; min-width: 120px; }
-  .col-spotify { width: 50px; }
-
-  .plays-table th,
-  .plays-table td {
-    padding: 0.5rem 0.75rem;
-    text-align: left;
+  .play-item {
+    padding: 0.625rem 0;
     border-bottom: 1px solid var(--color-border-light);
-    overflow: hidden;
-    text-overflow: ellipsis;
   }
 
-  .plays-table th {
-    background: var(--color-bg-nav);
-    font-weight: 600;
+  .play-item:last-child {
+    border-bottom: none;
+  }
+
+  .play-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-bottom: 0.25rem;
     font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
     color: var(--color-text-secondary);
-    white-space: nowrap;
   }
 
-  .plays-table tbody tr:hover {
-    background: var(--color-bg);
+  .play-datetime {
+    white-space: nowrap;
   }
 
   .date-link {
     color: var(--color-link);
     text-decoration: none;
-    white-space: nowrap;
   }
 
   .date-link:hover {
     text-decoration: underline;
   }
 
-  .time {
+  .play-time {
     font-family: 'JetBrains Mono Variable', monospace;
+    font-size: 0.7rem;
+    margin-left: 0.125rem;
+  }
+
+  .play-show {
+    text-align: right;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+  }
+
+  .play-host {
+    color: var(--color-text-secondary);
+  }
+
+  .play-title-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  .play-title-info {
+    min-width: 0;
+  }
+
+  .play-title {
+    font-weight: 500;
+    font-size: 0.875rem;
+  }
+
+  .play-album {
     font-size: 0.8rem;
     color: var(--color-text-secondary);
-    white-space: nowrap;
-  }
-
-  .title .track-title {
-    display: block;
-    font-weight: 500;
-  }
-
-  .title .album {
-    display: block;
-    font-size: 0.75rem;
-    color: var(--color-text-secondary);
     font-style: italic;
-    margin-top: 0.125rem;
-  }
-
-  /* Show column - allow wrapping for long show names */
-  .show {
-    /* Removed white-space: nowrap to allow wrapping */
-  }
-
-  .show .host {
-    display: block;
-    font-size: 0.75rem;
-    color: var(--color-text-secondary);
-  }
-
-  .spotify {
-    text-align: center;
   }
 
   .spotify-link {
     color: #1DB954;
     transition: transform 0.15s ease;
     display: inline-block;
+    flex-shrink: 0;
+    padding-top: 0.125rem;
   }
 
   .spotify-link:hover {
@@ -238,43 +251,34 @@ function formatDate(dateStr: string): string {
 
   .no-spotify {
     color: var(--color-text-secondary);
+    flex-shrink: 0;
   }
 
-  .view-all-link {
+  .show-more-details {
+    border-top: 1px solid var(--color-border-light);
+  }
+
+  .show-more-btn {
     font-size: 0.875rem;
-    text-align: right;
-  }
-
-  .view-all-link a {
     color: var(--color-link);
-    text-decoration: none;
+    cursor: pointer;
+    padding: 0.5rem 0;
+    list-style: none;
   }
 
-  .view-all-link a:hover {
+  .show-more-btn::-webkit-details-marker {
+    display: none;
+  }
+
+  .show-more-btn::marker {
+    content: '';
+  }
+
+  .show-more-btn:hover {
     text-decoration: underline;
   }
 
-  /* Mobile responsiveness */
-  @media (max-width: 640px) {
-    .plays-table {
-      font-size: 0.8rem;
-    }
-
-    .plays-table th,
-    .plays-table td {
-      padding: 0.375rem 0.5rem;
-    }
-
-    .col-date { width: 85px; }
-    .col-time { width: 50px; }
-    .col-spotify { width: 40px; }
-
-    .title .album {
-      display: none;
-    }
-
-    .show .host {
-      display: none;
-    }
+  .show-more-details[open] > .show-more-btn {
+    display: none;
   }
 </style>
