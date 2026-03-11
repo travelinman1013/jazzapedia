@@ -3,39 +3,43 @@ biography_enhanced_at: '2026-02-19T01:56:10.046935'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:56:10.046947'
 external_urls:
-  spotify: https://open.spotify.com/artist/1fJcedTAq17guZcUUaYpju
-  wikipedia: https://en.wikipedia.org/wiki/Bert_Lown
+  spotify: 'https://open.spotify.com/artist/1fJcedTAq17guZcUUaYpju'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bert_Lown'
 genres: []
 image_path: ''
 last_updated: '2026-02-19T01:56:10.046948'
 musical_connections:
   collaborators:
-  - Frank Cush
-  - Ed Farley
-  - Al Philburn
-  - Elmer Feldkamp
-  - Moe Jaffe
-  - Jack O'Brien
-  - Chauncey Gray
-  - Dave Bennett
+    - Frank Cush
+    - Ed Farley
+    - Al Philburn
+    - Elmer Feldkamp
+    - Moe Jaffe
+    - Jack O'Brien
+    - Chauncey Gray
+    - Dave Bennett
   influenced: []
   mentors:
-  - Fred Hamm
+    - Fred Hamm
 network_extracted: true
-origin: White Plains, New York, United States
+origin: 'White Plains, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bert_Lown
-- https://www.youtube.com/watch?v=rYZiCIJeRI0
-- https://americanhistory.si.edu/collections/object/nmah_1331204
-- https://www.youtube.com/watch?v=sWTahkZUSPQ
+  - 'https://en.wikipedia.org/wiki/Bert_Lown'
+  - 'https://www.youtube.com/watch?v=rYZiCIJeRI0'
+  - 'https://americanhistory.si.edu/collections/object/nmah_1331204'
+  - 'https://www.youtube.com/watch?v=sWTahkZUSPQ'
 spotify_data:
   followers: 34
   id: 1fJcedTAq17guZcUUaYpju
   popularity: 3
-  url: https://open.spotify.com/artist/1fJcedTAq17guZcUUaYpju
+  url: 'https://open.spotify.com/artist/1fJcedTAq17guZcUUaYpju'
 status: active
-title: BERT LOWN AND HIS HOTEL BILTMORE ORCHESTRA
+title: Bert Lown and His Hotel Biltmore Orchestra
+birth_place: 'White Plains, New York, United States'
+birth_date: '1903-06-06'
+death_date: '1962-11-20'
+artist_type: person
 ---
 
 ![]()

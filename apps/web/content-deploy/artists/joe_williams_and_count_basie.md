@@ -1,47 +1,50 @@
 ---
 biography_enhanced_at: '2026-03-05T02:02:18.965685'
-birth_place: Cordele, Georgia, USA
+birth_place: 'Cordele, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:02:18.965694'
 external_urls:
-  spotify: https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL
+  spotify: 'https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL'
   wikipedia: ''
 genres:
-- vocal jazz
-- big band
-- swing music
-- jazz
+  - vocal jazz
+  - big band
+  - swing music
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/joe_williams_and_count_basie.jpg
 last_updated: '2026-03-05T02:02:18.965695'
 musical_connections:
   collaborators:
-  - Count Basie
-  - Lionel Hampton
-  - Harry Edison
-  - Cannonball Adderley
-  - George Shearing
-  - Dinah Washington
+    - Count Basie
+    - Lionel Hampton
+    - Harry Edison
+    - Cannonball Adderley
+    - George Shearing
+    - Dinah Washington
   influenced:
-  - Jimmy Rushing
+    - Jimmy Rushing
   mentors:
-  - Jimmie Noone
-  - Les Hite
+    - Jimmie Noone
+    - Les Hite
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Joe-Williams
-- https://www.ijc.uidaho.edu/williams_joe/bio.html
-- https://www.arts.gov/honors/jazz/joe-williams
-- https://concord.com/artist/joe-williams/
-- https://www.georgiaencyclopedia.org/articles/arts-culture/joe-williams-1918-1999/
-- https://www.nepm.org/jazz-world/2018-12-12/joe-williams-rocks-the-house
+  - 'https://www.britannica.com/biography/Joe-Williams'
+  - 'https://www.ijc.uidaho.edu/williams_joe/bio.html'
+  - 'https://www.arts.gov/honors/jazz/joe-williams'
+  - 'https://concord.com/artist/joe-williams/'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/joe-williams-1918-1999/
+  - 'https://www.nepm.org/jazz-world/2018-12-12/joe-williams-rocks-the-house'
 spotify_data:
   followers: 55055
   id: 7FMGtucexJvUxVz7scydEL
   popularity: 35
-  url: https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL
+  url: 'https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL'
 status: active
-title: joe williams and count basie
+title: Joe Williams and Count Basie
+birth_date: '1918-12-12'
+artist_type: band
 ---
 
 ![](joe_williams_and_count_basie.jpg)

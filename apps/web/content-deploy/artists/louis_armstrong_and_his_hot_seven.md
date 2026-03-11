@@ -3,44 +3,51 @@ biography_enhanced_at: '2026-02-08T01:59:52.364140'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T01:59:52.364150'
 external_urls:
-  spotify: https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong_Hot_Five_and_Hot_Seven_Sessions
+  spotify: 'https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Louis_Armstrong_Hot_Five_and_Hot_Seven_Sessions
 genres:
-- jazz
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_his_hot_seven.jpg
+  - jazz
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/louis_armstrong_and_his_hot_seven.jpg
 last_updated: '2026-02-08T01:59:52.364151'
 musical_connections:
   collaborators:
-  - Kid Ory
-  - Johnny Dodds
-  - Johnny St. Cyr
-  - Lil Hardin Armstrong
-  - Pete Briggs
-  - Baby Dodds
-  - Earl Hines
+    - Kid Ory
+    - Johnny Dodds
+    - Johnny St. Cyr
+    - Lil Hardin Armstrong
+    - Pete Briggs
+    - Baby Dodds
+    - Earl Hines
   influenced:
-  - Generations of jazz musicians
+    - Generations of jazz musicians
   mentors:
-  - King Oliver
-  - Lil Hardin Armstrong
+    - King Oliver
+    - Lil Hardin Armstrong
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://richwatson.substack.com/p/popculture27-louis-armstrong-turns
-- https://symposium.music.org/43/item/2193-the-origin-of-armstrongs-hot-fives-and-hot-sevens.html
-- https://www.loc.gov/static/programs/national-recording-preservation-board/documents/HotFiveHotSevenRecordings.pdf
-- https://www.louisarmstronghouse.org/biography/
-- https://en.wikipedia.org/wiki/Louis_Armstrong_Hot_Five_and_Hot_Seven_Sessions
-- https://syncopatedtimes.com/louis-armstrong-and-his-hot-seven/
+  - 'https://richwatson.substack.com/p/popculture27-louis-armstrong-turns'
+  - >-
+    https://symposium.music.org/43/item/2193-the-origin-of-armstrongs-hot-fives-and-hot-sevens.html
+  - >-
+    https://www.loc.gov/static/programs/national-recording-preservation-board/documents/HotFiveHotSevenRecordings.pdf
+  - 'https://www.louisarmstronghouse.org/biography/'
+  - >-
+    https://en.wikipedia.org/wiki/Louis_Armstrong_Hot_Five_and_Hot_Seven_Sessions
+  - 'https://syncopatedtimes.com/louis-armstrong-and-his-hot-seven/'
 spotify_data:
   followers: 38005
   id: 267SHEPfqnF16IEmwbLhLQ
   popularity: 20
-  url: https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ
+  url: 'https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ'
 status: active
 title: Louis Armstrong and His Hot Seven
+birth_place: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](louis_armstrong_and_his_hot_seven.jpg)

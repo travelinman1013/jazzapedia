@@ -1,53 +1,54 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-26T01:40:06.801759'
-disambiguation: 70s US funk band, backing band for Roy C. Hammond
+disambiguation: '70s US funk band, backing band for Roy C. Hammond'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:40:06.801770'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bd91b2c0-307c-4571-a46e-a85e4bdf7a36
-  spotify: https://open.spotify.com/artist/7J7YRBSoiXpdTmcbkKZL2C
+  musicbrainz: 'https://musicbrainz.org/artist/bd91b2c0-307c-4571-a46e-a85e4bdf7a36'
+  spotify: 'https://open.spotify.com/artist/7J7YRBSoiXpdTmcbkKZL2C'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_honey_drippers.jpg
 last_updated: '2026-01-26T01:40:06.801772'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bcfff8eb-3a09-4053-a6b7-76aed86f2ac5
-  name: Roy C. Hammond
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bcfff8eb-3a09-4053-a6b7-76aed86f2ac5
+    name: Roy C. Hammond
 musical_connections:
   collaborators:
-  - Jimmy Page
-  - Jeff Beck
-  - Brian Setzer
-  - Nile Rodgers
-  - Paul Shaffer
-  - Robbie Blunt
+    - Jimmy Page
+    - Jeff Beck
+    - Brian Setzer
+    - Nile Rodgers
+    - Paul Shaffer
+    - Robbie Blunt
   influenced: []
   mentors:
-  - Roosevelt Sykes
+    - Roosevelt Sykes
 musicbrainz_id: bd91b2c0-307c-4571-a46e-a85e4bdf7a36
 network_extracted: true
-origin: Worcestershire, England, United Kingdom
+origin: 'Worcestershire, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/The+Honeydrippers/+wiki
-- https://www.tracklib.com/blog/roy-c-hammond-honey-drippers-sample-break
-- https://allerlei2013riffmaster.wordpress.com/2023/10/17/the-honeydrippers-volume-one-1984/
-- https://elpee.jp/artist/The%20Honeydrippers/
-- https://www.allmusic.com/artist/the-honeydrippers-mn0000075473
-- https://wdrv.com/artist/10c058a2-41e6-4f64-8cdd-fa3c7f2be9c0
-- https://faroutmagazine.co.uk/the-honeydrippers-robert-plant-secret-band/
+  - 'https://www.last.fm/music/The+Honeydrippers/+wiki'
+  - 'https://www.tracklib.com/blog/roy-c-hammond-honey-drippers-sample-break'
+  - >-
+    https://allerlei2013riffmaster.wordpress.com/2023/10/17/the-honeydrippers-volume-one-1984/
+  - 'https://elpee.jp/artist/The%20Honeydrippers/'
+  - 'https://www.allmusic.com/artist/the-honeydrippers-mn0000075473'
+  - 'https://wdrv.com/artist/10c058a2-41e6-4f64-8cdd-fa3c7f2be9c0'
+  - 'https://faroutmagazine.co.uk/the-honeydrippers-robert-plant-secret-band/'
 spotify_data:
   followers: 54921
   id: 7J7YRBSoiXpdTmcbkKZL2C
   popularity: 41
-  url: https://open.spotify.com/artist/7J7YRBSoiXpdTmcbkKZL2C
+  url: 'https://open.spotify.com/artist/7J7YRBSoiXpdTmcbkKZL2C'
 status: active
 tags:
-- classic pop and rock
+  - classic pop and rock
 title: The Honey Drippers
 ---
 

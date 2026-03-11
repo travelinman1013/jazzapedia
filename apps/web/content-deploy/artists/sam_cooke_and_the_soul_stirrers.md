@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-23T01:46:03.897471'
-birth_place: Clarksdale, Mississippi, United States
+birth_place: 'Clarksdale, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:46:03.897477'
 external_urls:
-  spotify: https://open.spotify.com/artist/1bZKspL8h396R1WihOiPb5
-  wikipedia: https://en.wikipedia.org/wiki/Sam_Cooke
+  spotify: 'https://open.spotify.com/artist/1bZKspL8h396R1WihOiPb5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sam_Cooke'
 genres:
-- traditional gospel
-- gospel
-image_path: 03_Resources/source_material/ArtistPortraits/sam_cooke_and_the_soul_stirrers.jpg
+  - traditional gospel
+  - gospel
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/sam_cooke_and_the_soul_stirrers.jpg
 last_updated: '2026-01-23T01:46:03.897478'
 musical_connections:
   collaborators:
-  - The Soul Stirrers
-  - Art Rupe
+    - The Soul Stirrers
+    - Art Rupe
   influenced:
-  - Aretha Franklin
+    - Aretha Franklin
   mentors:
-  - R.H. Harris
-  - Roy Crain
-  - Bumps Blackwell
+    - R.H. Harris
+    - Roy Crain
+    - Bumps Blackwell
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sam_Cooke
-- https://www.abkco.com/artist/sam-cooke/
-- https://concord.com/artist/sam-cooke-the-soul-stirrers/
-- https://www.songhall.org/profiles/sam-cooke
-- https://www.life1031.com/featured-artist-sam-cooke/
-- https://teachrock.org/article/the-soul-stirrer-sam-cooke/
-- https://wers.org/the-vault-of-soul-sam-cooke/
-- https://www.britannica.com/biography/Sam-Cooke
-- https://study.com/academy/lesson/sam-cooke-songs-biography.html
+  - 'https://en.wikipedia.org/wiki/Sam_Cooke'
+  - 'https://www.abkco.com/artist/sam-cooke/'
+  - 'https://concord.com/artist/sam-cooke-the-soul-stirrers/'
+  - 'https://www.songhall.org/profiles/sam-cooke'
+  - 'https://www.life1031.com/featured-artist-sam-cooke/'
+  - 'https://teachrock.org/article/the-soul-stirrer-sam-cooke/'
+  - 'https://wers.org/the-vault-of-soul-sam-cooke/'
+  - 'https://www.britannica.com/biography/Sam-Cooke'
+  - 'https://study.com/academy/lesson/sam-cooke-songs-biography.html'
 spotify_data:
   followers: 25093
   id: 1bZKspL8h396R1WihOiPb5
   popularity: 44
-  url: https://open.spotify.com/artist/1bZKspL8h396R1WihOiPb5
+  url: 'https://open.spotify.com/artist/1bZKspL8h396R1WihOiPb5'
 status: active
-title: sam cooke and the soul stirrers
+title: Sam Cooke and the Soul Stirrers
+birth_date: '1931-01-22'
+artist_type: band
 ---
 
 ![](sam_cooke_and_the_soul_stirrers.jpg)

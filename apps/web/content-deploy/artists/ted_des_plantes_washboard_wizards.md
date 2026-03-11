@@ -3,39 +3,43 @@ biography_enhanced_at: '2026-02-01T01:24:16.258733'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:24:16.258738'
 external_urls:
-  spotify: https://open.spotify.com/artist/5k3HnOujTYG5QCH0XSbht5
+  spotify: 'https://open.spotify.com/artist/5k3HnOujTYG5QCH0XSbht5'
   wikipedia: ''
 genres:
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/ted_des_plantes_washboard_wizards.jpg
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ted_des_plantes_washboard_wizards.jpg
 last_updated: '2026-02-01T01:24:16.258739'
 musical_connections:
   collaborators:
-  - Bob Erdos
-  - Hal Smith
-  - John Otto
-  - Larry Wright
-  - Leon Oakley
-  - Jack Meilahn
+    - Bob Erdos
+    - Hal Smith
+    - John Otto
+    - Larry Wright
+    - Leon Oakley
+    - Jack Meilahn
   influenced: []
   mentors: []
 network_extracted: true
-origin: Cincinnati, Ohio, USA
+origin: 'Cincinnati, Ohio, USA'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/ted-des-plantes-launches-new-traditional-jazz-label/
-- https://www.prestomusic.com/jazz/labels/4954/browse
-- http://tomhull.com/ocston/arch/vv/topjazz-07.php
-- https://teddesplantes.bandcamp.com
-- https://archives.stanford.edu/catalog/ars0030_aspace_5e54af790effc09f1122c1f04317dfa6
-- https://open.spotify.com/artist/5k3HnOujTYG5QCH0XSbht5
+  - >-
+    https://syncopatedtimes.com/ted-des-plantes-launches-new-traditional-jazz-label/
+  - 'https://www.prestomusic.com/jazz/labels/4954/browse'
+  - 'http://tomhull.com/ocston/arch/vv/topjazz-07.php'
+  - 'https://teddesplantes.bandcamp.com'
+  - >-
+    https://archives.stanford.edu/catalog/ars0030_aspace_5e54af790effc09f1122c1f04317dfa6
+  - 'https://open.spotify.com/artist/5k3HnOujTYG5QCH0XSbht5'
 spotify_data:
   followers: 31
   id: 5k3HnOujTYG5QCH0XSbht5
   popularity: 0
-  url: https://open.spotify.com/artist/5k3HnOujTYG5QCH0XSbht5
+  url: 'https://open.spotify.com/artist/5k3HnOujTYG5QCH0XSbht5'
 status: active
 title: Ted Des Plantes' Washboard Wizards
+artist_type: person
 ---
 
 ![](ted_des_plantes_washboard_wizards.jpg)

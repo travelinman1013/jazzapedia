@@ -1,53 +1,55 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-03-08T03:02:45.510164'
-birth_place: Abuja
+birth_place: 'Abuja, Federal Capital Territory, Nigeria'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:02:45.510173'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/043fa76b-4a78-4ac2-a7bd-0cade88b4c06
-  spotify: https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K
-  wikipedia: https://en.wikipedia.org/wiki/Bloody_Civilian
+  musicbrainz: 'https://musicbrainz.org/artist/043fa76b-4a78-4ac2-a7bd-0cade88b4c06'
+  spotify: 'https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bloody_Civilian'
 gender: Female
 genres:
-- alté
-- afrobeats
-- afrobeat
-- afro adura
-- afropiano
-- afropop
-- afro r&b
+  - alté
+  - afrobeats
+  - afrobeat
+  - afro adura
+  - afropiano
+  - afropop
+  - afro r&b
 image_path: 03_Resources/source_material/ArtistPortraits/bloody_civilian.jpg
 last_updated: '2026-03-08T03:02:45.510175'
 musical_connections:
   collaborators:
-  - Rema
-  - Odumodublvck
-  - Fave
-  - Candy Bleakz
+    - Rema
+    - Odumodublvck
+    - Fave
+    - Candy Bleakz
   influenced: []
   mentors:
-  - Father (unnamed)
-  - Tunji Balogun
-  - Seni “Chubbz” Saraki
+    - Father (unnamed)
+    - Tunji Balogun
+    - Seni “Chubbz” Saraki
 musicbrainz_id: 043fa76b-4a78-4ac2-a7bd-0cade88b4c06
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bloody_Civilian
-- https://www.0207defjam.com/artists/bloody-civilian/
-- https://www.youtube.com/@bloodycivilian/about
-- https://urbancntrl.co/bloody-civilian-artist-with-the-juice/
-- https://www.last.fm/music/Bloody+Civilian/+wiki
-- https://www.youtube.com/watch?v=kk-fAPjfvd4
-- https://officemagazine.net/bloody-civilian-only-getting-brighter
+  - 'https://en.wikipedia.org/wiki/Bloody_Civilian'
+  - 'https://www.0207defjam.com/artists/bloody-civilian/'
+  - 'https://www.youtube.com/@bloodycivilian/about'
+  - 'https://urbancntrl.co/bloody-civilian-artist-with-the-juice/'
+  - 'https://www.last.fm/music/Bloody+Civilian/+wiki'
+  - 'https://www.youtube.com/watch?v=kk-fAPjfvd4'
+  - 'https://officemagazine.net/bloody-civilian-only-getting-brighter'
 spotify_data:
   followers: 146318
   id: 59gzAeE63TMTxOdjU3Ew0K
   popularity: 48
-  url: https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K
+  url: 'https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K'
 status: active
-title: bloody civilian
+title: Bloody Civilian
+birth_date: 1999-07
+origin: Nigeria
 ---
 
 ![](bloody_civilian.jpg)

@@ -1,51 +1,53 @@
 ---
-artist_type: person
+artist_type: band
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d6d48920-d744-49f1-973e-f7cd18b1f297
-  name: Guilherme Coutinho e seu conjunto
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 15fc20e1-0a2c-4c24-b590-8b652b62a965
-  name: Guilherme Coutinho e o Grupo Stalo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d6d48920-d744-49f1-973e-f7cd18b1f297
+    name: Guilherme Coutinho e seu conjunto
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 15fc20e1-0a2c-4c24-b590-8b652b62a965
+    name: Guilherme Coutinho e o Grupo Stalo
 biography_enhanced_at: '2026-01-23T01:52:33.072155'
-birth_place: Belém do Pará, Brazil
+birth_place: 'Belém do Pará, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:52:33.072161'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9c7566c5-76c5-4a12-b179-8dec9501f6a3
-  spotify: https://open.spotify.com/artist/5jnhQmrwuwTgOfkp3Sx2vX
+  musicbrainz: 'https://musicbrainz.org/artist/9c7566c5-76c5-4a12-b179-8dec9501f6a3'
+  spotify: 'https://open.spotify.com/artist/5jnhQmrwuwTgOfkp3Sx2vX'
   wikipedia: ''
 gender: Male
 genres:
-- brazilian jazz
+  - brazilian jazz
 image_path: 03_Resources/source_material/ArtistPortraits/guilherme_coutinho.jpg
 last_updated: '2026-01-23T01:52:33.072161'
 musical_connections:
   collaborators:
-  - Grupo Stalo
+    - Grupo Stalo
   influenced: []
   mentors: []
 musicbrainz_id: 9c7566c5-76c5-4a12-b179-8dec9501f6a3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.rovr.live/artists/guilherme%20coutinho
-- https://www.3hive.com/2023/11/13/guilherme-coutinho-e-o-grupo-stalo/
-- https://www.osotao.com/blog/guilherme-coutinho-e-o-grupo-stalo/2020/2/11
-- http://betinos.com/content/guilherme-coutinho-e-o-grupo-stalo
-- https://projects.mcah.columbia.edu/amiens-arthum/sites/default/files/VR/North/?pano=data%3Atext%2Fxml%2C%3Ckrpano+onstart%3D%22loadpano%28%27%2F%5C%2Fp6.pics%2Fp%2F2464707544%27%29%3B%22%3E%3C%2Fkrpano%3E
-- https://www.songlines.co.uk/review/guilherme-coutinho-e-o-grupo-stalo
+  - 'https://www.rovr.live/artists/guilherme%20coutinho'
+  - 'https://www.3hive.com/2023/11/13/guilherme-coutinho-e-o-grupo-stalo/'
+  - 'https://www.osotao.com/blog/guilherme-coutinho-e-o-grupo-stalo/2020/2/11'
+  - 'http://betinos.com/content/guilherme-coutinho-e-o-grupo-stalo'
+  - >-
+    https://projects.mcah.columbia.edu/amiens-arthum/sites/default/files/VR/North/?pano=data%3Atext%2Fxml%2C%3Ckrpano+onstart%3D%22loadpano%28%27%2F%5C%2Fp6.pics%2Fp%2F2464707544%27%29%3B%22%3E%3C%2Fkrpano%3E
+  - 'https://www.songlines.co.uk/review/guilherme-coutinho-e-o-grupo-stalo'
 spotify_data:
   followers: 1759
   id: 5jnhQmrwuwTgOfkp3Sx2vX
   popularity: 25
-  url: https://open.spotify.com/artist/5jnhQmrwuwTgOfkp3Sx2vX
+  url: 'https://open.spotify.com/artist/5jnhQmrwuwTgOfkp3Sx2vX'
 status: active
 title: Guilherme Coutinho
+origin: 'Belém do Pará, Brazil'
 ---
 
 ![](guilherme_coutinho.jpg)

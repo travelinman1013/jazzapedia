@@ -3,44 +3,47 @@ biography_enhanced_at: '2026-02-15T01:49:17.952479'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:49:17.952486'
 external_urls:
-  spotify: https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk
-  wikipedia: https://en.wikipedia.org/wiki/Harold_Dejan
+  spotify: 'https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harold_Dejan'
 genres:
-- brass band
-- cajun
-- zydeco
+  - brass band
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/dejans_olympia_brass_band.jpg
 last_updated: '2026-02-15T01:49:17.952487'
 musical_connections:
   collaborators:
-  - Milton Batiste
-  - Willie Humphrey
-  - Emanuel 'Pappy' Paul
-  - Anthony Lacen 'Tuba Fats'
+    - Milton Batiste
+    - Willie Humphrey
+    - Emanuel 'Pappy' Paul
+    - Anthony Lacen 'Tuba Fats'
   influenced:
-  - Joseph Torregano
-  - Byron 'Flea' Bernard
-  - Tanio Hingle
-  - Kenneth Terry
+    - Joseph Torregano
+    - Byron 'Flea' Bernard
+    - Tanio Hingle
+    - Kenneth Terry
   mentors:
-  - Arnold du Pass
+    - Arnold du Pass
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://30daysout.wordpress.com/2011/02/27/your-sisters-record-rack-dejans-original-olympia-brass-band/
-- https://en.wikipedia.org/wiki/Harold_Dejan
-- https://musicrising.tulane.edu/discover/people/olympia-brass-band/
-- https://veritenews.org/2026/01/26/bitd-harold-dejan-olympia-brass-band/
-- https://musicrising.tulane.edu/discover/people/harold-dejan/
-- https://www.jazzology.com/item_detail.php?id=AP-108
+  - >-
+    https://30daysout.wordpress.com/2011/02/27/your-sisters-record-rack-dejans-original-olympia-brass-band/
+  - 'https://en.wikipedia.org/wiki/Harold_Dejan'
+  - 'https://musicrising.tulane.edu/discover/people/olympia-brass-band/'
+  - 'https://veritenews.org/2026/01/26/bitd-harold-dejan-olympia-brass-band/'
+  - 'https://musicrising.tulane.edu/discover/people/harold-dejan/'
+  - 'https://www.jazzology.com/item_detail.php?id=AP-108'
 spotify_data:
   followers: 1333
   id: 2u07jyEJFucPWFXTz0E7Tk
   popularity: 19
-  url: https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk
+  url: 'https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk'
 status: active
 title: Dejan's Olympia Brass Band
+birth_place: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](dejans_olympia_brass_band.jpg)

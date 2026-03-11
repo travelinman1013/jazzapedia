@@ -3,36 +3,41 @@ biography_enhanced_at: '2026-02-10T01:48:37.435896'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:48:37.435906'
 external_urls:
-  spotify: https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S
-  wikipedia: https://en.wikipedia.org/wiki/Roberta_Flack_&_Donny_Hathaway
+  spotify: 'https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roberta_Flack_&_Donny_Hathaway'
 genres:
-- soul
-- classic soul
-image_path: 03_Resources/source_material/ArtistPortraits/robert_flack_and_donny_hathaway.jpg
+  - soul
+  - classic soul
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/robert_flack_and_donny_hathaway.jpg
 last_updated: '2026-02-10T01:48:37.435908'
 musical_connections:
   collaborators:
-  - Roberta Flack
+    - Roberta Flack
   influenced: []
   mentors:
-  - Jerry Wexler
+    - Jerry Wexler
 network_extracted: true
-origin: Washington, D.C., USA (met at Howard University)
+origin: 'Washington, D.C., USA (met at Howard University)'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Roberta_Flack
-- https://www.wttw.com/playlist/2017/01/24/roberta-flack-and-donny-hathaway
-- https://en.wikipedia.org/wiki/Roberta_Flack_&_Donny_Hathaway
-- https://www.britannica.com/biography/Donny-Hathaway
-- https://insheepsclothinghifi.com/album/roberta-flack-donny-hathaway/
-- https://thedig.howard.edu/all-stories/howard-university-celebrates-extraordinary-life-roberta-flack-bme-58-dmus-75
+  - 'https://en.wikipedia.org/wiki/Roberta_Flack'
+  - 'https://www.wttw.com/playlist/2017/01/24/roberta-flack-and-donny-hathaway'
+  - 'https://en.wikipedia.org/wiki/Roberta_Flack_&_Donny_Hathaway'
+  - 'https://www.britannica.com/biography/Donny-Hathaway'
+  - 'https://insheepsclothinghifi.com/album/roberta-flack-donny-hathaway/'
+  - >-
+    https://thedig.howard.edu/all-stories/howard-university-celebrates-extraordinary-life-roberta-flack-bme-58-dmus-75
 spotify_data:
   followers: 682749
   id: 0HU0U9kdXEHZVxUNbuQe8S
   popularity: 63
-  url: https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S
+  url: 'https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S'
 status: active
 title: Robert Flack & Donny Hathaway
+birth_place: 'Black Mountain, North Carolina, United States'
+death_date: '1979-01-13'
+artist_type: band
 ---
 
 ![](robert_flack_and_donny_hathaway.jpg)

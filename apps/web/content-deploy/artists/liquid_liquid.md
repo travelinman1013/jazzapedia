@@ -1,77 +1,79 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-08T03:07:49.587904'
 birth_date: '1980'
 disambiguation: American no wave and dance-punk group
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:07:49.587910'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4ba3563c-a27e-4bce-9e3e-5d6b4f1cde6d
-  spotify: https://open.spotify.com/artist/4LIRWeEa6WgyAzH1mjYAPx
+  musicbrainz: 'https://musicbrainz.org/artist/4ba3563c-a27e-4bce-9e3e-5d6b4f1cde6d'
+  spotify: 'https://open.spotify.com/artist/4LIRWeEa6WgyAzH1mjYAPx'
   wikipedia: ''
 genres:
-- post-punk
-- post-disco
+  - post-punk
+  - post-disco
 image_path: 03_Resources/source_material/ArtistPortraits/liquid_liquid.jpg
 last_updated: '2026-03-08T03:07:49.587911'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 877d547b-783c-4b76-a7a7-e85760015995
-  name: Scott Hartley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1664ee29-b444-420f-baeb-207eb22a4697
-  name: Richard McGuire
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 506637a0-193a-4b5d-b96b-4abf3feb27dd
-  name: Salvatore Principato
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fba330f5-93b1-4c74-ac60-8691f54dec1d
-  name: Dennis Young
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 877d547b-783c-4b76-a7a7-e85760015995
+    name: Scott Hartley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1664ee29-b444-420f-baeb-207eb22a4697
+    name: Richard McGuire
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 506637a0-193a-4b5d-b96b-4abf3feb27dd
+    name: Salvatore Principato
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fba330f5-93b1-4c74-ac60-8691f54dec1d
+    name: Dennis Young
 musical_connections:
   collaborators:
-  - Richard McGuire
-  - Salvatore Principato
-  - Dennis Young
-  - Scott Hartley
-  - Don Hunerberg
+    - Richard McGuire
+    - Salvatore Principato
+    - Dennis Young
+    - Scott Hartley
+    - Don Hunerberg
   influenced:
-  - LCD Soundsystem
-  - Yeah Yeah Yeahs
-  - Moby
-  - LL Cool J
-  - Mobb Deep
-  - De La Soul
+    - LCD Soundsystem
+    - Yeah Yeah Yeahs
+    - Moby
+    - LL Cool J
+    - Mobb Deep
+    - De La Soul
   mentors: []
 musicbrainz_id: 4ba3563c-a27e-4bce-9e3e-5d6b4f1cde6d
 network_extracted: true
-origin: New York
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Liquid+Liquid/+wiki
-- https://living-in-oblivion.com/2014/09/14/getting-to-know-liquid-liquid/
-- https://www.supermonamour.com/artists/liquid-liquid/
-- https://observer.com/2015/07/liquid-liquid-the-most-important-ny-band-youve-never-heard-of/
-- https://en.apoplife.nl/the-complete-liquid-liquid-story-slip-in-and-out-of-phenomenon/
-- https://music.fandom.com/wiki/Liquid_Liquid
-- https://www.scaruffi.com/vol4/liquidli.html
+  - 'https://www.last.fm/music/Liquid+Liquid/+wiki'
+  - 'https://living-in-oblivion.com/2014/09/14/getting-to-know-liquid-liquid/'
+  - 'https://www.supermonamour.com/artists/liquid-liquid/'
+  - >-
+    https://observer.com/2015/07/liquid-liquid-the-most-important-ny-band-youve-never-heard-of/
+  - >-
+    https://en.apoplife.nl/the-complete-liquid-liquid-story-slip-in-and-out-of-phenomenon/
+  - 'https://music.fandom.com/wiki/Liquid_Liquid'
+  - 'https://www.scaruffi.com/vol4/liquidli.html'
 spotify_data:
   followers: 39871
   id: 4LIRWeEa6WgyAzH1mjYAPx
   popularity: 29
-  url: https://open.spotify.com/artist/4LIRWeEa6WgyAzH1mjYAPx
+  url: 'https://open.spotify.com/artist/4LIRWeEa6WgyAzH1mjYAPx'
 status: active
 tags:
-- dance-punk
-- funk
-- mutant disco
+  - dance-punk
+  - funk
+  - mutant disco
 title: Liquid Liquid
 ---
 

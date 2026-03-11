@@ -4,11 +4,11 @@ birth_place: Italy
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:04:54.692897'
 external_urls:
-  spotify: https://open.spotify.com/artist/6pIsMSURAqkqmZgfA4Bag6
+  spotify: 'https://open.spotify.com/artist/6pIsMSURAqkqmZgfA4Bag6'
   wikipedia: ''
 genres:
-- soul blues
-- blues
+  - soul blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/ilaria_argento.jpg
 last_updated: '2026-01-29T02:04:54.692899'
 musical_connections:
@@ -18,21 +18,23 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=D24nWEkCHq0
-- https://www.youtube.com/watch?v=KafoMyiB3vA
-- https://www.youtube.com/watch?v=V9Y89yg1FRk
-- https://www.shazam.com/en-us/artist/ilaria-argento/1769415712
-- https://ilariaargento.bandcamp.com
-- https://open.spotify.com/artist/6pIsMSURAqkqmZgfA4Bag6
-- https://www.youtube.com/channel/UC_mi8lk_UO3wv2q_7M1yPjw
-- https://app.chartmetric.com/artist/13035225
+  - 'https://www.youtube.com/watch?v=D24nWEkCHq0'
+  - 'https://www.youtube.com/watch?v=KafoMyiB3vA'
+  - 'https://www.youtube.com/watch?v=V9Y89yg1FRk'
+  - 'https://www.shazam.com/en-us/artist/ilaria-argento/1769415712'
+  - 'https://ilariaargento.bandcamp.com'
+  - 'https://open.spotify.com/artist/6pIsMSURAqkqmZgfA4Bag6'
+  - 'https://www.youtube.com/channel/UC_mi8lk_UO3wv2q_7M1yPjw'
+  - 'https://app.chartmetric.com/artist/13035225'
 spotify_data:
   followers: 1539
   id: 6pIsMSURAqkqmZgfA4Bag6
   popularity: 35
-  url: https://open.spotify.com/artist/6pIsMSURAqkqmZgfA4Bag6
+  url: 'https://open.spotify.com/artist/6pIsMSURAqkqmZgfA4Bag6'
 status: active
 title: Ilaria Argento
+artist_type: person
+origin: 'Italy, Italy, Italy'
 ---
 
 ![](ilaria_argento.jpg)

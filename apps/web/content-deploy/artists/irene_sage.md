@@ -1,14 +1,15 @@
 ---
 biography_enhanced_at: '2026-02-03T02:02:01.786728'
-birth_place: New Orleans, Louisiana, United States (based on Jazz and Heritage Festival
+birth_place: >-
+  New Orleans, Louisiana, United States (based on Jazz and Heritage Festival
   connection)
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:02:01.786738'
 external_urls:
-  spotify: https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl
+  spotify: 'https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl'
   wikipedia: Not found in search results
 genres:
-- k-pop
+  - k-pop
 image_path: 03_Resources/source_material/ArtistPortraits/irene_sage.jpg
 last_updated: '2026-02-03T02:02:01.786740'
 musical_connections:
@@ -18,16 +19,17 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.iheart.com/artist/irene-sage-35042451/
-- https://www.allmusic.com/artist/irene-sage-mn0001313894
-- https://irsb.wordpress.com
+  - 'https://www.iheart.com/artist/irene-sage-35042451/'
+  - 'https://www.allmusic.com/artist/irene-sage-mn0001313894'
+  - 'https://irsb.wordpress.com'
 spotify_data:
   followers: 917801
   id: 6bwp9ObI8FWvMPCIWVBmhl
   popularity: 51
-  url: https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl
+  url: 'https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl'
 status: active
 title: Irene Sage
+artist_type: person
 ---
 
 ![](irene_sage.jpg)

@@ -1,87 +1,87 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-28T01:51:28.188765'
 birth_date: '2001'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:51:28.188772'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/eb872766-98f6-453d-883f-2ae908a18315
-  spotify: https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR
-  wikipedia: https://en.wikipedia.org/wiki/TV_on_the_Radio
+  musicbrainz: 'https://musicbrainz.org/artist/eb872766-98f6-453d-883f-2ae908a18315'
+  spotify: 'https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR'
+  wikipedia: 'https://en.wikipedia.org/wiki/TV_on_the_Radio'
 genres:
-- indie rock
-- indie
+  - indie rock
+  - indie
 image_path: 03_Resources/source_material/ArtistPortraits/tv_on_the_radio.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-01-28T01:51:28.188773'
 members:
-- &id001
-  begin: '2003'
-  end: ''
-  instruments: []
-  mbid: c5fc36e7-3e55-4005-8c93-a09a67aad0d0
-  name: Kyp Malone
-- begin: '2005'
-  end: '2011-04-20'
-  instruments: []
-  mbid: dc2c80cb-7c07-4f12-b79a-e45b3d5d962b
-  name: Gerard Smith
-- &id002
-  begin: '2005'
-  end: ''
-  instruments: []
-  mbid: 08b07c2a-c098-454d-a0bf-50b836cb3f0d
-  name: Jaleel Bunton
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 1b5cc4ba-5ade-494e-bf3c-aaf3abf75b65
-  name: Tunde Adebimpe
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: db4bb549-057d-4df7-831e-b4394e2c1359
-  name: Dave Sitek
+  - &ref_0
+    begin: '2003'
+    end: ''
+    instruments: []
+    mbid: c5fc36e7-3e55-4005-8c93-a09a67aad0d0
+    name: Kyp Malone
+  - begin: '2005'
+    end: '2011-04-20'
+    instruments: []
+    mbid: dc2c80cb-7c07-4f12-b79a-e45b3d5d962b
+    name: Gerard Smith
+  - &ref_1
+    begin: '2005'
+    end: ''
+    instruments: []
+    mbid: 08b07c2a-c098-454d-a0bf-50b836cb3f0d
+    name: Jaleel Bunton
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 1b5cc4ba-5ade-494e-bf3c-aaf3abf75b65
+    name: Tunde Adebimpe
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: db4bb549-057d-4df7-831e-b4394e2c1359
+    name: Dave Sitek
 musical_connections:
   collaborators:
-  - Tunde Adebimpe
-  - David Andrew Sitek
-  - Kyp Malone
-  - Jaleel Bunton
-  - Gerard Smith
-  - Yeah Yeah Yeahs
-  - David Bowie
+    - Tunde Adebimpe
+    - David Andrew Sitek
+    - Kyp Malone
+    - Jaleel Bunton
+    - Gerard Smith
+    - Yeah Yeah Yeahs
+    - David Bowie
   influenced: []
   mentors:
-  - Radiohead
+    - Radiohead
 musicbrainz_id: eb872766-98f6-453d-883f-2ae908a18315
 network_extracted: true
-origin: Brooklyn
+origin: 'Brooklyn, New York, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 primary_source: perplexity
 research_sources:
-- https://culture.fandom.com/wiki/TV_on_the_Radio
-- https://en.wikipedia.org/wiki/TV_on_the_Radio
-- https://www.last.fm/music/TV+on+the+Radio/+wiki
-- https://www.youtube.com/watch?v=lhlRHOxMNys
-- https://www.scaruffi.com/vol7/tvonther.html
-- https://dailykemp.com/2022/01/06/tv-on-the-radio-were-an-american-band/
-- https://andrewparks.io/tv-on-the-radio-bio-dear-science/
+  - 'https://culture.fandom.com/wiki/TV_on_the_Radio'
+  - 'https://en.wikipedia.org/wiki/TV_on_the_Radio'
+  - 'https://www.last.fm/music/TV+on+the+Radio/+wiki'
+  - 'https://www.youtube.com/watch?v=lhlRHOxMNys'
+  - 'https://www.scaruffi.com/vol7/tvonther.html'
+  - 'https://dailykemp.com/2022/01/06/tv-on-the-radio-were-an-american-band/'
+  - 'https://andrewparks.io/tv-on-the-radio-bio-dear-science/'
 spotify_data:
   followers: 696976
   id: 3HJIB8sYPyxrFGuwvKXSLR
   popularity: 57
-  url: https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR
+  url: 'https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR'
 status: active
 tags:
-- 4ad
-- art rock
-- electronic
+  - 4ad
+  - art rock
+  - electronic
 title: TV On The Radio
 ---
 

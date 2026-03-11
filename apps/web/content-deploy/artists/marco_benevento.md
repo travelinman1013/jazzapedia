@@ -1,89 +1,92 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d40740eb-3e94-409b-beb1-32b240595da3
-  name: Jazz Farmers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bba78c6c-21b9-42fd-88e8-d47a2ee1764b
-  name: Benevento/Russo Duo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1d134e87-c35f-4e6d-a91f-eb2ca2c4365b
-  name: Bustle in Your Hedgerow
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1002a330-c6eb-4a8e-bafd-bb8e612c3a57
-  name: Garage a Trois
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b9167968-7b50-44c0-b720-f20b9b77673c
-  name: The Coalition of the Willing
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d5e944c8-a2c8-4784-bbca-6488bdb02624
-  name: Marco Benevento Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d40740eb-3e94-409b-beb1-32b240595da3
+    name: Jazz Farmers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bba78c6c-21b9-42fd-88e8-d47a2ee1764b
+    name: Benevento/Russo Duo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1d134e87-c35f-4e6d-a91f-eb2ca2c4365b
+    name: Bustle in Your Hedgerow
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1002a330-c6eb-4a8e-bafd-bb8e612c3a57
+    name: Garage a Trois
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b9167968-7b50-44c0-b720-f20b9b77673c
+    name: The Coalition of the Willing
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d5e944c8-a2c8-4784-bbca-6488bdb02624
+    name: Marco Benevento Trio
 biography_enhanced_at: '2026-02-25T01:58:20.922321'
 birth_date: '1977-07-22'
-birth_place: Livingston
-disambiguation: US pianist, organist & composer
+birth_place: 'Livingston, New Jersey, United States'
+disambiguation: 'US pianist, organist & composer'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T01:58:20.922330'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2de4e97f-550b-4083-8fc4-83f7fd0385be
-  spotify: https://open.spotify.com/artist/1DB8cszlTpqBsDdVWB349w
-  wikipedia: https://en.wikipedia.org/wiki/Marco_Benevento
+  musicbrainz: 'https://musicbrainz.org/artist/2de4e97f-550b-4083-8fc4-83f7fd0385be'
+  spotify: 'https://open.spotify.com/artist/1DB8cszlTpqBsDdVWB349w'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marco_Benevento'
 gender: Male
 genres:
-- jam band
+  - jam band
 image_path: 03_Resources/source_material/ArtistPortraits/marco_benevento.jpg
 instruments:
-- other vocals
-- piano
+  - other vocals
+  - piano
 last_updated: '2026-02-25T01:58:20.922332'
 musical_connections:
   collaborators:
-  - Joe Russo
-  - Dave Dreiwitz
-  - Karina Rykman
-  - Trey Anastasio
-  - Mike Gordon
+    - Joe Russo
+    - Dave Dreiwitz
+    - Karina Rykman
+    - Trey Anastasio
+    - Mike Gordon
   influenced: []
   mentors:
-  - Joanne Brackeen
-  - Kenny Werner
-  - John Medeski
-  - Brad Mehldau
+    - Joanne Brackeen
+    - Kenny Werner
+    - John Medeski
+    - Brad Mehldau
 musicbrainz_id: 2de4e97f-550b-4083-8fc4-83f7fd0385be
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marco_Benevento
-- https://www.chronogram.com/arts/blurring-the-lines-marco-benevento-2148498/
-- https://www.liveandlisten.com/blogs/news/throwback-an-interview-with-marco-benevento
-- http://spaceagencybooking.com/marcobenevento
-- https://downbeat.com/news/detail/marco-benevento-solo-home-brew
-- https://jazztimes.com/reviews/albums/marco-benevento-benevento-royal-potato-family/
-- https://royalpotatofamily.com/artist/marco-benevento/
+  - 'https://en.wikipedia.org/wiki/Marco_Benevento'
+  - 'https://www.chronogram.com/arts/blurring-the-lines-marco-benevento-2148498/'
+  - >-
+    https://www.liveandlisten.com/blogs/news/throwback-an-interview-with-marco-benevento
+  - 'http://spaceagencybooking.com/marcobenevento'
+  - 'https://downbeat.com/news/detail/marco-benevento-solo-home-brew'
+  - >-
+    https://jazztimes.com/reviews/albums/marco-benevento-benevento-royal-potato-family/
+  - 'https://royalpotatofamily.com/artist/marco-benevento/'
 spotify_data:
   followers: 19931
   id: 1DB8cszlTpqBsDdVWB349w
   popularity: 24
-  url: https://open.spotify.com/artist/1DB8cszlTpqBsDdVWB349w
+  url: 'https://open.spotify.com/artist/1DB8cszlTpqBsDdVWB349w'
 status: active
 tags:
-- american
-- experimental
-- jazz
+  - american
+  - experimental
+  - jazz
 title: Marco Benevento
+origin: 'New York City, New York, United States'
 ---
 
 ![](marco_benevento.jpg)

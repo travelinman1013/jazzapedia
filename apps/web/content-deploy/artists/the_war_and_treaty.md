@@ -1,60 +1,62 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-23T03:01:38.422246'
 birth_date: '2014-01-01'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:01:38.422256'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/db15e7aa-7b0b-400a-b8e3-dcb17e646e4a
-  spotify: https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz
+  musicbrainz: 'https://musicbrainz.org/artist/db15e7aa-7b0b-400a-b8e3-dcb17e646e4a'
+  spotify: 'https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_war_and_treaty.jpg
 last_updated: '2026-02-23T03:01:38.422258'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4cece400-073b-4b2e-999e-c52b250cc487
-  name: Tanya Blount
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: da24c43e-d1b0-4cd6-a95a-aa50f7525186
-  name: Michael Trotter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4cece400-073b-4b2e-999e-c52b250cc487
+    name: Tanya Blount
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: da24c43e-d1b0-4cd6-a95a-aa50f7525186
+    name: Michael Trotter
 musical_connections:
   collaborators:
-  - Buddy Miller
-  - Jason Isbell
-  - Emmylou Harris
-  - John Prine
-  - Zach Bryan
-  - Jerry Douglas
-  - Sam Bush
+    - Buddy Miller
+    - Jason Isbell
+    - Emmylou Harris
+    - John Prine
+    - Zach Bryan
+    - Jerry Douglas
+    - Sam Bush
   influenced: []
   mentors:
-  - James Brown
-  - Ray Charles
+    - James Brown
+    - Ray Charles
 musicbrainz_id: db15e7aa-7b0b-400a-b8e3-dcb17e646e4a
 network_extracted: true
-origin: Baltimore
+origin: 'Baltimore, Maryland, United States'
 primary_source: perplexity
 research_sources:
-- https://thestateroompresents.com/state-room-presents/the-war-and-treaty-2
-- https://www.knkx.org/blues/2025-05-13/the-war-and-treaty-husband-wife-duo-blues-americana-country-music
-- https://theconrad.org/https-www-sandiegouniontribune-com-entertainment-music-story-2022-10-26-music-a-matter-of-life-and-death-for-the-war-and-treatys-tanya-trotter-and-michael-trotter-jr/
-- https://famestudios.com/the-war-and-treaty/
-- https://www.cbsnews.com/news/the-war-and-treaty-love-story-plus-one/
-- https://www.scmcgr.org/concerts/the-war-and-treaty
-- https://www.youtube.com/watch?v=19SdCL_nW_E
+  - 'https://thestateroompresents.com/state-room-presents/the-war-and-treaty-2'
+  - >-
+    https://www.knkx.org/blues/2025-05-13/the-war-and-treaty-husband-wife-duo-blues-americana-country-music
+  - >-
+    https://theconrad.org/https-www-sandiegouniontribune-com-entertainment-music-story-2022-10-26-music-a-matter-of-life-and-death-for-the-war-and-treatys-tanya-trotter-and-michael-trotter-jr/
+  - 'https://famestudios.com/the-war-and-treaty/'
+  - 'https://www.cbsnews.com/news/the-war-and-treaty-love-story-plus-one/'
+  - 'https://www.scmcgr.org/concerts/the-war-and-treaty'
+  - 'https://www.youtube.com/watch?v=19SdCL_nW_E'
 spotify_data:
   followers: 187743
   id: 6HhV0jtMMK5HYnYgG0xgtz
   popularity: 55
-  url: https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz
+  url: 'https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz'
 status: active
 tags:
-- country soul
+  - country soul
 title: The War And Treaty
 ---
 

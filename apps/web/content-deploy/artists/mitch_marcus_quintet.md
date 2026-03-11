@@ -1,94 +1,94 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-23T01:42:24.868159'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:42:24.868166'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/123752d3-9975-401f-99c3-89f34da385ed
-  spotify: https://open.spotify.com/artist/1ywPueIb3C0aAwlP1guDzU
+  musicbrainz: 'https://musicbrainz.org/artist/123752d3-9975-401f-99c3-89f34da385ed'
+  spotify: 'https://open.spotify.com/artist/1ywPueIb3C0aAwlP1guDzU'
   wikipedia: Not found
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mitch_marcus_quintet.jpg
 instruments:
-- guitar
-- bass
-- tenor saxophone
-- membranophone
-- alto saxophone
+  - guitar
+  - bass
+  - tenor saxophone
+  - membranophone
+  - alto saxophone
 last_updated: '2026-01-23T01:42:24.868167'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 77397dae-6a14-4861-888a-202ddb7fb67a
-  name: Michael Abraham
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: ee5813c9-9e26-45fe-aee8-14e850c20ff5
-  name: George Ban-Weiss
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 2dfec386-5a8a-4c91-9ba1-bc1caf2be210
-  name: Mitch Marcus
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: c08e81b9-2200-4c7b-a6b0-7acba3c5be18
-  name: Jeff Marrs
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 35ce4df1-5772-4069-b3e8-a29c58c000da
-  name: Sylvain Carton
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: 7352ba0f-3c1d-49ca-8109-1c4e55c74851
-  name: Tomas Fujiwara
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 77397dae-6a14-4861-888a-202ddb7fb67a
+    name: Michael Abraham
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: ee5813c9-9e26-45fe-aee8-14e850c20ff5
+    name: George Ban-Weiss
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 2dfec386-5a8a-4c91-9ba1-bc1caf2be210
+    name: Mitch Marcus
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: c08e81b9-2200-4c7b-a6b0-7acba3c5be18
+    name: Jeff Marrs
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 35ce4df1-5772-4069-b3e8-a29c58c000da
+    name: Sylvain Carton
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: 7352ba0f-3c1d-49ca-8109-1c4e55c74851
+    name: Tomas Fujiwara
 musical_connections:
   collaborators:
-  - Sylvain Carton
-  - Mike Abraham
-  - George Ban-Weiss
-  - Tomas Fujiwara
-  - Jeff Marrs
-  - Trevor Dunn
-  - Donovan
+    - Sylvain Carton
+    - Mike Abraham
+    - George Ban-Weiss
+    - Tomas Fujiwara
+    - Jeff Marrs
+    - Trevor Dunn
+    - Donovan
   influenced:
-  - Charles Mingus
-  - Thelonious Monk
-  - Sonny Rollins
-  - Frank Zappa
-  - John Zorn
+    - Charles Mingus
+    - Thelonious Monk
+    - Sonny Rollins
+    - Frank Zappa
+    - John Zorn
   mentors:
-  - David Baker
-  - Tom Walsh
+    - David Baker
+    - Tom Walsh
 musicbrainz_id: 123752d3-9975-401f-99c3-89f34da385ed
 network_extracted: true
-origin: Indiana
+origin: 'Indiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/mitch-marcus/
-- https://mitchmarcusmusic.com/mmq/
-- https://mitchmarcusmusic.com/music/
-- https://chezhanny.com/mitch_marcus_2016.html
-- https://ailey.org/people/mitch-marcus
-- https://www.dansr.com/artists/mitch-marcus
-- https://www.smallslive.com/artists/71-mitch-marcus/
-- https://web11.fcny.org/cap21/conservatory/faculty/amd/Marcus_Mitch/
+  - 'https://www.allaboutjazz.com/musicians/mitch-marcus/'
+  - 'https://mitchmarcusmusic.com/mmq/'
+  - 'https://mitchmarcusmusic.com/music/'
+  - 'https://chezhanny.com/mitch_marcus_2016.html'
+  - 'https://ailey.org/people/mitch-marcus'
+  - 'https://www.dansr.com/artists/mitch-marcus'
+  - 'https://www.smallslive.com/artists/71-mitch-marcus/'
+  - 'https://web11.fcny.org/cap21/conservatory/faculty/amd/Marcus_Mitch/'
 spotify_data:
   followers: 33
   id: 1ywPueIb3C0aAwlP1guDzU
   popularity: 0
-  url: https://open.spotify.com/artist/1ywPueIb3C0aAwlP1guDzU
+  url: 'https://open.spotify.com/artist/1ywPueIb3C0aAwlP1guDzU'
 status: active
 title: Mitch Marcus Quintet
 ---

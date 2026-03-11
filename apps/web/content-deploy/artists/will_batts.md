@@ -1,34 +1,37 @@
 ---
 biography_enhanced_at: '2026-01-27T01:55:29.445921'
-birth_place: Michigan, Mississippi, United States
+birth_place: 'Michigan, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:55:29.445926'
 external_urls:
-  spotify: https://open.spotify.com/artist/15EWKxh9CT6XDgMsbtSPqN
+  spotify: 'https://open.spotify.com/artist/15EWKxh9CT6XDgMsbtSPqN'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/will_batts.jpg
 last_updated: '2026-01-27T01:55:29.445927'
 musical_connections:
   collaborators:
-  - Jack Kelly
+    - Jack Kelly
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/will-batts-mn0000960668
-- https://www.allaboutjazz.com/musicians/will-batts/
-- https://www.bmansbluesreport.com/2013/02/country-woman-will-batts.html
-- https://www.last.fm/music/Will+Batts/+wiki
-- https://www.findagrave.com/memorial/13726983/will-batts
+  - 'https://www.allmusic.com/artist/will-batts-mn0000960668'
+  - 'https://www.allaboutjazz.com/musicians/will-batts/'
+  - 'https://www.bmansbluesreport.com/2013/02/country-woman-will-batts.html'
+  - 'https://www.last.fm/music/Will+Batts/+wiki'
+  - 'https://www.findagrave.com/memorial/13726983/will-batts'
 spotify_data:
   followers: 4832
   id: 15EWKxh9CT6XDgMsbtSPqN
   popularity: 32
-  url: https://open.spotify.com/artist/15EWKxh9CT6XDgMsbtSPqN
+  url: 'https://open.spotify.com/artist/15EWKxh9CT6XDgMsbtSPqN'
 status: active
-title: WILL BATTS
+title: Will Batts
+birth_date: '1904-01-24'
+death_date: '1956'
+artist_type: person
 ---
 
 ![](will_batts.jpg)

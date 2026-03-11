@@ -3,46 +3,49 @@ biography_enhanced_at: '2026-02-24T01:41:06.886699'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:41:06.886716'
 external_urls:
-  spotify: https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN
-  wikipedia: https://en.wikipedia.org/wiki/Oliver_Nelson
+  spotify: 'https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Oliver_Nelson'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
-- big band
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/hank_jones_and_oliver_nelson.jpg
 last_updated: '2026-02-24T01:41:06.886718'
 musical_connections:
   collaborators:
-  - Ella Fitzgerald
-  - Joe Newman
-  - Clark Terry
-  - Quincy Jones
-  - Ron Carter
+    - Ella Fitzgerald
+    - Joe Newman
+    - Clark Terry
+    - Quincy Jones
+    - Ron Carter
   influenced:
-  - Thad Jones and Elvin Jones
+    - Thad Jones and Elvin Jones
   mentors:
-  - Coleman Hawkins
-  - Erskine Hawkins
+    - Coleman Hawkins
+    - Erskine Hawkins
 network_extracted: true
-origin: Not a single entity; Hank Jones born Vicksburg, Mississippi, USA; Oliver Nelson
-  born St. Louis, Missouri, USA
+origin: >-
+  Not a single entity; Hank Jones born Vicksburg, Mississippi, USA; Oliver
+  Nelson born St. Louis, Missouri, USA
 primary_source: perplexity
 research_sources:
-- https://concord.com/artist/oliver-nelson/
-- https://en.wikipedia.org/wiki/Oliver_Nelson
-- https://nationaljazzarchive.org.uk/explore/interviews/1622942-hank-jones
-- https://jazztimes.com/features/profiles/hank-jones-have-you-met-mr-jones/
-- https://www.ebsco.com/research-starters/biography/hank-jones
-- https://concord.com/artist/hank-jones/
+  - 'https://concord.com/artist/oliver-nelson/'
+  - 'https://en.wikipedia.org/wiki/Oliver_Nelson'
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1622942-hank-jones'
+  - 'https://jazztimes.com/features/profiles/hank-jones-have-you-met-mr-jones/'
+  - 'https://www.ebsco.com/research-starters/biography/hank-jones'
+  - 'https://concord.com/artist/hank-jones/'
 spotify_data:
   followers: 69333
   id: 2nQKUeZeleLGNsJj6WLUXN
   popularity: 41
-  url: https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN
+  url: 'https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN'
 status: active
 title: Hank Jones & Oliver Nelson
+birth_place: 'Vicksburg, Mississippi, United States'
+artist_type: band
 ---
 
 ![](hank_jones_and_oliver_nelson.jpg)

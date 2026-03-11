@@ -3,42 +3,43 @@ biography_enhanced_at: '2026-02-06T01:09:51.632449'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:09:51.632459'
 external_urls:
-  spotify: https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1
-  wikipedia: https://en.wikipedia.org/wiki/Gladys_Knight_%26_the_Pips
+  spotify: 'https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gladys_Knight_%26_the_Pips'
 genres:
-- motown
-- classic soul
-- soul
-- northern soul
+  - motown
+  - classic soul
+  - soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/gladys_knight_and_the_pips.jpg
 last_updated: '2026-02-06T01:09:51.632460'
 musical_connections:
   collaborators:
-  - Merald "Bubba" Knight
-  - Edward Patten
-  - William Guest
-  - Jimmy Newman
+    - Merald "Bubba" Knight
+    - Edward Patten
+    - William Guest
+    - Jimmy Newman
   influenced: []
   mentors:
-  - Maurice King
-  - Cholly "Pops" Atkins
-  - Norman Whitfield
+    - Maurice King
+    - Cholly "Pops" Atkins
+    - Norman Whitfield
 network_extracted: true
-origin: Atlanta, Georgia, United States
+origin: 'Atlanta, Georgia, United States'
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/gladys-knight
-- https://www.britannica.com/biography/Gladys-Knight
-- https://en.wikipedia.org/wiki/Gladys_Knight_%26_the_Pips
-- https://www.motownmuseum.org/artist/gladys-knight-and-the-pips/
-- https://rockhall.com/inductees/gladys-knight-and-the-pips/
+  - 'https://www.biography.com/musicians/gladys-knight'
+  - 'https://www.britannica.com/biography/Gladys-Knight'
+  - 'https://en.wikipedia.org/wiki/Gladys_Knight_%26_the_Pips'
+  - 'https://www.motownmuseum.org/artist/gladys-knight-and-the-pips/'
+  - 'https://rockhall.com/inductees/gladys-knight-and-the-pips/'
 spotify_data:
   followers: 1452421
   id: 0TF2NxkJZPQoX1H53rEFM1
   popularity: 59
-  url: https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1
+  url: 'https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1'
 status: active
-title: gladys knight and the pips
+title: Gladys Knight and the Pips
+artist_type: band
 ---
 
 ![](gladys_knight_and_the_pips.jpg)

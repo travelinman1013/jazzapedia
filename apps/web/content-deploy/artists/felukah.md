@@ -1,51 +1,53 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-03-08T03:03:32.705293'
-birth_place: Outside Cairo, Egypt
+birth_place: 'Outside Cairo, Egypt, Egypt'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:03:32.705302'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1c99abfb-1169-4023-af3e-8352194e6018
-  spotify: https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F
+  musicbrainz: 'https://musicbrainz.org/artist/1c99abfb-1169-4023-af3e-8352194e6018'
+  spotify: 'https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F'
   wikipedia: ''
 gender: Female
 genres:
-- arabic hip hop
-- egyptian hip hop
-- indie r&b
+  - arabic hip hop
+  - egyptian hip hop
+  - indie r&b
 image_path: 03_Resources/source_material/ArtistPortraits/felukah.jpg
 last_updated: '2026-03-08T03:03:32.705304'
 musical_connections:
   collaborators:
-  - Unnamed Egyptian producers
-  - Upcoming Egyptian women artists
+    - Unnamed Egyptian producers
+    - Upcoming Egyptian women artists
   influenced: []
   mentors:
-  - High school teacher
+    - High school teacher
 musicbrainz_id: 1c99abfb-1169-4023-af3e-8352194e6018
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.azeemamag.com/stories/felukah
-- https://profileability.com/felukah/
-- https://www.newarab.com/features/cairo-new-york-felukah-redefines-arab-identity-music
-- https://hiphopafrican.com/felukah/
-- https://africans-in-america.com/2020/02/27/meet-felukah-the-harlemite-egyptian-queen-of-hip-hop/
-- https://pan-african-music.com/en/felukah-arabfuturism/
-- https://metalmagazine.eu/en/post/felukah
-- https://www.cosmopolitanme.com/celebs/felukah-the-aquarius-in-her-prime
-- https://marsm.co.uk/articles/artist-of-the-month-3-felukah/
+  - 'https://www.azeemamag.com/stories/felukah'
+  - 'https://profileability.com/felukah/'
+  - >-
+    https://www.newarab.com/features/cairo-new-york-felukah-redefines-arab-identity-music
+  - 'https://hiphopafrican.com/felukah/'
+  - >-
+    https://africans-in-america.com/2020/02/27/meet-felukah-the-harlemite-egyptian-queen-of-hip-hop/
+  - 'https://pan-african-music.com/en/felukah-arabfuturism/'
+  - 'https://metalmagazine.eu/en/post/felukah'
+  - 'https://www.cosmopolitanme.com/celebs/felukah-the-aquarius-in-her-prime'
+  - 'https://marsm.co.uk/articles/artist-of-the-month-3-felukah/'
 spotify_data:
   followers: 28717
   id: 0nmukaO2zzwRPEevPJph1F
   popularity: 29
-  url: https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F
+  url: 'https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F'
 status: active
 tags:
-- blood orange
-- contemporary r&b
-- gorillaz
-title: felukah
+  - blood orange
+  - contemporary r&b
+  - gorillaz
+title: Felukah
 ---
 
 ![](felukah.jpg)

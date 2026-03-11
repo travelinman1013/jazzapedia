@@ -3,40 +3,41 @@ biography_enhanced_at: '2026-02-27T01:37:42.844456'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:37:42.844466'
 external_urls:
-  spotify: https://open.spotify.com/artist/0n8GWTNsS9bnb4ZMUKg5VH
+  spotify: 'https://open.spotify.com/artist/0n8GWTNsS9bnb4ZMUKg5VH'
   wikipedia: ''
 genres:
-- northern soul
-- doo-wop
+  - northern soul
+  - doo-wop
 image_path: 03_Resources/source_material/ArtistPortraits/the_valentinos.jpg
 last_updated: '2026-02-27T01:37:42.844468'
 musical_connections:
   collaborators:
-  - Bobby Womack
-  - Cecil Womack
-  - Curtis Womack
+    - Bobby Womack
+    - Cecil Womack
+    - Curtis Womack
   influenced:
-  - The Rolling Stones
-  - J. Geils Band
+    - The Rolling Stones
+    - J. Geils Band
   mentors:
-  - Sam Cooke
-  - Friendly Womack Sr.
+    - Sam Cooke
+    - Friendly Womack Sr.
 network_extracted: true
-origin: Cleveland, Ohio, USA
+origin: 'Cleveland, Ohio, USA'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/The+Valentinos/+wiki
-- http://www.soulwalking.co.uk/Valentinos.html
-- https://nostalgiacentral.com/music/artists-l-to-z/artists-v/valentinos-the/
-- https://www.youtube.com/watch?v=aTc0QBmnWS4
-- https://www.allmusic.com/artist/the-valentinos-mn0000572313
+  - 'https://www.last.fm/music/The+Valentinos/+wiki'
+  - 'http://www.soulwalking.co.uk/Valentinos.html'
+  - 'https://nostalgiacentral.com/music/artists-l-to-z/artists-v/valentinos-the/'
+  - 'https://www.youtube.com/watch?v=aTc0QBmnWS4'
+  - 'https://www.allmusic.com/artist/the-valentinos-mn0000572313'
 spotify_data:
   followers: 3899
   id: 0n8GWTNsS9bnb4ZMUKg5VH
   popularity: 19
-  url: https://open.spotify.com/artist/0n8GWTNsS9bnb4ZMUKg5VH
+  url: 'https://open.spotify.com/artist/0n8GWTNsS9bnb4ZMUKg5VH'
 status: active
-title: the valentinos
+title: The Valentinos
+artist_type: band
 ---
 
 ![](the_valentinos.jpg)

@@ -3,46 +3,51 @@ biography_enhanced_at: '2026-02-24T01:42:38.097371'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:42:38.097384'
 external_urls:
-  spotify: https://open.spotify.com/artist/6PaS7SRwcsHsWQy24n349I
-  wikipedia: https://en.wikipedia.org/wiki/Brian_Blade
+  spotify: 'https://open.spotify.com/artist/6PaS7SRwcsHsWQy24n349I'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brian_Blade'
 genres:
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/brian_blade_and_the_fellowship_band.jpg
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/brian_blade_and_the_fellowship_band.jpg
 last_updated: '2026-02-24T01:42:38.097387'
 musical_connections:
   collaborators:
-  - Jon Cowherd
-  - Myron Walden
-  - Melvin Butler
-  - Christopher Thomas
-  - Kurt Rosenwinkel
-  - Wayne Shorter
+    - Jon Cowherd
+    - Myron Walden
+    - Melvin Butler
+    - Christopher Thomas
+    - Kurt Rosenwinkel
+    - Wayne Shorter
   influenced: []
   mentors:
-  - Ellis Marsalis
-  - John Vidacovich
-  - Steve Masakowski
+    - Ellis Marsalis
+    - John Vidacovich
+    - Steve Masakowski
 network_extracted: true
-origin: Shreveport, Louisiana, USA
+origin: 'Shreveport, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Brian_Blade
-- https://www.detroitjazzfest.org/artist/brian-blade/
-- https://www.jazzempowers.org/brian-blade
-- https://www.brianblade.com/bands/the-fellowship-band
-- https://www.fasching.se/en/brian-blade-and-the-fellowship-band/
-- https://www.hollywoodbowl.com/musicdb/artists/9330/brian-blade-the-fellowship-band
-- https://www.bluenote.com/artist/brian-blade/
-- https://www.allaboutjazz.com/meet-brian-blade-brian-blade
-- https://jazzweekly.com/2024/08/brian-blade-interview/
-- https://jazztimes.com/reviews/albums/brian-blade-fellowship-perceptual/
+  - 'https://en.wikipedia.org/wiki/Brian_Blade'
+  - 'https://www.detroitjazzfest.org/artist/brian-blade/'
+  - 'https://www.jazzempowers.org/brian-blade'
+  - 'https://www.brianblade.com/bands/the-fellowship-band'
+  - 'https://www.fasching.se/en/brian-blade-and-the-fellowship-band/'
+  - >-
+    https://www.hollywoodbowl.com/musicdb/artists/9330/brian-blade-the-fellowship-band
+  - 'https://www.bluenote.com/artist/brian-blade/'
+  - 'https://www.allaboutjazz.com/meet-brian-blade-brian-blade'
+  - 'https://jazzweekly.com/2024/08/brian-blade-interview/'
+  - 'https://jazztimes.com/reviews/albums/brian-blade-fellowship-perceptual/'
 spotify_data:
   followers: 2539
   id: 6PaS7SRwcsHsWQy24n349I
   popularity: 12
-  url: https://open.spotify.com/artist/6PaS7SRwcsHsWQy24n349I
+  url: 'https://open.spotify.com/artist/6PaS7SRwcsHsWQy24n349I'
 status: active
 title: Brian Blade and the Fellowship Band
+birth_place: 'Shreveport, Louisiana, United States'
+birth_date: '1970-07-25'
+artist_type: band
 ---
 
 ![](brian_blade_and_the_fellowship_band.jpg)

@@ -3,11 +3,11 @@ biography_enhanced_at: '2026-02-27T01:36:44.911495'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:36:44.911565'
 external_urls:
-  spotify: https://open.spotify.com/artist/4QQMithHxRhyk69LgkMKEg
+  spotify: 'https://open.spotify.com/artist/4QQMithHxRhyk69LgkMKEg'
   wikipedia: ''
 genres:
-- country christian
-- gospel
+  - country christian
+  - gospel
 image_path: 03_Resources/source_material/ArtistPortraits/solo.jpg
 last_updated: '2026-02-27T01:36:44.911573'
 musical_connections:
@@ -17,21 +17,24 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.guypenrod.com/bio
-- https://www.wholesomewords.org/biography/balexander3.html
-- https://en.wikipedia.org/wiki/Brandon_Lake
-- https://nashvillechristiancountry.org/artist-bios-1
-- https://www.crossrhythms.co.uk/articles/music/Doug_Briney__A_country_gospel_singer_and_pastor_of_a_cowboy_church/49816/p1/
-- https://www.britannica.com/biography/Donnie-McClurkin
-- https://en.wikipedia.org/wiki/Dallas_Holm
-- https://www.stonecoldcountry.net/post/5-country-stars-that-chose-faith-over-fame
+  - 'https://www.guypenrod.com/bio'
+  - 'https://www.wholesomewords.org/biography/balexander3.html'
+  - 'https://en.wikipedia.org/wiki/Brandon_Lake'
+  - 'https://nashvillechristiancountry.org/artist-bios-1'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Doug_Briney__A_country_gospel_singer_and_pastor_of_a_cowboy_church/49816/p1/
+  - 'https://www.britannica.com/biography/Donnie-McClurkin'
+  - 'https://en.wikipedia.org/wiki/Dallas_Holm'
+  - >-
+    https://www.stonecoldcountry.net/post/5-country-stars-that-chose-faith-over-fame
 spotify_data:
   followers: 64080
   id: 4QQMithHxRhyk69LgkMKEg
   popularity: 51
-  url: https://open.spotify.com/artist/4QQMithHxRhyk69LgkMKEg
+  url: 'https://open.spotify.com/artist/4QQMithHxRhyk69LgkMKEg'
 status: active
 title: SOLO
+artist_type: person
 ---
 
 ![](solo.jpg)

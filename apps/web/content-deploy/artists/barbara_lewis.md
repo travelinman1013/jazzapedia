@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-10T01:53:25.413975'
-birth_place: South Lyon / Salem, Michigan, USA
+birth_place: 'South Lyon / Salem, Michigan, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:53:25.413986'
 external_urls:
-  spotify: https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq
-  wikipedia: https://en.wikipedia.org/wiki/Barbara_Lewis
+  spotify: 'https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barbara_Lewis'
 genres:
-- northern soul
-- doo-wop
+  - northern soul
+  - doo-wop
 image_path: 03_Resources/source_material/ArtistPortraits/barbara_lewis.jpg
 last_updated: '2026-02-10T01:53:25.413988'
 musical_connections:
   collaborators:
-  - Bert Berns
-  - The Andantes
-  - The Dells
-  - Marvin Gaye
+    - Bert Berns
+    - The Andantes
+    - The Dells
+    - Marvin Gaye
   influenced:
-  - The Searchers
-  - Carrie Lucas
-  - Yvonne Elliman
-  - Queen Latifah
+    - The Searchers
+    - Carrie Lucas
+    - Yvonne Elliman
+    - Queen Latifah
   mentors:
-  - Ollie McLaughlin
-  - Sheldon Brooks
+    - Ollie McLaughlin
+    - Sheldon Brooks
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://michiganrockandrolllegends.com/hall-of-fame/artists/298-barbara-lewis
-- http://www.soulwalking.co.uk/Barbara%20Lewis.html
-- https://en.wikipedia.org/wiki/Barbara_Lewis
-- https://app.soulyears.com/rnb-chart_position-artist-Barbara+Lewis.htm
+  - >-
+    https://michiganrockandrolllegends.com/hall-of-fame/artists/298-barbara-lewis
+  - 'http://www.soulwalking.co.uk/Barbara%20Lewis.html'
+  - 'https://en.wikipedia.org/wiki/Barbara_Lewis'
+  - 'https://app.soulyears.com/rnb-chart_position-artist-Barbara+Lewis.htm'
 spotify_data:
   followers: 92379
   id: 2UocIcNiHj5n4tj1CnBzRq
   popularity: 47
-  url: https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq
+  url: 'https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq'
 status: active
-title: BARBARA LEWIS
+title: Barbara Lewis
+birth_date: '1943-02-09'
+artist_type: person
 ---
 
 ![](barbara_lewis.jpg)

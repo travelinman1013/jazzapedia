@@ -1,37 +1,38 @@
 ---
 biography_enhanced_at: '2026-02-03T02:11:52.566631'
-birth_place: Boca Raton, Florida, USA
+birth_place: 'Boca Raton, Florida, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:11:52.566640'
 external_urls:
-  spotify: https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U
+  spotify: 'https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ariana_grande_mac_miller.jpg
 last_updated: '2026-02-03T02:11:52.566642'
 musical_connections:
   collaborators:
-  - Mac Miller
-  - Iggy Azalea
-  - Big Sean
-  - Lady Gaga
-  - Justin Bieber
+    - Mac Miller
+    - Iggy Azalea
+    - Big Sean
+    - Lady Gaga
+    - Justin Bieber
   influenced: []
   mentors:
-  - Eric Vetro
+    - Eric Vetro
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/ariana-grande
-- https://arianagrande.fandom.com/wiki/Ariana_Grande
-- https://www.youtube.com/watch?v=vPb-d0LMcN4
+  - 'https://www.biography.com/musicians/ariana-grande'
+  - 'https://arianagrande.fandom.com/wiki/Ariana_Grande'
+  - 'https://www.youtube.com/watch?v=vPb-d0LMcN4'
 spotify_data:
   followers: 12464996
   id: 4LLpKhyESsyAXpc4laK94U
   popularity: 85
-  url: https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U
+  url: 'https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U'
 status: active
-title: Ariana Grande/ Mac Miller
+title: Ariana Grande / Mac Miller
+artist_type: person
 ---
 
 ![](ariana_grande_mac_miller.jpg)

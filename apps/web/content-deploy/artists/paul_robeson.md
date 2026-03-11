@@ -2,56 +2,58 @@
 artist_type: person
 biography_enhanced_at: '2026-02-19T01:59:08.636738'
 birth_date: '1898-04-09'
-birth_place: Princeton
+birth_place: 'Princeton, New Jersey, United States'
 death_date: '1976-01-23'
 disambiguation: American bass baritone
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:59:08.636772'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bbc5febe-0321-4bb2-adcd-8dafbf8d8841
-  spotify: https://open.spotify.com/artist/6ccc2jvU6SYt0OyInCkIbG
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Robeson
+  musicbrainz: 'https://musicbrainz.org/artist/bbc5febe-0321-4bb2-adcd-8dafbf8d8841'
+  spotify: 'https://open.spotify.com/artist/6ccc2jvU6SYt0OyInCkIbG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Robeson'
 gender: Male
 genres:
-- traditional gospel
+  - traditional gospel
 image_path: 03_Resources/source_material/ArtistPortraits/paul_robeson.jpg
 instruments:
-- bass vocals
-- bass-baritone vocals
-- spoken vocals
-- baritone vocals
-- lead vocals
+  - bass vocals
+  - bass-baritone vocals
+  - spoken vocals
+  - baritone vocals
+  - lead vocals
 last_updated: '2026-02-19T01:59:08.636775'
 musical_connections:
   collaborators:
-  - Lawrence Brown
+    - Lawrence Brown
   influenced:
-  - Roland Hayes
+    - Roland Hayes
   mentors:
-  - William Drew Robeson
+    - William Drew Robeson
 musicbrainz_id: bbc5febe-0321-4bb2-adcd-8dafbf8d8841
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Paul_Robeson
-- https://collaborativehistory.gse.upenn.edu/stories/paul-robeson-part-i-making-international-icon
-- https://study.com/academy/lesson/paul-robeson-songs-movies-plays.html
-- https://www.ebsco.com/research-starters/history/paul-robeson
-- https://www.blackmusicproject.com/artists/paul-robeson
-- https://spartacus-educational.com/USArobeson.htm
-- https://www.britannica.com/biography/Paul-Robeson
-- https://paulrobesonhouse.org/paul-robeson/
+  - 'https://en.wikipedia.org/wiki/Paul_Robeson'
+  - >-
+    https://collaborativehistory.gse.upenn.edu/stories/paul-robeson-part-i-making-international-icon
+  - 'https://study.com/academy/lesson/paul-robeson-songs-movies-plays.html'
+  - 'https://www.ebsco.com/research-starters/history/paul-robeson'
+  - 'https://www.blackmusicproject.com/artists/paul-robeson'
+  - 'https://spartacus-educational.com/USArobeson.htm'
+  - 'https://www.britannica.com/biography/Paul-Robeson'
+  - 'https://paulrobesonhouse.org/paul-robeson/'
 spotify_data:
   followers: 24900
   id: 6ccc2jvU6SYt0OyInCkIbG
   popularity: 28
-  url: https://open.spotify.com/artist/6ccc2jvU6SYt0OyInCkIbG
+  url: 'https://open.spotify.com/artist/6ccc2jvU6SYt0OyInCkIbG'
 status: active
 tags:
-- baritone
-- bass
-- spirituals
-title: paul robeson
+  - baritone
+  - bass
+  - spirituals
+title: Paul Robeson
+is_active: false
 ---
 
 ![](paul_robeson.jpg)

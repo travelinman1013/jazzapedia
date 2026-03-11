@@ -3,48 +3,54 @@ biography_enhanced_at: '2026-02-12T01:10:19.108227'
 enhancement_provider: perplexity
 entry_created: '2026-02-12T01:10:19.108235'
 external_urls:
-  spotify: https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3
-  wikipedia: https://en.wikipedia.org/wiki/Max_Roach
+  spotify: 'https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Max_Roach'
 genres:
-- hard bop
-- bebop
-- jazz
-- cool jazz
+  - hard bop
+  - bebop
+  - jazz
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/max_roachabbey_lincoln.jpg
 last_updated: '2026-02-12T01:10:19.108236'
 musical_connections:
   collaborators:
-  - Clifford Brown
-  - Charles Mingus
-  - Sonny Rollins
-  - Dinah Washington
+    - Clifford Brown
+    - Charles Mingus
+    - Sonny Rollins
+    - Dinah Washington
   influenced:
-  - Joe Morello
-  - Tony Williams
-  - Jack DeJohnette
-  - Maxine Roach
+    - Joe Morello
+    - Tony Williams
+    - Jack DeJohnette
+    - Maxine Roach
   mentors:
-  - Billie Holiday
-  - Dizzy Gillespie
-  - Charlie Parker
+    - Billie Holiday
+    - Dizzy Gillespie
+    - Charlie Parker
 network_extracted: true
-origin: Newland, North Carolina, USA (Max Roach birthplace); Chicago, Illinois, USA
+origin: >-
+  Newland, North Carolina, USA (Max Roach birthplace); Chicago, Illinois, USA
   (Abbey Lincoln birthplace)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Max_Roach
-- https://en.wikipedia.org/wiki/Abbey_Lincoln
-- https://www.arts.gov/honors/jazz/abbey-lincoln
-- https://wyntonmarsalis.org/news/entry/max-roach-at-100-inventor-of-modern-drumming-is-only-the-beginning
-- https://herondance.org/abbey-lincoln
-- https://www.kcck.org/soundtrack/202303-max-roach-abbey-lincoln/
+  - 'https://en.wikipedia.org/wiki/Max_Roach'
+  - 'https://en.wikipedia.org/wiki/Abbey_Lincoln'
+  - 'https://www.arts.gov/honors/jazz/abbey-lincoln'
+  - >-
+    https://wyntonmarsalis.org/news/entry/max-roach-at-100-inventor-of-modern-drumming-is-only-the-beginning
+  - 'https://herondance.org/abbey-lincoln'
+  - 'https://www.kcck.org/soundtrack/202303-max-roach-abbey-lincoln/'
 spotify_data:
   followers: 11052
   id: 6ynifrh6ZrWXHAywnUlNV3
   popularity: 37
-  url: https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3
+  url: 'https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3'
 status: active
-title: max roach/abbey lincoln
+title: Max Roach/Abbey Lincoln
+birth_place: 'Newland, North Carolina, United States'
+birth_date: '1924-01-10'
+death_date: '2007-08-16'
+artist_type: band
 ---
 
 ![](max_roachabbey_lincoln.jpg)

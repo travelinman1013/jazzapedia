@@ -1,72 +1,74 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 148e4af5-16ae-4cd8-b769-6d5d23027713
-  name: The Dizzy Gillespie United Nation All Star Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 70365513-39d7-47e3-b898-1f70f607b1fe
-  name: Irakere
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 9c64fab1-dc98-4bf6-ac45-5cb9ad1ad015
-  name: The Latin Crossings
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 148e4af5-16ae-4cd8-b769-6d5d23027713
+    name: The Dizzy Gillespie United Nation All Star Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 70365513-39d7-47e3-b898-1f70f607b1fe
+    name: Irakere
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 9c64fab1-dc98-4bf6-ac45-5cb9ad1ad015
+    name: The Latin Crossings
 biography_enhanced_at: '2026-03-08T03:01:53.917995'
 birth_date: '1949-11-06'
-birth_place: Artemisa
-disambiguation: Cuban-American jazz trumpeter, pianist & composer
+birth_place: 'Artemisa, Cuba'
+disambiguation: 'Cuban-American jazz trumpeter, pianist & composer'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:01:53.918003'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c5cda118-797f-4124-aef2-f1ada89d3408
-  spotify: https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ
+  musicbrainz: 'https://musicbrainz.org/artist/c5cda118-797f-4124-aef2-f1ada89d3408'
+  spotify: 'https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ'
   wikipedia: ''
 gender: Male
 genres:
-- latin jazz
-- afro-cuban jazz
-- big band
-- jazz
+  - latin jazz
+  - afro-cuban jazz
+  - big band
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/arturo_sandoval.jpg
 instruments:
-- original
-- piano
-- lead vocals
+  - original
+  - piano
+  - lead vocals
 last_updated: '2026-03-08T03:01:53.918005'
 musical_connections:
   collaborators:
-  - Paquito D'Rivera
-  - Chucho Valdes
-  - Dizzy Gillespie
-  - Tony Bennett
+    - Paquito D'Rivera
+    - Chucho Valdes
+    - Dizzy Gillespie
+    - Tony Bennett
   influenced: []
   mentors:
-  - Dizzy Gillespie
+    - Dizzy Gillespie
 musicbrainz_id: c5cda118-797f-4124-aef2-f1ada89d3408
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arshtcenter.org/digital-programs/currently-playing/all-digital-programs/jazz/arturo-sandoval/
-- https://arturosandoval.com/artist/
-- https://www.laphil.com/musicdb/artists/4665/arturo-sandoval
-- https://www.allaboutjazz.com/musicians/arturo-sandoval/
-- https://mgleatherwork.com/blogs/news/arturo-sandovals-biography-career-highlights-and-philosophy
+  - >-
+    https://www.arshtcenter.org/digital-programs/currently-playing/all-digital-programs/jazz/arturo-sandoval/
+  - 'https://arturosandoval.com/artist/'
+  - 'https://www.laphil.com/musicdb/artists/4665/arturo-sandoval'
+  - 'https://www.allaboutjazz.com/musicians/arturo-sandoval/'
+  - >-
+    https://mgleatherwork.com/blogs/news/arturo-sandovals-biography-career-highlights-and-philosophy
 spotify_data:
   followers: 103500
   id: 0MGQZNEMaEICyku3cSDrnJ
   popularity: 43
-  url: https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ
+  url: 'https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ'
 status: active
 tags:
-- afro-cuban
-- jazz
-- latin jazz
+  - afro-cuban
+  - jazz
+  - latin jazz
 title: Arturo Sandoval
 ---
 

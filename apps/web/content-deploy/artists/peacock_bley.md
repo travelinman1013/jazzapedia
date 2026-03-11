@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-06T01:06:26.920099'
-birth_place: New York City, New York, USA
+birth_place: 'New York City, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:06:26.920105'
 external_urls:
-  spotify: https://open.spotify.com/artist/2GAAUAoTnsLw5VXUZ8SCtN
-  wikipedia: https://en.wikipedia.org/wiki/Gary_Peacock
+  spotify: 'https://open.spotify.com/artist/2GAAUAoTnsLw5VXUZ8SCtN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gary_Peacock'
 genres:
-- country blues
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/peacock_bley.jpg
 last_updated: '2026-02-06T01:06:26.920106'
 musical_connections:
   collaborators:
-  - Paul Bley
-  - Annette Peacock
-  - Keith Jarrett
-  - Jack DeJohnette
-  - Paul Motian
-  - Albert Ayler
+    - Paul Bley
+    - Annette Peacock
+    - Keith Jarrett
+    - Jack DeJohnette
+    - Paul Motian
+    - Albert Ayler
   influenced:
-  - Marc Copland
+    - Marc Copland
   mentors:
-  - Ray Brown
-  - Scott LaFaro
-  - Paul Chambers
+    - Ray Brown
+    - Scott LaFaro
+    - Paul Chambers
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gary_Peacock
-- https://en.wikipedia.org/wiki/Paul_Bley
-- http://www.improvart.com/bley/bleybio.htm
-- https://www.blankforms.org/events/annette-peacock
-- https://doublebasshq.com/exploring-the-genius-of-gary-peacocks-double-bass-playing/
-- https://www.allaboutjazz.com/annette-paul-bley-hatology-review-by-raul-dgama-rose
+  - 'https://en.wikipedia.org/wiki/Gary_Peacock'
+  - 'https://en.wikipedia.org/wiki/Paul_Bley'
+  - 'http://www.improvart.com/bley/bleybio.htm'
+  - 'https://www.blankforms.org/events/annette-peacock'
+  - >-
+    https://doublebasshq.com/exploring-the-genius-of-gary-peacocks-double-bass-playing/
+  - >-
+    https://www.allaboutjazz.com/annette-paul-bley-hatology-review-by-raul-dgama-rose
 spotify_data:
   followers: 141
   id: 2GAAUAoTnsLw5VXUZ8SCtN
   popularity: 10
-  url: https://open.spotify.com/artist/2GAAUAoTnsLw5VXUZ8SCtN
+  url: 'https://open.spotify.com/artist/2GAAUAoTnsLw5VXUZ8SCtN'
 status: active
 title: Peacock/ Bley
+artist_type: person
 ---
 
 ![](peacock_bley.jpg)

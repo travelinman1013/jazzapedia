@@ -1,42 +1,47 @@
 ---
 biography_enhanced_at: '2026-03-01T01:57:26.675677'
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T01:57:26.675683'
 external_urls:
-  spotify: https://open.spotify.com/artist/226GuHupXwP0mCHZ0uWN9F
+  spotify: 'https://open.spotify.com/artist/226GuHupXwP0mCHZ0uWN9F'
   wikipedia: ''
 genres:
-- northern soul
-image_path: 03_Resources/source_material/ArtistPortraits/john_williams_and_his_memphis_stompers.jpg
+  - northern soul
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/john_williams_and_his_memphis_stompers.jpg
 last_updated: '2026-03-01T01:57:26.675684'
 musical_connections:
   collaborators:
-  - Julius E. Green
-  - William Brown
-  - Robert Phillips
-  - Marvell Thomas
-  - Willie Hall
-  - Michael Toles
-  - Richard Williams
+    - Julius E. Green
+    - William Brown
+    - Robert Phillips
+    - Marvell Thomas
+    - Willie Hall
+    - Michael Toles
+    - Richard Williams
   influenced:
-  - Northern Soul fans (England)
+    - Northern Soul fans (England)
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://staxmuseum.org/john-gary-williams-1945-2019/
-- https://www.johngarywilliams.com/about
-- https://www.memphisflyer.com/the-restoration-of-john-gary-williams/
-- https://concord.com/news/remembering-john-gary-williams/
-- https://mywdia.iheart.com/content/2025-01-20-musician-producer-and-writer-hes-john-williams/
+  - 'https://staxmuseum.org/john-gary-williams-1945-2019/'
+  - 'https://www.johngarywilliams.com/about'
+  - 'https://www.memphisflyer.com/the-restoration-of-john-gary-williams/'
+  - 'https://concord.com/news/remembering-john-gary-williams/'
+  - >-
+    https://mywdia.iheart.com/content/2025-01-20-musician-producer-and-writer-hes-john-williams/
 spotify_data:
   followers: 2259
   id: 226GuHupXwP0mCHZ0uWN9F
   popularity: 26
-  url: https://open.spotify.com/artist/226GuHupXwP0mCHZ0uWN9F
+  url: 'https://open.spotify.com/artist/226GuHupXwP0mCHZ0uWN9F'
 status: active
 title: John Williams and his Memphis Stompers
+origin: 'Memphis, Tennessee, United States'
+death_date: '2019-05-28'
+artist_type: person
 ---
 
 ![](john_williams_and_his_memphis_stompers.jpg)

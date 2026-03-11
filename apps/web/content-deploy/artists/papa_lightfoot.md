@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-03-03T01:34:19.685366'
-birth_place: Natchez, Mississippi, USA
+birth_place: 'Natchez, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:34:19.685376'
 external_urls:
-  spotify: https://open.spotify.com/artist/21VsvU3D56wPp85k3EscYp
-  wikipedia: https://en.wikipedia.org/wiki/Papa_Lightfoot
+  spotify: 'https://open.spotify.com/artist/21VsvU3D56wPp85k3EscYp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Papa_Lightfoot'
 genres:
-- classic blues
-- blues
-- rockabilly
+  - classic blues
+  - blues
+  - rockabilly
 image_path: 03_Resources/source_material/ArtistPortraits/papa_lightfoot.jpg
 last_updated: '2026-03-03T01:34:19.685377'
 musical_connections:
   collaborators:
-  - Gondoliers
-  - Champion Jack Dupree
-  - Blanchard's band
-  - Edwin 'Guitar Red' Marie
+    - Gondoliers
+    - Champion Jack Dupree
+    - Blanchard's band
+    - Edwin 'Guitar Red' Marie
   influenced:
-  - Lester Butler
+    - Lester Butler
   mentors:
-  - None documented
+    - None documented
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blinddogradio.blogspot.com/2017/03/papa-george-lightfoot.html
-- https://en.wikipedia.org/wiki/Papa_Lightfoot
-- https://msbluestrail.org/blues-trail-markers/papa-lightfoot
-- https://thehoundnyc.com/2011/04/04/papa-lightfoot/
-- https://nofightin.com/2022/09/03/obscure-papa-lightfoot-energized-lester-butlers-sound/
+  - 'https://blinddogradio.blogspot.com/2017/03/papa-george-lightfoot.html'
+  - 'https://en.wikipedia.org/wiki/Papa_Lightfoot'
+  - 'https://msbluestrail.org/blues-trail-markers/papa-lightfoot'
+  - 'https://thehoundnyc.com/2011/04/04/papa-lightfoot/'
+  - >-
+    https://nofightin.com/2022/09/03/obscure-papa-lightfoot-energized-lester-butlers-sound/
 spotify_data:
   followers: 982
   id: 21VsvU3D56wPp85k3EscYp
   popularity: 6
-  url: https://open.spotify.com/artist/21VsvU3D56wPp85k3EscYp
+  url: 'https://open.spotify.com/artist/21VsvU3D56wPp85k3EscYp'
 status: active
-title: PAPA LIGHTFOOT
+title: Papa Lightfoot
+birth_date: '1924-03-02'
+artist_type: person
 ---
 
 ![](papa_lightfoot.jpg)

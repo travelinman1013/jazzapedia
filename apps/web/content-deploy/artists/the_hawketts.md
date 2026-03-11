@@ -3,45 +3,47 @@ biography_enhanced_at: '2026-02-15T01:49:02.683837'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:49:02.683852'
 external_urls:
-  spotify: https://open.spotify.com/artist/7iDV64478yXka255bnFAka
-  wikipedia: https://en.wikipedia.org/wiki/The_Hawketts
+  spotify: 'https://open.spotify.com/artist/7iDV64478yXka255bnFAka'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Hawketts'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: ''
 last_updated: '2026-02-15T01:49:02.683856'
 musical_connections:
   collaborators:
-  - Art Neville
-  - John Boudreaux
-  - George Davis
-  - Alfred August
-  - Israel Bell
-  - August Fleuri
-  - Carroll Joseph
-  - Morris 'Moe' Bachemin
+    - Art Neville
+    - John Boudreaux
+    - George Davis
+    - Alfred August
+    - Israel Bell
+    - August Fleuri
+    - Carroll Joseph
+    - Morris 'Moe' Bachemin
   influenced:
-  - The Meters
-  - Neville Brothers
+    - The Meters
+    - Neville Brothers
   mentors:
-  - Fats Domino
-  - Professor Longhair
+    - Fats Domino
+    - Professor Longhair
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Hawketts
-- https://somuchgreatmusic.com/2019/03/03/the-hawketts-mardi-gras-mambo-1954/
-- https://www.afm.org/en/2017/02/poppa-funk-neville/
-- https://www.thecurrent.org/feature/2019/07/22/art-neville-a-new-orleans-icon-dead-at-81
-- https://performingsongwriter.com/mardi-gras-music/
+  - 'https://en.wikipedia.org/wiki/The_Hawketts'
+  - 'https://somuchgreatmusic.com/2019/03/03/the-hawketts-mardi-gras-mambo-1954/'
+  - 'https://www.afm.org/en/2017/02/poppa-funk-neville/'
+  - >-
+    https://www.thecurrent.org/feature/2019/07/22/art-neville-a-new-orleans-icon-dead-at-81
+  - 'https://performingsongwriter.com/mardi-gras-music/'
 spotify_data:
   followers: 138
   id: 7iDV64478yXka255bnFAka
   popularity: 19
-  url: https://open.spotify.com/artist/7iDV64478yXka255bnFAka
+  url: 'https://open.spotify.com/artist/7iDV64478yXka255bnFAka'
 status: active
 title: The Hawketts
+artist_type: band
 ---
 
 ![]()

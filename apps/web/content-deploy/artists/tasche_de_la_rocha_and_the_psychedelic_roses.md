@@ -3,37 +3,44 @@ biography_enhanced_at: '2026-03-05T02:03:35.592521'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:03:35.592532'
 external_urls:
-  spotify: https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe
+  spotify: 'https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe'
   wikipedia: ''
 genres:
-- new wave
-- post-punk
-image_path: 03_Resources/source_material/ArtistPortraits/tasche_de_la_rocha_and_the_psychedelic_roses.jpg
+  - new wave
+  - post-punk
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/tasche_de_la_rocha_and_the_psychedelic_roses.jpg
 last_updated: '2026-03-05T02:03:35.592533'
 musical_connections:
   collaborators:
-  - Joseph Faison
-  - Eric Heigle
-  - Psychedelic Roses band members
+    - Joseph Faison
+    - Eric Heigle
+    - Psychedelic Roses band members
   influenced: []
   mentors:
-  - New Orleans street musicians
+    - New Orleans street musicians
 network_extracted: true
-origin: Portland, Oregon, USA
+origin: 'Portland, Oregon, USA'
 primary_source: perplexity
 research_sources:
-- https://antigravitymagazine.com/feature/tasche-de-la-rocha-a-bloody-love-note-to-the-universe/
-- https://www.offbeat.com/news/how-tasche-de-la-rocha-found-the-feminine-spirit-of-new-orleans/
-- https://glidemagazine.com/280863/listen-tasche-and-the-psychedelic-roses-bring-throwback-psych-doo-wop-explosion-via-hook/
-- https://guitargirlmag.com/featured/tasche-de-la-rocha-and-the-psychedelic-roses-drop-self-titled-album/
-- https://www.instagram.com/tascheandthepsychedelicroses/?hl=en
+  - >-
+    https://antigravitymagazine.com/feature/tasche-de-la-rocha-a-bloody-love-note-to-the-universe/
+  - >-
+    https://www.offbeat.com/news/how-tasche-de-la-rocha-found-the-feminine-spirit-of-new-orleans/
+  - >-
+    https://glidemagazine.com/280863/listen-tasche-and-the-psychedelic-roses-bring-throwback-psych-doo-wop-explosion-via-hook/
+  - >-
+    https://guitargirlmag.com/featured/tasche-de-la-rocha-and-the-psychedelic-roses-drop-self-titled-album/
+  - 'https://www.instagram.com/tascheandthepsychedelicroses/?hl=en'
 spotify_data:
   followers: 698700
   id: 0O0lrN34wrcuBenkqlEDZe
   popularity: 53
-  url: https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe
+  url: 'https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe'
 status: active
 title: Tasche De La Rocha & The Psychedelic Roses
+birth_place: 'Portland, Oregon, United States'
+artist_type: band
 ---
 
 ![](tasche_de_la_rocha_and_the_psychedelic_roses.jpg)

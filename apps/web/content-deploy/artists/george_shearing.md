@@ -1,80 +1,82 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 61947bfa-5e34-44e9-b2fa-845fc082a367
-  name: The George Shearing Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3f452999-487e-4af8-88b0-7094925e847a
-  name: George Shearing Trio
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: d0c6abae-8d53-4e9a-be0c-ec6b67dfb441
-  name: Stéphane Grappelli and His Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 61947bfa-5e34-44e9-b2fa-845fc082a367
+    name: The George Shearing Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3f452999-487e-4af8-88b0-7094925e847a
+    name: George Shearing Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: d0c6abae-8d53-4e9a-be0c-ec6b67dfb441
+    name: Stéphane Grappelli and His Quartet
 biography_enhanced_at: '2026-03-02T01:13:52.434357'
 birth_date: '1919-08-13'
-birth_place: Battersea
+birth_place: 'Battersea, London, United Kingdom'
 death_date: '2011-02-14'
 disambiguation: British jazz pianist
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:13:52.434389'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ef83af4c-4da9-47d1-b9bd-df9db18b28e9
-  spotify: https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn
-  wikipedia: https://en.wikipedia.org/wiki/George_Shearing
+  musicbrainz: 'https://musicbrainz.org/artist/ef83af4c-4da9-47d1-b9bd-df9db18b28e9'
+  spotify: 'https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Shearing'
 gender: Male
 genres:
-- cool jazz
-- jazz
-- vocal jazz
+  - cool jazz
+  - jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/george_shearing.jpg
 instruments:
-- piano
-- spoken vocals
+  - piano
+  - spoken vocals
 last_updated: '2026-03-02T01:13:52.434392'
 musical_connections:
   collaborators:
-  - Stéphane Grappelli
-  - Harry Parry
-  - Mel Tormé
-  - Buddy DeFranco
-  - Marian McPartland
+    - Stéphane Grappelli
+    - Harry Parry
+    - Mel Tormé
+    - Buddy DeFranco
+    - Marian McPartland
   influenced: []
   mentors:
-  - Teddy Wilson
-  - Fats Waller
-  - Art Tatum
-  - Glenn Miller Orchestra
+    - Teddy Wilson
+    - Fats Waller
+    - Art Tatum
+    - Glenn Miller Orchestra
 musicbrainz_id: ef83af4c-4da9-47d1-b9bd-df9db18b28e9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://ukdhm.org/george-shearing-blind-jazz-pianist-1919-2011/
-- https://en.wikipedia.org/wiki/George_Shearing
-- https://nationaljazzarchive.org.uk/explore/interviews/1622936-george-shearing-interview-3
-- https://www.udiscovermusic.com/stories/george-shearing-british-jazz-pianist/
-- https://walkoffame.com/george-shearing/
-- https://horatioalger.org/members/detail/sir-george-shearing/
-- https://concord.com/artist/george-shearing/
-- https://www.jazzstandards.com/biographies/biography_257.htm
-- https://jazztimes.com/features/tributes-and-obituaries/george-shearing/
+  - 'https://ukdhm.org/george-shearing-blind-jazz-pianist-1919-2011/'
+  - 'https://en.wikipedia.org/wiki/George_Shearing'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1622936-george-shearing-interview-3
+  - 'https://www.udiscovermusic.com/stories/george-shearing-british-jazz-pianist/'
+  - 'https://walkoffame.com/george-shearing/'
+  - 'https://horatioalger.org/members/detail/sir-george-shearing/'
+  - 'https://concord.com/artist/george-shearing/'
+  - 'https://www.jazzstandards.com/biographies/biography_257.htm'
+  - 'https://jazztimes.com/features/tributes-and-obituaries/george-shearing/'
 spotify_data:
   followers: 42164
   id: 7uUBTiZ2u5b40vymlFmXrn
   popularity: 46
-  url: https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn
+  url: 'https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn'
 status: active
 tags:
-- easy listening
-- jazz
-- swing
-title: GEORGE SHEARING
+  - easy listening
+  - jazz
+  - swing
+title: George Shearing
+is_active: false
 ---
 
 ![](george_shearing.jpg)

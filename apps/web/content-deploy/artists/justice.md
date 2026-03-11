@@ -1,59 +1,61 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-05T01:51:21.949354'
-birth_date: '2003'
-disambiguation: French electro house, Gaspard Augé & Xavier de Rosnay
+birth_date: '1979-05-21'
+disambiguation: 'French electro house, Gaspard Augé & Xavier de Rosnay'
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:51:21.949363'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/860b2707-6153-4e3a-aa57-74d2b42c55b5
-  spotify: https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N
-  wikipedia: https://en.wikipedia.org/wiki/Justice_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/860b2707-6153-4e3a-aa57-74d2b42c55b5'
+  spotify: 'https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N'
+  wikipedia: 'https://en.wikipedia.org/wiki/Justice_(band)'
 genres:
-- french house
-- new rave
+  - french house
+  - new rave
 image_path: 03_Resources/source_material/ArtistPortraits/justice.jpg
 last_updated: '2026-02-05T01:51:21.949365'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 11a76588-288c-4862-bf6b-9a6bb0e735f6
-  name: Gaspard Augé
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 10361de3-1b9f-4da5-854b-4a4dc8a12faf
-  name: Xavier de Rosnay
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 11a76588-288c-4862-bf6b-9a6bb0e735f6
+    name: Gaspard Augé
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 10361de3-1b9f-4da5-854b-4a4dc8a12faf
+    name: Xavier de Rosnay
 musical_connections:
   collaborators:
-  - Pedro Winter
-  - Simian
-  - MGMT
+    - Pedro Winter
+    - Simian
+    - MGMT
   influenced: []
   mentors:
-  - James Turrell
+    - James Turrell
 musicbrainz_id: 860b2707-6153-4e3a-aa57-74d2b42c55b5
 network_extracted: true
-origin: Paris
+origin: 'Paris, Ile-de-France, France'
 primary_source: perplexity
 research_sources:
-- https://exronmusic.com/2024/04/22/who-is-the-electronic-music-duo-justice/
-- https://1001djs.fandom.com/wiki/Justice_(band)
-- https://www.last.fm/music/Justice/+wiki
-- https://en.wikipedia.org/wiki/Justice_(band)
-- https://www.artbasel.com/stories/inner-worlds-justice-electronic-music-duo?lang=en
+  - 'https://exronmusic.com/2024/04/22/who-is-the-electronic-music-duo-justice/'
+  - 'https://1001djs.fandom.com/wiki/Justice_(band)'
+  - 'https://www.last.fm/music/Justice/+wiki'
+  - 'https://en.wikipedia.org/wiki/Justice_(band)'
+  - >-
+    https://www.artbasel.com/stories/inner-worlds-justice-electronic-music-duo?lang=en
 spotify_data:
   followers: 1430639
   id: 1gR0gsQYfi6joyO1dlp76N
   popularity: 68
-  url: https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N
+  url: 'https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N'
 status: active
 tags:
-- dance
-- electro
-- electro house
+  - dance
+  - electro
+  - electro house
 title: Justice
+birth_place: 'Besançon, Doubs, France'
 ---
 
 ![](justice.jpg)

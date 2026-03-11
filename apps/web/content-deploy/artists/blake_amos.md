@@ -1,38 +1,39 @@
 ---
 biography_enhanced_at: '2026-01-27T01:48:30.479110'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:48:30.479119'
 external_urls:
-  spotify: https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe
+  spotify: 'https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/blake_amos.jpg
 last_updated: '2026-01-27T01:48:30.479120'
 musical_connections:
   collaborators:
-  - Ed Motta
-  - Delfeayo Marsalis
-  - Carlinhos Brown
+    - Ed Motta
+    - Delfeayo Marsalis
+    - Carlinhos Brown
   influenced: []
   mentors:
-  - Bill Withers
-  - Jorge Ben
-  - Joni Mitchell
-  - Caetano Veloso
+    - Bill Withers
+    - Jorge Ben
+    - Joni Mitchell
+    - Caetano Veloso
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blakeamos.com/bio
-- https://www.blakeamos.com
-- https://www.musicango.com/artist/blake-amos/
+  - 'https://blakeamos.com/bio'
+  - 'https://www.blakeamos.com'
+  - 'https://www.musicango.com/artist/blake-amos/'
 spotify_data:
   followers: 118122
   id: 7wLyGTO9vUS7ndlq4BvBGe
   popularity: 46
-  url: https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe
+  url: 'https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe'
 status: active
 title: Blake Amos
+artist_type: person
 ---
 
 ![](blake_amos.jpg)

@@ -3,45 +3,47 @@ biography_enhanced_at: '2026-01-31T01:04:42.757981'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:04:42.757988'
 external_urls:
-  spotify: https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J
+  spotify: 'https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J'
   wikipedia: ''
 genres:
-- afrobeat
-- highlife
+  - afrobeat
+  - highlife
 image_path: 03_Resources/source_material/ArtistPortraits/the_funkees.jpg
 last_updated: '2026-01-31T01:04:42.757989'
 musical_connections:
   collaborators:
-  - Harry Mosco
-  - Chyke Madu
-  - Jake N. Sollo
-  - Mohammed Ahidjo
-  - Sonny Akpabio
-  - Kool & The Gang
-  - Osibisa
+    - Harry Mosco
+    - Chyke Madu
+    - Jake N. Sollo
+    - Mohammed Ahidjo
+    - Sonny Akpabio
+    - Kool & The Gang
+    - Osibisa
   influenced:
-  - William Onyeabor
-  - Orlando Julius
-  - Ebo Taylor
-  - '!!! (Chk Chk Chk)'
+    - William Onyeabor
+    - Orlando Julius
+    - Ebo Taylor
+    - '!!! (Chk Chk Chk)'
   mentors:
-  - Fela Kuti
+    - Fela Kuti
 network_extracted: true
-origin: Aba, Eastern Nigeria, Nigeria
+origin: 'Aba, Eastern Nigeria, Nigeria'
 primary_source: perplexity
 research_sources:
-- https://archivi.ng/the-archivist/stories/issue-4/nigerian-creators-history/the-funkees
-- https://jivetimerecords.com/2023/08/the-funkees-now-im-a-man-emi-1976/
-- https://soundwayrecords.com/artist/113045-the-funkees?lang=en_US
-- https://www.roughtrade.com/en-gb/artist/the-funkees
-- https://peel.fandom.com/wiki/Funkees
+  - >-
+    https://archivi.ng/the-archivist/stories/issue-4/nigerian-creators-history/the-funkees
+  - 'https://jivetimerecords.com/2023/08/the-funkees-now-im-a-man-emi-1976/'
+  - 'https://soundwayrecords.com/artist/113045-the-funkees?lang=en_US'
+  - 'https://www.roughtrade.com/en-gb/artist/the-funkees'
+  - 'https://peel.fandom.com/wiki/Funkees'
 spotify_data:
   followers: 36237
   id: 6dqBherxR2n5xMfqAI0L2J
   popularity: 35
-  url: https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J
+  url: 'https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J'
 status: active
 title: The Funkees
+artist_type: band
 ---
 
 ![](the_funkees.jpg)

@@ -1,70 +1,73 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-23T03:02:22.498323'
 birth_date: '1983'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:02:22.498329'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/90c88f94-8b70-49fd-9726-cadf4306ef42
-  spotify: https://open.spotify.com/artist/1iJMsMDmedV0N4NZ2gAtcQ
-  wikipedia: https://en.wikipedia.org/wiki/Southern_Culture_on_the_Skids
+  musicbrainz: 'https://musicbrainz.org/artist/90c88f94-8b70-49fd-9726-cadf4306ef42'
+  spotify: 'https://open.spotify.com/artist/1iJMsMDmedV0N4NZ2gAtcQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Southern_Culture_on_the_Skids'
 genres:
-- psychobilly
-- rockabilly
-- alt country
+  - psychobilly
+  - rockabilly
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/southern_culture_on_the_skids.jpg
 last_updated: '2026-02-23T03:02:22.498330'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 11758b65-11da-431b-8988-7da5f9b14789
-  name: Dave Hartman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e6c1b1e7-d83f-4c42-847e-3dcd9ad7fa0f
-  name: Mary Huff
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0839bc49-8729-4fd9-845d-d3b81b7b3440
-  name: Rick Miller
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 11758b65-11da-431b-8988-7da5f9b14789
+    name: Dave Hartman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e6c1b1e7-d83f-4c42-847e-3dcd9ad7fa0f
+    name: Mary Huff
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0839bc49-8729-4fd9-845d-d3b81b7b3440
+    name: Rick Miller
 musical_connections:
   collaborators:
-  - Mary Huff
-  - Dave Hartman
-  - Chris 'Cousin Crispy' Bess
-  - Ed Bumgardner
+    - Mary Huff
+    - Dave Hartman
+    - Chris 'Cousin Crispy' Bess
+    - Ed Bumgardner
   influenced: []
   mentors:
-  - The Cramps
-  - Buck Owens
-  - Merle Haggard
+    - The Cramps
+    - Buck Owens
+    - Merle Haggard
 musicbrainz_id: 90c88f94-8b70-49fd-9726-cadf4306ef42
 network_extracted: true
-origin: Chapel Hill
+origin: 'Chapel Hill, North Carolina, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Southern_Culture_on_the_Skids
-- https://www.wncw.org/podcast/southern-songs-and-stories/2021-11-23/a-brief-history-of-southern-culture-on-the-skids
-- https://www.southernsongsandstories.com/blog/2021/11/19/a-brief-history-of-southern-culture-on-the-skids
-- https://mokbpresents.com/artist/southern-culture-on-the-skids/
-- https://www.newmusicforoldfolks.com/single-post/2015/12/10/southern-culture-on-the-skids
-- https://www.scots.com/media.html
-- https://www.scaruffi.com/vol4/scots.html
-- https://peel.fandom.com/wiki/Southern_Culture_On_The_Skids
-- https://www.jango.com/music/Southern+Culture+on+the+Skids/_full_bio
+  - 'https://en.wikipedia.org/wiki/Southern_Culture_on_the_Skids'
+  - >-
+    https://www.wncw.org/podcast/southern-songs-and-stories/2021-11-23/a-brief-history-of-southern-culture-on-the-skids
+  - >-
+    https://www.southernsongsandstories.com/blog/2021/11/19/a-brief-history-of-southern-culture-on-the-skids
+  - 'https://mokbpresents.com/artist/southern-culture-on-the-skids/'
+  - >-
+    https://www.newmusicforoldfolks.com/single-post/2015/12/10/southern-culture-on-the-skids
+  - 'https://www.scots.com/media.html'
+  - 'https://www.scaruffi.com/vol4/scots.html'
+  - 'https://peel.fandom.com/wiki/Southern_Culture_On_The_Skids'
+  - 'https://www.jango.com/music/Southern+Culture+on+the+Skids/_full_bio'
 spotify_data:
   followers: 43565
   id: 1iJMsMDmedV0N4NZ2gAtcQ
   popularity: 32
-  url: https://open.spotify.com/artist/1iJMsMDmedV0N4NZ2gAtcQ
+  url: 'https://open.spotify.com/artist/1iJMsMDmedV0N4NZ2gAtcQ'
 status: active
 tags:
-- 2008 universal fire victim
-- alternative rock
-- experimental rock
+  - 2008 universal fire victim
+  - alternative rock
+  - experimental rock
 title: Southern Culture On the Skids
 ---
 

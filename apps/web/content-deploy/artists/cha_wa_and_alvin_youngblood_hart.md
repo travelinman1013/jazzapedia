@@ -1,47 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-28T01:52:22.004732'
-birth_place: Oakland, California, United States (birthplace)
+birth_place: 'Oakland, California, United States (birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:52:22.004741'
 external_urls:
-  spotify: https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG
-  wikipedia: https://en.wikipedia.org/wiki/Alvin_Youngblood_Hart
+  spotify: 'https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alvin_Youngblood_Hart'
 genres:
-- blues
-- modern blues
-- country blues
-- blues rock
-image_path: 03_Resources/source_material/ArtistPortraits/cha_wa_and_alvin_youngblood_hart.jpg
+  - blues
+  - modern blues
+  - country blues
+  - blues rock
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/cha_wa_and_alvin_youngblood_hart.jpg
 last_updated: '2026-02-28T01:52:22.004742'
 musical_connections:
   collaborators:
-  - Cha Wa
-  - Jimbo Mathus
-  - Luther Dickinson
-  - Samuel L. Jackson
+    - Cha Wa
+    - Jimbo Mathus
+    - Luther Dickinson
+    - Samuel L. Jackson
   influenced:
-  - Taj Mahal
+    - Taj Mahal
   mentors:
-  - Taj Mahal
+    - Taj Mahal
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alvin_Youngblood_Hart
-- https://www.americanacademy.de/person/alvin-youngblood-hart/
-- https://flagpole.com/calendar-picks/2025/10/15/calendar-pick-alvin-youngblood-harts-muscle-theory/
-- https://centrum.org/faculty-profile/name/alvin-hart/
-- https://www.earlyblues.com/Interview%20-%20Alvin%20Youngblood%20Hart.htm
-- https://www.vintageguitar.com/20321/alvin-youngblood-hart/
-- https://thefestival.bc.ca/artists/alvin-youngblood-hart/
-- https://www.wlrn.org/2003-02-20/singer-and-musician-alvin-youngblood-hart
-- https://www.chawaband.com/bio
+  - 'https://en.wikipedia.org/wiki/Alvin_Youngblood_Hart'
+  - 'https://www.americanacademy.de/person/alvin-youngblood-hart/'
+  - >-
+    https://flagpole.com/calendar-picks/2025/10/15/calendar-pick-alvin-youngblood-harts-muscle-theory/
+  - 'https://centrum.org/faculty-profile/name/alvin-hart/'
+  - 'https://www.earlyblues.com/Interview%20-%20Alvin%20Youngblood%20Hart.htm'
+  - 'https://www.vintageguitar.com/20321/alvin-youngblood-hart/'
+  - 'https://thefestival.bc.ca/artists/alvin-youngblood-hart/'
+  - 'https://www.wlrn.org/2003-02-20/singer-and-musician-alvin-youngblood-hart'
+  - 'https://www.chawaband.com/bio'
 spotify_data:
   followers: 15792
   id: 1pmIo6ASaJG24wmYoyxjwG
   popularity: 21
-  url: https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG
+  url: 'https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG'
 status: active
-title: cha wa & alvin youngblood hart
+title: Cha WA & Alvin Youngblood Hart
+birth_date: '1963'
+artist_type: band
 ---
 
 ![](cha_wa_and_alvin_youngblood_hart.jpg)

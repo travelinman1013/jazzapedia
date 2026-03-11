@@ -1,51 +1,53 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-07T01:24:24.836914'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:24:24.836933'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9ecd2add-a3f5-4ce2-a986-155b69cdfbdc
-  spotify: https://open.spotify.com/artist/0a2KhTob7BGUplOU8SQQzs
+  musicbrainz: 'https://musicbrainz.org/artist/9ecd2add-a3f5-4ce2-a986-155b69cdfbdc'
+  spotify: 'https://open.spotify.com/artist/0a2KhTob7BGUplOU8SQQzs'
   wikipedia: ''
 genres:
-- brass band
-- cajun
+  - brass band
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/mahogany_brass_band.jpg
 last_updated: '2026-02-07T01:24:24.836935'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 444d01ad-2cc5-4b9c-be2a-cf2f24f4b91a
-  name: Erion Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 444d01ad-2cc5-4b9c-be2a-cf2f24f4b91a
+    name: Erion Williams
 musical_connections:
   collaborators:
-  - Darrell Fields
-  - David Wallace
-  - David Bofors
-  - Kevin Lewis
+    - Darrell Fields
+    - David Wallace
+    - David Bofors
+    - Kevin Lewis
   influenced:
-  - Shamarr Allen
-  - Walter Ramsey (Stooges Brass Band)
-  - Big Vinny Pete (Hot a Man)
+    - Shamarr Allen
+    - Walter Ramsey (Stooges Brass Band)
+    - Big Vinny Pete (Hot a Man)
   mentors:
-  - Herb McCarver
-  - Louis Armstrong
+    - Herb McCarver
+    - Louis Armstrong
 musicbrainz_id: 9ecd2add-a3f5-4ce2-a986-155b69cdfbdc
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=pcYfgfAjLFw
-- https://iambricemiller.wordpress.com/bme-entertainment-services/mahogany-brass-band/
-- https://swingandbeyond.com/2021/02/13/mahogany-hall-stomp-1929-and-1936-louis-armstrong-bunny-berigan-1938-swing-era-orchestra-featuring-john-best-1971/
+  - 'https://www.youtube.com/watch?v=pcYfgfAjLFw'
+  - >-
+    https://iambricemiller.wordpress.com/bme-entertainment-services/mahogany-brass-band/
+  - >-
+    https://swingandbeyond.com/2021/02/13/mahogany-hall-stomp-1929-and-1936-louis-armstrong-bunny-berigan-1938-swing-era-orchestra-featuring-john-best-1971/
 spotify_data:
   followers: 165
   id: 0a2KhTob7BGUplOU8SQQzs
   popularity: 1
-  url: https://open.spotify.com/artist/0a2KhTob7BGUplOU8SQQzs
+  url: 'https://open.spotify.com/artist/0a2KhTob7BGUplOU8SQQzs'
 status: active
-title: mahogany brass band
+title: Mahogany Brass Band
 ---
 
 ![](mahogany_brass_band.jpg)

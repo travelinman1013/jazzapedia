@@ -1,10 +1,10 @@
 ---
 biography_enhanced_at: '2026-01-30T01:14:38.357838'
-birth_place: Kansas City, KS, United States
+birth_place: 'Kansas City, KS, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:14:38.357848'
 external_urls:
-  spotify: https://open.spotify.com/artist/7aNvTHJi81REEJQObbY7eA
+  spotify: 'https://open.spotify.com/artist/7aNvTHJi81REEJQObbY7eA'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mac_infinity.jpg
@@ -16,14 +16,15 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://open.spotify.com/artist/7aNvTHJi81REEJQObbY7eA
+  - 'https://open.spotify.com/artist/7aNvTHJi81REEJQObbY7eA'
 spotify_data:
   followers: 400
   id: 7aNvTHJi81REEJQObbY7eA
   popularity: 1
-  url: https://open.spotify.com/artist/7aNvTHJi81REEJQObbY7eA
+  url: 'https://open.spotify.com/artist/7aNvTHJi81REEJQObbY7eA'
 status: active
 title: Mac Infinity
+artist_type: person
 ---
 
 ![](mac_infinity.jpg)

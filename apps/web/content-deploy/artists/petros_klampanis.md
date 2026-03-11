@@ -1,65 +1,66 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 3bcc1899-12ff-4ad4-ada1-e960348e27f2
-  name: Petros Klampanis Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 89f54d28-ee4e-46ba-9d70-d7af7fa937cb
-  name: César Latorre Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 3bcc1899-12ff-4ad4-ada1-e960348e27f2
+    name: Petros Klampanis Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 89f54d28-ee4e-46ba-9d70-d7af7fa937cb
+    name: César Latorre Trio
 biography_enhanced_at: '2026-03-05T01:58:22.486305'
 birth_date: '1981-07-15'
-birth_place: Zakynthos
+birth_place: 'Zakynthos, Greece'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T01:58:22.486316'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6800769b-0a47-4412-9bf8-5bd96b0948a0
-  spotify: https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B
+  musicbrainz: 'https://musicbrainz.org/artist/6800769b-0a47-4412-9bf8-5bd96b0948a0'
+  spotify: 'https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B'
   wikipedia: ''
 gender: Male
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/petros_klampanis.jpg
 instruments:
-- double bass
-- piano
+  - double bass
+  - piano
 last_updated: '2026-03-05T01:58:22.486318'
 musical_connections:
   collaborators:
-  - Greg Osby
-  - Jean-Michel Pilc
-  - Ari Hoenig
-  - Shai Maestro
-  - Gilad Hekselman
-  - Oded Tzur
+    - Greg Osby
+    - Jean-Michel Pilc
+    - Ari Hoenig
+    - Shai Maestro
+    - Gilad Hekselman
+    - Oded Tzur
   influenced:
-  - In-person students and Discover Double Bass participants
+    - In-person students and Discover Double Bass participants
   mentors:
-  - Greg Osby
+    - Greg Osby
 musicbrainz_id: 6800769b-0a47-4412-9bf8-5bd96b0948a0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://innercirclemusic.com/Petros-Klampanis.html
-- https://whyathens.com/rising-star-petros-klampanis-jazz/
-- https://discoverdoublebass.com/petros-klampanis
-- https://www.allaboutjazz.com/musicians/petros-klampanis/
-- https://jazzlibrary.gr/artists/klampanis-petros
-- https://www.petrosklampanis.com
+  - 'https://innercirclemusic.com/Petros-Klampanis.html'
+  - 'https://whyathens.com/rising-star-petros-klampanis-jazz/'
+  - 'https://discoverdoublebass.com/petros-klampanis'
+  - 'https://www.allaboutjazz.com/musicians/petros-klampanis/'
+  - 'https://jazzlibrary.gr/artists/klampanis-petros'
+  - 'https://www.petrosklampanis.com'
 spotify_data:
   followers: 8746
   id: 2EW4K87b5EjGuCbachzK2B
   popularity: 33
-  url: https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B
+  url: 'https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B'
 status: active
 tags:
-- jazz
+  - jazz
 title: Petros Klampanis
+origin: 'New York City, New York, United States'
 ---
 
 ![](petros_klampanis.jpg)

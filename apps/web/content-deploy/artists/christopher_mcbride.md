@@ -1,36 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-24T02:00:34.434839'
-birth_place: Chicago, Illinois, USA
+birth_place: 'Chicago, Illinois, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:00:34.434844'
 external_urls:
-  spotify: https://open.spotify.com/artist/3aUqKSZjVYVcWciHwCcQ9W
+  spotify: 'https://open.spotify.com/artist/3aUqKSZjVYVcWciHwCcQ9W'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/christopher_mcbride.jpg
 last_updated: '2026-01-24T02:00:34.434845'
 musical_connections:
   collaborators:
-  - Steven Feifke and Bijon Watson
-  - The Whole Proof ensemble
+    - Steven Feifke and Bijon Watson
+    - The Whole Proof ensemble
   influenced: []
   mentors:
-  - Cannonball Adderley
+    - Cannonball Adderley
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.crmcbridemusic.com/bio
-- https://www.allaboutjazz.com/musicians/christopher-mcbride/
-- https://smoothjazzdaily.wordpress.com/2025/09/30/saxophonist-christopher-mcbride-embarks-upon-a-personal-journey-on-the-hang-the-hustle-the-path/
-- https://www.wglt.org/arts-and-culture/2021-07-21/saxophonist-christopher-mcbride-embraces-the-entire-african-american-music-experience
-- https://www.visitmadison.com/event/christopher-mcbride-singer-meets-saxophonist-w-special-guest-julie-danielle/72870/
+  - 'https://www.crmcbridemusic.com/bio'
+  - 'https://www.allaboutjazz.com/musicians/christopher-mcbride/'
+  - >-
+    https://smoothjazzdaily.wordpress.com/2025/09/30/saxophonist-christopher-mcbride-embarks-upon-a-personal-journey-on-the-hang-the-hustle-the-path/
+  - >-
+    https://www.wglt.org/arts-and-culture/2021-07-21/saxophonist-christopher-mcbride-embraces-the-entire-african-american-music-experience
+  - >-
+    https://www.visitmadison.com/event/christopher-mcbride-singer-meets-saxophonist-w-special-guest-julie-danielle/72870/
 spotify_data:
   followers: 609
   id: 3aUqKSZjVYVcWciHwCcQ9W
   popularity: 5
-  url: https://open.spotify.com/artist/3aUqKSZjVYVcWciHwCcQ9W
+  url: 'https://open.spotify.com/artist/3aUqKSZjVYVcWciHwCcQ9W'
 status: active
 title: Christopher McBride
+artist_type: person
 ---
 
 ![](christopher_mcbride.jpg)

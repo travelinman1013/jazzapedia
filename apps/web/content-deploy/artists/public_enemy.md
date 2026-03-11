@@ -1,141 +1,141 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-03T02:12:19.686851'
 birth_date: '1985'
 disambiguation: US rap group
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:12:19.686862'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bf2e15d0-4b77-469e-bfb4-f8414415baca
-  spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
-  wikipedia: https://en.wikipedia.org/wiki/Public_Enemy
+  musicbrainz: 'https://musicbrainz.org/artist/bf2e15d0-4b77-469e-bfb4-f8414415baca'
+  spotify: 'https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Public_Enemy'
 genres:
-- old school hip hop
-- east coast hip hop
-- hip hop
-- hardcore hip hop
+  - old school hip hop
+  - east coast hip hop
+  - hip hop
+  - hardcore hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/public_enemy.jpg
 instruments:
-- original
-- turntable
-- bass guitar
-- drums (drum set)
-- guitar
+  - original
+  - turntable
+  - bass guitar
+  - drums (drum set)
+  - guitar
 last_updated: '2026-02-03T02:12:19.686864'
 members:
-- begin: '1985'
-  end: '1989'
-  instruments:
-  - original
-  mbid: 368abae2-21ad-455b-a49f-f1c11a4d5e45
-  name: Professor Griff
-- begin: '1985'
-  end: '1998'
-  instruments:
-  - original
-  - turntable
-  mbid: eb7728f6-d303-4bce-a6f8-e291c3b392dc
-  name: Terminator X
-- begin: '1985'
-  end: '2020-03-01'
-  instruments:
-  - original
-  mbid: 813c1586-f7d5-42d1-94bb-cd2abb42f507
-  name: Flavor Flav
-- &id001
-  begin: '1985'
-  end: ''
-  instruments:
-  - original
-  mbid: 88633ac3-c8e2-420f-8415-77ac56b3105f
-  name: Chuck D
-- &id002
-  begin: '1994'
-  end: ''
-  instruments:
-  - original
-  mbid: 368abae2-21ad-455b-a49f-f1c11a4d5e45
-  name: Professor Griff
-- &id003
-  begin: '1999'
-  end: ''
-  instruments:
-  - turntable
-  mbid: cf948668-24b2-4e0c-bfd6-f6b4a40ad28b
-  name: DJ Lord
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 888aa27b-49e2-43ed-aeea-4a9e83cccf5f
-  name: Keith Boxley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fefdd221-f4f5-41eb-aeef-f34798b6526f
-  name: Davy DMX
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 902512b0-fbd5-429e-98ba-43b7aa57e040
-  name: Brian Hardgroove
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 534e3698-100e-4991-b84d-67bbf5818db7
-  name: Power Born
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: a7c36209-ee9b-41f8-8816-a6782267da39
-  name: T Bone Motta
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 8d51ae6c-0d41-4fae-af21-bbe696d79de1
-  name: Khari Wynn
+  - begin: '1985'
+    end: '1989'
+    instruments:
+      - original
+    mbid: 368abae2-21ad-455b-a49f-f1c11a4d5e45
+    name: Professor Griff
+  - begin: '1985'
+    end: '1998'
+    instruments:
+      - original
+      - turntable
+    mbid: eb7728f6-d303-4bce-a6f8-e291c3b392dc
+    name: Terminator X
+  - begin: '1985'
+    end: '2020-03-01'
+    instruments:
+      - original
+    mbid: 813c1586-f7d5-42d1-94bb-cd2abb42f507
+    name: Flavor Flav
+  - &ref_0
+    begin: '1985'
+    end: ''
+    instruments:
+      - original
+    mbid: 88633ac3-c8e2-420f-8415-77ac56b3105f
+    name: Chuck D
+  - &ref_1
+    begin: '1994'
+    end: ''
+    instruments:
+      - original
+    mbid: 368abae2-21ad-455b-a49f-f1c11a4d5e45
+    name: Professor Griff
+  - &ref_2
+    begin: '1999'
+    end: ''
+    instruments:
+      - turntable
+    mbid: cf948668-24b2-4e0c-bfd6-f6b4a40ad28b
+    name: DJ Lord
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 888aa27b-49e2-43ed-aeea-4a9e83cccf5f
+    name: Keith Boxley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fefdd221-f4f5-41eb-aeef-f34798b6526f
+    name: Davy DMX
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 902512b0-fbd5-429e-98ba-43b7aa57e040
+    name: Brian Hardgroove
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 534e3698-100e-4991-b84d-67bbf5818db7
+    name: Power Born
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: a7c36209-ee9b-41f8-8816-a6782267da39
+    name: T Bone Motta
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 8d51ae6c-0d41-4fae-af21-bbe696d79de1
+    name: Khari Wynn
 musical_connections:
   collaborators:
-  - Hank Shocklee
-  - Bill Stephney
-  - Flavor Flav (William Drayton)
-  - DJ Terminator X (Norman Lee Rogers)
-  - Professor Griff (Richard Griffin)
-  - DJ Lord
-  - Anthrax
-  - U2
+    - Hank Shocklee
+    - Bill Stephney
+    - Flavor Flav (William Drayton)
+    - DJ Terminator X (Norman Lee Rogers)
+    - Professor Griff (Richard Griffin)
+    - DJ Lord
+    - Anthrax
+    - U2
   influenced:
-  - Multiple hip-hop and cross-genre artists
+    - Multiple hip-hop and cross-genre artists
   mentors:
-  - Rick Rubin
+    - Rick Rubin
 musicbrainz_id: bf2e15d0-4b77-469e-bfb4-f8414415baca
 network_extracted: true
-origin: Nassau County
+origin: 'Nassau County, New York, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Public_Enemy
-- https://www.watchmojo.com/articles/public-enemy-history-of-the-hip-hop-group
-- https://www.britannica.com/topic/Public-Enemy
-- https://spitslamrecords.com/pages/public-enemy
-- https://www.hiphopscriptures.com/public-enemy
-- https://teachrock.org/people/public-enemy/
-- https://blackpast.org/african-american-history/public-enemy/
+  - 'https://en.wikipedia.org/wiki/Public_Enemy'
+  - 'https://www.watchmojo.com/articles/public-enemy-history-of-the-hip-hop-group'
+  - 'https://www.britannica.com/topic/Public-Enemy'
+  - 'https://spitslamrecords.com/pages/public-enemy'
+  - 'https://www.hiphopscriptures.com/public-enemy'
+  - 'https://teachrock.org/people/public-enemy/'
+  - 'https://blackpast.org/african-american-history/public-enemy/'
 spotify_data:
   followers: 1183267
   id: 6Mo9PoU6svvhgEum7wh2Nd
   popularity: 57
-  url: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+  url: 'https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd'
 status: active
 tags:
-- conscious hip hop
-- east coast hip hop
-- east coast hip-hop
+  - conscious hip hop
+  - east coast hip hop
+  - east coast hip-hop
 title: Public Enemy
 ---
 

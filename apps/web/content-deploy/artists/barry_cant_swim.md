@@ -1,37 +1,41 @@
 ---
 biography_enhanced_at: '2026-02-04T01:19:50.072616'
-birth_place: Edinburgh, Scotland, United Kingdom
+birth_place: 'Edinburgh, Scotland, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-02-04T01:19:50.072626'
 external_urls:
-  spotify: https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl
-  wikipedia: https://en.wikipedia.org/wiki/Barry_Can't_Swim
+  spotify: 'https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barry_Can''t_Swim'
 genres:
-- jazz house
+  - jazz house
 image_path: 03_Resources/source_material/ArtistPortraits/barry_cant_swim.jpg
 last_updated: '2026-02-04T01:19:50.072628'
 musical_connections:
   collaborators:
-  - Anish Kumar
+    - Anish Kumar
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Barry+Can't+Swim/+wiki
-- https://www.insomniac.com/music/artists/barry-cant-swim/
-- https://notion.online/notion-the-artists-vol-1-barry-cant-swim/
-- https://en.wikipedia.org/wiki/Barry_Can't_Swim
-- https://www.musicmusingsandsuch.com/musicmusingsandsuch/2022/12/24/feature-spotlight-barry-cant-swim
-- https://kileylarsen.substack.com/p/barry-cant-swim-just-dropped-the
-- https://www.thevinylfactory.com/features/records-that-made-me-barry-cant-swim
+  - 'https://www.last.fm/music/Barry+Can''t+Swim/+wiki'
+  - 'https://www.insomniac.com/music/artists/barry-cant-swim/'
+  - 'https://notion.online/notion-the-artists-vol-1-barry-cant-swim/'
+  - 'https://en.wikipedia.org/wiki/Barry_Can''t_Swim'
+  - >-
+    https://www.musicmusingsandsuch.com/musicmusingsandsuch/2022/12/24/feature-spotlight-barry-cant-swim
+  - 'https://kileylarsen.substack.com/p/barry-cant-swim-just-dropped-the'
+  - >-
+    https://www.thevinylfactory.com/features/records-that-made-me-barry-cant-swim
 spotify_data:
   followers: 293840
   id: 0vTVU0KH0CVzijsoKGsTPl
   popularity: 64
-  url: https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl
+  url: 'https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl'
 status: active
 title: Barry Can't Swim
+birth_date: '1992-08-22'
+artist_type: person
 ---
 
 ![](barry_cant_swim.jpg)

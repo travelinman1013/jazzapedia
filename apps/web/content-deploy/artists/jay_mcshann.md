@@ -1,47 +1,50 @@
 ---
 biography_enhanced_at: '2026-03-03T01:34:56.897266'
-birth_place: Muskogee, Oklahoma, USA
+birth_place: 'Muskogee, Oklahoma, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:34:56.897275'
 external_urls:
-  spotify: https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU
-  wikipedia: https://en.wikipedia.org/wiki/Jay_McShann
+  spotify: 'https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jay_McShann'
 genres:
-- blues
-- boogie-woogie
-- jazz
-- swing music
-- big band
+  - blues
+  - boogie-woogie
+  - jazz
+  - swing music
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/jay_mcshann.jpg
 last_updated: '2026-03-03T01:34:56.897277'
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Walter Brown
-  - Don Byas
-  - Ben Webster
-  - Jimmy Witherspoon
-  - Claude Williams
+    - Charlie Parker
+    - Walter Brown
+    - Don Byas
+    - Ben Webster
+    - Jimmy Witherspoon
+    - Claude Williams
   influenced:
-  - Charlie Parker
+    - Charlie Parker
   mentors:
-  - Earl 'Fatha' Hines
+    - Earl 'Fatha' Hines
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kcblackhistory.org/articles/jay-mcshann
-- https://www.arts.gov/honors/jazz/jay-mcshann
-- https://aaregistry.org/story/jay-mcshann-one-of-kansas-cities-finest/
-- https://pendergastkc.org/articles/jay-mcshann
-- https://en.wikipedia.org/wiki/Jay_McShann
-- https://www.nativedsd.com/artist/jay-mcshann/
+  - 'https://kcblackhistory.org/articles/jay-mcshann'
+  - 'https://www.arts.gov/honors/jazz/jay-mcshann'
+  - 'https://aaregistry.org/story/jay-mcshann-one-of-kansas-cities-finest/'
+  - 'https://pendergastkc.org/articles/jay-mcshann'
+  - 'https://en.wikipedia.org/wiki/Jay_McShann'
+  - 'https://www.nativedsd.com/artist/jay-mcshann/'
 spotify_data:
   followers: 8493
   id: 1qZnWtvzKVV0lJQZBapchU
   popularity: 27
-  url: https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU
+  url: 'https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU'
 status: active
-title: JAY MCSHANN
+title: Jay McShann
+origin: 'Kansas City, Missouri, United States'
+birth_date: '1916-01-12'
+artist_type: person
 ---
 
 ![](jay_mcshann.jpg)

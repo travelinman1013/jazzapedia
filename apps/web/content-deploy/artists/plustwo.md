@@ -1,14 +1,14 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-29T02:06:34.828886'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:06:34.828897'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/465e17a6-1bc7-4822-a794-336279711d20
-  spotify: https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK
+  musicbrainz: 'https://musicbrainz.org/artist/465e17a6-1bc7-4822-a794-336279711d20'
+  spotify: 'https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK'
   wikipedia: ''
 genres:
-- italo disco
+  - italo disco
 image_path: 03_Resources/source_material/ArtistPortraits/plustwo.jpg
 last_updated: '2026-01-29T02:06:34.828898'
 musical_connections:
@@ -17,20 +17,21 @@ musical_connections:
   mentors: []
 musicbrainz_id: 465e17a6-1bc7-4822-a794-336279711d20
 network_extracted: true
-origin: Italy
+origin: 'Italy, Italy, Italy'
 primary_source: perplexity
 research_sources:
-- https://wordandsound.net/release/118883-BSTX068-Plustwo-Melody
-- https://www.abnewswire.com/pressreleases/plustwo-italiandance-band-from-the-80s-goes-viral-on-tiktok-over-1983-vinyl-club-mix_521532.html
-- https://www.youtube.com/watch?v=3siGZqSEk-M
-- https://www.last.fm/music/Plustwo
-- https://www.pianopianoforte.com/plustwo/about.html
-- https://en.wikipedia.org/wiki/List_of_Italo_disco_artists_and_songs
+  - 'https://wordandsound.net/release/118883-BSTX068-Plustwo-Melody'
+  - >-
+    https://www.abnewswire.com/pressreleases/plustwo-italiandance-band-from-the-80s-goes-viral-on-tiktok-over-1983-vinyl-club-mix_521532.html
+  - 'https://www.youtube.com/watch?v=3siGZqSEk-M'
+  - 'https://www.last.fm/music/Plustwo'
+  - 'https://www.pianopianoforte.com/plustwo/about.html'
+  - 'https://en.wikipedia.org/wiki/List_of_Italo_disco_artists_and_songs'
 spotify_data:
   followers: 7814
   id: 5bHicu5GncBzOsjUFsooLK
   popularity: 32
-  url: https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK
+  url: 'https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK'
 status: active
 title: Plustwo
 ---

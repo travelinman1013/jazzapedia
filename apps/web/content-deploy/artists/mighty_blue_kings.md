@@ -1,56 +1,57 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-25T02:03:08.806223'
 birth_date: '1995'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:03:08.806233'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/66ec0923-46dd-4dde-b39b-ceda81a9692b
-  spotify: https://open.spotify.com/artist/7hwlHLOgi3EcKV3UaAwiGr
+  musicbrainz: 'https://musicbrainz.org/artist/66ec0923-46dd-4dde-b39b-ceda81a9692b'
+  spotify: 'https://open.spotify.com/artist/7hwlHLOgi3EcKV3UaAwiGr'
   wikipedia: ''
 genres:
-- swing music
-- boogie-woogie
+  - swing music
+  - boogie-woogie
 image_path: 03_Resources/source_material/ArtistPortraits/mighty_blue_kings.jpg
 last_updated: '2026-02-25T02:03:08.806235'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a234223c-5c77-4773-b2e4-770ba2661336
-  name: Ross Bon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b2908699-a279-478d-871e-29585d5dff0e
-  name: Sam Burckhardt
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a234223c-5c77-4773-b2e4-770ba2661336
+    name: Ross Bon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b2908699-a279-478d-871e-29585d5dff0e
+    name: Sam Burckhardt
 musical_connections:
   collaborators:
-  - Jimmy Sutton
-  - Ernie Adams
-  - Matt Thompson
-  - Scott Tipping
-  - Jerry DeVivo
+    - Jimmy Sutton
+    - Ernie Adams
+    - Matt Thompson
+    - Scott Tipping
+    - Jerry DeVivo
   influenced: []
   mentors:
-  - Jimmy Sutton
+    - Jimmy Sutton
 musicbrainz_id: 66ec0923-46dd-4dde-b39b-ceda81a9692b
 network_extracted: true
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- http://christmasyuleblog.blogspot.com/2006/01/mighty-blue-kings-christmas-album.html
-- https://badgerherald.com/artsetc/2001/12/12/the-mighty-blues-kin/
-- https://storiesfromthe78.com/stories/ross-bon-the-mighty-blue-kings
-- https://www.youtube.com/watch?v=lCcoZ1Kgtbg
-- https://www.allmusic.com/artist/the-mighty-blue-kings-mn0000891015
+  - >-
+    http://christmasyuleblog.blogspot.com/2006/01/mighty-blue-kings-christmas-album.html
+  - 'https://badgerherald.com/artsetc/2001/12/12/the-mighty-blues-kin/'
+  - 'https://storiesfromthe78.com/stories/ross-bon-the-mighty-blue-kings'
+  - 'https://www.youtube.com/watch?v=lCcoZ1Kgtbg'
+  - 'https://www.allmusic.com/artist/the-mighty-blue-kings-mn0000891015'
 spotify_data:
   followers: 1367
   id: 7hwlHLOgi3EcKV3UaAwiGr
   popularity: 6
-  url: https://open.spotify.com/artist/7hwlHLOgi3EcKV3UaAwiGr
+  url: 'https://open.spotify.com/artist/7hwlHLOgi3EcKV3UaAwiGr'
 status: active
-title: Mighty Blue Kings
+title: The Mighty Blue Kings
 ---
 
 ![](mighty_blue_kings.jpg)

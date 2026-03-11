@@ -3,46 +3,55 @@ biography_enhanced_at: '2026-03-01T01:58:58.392454'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T01:58:58.392463'
 external_urls:
-  spotify: https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8
-  wikipedia: https://en.wikipedia.org/wiki/Getz/Gilberto
+  spotify: 'https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Getz/Gilberto'
 genres:
-- bossa nova
-- jazz
-- brazilian jazz
-- cool jazz
-- latin jazz
-- jazz ballads
+  - bossa nova
+  - jazz
+  - brazilian jazz
+  - cool jazz
+  - latin jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/stan_getz_and_joao_gilberto.jpg
 last_updated: '2026-03-01T01:58:58.392465'
 musical_connections:
   collaborators:
-  - Antônio Carlos Jobim
-  - Astrud Gilberto
-  - Milton Banana
-  - Sebastião Neto
+    - Antônio Carlos Jobim
+    - Astrud Gilberto
+    - Milton Banana
+    - Sebastião Neto
   influenced:
-  - Global Jazz and Popular Music Audiences
+    - Global Jazz and Popular Music Audiences
   mentors:
-  - Antônio Carlos Jobim (Tom Jobim)
-  - Charlie Byrd
+    - Antônio Carlos Jobim (Tom Jobim)
+    - Charlie Byrd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.laphil.com/musicdb/artists/2022/joao-gilberto
-- https://jazzfuel.com/stan-getz-joao-gilberto-getz-gilberto/
-- https://www.connectbrazil.com/how-stan-getz-became-bossa-novas-american-icon/
-- https://lacis.wisc.edu/2019/04/25/getz-gilberto-and-the-evolution-of-bossa-nova/
-- https://jpcavanaugh.com/2023/06/23/getz-gilberto-some-brazilians-and-an-american-walk-into-a-recording-studio-and-make-some-musical-history/
-- https://en.wikipedia.org/wiki/Getz/Gilberto
-- https://daniellathompson.com/Texts/Brazzil/Plain_Joao.htm
-- https://www.cc-seas.columbia.edu/wkcr/story/60-years-getzgilberto
+  - 'https://www.laphil.com/musicdb/artists/2022/joao-gilberto'
+  - 'https://jazzfuel.com/stan-getz-joao-gilberto-getz-gilberto/'
+  - >-
+    https://www.connectbrazil.com/how-stan-getz-became-bossa-novas-american-icon/
+  - >-
+    https://lacis.wisc.edu/2019/04/25/getz-gilberto-and-the-evolution-of-bossa-nova/
+  - >-
+    https://jpcavanaugh.com/2023/06/23/getz-gilberto-some-brazilians-and-an-american-walk-into-a-recording-studio-and-make-some-musical-history/
+  - 'https://en.wikipedia.org/wiki/Getz/Gilberto'
+  - 'https://daniellathompson.com/Texts/Brazzil/Plain_Joao.htm'
+  - 'https://www.cc-seas.columbia.edu/wkcr/story/60-years-getzgilberto'
 spotify_data:
   followers: 557885
   id: 0FMucZsEnCxs5pqBjHjIc8
   popularity: 64
-  url: https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8
+  url: 'https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8'
 status: active
 title: Stan Getz & Joao Gilberto
+birth_place: 'Philadelphia, Pennsylvania, United States'
+origin: >-
+  Stan Getz: Philadelphia, Pennsylvania, United States; João Gilberto: Salvador,
+  Bahia, Brazil
+birth_date: '1931-06-10'
+artist_type: person
 ---
 
 ![](stan_getz_and_joao_gilberto.jpg)

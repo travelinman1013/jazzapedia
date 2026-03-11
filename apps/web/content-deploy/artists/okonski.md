@@ -1,43 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-27T01:34:28.335456'
-birth_place: Michigan, United States (birthplace); Asheville, North Carolina, United
-  States (current residence as of 2019)
+birth_place: >-
+  Michigan, United States (birthplace); Asheville, North Carolina, United States
+  (current residence as of 2019)
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:34:28.335465'
 external_urls:
-  spotify: https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5
+  spotify: 'https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/okonski.jpg
 last_updated: '2026-02-27T01:34:28.335467'
 musical_connections:
   collaborators:
-  - Aaron Frazer
-  - Michael Isvara "Ish" Montgomery
-  - Scott McMicken
-  - Durand Jones & the Indications
+    - Aaron Frazer
+    - Michael Isvara "Ish" Montgomery
+    - Scott McMicken
+    - Durand Jones & the Indications
   influenced: []
   mentors:
-  - Jazz Combo Instructor at Eastern Michigan University
-  - Terry Cole
+    - Jazz Combo Instructor at Eastern Michigan University
+    - Terry Cole
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://ashevillestages.com/music/interview-steve-okonski
-- https://www.last.fm/music/Okonski/+wiki
-- https://www.eisenbergreview.com/blog/steve-okonski
-- https://www.allaboutjazz.com/musicians/steve-okonski/
-- https://glidemagazine.com/310253/piano-trio-okonski-featuring-two-members-of-durand-jones-the-indications-returns-with-graceful-calming-entrance-music-album-review/
-- https://www.mateosmagicbus.com/post/the-steve-okonski-interview-on-mateo-s-magic-bus-on-kffr-88-3-fm
-- https://www.coleminerecords.com/collections/okonski
-- https://www.allmusic.com/artist/okonski-mn0004369704
+  - 'https://ashevillestages.com/music/interview-steve-okonski'
+  - 'https://www.last.fm/music/Okonski/+wiki'
+  - 'https://www.eisenbergreview.com/blog/steve-okonski'
+  - 'https://www.allaboutjazz.com/musicians/steve-okonski/'
+  - >-
+    https://glidemagazine.com/310253/piano-trio-okonski-featuring-two-members-of-durand-jones-the-indications-returns-with-graceful-calming-entrance-music-album-review/
+  - >-
+    https://www.mateosmagicbus.com/post/the-steve-okonski-interview-on-mateo-s-magic-bus-on-kffr-88-3-fm
+  - 'https://www.coleminerecords.com/collections/okonski'
+  - 'https://www.allmusic.com/artist/okonski-mn0004369704'
 spotify_data:
   followers: 23816
   id: 0UyhOIzQ8yAuLmVlEw1Lo5
   popularity: 46
-  url: https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5
+  url: 'https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5'
 status: active
 title: OkoNski
+artist_type: person
 ---
 
 ![](okonski.jpg)

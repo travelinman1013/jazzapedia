@@ -1,56 +1,60 @@
 ---
 biography_enhanced_at: '2026-01-25T01:40:31.104037'
-birth_date: '2026-01-23'
+birth_date: '1990-07-16'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:40:31.104042'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/429bb543-779c-4556-886b-e6af1f156e89
-  spotify: https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp
-  wikipedia: https://en.wikipedia.org/wiki/Asake; https://en.wikipedia.org/wiki/Wizkid
+  musicbrainz: 'https://musicbrainz.org/artist/429bb543-779c-4556-886b-e6af1f156e89'
+  spotify: 'https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Asake; https://en.wikipedia.org/wiki/Wizkid'
 genres:
-- afrobeats
-- afrobeat
-- afropop
-- azonto
-- afroswing
-- afro r&b
-- afropiano
+  - afrobeats
+  - afrobeat
+  - afropop
+  - azonto
+  - afroswing
+  - afro r&b
+  - afropiano
 image_path: 03_Resources/source_material/ArtistPortraits/wizkid_and_asake.jpg
 last_updated: '2026-01-25T01:40:31.104043'
 musical_connections:
   collaborators:
-  - Wizkid
-  - Olamide
-  - Burna Boy
-  - Drake
-  - Tems
-  - Travis Scott
-  - Davido
+    - Wizkid
+    - Olamide
+    - Burna Boy
+    - Drake
+    - Tems
+    - Travis Scott
+    - Davido
   influenced:
-  - Asake
-  - New generation Afrobeats artists
+    - Asake
+    - New generation Afrobeats artists
   mentors:
-  - Olamide
-  - Wizkid
-  - Olamide
-  - Davido
+    - Olamide
+    - Wizkid
+    - Olamide
+    - Davido
 musicbrainz_id: 429bb543-779c-4556-886b-e6af1f156e89
 network_extracted: true
-origin: Surulere, Lagos, Nigeria (Wizkid); Nigeria (Asake)
+origin: 'Surulere, Lagos, Nigeria (Wizkid); Nigeria (Asake)'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Asake
-- https://www.gistreel.com/asake-biography/
-- https://www.legit.ng/ask-legit/biographies/1532548-asakes-biography-age-real-net-worth/
-- https://www.djmondomusic.com.ng/2025/09/wizkid-life-story-from-1990-to-2025.html
-- https://en.wikipedia.org/wiki/Wizkid
+  - 'https://en.wikipedia.org/wiki/Asake'
+  - 'https://www.gistreel.com/asake-biography/'
+  - >-
+    https://www.legit.ng/ask-legit/biographies/1532548-asakes-biography-age-real-net-worth/
+  - >-
+    https://www.djmondomusic.com.ng/2025/09/wizkid-life-story-from-1990-to-2025.html
+  - 'https://en.wikipedia.org/wiki/Wizkid'
 spotify_data:
   followers: 10321976
   id: 3tVQdUvClmAT7URs9V3rsp
   popularity: 84
-  url: https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp
+  url: 'https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp'
 status: active
-title: wizkid & asake
+title: Wizkid & Asake
+birth_place: 'Surulere, Lagos, Nigeria'
+artist_type: band
 ---
 
 ![](wizkid_and_asake.jpg)

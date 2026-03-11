@@ -2,60 +2,62 @@
 artist_type: person
 biography_enhanced_at: '2026-02-24T01:38:26.296839'
 birth_date: '1965-10-18'
-birth_place: Boise
+birth_place: 'Hollywood, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:38:26.296845'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cb2bdb35-2441-44cc-bff4-fa712b4b5969
-  spotify: https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu
-  wikipedia: https://en.wikipedia.org/wiki/Curtis_Stigers
+  musicbrainz: 'https://musicbrainz.org/artist/cb2bdb35-2441-44cc-bff4-fa712b4b5969'
+  spotify: 'https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Curtis_Stigers'
 gender: Male
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/curtis_stigers.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-02-24T01:38:26.296845'
 musical_connections:
   collaborators:
-  - Jackson Browne
-  - Benmont Tench
-  - Carole King
-  - Jules Shear
-  - Randy Brecker
-  - Chris Minh Doky
-  - Billy Harvey
-  - Jake Stigers
-  - Al Green
-  - Shawn Colvin
-  - Tom Jones
+    - Jackson Browne
+    - Benmont Tench
+    - Carole King
+    - Jules Shear
+    - Randy Brecker
+    - Chris Minh Doky
+    - Billy Harvey
+    - Jake Stigers
+    - Al Green
+    - Shawn Colvin
+    - Tom Jones
   influenced: []
   mentors:
-  - Gene Harris
-  - Mark Murphy
+    - Gene Harris
+    - Mark Murphy
 musicbrainz_id: cb2bdb35-2441-44cc-bff4-fa712b4b5969
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.curtisstigers.com/bio/
-- https://www.missingpiecegroup.com/curtis-stigers
-- https://www.passim.org/artists/curtis-stigers/
-- https://www.laphil.com/musicdb/artists/5039/curtis-stigers
-- https://en.wikipedia.org/wiki/Curtis_Stigers
-- https://www.americanbluesscene.com/2025/03/curtis-stigers-serves-sumptuous-country-blues-ballads-from-his-idaho-home-kitchen/
-- https://www.curtisstigers.com
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=1416
+  - 'https://www.curtisstigers.com/bio/'
+  - 'https://www.missingpiecegroup.com/curtis-stigers'
+  - 'https://www.passim.org/artists/curtis-stigers/'
+  - 'https://www.laphil.com/musicdb/artists/5039/curtis-stigers'
+  - 'https://en.wikipedia.org/wiki/Curtis_Stigers'
+  - >-
+    https://www.americanbluesscene.com/2025/03/curtis-stigers-serves-sumptuous-country-blues-ballads-from-his-idaho-home-kitchen/
+  - 'https://www.curtisstigers.com'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=1416'
 spotify_data:
   followers: 54069
   id: 2bNtosg6E8tvmN6wYxPCfu
   popularity: 44
-  url: https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu
+  url: 'https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu'
 status: active
 tags:
-- jazz
-- jazz and blues
-- vocal jazz
+  - jazz
+  - jazz and blues
+  - vocal jazz
 title: Curtis Stigers
+origin: 'Boise, Idaho, United States'
 ---
 
 ![](curtis_stigers.jpg)

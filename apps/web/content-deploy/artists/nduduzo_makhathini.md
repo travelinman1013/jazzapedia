@@ -2,54 +2,57 @@
 artist_type: person
 biography_enhanced_at: '2026-03-06T01:29:22.403704'
 birth_date: '1982-09-24'
-birth_place: Pietermaritzburg
+birth_place: 'Pietermaritzburg, KwaZulu-Natal, South Africa'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:29:22.403712'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75a9a46c-f01c-4be5-af07-91a4e17385ad
-  spotify: https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft
+  musicbrainz: 'https://musicbrainz.org/artist/75a9a46c-f01c-4be5-af07-91a4e17385ad'
+  spotify: 'https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft'
   wikipedia: ''
 gender: Male
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/nduduzo_makhathini.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-03-06T01:29:22.403714'
 musical_connections:
   collaborators:
-  - Omagugu Makhathini
-  - Zwelakhe-Duma Bell le Pere
-  - Francisco Mela
-  - Logan Richardson
-  - Wynton Marsalis
+    - Omagugu Makhathini
+    - Zwelakhe-Duma Bell le Pere
+    - Francisco Mela
+    - Logan Richardson
+    - Wynton Marsalis
   influenced:
-  - Linda Sikhakhane
+    - Linda Sikhakhane
   mentors:
-  - Bheki Mseleku
-  - McCoy Tyner
-  - John Coltrane
+    - Bheki Mseleku
+    - McCoy Tyner
+    - John Coltrane
 musicbrainz_id: 75a9a46c-f01c-4be5-af07-91a4e17385ad
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bluenote.com/artist/nduduzo-makhathini/
-- https://www.allaboutjazz.com/the-word-from-johannesburg-part-i-nduduzo-makhathini-nduduzo-makhathini
-- https://www.nduduzomakhathini.com/bio/
-- https://www.everythingjazz.com/story/nduduzo-makhathini-the-spirituality-of-sound/
-- https://www.detroitjazzfest.org/artist/nduduzo-makhathini/
-- https://www.youtube.com/watch?v=LjA0q7BXhu4
-- https://www.allmusic.com/artist/nduduzo-makhathini-mn0003068518
-- https://ukvibe.org/revibe/interviews/2016-interviews/nduduzo-makhathini/
+  - 'https://www.bluenote.com/artist/nduduzo-makhathini/'
+  - >-
+    https://www.allaboutjazz.com/the-word-from-johannesburg-part-i-nduduzo-makhathini-nduduzo-makhathini
+  - 'https://www.nduduzomakhathini.com/bio/'
+  - >-
+    https://www.everythingjazz.com/story/nduduzo-makhathini-the-spirituality-of-sound/
+  - 'https://www.detroitjazzfest.org/artist/nduduzo-makhathini/'
+  - 'https://www.youtube.com/watch?v=LjA0q7BXhu4'
+  - 'https://www.allmusic.com/artist/nduduzo-makhathini-mn0003068518'
+  - 'https://ukvibe.org/revibe/interviews/2016-interviews/nduduzo-makhathini/'
 spotify_data:
   followers: 27855
   id: 6EvFcDtvFuVugEtZNslkft
   popularity: 26
-  url: https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft
+  url: 'https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft'
 status: active
 tags:
-- jazz
+  - jazz
 title: Nduduzo Makhathini
+origin: 'umGungundlovu, KwaZulu-Natal, South Africa'
 ---
 
 ![](nduduzo_makhathini.jpg)

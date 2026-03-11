@@ -1,41 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-26T01:36:58.341523'
-birth_place: Rochester, New York, USA (Danielle Ponder); Los Angeles, California,
-  USA (Georgia Anne Muldrow)
+birth_place: 'Rochester, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:36:58.341532'
 external_urls:
-  spotify: https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ
-  wikipedia: https://en.wikipedia.org/wiki/Danielle_Ponder, https://en.wikipedia.org/wiki/Georgia_Anne_Muldrow
+  spotify: 'https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Danielle_Ponder,
+    https://en.wikipedia.org/wiki/Georgia_Anne_Muldrow
 genres:
-- retro soul
-image_path: 03_Resources/source_material/ArtistPortraits/danielle_ponder_georgia_anne_muldrow.jpg
+  - retro soul
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/danielle_ponder_georgia_anne_muldrow.jpg
 last_updated: '2026-01-26T01:36:58.341534'
 musical_connections:
   collaborators:
-  - Georgia Anne Muldrow
-  - Dudley Perkins
-  - Madlib
+    - Georgia Anne Muldrow
+    - Dudley Perkins
+    - Madlib
   influenced: []
   mentors:
-  - Ronald Muldrow
-  - Rickie Byars
+    - Ronald Muldrow
+    - Rickie Byars
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Georgia_Anne_Muldrow
-- https://en.wikipedia.org/wiki/Danielle_Ponder
-- https://sacksco.com/pr/danielle_ponder.html
-- https://www.upfullife.com/fave-records-2022/
-- https://www.grimygoods.com/2023/09/21/danielle-ponder-new-deluxe-album-some-of-us-are-brave/
-- https://kutx.org/words-on-music/npr-music/slingshots-2023-artists-to-watch/
+  - 'https://en.wikipedia.org/wiki/Georgia_Anne_Muldrow'
+  - 'https://en.wikipedia.org/wiki/Danielle_Ponder'
+  - 'https://sacksco.com/pr/danielle_ponder.html'
+  - 'https://www.upfullife.com/fave-records-2022/'
+  - >-
+    https://www.grimygoods.com/2023/09/21/danielle-ponder-new-deluxe-album-some-of-us-are-brave/
+  - 'https://kutx.org/words-on-music/npr-music/slingshots-2023-artists-to-watch/'
 spotify_data:
   followers: 79698
   id: 5rZUNweztKBI1Xy3XhYHoJ
   popularity: 49
-  url: https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ
+  url: 'https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ'
 status: active
-title: Danielle Ponder, Georgia Anne Muldrow
+title: 'Danielle Ponder, Georgia Anne Muldrow'
+birth_date: '1982'
+artist_type: person
 ---
 
 ![](danielle_ponder_georgia_anne_muldrow.jpg)

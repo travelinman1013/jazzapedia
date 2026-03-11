@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-03-03T01:34:30.207813'
-birth_place: Washington, D.C., USA
+birth_place: 'Washington, D.C., USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:34:30.207825'
 external_urls:
-  spotify: https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7
-  wikipedia: https://en.wikipedia.org/wiki/John_Fahey_(musician)
+  spotify: 'https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Fahey_(musician)'
 genres:
-- folk
+  - folk
 image_path: 03_Resources/source_material/ArtistPortraits/john_fahey.jpg
 last_updated: '2026-03-03T01:34:30.207826'
 musical_connections:
   collaborators:
-  - ED Denson
-  - Terry Robb
-  - Bukka White
+    - ED Denson
+    - Terry Robb
+    - Bukka White
   influenced:
-  - Leo Kottke
-  - Robbie Basho
-  - George Winston
+    - Leo Kottke
+    - Robbie Basho
+    - George Winston
   mentors:
-  - Richard K. Spottswood
-  - Frank Hovington
+    - Richard K. Spottswood
+    - Frank Hovington
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_Fahey_(musician)
-- https://www.oregonencyclopedia.org/articles/fahey_john_1939_2001_/
-- https://concord.com/artist/john-fahey/
-- https://www.allmusic.com/artist/john-fahey-mn0000223054
-- https://www.johnfahey.com/Blood.htm
+  - 'https://en.wikipedia.org/wiki/John_Fahey_(musician)'
+  - 'https://www.oregonencyclopedia.org/articles/fahey_john_1939_2001_/'
+  - 'https://concord.com/artist/john-fahey/'
+  - 'https://www.allmusic.com/artist/john-fahey-mn0000223054'
+  - 'https://www.johnfahey.com/Blood.htm'
 spotify_data:
   followers: 100505
   id: 4js8BDiQwnHLlDmT1shPH7
   popularity: 40
-  url: https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7
+  url: 'https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7'
 status: active
-title: JOHN FAHEY
+title: John Fahey
+birth_date: '1939-02-28'
+death_date: '2001-02-22'
+artist_type: person
 ---
 
 ![](john_fahey.jpg)

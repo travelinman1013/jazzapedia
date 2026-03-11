@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-02-03T02:04:51.352099'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:04:51.352110'
 external_urls:
-  spotify: https://open.spotify.com/artist/00dt8xmRxni7o7Az9zmLXx
+  spotify: 'https://open.spotify.com/artist/00dt8xmRxni7o7Az9zmLXx'
   wikipedia: null
 genres:
-- latin jazz
+  - latin jazz
 image_path: 03_Resources/source_material/ArtistPortraits/los_po_boy_citos.jpg
 last_updated: '2026-02-03T02:04:51.352112'
 musical_connections:
@@ -14,23 +14,24 @@ musical_connections:
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/music/los-po-boy-citos-brand-new-dance-independent/
-- https://www.youtube.com/watch?v=Jv3oaPv5rV0
-- https://lospoboycitos.bandcamp.com/album/new-orleans-latin-soul
-- https://www.offbeat.com/articles/los-po-boy-citos-life-after-mash-up/
-- https://www.youtube.com/watch?v=8uEW9jlDGoc
-- https://www.wwoz.org/blog/3126
-- https://www.youtube.com/watch?v=wTVQIDccfGk
+  - 'https://www.offbeat.com/music/los-po-boy-citos-brand-new-dance-independent/'
+  - 'https://www.youtube.com/watch?v=Jv3oaPv5rV0'
+  - 'https://lospoboycitos.bandcamp.com/album/new-orleans-latin-soul'
+  - 'https://www.offbeat.com/articles/los-po-boy-citos-life-after-mash-up/'
+  - 'https://www.youtube.com/watch?v=8uEW9jlDGoc'
+  - 'https://www.wwoz.org/blog/3126'
+  - 'https://www.youtube.com/watch?v=wTVQIDccfGk'
 spotify_data:
   followers: 304
   id: 00dt8xmRxni7o7Az9zmLXx
   popularity: 8
-  url: https://open.spotify.com/artist/00dt8xmRxni7o7Az9zmLXx
+  url: 'https://open.spotify.com/artist/00dt8xmRxni7o7Az9zmLXx'
 status: active
 title: Los Po Boy Citos
+artist_type: band
 ---
 
 ![](los_po_boy_citos.jpg)

@@ -1,40 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-09T01:22:40.369374'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:22:40.369391'
 external_urls:
-  spotify: https://open.spotify.com/artist/2hFBlnHKijtoHaOMoJuRg0
+  spotify: 'https://open.spotify.com/artist/2hFBlnHKijtoHaOMoJuRg0'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/flagboy_giz_wild_tchoupitoulas.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/flagboy_giz_wild_tchoupitoulas.jpg
 last_updated: '2026-02-09T01:22:40.369395'
 musical_connections:
   collaborators:
-  - Brandan 'Bmike' Odums
-  - Mannie Fresh
-  - Wild Tchoupitoulas tribe members
+    - Brandan 'Bmike' Odums
+    - Mannie Fresh
+    - Wild Tchoupitoulas tribe members
   influenced: []
   mentors:
-  - Rodrick Sylvas
-  - George 'Big Chief Jolly' Landry
+    - Rodrick Sylvas
+    - George 'Big Chief Jolly' Landry
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/articles/we-all-the-way-outside-flagboy-giz-tells-his-mardi-gras-indian-story/
-- https://www.thefader.com/2025/04/22/oral-history-flagboy-giz-we-outside
-- https://www.whereyat.com/flagboy-giz-the-wild-tchoupitoulas
-- https://nolalibrary.org/2023/12/15/crescent-city-sounds-spotlight-flagboy-giz/
-- https://flagboygiz.com/bio-1
-- https://www.neworleans.com/listing/flagboy-giz/48343/
-- https://flagboygiz.com
+  - >-
+    https://www.offbeat.com/articles/we-all-the-way-outside-flagboy-giz-tells-his-mardi-gras-indian-story/
+  - 'https://www.thefader.com/2025/04/22/oral-history-flagboy-giz-we-outside'
+  - 'https://www.whereyat.com/flagboy-giz-the-wild-tchoupitoulas'
+  - >-
+    https://nolalibrary.org/2023/12/15/crescent-city-sounds-spotlight-flagboy-giz/
+  - 'https://flagboygiz.com/bio-1'
+  - 'https://www.neworleans.com/listing/flagboy-giz/48343/'
+  - 'https://flagboygiz.com'
 spotify_data:
   followers: 29
   id: 2hFBlnHKijtoHaOMoJuRg0
   popularity: 5
-  url: https://open.spotify.com/artist/2hFBlnHKijtoHaOMoJuRg0
+  url: 'https://open.spotify.com/artist/2hFBlnHKijtoHaOMoJuRg0'
 status: active
-title: Flagboy Giz, Wild Tchoupitoulas
+title: 'Flagboy Giz, Wild Tchoupitoulas'
+artist_type: person
 ---
 
 ![](flagboy_giz_wild_tchoupitoulas.jpg)

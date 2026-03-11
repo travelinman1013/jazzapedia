@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-02T01:46:51.066642'
-birth_place: Langa, Cape Town, South Africa
+birth_place: 'Langa, Cape Town, South Africa'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:46:51.066651'
 external_urls:
-  spotify: https://open.spotify.com/artist/2kBl6WvpHJRYJ48UJbGIel
+  spotify: 'https://open.spotify.com/artist/2kBl6WvpHJRYJ48UJbGIel'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/makhaya.jpg
 last_updated: '2026-02-02T01:46:51.066652'
 musical_connections:
   collaborators:
-  - Jazz Epistles (incl. Jonas Gwangwa)
-  - Abdullah Ibrahim (Dollar Brand)
-  - King Kong pit band (incl. Jonas Gwangwa)
-  - Makhaya and the Tsotsis
-  - Johnny Dyani, Dudu Pukwana
-  - Duke Ellington
-  - Feya Faku
+    - Jazz Epistles (incl. Jonas Gwangwa)
+    - Abdullah Ibrahim (Dollar Brand)
+    - King Kong pit band (incl. Jonas Gwangwa)
+    - Makhaya and the Tsotsis
+    - 'Johnny Dyani, Dudu Pukwana'
+    - Duke Ellington
+    - Feya Faku
   influenced: []
   mentors:
-  - Phaks Joya
-  - Christopher Columbus Ngcukana
-  - Banzi Bangani
-  - Lami Zokufa
+    - Phaks Joya
+    - Christopher Columbus Ngcukana
+    - Banzi Bangani
+    - Lami Zokufa
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sisgwenjazz.wordpress.com/2024/09/01/makhaya-ntshoko-the-quiet-shy-young-man-who-became-a-international-drum-powerhouse/
-- http://www.music.org.za/artist.asp?id=236
+  - >-
+    https://sisgwenjazz.wordpress.com/2024/09/01/makhaya-ntshoko-the-quiet-shy-young-man-who-became-a-international-drum-powerhouse/
+  - 'http://www.music.org.za/artist.asp?id=236'
 spotify_data:
   followers: 5531
   id: 2kBl6WvpHJRYJ48UJbGIel
   popularity: 30
-  url: https://open.spotify.com/artist/2kBl6WvpHJRYJ48UJbGIel
+  url: 'https://open.spotify.com/artist/2kBl6WvpHJRYJ48UJbGIel'
 status: active
 title: Makhaya
+artist_type: person
 ---
 
 ![](makhaya.jpg)

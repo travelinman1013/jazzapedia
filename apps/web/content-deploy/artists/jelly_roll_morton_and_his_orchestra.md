@@ -1,115 +1,119 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-22T01:45:55.747332'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:45:55.747341'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c249d3b3-f245-4900-8931-634c0f540a0e
-  spotify: https://open.spotify.com/artist/0Qs5ml5ZLbcWDG0EW49pMS
-  wikipedia: https://en.wikipedia.org/wiki/Jelly_Roll_Morton
+  musicbrainz: 'https://musicbrainz.org/artist/c249d3b3-f245-4900-8931-634c0f540a0e'
+  spotify: 'https://open.spotify.com/artist/0Qs5ml5ZLbcWDG0EW49pMS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jelly_Roll_Morton'
 genres:
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/jelly_roll_morton_and_his_orchestra.jpg
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jelly_roll_morton_and_his_orchestra.jpg
 instruments:
-- banjo
-- drums (drum set)
-- original
-- piano
-- cornet
-- double bass
-last_updated: '2026-02-22T01:45:55.747343'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - banjo
-  mbid: 094ce512-bc2d-4499-9beb-11fe966aabbd
-  name: Barney Alexander
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 97951455-36e2-48a0-9099-fdc8f44bf67e
-  name: George Baquet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eab4d095-80d3-4b20-a16a-4d96d28ff67f
-  name: Barney Bigard
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d0a89bc2-815f-47a5-831e-e12b5269584c
-  name: Arville Harris
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 234c7c90-05ac-4e68-ae63-a5513cc5125d
-  name: Charlie Irvis
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 07beccc5-e8ed-41dc-aa83-0233546fe828
-  name: William Laws
-- begin: ''
-  end: ''
-  instruments:
   - original
   - piano
-  mbid: 3d094919-071f-4070-95dc-e1f350e4a5f3
-  name: Jelly Roll Morton
-- begin: ''
-  end: ''
-  instruments:
   - cornet
-  mbid: 09970676-e7f0-4fba-815d-d5b87170b015
-  name: Buddie Petit
-- begin: ''
-  end: ''
-  instruments:
   - double bass
-  mbid: 195cf394-748d-463e-b0f8-ffac219613d2
-  name: Harry Prather
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d756031-4bd5-4a12-824c-5f253ad8e048
-  name: Jasper Taylor
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4ae18a24-79d2-4040-ab28-27996bf32471
-  name: Wilson Townes
+last_updated: '2026-02-22T01:45:55.747343'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: 094ce512-bc2d-4499-9beb-11fe966aabbd
+    name: Barney Alexander
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 97951455-36e2-48a0-9099-fdc8f44bf67e
+    name: George Baquet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eab4d095-80d3-4b20-a16a-4d96d28ff67f
+    name: Barney Bigard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d0a89bc2-815f-47a5-831e-e12b5269584c
+    name: Arville Harris
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 234c7c90-05ac-4e68-ae63-a5513cc5125d
+    name: Charlie Irvis
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 07beccc5-e8ed-41dc-aa83-0233546fe828
+    name: William Laws
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - piano
+    mbid: 3d094919-071f-4070-95dc-e1f350e4a5f3
+    name: Jelly Roll Morton
+  - begin: ''
+    end: ''
+    instruments:
+      - cornet
+    mbid: 09970676-e7f0-4fba-815d-d5b87170b015
+    name: Buddie Petit
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 195cf394-748d-463e-b0f8-ffac219613d2
+    name: Harry Prather
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d756031-4bd5-4a12-824c-5f253ad8e048
+    name: Jasper Taylor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4ae18a24-79d2-4040-ab28-27996bf32471
+    name: Wilson Townes
 musical_connections:
   collaborators:
-  - Morton's Red Hot Peppers
-  - Omer Simeon
-  - Geechie Fields
-  - Henry 'Red' Allen
+    - Morton's Red Hot Peppers
+    - Omer Simeon
+    - Geechie Fields
+    - Henry 'Red' Allen
   influenced:
-  - Fletcher Henderson
-  - Benny Goodman
+    - Fletcher Henderson
+    - Benny Goodman
   mentors:
-  - None identified
+    - None identified
 musicbrainz_id: c249d3b3-f245-4900-8931-634c0f540a0e
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jelly_Roll_Morton
-- https://syncopatedtimes.com/rudiments-of-ragtime-installment-13-jelly-roll-morton-1890-1941/
-- https://www.britannica.com/biography/Jelly-Roll-Morton
-- https://syncopatedtimes.com/jelly-roll-morton-profiles-in-jazz/
-- https://rockhall.com/inductees/jelly-roll-morton/
+  - 'https://en.wikipedia.org/wiki/Jelly_Roll_Morton'
+  - >-
+    https://syncopatedtimes.com/rudiments-of-ragtime-installment-13-jelly-roll-morton-1890-1941/
+  - 'https://www.britannica.com/biography/Jelly-Roll-Morton'
+  - 'https://syncopatedtimes.com/jelly-roll-morton-profiles-in-jazz/'
+  - 'https://rockhall.com/inductees/jelly-roll-morton/'
 spotify_data:
   followers: 753
   id: 0Qs5ml5ZLbcWDG0EW49pMS
   popularity: 3
-  url: https://open.spotify.com/artist/0Qs5ml5ZLbcWDG0EW49pMS
+  url: 'https://open.spotify.com/artist/0Qs5ml5ZLbcWDG0EW49pMS'
 status: active
 tags:
-- jazz
+  - jazz
 title: Jelly Roll Morton And His Orchestra
+birth_place: 'New Orleans, Louisiana, United States'
+death_date: '1941-07-10'
 ---
 
 ![](jelly_roll_morton_and_his_orchestra.jpg)

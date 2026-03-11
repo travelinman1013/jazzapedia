@@ -3,38 +3,40 @@ biography_enhanced_at: '2026-01-30T01:19:05.628657'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:19:05.628664'
 external_urls:
-  spotify: https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD
+  spotify: 'https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_foundations.jpg
 last_updated: '2026-01-30T01:19:05.628665'
 musical_connections:
   collaborators:
-  - Clem Curtis
-  - Colin Young
-  - Tony Macaulay
-  - Arthur Brown
-  - Alan Warner
+    - Clem Curtis
+    - Colin Young
+    - Tony Macaulay
+    - Arthur Brown
+    - Alan Warner
   influenced: []
   mentors:
-  - Ron Fairway
-  - Barry Class
+    - Ron Fairway
+    - Barry Class
 network_extracted: true
-origin: Bayswater, London, England
+origin: 'Bayswater, London, England'
 primary_source: perplexity
 research_sources:
-- https://ultimatepopculture.fandom.com/wiki/The_Foundations
-- https://sentirelblues.blogspot.com/2020/03/the-foundations.html
-- http://www.rebeatmag.com/the-story-behind-the-foundations-baby-now-that-ive-found-you/
-- http://www.northernsoultrain.co.uk/artists/foundations.html
-- https://garagehangover.com/the-foundations-gigs-1967-1970/
+  - 'https://ultimatepopculture.fandom.com/wiki/The_Foundations'
+  - 'https://sentirelblues.blogspot.com/2020/03/the-foundations.html'
+  - >-
+    http://www.rebeatmag.com/the-story-behind-the-foundations-baby-now-that-ive-found-you/
+  - 'http://www.northernsoultrain.co.uk/artists/foundations.html'
+  - 'https://garagehangover.com/the-foundations-gigs-1967-1970/'
 spotify_data:
   followers: 149761
   id: 4GITZM5LCR2KcdlgEOrNLD
   popularity: 59
-  url: https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD
+  url: 'https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD'
 status: active
-title: the foundations
+title: The Foundations
+artist_type: band
 ---
 
 ![](the_foundations.jpg)

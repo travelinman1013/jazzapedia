@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-27T01:38:42.090163'
-birth_place: Birmingham, Alabama, USA
+birth_place: 'Birmingham, Alabama, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:38:42.090171'
 external_urls:
-  spotify: https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ
+  spotify: 'https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ'
   wikipedia: ''
 genres:
-- motown
-- northern soul
-- classic soul
+  - motown
+  - northern soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/shorty_long.jpg
 last_updated: '2026-02-27T01:38:42.090173'
 musical_connections:
   collaborators:
-  - Harvey Fuqua
-  - William 'Mickey' Stevenson
-  - Eddie Holland
-  - Brian Holland and Lamont Dozier
-  - Sylvia Moy
-  - Earl Van Dyke
+    - Harvey Fuqua
+    - William 'Mickey' Stevenson
+    - Eddie Holland
+    - Brian Holland and Lamont Dozier
+    - Sylvia Moy
+    - Earl Van Dyke
   influenced:
-  - Marvin Gaye
+    - Marvin Gaye
   mentors:
-  - Alvin 'Shine' Robinson
-  - W.C. Handy
+    - Alvin 'Shine' Robinson
+    - W.C. Handy
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2023/05/frederick-earl-shorty-long-may-20-1940.html
-- https://jointzoftheday.substack.com/p/shorty-long-may-20-1940-june-29-1969
-- https://wbssmedia.com/artists/detail/998
-- http://www.soullyoldies.com/shorty-long-biography.html
-- https://classic.motown.com/story/shorty-long-comes-judge/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/05/frederick-earl-shorty-long-may-20-1940.html
+  - 'https://jointzoftheday.substack.com/p/shorty-long-may-20-1940-june-29-1969'
+  - 'https://wbssmedia.com/artists/detail/998'
+  - 'http://www.soullyoldies.com/shorty-long-biography.html'
+  - 'https://classic.motown.com/story/shorty-long-comes-judge/'
 spotify_data:
   followers: 13910
   id: 3J11x63maeBtbx8zXgzftQ
   popularity: 20
-  url: https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ
+  url: 'https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ'
 status: active
-title: shorty long
+title: Shorty Long
+birth_date: '1940-05-20'
+artist_type: person
 ---
 
 ![](shorty_long.jpg)

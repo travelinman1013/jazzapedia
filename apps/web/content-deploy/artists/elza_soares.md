@@ -1,45 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-08T02:01:59.066798'
-birth_place: Moça Bonita favela, Rio de Janeiro, Brazil
+birth_place: 'Moça Bonita favela, Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:01:59.066810'
 external_urls:
-  spotify: https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi
-  wikipedia: https://en.wikipedia.org/wiki/Elza_Soares
+  spotify: 'https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elza_Soares'
 genres:
-- samba
-- mpb
-- bossa nova
+  - samba
+  - mpb
+  - bossa nova
 image_path: 03_Resources/source_material/ArtistPortraits/elza_soares.jpg
 last_updated: '2026-02-08T02:01:59.066812'
 musical_connections:
   collaborators:
-  - Miltinho
-  - Mercedes Batista
-  - Nando Reis
-  - Kiko Dinucci
-  - José Miguel Wisnik
-  - Wilson das Neves
+    - Miltinho
+    - Mercedes Batista
+    - Nando Reis
+    - Kiko Dinucci
+    - José Miguel Wisnik
+    - Wilson das Neves
   influenced:
-  - Jorge Aragão
+    - Jorge Aragão
   mentors:
-  - Louis Armstrong
+    - Louis Armstrong
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Elza_Soares
-- https://blogs.transparent.com/portuguese/brazilian-profile-elza-soares/
-- https://www.slipcue.com/music/brazil/elzasoares.html
-- https://daily.redbullmusicacademy.com/2017/05/elza-soares/
-- https://www.last.fm/music/Elza+Soares/+wiki
-- https://pan-african-music.com/en/elza-soares-woman-at-end-of-world/
+  - 'https://en.wikipedia.org/wiki/Elza_Soares'
+  - 'https://blogs.transparent.com/portuguese/brazilian-profile-elza-soares/'
+  - 'https://www.slipcue.com/music/brazil/elzasoares.html'
+  - 'https://daily.redbullmusicacademy.com/2017/05/elza-soares/'
+  - 'https://www.last.fm/music/Elza+Soares/+wiki'
+  - 'https://pan-african-music.com/en/elza-soares-woman-at-end-of-world/'
 spotify_data:
   followers: 471631
   id: 4cn4gMq0KXORHeYA45PcBi
   popularity: 52
-  url: https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi
+  url: 'https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi'
 status: active
 title: Elza Soares
+artist_type: person
 ---
 
 ![](elza_soares.jpg)

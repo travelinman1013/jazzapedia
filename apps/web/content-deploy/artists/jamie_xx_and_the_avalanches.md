@@ -1,41 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-28T01:49:09.603105'
-birth_place: South London, England
+birth_place: 'South London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:49:09.603114'
 external_urls:
-  spotify: https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ
-  wikipedia: https://en.wikipedia.org/wiki/Jamie_xx
+  spotify: 'https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jamie_xx'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jamie_xx_and_the_avalanches.jpg
 last_updated: '2026-01-28T01:49:09.603115'
 musical_connections:
   collaborators:
-  - The Avalanches
-  - Romy Madley Croft
-  - Oliver Sim
-  - Tyler, the Creator
+    - The Avalanches
+    - Romy Madley Croft
+    - Oliver Sim
+    - 'Tyler, the Creator'
   influenced:
-  - Drake
-  - Rihanna
+    - Drake
+    - Rihanna
   mentors:
-  - Robyn
+    - Robyn
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jamie_xx
-- https://10magazine.com/jamie-xx-on-djing-record-hunting-and-defining-his-sound/
-- https://en.wikipedia.org/wiki/The_Avalanches
-- https://www.rollingstone.co.uk/music/jamie-xx-new-album-in-waves-interview-42833/
-- https://www.youtube.com/watch?v=hV0Oybt1f_k
-- https://tvtropes.org/pmwiki/pmwiki.php/Music/JamieXX
+  - 'https://en.wikipedia.org/wiki/Jamie_xx'
+  - >-
+    https://10magazine.com/jamie-xx-on-djing-record-hunting-and-defining-his-sound/
+  - 'https://en.wikipedia.org/wiki/The_Avalanches'
+  - >-
+    https://www.rollingstone.co.uk/music/jamie-xx-new-album-in-waves-interview-42833/
+  - 'https://www.youtube.com/watch?v=hV0Oybt1f_k'
+  - 'https://tvtropes.org/pmwiki/pmwiki.php/Music/JamieXX'
 spotify_data:
   followers: 958392
   id: 7A0awCXkE1FtSU8B0qwOJQ
   popularity: 62
-  url: https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ
+  url: 'https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ'
 status: active
 title: Jamie xx & The Avalanches
+birth_date: '1988-10-28'
+artist_type: band
 ---
 
 ![](jamie_xx_and_the_avalanches.jpg)

@@ -2,49 +2,49 @@
 artist_type: person
 biography_enhanced_at: '2026-02-23T03:10:02.776186'
 birth_date: '1956-02-20'
-birth_place: Clarendon Parish, Jamaica
+birth_place: 'Clarendon Parish, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:10:02.776195'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/270d92a7-5bce-49ee-b54b-5b895cfd73be
-  spotify: https://open.spotify.com/artist/4g87eDwWKEcIpEW8kiTUla
+  musicbrainz: 'https://musicbrainz.org/artist/270d92a7-5bce-49ee-b54b-5b895cfd73be'
+  spotify: 'https://open.spotify.com/artist/4g87eDwWKEcIpEW8kiTUla'
   wikipedia: null
 gender: Male
 genres:
-- lovers rock
-- reggae
-- roots reggae
-- ragga
+  - lovers rock
+  - reggae
+  - roots reggae
+  - ragga
 image_path: 03_Resources/source_material/ArtistPortraits/everton_blender.jpg
 last_updated: '2026-02-23T03:10:02.776196'
 musical_connections:
   collaborators:
-  - Beenie Man
-  - Anthony B
-  - Tony Rebel
-  - Marcia Griffiths
-  - Blend Dem Band
+    - Beenie Man
+    - Anthony B
+    - Tony Rebel
+    - Marcia Griffiths
+    - Blend Dem Band
   influenced: []
   mentors:
-  - Richard Bell
-  - Garnett Silk
+    - Richard Bell
+    - Garnett Silk
 musicbrainz_id: 270d92a7-5bce-49ee-b54b-5b895cfd73be
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://worldmusiccentral.org/artist-profiles-everton-blender/
-- https://www.caribbeanentertainment.com/evertonblender
-- https://www.youtube.com/watch?v=JrWaGz5L5Ro
-- https://www.jango.com/music/Everton+Blender/_full_bio
+  - 'https://worldmusiccentral.org/artist-profiles-everton-blender/'
+  - 'https://www.caribbeanentertainment.com/evertonblender'
+  - 'https://www.youtube.com/watch?v=JrWaGz5L5Ro'
+  - 'https://www.jango.com/music/Everton+Blender/_full_bio'
 spotify_data:
   followers: 64402
   id: 4g87eDwWKEcIpEW8kiTUla
   popularity: 32
-  url: https://open.spotify.com/artist/4g87eDwWKEcIpEW8kiTUla
+  url: 'https://open.spotify.com/artist/4g87eDwWKEcIpEW8kiTUla'
 status: active
 tags:
-- dancehall
-- reggae
+  - dancehall
+  - reggae
 title: Everton Blender
 ---
 

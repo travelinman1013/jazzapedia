@@ -1,10 +1,10 @@
 ---
 biography_enhanced_at: '2026-03-06T01:28:07.500644'
-birth_place: Syracuse, New York, United States
+birth_place: 'Syracuse, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:28:07.500655'
 external_urls:
-  spotify: https://open.spotify.com/artist/3F3OgGXiSFS8lU2lWyZy4A
+  spotify: 'https://open.spotify.com/artist/3F3OgGXiSFS8lU2lWyZy4A'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/tyjhier.jpg
@@ -13,21 +13,25 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Alicia Keys
-  - Erykah Badu
+    - Alicia Keys
+    - Erykah Badu
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://cnycentral.com/news/local/syracuse-woman-takes-home-two-sammys-awards
-- https://www.youtube.com/watch?v=eNvrY3J3NEg
-- https://nysmusic.com/2023/10/23/in-conversation-with-tyjhier-a-syracuse-born-singer-and-songwriter/
+  - >-
+    https://cnycentral.com/news/local/syracuse-woman-takes-home-two-sammys-awards
+  - 'https://www.youtube.com/watch?v=eNvrY3J3NEg'
+  - >-
+    https://nysmusic.com/2023/10/23/in-conversation-with-tyjhier-a-syracuse-born-singer-and-songwriter/
 spotify_data:
   followers: 461
   id: 3F3OgGXiSFS8lU2lWyZy4A
   popularity: 2
-  url: https://open.spotify.com/artist/3F3OgGXiSFS8lU2lWyZy4A
+  url: 'https://open.spotify.com/artist/3F3OgGXiSFS8lU2lWyZy4A'
 status: active
 title: Tyjhier
+origin: 'Syracuse, New York, United States'
+artist_type: person
 ---
 
 ![](tyjhier.jpg)

@@ -1,43 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-03T02:04:37.693614'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:04:37.693621'
 external_urls:
-  spotify: https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Barbarin
+  spotify: 'https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Barbarin'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/paul_barbarin_and_his_new_orlean.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/paul_barbarin_and_his_new_orlean.jpg
 last_updated: '2026-02-03T02:04:37.693622'
 musical_connections:
   collaborators:
-  - King Oliver
-  - Louis Armstrong
-  - Luis Russell
-  - Sidney Bechet
-  - Louis Cottrell
+    - King Oliver
+    - Louis Armstrong
+    - Luis Russell
+    - Sidney Bechet
+    - Louis Cottrell
   influenced:
-  - Sidney Catlett
-  - Modern jazz drummers
+    - Sidney Catlett
+    - Modern jazz drummers
   mentors:
-  - Isidore Barbarin
-  - Paul Chaligny
+    - Isidore Barbarin
+    - Paul Chaligny
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://cemeterytourneworleans.com/the-barbarin-family-of-jazz-new-orleans-musicians-tomb/
-- https://64parishes.org/entry/paul-barbarin
-- https://en.wikipedia.org/wiki/Paul_Barbarin
-- https://drumsinthetwenties.com/2018/01/11/heroes-8-paul-barbarin-1899-1969/
-- https://www.preshallfoundation.org/paulbarbarin
-- https://www.allmusic.com/artist/paul-barbarin-mn0000014318
+  - >-
+    https://cemeterytourneworleans.com/the-barbarin-family-of-jazz-new-orleans-musicians-tomb/
+  - 'https://64parishes.org/entry/paul-barbarin'
+  - 'https://en.wikipedia.org/wiki/Paul_Barbarin'
+  - 'https://drumsinthetwenties.com/2018/01/11/heroes-8-paul-barbarin-1899-1969/'
+  - 'https://www.preshallfoundation.org/paulbarbarin'
+  - 'https://www.allmusic.com/artist/paul-barbarin-mn0000014318'
 spotify_data:
   followers: 244
   id: 3FE6ZZKTPt5j31R5uPkTYS
   popularity: 2
-  url: https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS
+  url: 'https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS'
 status: active
 title: Paul Barbarin and His New Orlean
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1899-05-05'
+death_date: '1969-02-17'
+artist_type: person
 ---
 
 ![](paul_barbarin_and_his_new_orlean.jpg)

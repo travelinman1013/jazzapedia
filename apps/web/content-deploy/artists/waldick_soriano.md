@@ -2,45 +2,47 @@
 artist_type: person
 biography_enhanced_at: '2026-01-25T01:36:54.690401'
 birth_date: '1933-05-13'
-birth_place: Bahia
+birth_place: 'Caetité, Bahia, Brazil'
 death_date: '2008-09-04'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:36:54.690407'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/58a823d6-b98b-490e-89fe-6ecdf822eb73
-  spotify: https://open.spotify.com/artist/7EAwNkzeiOXZkv7xLduduG
-  wikipedia: https://en.wikipedia.org/wiki/Waldick_Soriano
+  musicbrainz: 'https://musicbrainz.org/artist/58a823d6-b98b-490e-89fe-6ecdf822eb73'
+  spotify: 'https://open.spotify.com/artist/7EAwNkzeiOXZkv7xLduduG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Waldick_Soriano'
 gender: Male
 genres:
-- brega
-- seresta
-- bolero
+  - brega
+  - seresta
+  - bolero
 image_path: 03_Resources/source_material/ArtistPortraits/waldick_soriano.jpg
 last_updated: '2026-01-25T01:36:54.690408'
 musical_connections:
   collaborators:
-  - Bienvenido Granda
-  - Anísio Silva
-  - Nelson Gonçalves
+    - Bienvenido Granda
+    - Anísio Silva
+    - Nelson Gonçalves
   influenced: []
   mentors:
-  - Hélio Araújo
+    - Hélio Araújo
 musicbrainz_id: 58a823d6-b98b-490e-89fe-6ecdf822eb73
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Waldick_Soriano
-- https://www.musicmetricsvault.com/artists/waldik-soriano/5QN2JfJUOhcX4MVMNxgjyT
-- https://www.viberate.com/artist/waldick-soriano/
+  - 'https://en.wikipedia.org/wiki/Waldick_Soriano'
+  - >-
+    https://www.musicmetricsvault.com/artists/waldik-soriano/5QN2JfJUOhcX4MVMNxgjyT
+  - 'https://www.viberate.com/artist/waldick-soriano/'
 spotify_data:
   followers: 83782
   id: 7EAwNkzeiOXZkv7xLduduG
   popularity: 33
-  url: https://open.spotify.com/artist/7EAwNkzeiOXZkv7xLduduG
+  url: 'https://open.spotify.com/artist/7EAwNkzeiOXZkv7xLduduG'
 status: active
 tags:
-- brega
+  - brega
 title: Waldick Soriano
+is_active: false
 ---
 
 ![](waldick_soriano.jpg)

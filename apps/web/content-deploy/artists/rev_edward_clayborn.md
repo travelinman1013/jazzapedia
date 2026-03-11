@@ -1,39 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-24T02:01:31.929743'
-birth_place: Pittsburgh, Pennsylvania, USA (associated with ministry and death; possible
+birth_place: >-
+  Pittsburgh, Pennsylvania, USA (associated with ministry and death; possible
   Alabama origin)
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:01:31.929749'
 external_urls:
-  spotify: https://open.spotify.com/artist/4mQogsey9irZE1HlrS6QAX
-  wikipedia: https://en.wikipedia.org/wiki/Edward_W._Clayborn
+  spotify: 'https://open.spotify.com/artist/4mQogsey9irZE1HlrS6QAX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Edward_W._Clayborn'
 genres: []
 image_path: ''
 last_updated: '2026-01-24T02:01:31.929750'
 musical_connections:
   collaborators:
-  - Charles Davenport
+    - Charles Davenport
   influenced:
-  - Blind Willie Johnson
-  - Robert Johnson
+    - Blind Willie Johnson
+    - Robert Johnson
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Edward_W._Clayborn
-- https://www.last.fm/music/Rev.+Edward+W.+Clayborn+(The+Guitar+Evangelist)/+wiki
-- https://sundayblues.org/?tag=rev-edward-w-clayborn
-- https://blinddogradio.blogspot.com/2020/10/rev-edward-w-clayborn-guitar-evangelist.html
-- https://www.allmusic.com/artist/rev-edward-clayborn-mn0000395880
-- https://musicbrainz.org/artist/0aa86f5a-e1b0-4000-834a-9c39323803b6
-- https://sentirelblues.blogspot.com/2017/10/rev-edward-w-clayborn.html
+  - 'https://en.wikipedia.org/wiki/Edward_W._Clayborn'
+  - >-
+    https://www.last.fm/music/Rev.+Edward+W.+Clayborn+(The+Guitar+Evangelist)/+wiki
+  - 'https://sundayblues.org/?tag=rev-edward-w-clayborn'
+  - >-
+    https://blinddogradio.blogspot.com/2020/10/rev-edward-w-clayborn-guitar-evangelist.html
+  - 'https://www.allmusic.com/artist/rev-edward-clayborn-mn0000395880'
+  - 'https://musicbrainz.org/artist/0aa86f5a-e1b0-4000-834a-9c39323803b6'
+  - 'https://sentirelblues.blogspot.com/2017/10/rev-edward-w-clayborn.html'
 spotify_data:
   followers: 38
   id: 4mQogsey9irZE1HlrS6QAX
   popularity: 0
-  url: https://open.spotify.com/artist/4mQogsey9irZE1HlrS6QAX
+  url: 'https://open.spotify.com/artist/4mQogsey9irZE1HlrS6QAX'
 status: active
-title: rev edward clayborn
+title: Rev Edward Clayborn
+birth_date: '1880-03-10'
+death_date: '1978'
+artist_type: person
 ---
 
 ![]()

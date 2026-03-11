@@ -3,41 +3,43 @@ biography_enhanced_at: '2026-02-13T01:23:14.840013'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:23:14.840025'
 external_urls:
-  spotify: https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p
-  wikipedia: https://en.wikipedia.org/wiki/Explosions_in_the_Sky
+  spotify: 'https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p'
+  wikipedia: 'https://en.wikipedia.org/wiki/Explosions_in_the_Sky'
 genres:
-- post-rock
+  - post-rock
 image_path: 03_Resources/source_material/ArtistPortraits/the_explosions.jpg
 last_updated: '2026-02-13T01:23:14.840028'
 musical_connections:
   collaborators:
-  - The American Analog Set
-  - Michael James
-  - Munaf Rayani
-  - Mark Smith
-  - Chris Hrasky
+    - The American Analog Set
+    - Michael James
+    - Munaf Rayani
+    - Mark Smith
+    - Chris Hrasky
   influenced:
-  - Post-rock copycat bands
+    - Post-rock copycat bands
   mentors:
-  - Instrumental post-rock bands
+    - Instrumental post-rock bands
 network_extracted: true
-origin: Austin, Texas, USA
+origin: 'Austin, Texas, USA'
 primary_source: perplexity
 research_sources:
-- https://www.musicradar.com/news/explosions-in-the-sky-interview
-- https://en.wikipedia.org/wiki/Explosions_in_the_Sky
-- https://www.last.fm/music/Explosions+in+the+Sky/+wiki
-- https://tvtropes.org/pmwiki/pmwiki.php/Music/ExplosionsInTheSky
-- https://www.progarchives.com/artist.asp?id=1746
-- https://www.scaruffi.com/vol7/explosio.html
-- https://riffmagazine.com/features/explosions-in-the-sky-find-success-instrumentally/
+  - 'https://www.musicradar.com/news/explosions-in-the-sky-interview'
+  - 'https://en.wikipedia.org/wiki/Explosions_in_the_Sky'
+  - 'https://www.last.fm/music/Explosions+in+the+Sky/+wiki'
+  - 'https://tvtropes.org/pmwiki/pmwiki.php/Music/ExplosionsInTheSky'
+  - 'https://www.progarchives.com/artist.asp?id=1746'
+  - 'https://www.scaruffi.com/vol7/explosio.html'
+  - >-
+    https://riffmagazine.com/features/explosions-in-the-sky-find-success-instrumentally/
 spotify_data:
   followers: 674973
   id: 1uQWmt1OhuHGRKmZ2ZcL6p
   popularity: 49
-  url: https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p
+  url: 'https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p'
 status: active
 title: The Explosions
+artist_type: person
 ---
 
 ![](the_explosions.jpg)

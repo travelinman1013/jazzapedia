@@ -3,42 +3,46 @@ biography_enhanced_at: '2026-02-27T01:38:13.778463'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:38:13.778473'
 external_urls:
-  spotify: https://open.spotify.com/artist/0gVPBrZ12tXvAPA6e36PGB
-  wikipedia: https://en.wikipedia.org/wiki/Memphis_Underground
+  spotify: 'https://open.spotify.com/artist/0gVPBrZ12tXvAPA6e36PGB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Memphis_Underground'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/memphis_underground.jpg
 last_updated: '2026-02-27T01:38:13.778475'
 musical_connections:
   collaborators:
-  - Roy Ayers
-  - Larry Coryell
-  - Sonny Sharrock
-  - Tom Dowd
-  - Gene Chrisman
-  - Tommy Cogbill
-  - Reggie Young
-  - Bobby Emmons
-  - Bobby Wood
-  - Miroslav Vitouš
+    - Roy Ayers
+    - Larry Coryell
+    - Sonny Sharrock
+    - Tom Dowd
+    - Gene Chrisman
+    - Tommy Cogbill
+    - Reggie Young
+    - Bobby Emmons
+    - Bobby Wood
+    - Miroslav Vitouš
   influenced:
-  - Smooth jazz and soul-influenced artists
+    - Smooth jazz and soul-influenced artists
   mentors:
-  - Pete Rugolo
-  - Mat Mathews
+    - Pete Rugolo
+    - Mat Mathews
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Memphis_Underground
-- https://en.wikipedia.org/wiki/Herbie_Mann
-- https://wearememphis.com/play/music/10-underground-musical-innovators-from-memphis-who-quietly-changed-popular-music/
-- https://www.jerryjazzmusician.com/pressed-for-all-time-vol-6-producer-tom-dowd-on-herbie-manns-memphis-underground/
+  - 'https://en.wikipedia.org/wiki/Memphis_Underground'
+  - 'https://en.wikipedia.org/wiki/Herbie_Mann'
+  - >-
+    https://wearememphis.com/play/music/10-underground-musical-innovators-from-memphis-who-quietly-changed-popular-music/
+  - >-
+    https://www.jerryjazzmusician.com/pressed-for-all-time-vol-6-producer-tom-dowd-on-herbie-manns-memphis-underground/
 spotify_data:
   followers: 5750
   id: 0gVPBrZ12tXvAPA6e36PGB
   popularity: 29
-  url: https://open.spotify.com/artist/0gVPBrZ12tXvAPA6e36PGB
+  url: 'https://open.spotify.com/artist/0gVPBrZ12tXvAPA6e36PGB'
 status: active
-title: memphis underground
+title: Memphis Underground
+origin: 'Memphis, Tennessee, United States'
+artist_type: person
 ---
 
 ![](memphis_underground.jpg)

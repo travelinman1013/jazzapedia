@@ -3,38 +3,39 @@ biography_enhanced_at: '2026-03-08T03:04:34.640978'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:04:34.640985'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+  spotify: 'https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/rufus.jpg
 last_updated: '2026-03-08T03:04:34.640987'
 musical_connections:
   collaborators:
-  - Chaka Khan
-  - Tony Maiden
-  - Bobby Watson
-  - Dave 'Hawk' Wolinski
+    - Chaka Khan
+    - Tony Maiden
+    - Bobby Watson
+    - Dave 'Hawk' Wolinski
   influenced: []
   mentors:
-  - Stevie Wonder
-  - Quincy Jones
-  - George Duke
+    - Stevie Wonder
+    - Quincy Jones
+    - George Duke
 network_extracted: true
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://top40weekly.com/rufus/
-- https://artist.degy.com/major-acts/rufus
-- https://wbssmedia.com/artists/detail/4248
-- https://www.jango.com/music/Rufus/_full_bio
-- https://www.last.fm/music/Rufus/+wiki
+  - 'https://top40weekly.com/rufus/'
+  - 'https://artist.degy.com/major-acts/rufus'
+  - 'https://wbssmedia.com/artists/detail/4248'
+  - 'https://www.jango.com/music/Rufus/_full_bio'
+  - 'https://www.last.fm/music/Rufus/+wiki'
 spotify_data:
   followers: 2487531
   id: 5Pb27ujIyYb33zBqVysBkj
   popularity: 75
-  url: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+  url: 'https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj'
 status: active
 title: Rufus
+artist_type: band
 ---
 
 ![](rufus.jpg)

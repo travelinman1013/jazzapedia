@@ -1,32 +1,33 @@
 ---
 biography_enhanced_at: '2026-01-29T02:00:28.688182'
-birth_place: Kansas City, Missouri, USA
+birth_place: 'Kansas City, Missouri, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:00:28.688198'
 external_urls:
-  spotify: https://open.spotify.com/artist/3PDBwrjvYfbnnVYwgkgRqU
+  spotify: 'https://open.spotify.com/artist/3PDBwrjvYfbnnVYwgkgRqU'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/helen_proctor.jpg
 last_updated: '2026-01-29T02:00:28.688200'
 musical_connections:
   collaborators:
-  - Rozz Petrozz
-  - Olive Cook
-  - Dylan C.H.
+    - Rozz Petrozz
+    - Olive Cook
+    - Dylan C.H.
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wednesdaymiddaymedley.org/tag/helen-proctor/
+  - 'https://wednesdaymiddaymedley.org/tag/helen-proctor/'
 spotify_data:
   followers: 74
   id: 3PDBwrjvYfbnnVYwgkgRqU
   popularity: 0
-  url: https://open.spotify.com/artist/3PDBwrjvYfbnnVYwgkgRqU
+  url: 'https://open.spotify.com/artist/3PDBwrjvYfbnnVYwgkgRqU'
 status: active
-title: HELEN PROCTOR
+title: Helen Proctor
+artist_type: person
 ---
 
 ![](helen_proctor.jpg)

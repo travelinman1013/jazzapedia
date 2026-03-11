@@ -1,49 +1,55 @@
 ---
 biography_enhanced_at: '2026-01-27T01:54:36.825253'
-birth_place: Benoit, Mississippi, U.S.
+birth_place: 'Benoit, Mississippi, U.S.'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:54:36.825259'
 external_urls:
-  spotify: https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Taylor
+  spotify: 'https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Taylor'
 genres:
-- blues
-- classic blues
-- modern blues
+  - blues
+  - classic blues
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_taylor.jpg
 last_updated: '2026-01-27T01:54:36.825259'
 musical_connections:
   collaborators:
-  - Jimmy Reed
-  - John Lee Hooker
-  - Big Walter Horton
-  - Elmore James
+    - Jimmy Reed
+    - John Lee Hooker
+    - Big Walter Horton
+    - Elmore James
   influenced:
-  - Freddie King
-  - Jimmy Reed
+    - Freddie King
+    - Jimmy Reed
   mentors:
-  - Charley Patton
-  - Son House
-  - Robert Johnson
-  - Popcorn
+    - Charley Patton
+    - Son House
+    - Robert Johnson
+    - Popcorn
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eddie_Taylor
-- https://msbluestrail.org/blues-trail-markers/eddie-taylor
-- https://mojohand.com/glossary/eddie-taylor/
-- https://www.mswritersandmusicians.com/mississippi-musicians/eddie-playboy-taylor
-- https://www.wolfrec.com/eddie-taylors-100th-blues-birthday/
-- https://bobcorritore.com/photos/eddie-taylor-tribute/
-- https://brownshoesblues.buzzsprout.com/2405236/episodes/17217541-episode-10-eddie-taylor
-- https://www.austinweeklynews.com/2014/03/20/eddie-taylor/
+  - 'https://en.wikipedia.org/wiki/Eddie_Taylor'
+  - 'https://msbluestrail.org/blues-trail-markers/eddie-taylor'
+  - 'https://mojohand.com/glossary/eddie-taylor/'
+  - >-
+    https://www.mswritersandmusicians.com/mississippi-musicians/eddie-playboy-taylor
+  - 'https://www.wolfrec.com/eddie-taylors-100th-blues-birthday/'
+  - 'https://bobcorritore.com/photos/eddie-taylor-tribute/'
+  - >-
+    https://brownshoesblues.buzzsprout.com/2405236/episodes/17217541-episode-10-eddie-taylor
+  - 'https://www.austinweeklynews.com/2014/03/20/eddie-taylor/'
 spotify_data:
   followers: 11554
   id: 0jr3aWcRKkO3LqX09eWbot
   popularity: 21
-  url: https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot
+  url: 'https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot'
 status: active
-title: EDDIE TAYLOR
+title: Eddie Taylor
+origin: 'Chicago, Illinois, United States'
+birth_date: '1923-01-29'
+death_date: '1985-12-25'
+artist_type: person
 ---
 
 ![](eddie_taylor.jpg)

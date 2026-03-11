@@ -3,42 +3,45 @@ biography_enhanced_at: '2026-03-02T01:15:35.270382'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:15:35.270394'
 external_urls:
-  spotify: https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX
+  spotify: 'https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/cassie_watson_francillon_sasha_masakowski.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/cassie_watson_francillon_sasha_masakowski.jpg
 last_updated: '2026-03-02T01:15:35.270397'
 musical_connections:
   collaborators:
-  - Sasha Masakowski
-  - Sulyiman
-  - Mykia Jovan
-  - Xavier Molina
-  - Val Jeanty
-  - Gladney
-  - Jelani Bauman
-  - Julian Addison
-  - Bryan Webre
-  - Aquiles Navarro
+    - Sasha Masakowski
+    - Sulyiman
+    - Mykia Jovan
+    - Xavier Molina
+    - Val Jeanty
+    - Gladney
+    - Jelani Bauman
+    - Julian Addison
+    - Bryan Webre
+    - Aquiles Navarro
   influenced: []
   mentors:
-  - Gabriella Pinto
+    - Gabriella Pinto
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://royaleditoryal.ca/2025/04/02/cassie-watson-francillon-sasha-masakowski/
-- https://www.wwoz.org/events/823856
-- https://dadastrain.substack.com/p/new-dada-music_january-2026
-- https://www.neworleans.com/listing/sasha-masakowski/47911/
-- https://www.allaboutjazz.com/musicians/cassie-watson-francillon/
+  - >-
+    https://royaleditoryal.ca/2025/04/02/cassie-watson-francillon-sasha-masakowski/
+  - 'https://www.wwoz.org/events/823856'
+  - 'https://dadastrain.substack.com/p/new-dada-music_january-2026'
+  - 'https://www.neworleans.com/listing/sasha-masakowski/47911/'
+  - 'https://www.allaboutjazz.com/musicians/cassie-watson-francillon/'
 spotify_data:
   followers: 428
   id: 6LuBYCozHo0lrFf7CnkgMX
   popularity: 13
-  url: https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX
+  url: 'https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX'
 status: active
-title: Cassie Watson Francillon, Sasha Masakowski
+title: 'Cassie Watson Francillon, Sasha Masakowski'
+artist_type: person
 ---
 
 ![](cassie_watson_francillon_sasha_masakowski.jpg)

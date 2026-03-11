@@ -1,86 +1,88 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1932'
-  end: '1939'
-  instruments:
-  - trumpet
-  mbid: 803945e7-ebe5-4240-b82d-1754a338b7f8
-  name: Cab Calloway and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 16f74a5b-bb94-4025-93e4-ca56ece9f947
-  name: McKinney’s Cotton Pickers
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: b5c3960d-d1bf-4603-90b7-d7ad1db8b522
-  name: Cab Calloway and His Cotton Club Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a872602b-8cc9-4ffd-b749-31a2c5f54a4e
-  name: The 360 Degree Music Experience
+  - begin: '1932'
+    end: '1939'
+    instruments:
+      - trumpet
+    mbid: 803945e7-ebe5-4240-b82d-1754a338b7f8
+    name: Cab Calloway and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 16f74a5b-bb94-4025-93e4-ca56ece9f947
+    name: McKinney’s Cotton Pickers
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: b5c3960d-d1bf-4603-90b7-d7ad1db8b522
+    name: Cab Calloway and His Cotton Club Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a872602b-8cc9-4ffd-b749-31a2c5f54a4e
+    name: The 360 Degree Music Experience
 biography_enhanced_at: '2026-02-27T01:35:43.991377'
 birth_date: '1905-06-13'
-birth_place: Nashville
+birth_place: 'Nashville, Tennessee, United States'
 death_date: '1997-06-02'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:35:43.991386'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/47e72e5b-a999-49fa-93df-951d04d0fbac
-  spotify: https://open.spotify.com/artist/5IncNYeCNPQoNYU6gR1wpR
-  wikipedia: https://en.wikipedia.org/wiki/Doc_Cheatham
+  musicbrainz: 'https://musicbrainz.org/artist/47e72e5b-a999-49fa-93df-951d04d0fbac'
+  spotify: 'https://open.spotify.com/artist/5IncNYeCNPQoNYU6gR1wpR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Doc_Cheatham'
 gender: Male
 genres:
-- jazz
-- ragtime
+  - jazz
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/doc_cheatham.jpg
 instruments:
-- trumpet
-- vocal
+  - trumpet
+  - vocal
 last_updated: '2026-02-27T01:35:43.991387'
 musical_connections:
   collaborators:
-  - Cab Calloway
-  - Chick Webb
-  - Benny Carter
-  - Wilbur de Paris
-  - Machito
-  - Nicholas Payton
-  - David “Fathead” Newman
-  - Cyrus Chestnut
-  - Catherine Russell
+    - Cab Calloway
+    - Chick Webb
+    - Benny Carter
+    - Wilbur de Paris
+    - Machito
+    - Nicholas Payton
+    - David “Fathead” Newman
+    - Cyrus Chestnut
+    - Catherine Russell
   influenced:
-  - Theo Crocker
-  - Nicholas Payton
+    - Theo Crocker
+    - Nicholas Payton
   mentors:
-  - Professor N. C. Davis and Professor C. M. Davis
-  - King Oliver
-  - Louis Armstrong
+    - Professor N. C. Davis and Professor C. M. Davis
+    - King Oliver
+    - Louis Armstrong
 musicbrainz_id: 47e72e5b-a999-49fa-93df-951d04d0fbac
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://routes-mag.com/doc-cheatham/
-- https://www.allaboutjazz.com/musicians/doc-cheatham/
-- https://www.namm.org/library/oral-history/doc-cheatham
-- https://syncopatedtimes.com/remembering-doc-cheatham/
-- https://en.wikipedia.org/wiki/Doc_Cheatham
-- https://www.jazzmusicarchives.com/artist/doc-cheatham
+  - 'https://routes-mag.com/doc-cheatham/'
+  - 'https://www.allaboutjazz.com/musicians/doc-cheatham/'
+  - 'https://www.namm.org/library/oral-history/doc-cheatham'
+  - 'https://syncopatedtimes.com/remembering-doc-cheatham/'
+  - 'https://en.wikipedia.org/wiki/Doc_Cheatham'
+  - 'https://www.jazzmusicarchives.com/artist/doc-cheatham'
 spotify_data:
   followers: 1743
   id: 5IncNYeCNPQoNYU6gR1wpR
   popularity: 19
-  url: https://open.spotify.com/artist/5IncNYeCNPQoNYU6gR1wpR
+  url: 'https://open.spotify.com/artist/5IncNYeCNPQoNYU6gR1wpR'
 status: active
 tags:
-- dixieland
-- jazz
-- swing
-title: DOC CHEATHAM
+  - dixieland
+  - jazz
+  - swing
+title: Doc Cheatham
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](doc_cheatham.jpg)

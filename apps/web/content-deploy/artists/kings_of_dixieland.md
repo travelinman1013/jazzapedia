@@ -3,38 +3,40 @@ biography_enhanced_at: '2026-02-15T01:49:30.731135'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:49:30.731145'
 external_urls:
-  spotify: https://open.spotify.com/artist/4Qh9Mw2Mkf6nViwVZ7dXPy
+  spotify: 'https://open.spotify.com/artist/4Qh9Mw2Mkf6nViwVZ7dXPy'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/kings_of_dixieland.jpg
 last_updated: '2026-02-15T01:49:30.731146'
 musical_connections:
   collaborators:
-  - Nick LaRocca
-  - Larry Shields
-  - Frank Assunto
-  - Pete Fountain
+    - Nick LaRocca
+    - Larry Shields
+    - Frank Assunto
+    - Pete Fountain
   influenced:
-  - Benny Goodman
-  - Future jazz musicians
+    - Benny Goodman
+    - Future jazz musicians
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Original+Dixieland+Jazz+Band/+wiki
-- https://en.wikipedia.org/wiki/Original_Dixieland_Jass_Band
-- https://syncopatedtimes.com/the-dukes-of-dixieland-profiles-in-jazz/
-- https://odjb.com
-- https://artmusiclounge.wordpress.com/2023/06/11/sensation-the-full-story-of-the-o-d-j-b/
-- https://en.wikipedia.org/wiki/Dukes_of_Dixieland
+  - 'https://www.last.fm/music/Original+Dixieland+Jazz+Band/+wiki'
+  - 'https://en.wikipedia.org/wiki/Original_Dixieland_Jass_Band'
+  - 'https://syncopatedtimes.com/the-dukes-of-dixieland-profiles-in-jazz/'
+  - 'https://odjb.com'
+  - >-
+    https://artmusiclounge.wordpress.com/2023/06/11/sensation-the-full-story-of-the-o-d-j-b/
+  - 'https://en.wikipedia.org/wiki/Dukes_of_Dixieland'
 spotify_data:
   followers: 73
   id: 4Qh9Mw2Mkf6nViwVZ7dXPy
   popularity: 1
-  url: https://open.spotify.com/artist/4Qh9Mw2Mkf6nViwVZ7dXPy
+  url: 'https://open.spotify.com/artist/4Qh9Mw2Mkf6nViwVZ7dXPy'
 status: active
 title: Kings Of Dixieland
+artist_type: band
 ---
 
 ![](kings_of_dixieland.jpg)

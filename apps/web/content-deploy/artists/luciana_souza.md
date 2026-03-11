@@ -2,58 +2,59 @@
 artist_type: person
 biography_enhanced_at: '2026-01-25T01:38:26.774606'
 birth_date: '1966-06-14'
-birth_place: São Paulo
+birth_place: 'São Paulo, São Paulo, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:38:26.774612'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/19bf356a-1505-47f9-9466-03582fce2a4d
-  spotify: https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM
-  wikipedia: https://en.wikipedia.org/wiki/Luciana_Souza
+  musicbrainz: 'https://musicbrainz.org/artist/19bf356a-1505-47f9-9466-03582fce2a4d'
+  spotify: 'https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Luciana_Souza'
 gender: Female
 genres:
-- brazilian jazz
-- bossa nova
-- latin jazz
-- vocal jazz
-- afro-cuban jazz
+  - brazilian jazz
+  - bossa nova
+  - latin jazz
+  - vocal jazz
+  - afro-cuban jazz
 image_path: 03_Resources/source_material/ArtistPortraits/luciana_souza.jpg
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 last_updated: '2026-01-25T01:38:26.774613'
 musical_connections:
   collaborators:
-  - Romero Lubambo
-  - Herbie Hancock
-  - Larry Klein
-  - Paul Simon
-  - James Taylor
-  - Bobby McFerrin
-  - Maria Schneider
-  - Danilo Perez
+    - Romero Lubambo
+    - Herbie Hancock
+    - Larry Klein
+    - Paul Simon
+    - James Taylor
+    - Bobby McFerrin
+    - Maria Schneider
+    - Danilo Perez
   influenced: []
   mentors:
-  - Antônio Carlos Jobim
-  - João Gilberto
+    - Antônio Carlos Jobim
+    - João Gilberto
 musicbrainz_id: 19bf356a-1505-47f9-9466-03582fce2a4d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Luciana_Souza
-- https://music.usc.edu/luciana-souza/
-- https://www.vivoperformingarts.org/live-performances/artists/details/luciana-souza/
-- https://college.berklee.edu/faculty/luciana-souza
-- https://www.mymusicmasterclass.com/artist/artists/luciana-souza/
-- https://bmifoundation.org/luciana-souza
-- https://www.lucianasouza.com
+  - 'https://en.wikipedia.org/wiki/Luciana_Souza'
+  - 'https://music.usc.edu/luciana-souza/'
+  - >-
+    https://www.vivoperformingarts.org/live-performances/artists/details/luciana-souza/
+  - 'https://college.berklee.edu/faculty/luciana-souza'
+  - 'https://www.mymusicmasterclass.com/artist/artists/luciana-souza/'
+  - 'https://bmifoundation.org/luciana-souza'
+  - 'https://www.lucianasouza.com'
 spotify_data:
   followers: 15408
   id: 0cv8X9QNT0s3OHfVVeNWkM
   popularity: 26
-  url: https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM
+  url: 'https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM'
 status: active
 tags:
-- jazz
+  - jazz
 title: Luciana Souza
 ---
 

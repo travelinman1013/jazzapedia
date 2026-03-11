@@ -1,97 +1,99 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c6990e91-2bda-46a1-a0d7-e2fb07413a1b
-  name: Joe Venuti & His New Yorkers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1e3ffb3f-c4f9-403f-856d-b2648402c53d
-  name: Joe Venuti, Eddie Lang & Their All-Star Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - violin
-  mbid: f3520420-cb19-4a5d-88c3-0585bb97020e
-  name: Joe Venuti & Eddie Lang
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 620b9844-666d-4c88-a0f3-14add78a2e63
-  name: Joe Venuti’s Blue Four
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5cbcb186-baab-4f87-a11a-f424331ac2f9
-  name: Broadway Bell‐Hops
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 11e1350b-f986-46c9-bf38-6696204f80ab
-  name: Four Instrumental Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c6990e91-2bda-46a1-a0d7-e2fb07413a1b
+    name: Joe Venuti & His New Yorkers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1e3ffb3f-c4f9-403f-856d-b2648402c53d
+    name: 'Joe Venuti, Eddie Lang & Their All-Star Orchestra'
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - violin
+    mbid: f3520420-cb19-4a5d-88c3-0585bb97020e
+    name: Joe Venuti & Eddie Lang
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 620b9844-666d-4c88-a0f3-14add78a2e63
+    name: Joe Venuti’s Blue Four
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5cbcb186-baab-4f87-a11a-f424331ac2f9
+    name: Broadway Bell‐Hops
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 11e1350b-f986-46c9-bf38-6696204f80ab
+    name: Four Instrumental Stars
 biography_enhanced_at: '2026-01-25T01:35:28.441204'
 birth_date: '1903-09-16'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '1978-08-14'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:35:28.441211'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/17a5b041-46df-43c3-8861-f8e012c3690d
-  spotify: https://open.spotify.com/artist/7rOldyBQnbp9DtBGoKEiwl
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Venuti
+  musicbrainz: 'https://musicbrainz.org/artist/17a5b041-46df-43c3-8861-f8e012c3690d'
+  spotify: 'https://open.spotify.com/artist/7rOldyBQnbp9DtBGoKEiwl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Venuti'
 gender: Male
 genres:
-- electro swing
-- ragtime
-- swing music
+  - electro swing
+  - ragtime
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/joe_venuti.jpg
 instruments:
-- eponymous
-- original
-- violin
-- spoken vocals
+  - eponymous
+  - original
+  - violin
+  - spoken vocals
 last_updated: '2026-01-25T01:35:28.441212'
 musical_connections:
   collaborators:
-  - Eddie Lang
-  - Jean Goldkette
-  - Bing Crosby
-  - Zoot Sims
-  - Earl Hines
-  - Paul Whiteman
-  - Jack Statham
+    - Eddie Lang
+    - Jean Goldkette
+    - Bing Crosby
+    - Zoot Sims
+    - Earl Hines
+    - Paul Whiteman
+    - Jack Statham
   influenced:
-  - Django Reinhardt
-  - Stéphane Grappelli
-  - Western Swing and Bluegrass Fiddlers
+    - Django Reinhardt
+    - Stéphane Grappelli
+    - Western Swing and Bluegrass Fiddlers
   mentors:
-  - His Grandfather
+    - His Grandfather
 musicbrainz_id: 17a5b041-46df-43c3-8861-f8e012c3690d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jazzempowers.org/joe-venuti
-- https://en.wikipedia.org/wiki/Joe_Venuti
-- https://syncopatedtimes.com/joe-venuti-1903-1978/
-- https://www.allaboutjazz.com/musicians/joe-venuti/
-- https://courses.dcs.wisc.edu/wp/musicalperformers/joe-venuti/
-- https://adp.library.ucsb.edu/names/103186
+  - 'https://www.jazzempowers.org/joe-venuti'
+  - 'https://en.wikipedia.org/wiki/Joe_Venuti'
+  - 'https://syncopatedtimes.com/joe-venuti-1903-1978/'
+  - 'https://www.allaboutjazz.com/musicians/joe-venuti/'
+  - 'https://courses.dcs.wisc.edu/wp/musicalperformers/joe-venuti/'
+  - 'https://adp.library.ucsb.edu/names/103186'
 spotify_data:
   followers: 4840
   id: 7rOldyBQnbp9DtBGoKEiwl
   popularity: 21
-  url: https://open.spotify.com/artist/7rOldyBQnbp9DtBGoKEiwl
+  url: 'https://open.spotify.com/artist/7rOldyBQnbp9DtBGoKEiwl'
 status: active
 tags:
-- dixieland
-- jazz
-- swing
+  - dixieland
+  - jazz
+  - swing
 title: Joe Venuti
+is_active: false
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](joe_venuti.jpg)

@@ -1,49 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-22T01:49:32.435117'
-birth_place: Columbus, Georgia, United States (birthplace); raised in Atlanta, Georgia,
+birth_place: >-
+  Columbus, Georgia, United States (birthplace); raised in Atlanta, Georgia,
   United States
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:49:32.435126'
 external_urls:
-  spotify: https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1
-  wikipedia: https://en.wikipedia.org/wiki/Jean_Carn
+  spotify: 'https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jean_Carn'
 genres:
-- philly soul
-- post-disco
-- classic soul
-- quiet storm
+  - philly soul
+  - post-disco
+  - classic soul
+  - quiet storm
 image_path: 03_Resources/source_material/ArtistPortraits/jean_carn.jpg
 last_updated: '2026-02-22T01:49:32.435127'
 musical_connections:
   collaborators:
-  - Doug Carn
-  - The Temptations
-  - Grover Washington Jr.
-  - Norman Connors
-  - Glenn Jones
+    - Doug Carn
+    - The Temptations
+    - Grover Washington Jr.
+    - Norman Connors
+    - Glenn Jones
   influenced:
-  - Mary Wilson (The Supremes)
-  - Michael Jackson
+    - Mary Wilson (The Supremes)
+    - Michael Jackson
   mentors:
-  - Maurice White (Earth, Wind & Fire)
-  - Kenny Gamble and Leon Huff
+    - 'Maurice White (Earth, Wind & Fire)'
+    - Kenny Gamble and Leon Huff
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sessiondays.com/2020/06/08/1982-jean-carn-trust-me/
-- https://celebritytalentagency.com/artist/jean-carne/
-- https://www.last.fm/music/Jean+Carne/+wiki
-- https://www.thehistorymakers.org/biography/jean-carne-39
-- https://songstats.com/artist/3gib8tj6/jean-carne
-- https://www.jazzisdead.com/jeancarne
-- https://en.wikipedia.org/wiki/Jean_Carn
+  - 'https://sessiondays.com/2020/06/08/1982-jean-carn-trust-me/'
+  - 'https://celebritytalentagency.com/artist/jean-carne/'
+  - 'https://www.last.fm/music/Jean+Carne/+wiki'
+  - 'https://www.thehistorymakers.org/biography/jean-carne-39'
+  - 'https://songstats.com/artist/3gib8tj6/jean-carne'
+  - 'https://www.jazzisdead.com/jeancarne'
+  - 'https://en.wikipedia.org/wiki/Jean_Carn'
 spotify_data:
   followers: 56457
   id: 5swBKHtsRDaCBmdpYRYOg1
   popularity: 31
-  url: https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1
+  url: 'https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1'
 status: active
 title: Jean Carn
+birth_date: '1947-03-15'
+artist_type: person
 ---
 
 ![](jean_carn.jpg)

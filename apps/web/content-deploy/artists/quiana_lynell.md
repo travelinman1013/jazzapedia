@@ -1,50 +1,51 @@
 ---
 biography_enhanced_at: '2026-03-03T01:36:00.548515'
-birth_place: Tyler, Texas, USA (birthplace)
+birth_place: 'Tyler, Texas, USA (birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:36:00.548525'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c29dc0ec-0ae0-406f-bdea-64abe4edf4ff
-  spotify: https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48
+  musicbrainz: 'https://musicbrainz.org/artist/c29dc0ec-0ae0-406f-bdea-64abe4edf4ff'
+  spotify: 'https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48'
   wikipedia: ''
 genres:
-- jazz pop
-- vocal jazz
+  - jazz pop
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/quiana_lynell.jpg
 last_updated: '2026-03-03T01:36:00.548527'
 musical_connections:
   collaborators:
-  - Brian Michel Bacchus
-  - Herlin Riley
-  - Roderick Paulin
-  - Don Vappie
-  - Mitchell Player
+    - Brian Michel Bacchus
+    - Herlin Riley
+    - Roderick Paulin
+    - Don Vappie
+    - Mitchell Player
   influenced: []
   mentors:
-  - Terence Blanchard
-  - Dianne Reeves
-  - David Torkanowsky
-  - Herlin Riley
+    - Terence Blanchard
+    - Dianne Reeves
+    - David Torkanowsky
+    - Herlin Riley
 musicbrainz_id: c29dc0ec-0ae0-406f-bdea-64abe4edf4ff
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.quianalynell.com/bio
-- https://musicinsideout.wwno.org/quiana-lynell-2/
-- https://astudiointhewoods.org/artist/quiana-lynell/
-- http://www.quianalynell.com
-- https://concord.com/artist/quiana-lynell/
-- https://www.btdfoundation.org/quiana-lynell/
-- http://www.quianalynell.com/about
-- https://www.neworleans.com/listing/quiana-lynell/47694/
-- https://www.thesexismproject.com/quiana-lynell
+  - 'http://www.quianalynell.com/bio'
+  - 'https://musicinsideout.wwno.org/quiana-lynell-2/'
+  - 'https://astudiointhewoods.org/artist/quiana-lynell/'
+  - 'http://www.quianalynell.com'
+  - 'https://concord.com/artist/quiana-lynell/'
+  - 'https://www.btdfoundation.org/quiana-lynell/'
+  - 'http://www.quianalynell.com/about'
+  - 'https://www.neworleans.com/listing/quiana-lynell/47694/'
+  - 'https://www.thesexismproject.com/quiana-lynell'
 spotify_data:
   followers: 3371
   id: 1VnqxwpVqjPPJ77ij1tE48
   popularity: 22
-  url: https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48
+  url: 'https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48'
 status: active
-title: QUIANA LYNELL
+title: Quiana Lynell
+artist_type: person
 ---
 
 ![](quiana_lynell.jpg)

@@ -3,47 +3,48 @@ biography_enhanced_at: '2026-02-23T03:04:49.825161'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:04:49.825170'
 external_urls:
-  spotify: https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr
+  spotify: 'https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr'
   wikipedia: ''
 genres:
-- newgrass
-- bluegrass
-- americana
-- indie folk
-- folk
+  - newgrass
+  - bluegrass
+  - americana
+  - indie folk
+  - folk
 image_path: 03_Resources/source_material/ArtistPortraits/im_with_her.jpg
 last_updated: '2026-02-23T03:04:49.825172'
 musical_connections:
   collaborators:
-  - Sarah Jarosz
-  - Aoife O'Donovan
-  - Sara Watkins
-  - Josh Kaufman
-  - Ethan Johns
-  - J.T. Bates
-  - Paul Kowert
+    - Sarah Jarosz
+    - Aoife O'Donovan
+    - Sara Watkins
+    - Josh Kaufman
+    - Ethan Johns
+    - J.T. Bates
+    - Paul Kowert
   influenced: []
   mentors:
-  - Sara Watkins
-  - Aoife O'Donovan
+    - Sara Watkins
+    - Aoife O'Donovan
 network_extracted: true
-origin: United States (formed at Telluride Bluegrass Festival, Colorado)
+origin: 'Telluride Bluegrass Festival, Colorado, United States'
 primary_source: perplexity
 research_sources:
-- https://tonyscherman.substack.com/p/im-with-her-an-americana-supergroup
-- https://imwithherband.com/about/
-- https://chancentre.com/news/meet-the-artist-im-with-her/
-- https://concord.com/artist/im-with-her/
-- https://thebluegrasssituation.com/read/artist-of-the-month-im-with-her/
-- https://twangville.com/2025/05/07/im-with-her-wild-and-clear-and-blue/
-- https://folkalley.com/basic-folk-podcast-eps-309-sara-watkins-im-with-her/
+  - 'https://tonyscherman.substack.com/p/im-with-her-an-americana-supergroup'
+  - 'https://imwithherband.com/about/'
+  - 'https://chancentre.com/news/meet-the-artist-im-with-her/'
+  - 'https://concord.com/artist/im-with-her/'
+  - 'https://thebluegrasssituation.com/read/artist-of-the-month-im-with-her/'
+  - 'https://twangville.com/2025/05/07/im-with-her-wild-and-clear-and-blue/'
+  - 'https://folkalley.com/basic-folk-podcast-eps-309-sara-watkins-im-with-her/'
 spotify_data:
   followers: 110778
   id: 3oXddLOOjkoUuC2sX1RMdr
   popularity: 44
-  url: https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr
+  url: 'https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr'
 status: active
 title: I'm With Her
+artist_type: person
 ---
 
 ![](im_with_her.jpg)

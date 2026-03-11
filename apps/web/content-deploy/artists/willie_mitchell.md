@@ -2,51 +2,56 @@
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:32:47.405933'
 birth_date: '1928-03-01'
-birth_place: Mississippi
+birth_place: 'Ashland, Mississippi, United States'
 death_date: '2010-01-05'
-disambiguation: US soul/R&B & funk producer, trumpeter & singer
+disambiguation: 'US soul/R&B & funk producer, trumpeter & singer'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:32:47.405942'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/60d111b4-5541-4ac0-847c-4a81201695bc
-  spotify: https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Mitchell_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/60d111b4-5541-4ac0-847c-4a81201695bc'
+  spotify: 'https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Mitchell_(musician)'
 gender: Male
 genres:
-- northern soul
-- classic soul
+  - northern soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/willie_mitchell.jpg
 last_updated: '2026-03-03T01:32:47.405944'
 musical_connections:
   collaborators:
-  - Al Green
-  - Ann Peebles
-  - O. V. Wright
-  - Syl Johnson
-  - Otis Clay
-  - Hi Rhythm Section
+    - Al Green
+    - Ann Peebles
+    - O. V. Wright
+    - Syl Johnson
+    - Otis Clay
+    - Hi Rhythm Section
   influenced:
-  - Al Green
-  - John Mayer
+    - Al Green
+    - John Mayer
   mentors: []
 musicbrainz_id: 60d111b4-5541-4ac0-847c-4a81201695bc
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://grammymuseumms.org/exhibit/willie-mitchell-the-music-of-royal-studios/
-- https://en.wikipedia.org/wiki/Willie_Mitchell_(musician)
-- https://www.musicconnection.com/willie-mitchell-happy-birthday-soul-music-pioneer/
-- https://msbluestrail.org/blues-trail-markers/willie-mitchell
-- https://www.wlrn.org/2010-01-08/memphis-soul-pioneer-willie-mitchell-dies-at-81
-- https://memphismusichalloffame.com/inductee/williemitchell/
-- https://www.allmusic.com/artist/willie-mitchell-mn0000684830
+  - >-
+    https://grammymuseumms.org/exhibit/willie-mitchell-the-music-of-royal-studios/
+  - 'https://en.wikipedia.org/wiki/Willie_Mitchell_(musician)'
+  - >-
+    https://www.musicconnection.com/willie-mitchell-happy-birthday-soul-music-pioneer/
+  - 'https://msbluestrail.org/blues-trail-markers/willie-mitchell'
+  - >-
+    https://www.wlrn.org/2010-01-08/memphis-soul-pioneer-willie-mitchell-dies-at-81
+  - 'https://memphismusichalloffame.com/inductee/williemitchell/'
+  - 'https://www.allmusic.com/artist/willie-mitchell-mn0000684830'
 spotify_data:
   followers: 17642
   id: 3EkURHRbSZWjatYLo36NMS
   popularity: 25
-  url: https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS
+  url: 'https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS'
 status: active
-title: willie mitchell
+title: Willie Mitchell
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](willie_mitchell.jpg)

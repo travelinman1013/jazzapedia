@@ -1,59 +1,61 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-07T01:23:19.022081'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:23:19.022129'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d5aff44a-33f8-4d70-8097-629cdbf0b478
-  spotify: https://open.spotify.com/artist/1cwDv6bxaQDvnSy7OVagJb
-  wikipedia: https://en.wikipedia.org/wiki/Joshua_Redman
+  musicbrainz: 'https://musicbrainz.org/artist/d5aff44a-33f8-4d70-8097-629cdbf0b478'
+  spotify: 'https://open.spotify.com/artist/1cwDv6bxaQDvnSy7OVagJb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joshua_Redman'
 genres:
-- jazz funk
-- jazz fusion
-- jazz
+  - jazz funk
+  - jazz fusion
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/joshua_redman_elastic_band.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-02-07T01:23:19.022141'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: b00a17c3-72b2-4e39-96f9-770ba6cf4573
-  name: Joshua Redman
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: b00a17c3-72b2-4e39-96f9-770ba6cf4573
+    name: Joshua Redman
 musical_connections:
   collaborators:
-  - Sam Yahel
-  - Brian Blade
-  - Brad Mehldau
-  - Christian McBride
-  - Jeff Ballard
+    - Sam Yahel
+    - Brian Blade
+    - Brad Mehldau
+    - Christian McBride
+    - Jeff Ballard
   influenced: []
   mentors:
-  - Dewey Redman
+    - Dewey Redman
 musicbrainz_id: d5aff44a-33f8-4d70-8097-629cdbf0b478
 network_extracted: true
-origin: Berkeley, California, USA
+origin: 'Berkeley, California, USA'
 primary_source: perplexity
 research_sources:
-- https://www.joshuaredman.com/career-chronology
-- https://music.stanford.edu/people/joshua-redman
-- https://www.joshuaredman.com/elastic
-- https://en.wikipedia.org/wiki/Joshua_Redman
-- https://www.joshuaredman.com/full-bio
-- https://jazztimes.com/archives/joshua-redman-elastic/
-- https://unewsonline.com/2002/10/joshuaredmanelastic/
-- https://www.allaboutjazz.com/musicians/joshua-redman/
+  - 'https://www.joshuaredman.com/career-chronology'
+  - 'https://music.stanford.edu/people/joshua-redman'
+  - 'https://www.joshuaredman.com/elastic'
+  - 'https://en.wikipedia.org/wiki/Joshua_Redman'
+  - 'https://www.joshuaredman.com/full-bio'
+  - 'https://jazztimes.com/archives/joshua-redman-elastic/'
+  - 'https://unewsonline.com/2002/10/joshuaredmanelastic/'
+  - 'https://www.allaboutjazz.com/musicians/joshua-redman/'
 spotify_data:
   followers: 12147
   id: 1cwDv6bxaQDvnSy7OVagJb
   popularity: 26
-  url: https://open.spotify.com/artist/1cwDv6bxaQDvnSy7OVagJb
+  url: 'https://open.spotify.com/artist/1cwDv6bxaQDvnSy7OVagJb'
 status: active
 tags:
-- jazz
+  - jazz
 title: Joshua Redman Elastic Band
+birth_place: 'Berkeley, California, United States'
+birth_date: '1969-02-01'
 ---
 
 ![](joshua_redman_elastic_band.jpg)

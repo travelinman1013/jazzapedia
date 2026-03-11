@@ -1,49 +1,55 @@
 ---
 biography_enhanced_at: '2026-01-26T01:38:06.544048'
-birth_place: Greenville, North Carolina, United States
+birth_place: 'Greenville, North Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:38:06.544057'
 external_urls:
-  spotify: https://open.spotify.com/artist/6VVDFREKaz51lG4sHk0TRG
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Taylor
+  spotify: 'https://open.spotify.com/artist/6VVDFREKaz51lG4sHk0TRG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Taylor'
 genres:
-- hard bop
-- jazz
-- latin jazz
+  - hard bop
+  - jazz
+  - latin jazz
 image_path: 03_Resources/source_material/ArtistPortraits/billy_taylor_trio.jpg
 last_updated: '2026-01-26T01:38:06.544058'
 musical_connections:
   collaborators:
-  - Charles Mingus
-  - Charlie Parker
-  - Miles Davis
-  - Dizzy Gillespie
-  - Billie Holiday
-  - John Coltrane
-  - Stan Getz
-  - Don Redman Orchestra
+    - Charles Mingus
+    - Charlie Parker
+    - Miles Davis
+    - Dizzy Gillespie
+    - Billie Holiday
+    - John Coltrane
+    - Stan Getz
+    - Don Redman Orchestra
   influenced:
-  - Jazz educators and advocates
+    - Jazz educators and advocates
   mentors:
-  - Art Tatum
-  - Machito
+    - Art Tatum
+    - Machito
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thehistorymakers.org/biography/billy-taylor-41
-- https://americanhistory.si.edu/explore/stories/tribute-dr-william-taylor-jr-jazz-elder-statesman-july-24-1921-dec-28-2010
-- https://arkadiarecords.com/product/billy-taylor-profile/
-- https://en.wikipedia.org/wiki/Billy_Taylor
-- https://www.arts.gov/honors/jazz/billy-taylor
-- https://jazztimes.com/features/tributes-and-obituaries/dr-billy-taylor-jazz-pianist-dies/
-- https://fromthevaults-boppinbob.blogspot.com/2021/07/billy-taylor-born-24-july-1921.html
+  - 'https://www.thehistorymakers.org/biography/billy-taylor-41'
+  - >-
+    https://americanhistory.si.edu/explore/stories/tribute-dr-william-taylor-jr-jazz-elder-statesman-july-24-1921-dec-28-2010
+  - 'https://arkadiarecords.com/product/billy-taylor-profile/'
+  - 'https://en.wikipedia.org/wiki/Billy_Taylor'
+  - 'https://www.arts.gov/honors/jazz/billy-taylor'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/dr-billy-taylor-jazz-pianist-dies/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/07/billy-taylor-born-24-july-1921.html
 spotify_data:
   followers: 1917
   id: 6VVDFREKaz51lG4sHk0TRG
   popularity: 14
-  url: https://open.spotify.com/artist/6VVDFREKaz51lG4sHk0TRG
+  url: 'https://open.spotify.com/artist/6VVDFREKaz51lG4sHk0TRG'
 status: active
-title: BILLY TAYLOR TRIO
+title: Billy Taylor Trio
+birth_date: '1921-07-24'
+death_date: '2010-12-28'
+artist_type: person
 ---
 
 ![](billy_taylor_trio.jpg)

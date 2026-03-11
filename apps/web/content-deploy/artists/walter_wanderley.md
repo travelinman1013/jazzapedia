@@ -1,79 +1,81 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 092dbf27-904a-4538-b51d-907aedf73501
-  name: Milton Banana Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 2ec37d97-2031-44cc-a839-46ef043f2711
-  name: Walter Wanderley & His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 52af8ebe-3af5-45e0-b4a3-87c43854026f
-  name: The Walter Wanderley Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 092dbf27-904a-4538-b51d-907aedf73501
+    name: Milton Banana Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2ec37d97-2031-44cc-a839-46ef043f2711
+    name: Walter Wanderley & His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 52af8ebe-3af5-45e0-b4a3-87c43854026f
+    name: The Walter Wanderley Trio
 biography_enhanced_at: '2026-02-10T01:49:19.745710'
 birth_date: '1932-05-12'
-birth_place: Recife
+birth_place: 'Recife, Pernambuco, Brazil'
 death_date: '1986-09-04'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:49:19.745719'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9e031ad0-8f7f-44ab-905e-6ed093eca2e3
-  spotify: https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA
-  wikipedia: https://en.wikipedia.org/wiki/Walter_Wanderley
+  musicbrainz: 'https://musicbrainz.org/artist/9e031ad0-8f7f-44ab-905e-6ed093eca2e3'
+  spotify: 'https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Walter_Wanderley'
 gender: Male
 genres:
-- bossa nova
-- brazilian jazz
-- exotica
-- latin jazz
+  - bossa nova
+  - brazilian jazz
+  - exotica
+  - latin jazz
 image_path: 03_Resources/source_material/ArtistPortraits/walter_wanderley.jpg
 instruments:
-- eponymous
-- original
-- piano
+  - eponymous
+  - original
+  - piano
 last_updated: '2026-02-10T01:49:19.745721'
 musical_connections:
   collaborators:
-  - Isaurinha Garcia
-  - Astrud Gilberto
-  - Claudio Slon
-  - Jose Marino
-  - Luiz Henrique Rosa
-  - Bob Matthews
+    - Isaurinha Garcia
+    - Astrud Gilberto
+    - Claudio Slon
+    - Jose Marino
+    - Luiz Henrique Rosa
+    - Bob Matthews
   influenced: []
   mentors:
-  - Tony Bennett
-  - Creed Taylor
+    - Tony Bennett
+    - Creed Taylor
 musicbrainz_id: 9e031ad0-8f7f-44ab-905e-6ed093eca2e3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Walter_Wanderley
-- https://www.barnesandnoble.com/w/walter-wanderley-fernando-torres/1140568427
-- https://fromthevaults-boppinbob.blogspot.com/2018/05/walter-wanderley-born-12-may-1932.html
-- https://www.spaceagepop.com/wanderle.htm
-- https://www.freshsoundrecords.com/13165-walter-wanderley-albums
-- https://www.iajo.org/iajo04/brazil/wanderle.htm
-- https://www.slipcue.com/music/brazil/wanderley.html
+  - 'https://en.wikipedia.org/wiki/Walter_Wanderley'
+  - 'https://www.barnesandnoble.com/w/walter-wanderley-fernando-torres/1140568427'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2018/05/walter-wanderley-born-12-may-1932.html
+  - 'https://www.spaceagepop.com/wanderle.htm'
+  - 'https://www.freshsoundrecords.com/13165-walter-wanderley-albums'
+  - 'https://www.iajo.org/iajo04/brazil/wanderle.htm'
+  - 'https://www.slipcue.com/music/brazil/wanderley.html'
 spotify_data:
   followers: 36573
   id: 1FKfMww5N8dkbyo2sp9nBA
   popularity: 47
-  url: https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA
+  url: 'https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA'
 status: active
 tags:
-- bossa nova
-- brazilian
-- exotica
+  - bossa nova
+  - brazilian
+  - exotica
 title: Walter Wanderley
+is_active: false
 ---
 
 ![](walter_wanderley.jpg)

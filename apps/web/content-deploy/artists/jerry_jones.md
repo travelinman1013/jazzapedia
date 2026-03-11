@@ -3,32 +3,34 @@ biography_enhanced_at: '2026-01-26T01:41:30.269413'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:41:30.269423'
 external_urls:
-  spotify: https://open.spotify.com/artist/6dzB0ttl5Ljlf2JRd2nghs
+  spotify: 'https://open.spotify.com/artist/6dzB0ttl5Ljlf2JRd2nghs'
   wikipedia: ''
 genres:
-- rocksteady
-- soul jazz
-- lovers rock
+  - rocksteady
+  - soul jazz
+  - lovers rock
 image_path: 03_Resources/source_material/ArtistPortraits/jerry_jones.jpg
 last_updated: '2026-01-26T01:41:30.269425'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Clement 'Coxsone' Dodd
+    - Clement 'Coxsone' Dodd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://soundsoftheuniverse.com/sjr/product/rocksteady-soul-and-early-reggae-at-studio-one
-- https://www.ccmusic.com/studio-one-rocksteady-2/5026328003672
-- https://www.allaboutjazz.com/musicians/jerry-jones
+  - >-
+    https://soundsoftheuniverse.com/sjr/product/rocksteady-soul-and-early-reggae-at-studio-one
+  - 'https://www.ccmusic.com/studio-one-rocksteady-2/5026328003672'
+  - 'https://www.allaboutjazz.com/musicians/jerry-jones'
 spotify_data:
   followers: 1020
   id: 6dzB0ttl5Ljlf2JRd2nghs
   popularity: 12
-  url: https://open.spotify.com/artist/6dzB0ttl5Ljlf2JRd2nghs
+  url: 'https://open.spotify.com/artist/6dzB0ttl5Ljlf2JRd2nghs'
 status: active
 title: Jerry Jones
+artist_type: person
 ---
 
 ![](jerry_jones.jpg)

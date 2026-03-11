@@ -1,365 +1,366 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-10T01:57:55.100997'
 birth_date: '1970'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:57:55.101030'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5700dcd4-c139-4f31-aa3e-6382b9af9032
-  spotify: https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU
-  wikipedia: https://de.wikipedia.org/wiki/Kraftwerk_(Band)
+  musicbrainz: 'https://musicbrainz.org/artist/5700dcd4-c139-4f31-aa3e-6382b9af9032'
+  spotify: 'https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU'
+  wikipedia: 'https://de.wikipedia.org/wiki/Kraftwerk_(Band)'
 genres:
-- krautrock
-- neue deutsche welle
-- synthpop
-- electronic
-- new wave
-- electro
+  - krautrock
+  - neue deutsche welle
+  - synthpop
+  - electronic
+  - new wave
+  - electro
 image_path: 03_Resources/source_material/ArtistPortraits/kraftwerk.jpg
 instruments:
-- drums (drum set)
-- additional
-- keyboard
-- original
-- bass guitar
-- electric guitar
-- guitar
-- background vocals
-- flute
-- saxophone
-- violin
-- percussion
-- synthesizer
-- vocoder
-- organ
-- lead vocals
-- electric violin
-- electronic drum set
-- vibraphone
-- electronic instruments
+  - drums (drum set)
+  - additional
+  - keyboard
+  - original
+  - bass guitar
+  - electric guitar
+  - guitar
+  - background vocals
+  - flute
+  - saxophone
+  - violin
+  - percussion
+  - synthesizer
+  - vocoder
+  - organ
+  - lead vocals
+  - electric violin
+  - electronic drum set
+  - vibraphone
+  - electronic instruments
 last_updated: '2026-02-10T01:57:55.101032'
 members:
-- begin: '1970'
-  end: '1970'
-  instruments:
-  - drums (drum set)
-  mbid: d17eeb09-9cee-4965-9370-c082b37e780b
-  name: Andreas Hohmann
-- begin: '1970'
-  end: '1970'
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: 52320bb6-2465-4c3c-a7fe-60b093bd55c8
-  name: Thomas Lohmann
-- begin: '1970'
-  end: '1971'
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: 7d13df68-5661-45bd-9aad-75a0d7f88091
-  name: Klaus Dinger
-- begin: '1970'
-  end: '1971'
-  instruments:
-  - keyboard
-  - original
-  mbid: da3f4766-628e-4da3-a871-014728993157
-  name: Ralf Hütter
-- begin: '1970'
-  end: '1971'
-  instruments:
-  - additional
-  - bass guitar
-  mbid: b17ed5b1-d965-4b05-ad25-49fd40aa9563
-  name: Eberhard Kranemann
-- begin: '1970'
-  end: '1971'
-  instruments:
-  - additional
-  - electric guitar
-  mbid: b35bfd08-f4a1-45d1-9799-a7eec65ff66b
-  name: Houschäng Nejadépour
-- begin: '1970'
-  end: '1971'
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: 12bf35df-1765-4ab3-84b1-20459cf84ae9
-  name: Peter Schmidt
-- begin: '1970'
-  end: '1974'
-  instruments:
-  - guitar
-  - original
-  mbid: da3f4766-628e-4da3-a871-014728993157
-  name: Ralf Hütter
-- begin: '1970'
-  end: 2008-11
-  instruments:
-  - background vocals
-  - original
-  mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
-  name: Florian Schneider
-- begin: '1970'
-  end: 2008-11
-  instruments:
-  - flute
-  - original
-  mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
-  name: Florian Schneider
-- begin: '1970'
-  end: 2008-11
-  instruments:
-  - original
-  - saxophone
-  mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
-  name: Florian Schneider
-- begin: '1970'
-  end: 2008-11
-  instruments:
-  - electric guitar
-  - original
-  mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
-  name: Florian Schneider
-- begin: '1970'
-  end: 2008-11
-  instruments:
-  - original
-  - violin
-  mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
-  name: Florian Schneider
-- begin: '1970'
-  end: 2008-11
-  instruments:
-  - original
-  - percussion
-  mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
-  name: Florian Schneider
-- begin: '1970'
-  end: 2008-11
-  instruments:
-  - original
-  - synthesizer
-  mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
-  name: Florian Schneider
-- begin: '1970'
-  end: 2008-11
-  instruments:
-  - original
-  - vocoder
-  mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
-  name: Florian Schneider
-- &id001
-  begin: '1970'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: da3f4766-628e-4da3-a871-014728993157
-  name: Ralf Hütter
-- &id002
-  begin: '1970'
-  end: ''
-  instruments:
-  - original
-  - synthesizer
-  mbid: da3f4766-628e-4da3-a871-014728993157
-  name: Ralf Hütter
-- &id003
-  begin: '1970'
-  end: ''
-  instruments:
-  - organ
-  - original
-  mbid: da3f4766-628e-4da3-a871-014728993157
-  name: Ralf Hütter
-- &id004
-  begin: '1970'
-  end: ''
-  instruments:
-  - bass guitar
-  - original
-  mbid: da3f4766-628e-4da3-a871-014728993157
-  name: Ralf Hütter
-- &id005
-  begin: '1970'
-  end: ''
-  instruments:
-  - original
-  - vocoder
-  mbid: da3f4766-628e-4da3-a871-014728993157
-  name: Ralf Hütter
-- begin: '1971'
-  end: '1971'
-  instruments:
-  - electric guitar
-  mbid: 3b4db0d5-97a8-4aa8-a375-9b8c78a56932
-  name: Michael Rother
-- &id006
-  begin: '1972'
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: da3f4766-628e-4da3-a871-014728993157
-  name: Ralf Hütter
-- &id007
-  begin: '1972'
-  end: ''
-  instruments:
-  - keyboard
-  - original
-  mbid: da3f4766-628e-4da3-a871-014728993157
-  name: Ralf Hütter
-- begin: '1973'
-  end: '1973'
-  instruments:
-  - additional
-  - bass guitar
-  mbid: c960bfef-035f-45ec-961c-289888eda9c4
-  name: Plato Kostic
-- begin: '1973'
-  end: '1973'
-  instruments:
-  - additional
-  - electric guitar
-  mbid: e47b4862-a587-488f-b7a7-bd329726693d
-  name: Emil Schult
-- begin: '1973'
-  end: '1973'
-  instruments:
-  - additional
-  - electric violin
-  mbid: e47b4862-a587-488f-b7a7-bd329726693d
-  name: Emil Schult
-- begin: '1973'
-  end: '1987'
-  instruments:
-  - electronic drum set
-  mbid: 6c29e868-e40a-4ff0-b251-bc383ba88ba4
-  name: Wolfgang Flür
-- begin: '1974'
-  end: '1974'
-  instruments:
-  - electric guitar
-  mbid: 7bca0cea-265f-41d3-9e04-8a68507b6f25
-  name: Klaus Röder
-- begin: '1974'
-  end: '1974'
-  instruments:
-  - electric violin
-  mbid: 7bca0cea-265f-41d3-9e04-8a68507b6f25
-  name: Klaus Röder
-- begin: '1975'
-  end: '1990'
-  instruments:
-  - lead vocals
-  mbid: 34bfcd5d-a76d-4b31-8022-b5ac04d5801b
-  name: Karl Bartos
-- begin: '1975'
-  end: '1990'
-  instruments:
-  - vibraphone
-  mbid: 34bfcd5d-a76d-4b31-8022-b5ac04d5801b
-  name: Karl Bartos
-- begin: '1975'
-  end: '1990'
-  instruments:
-  - keyboard
-  mbid: 34bfcd5d-a76d-4b31-8022-b5ac04d5801b
-  name: Karl Bartos
-- begin: '1987'
-  end: '2022-09-02'
-  instruments:
-  - electronic instruments
-  mbid: 090d8a25-6271-4e51-b5a5-622cf128c7be
-  name: Fritz Hilpert
-- begin: '1991'
-  end: '1991'
-  instruments:
-  - additional
-  - synthesizer
-  mbid: c2d86260-74e5-46a3-bd8b-9ca0a25c8b10
-  name: Fernando Abrantes
-- &id008
-  begin: '1991'
-  end: ''
-  instruments:
-  - electronic instruments
-  mbid: cde6ac66-ffdf-4f80-8dda-7a40e7b16972
-  name: Henning Schmitz
-- &id009
-  begin: '1991'
-  end: ''
-  instruments:
-  - keyboard
-  mbid: cde6ac66-ffdf-4f80-8dda-7a40e7b16972
-  name: Henning Schmitz
-- begin: '2008'
-  end: '2012'
-  instruments:
-  - additional
-  mbid: 12cd8934-c85c-4572-ad7b-7e161e401005
-  name: Stefan Pfaffe
-- &id010
-  begin: '2012'
-  end: ''
-  instruments: []
-  mbid: 8e1d04bb-2db0-4d95-bdda-1e605a8b8aef
-  name: Falk Grieffenhagen
-- &id011
-  begin: '2023-05-18'
-  end: ''
-  instruments: []
-  mbid: 266be859-d91e-4358-89a8-c4c07de8316f
-  name: Georg Bongartz
+  - begin: '1970'
+    end: '1970'
+    instruments:
+      - drums (drum set)
+    mbid: d17eeb09-9cee-4965-9370-c082b37e780b
+    name: Andreas Hohmann
+  - begin: '1970'
+    end: '1970'
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: 52320bb6-2465-4c3c-a7fe-60b093bd55c8
+    name: Thomas Lohmann
+  - begin: '1970'
+    end: '1971'
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: 7d13df68-5661-45bd-9aad-75a0d7f88091
+    name: Klaus Dinger
+  - begin: '1970'
+    end: '1971'
+    instruments:
+      - keyboard
+      - original
+    mbid: da3f4766-628e-4da3-a871-014728993157
+    name: Ralf Hütter
+  - begin: '1970'
+    end: '1971'
+    instruments:
+      - additional
+      - bass guitar
+    mbid: b17ed5b1-d965-4b05-ad25-49fd40aa9563
+    name: Eberhard Kranemann
+  - begin: '1970'
+    end: '1971'
+    instruments:
+      - additional
+      - electric guitar
+    mbid: b35bfd08-f4a1-45d1-9799-a7eec65ff66b
+    name: Houschäng Nejadépour
+  - begin: '1970'
+    end: '1971'
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: 12bf35df-1765-4ab3-84b1-20459cf84ae9
+    name: Peter Schmidt
+  - begin: '1970'
+    end: '1974'
+    instruments:
+      - guitar
+      - original
+    mbid: da3f4766-628e-4da3-a871-014728993157
+    name: Ralf Hütter
+  - begin: '1970'
+    end: 2008-11
+    instruments:
+      - background vocals
+      - original
+    mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
+    name: Florian Schneider
+  - begin: '1970'
+    end: 2008-11
+    instruments:
+      - flute
+      - original
+    mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
+    name: Florian Schneider
+  - begin: '1970'
+    end: 2008-11
+    instruments:
+      - original
+      - saxophone
+    mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
+    name: Florian Schneider
+  - begin: '1970'
+    end: 2008-11
+    instruments:
+      - electric guitar
+      - original
+    mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
+    name: Florian Schneider
+  - begin: '1970'
+    end: 2008-11
+    instruments:
+      - original
+      - violin
+    mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
+    name: Florian Schneider
+  - begin: '1970'
+    end: 2008-11
+    instruments:
+      - original
+      - percussion
+    mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
+    name: Florian Schneider
+  - begin: '1970'
+    end: 2008-11
+    instruments:
+      - original
+      - synthesizer
+    mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
+    name: Florian Schneider
+  - begin: '1970'
+    end: 2008-11
+    instruments:
+      - original
+      - vocoder
+    mbid: 46957dac-b5ff-40a9-a427-ab53bc414f6e
+    name: Florian Schneider
+  - &ref_0
+    begin: '1970'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: da3f4766-628e-4da3-a871-014728993157
+    name: Ralf Hütter
+  - &ref_1
+    begin: '1970'
+    end: ''
+    instruments:
+      - original
+      - synthesizer
+    mbid: da3f4766-628e-4da3-a871-014728993157
+    name: Ralf Hütter
+  - &ref_2
+    begin: '1970'
+    end: ''
+    instruments:
+      - organ
+      - original
+    mbid: da3f4766-628e-4da3-a871-014728993157
+    name: Ralf Hütter
+  - &ref_3
+    begin: '1970'
+    end: ''
+    instruments:
+      - bass guitar
+      - original
+    mbid: da3f4766-628e-4da3-a871-014728993157
+    name: Ralf Hütter
+  - &ref_4
+    begin: '1970'
+    end: ''
+    instruments:
+      - original
+      - vocoder
+    mbid: da3f4766-628e-4da3-a871-014728993157
+    name: Ralf Hütter
+  - begin: '1971'
+    end: '1971'
+    instruments:
+      - electric guitar
+    mbid: 3b4db0d5-97a8-4aa8-a375-9b8c78a56932
+    name: Michael Rother
+  - &ref_5
+    begin: '1972'
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: da3f4766-628e-4da3-a871-014728993157
+    name: Ralf Hütter
+  - &ref_6
+    begin: '1972'
+    end: ''
+    instruments:
+      - keyboard
+      - original
+    mbid: da3f4766-628e-4da3-a871-014728993157
+    name: Ralf Hütter
+  - begin: '1973'
+    end: '1973'
+    instruments:
+      - additional
+      - bass guitar
+    mbid: c960bfef-035f-45ec-961c-289888eda9c4
+    name: Plato Kostic
+  - begin: '1973'
+    end: '1973'
+    instruments:
+      - additional
+      - electric guitar
+    mbid: e47b4862-a587-488f-b7a7-bd329726693d
+    name: Emil Schult
+  - begin: '1973'
+    end: '1973'
+    instruments:
+      - additional
+      - electric violin
+    mbid: e47b4862-a587-488f-b7a7-bd329726693d
+    name: Emil Schult
+  - begin: '1973'
+    end: '1987'
+    instruments:
+      - electronic drum set
+    mbid: 6c29e868-e40a-4ff0-b251-bc383ba88ba4
+    name: Wolfgang Flür
+  - begin: '1974'
+    end: '1974'
+    instruments:
+      - electric guitar
+    mbid: 7bca0cea-265f-41d3-9e04-8a68507b6f25
+    name: Klaus Röder
+  - begin: '1974'
+    end: '1974'
+    instruments:
+      - electric violin
+    mbid: 7bca0cea-265f-41d3-9e04-8a68507b6f25
+    name: Klaus Röder
+  - begin: '1975'
+    end: '1990'
+    instruments:
+      - lead vocals
+    mbid: 34bfcd5d-a76d-4b31-8022-b5ac04d5801b
+    name: Karl Bartos
+  - begin: '1975'
+    end: '1990'
+    instruments:
+      - vibraphone
+    mbid: 34bfcd5d-a76d-4b31-8022-b5ac04d5801b
+    name: Karl Bartos
+  - begin: '1975'
+    end: '1990'
+    instruments:
+      - keyboard
+    mbid: 34bfcd5d-a76d-4b31-8022-b5ac04d5801b
+    name: Karl Bartos
+  - begin: '1987'
+    end: '2022-09-02'
+    instruments:
+      - electronic instruments
+    mbid: 090d8a25-6271-4e51-b5a5-622cf128c7be
+    name: Fritz Hilpert
+  - begin: '1991'
+    end: '1991'
+    instruments:
+      - additional
+      - synthesizer
+    mbid: c2d86260-74e5-46a3-bd8b-9ca0a25c8b10
+    name: Fernando Abrantes
+  - &ref_7
+    begin: '1991'
+    end: ''
+    instruments:
+      - electronic instruments
+    mbid: cde6ac66-ffdf-4f80-8dda-7a40e7b16972
+    name: Henning Schmitz
+  - &ref_8
+    begin: '1991'
+    end: ''
+    instruments:
+      - keyboard
+    mbid: cde6ac66-ffdf-4f80-8dda-7a40e7b16972
+    name: Henning Schmitz
+  - begin: '2008'
+    end: '2012'
+    instruments:
+      - additional
+    mbid: 12cd8934-c85c-4572-ad7b-7e161e401005
+    name: Stefan Pfaffe
+  - &ref_9
+    begin: '2012'
+    end: ''
+    instruments: []
+    mbid: 8e1d04bb-2db0-4d95-bdda-1e605a8b8aef
+    name: Falk Grieffenhagen
+  - &ref_10
+    begin: '2023-05-18'
+    end: ''
+    instruments: []
+    mbid: 266be859-d91e-4358-89a8-c4c07de8316f
+    name: Georg Bongartz
 musical_connections:
   collaborators:
-  - Florian Schneider
-  - Karl Bartos
-  - Wolfgang Flür
-  - Michael Rother
-  - Klaus Dinger
+    - Florian Schneider
+    - Karl Bartos
+    - Wolfgang Flür
+    - Michael Rother
+    - Klaus Dinger
   influenced:
-  - Various artists in synthpop, electro, Detroit techno, house, hip-hop
+    - 'Various artists in synthpop, electro, Detroit techno, house, hip-hop'
   mentors:
-  - Conny Plank
+    - Conny Plank
 musicbrainz_id: 5700dcd4-c139-4f31-aa3e-6382b9af9032
 network_extracted: true
-origin: Düsseldorf
+origin: 'Düsseldorf, North Rhine-Westphalia, Germany'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
-- *id008
-- *id009
-- *id010
-- *id011
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
+  - *ref_6
+  - *ref_7
+  - *ref_8
+  - *ref_9
+  - *ref_10
 primary_source: perplexity
 research_sources:
-- https://kulturkenner.de/artikel/kraftwerk--2?locale=en
-- https://de.wikipedia.org/wiki/Kraftwerk_(Band)
-- https://www.classicpopmag.com/features/the-story-of-kraftwerk/
-- https://www.britannica.com/topic/Kraftwerk
-- https://www.perfectcircuit.com/signal/kraftwerk-history
-- https://www.youtube.com/watch?v=D-HNkHao0-k
-- https://www.deutschland.de/en/topic/culture/kraftwerk-band-electronic-music-tour-usa
-- http://www.ianthomson.info/blog/kraftwerk-future-music-from-germany/
+  - 'https://kulturkenner.de/artikel/kraftwerk--2?locale=en'
+  - 'https://de.wikipedia.org/wiki/Kraftwerk_(Band)'
+  - 'https://www.classicpopmag.com/features/the-story-of-kraftwerk/'
+  - 'https://www.britannica.com/topic/Kraftwerk'
+  - 'https://www.perfectcircuit.com/signal/kraftwerk-history'
+  - 'https://www.youtube.com/watch?v=D-HNkHao0-k'
+  - >-
+    https://www.deutschland.de/en/topic/culture/kraftwerk-band-electronic-music-tour-usa
+  - 'http://www.ianthomson.info/blog/kraftwerk-future-music-from-germany/'
 spotify_data:
   followers: 912115
   id: 0dmPX6ovclgOy8WWJaFEUU
   popularity: 54
-  url: https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU
+  url: 'https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU'
 status: active
 tags:
-- electro
-- electronic
-- electronic music
+  - electro
+  - electronic
+  - electronic music
 title: Kraftwerk
 ---
 

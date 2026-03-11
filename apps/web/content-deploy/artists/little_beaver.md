@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-23T01:48:00.983554'
-birth_place: Forrest City, Arkansas, United States
+birth_place: 'Forrest City, Arkansas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:48:00.983560'
 external_urls:
-  spotify: https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Hale
+  spotify: 'https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Hale'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/little_beaver.jpg
 last_updated: '2026-01-23T01:48:00.983561'
 musical_connections:
   collaborators:
-  - Betty Wright
-  - Clarence Reid
-  - Gwen McCrae
-  - Benny Latimore
-  - Timmy Thomas
-  - Jaco Pastorius
+    - Betty Wright
+    - Clarence Reid
+    - Gwen McCrae
+    - Benny Latimore
+    - Timmy Thomas
+    - Jaco Pastorius
   influenced:
-  - People Under the Stairs
-  - Jay-Z
-  - Lion Babe
-  - Kendrick Lamar
+    - People Under the Stairs
+    - Jay-Z
+    - Lion Babe
+    - Kendrick Lamar
   mentors:
-  - Willie Clarke
-  - Steve Alaimo
+    - Willie Clarke
+    - Steve Alaimo
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Willie_Hale
-- https://recentmusic.com/artist/6avpsZzjS5Yy9daHLBCYmn/
-- https://www.iheart.com/artist/little-beaver-2568/
-- https://www.allmusic.com/artist/little-beaver-mn0000837302
+  - 'https://en.wikipedia.org/wiki/Willie_Hale'
+  - 'https://recentmusic.com/artist/6avpsZzjS5Yy9daHLBCYmn/'
+  - 'https://www.iheart.com/artist/little-beaver-2568/'
+  - 'https://www.allmusic.com/artist/little-beaver-mn0000837302'
 spotify_data:
   followers: 35812
   id: 6avpsZzjS5Yy9daHLBCYmn
   popularity: 43
-  url: https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn
+  url: 'https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn'
 status: active
-title: little beaver
+title: Little Beaver
+birth_date: '1945-08-15'
+artist_type: person
 ---
 
 ![](little_beaver.jpg)

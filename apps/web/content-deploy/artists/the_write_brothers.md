@@ -3,37 +3,40 @@ biography_enhanced_at: '2026-03-06T01:30:31.893328'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:30:31.893337'
 external_urls:
-  spotify: https://open.spotify.com/artist/3Sseu6tObM3uc0HiGqXdV6
-  wikipedia: https://en.wikipedia.org/wiki/Wright_Brothers_Band
+  spotify: 'https://open.spotify.com/artist/3Sseu6tObM3uc0HiGqXdV6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wright_Brothers_Band'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_write_brothers.jpg
 last_updated: '2026-03-06T01:30:31.893339'
 musical_connections:
   collaborators:
-  - Karl Hinkle
-  - John W. McDowell
-  - John McDowell
-  - Steve Walker
-  - Dolly Parton
-  - Barbara Mandrell
-  - Jerry Van Dyke
+    - Karl Hinkle
+    - John W. McDowell
+    - John McDowell
+    - Steve Walker
+    - Dolly Parton
+    - Barbara Mandrell
+    - Jerry Van Dyke
   influenced: []
   mentors: []
 network_extracted: true
-origin: French Lick/Indianapolis, Indiana, USA
+origin: 'French Lick/Indianapolis, Indiana, USA'
 primary_source: perplexity
 research_sources:
-- https://indianamusicpedia.com/encyclopedia/wright-brothers-and-overland-stage-company/
-- https://sites.google.com/nhj.k12.in.us/indianamusicmakers/countrybluegrass/wright-brothers-band
-- https://en.wikipedia.org/wiki/Wright_Brothers_Band
-- https://www.allmusic.com/artist/wright-brothers-mn0001846607
+  - >-
+    https://indianamusicpedia.com/encyclopedia/wright-brothers-and-overland-stage-company/
+  - >-
+    https://sites.google.com/nhj.k12.in.us/indianamusicmakers/countrybluegrass/wright-brothers-band
+  - 'https://en.wikipedia.org/wiki/Wright_Brothers_Band'
+  - 'https://www.allmusic.com/artist/wright-brothers-mn0001846607'
 spotify_data:
   followers: 32
   id: 3Sseu6tObM3uc0HiGqXdV6
   popularity: 0
-  url: https://open.spotify.com/artist/3Sseu6tObM3uc0HiGqXdV6
+  url: 'https://open.spotify.com/artist/3Sseu6tObM3uc0HiGqXdV6'
 status: active
-title: THE WRITE BROTHERS
+title: The Write Brothers
+artist_type: band
 ---
 
 ![](the_write_brothers.jpg)

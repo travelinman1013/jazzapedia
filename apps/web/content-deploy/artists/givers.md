@@ -1,56 +1,56 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-05T02:04:13.481638'
 birth_date: '2009'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:04:13.481647'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b1ed0477-1f0a-41bb-9b8b-2fe8bc2d85aa
-  spotify: https://open.spotify.com/artist/6t4Gtzu86ovaXYUmAL2zb3
+  musicbrainz: 'https://musicbrainz.org/artist/b1ed0477-1f0a-41bb-9b8b-2fe8bc2d85aa'
+  spotify: 'https://open.spotify.com/artist/6t4Gtzu86ovaXYUmAL2zb3'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/givers.jpg
 last_updated: '2026-03-05T02:04:13.481648'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f60a9f68-21f2-41dc-af42-c0b638730361
-  name: Kirby Campbell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1dd4fe72-7b59-4f63-8b06-010b67ff7840
-  name: Taylor Guarisco
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6f2c28ad-2b91-4b6c-b740-de7c1d499c1e
-  name: Tiffany Lamson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f60a9f68-21f2-41dc-af42-c0b638730361
+    name: Kirby Campbell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1dd4fe72-7b59-4f63-8b06-010b67ff7840
+    name: Taylor Guarisco
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6f2c28ad-2b91-4b6c-b740-de7c1d499c1e
+    name: Tiffany Lamson
 musical_connections:
   collaborators:
-  - Dirty Projectors
-  - Ra Ra Riot
-  - Pepper Rabbit
+    - Dirty Projectors
+    - Ra Ra Riot
+    - Pepper Rabbit
   influenced:
-  - Neil Young
+    - Neil Young
   mentors: []
 musicbrainz_id: b1ed0477-1f0a-41bb-9b8b-2fe8bc2d85aa
 network_extracted: true
-origin: Lafayette
+origin: 'Lafayette, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://nelsonvillefest.org/artist/givers/
-- https://www.last.fm/music/Givers/+wiki
-- https://glassnotemusic.com/givers
-- https://www.aaespeakers.com/keynote-speakers/givers
-- https://beatsthatsetmypulse.com/givers/
-- https://americansongwriter.com/givers-in-light/
+  - 'https://nelsonvillefest.org/artist/givers/'
+  - 'https://www.last.fm/music/Givers/+wiki'
+  - 'https://glassnotemusic.com/givers'
+  - 'https://www.aaespeakers.com/keynote-speakers/givers'
+  - 'https://beatsthatsetmypulse.com/givers/'
+  - 'https://americansongwriter.com/givers-in-light/'
 spotify_data:
   followers: 37368
   id: 6t4Gtzu86ovaXYUmAL2zb3
   popularity: 18
-  url: https://open.spotify.com/artist/6t4Gtzu86ovaXYUmAL2zb3
+  url: 'https://open.spotify.com/artist/6t4Gtzu86ovaXYUmAL2zb3'
 status: active
 title: Givers
 ---

@@ -3,45 +3,46 @@ biography_enhanced_at: '2026-02-07T01:27:40.394224'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:27:40.394235'
 external_urls:
-  spotify: https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J
+  spotify: 'https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J'
   wikipedia: ''
 genres:
-- blues rock
-- modern blues
-- southern rock
-- blues
-- roots rock
+  - blues rock
+  - modern blues
+  - southern rock
+  - blues
+  - roots rock
 image_path: 03_Resources/source_material/ArtistPortraits/steepwater_band.jpg
 last_updated: '2026-02-07T01:27:40.394237'
 musical_connections:
   collaborators:
-  - Tod Bowers
-  - Eric Saylors
-  - Joe Bishop
-  - Joe Winters
+    - Tod Bowers
+    - Eric Saylors
+    - Joe Bishop
+    - Joe Winters
   influenced: []
   mentors:
-  - Muddy Waters
-  - Robert Johnson
-  - John Lee Hooker
+    - Muddy Waters
+    - Robert Johnson
+    - John Lee Hooker
 network_extracted: true
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://www.broadjam.com/thesteepwaterband
-- https://martyrslive.com/jeff-massey-steepwater-band
-- https://www.jango.com/music/The+Steepwater+Band/_full_bio
-- https://www.steepwater.com
-- https://www.vintageguitar.com/27785/the-steepwater-band-2/
-- https://illinoisdrifter.substack.com/p/the-steepwater-bands-east-coast-blitz
-- https://www.steepwater.com/about
+  - 'https://www.broadjam.com/thesteepwaterband'
+  - 'https://martyrslive.com/jeff-massey-steepwater-band'
+  - 'https://www.jango.com/music/The+Steepwater+Band/_full_bio'
+  - 'https://www.steepwater.com'
+  - 'https://www.vintageguitar.com/27785/the-steepwater-band-2/'
+  - 'https://illinoisdrifter.substack.com/p/the-steepwater-bands-east-coast-blitz'
+  - 'https://www.steepwater.com/about'
 spotify_data:
   followers: 30237
   id: 2TgTMg8jrIQjJ3uWkLw93J
   popularity: 30
-  url: https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J
+  url: 'https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J'
 status: active
-title: steepwater band
+title: Steepwater Band
+artist_type: band
 ---
 
 ![](steepwater_band.jpg)

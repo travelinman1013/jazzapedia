@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-08T02:03:25.116943'
-birth_place: Cerquilho, São Paulo, Brazil
+birth_place: 'Cerquilho, São Paulo, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:03:25.116956'
 external_urls:
-  spotify: https://open.spotify.com/artist/5H2mXiaJCPQBLzbkxzyund
+  spotify: 'https://open.spotify.com/artist/5H2mXiaJCPQBLzbkxzyund'
   wikipedia: null
 genres:
-- fado
+  - fado
 image_path: 03_Resources/source_material/ArtistPortraits/gabriele_leite.jpg
 last_updated: '2026-02-08T02:03:25.116958'
 musical_connections:
   collaborators:
-  - Erika Ribeiro
-  - Eduardo Gutterres
-  - Luiz de Godoy
+    - Erika Ribeiro
+    - Eduardo Gutterres
+    - Luiz de Godoy
   influenced: []
   mentors:
-  - Prof. Dr. Paulo Martelli
-  - Mark Delpriora
-  - David Russell
-  - Sérgio Assad
+    - Prof. Dr. Paulo Martelli
+    - Mark Delpriora
+    - David Russell
+    - Sérgio Assad
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://brasilcalling.wordpress.com/2023/11/09/gabriele-leite-territorios/
-- https://rocinante.com.br/en/artists/gabriele-leite/
-- https://brasilcalling.wordpress.com/2025/11/18/gabriele-leite-gununcho/
-- https://migf.fiu.edu/2023/portfolio/gabriele-leite/
-- https://www.womex.com/virtual/pinuts_music_agency/gabriele_leite
-- https://worldmusiccentral.org/guitar-precision-and-passion-on-gabriele-leites-territorios-album/
+  - 'https://brasilcalling.wordpress.com/2023/11/09/gabriele-leite-territorios/'
+  - 'https://rocinante.com.br/en/artists/gabriele-leite/'
+  - 'https://brasilcalling.wordpress.com/2025/11/18/gabriele-leite-gununcho/'
+  - 'https://migf.fiu.edu/2023/portfolio/gabriele-leite/'
+  - 'https://www.womex.com/virtual/pinuts_music_agency/gabriele_leite'
+  - >-
+    https://worldmusiccentral.org/guitar-precision-and-passion-on-gabriele-leites-territorios-album/
 spotify_data:
   followers: 1971
   id: 5H2mXiaJCPQBLzbkxzyund
   popularity: 13
-  url: https://open.spotify.com/artist/5H2mXiaJCPQBLzbkxzyund
+  url: 'https://open.spotify.com/artist/5H2mXiaJCPQBLzbkxzyund'
 status: active
 title: Gabriele Leite
+artist_type: person
 ---
 
 ![](gabriele_leite.jpg)

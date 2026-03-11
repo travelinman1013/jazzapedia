@@ -1,52 +1,54 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-19T01:56:30.736377'
 birth_date: '1924'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:56:30.736390'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b9054386-651d-4fe7-9410-4a6c1326b9f5
-  spotify: https://open.spotify.com/artist/14g6UbtzxpK8WQrzfzsXP8
-  wikipedia: https://en.wikipedia.org/wiki/Savoy_Bearcats
+  musicbrainz: 'https://musicbrainz.org/artist/b9054386-651d-4fe7-9410-4a6c1326b9f5'
+  spotify: 'https://open.spotify.com/artist/14g6UbtzxpK8WQrzfzsXP8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Savoy_Bearcats'
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/savoy_bearcats.jpg
 last_updated: '2026-02-19T01:56:30.736392'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ea5b4738-b6a6-4d59-9213-38750eddf846
-  name: Henry Edwards
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ea5b4738-b6a6-4d59-9213-38750eddf846
+    name: Henry Edwards
 musical_connections:
   collaborators:
-  - Leon Abbey
-  - Duncan Mayers
-  - Gilbert Paris
-  - Demas Dean
-  - Tiny Bradshaw
-  - Ralph Escudero
-  - Fess Williams and his Royal Flush Orchestra
-  - Fletcher Henderson Orchestra
+    - Leon Abbey
+    - Duncan Mayers
+    - Gilbert Paris
+    - Demas Dean
+    - Tiny Bradshaw
+    - Ralph Escudero
+    - Fess Williams and his Royal Flush Orchestra
+    - Fletcher Henderson Orchestra
   influenced: []
   mentors: []
 musicbrainz_id: b9054386-651d-4fe7-9410-4a6c1326b9f5
 network_extracted: true
-origin: New York, New York, United States (Savoy Ballroom location); Charleston, South
+origin: >-
+  New York, New York, United States (Savoy Ballroom location); Charleston, South
   Carolina, United States (formation location)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Savoy_Bearcats
-- https://www.harlem-fuss.com/pdf/bands/harlem_fuss_bands_savoy_bearcats.pdf
-- https://archives.dance/2012/02/jazz-from-ragtime-to-swing/
-- https://go.gale.com/ps/i.do?id=GALE%7CA289216987&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15386279&p=AONE&sw=w
+  - 'https://en.wikipedia.org/wiki/Savoy_Bearcats'
+  - 'https://www.harlem-fuss.com/pdf/bands/harlem_fuss_bands_savoy_bearcats.pdf'
+  - 'https://archives.dance/2012/02/jazz-from-ragtime-to-swing/'
+  - >-
+    https://go.gale.com/ps/i.do?id=GALE%7CA289216987&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15386279&p=AONE&sw=w
 spotify_data:
   followers: 6
   id: 14g6UbtzxpK8WQrzfzsXP8
   popularity: 0
-  url: https://open.spotify.com/artist/14g6UbtzxpK8WQrzfzsXP8
+  url: 'https://open.spotify.com/artist/14g6UbtzxpK8WQrzfzsXP8'
 status: active
-title: SAVOY BEARCATS
+title: Savoy Bearcats
 ---
 
 ![](savoy_bearcats.jpg)

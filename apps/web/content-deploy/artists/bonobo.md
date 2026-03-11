@@ -2,50 +2,50 @@
 artist_type: person
 biography_enhanced_at: '2026-02-25T01:59:00.295483'
 birth_date: '1976-03-30'
-birth_place: Brighton
+birth_place: 'Brighton, England, United Kingdom'
 disambiguation: UK electronic artist Simon Green
 enhancement_provider: perplexity
 entry_created: '2026-02-25T01:59:00.295491'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9a709693-b4f8-4da9-8cc1-038c911a61be
-  spotify: https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb
+  musicbrainz: 'https://musicbrainz.org/artist/9a709693-b4f8-4da9-8cc1-038c911a61be'
+  spotify: 'https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- trip hop
-- downtempo
-- nu jazz
-- electronic
+  - trip hop
+  - downtempo
+  - nu jazz
+  - electronic
 image_path: 03_Resources/source_material/ArtistPortraits/bonobo.jpg
 last_updated: '2026-02-25T01:59:00.295493'
 musical_connections:
   collaborators:
-  - Ninja Tune Records
-  - Mr Scruff
+    - Ninja Tune Records
+    - Mr Scruff
   influenced:
-  - Machinedrum, Floating Points, Mark Pitchard, Lapalux, Falty DL
+    - 'Machinedrum, Floating Points, Mark Pitchard, Lapalux, Falty DL'
   mentors:
-  - Rob Luis
+    - Rob Luis
 musicbrainz_id: 9a709693-b4f8-4da9-8cc1-038c911a61be
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.hayfestival.com/artist.aspx?artistid=2805
-- https://tru-thoughts.co.uk/artists/bonobo/
-- https://webdisk.thisisframework.com/artist/bonobo/
-- https://www.beatportal.com/articles/15719-cover-story-bonobo
-- https://www.insomniac.com/music/artists/bonobo/
-- https://imaud.github.io/final-project/about.html
+  - 'https://www.hayfestival.com/artist.aspx?artistid=2805'
+  - 'https://tru-thoughts.co.uk/artists/bonobo/'
+  - 'https://webdisk.thisisframework.com/artist/bonobo/'
+  - 'https://www.beatportal.com/articles/15719-cover-story-bonobo'
+  - 'https://www.insomniac.com/music/artists/bonobo/'
+  - 'https://imaud.github.io/final-project/about.html'
 spotify_data:
   followers: 1486795
   id: 0cmWgDlu9CwTgxPhf403hb
   popularity: 61
-  url: https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb
+  url: 'https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb'
 status: active
 tags:
-- acid jazz
-- downtempo
-- electronic
+  - acid jazz
+  - downtempo
+  - electronic
 title: Bonobo
 ---
 

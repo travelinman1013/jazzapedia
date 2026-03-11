@@ -1,42 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-26T01:20:21.678724'
-birth_place: St. Petersburg, Florida, USA
+birth_place: 'St. Petersburg, Florida, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:20:21.678736'
 external_urls:
-  spotify: https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO
+  spotify: 'https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO'
   wikipedia: ''
 genres:
-- gospel
-- christian r&b
+  - gospel
+  - christian r&b
 image_path: 03_Resources/source_material/ArtistPortraits/charles_jenkins.jpg
 last_updated: '2026-02-26T01:20:21.678738'
 musical_connections:
   collaborators:
-  - Fellowship Chicago
-  - Rev. Clay Evans
-  - Teddy Campbell and Tina Campbell (Mary Mary)
-  - Israel Houghton
+    - Fellowship Chicago
+    - Rev. Clay Evans
+    - Teddy Campbell and Tina Campbell (Mary Mary)
+    - Israel Houghton
   influenced: []
   mentors:
-  - Rev. Clay Evans
+    - Rev. Clay Evans
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kids.kiddle.co/Charles_Jenkins_(American_Gospel_musician)
-- https://www.thechristianbeat.org/artists/charles-jenkins/
-- https://journalofgospelmusic.com/gospel/from-florida-to-fellowship-the-awesome-journey-of-pastor-charles-jenkins/
-- https://ndigo.com/2021/03/08/qa-with-charles-jenkins-walking-in-a-new-season/
-- https://fellowshipchicago.com/meet-pastor-jenkins/
-- https://axs.tv/artists/charles-jenkins-fellowship-chicago/
-- https://www.ccmmagazine.com/features/urban-spotlight-charles-jenkins/
+  - 'https://kids.kiddle.co/Charles_Jenkins_(American_Gospel_musician)'
+  - 'https://www.thechristianbeat.org/artists/charles-jenkins/'
+  - >-
+    https://journalofgospelmusic.com/gospel/from-florida-to-fellowship-the-awesome-journey-of-pastor-charles-jenkins/
+  - >-
+    https://ndigo.com/2021/03/08/qa-with-charles-jenkins-walking-in-a-new-season/
+  - 'https://fellowshipchicago.com/meet-pastor-jenkins/'
+  - 'https://axs.tv/artists/charles-jenkins-fellowship-chicago/'
+  - 'https://www.ccmmagazine.com/features/urban-spotlight-charles-jenkins/'
 spotify_data:
   followers: 8702
   id: 5h4u0QejAgubhvzjt3KWlO
   popularity: 20
-  url: https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO
+  url: 'https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO'
 status: active
-title: charles jenkins
+title: Charles Jenkins
+origin: 'Chicago, Illinois, United States'
+birth_date: '1975-12-14'
+artist_type: person
 ---
 
 ![](charles_jenkins.jpg)

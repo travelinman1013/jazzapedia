@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-03T02:06:29.255437'
-birth_place: Greenville, South Carolina, USA
+birth_place: 'Greenville, South Carolina, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:06:29.255446'
 external_urls:
-  spotify: https://open.spotify.com/artist/0GRaCCNpPCOZZ1tTheDKXJ
+  spotify: 'https://open.spotify.com/artist/0GRaCCNpPCOZZ1tTheDKXJ'
   wikipedia: ''
 genres:
-- northern soul
-- classic soul
-- soul
+  - northern soul
+  - classic soul
+  - soul
 image_path: 03_Resources/source_material/ArtistPortraits/ann_sexton.jpg
 last_updated: '2026-02-03T02:06:29.255448'
 musical_connections:
   collaborators:
-  - Melvin Burton
-  - Elijah & The Ebonies
-  - Clifford Curry
+    - Melvin Burton
+    - Elijah & The Ebonies
+    - Clifford Curry
   influenced: []
   mentors:
-  - John R. Richbourg
-  - David Lee
+    - John R. Richbourg
+    - David Lee
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://greenvillemusicpreservation.org/ann-sexton/
-- http://www.soulwalking.co.uk/Ann%20Sexton.html
-- https://www.soul-source.co.uk/articles/artists/ann-sexton-story-r3197/
-- https://soulstrutter.blogspot.com/2023/02/ann-sexton-profile.html
-- https://www.allmusic.com/artist/ann-sexton-mn0000921003
+  - 'https://greenvillemusicpreservation.org/ann-sexton/'
+  - 'http://www.soulwalking.co.uk/Ann%20Sexton.html'
+  - 'https://www.soul-source.co.uk/articles/artists/ann-sexton-story-r3197/'
+  - 'https://soulstrutter.blogspot.com/2023/02/ann-sexton-profile.html'
+  - 'https://www.allmusic.com/artist/ann-sexton-mn0000921003'
 spotify_data:
   followers: 8001
   id: 0GRaCCNpPCOZZ1tTheDKXJ
   popularity: 23
-  url: https://open.spotify.com/artist/0GRaCCNpPCOZZ1tTheDKXJ
+  url: 'https://open.spotify.com/artist/0GRaCCNpPCOZZ1tTheDKXJ'
 status: active
-title: ANN SEXTON
+title: Ann Sexton
+birth_date: '1950-02-05'
+artist_type: person
 ---
 
 ![](ann_sexton.jpg)

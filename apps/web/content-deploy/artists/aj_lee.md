@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-01T01:31:33.731582'
-birth_place: Tracy, California, USA
+birth_place: 'Tracy, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:31:33.731587'
 external_urls:
-  spotify: https://open.spotify.com/artist/4KPSf2GwMkfffWc3yBudZG
+  spotify: 'https://open.spotify.com/artist/4KPSf2GwMkfffWc3yBudZG'
   wikipedia: ''
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/aj_lee.jpg
 last_updated: '2026-02-01T01:31:33.731588'
 musical_connections:
   collaborators:
-  - Sullivan Tuttle
-  - Molly Tuttle
-  - Michael Tuttle
-  - Lech Wierzynski
+    - Sullivan Tuttle
+    - Molly Tuttle
+    - Michael Tuttle
+    - Lech Wierzynski
   influenced: []
   mentors:
-  - Jack Tuttle
-  - Frank Solivan Sr.
-  - Betsy Lee (mother)
+    - Jack Tuttle
+    - Frank Solivan Sr.
+    - Betsy Lee (mother)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://yourtahoeguide.com/2023/11/aj-lee-homegrown-bluegrass-star/
-- https://www.therealeasyed.com/aj-lee-back-to-the-roots-as-a-flower-blooms/
-- https://www.greennote.co.uk/production/aj-lee-blue-summit/
-- https://thetuttleswithajlee.com/about-us
-- https://www.youtube.com/shorts/FKkBS1kctkA
-- https://thebluegrasssituation.com/read/aj-lee-blue-summits-city-of-glass-is-funny-sexy-and-empowered/
-- https://thebluegrasssituation.com/read/aj-lee-blue-summits-city-of-glass-is-funny-sexy-and-empowered/
-- https://nodepression.org/spotlight-aj-lee-on-being-an-asian-american-woman-in-bluegrass/
+  - 'https://yourtahoeguide.com/2023/11/aj-lee-homegrown-bluegrass-star/'
+  - 'https://www.therealeasyed.com/aj-lee-back-to-the-roots-as-a-flower-blooms/'
+  - 'https://www.greennote.co.uk/production/aj-lee-blue-summit/'
+  - 'https://thetuttleswithajlee.com/about-us'
+  - 'https://www.youtube.com/shorts/FKkBS1kctkA'
+  - >-
+    https://thebluegrasssituation.com/read/aj-lee-blue-summits-city-of-glass-is-funny-sexy-and-empowered/
+  - >-
+    https://thebluegrasssituation.com/read/aj-lee-blue-summits-city-of-glass-is-funny-sexy-and-empowered/
+  - >-
+    https://nodepression.org/spotlight-aj-lee-on-being-an-asian-american-woman-in-bluegrass/
 spotify_data:
   followers: 3850
   id: 4KPSf2GwMkfffWc3yBudZG
   popularity: 14
-  url: https://open.spotify.com/artist/4KPSf2GwMkfffWc3yBudZG
+  url: 'https://open.spotify.com/artist/4KPSf2GwMkfffWc3yBudZG'
 status: active
 title: AJ Lee
+artist_type: person
 ---
 
 ![](aj_lee.jpg)

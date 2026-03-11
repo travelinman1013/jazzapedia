@@ -1,51 +1,61 @@
 ---
 biography_enhanced_at: '2026-02-16T01:05:47.802388'
-birth_place: New Orleans, Louisiana, USA (primary base; Longhair born Bogalusa, LA)
+birth_place: 'Bogalusa, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:05:47.802398'
 external_urls:
-  spotify: https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD
-  wikipedia: https://en.wikipedia.org/wiki/Professor_Longhair, https://en.wikipedia.org/wiki/Earl_King
+  spotify: 'https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Professor_Longhair,
+    https://en.wikipedia.org/wiki/Earl_King
 genres:
-- cajun
-- zydeco
-- classic blues
-- boogie-woogie
-- blues
-- brass band
+  - cajun
+  - zydeco
+  - classic blues
+  - boogie-woogie
+  - blues
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/professor_longhair_earl_king.jpg
 last_updated: '2026-02-16T01:05:47.802399'
 musical_connections:
   collaborators:
-  - Earl King
-  - Professor Longhair
-  - The Meters
-  - Smokey Johnson
+    - Earl King
+    - Professor Longhair
+    - The Meters
+    - Smokey Johnson
   influenced:
-  - Jimi Hendrix
-  - Stevie Ray Vaughan
-  - Freddie King
-  - The Radiators
+    - Jimi Hendrix
+    - Stevie Ray Vaughan
+    - Freddie King
+    - The Radiators
   mentors:
-  - Dave Bartholomew
-  - Johnny Vincent
+    - Dave Bartholomew
+    - Johnny Vincent
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Earl_King
-- https://en.wikipedia.org/wiki/Professor_Longhair
-- https://fromthevaults-boppinbob.blogspot.com/2018/12/professor-longhair-born-19-december-1918.html
-- https://bittersoutherner.com/feature/2021/earl-king-poet-laureate-of-new-orleans
-- https://m.sunnysiderecords.com/index.php/artist/id/284
-- https://www.americanbluesscene.com/2011/12/ladies-and-gentlemen-professor-longhair/
-- https://www.sunsetblvdrecords.com/blog/2020/5/8/professor-longhair-the-bach-of-rock
+  - 'https://en.wikipedia.org/wiki/Earl_King'
+  - 'https://en.wikipedia.org/wiki/Professor_Longhair'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2018/12/professor-longhair-born-19-december-1918.html
+  - >-
+    https://bittersoutherner.com/feature/2021/earl-king-poet-laureate-of-new-orleans
+  - 'https://m.sunnysiderecords.com/index.php/artist/id/284'
+  - >-
+    https://www.americanbluesscene.com/2011/12/ladies-and-gentlemen-professor-longhair/
+  - >-
+    https://www.sunsetblvdrecords.com/blog/2020/5/8/professor-longhair-the-bach-of-rock
 spotify_data:
   followers: 57842
   id: 2RyY5yFlJh6jIPfMDhHgyD
   popularity: 37
-  url: https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD
+  url: 'https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD'
 status: active
-title: Professor Longhair, Earl King
+title: 'Professor Longhair, Earl King'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1918-12-19'
+death_date: '1980-01-30'
+artist_type: band
 ---
 
 ![](professor_longhair_earl_king.jpg)

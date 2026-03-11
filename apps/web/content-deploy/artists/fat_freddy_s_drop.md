@@ -3,39 +3,41 @@ biography_enhanced_at: '2026-02-10T01:54:51.140996'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:54:51.141006'
 external_urls:
-  spotify: https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS
+  spotify: 'https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS'
   wikipedia: ''
 genres:
-- nz reggae
-- dub
+  - nz reggae
+  - dub
 image_path: 03_Resources/source_material/ArtistPortraits/fat_freddy_s_drop.jpg
 last_updated: '2026-02-10T01:54:51.141008'
 musical_connections:
   collaborators:
-  - DJ Fitchie (Chris Faiumu / DJ Mu)
-  - Joe Dukie (Dallas Tamaira)
-  - The Black Seeds, TrinityRoots, Bongmaster
-  - Jazzanova, Nightmares on Wax, Kid Fonque
+    - DJ Fitchie (Chris Faiumu / DJ Mu)
+    - Joe Dukie (Dallas Tamaira)
+    - 'The Black Seeds, TrinityRoots, Bongmaster'
+    - 'Jazzanova, Nightmares on Wax, Kid Fonque'
   influenced: []
   mentors:
-  - Salmonella Dub
+    - Salmonella Dub
 network_extracted: true
-origin: Wellington, North Island, New Zealand
+origin: 'Wellington, North Island, New Zealand'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Fat+Freddy's+Drop/+wiki
-- https://www.audioculture.co.nz/profile/fat-freddy-s-drop
-- https://goout.net/en/fat-freddys-drop/pzydatf/
-- https://www.fatfreddysdrop.com/bio/
-- https://www.redbullmusicacademy.com/lectures/mu-buddy-and-soul/
-- https://www.musicbailout.net/features-articles/artist-interviews/fat-freddys-drop
+  - 'https://www.last.fm/music/Fat+Freddy''s+Drop/+wiki'
+  - 'https://www.audioculture.co.nz/profile/fat-freddy-s-drop'
+  - 'https://goout.net/en/fat-freddys-drop/pzydatf/'
+  - 'https://www.fatfreddysdrop.com/bio/'
+  - 'https://www.redbullmusicacademy.com/lectures/mu-buddy-and-soul/'
+  - >-
+    https://www.musicbailout.net/features-articles/artist-interviews/fat-freddys-drop
 spotify_data:
   followers: 688717
   id: 32lo0J8u6KZJTwBOIBrdYS
   popularity: 55
-  url: https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS
+  url: 'https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS'
 status: active
-title: Fat Freddy s Drop
+title: Fat Freddy's Drop
+artist_type: person
 ---
 
 ![](fat_freddy_s_drop.jpg)

@@ -1,12 +1,12 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-02-23T03:08:13.763024'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, Jamaica'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:08:13.763038'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6aaac3e0-0307-49f3-a4eb-97b2f34104f5
-  spotify: https://open.spotify.com/artist/7uYmNs2b1VdSRFHqfrgtE3
+  musicbrainz: 'https://musicbrainz.org/artist/6aaac3e0-0307-49f3-a4eb-97b2f34104f5'
+  spotify: 'https://open.spotify.com/artist/7uYmNs2b1VdSRFHqfrgtE3'
   wikipedia: ''
 gender: Female
 genres: []
@@ -14,27 +14,31 @@ image_path: 03_Resources/source_material/ArtistPortraits/nakeeba_amaniyea.jpg
 last_updated: '2026-02-23T03:08:13.763042'
 musical_connections:
   collaborators:
-  - Sister Carol
-  - Mic Blaque
-  - Hi Life Players
+    - Sister Carol
+    - Mic Blaque
+    - Hi Life Players
   influenced: []
   mentors:
-  - Sister Carol
+    - Sister Carol
 musicbrainz_id: 6aaac3e0-0307-49f3-a4eb-97b2f34104f5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jamaicans.com/sister-carol-the-legendary-black-cinderella-of-reggae-music/
-- http://jesterjaymusic.blogspot.com/2012/08/concert-review-sister-carol-and-nakeeba.html
-- https://en.wikipedia.org/wiki/Sister_Carol
-- https://www.dancehallmag.com/2023/09/21/music/sister-carol-daughter-nakeeba-team-up-for-be-alone.html
-- https://www.reverbnation.com/nakeebaamaniyea/song/11959455-what-i-see-w-mic-blaque
-- https://www.riddimstream.com/music/sister-carol-nakeeba-amaniyea-be-alone/
+  - >-
+    https://jamaicans.com/sister-carol-the-legendary-black-cinderella-of-reggae-music/
+  - >-
+    http://jesterjaymusic.blogspot.com/2012/08/concert-review-sister-carol-and-nakeeba.html
+  - 'https://en.wikipedia.org/wiki/Sister_Carol'
+  - >-
+    https://www.dancehallmag.com/2023/09/21/music/sister-carol-daughter-nakeeba-team-up-for-be-alone.html
+  - >-
+    https://www.reverbnation.com/nakeebaamaniyea/song/11959455-what-i-see-w-mic-blaque
+  - 'https://www.riddimstream.com/music/sister-carol-nakeeba-amaniyea-be-alone/'
 spotify_data:
   followers: 80
   id: 7uYmNs2b1VdSRFHqfrgtE3
   popularity: 0
-  url: https://open.spotify.com/artist/7uYmNs2b1VdSRFHqfrgtE3
+  url: 'https://open.spotify.com/artist/7uYmNs2b1VdSRFHqfrgtE3'
 status: active
 title: Nakeeba Amaniyea
 ---

@@ -1,46 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-29T02:04:39.488241'
-birth_place: Connecticut, USA
+birth_place: 'Connecticut, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:04:39.488250'
 external_urls:
-  spotify: https://open.spotify.com/artist/4pouc1dPUG1o045Et4TpbT
+  spotify: 'https://open.spotify.com/artist/4pouc1dPUG1o045Et4TpbT'
   wikipedia: ''
 genres:
-- blues rock
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/ryan_hartt.jpg
 last_updated: '2026-01-29T02:04:39.488252'
 musical_connections:
   collaborators:
-  - Jeffrey Berg
-  - Ryan Hartt & The Blue Hearts
-  - Junior Watson
-  - Rick Holmstrom
+    - Jeffrey Berg
+    - Ryan Hartt & The Blue Hearts
+    - Junior Watson
+    - Rick Holmstrom
   influenced: []
   mentors:
-  - Rod Piazza
-  - Lynwood Slim
-  - Junior Watson
-  - Rick Holmstrom
+    - Rod Piazza
+    - Lynwood Slim
+    - Junior Watson
+    - Rick Holmstrom
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sentirelblues.blogspot.com/2026/01/ryan-hartt-be-about-it.html
-- https://www.makingascene.org/ryan-hartt-be-about-it/
-- https://www.ryanhartt.com/about/
-- https://blues.gr/profiles/blogs/q-a-with-northeast-s-top-harmonica-player-ryan-hartt-rooted-in-th
-- https://www.harmonicahappyhour.com/ryan-hartt-interview/
-- https://www.ryanhartt.com/be-about-it/
-- https://www.americanbluesscene.com/2025/10/ryan-hartt-steps-out-solo-with-be-about-it/
-- http://www.keysandchords.com/music-news/ryan-hartt-releases-new-solo-album-be-about-it-a-soulful-celebration-of-west-coast-and-chicago-blues
-- https://lahoradelblues.com/en/ryan-hartt-the-blue-hearts-call-my-name/
+  - 'https://sentirelblues.blogspot.com/2026/01/ryan-hartt-be-about-it.html'
+  - 'https://www.makingascene.org/ryan-hartt-be-about-it/'
+  - 'https://www.ryanhartt.com/about/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-northeast-s-top-harmonica-player-ryan-hartt-rooted-in-th
+  - 'https://www.harmonicahappyhour.com/ryan-hartt-interview/'
+  - 'https://www.ryanhartt.com/be-about-it/'
+  - >-
+    https://www.americanbluesscene.com/2025/10/ryan-hartt-steps-out-solo-with-be-about-it/
+  - >-
+    http://www.keysandchords.com/music-news/ryan-hartt-releases-new-solo-album-be-about-it-a-soulful-celebration-of-west-coast-and-chicago-blues
+  - 'https://lahoradelblues.com/en/ryan-hartt-the-blue-hearts-call-my-name/'
 spotify_data:
   followers: 55
   id: 4pouc1dPUG1o045Et4TpbT
   popularity: 3
-  url: https://open.spotify.com/artist/4pouc1dPUG1o045Et4TpbT
+  url: 'https://open.spotify.com/artist/4pouc1dPUG1o045Et4TpbT'
 status: active
 title: Ryan Hartt
+artist_type: person
 ---
 
 ![](ryan_hartt.jpg)

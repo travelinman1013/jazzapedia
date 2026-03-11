@@ -1,10 +1,10 @@
 ---
 biography_enhanced_at: '2026-01-23T01:51:19.583007'
-birth_place: Ayacucho, Andes Region, Peru
+birth_place: 'Ayacucho, Andes Region, Peru'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:51:19.583013'
 external_urls:
-  spotify: https://open.spotify.com/artist/7l0rq1RvXM4DaOJct0Owpw
+  spotify: 'https://open.spotify.com/artist/7l0rq1RvXM4DaOJct0Owpw'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/alberto_juscamaita_gastelu.jpg
@@ -12,22 +12,25 @@ last_updated: '2026-01-23T01:51:19.583014'
 musical_connections:
   collaborators: []
   influenced:
-  - Gustavo Yashimura-Arce
+    - Gustavo Yashimura-Arce
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://worldmusiccentral.org/living-legend-of-the-ayacucho-guitar-from-the-peruvian-andes/
-- https://clone.nl/digital/item7135870.html
-- https://www.soundohm.com/product/reminiscences-of-raktako
-- https://deathisnot.bandcamp.com/album/reminiscences-of-raktako-huayno-guitar-from-cuzco-and-ayacucho-1930-1940
+  - >-
+    https://worldmusiccentral.org/living-legend-of-the-ayacucho-guitar-from-the-peruvian-andes/
+  - 'https://clone.nl/digital/item7135870.html'
+  - 'https://www.soundohm.com/product/reminiscences-of-raktako'
+  - >-
+    https://deathisnot.bandcamp.com/album/reminiscences-of-raktako-huayno-guitar-from-cuzco-and-ayacucho-1930-1940
 spotify_data:
   followers: 43
   id: 7l0rq1RvXM4DaOJct0Owpw
   popularity: 4
-  url: https://open.spotify.com/artist/7l0rq1RvXM4DaOJct0Owpw
+  url: 'https://open.spotify.com/artist/7l0rq1RvXM4DaOJct0Owpw'
 status: active
 title: Alberto Juscamaita Gastelu
+artist_type: person
 ---
 
 ![](alberto_juscamaita_gastelu.jpg)

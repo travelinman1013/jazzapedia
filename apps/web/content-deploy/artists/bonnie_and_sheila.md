@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-23T01:50:08.859118'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:50:08.859127'
 external_urls:
-  spotify: https://open.spotify.com/artist/2oiPbHtrplBQ3WHAW8bM3F
+  spotify: 'https://open.spotify.com/artist/2oiPbHtrplBQ3WHAW8bM3F'
   wikipedia: Not found
 genres: []
 image_path: ''
@@ -15,16 +15,18 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sheila_E.
-- https://en.wikipedia.org/wiki/Bonnie_Bramlett
-- https://en.wikipedia.org/wiki/Bonnie_Tyler
+  - 'https://en.wikipedia.org/wiki/Sheila_E.'
+  - 'https://en.wikipedia.org/wiki/Bonnie_Bramlett'
+  - 'https://en.wikipedia.org/wiki/Bonnie_Tyler'
 spotify_data:
   followers: 122
   id: 2oiPbHtrplBQ3WHAW8bM3F
   popularity: 5
-  url: https://open.spotify.com/artist/2oiPbHtrplBQ3WHAW8bM3F
+  url: 'https://open.spotify.com/artist/2oiPbHtrplBQ3WHAW8bM3F'
 status: active
 title: Bonnie and Sheila
+origin: Unknown
+artist_type: band
 ---
 
 ![]()

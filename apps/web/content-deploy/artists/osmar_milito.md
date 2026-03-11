@@ -1,61 +1,62 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c84f80c4-3f93-4008-9294-77b7755bbcc5
-  name: Bossa Rio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: a740351c-495d-483f-8f7e-a3e3f3b205c6
-  name: Osmar Milito & Quarteto Forma
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c84f80c4-3f93-4008-9294-77b7755bbcc5
+    name: Bossa Rio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: a740351c-495d-483f-8f7e-a3e3f3b205c6
+    name: Osmar Milito & Quarteto Forma
 biography_enhanced_at: '2026-03-08T03:01:37.938814'
 birth_date: '1941-05-27'
-birth_place: São Paulo
+birth_place: 'São Paulo, São Paulo, Brazil'
 death_date: '2024-09-23'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:01:37.938822'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9fe5b4d4-ea8f-4da9-aaa0-cbd11efa1fd7
-  spotify: https://open.spotify.com/artist/5P9W0d1skoLUUhaYSTjIXX
-  wikipedia: https://en.wikipedia.org/wiki/Osmar_Milito
+  musicbrainz: 'https://musicbrainz.org/artist/9fe5b4d4-ea8f-4da9-aaa0-cbd11efa1fd7'
+  spotify: 'https://open.spotify.com/artist/5P9W0d1skoLUUhaYSTjIXX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Osmar_Milito'
 gender: Male
 genres:
-- brazilian jazz
+  - brazilian jazz
 image_path: 03_Resources/source_material/ArtistPortraits/osmar_milito.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-03-08T03:01:37.938824'
 musical_connections:
   collaborators:
-  - Elis Regina
-  - Gilberto Gil
-  - Vinicius de Moraes
-  - Hélcio Milito
+    - Elis Regina
+    - Gilberto Gil
+    - Vinicius de Moraes
+    - Hélcio Milito
   influenced: []
   mentors:
-  - Brazilian Music Tradition
+    - Brazilian Music Tradition
 musicbrainz_id: 9fe5b4d4-ea8f-4da9-aaa0-cbd11efa1fd7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.rovr.live/artists/osmar%20milito
-- https://www.last.fm/music/Osmar+Milito/+wiki
-- https://music.apple.com/gr/artist/osmar-milito/62049240
-- https://www.allmusic.com/artist/osmar-milito-mn0000491152
-- https://en.wikipedia.org/wiki/Osmar_Milito
+  - 'https://www.rovr.live/artists/osmar%20milito'
+  - 'https://www.last.fm/music/Osmar+Milito/+wiki'
+  - 'https://music.apple.com/gr/artist/osmar-milito/62049240'
+  - 'https://www.allmusic.com/artist/osmar-milito-mn0000491152'
+  - 'https://en.wikipedia.org/wiki/Osmar_Milito'
 spotify_data:
   followers: 2868
   id: 5P9W0d1skoLUUhaYSTjIXX
   popularity: 16
-  url: https://open.spotify.com/artist/5P9W0d1skoLUUhaYSTjIXX
+  url: 'https://open.spotify.com/artist/5P9W0d1skoLUUhaYSTjIXX'
 status: active
 tags:
-- bossa nova
+  - bossa nova
 title: Osmar Milito
+is_active: false
 ---
 
 ![](osmar_milito.jpg)

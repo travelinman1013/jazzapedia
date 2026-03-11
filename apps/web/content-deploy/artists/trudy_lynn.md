@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-28T01:46:42.042372'
-birth_place: Houston, Fifth Ward, Texas, USA
+birth_place: 'Houston, Fifth Ward, Texas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:46:42.042378'
 external_urls:
-  spotify: https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz
+  spotify: 'https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz'
   wikipedia: ''
 genres:
-- soul blues
-- blues
+  - soul blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/trudy_lynn.jpg
 last_updated: '2026-02-28T01:46:42.042379'
 musical_connections:
   collaborators:
-  - Gary B.B. Coleman
-  - Steve Krase
-  - Calvin Owens
-  - I.J. Gosey
+    - Gary B.B. Coleman
+    - Steve Krase
+    - Calvin Owens
+    - I.J. Gosey
   influenced: []
   mentors:
-  - Albert Collins
-  - Clarence Green
+    - Albert Collins
+    - Clarence Green
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.houstoniamag.com/news-and-city-life/2020/06/trudy-lynn-blues-singer
-- https://digital.livingblues.com/articles/trudy-lynn
-- https://www.bluesblastmagazine.com/featured-interview-trudy-lynn-2/
-- https://trudylynn.com/about
-- https://lowtonemusic.com/artists/trudy-lynn/
-- https://www.ilblues.org/trudy-lynn-interview/
-- https://lahoradelblues.com/en/trudy-lynn-golden-girl/
-- http://www.connorraymusic.com/trudy-lynn.html
+  - >-
+    https://www.houstoniamag.com/news-and-city-life/2020/06/trudy-lynn-blues-singer
+  - 'https://digital.livingblues.com/articles/trudy-lynn'
+  - 'https://www.bluesblastmagazine.com/featured-interview-trudy-lynn-2/'
+  - 'https://trudylynn.com/about'
+  - 'https://lowtonemusic.com/artists/trudy-lynn/'
+  - 'https://www.ilblues.org/trudy-lynn-interview/'
+  - 'https://lahoradelblues.com/en/trudy-lynn-golden-girl/'
+  - 'http://www.connorraymusic.com/trudy-lynn.html'
 spotify_data:
   followers: 2290
   id: 1fh5pVts7jbJuDSUwWLfAz
   popularity: 9
-  url: https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz
+  url: 'https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz'
 status: active
 title: Trudy Lynn
+artist_type: person
 ---
 
 ![](trudy_lynn.jpg)

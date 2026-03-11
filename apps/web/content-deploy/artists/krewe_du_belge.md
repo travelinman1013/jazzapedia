@@ -1,64 +1,64 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-07T01:23:54.684231'
 birth_date: '2018'
 disambiguation: Belgian swing / jazz / funk / brass band
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:23:54.684242'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/03574c21-823f-443c-88dd-fa3ec052639e
-  spotify: https://open.spotify.com/artist/4RBUkMExQBg9KBkyfpJXr8
+  musicbrainz: 'https://musicbrainz.org/artist/03574c21-823f-443c-88dd-fa3ec052639e'
+  spotify: 'https://open.spotify.com/artist/4RBUkMExQBg9KBkyfpJXr8'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/krewe_du_belge.jpg
 instruments:
-- trombone
-- lead vocals
-- keyboard
+  - trombone
+  - lead vocals
+  - keyboard
 last_updated: '2026-02-07T01:23:54.684245'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: e695a759-f68f-4868-b906-871a1004295d
-  name: Christophe Mercier
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: ece83332-26c9-46fc-8a76-73323cf28a09
-  name: Vanessa Tanghe
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: ece83332-26c9-46fc-8a76-73323cf28a09
-  name: Vanessa Tanghe
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: e695a759-f68f-4868-b906-871a1004295d
+    name: Christophe Mercier
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: ece83332-26c9-46fc-8a76-73323cf28a09
+    name: Vanessa Tanghe
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: ece83332-26c9-46fc-8a76-73323cf28a09
+    name: Vanessa Tanghe
 musical_connections:
   collaborators:
-  - Vanessa Tanghe
-  - Christophe Mercier
-  - New Orleans local musicians
+    - Vanessa Tanghe
+    - Christophe Mercier
+    - New Orleans local musicians
   influenced: []
   mentors: []
 musicbrainz_id: 03574c21-823f-443c-88dd-fa3ec052639e
 network_extracted: true
-origin: Brussels
+origin: 'Brussels, Brussels-Capital Region, Belgium'
 primary_source: perplexity
 research_sources:
-- https://jazzinbelgium.be/en/bands/4555/krewe-du-belge
-- https://lottobrusselsjazzweekend.be/program.php
-- https://www.stepbyrecords.com/copy-of-redmond-mercier-beckett
-- https://www.krewe.be/en
-- https://jazzinbelgium.be/en/events/66211/krewe-du-belge-at-music-village
+  - 'https://jazzinbelgium.be/en/bands/4555/krewe-du-belge'
+  - 'https://lottobrusselsjazzweekend.be/program.php'
+  - 'https://www.stepbyrecords.com/copy-of-redmond-mercier-beckett'
+  - 'https://www.krewe.be/en'
+  - 'https://jazzinbelgium.be/en/events/66211/krewe-du-belge-at-music-village'
 spotify_data:
   followers: 82
   id: 4RBUkMExQBg9KBkyfpJXr8
   popularity: 0
-  url: https://open.spotify.com/artist/4RBUkMExQBg9KBkyfpJXr8
+  url: 'https://open.spotify.com/artist/4RBUkMExQBg9KBkyfpJXr8'
 status: active
-title: krewe du belge
+title: Krewe DU Belge
 ---
 
 ![](krewe_du_belge.jpg)

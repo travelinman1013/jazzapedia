@@ -1,39 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-10T01:59:49.923364'
-birth_place: Brownsville, Brooklyn, New York City, USA
+birth_place: 'Brownsville, Brooklyn, New York City, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:59:49.923374'
 external_urls:
-  spotify: https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe
-  wikipedia: https://en.wikipedia.org/wiki/John_Fort%C3%A9
+  spotify: 'https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Fort%C3%A9'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/wyclef_jean_jon_forte_pras.jpg
 last_updated: '2026-02-10T01:59:49.923376'
 musical_connections:
   collaborators:
-  - Fugees (Wyclef Jean, Lauryn Hill, Pras)
-  - Wyclef Jean
-  - Pras
-  - DMX
-  - Fat Joe
+    - 'Fugees (Wyclef Jean, Lauryn Hill, Pras)'
+    - Wyclef Jean
+    - Pras
+    - DMX
+    - Fat Joe
   influenced: []
   mentors:
-  - Lauryn Hill
+    - Lauryn Hill
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_Fort%C3%A9
-- https://charlessennott.substack.com/p/remembering-john-forte-and-why-you
-- https://hiphopdx.com/news/john-forte-dead-fugees/
-- https://exeter.edu/people/john-forte/
-- https://www.curacaonorthseajazz.com/en/program/2015/saturday-5-september/00016-wyclef-jean
+  - 'https://en.wikipedia.org/wiki/John_Fort%C3%A9'
+  - 'https://charlessennott.substack.com/p/remembering-john-forte-and-why-you'
+  - 'https://hiphopdx.com/news/john-forte-dead-fugees/'
+  - 'https://exeter.edu/people/john-forte/'
+  - >-
+    https://www.curacaonorthseajazz.com/en/program/2015/saturday-5-september/00016-wyclef-jean
 spotify_data:
   followers: 461858
   id: 7aBzpmFXB4WWpPl2F7RjBe
   popularity: 73
-  url: https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe
+  url: 'https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe'
 status: active
-title: wyclef jean/ Jon Forte/ Pras
+title: Wyclef Jean/ Jon Forte/ Pras
+birth_date: '1975-01-30'
+death_date: '2026-01-12'
+artist_type: person
 ---
 
 ![](wyclef_jean_jon_forte_pras.jpg)

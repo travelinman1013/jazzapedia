@@ -3,44 +3,46 @@ biography_enhanced_at: '2026-02-18T01:36:32.654386'
 enhancement_provider: perplexity
 entry_created: '2026-02-18T01:36:32.654404'
 external_urls:
-  spotify: https://open.spotify.com/artist/1v1OQb42mLMk1qT3wyiNEu
+  spotify: 'https://open.spotify.com/artist/1v1OQb42mLMk1qT3wyiNEu'
   wikipedia: Not found in search results
 genres:
-- calypso
-- rocksteady
+  - calypso
+  - rocksteady
 image_path: 03_Resources/source_material/ArtistPortraits/jolly_boys.jpg
 last_updated: '2026-02-18T01:36:32.654406'
 musical_connections:
   collaborators:
-  - Albert Minott
-  - Joseph 'Powder' Bennett
-  - Derrick 'Johnny' Henry
-  - Egbert Watson
-  - Dale Virgo
-  - Sade
+    - Albert Minott
+    - Joseph 'Powder' Bennett
+    - Derrick 'Johnny' Henry
+    - Egbert Watson
+    - Dale Virgo
+    - Sade
   influenced:
-  - Reggae and Ska musicians
+    - Reggae and Ska musicians
   mentors:
-  - Moses Deans
-  - Jon Baker
-  - Daniel Neely
+    - Moses Deans
+    - Jon Baker
+    - Daniel Neely
 network_extracted: true
-origin: Port Antonio, Jamaica
+origin: 'Port Antonio, Jamaica'
 primary_source: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/the-jolly-boys/about/
-- https://monkeybizmanagement.com/project/the-jolly-boys/
-- https://mentomusic.com/thejollyboys.htm
-- https://mmusicmag.com/m/2011/08/the-jolly-boys/
-- https://www.youtube.com/watch?v=XDzzlNX-h7Q
-- https://www.kunc.org/2011-05-10/jolly-boys-aging-jamaican-troubadours-go-rock
+  - 'https://www.reggaeville.com/artist-details/the-jolly-boys/about/'
+  - 'https://monkeybizmanagement.com/project/the-jolly-boys/'
+  - 'https://mentomusic.com/thejollyboys.htm'
+  - 'https://mmusicmag.com/m/2011/08/the-jolly-boys/'
+  - 'https://www.youtube.com/watch?v=XDzzlNX-h7Q'
+  - >-
+    https://www.kunc.org/2011-05-10/jolly-boys-aging-jamaican-troubadours-go-rock
 spotify_data:
   followers: 18965
   id: 1v1OQb42mLMk1qT3wyiNEu
   popularity: 21
-  url: https://open.spotify.com/artist/1v1OQb42mLMk1qT3wyiNEu
+  url: 'https://open.spotify.com/artist/1v1OQb42mLMk1qT3wyiNEu'
 status: active
-title: JOLLY BOYS
+title: The Jolly Boys
+artist_type: band
 ---
 
 ![](jolly_boys.jpg)

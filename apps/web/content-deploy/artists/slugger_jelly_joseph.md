@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-03T02:11:40.489608'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:11:40.489625'
 external_urls:
-  spotify: https://open.spotify.com/artist/5LZl4VR0S5S5LQMesiaJpb
+  spotify: 'https://open.spotify.com/artist/5LZl4VR0S5S5LQMesiaJpb'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-02-03T02:11:40.489629'
 musical_connections:
   collaborators:
-  - Galactic
-  - Tank and The Bangas
-  - Big Freedia
-  - HaSizzle
-  - Lyrics Born
-  - Nigel Hall
-  - G-Eazy
-  - Cha Wa
+    - Galactic
+    - Tank and The Bangas
+    - Big Freedia
+    - HaSizzle
+    - Lyrics Born
+    - Nigel Hall
+    - G-Eazy
+    - Cha Wa
   influenced: []
   mentors:
-  - Aretha Franklin
-  - Etta James
+    - Aretha Franklin
+    - Etta James
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://hardlystrictlybluegrass.com/artist/galactic-f-anjelika-jelly-joseph/
-- https://www.viberate.com/artist/anjelika-jelly-joseph/
-- https://www.offbeat.com/articles/anjelika-jelly-joseph-talks-back/
-- https://www.telluridejazz.org/galactic-featuring-anjelika-jelly-joseph
-- https://www.myneworleans.com/jamnola-announces-anjelika-jelly-joseph-as-its-music-ambassador-offers-locals-50-off-thru-december/
-- https://www.neworleans.com/listing/anjelika-jelly-joseph/46298/
+  - 'https://hardlystrictlybluegrass.com/artist/galactic-f-anjelika-jelly-joseph/'
+  - 'https://www.viberate.com/artist/anjelika-jelly-joseph/'
+  - 'https://www.offbeat.com/articles/anjelika-jelly-joseph-talks-back/'
+  - 'https://www.telluridejazz.org/galactic-featuring-anjelika-jelly-joseph'
+  - >-
+    https://www.myneworleans.com/jamnola-announces-anjelika-jelly-joseph-as-its-music-ambassador-offers-locals-50-off-thru-december/
+  - 'https://www.neworleans.com/listing/anjelika-jelly-joseph/46298/'
 spotify_data:
   followers: 115
   id: 5LZl4VR0S5S5LQMesiaJpb
   popularity: 16
-  url: https://open.spotify.com/artist/5LZl4VR0S5S5LQMesiaJpb
+  url: 'https://open.spotify.com/artist/5LZl4VR0S5S5LQMesiaJpb'
 status: active
 title: Slugger/ Jelly Joseph
+artist_type: person
 ---
 
 ![]()

@@ -3,11 +3,11 @@ biography_enhanced_at: '2026-01-26T01:36:03.418205'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:36:03.418223'
 external_urls:
-  spotify: https://open.spotify.com/artist/1i3DbrMVZPc6KLoGif0UUS
+  spotify: 'https://open.spotify.com/artist/1i3DbrMVZPc6KLoGif0UUS'
   wikipedia: null
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: ''
 last_updated: '2026-01-26T01:36:03.418228'
 musical_connections:
@@ -15,17 +15,18 @@ musical_connections:
   influenced: []
   mentors: []
 network_extracted: true
-origin: Louisiana, United States
+origin: 'Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=mON5VZouaRM
+  - 'https://www.youtube.com/watch?v=mON5VZouaRM'
 spotify_data:
   followers: 2
   id: 1i3DbrMVZPc6KLoGif0UUS
   popularity: 0
-  url: https://open.spotify.com/artist/1i3DbrMVZPc6KLoGif0UUS
+  url: 'https://open.spotify.com/artist/1i3DbrMVZPc6KLoGif0UUS'
 status: active
 title: Louis Spell & His French Serenaders
+artist_type: band
 ---
 
 ![]()

@@ -1,49 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-27T01:55:02.851838'
-birth_place: Kentwood, Louisiana, USA
+birth_place: 'Kentwood, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:55:02.851845'
 external_urls:
-  spotify: https://open.spotify.com/artist/2pFSVrAM9zD4qI2uvINo75
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Gayten
+  spotify: 'https://open.spotify.com/artist/2pFSVrAM9zD4qI2uvINo75'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Gayten'
 genres: []
 image_path: ''
 last_updated: '2026-01-27T01:55:02.851846'
 musical_connections:
   collaborators:
-  - Annie Laurie
-  - Hank Mobley
-  - Little Jimmy Scott
-  - Clarence 'Frogman' Henry
-  - Chuck Berry
-  - Lee Allen
-  - Earl Palmer
-  - Edgar Blanchard
-  - Larry Darnell
-  - Bobby Charles
+    - Annie Laurie
+    - Hank Mobley
+    - Little Jimmy Scott
+    - Clarence 'Frogman' Henry
+    - Chuck Berry
+    - Lee Allen
+    - Earl Palmer
+    - Edgar Blanchard
+    - Larry Darnell
+    - Bobby Charles
   influenced:
-  - Clarence 'Frogman' Henry
-  - Eddie Bo
+    - Clarence 'Frogman' Henry
+    - Eddie Bo
   mentors:
-  - Little Brother Montgomery
+    - Little Brother Montgomery
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Paul+Gayten/+wiki
-- https://en.wikipedia.org/wiki/Paul_Gayten
-- https://fromthevaults-boppinbob.blogspot.com/2017/01/paul-gayten-born-29-january-1920.html
-- https://kids.kiddle.co/Paul_Gayten
-- https://www.spontaneouslunacy.net/artists-paul-gayten/
-- http://www.davetill.com/wonders/gayten.html
-- https://www.rocknroll-schallplatten-forum.de/topic.php?t=4923
-- https://tims.blackcat.nl/messages/paul_gayten.htm
+  - 'https://www.last.fm/music/Paul+Gayten/+wiki'
+  - 'https://en.wikipedia.org/wiki/Paul_Gayten'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2017/01/paul-gayten-born-29-january-1920.html
+  - 'https://kids.kiddle.co/Paul_Gayten'
+  - 'https://www.spontaneouslunacy.net/artists-paul-gayten/'
+  - 'http://www.davetill.com/wonders/gayten.html'
+  - 'https://www.rocknroll-schallplatten-forum.de/topic.php?t=4923'
+  - 'https://tims.blackcat.nl/messages/paul_gayten.htm'
 spotify_data:
   followers: 1
   id: 2pFSVrAM9zD4qI2uvINo75
   popularity: 0
-  url: https://open.spotify.com/artist/2pFSVrAM9zD4qI2uvINo75
+  url: 'https://open.spotify.com/artist/2pFSVrAM9zD4qI2uvINo75'
 status: active
-title: PAUL GAYTEN AND HIS ORCHESTRA
+title: Paul Gayten and His Orchestra
+birth_date: '1920-01-29'
+death_date: '1991-03-26'
+artist_type: band
 ---
 
 ![]()

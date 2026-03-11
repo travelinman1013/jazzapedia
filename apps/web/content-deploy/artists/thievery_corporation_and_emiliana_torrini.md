@@ -3,41 +3,43 @@ biography_enhanced_at: '2026-01-28T01:50:41.762124'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:50:41.762139'
 external_urls:
-  spotify: https://open.spotify.com/artist/2bUTynbgHIDZKQCoPKMfXx
+  spotify: 'https://open.spotify.com/artist/2bUTynbgHIDZKQCoPKMfXx'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-28T01:50:41.762142'
 musical_connections:
   collaborators:
-  - Emiliana Torrini
-  - Pam Bricker
-  - Loulou
-  - David Byrne
-  - Perry Farrell
-  - Wayne Coyne (The Flaming Lips)
+    - Emiliana Torrini
+    - Pam Bricker
+    - Loulou
+    - David Byrne
+    - Perry Farrell
+    - Wayne Coyne (The Flaming Lips)
   influenced: []
   mentors:
-  - Dischord Records (DIY ethos)
+    - Dischord Records (DIY ethos)
 network_extracted: true
-origin: Washington, D.C., United States
+origin: 'Washington, D.C., United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Thievery+Corporation/+wiki
-- https://peel.fandom.com/wiki/Thievery_Corporation
-- https://www.laphil.com/musicdb/artists/5267/thievery-corporation
-- https://www.bighassle.com/thievery-corporation
-- https://thieverycorporation.com/aboutm/
-- https://www.oregonmusicnews.com/rob-garza-q-and-a-thievery-corporation
-- https://www.reggaeville.com/artist-details/thievery-corporation/about/
-- https://balkanrock.com/english/rob-garza-thievery-corporation-music-has-always-been-a-powerful-tool-for-social-change/
+  - 'https://www.last.fm/music/Thievery+Corporation/+wiki'
+  - 'https://peel.fandom.com/wiki/Thievery_Corporation'
+  - 'https://www.laphil.com/musicdb/artists/5267/thievery-corporation'
+  - 'https://www.bighassle.com/thievery-corporation'
+  - 'https://thieverycorporation.com/aboutm/'
+  - 'https://www.oregonmusicnews.com/rob-garza-q-and-a-thievery-corporation'
+  - 'https://www.reggaeville.com/artist-details/thievery-corporation/about/'
+  - >-
+    https://balkanrock.com/english/rob-garza-thievery-corporation-music-has-always-been-a-powerful-tool-for-social-change/
 spotify_data:
   followers: 92
   id: 2bUTynbgHIDZKQCoPKMfXx
   popularity: 12
-  url: https://open.spotify.com/artist/2bUTynbgHIDZKQCoPKMfXx
+  url: 'https://open.spotify.com/artist/2bUTynbgHIDZKQCoPKMfXx'
 status: active
 title: Thievery Corporation & Emiliana Torrini
+artist_type: band
 ---
 
 ![]()

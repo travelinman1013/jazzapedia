@@ -1,42 +1,47 @@
 ---
 biography_enhanced_at: '2026-03-04T01:45:26.386083'
-birth_place: Baltimore, Maryland, USA
+birth_place: 'Baltimore, Maryland, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-04T01:45:26.386090'
 external_urls:
-  spotify: https://open.spotify.com/artist/744yLv8lzt9kr4TxJFsSFT
-  wikipedia: https://en.wikipedia.org/wiki/Nourished_by_Time
+  spotify: 'https://open.spotify.com/artist/744yLv8lzt9kr4TxJFsSFT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nourished_by_Time'
 genres:
-- children's music
+  - children's music
 image_path: 03_Resources/source_material/ArtistPortraits/ms_ray_and_nourished_by_time.jpg
 last_updated: '2026-03-04T01:45:26.386091'
 musical_connections:
   collaborators:
-  - Ms Ray
-  - Chase
+    - Ms Ray
+    - Chase
   influenced: []
   mentors:
-  - Pat Pattison
-  - Unnamed high school guitar teacher
-  - Father
+    - Pat Pattison
+    - Unnamed high school guitar teacher
+    - Father
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.cultclassicmag.com/feed/nourished-by-time
-- https://toneglow.substack.com/p/tone-glow-133-nourished-by-time
-- https://en.wikipedia.org/wiki/Nourished_by_Time
-- https://nationaltoday.com/us/md/baltimore/news/2026/02/13/ms-ray-and-nourished-by-time-release-collaborative-single-miss-you/
-- https://crackmagazine.net/article/profiles/nourished-by-time-cover-story-interview/
-- https://www.thelineofbestfit.com/news/nourished-by-time-ms-ray-on-new-single-miss-you
-- https://www.hinterlandiowa.com/artist/nourished-by-time
-- https://www.clashmusic.com/news/ms-ray-links-with-nourished-by-time-for-miss-you/
+  - 'https://www.cultclassicmag.com/feed/nourished-by-time'
+  - 'https://toneglow.substack.com/p/tone-glow-133-nourished-by-time'
+  - 'https://en.wikipedia.org/wiki/Nourished_by_Time'
+  - >-
+    https://nationaltoday.com/us/md/baltimore/news/2026/02/13/ms-ray-and-nourished-by-time-release-collaborative-single-miss-you/
+  - >-
+    https://crackmagazine.net/article/profiles/nourished-by-time-cover-story-interview/
+  - >-
+    https://www.thelineofbestfit.com/news/nourished-by-time-ms-ray-on-new-single-miss-you
+  - 'https://www.hinterlandiowa.com/artist/nourished-by-time'
+  - >-
+    https://www.clashmusic.com/news/ms-ray-links-with-nourished-by-time-for-miss-you/
 spotify_data:
   followers: 49932
   id: 744yLv8lzt9kr4TxJFsSFT
   popularity: 51
-  url: https://open.spotify.com/artist/744yLv8lzt9kr4TxJFsSFT
+  url: 'https://open.spotify.com/artist/744yLv8lzt9kr4TxJFsSFT'
 status: active
 title: Ms Ray & Nourished by Time
+artist_type: person
 ---
 
 ![](ms_ray_and_nourished_by_time.jpg)

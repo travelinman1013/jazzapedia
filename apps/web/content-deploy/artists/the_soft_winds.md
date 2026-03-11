@@ -3,36 +3,37 @@ biography_enhanced_at: '2026-02-02T01:40:54.673064'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:40:54.673074'
 external_urls:
-  spotify: https://open.spotify.com/artist/63rpmaHH9fbDKF6zN4fYxE
+  spotify: 'https://open.spotify.com/artist/63rpmaHH9fbDKF6zN4fYxE'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_soft_winds.jpg
 last_updated: '2026-02-02T01:40:54.673076'
 musical_connections:
   collaborators:
-  - Herb Ellis
-  - Lou Carter
-  - John Frigo
-  - Keter Betts
+    - Herb Ellis
+    - Lou Carter
+    - John Frigo
+    - Keter Betts
   influenced: []
   mentors:
-  - Jimmy Dorsey
+    - Jimmy Dorsey
 network_extracted: true
 origin: United States (origins tied to Jimmy Dorsey Orchestra tours)
 primary_source: perplexity
 research_sources:
-- https://music.apple.com/us/artist/the-soft-winds/80873226
-- https://www.allmusic.com/artist/the-soft-winds-mn0000038580
-- https://www.jazzmusicarchives.com/artist/the-soft-winds
-- https://richardvacca.com/when-soft-winds-blew/
-- https://swingandbeyond.com/2016/08/26/soft-winds-erskine-hawkins-1940/
+  - 'https://music.apple.com/us/artist/the-soft-winds/80873226'
+  - 'https://www.allmusic.com/artist/the-soft-winds-mn0000038580'
+  - 'https://www.jazzmusicarchives.com/artist/the-soft-winds'
+  - 'https://richardvacca.com/when-soft-winds-blew/'
+  - 'https://swingandbeyond.com/2016/08/26/soft-winds-erskine-hawkins-1940/'
 spotify_data:
   followers: 25
   id: 63rpmaHH9fbDKF6zN4fYxE
   popularity: 0
-  url: https://open.spotify.com/artist/63rpmaHH9fbDKF6zN4fYxE
+  url: 'https://open.spotify.com/artist/63rpmaHH9fbDKF6zN4fYxE'
 status: active
 title: The Soft Winds
+artist_type: person
 ---
 
 ![](the_soft_winds.jpg)

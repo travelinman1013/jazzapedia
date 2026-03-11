@@ -2,53 +2,56 @@
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:35:12.625329'
 birth_date: '1933-03-05'
-birth_place: Springfield
+birth_place: 'Springfield, Ohio, United States'
 death_date: '1982-01-22'
 disambiguation: blues
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:35:12.625338'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/45493638-c230-4dd0-846d-62d13be417e7
-  spotify: https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf
-  wikipedia: https://en.wikipedia.org/wiki/Tommy_Tucker_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/45493638-c230-4dd0-846d-62d13be417e7'
+  spotify: 'https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tommy_Tucker_(singer)'
 gender: Male
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/tommy_tucker.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-03-03T01:35:12.625340'
 musical_connections:
   collaborators:
-  - Welton 'Dean' Young
-  - Brenda Jones-Melson
-  - Herb Abramson
-  - Willie Dixon
-  - Donny Hathaway
-  - Bobby Wood
+    - Welton 'Dean' Young
+    - Brenda Jones-Melson
+    - Herb Abramson
+    - Willie Dixon
+    - Donny Hathaway
+    - Bobby Wood
   influenced: []
   mentors:
-  - Ray Charles
+    - Ray Charles
 musicbrainz_id: 45493638-c230-4dd0-846d-62d13be417e7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Tommy+Tucker/+wiki
-- https://en.wikipedia.org/wiki/Tommy_Tucker_(singer)
-- https://wbssmedia.com/artists/detail/241
-- https://fromthevaults-boppinbob.blogspot.com/2013/03/tommy-tucker-born-5-march-1933.html
-- https://opalnations.com/files/Tucker_Tommy.pdf
-- http://www.soulwalking.co.uk/Tommy%20Tucker.html
+  - 'https://www.last.fm/music/Tommy+Tucker/+wiki'
+  - 'https://en.wikipedia.org/wiki/Tommy_Tucker_(singer)'
+  - 'https://wbssmedia.com/artists/detail/241'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2013/03/tommy-tucker-born-5-march-1933.html
+  - 'https://opalnations.com/files/Tucker_Tommy.pdf'
+  - 'http://www.soulwalking.co.uk/Tommy%20Tucker.html'
 spotify_data:
   followers: 2921
   id: 3Hu7yAx1kVULnXjSznYZRf
   popularity: 23
-  url: https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf
+  url: 'https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf'
 status: active
 tags:
-- 2008 universal fire victim
-title: TOMMY TUCKER
+  - 2008 universal fire victim
+title: Tommy Tucker
+is_active: false
+origin: 'Newark, New Jersey, United States'
 ---
 
 ![](tommy_tucker.jpg)

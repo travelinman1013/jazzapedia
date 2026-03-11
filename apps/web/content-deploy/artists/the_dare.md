@@ -1,38 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-29T02:06:53.870505'
-birth_place: Outside Seattle, Washington, USA
+birth_place: 'Outside Seattle, Washington, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:06:53.870516'
 external_urls:
-  spotify: https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb
+  spotify: 'https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb'
   wikipedia: ''
 genres:
-- electroclash
+  - electroclash
 image_path: 03_Resources/source_material/ArtistPortraits/the_dare.jpg
 last_updated: '2026-01-29T02:06:53.870518'
 musical_connections:
   collaborators:
-  - Charli XCX
-  - Water From Your Eyes
-  - Coco & Clair Clair
+    - Charli XCX
+    - Water From Your Eyes
+    - Coco & Clair Clair
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://theface.com/music/the-dare-interview-harrison-patrick-smith-girls-london
-- https://notion.online/the-dare/
-- https://hashbrandnew.com/Artists/The+Dare
-- https://officemagazine.net/bad-taste-dare-tells-all
-- https://readrange.com/the-dare-frequencies-review/
-- https://herbsundays.substack.com/p/herb-sundays-83-the-dare
+  - >-
+    https://theface.com/music/the-dare-interview-harrison-patrick-smith-girls-london
+  - 'https://notion.online/the-dare/'
+  - 'https://hashbrandnew.com/Artists/The+Dare'
+  - 'https://officemagazine.net/bad-taste-dare-tells-all'
+  - 'https://readrange.com/the-dare-frequencies-review/'
+  - 'https://herbsundays.substack.com/p/herb-sundays-83-the-dare'
 spotify_data:
   followers: 180501
   id: 2mqiqsaX4LzFnUP7PmHGAb
   popularity: 53
-  url: https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb
+  url: 'https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb'
 status: active
 title: The Dare
+artist_type: person
 ---
 
 ![](the_dare.jpg)

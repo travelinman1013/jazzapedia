@@ -1,12 +1,12 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-02-03T02:00:03.166021'
-birth_place: Matanzas
+birth_place: 'Bolondrón, Matanzas Province, Cuba'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:00:03.166027'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/921b9e61-f8cd-40e1-961d-ec2ad41da372
-  spotify: https://open.spotify.com/artist/4meSWf7I46Vl7JQTWuxPKp
+  musicbrainz: 'https://musicbrainz.org/artist/921b9e61-f8cd-40e1-961d-ec2ad41da372'
+  spotify: 'https://open.spotify.com/artist/4meSWf7I46Vl7JQTWuxPKp'
   wikipedia: null
 gender: Female
 genres: []
@@ -14,33 +14,37 @@ image_path: 03_Resources/source_material/ArtistPortraits/niuver.jpg
 last_updated: '2026-02-03T02:00:03.166028'
 musical_connections:
   collaborators:
-  - Ariés
-  - Umberto Pagnini
-  - Julien Chirol and Pierre-Yves Jamain
-  - Ricardo Arjona
+    - Ariés
+    - Umberto Pagnini
+    - Julien Chirol and Pierre-Yves Jamain
+    - Ricardo Arjona
   influenced:
-  - Students at ENA (Cuba) and Metz-Sablon and Yamaha Schools of Music (France)
+    - >-
+      Students at ENA (Cuba) and Metz-Sablon and Yamaha Schools of Music
+      (France)
   mentors:
-  - ENA Teachers (National School of Arts, Havana)
-  - Raúl Paz
+    - 'ENA Teachers (National School of Arts, Havana)'
+    - Raúl Paz
 musicbrainz_id: 921b9e61-f8cd-40e1-961d-ec2ad41da372
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.francerocks.com/artist/niuver/
-- https://www.musicmetricsvault.com/artists/niuver/4meSWf7I46Vl7JQTWuxPKp
-- https://www.womex.com/virtual/stories/niuver
-- https://www.cubaplusmagazine.com/en/culture/music/niuver-music-in-the-soul.html
-- https://makemusicday.org/miami/listings/artists/3bbacefe-8b08-4802-a791-ff66b9a5c3b2
-- https://www.gomap.az/info/Detailed_News.aspx?id=956&lng=en
+  - 'https://www.francerocks.com/artist/niuver/'
+  - 'https://www.musicmetricsvault.com/artists/niuver/4meSWf7I46Vl7JQTWuxPKp'
+  - 'https://www.womex.com/virtual/stories/niuver'
+  - >-
+    https://www.cubaplusmagazine.com/en/culture/music/niuver-music-in-the-soul.html
+  - >-
+    https://makemusicday.org/miami/listings/artists/3bbacefe-8b08-4802-a791-ff66b9a5c3b2
+  - 'https://www.gomap.az/info/Detailed_News.aspx?id=956&lng=en'
 spotify_data:
   followers: 6445
   id: 4meSWf7I46Vl7JQTWuxPKp
   popularity: 37
-  url: https://open.spotify.com/artist/4meSWf7I46Vl7JQTWuxPKp
+  url: 'https://open.spotify.com/artist/4meSWf7I46Vl7JQTWuxPKp'
 status: active
 tags:
-- latin
+  - latin
 title: Niuver
 ---
 

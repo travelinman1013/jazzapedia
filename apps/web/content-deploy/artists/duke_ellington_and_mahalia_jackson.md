@@ -3,41 +3,55 @@ biography_enhanced_at: '2026-02-19T01:58:53.362317'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:58:53.362326'
 external_urls:
-  spotify: https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A
-  wikipedia: https://en.wikipedia.org/wiki/Black,_Brown_and_Beige
+  spotify: 'https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A'
+  wikipedia: 'https://en.wikipedia.org/wiki/Black,_Brown_and_Beige'
 genres:
-- jazz
-- big band
-- swing music
-- cool jazz
-- jazz ballads
-image_path: 03_Resources/source_material/ArtistPortraits/duke_ellington_and_mahalia_jackson.jpg
+  - jazz
+  - big band
+  - swing music
+  - cool jazz
+  - jazz ballads
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/duke_ellington_and_mahalia_jackson.jpg
 last_updated: '2026-02-19T01:58:53.362327'
 musical_connections:
   collaborators:
-  - Mahalia Jackson
-  - Ray Nance
-  - Harry Carney
+    - Mahalia Jackson
+    - Ray Nance
+    - Harry Carney
   influenced:
-  - Duke Ellington (influenced by Mahalia Jackson)
+    - Duke Ellington (influenced by Mahalia Jackson)
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.wyso.org/show/middaymusic/2023-11-03/the-springfield-jazz-symphony-orchestra-celebrates-the-music-of-mahalia-jackson-and-duke-ellington
-- https://jazzjournal.co.uk/2024/02/23/duke-ellington-mahalia-jackson-black-brown-and-beige/
-- https://jarretthousenorth.com/2022/11/05/duke-ellington-black-brown-and-beige/
-- https://www.nepm.org/jazz-world/2019-01-21/mlk-mahalia-jackson-duke-ellington-and-the-freedom-movement
-- https://www.musicinst.org/news/music-meditation-ellington-and-mahalia-jackson
-- https://www.laphil.com/musicdb/pieces/4812/come-sunday-from-black-brown-and-beige
-- https://en.wikipedia.org/wiki/Black,_Brown_and_Beige
+  - >-
+    https://www.wyso.org/show/middaymusic/2023-11-03/the-springfield-jazz-symphony-orchestra-celebrates-the-music-of-mahalia-jackson-and-duke-ellington
+  - >-
+    https://jazzjournal.co.uk/2024/02/23/duke-ellington-mahalia-jackson-black-brown-and-beige/
+  - >-
+    https://jarretthousenorth.com/2022/11/05/duke-ellington-black-brown-and-beige/
+  - >-
+    https://www.nepm.org/jazz-world/2019-01-21/mlk-mahalia-jackson-duke-ellington-and-the-freedom-movement
+  - >-
+    https://www.musicinst.org/news/music-meditation-ellington-and-mahalia-jackson
+  - >-
+    https://www.laphil.com/musicdb/pieces/4812/come-sunday-from-black-brown-and-beige
+  - 'https://en.wikipedia.org/wiki/Black,_Brown_and_Beige'
 spotify_data:
   followers: 985519
   id: 4F7Q5NV6h5TSwCainz8S5A
   popularity: 58
-  url: https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A
+  url: 'https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A'
 status: active
-title: duke ellington and mahalia jackson
+title: Duke Ellington and Mahalia Jackson
+birth_place: 'Washington, D.C., United States'
+origin: >-
+  Duke Ellington: Washington, D.C., USA; Mahalia Jackson: New Orleans,
+  Louisiana, USA
+birth_date: '1899-04-29'
+death_date: '1974-05-24'
+artist_type: person
 ---
 
 ![](duke_ellington_and_mahalia_jackson.jpg)

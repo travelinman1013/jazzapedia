@@ -1,59 +1,62 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-19T01:58:10.377470'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:58:10.377481'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/51485ff3-c952-4920-bc20-be55a3604266
-  spotify: https://open.spotify.com/artist/6D7KvOmi0KXfi4ZGRIX8if
-  wikipedia: https://en.wikipedia.org/wiki/Happy_Talk_Band
+  musicbrainz: 'https://musicbrainz.org/artist/51485ff3-c952-4920-bc20-be55a3604266'
+  spotify: 'https://open.spotify.com/artist/6D7KvOmi0KXfi4ZGRIX8if'
+  wikipedia: 'https://en.wikipedia.org/wiki/Happy_Talk_Band'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/happy_talk_band.jpg
 instruments:
-- lead vocals
-- guitar
+  - lead vocals
+  - guitar
 last_updated: '2026-02-19T01:58:10.377482'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 7d78498f-46cc-4931-a00d-dc211949df93
-  name: Luke Spurr Allen
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 6bdc4f67-06f7-4c8c-839e-19fd6b084282
-  name: Alex McMurray
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 7d78498f-46cc-4931-a00d-dc211949df93
+    name: Luke Spurr Allen
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 6bdc4f67-06f7-4c8c-839e-19fd6b084282
+    name: Alex McMurray
 musical_connections:
   collaborators:
-  - Alex McMurray
-  - Casey McAllister
-  - Helen Gillet
-  - Bailey Smith
-  - Michael Lenore
-  - Andy Harris
+    - Alex McMurray
+    - Casey McAllister
+    - Helen Gillet
+    - Bailey Smith
+    - Michael Lenore
+    - Andy Harris
   influenced: []
   mentors:
-  - Mark Bingham
+    - Mark Bingham
 musicbrainz_id: 51485ff3-c952-4920-bc20-be55a3604266
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Happy_Talk_Band
-- https://bluevelvetnola.com/check-pothole-heart-luke-spurr-allen-happy-talk-band/
-- https://www.outalldaynola.com/interview-luke-spurr-allen-the-happy-talk-band.html
-- https://www.offbeat.com/music/the-happy-talk-band-there-there-independent/
-- https://www.offbeat.com/music/the-happy-talk-band-total-death-benefit-independent/
+  - 'https://en.wikipedia.org/wiki/Happy_Talk_Band'
+  - >-
+    https://bluevelvetnola.com/check-pothole-heart-luke-spurr-allen-happy-talk-band/
+  - >-
+    https://www.outalldaynola.com/interview-luke-spurr-allen-the-happy-talk-band.html
+  - 'https://www.offbeat.com/music/the-happy-talk-band-there-there-independent/'
+  - >-
+    https://www.offbeat.com/music/the-happy-talk-band-total-death-benefit-independent/
 spotify_data:
   followers: 209
   id: 6D7KvOmi0KXfi4ZGRIX8if
   popularity: 0
-  url: https://open.spotify.com/artist/6D7KvOmi0KXfi4ZGRIX8if
+  url: 'https://open.spotify.com/artist/6D7KvOmi0KXfi4ZGRIX8if'
 status: active
-title: happy talk band
+title: Happy Talk Band
 ---
 
 ![](happy_talk_band.jpg)

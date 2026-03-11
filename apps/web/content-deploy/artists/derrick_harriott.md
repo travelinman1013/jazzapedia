@@ -2,56 +2,59 @@
 artist_type: person
 biography_enhanced_at: '2026-02-06T01:10:58.712552'
 birth_date: '1939-02-06'
-birth_place: Kingston
+birth_place: 'Kingston, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:10:58.712560'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/08881233-2d2d-4e50-8b6e-bd39f8a663bd
-  spotify: https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d
-  wikipedia: https://en.wikipedia.org/wiki/Derrick_Harriott
+  musicbrainz: 'https://musicbrainz.org/artist/08881233-2d2d-4e50-8b6e-bd39f8a663bd'
+  spotify: 'https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d'
+  wikipedia: 'https://en.wikipedia.org/wiki/Derrick_Harriott'
 gender: Male
 genres:
-- rocksteady
-- lovers rock
-- reggae
-- ska
-- roots reggae
-- dub
+  - rocksteady
+  - lovers rock
+  - reggae
+  - ska
+  - roots reggae
+  - dub
 image_path: 03_Resources/source_material/ArtistPortraits/derrick_harriott.jpg
 last_updated: '2026-02-06T01:10:58.712562'
 musical_connections:
   collaborators:
-  - Jiving Juniors
-  - Herman Sang
-  - Dennis Brown
-  - Keith and Tex
-  - The Ethiopians
-  - Yellowman
-  - King Tubby
+    - Jiving Juniors
+    - Herman Sang
+    - Dennis Brown
+    - Keith and Tex
+    - The Ethiopians
+    - Yellowman
+    - King Tubby
   influenced:
-  - Bob Marley and the Wailers
+    - Bob Marley and the Wailers
   mentors:
-  - Lynn Taitt
+    - Lynn Taitt
 musicbrainz_id: 08881233-2d2d-4e50-8b6e-bd39f8a663bd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://unitedreggae.com/articles/n1797/031815/interview-derrick-harriott-part-1
-- https://unitedreggae.com/articles/n1798/032515/interview-derrick-harriott-part-2
-- https://en.wikipedia.org/wiki/Derrick_Harriott
-- https://music.apple.com/ca/artist/derrick-harriott/2532633
-- https://www.worldareggae.com/artists/derrick-harriot/
+  - >-
+    https://unitedreggae.com/articles/n1797/031815/interview-derrick-harriott-part-1
+  - >-
+    https://unitedreggae.com/articles/n1798/032515/interview-derrick-harriott-part-2
+  - 'https://en.wikipedia.org/wiki/Derrick_Harriott'
+  - 'https://music.apple.com/ca/artist/derrick-harriott/2532633'
+  - 'https://www.worldareggae.com/artists/derrick-harriot/'
 spotify_data:
   followers: 31538
   id: 1ht9oSlPiNywrg22T2sM8d
   popularity: 38
-  url: https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d
+  url: 'https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d'
 status: active
 tags:
-- lovers rock
-- reggae
-- rocksteady
-title: derrick harriott
+  - lovers rock
+  - reggae
+  - rocksteady
+title: Derrick Harriott
+origin: 'Kingston, Jamaica, United States'
 ---
 
 ![](derrick_harriott.jpg)

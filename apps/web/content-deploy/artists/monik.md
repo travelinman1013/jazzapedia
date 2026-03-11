@@ -2,13 +2,13 @@
 artist_type: person
 biography_enhanced_at: '2026-03-08T03:09:39.154191'
 birth_date: '1980-11-04'
-birth_place: La Ligua
+birth_place: 'La Ligua, Chile'
 disambiguation: Chilean artist Mónica Rodríguez
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:09:39.154198'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c898cba7-3eeb-4d38-84b3-777c4c73a6d1
-  spotify: https://open.spotify.com/artist/0X1VlaIWuQLvvBNHT3cOEJ
+  musicbrainz: 'https://musicbrainz.org/artist/c898cba7-3eeb-4d38-84b3-777c4c73a6d1'
+  spotify: 'https://open.spotify.com/artist/0X1VlaIWuQLvvBNHT3cOEJ'
   wikipedia: null
 gender: Female
 genres: []
@@ -16,23 +16,24 @@ image_path: 03_Resources/source_material/ArtistPortraits/monik.jpg
 last_updated: '2026-03-08T03:09:39.154199'
 musical_connections:
   collaborators:
-  - We All Together
-  - Traffic Sound
+    - We All Together
+    - Traffic Sound
   influenced: []
   mentors:
-  - Manuel Antonio Guerrero
+    - Manuel Antonio Guerrero
 musicbrainz_id: c898cba7-3eeb-4d38-84b3-777c4c73a6d1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.forcedexposure.com/Artists/MONIK.html
+  - 'https://www.forcedexposure.com/Artists/MONIK.html'
 spotify_data:
   followers: 1945
   id: 0X1VlaIWuQLvvBNHT3cOEJ
   popularity: 20
-  url: https://open.spotify.com/artist/0X1VlaIWuQLvvBNHT3cOEJ
+  url: 'https://open.spotify.com/artist/0X1VlaIWuQLvvBNHT3cOEJ'
 status: active
 title: Monik
+origin: 'Lima, Lima Province, Peru'
 ---
 
 ![](monik.jpg)

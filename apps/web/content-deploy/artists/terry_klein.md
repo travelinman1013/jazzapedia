@@ -1,45 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-23T03:02:38.487199'
-birth_place: Dallas, Texas, USA
+birth_place: 'Dallas, Texas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:02:38.487208'
 external_urls:
-  spotify: https://open.spotify.com/artist/16Co8jhHis01B6b2wowtvH
+  spotify: 'https://open.spotify.com/artist/16Co8jhHis01B6b2wowtvH'
   wikipedia: ''
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/terry_klein.jpg
 last_updated: '2026-02-23T03:02:38.487210'
 musical_connections:
   collaborators:
-  - Thomm Jutz
-  - Kim (likely Kim Parent)
-  - Lynn Williams
-  - Tim Marks
+    - Thomm Jutz
+    - Kim (likely Kim Parent)
+    - Lynn Williams
+    - Tim Marks
   influenced: []
   mentors:
-  - Walt Wilkins
-  - Kevin Welch
-  - Ron Flynt
+    - Walt Wilkins
+    - Kevin Welch
+    - Ron Flynt
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.lonesomehighway.com/interviewsold/2019/7/24/terry-klein-interview
-- https://www.popmatters.com/terry-klein-hill-country-folk
-- https://www.passim.org/artists/terry-klein/
-- https://voyagehouston.com/interview/art-life-terry-klein/
-- https://www.ketr.org/local-shows/2019-04-05/terry-klein-fits-texas-like-a-glove
-- https://americanahighways.org/2025/11/13/review-terry-klein-hill-country-folk-music/
-- https://www.wfmt.com/2024/06/01/terry-klein-live-from-wfmt/
-- https://www.terrykleinmusic.com
+  - >-
+    https://www.lonesomehighway.com/interviewsold/2019/7/24/terry-klein-interview
+  - 'https://www.popmatters.com/terry-klein-hill-country-folk'
+  - 'https://www.passim.org/artists/terry-klein/'
+  - 'https://voyagehouston.com/interview/art-life-terry-klein/'
+  - >-
+    https://www.ketr.org/local-shows/2019-04-05/terry-klein-fits-texas-like-a-glove
+  - >-
+    https://americanahighways.org/2025/11/13/review-terry-klein-hill-country-folk-music/
+  - 'https://www.wfmt.com/2024/06/01/terry-klein-live-from-wfmt/'
+  - 'https://www.terrykleinmusic.com'
 spotify_data:
   followers: 667
   id: 16Co8jhHis01B6b2wowtvH
   popularity: 5
-  url: https://open.spotify.com/artist/16Co8jhHis01B6b2wowtvH
+  url: 'https://open.spotify.com/artist/16Co8jhHis01B6b2wowtvH'
 status: active
 title: Terry Klein
+origin: 'Austin, Texas, United States'
+artist_type: person
 ---
 
 ![](terry_klein.jpg)

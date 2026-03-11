@@ -1,48 +1,48 @@
 ---
-artist_type: choir
+artist_type: band
 biography_enhanced_at: '2026-03-09T01:12:28.593303'
 birth_date: '1988'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:12:28.593317'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/589a433d-8e77-4d49-a613-481224ee4d2a
-  spotify: https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla
+  musicbrainz: 'https://musicbrainz.org/artist/589a433d-8e77-4d49-a613-481224ee4d2a'
+  spotify: 'https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla'
   wikipedia: null
 genres:
-- gospel
-- traditional gospel
-- worship
+  - gospel
+  - traditional gospel
+  - worship
 image_path: 03_Resources/source_material/ArtistPortraits/chicago_mass_choir.jpg
 instruments:
-- choir vocals
+  - choir vocals
 last_updated: '2026-03-09T01:12:28.593318'
 musical_connections:
   collaborators:
-  - Percy Gray
-  - Jeral Gray
-  - Dr. Feranda Williamson
+    - Percy Gray
+    - Jeral Gray
+    - Dr. Feranda Williamson
   influenced: []
   mentors:
-  - Music Instructor at Chicago Vocational School
+    - Music Instructor at Chicago Vocational School
 musicbrainz_id: 589a433d-8e77-4d49-a613-481224ee4d2a
 network_extracted: true
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://www.chicagomasschoir.org/about
-- https://indianapolisrecorder.com/468d2996-89f3-11e3-81f7-0019bb2963f4/
-- https://www.last.fm/music/Chicago+Mass+Choir/+wiki
-- https://musicbrainz.org/artist/589a433d-8e77-4d49-a613-481224ee4d2a
-- https://www.allmusic.com/artist/chicago-mass-choir-mn0000776243
+  - 'https://www.chicagomasschoir.org/about'
+  - 'https://indianapolisrecorder.com/468d2996-89f3-11e3-81f7-0019bb2963f4/'
+  - 'https://www.last.fm/music/Chicago+Mass+Choir/+wiki'
+  - 'https://musicbrainz.org/artist/589a433d-8e77-4d49-a613-481224ee4d2a'
+  - 'https://www.allmusic.com/artist/chicago-mass-choir-mn0000776243'
 spotify_data:
   followers: 125681
   id: 4M506nGvYT0WhG0kbkGrla
   popularity: 33
-  url: https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla
+  url: 'https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla'
 status: active
 tags:
-- gospel
-- traditional gospel
+  - gospel
+  - traditional gospel
 title: Chicago Mass Choir
 ---
 

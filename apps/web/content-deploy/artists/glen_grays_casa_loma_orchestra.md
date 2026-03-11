@@ -3,42 +3,46 @@ biography_enhanced_at: '2026-03-05T02:01:18.897868'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:01:18.897887'
 external_urls:
-  spotify: https://open.spotify.com/artist/4Rv0jadS0oIpEjls5t17Yy
-  wikipedia: https://en.wikipedia.org/wiki/Casa_Loma_Orchestra
+  spotify: 'https://open.spotify.com/artist/4Rv0jadS0oIpEjls5t17Yy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Casa_Loma_Orchestra'
 genres:
-- big band
-image_path: 03_Resources/source_material/ArtistPortraits/glen_grays_casa_loma_orchestra.jpg
+  - big band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/glen_grays_casa_loma_orchestra.jpg
 last_updated: '2026-03-05T02:01:18.897890'
 musical_connections:
   collaborators:
-  - Hank Biagini
-  - Mel Jenssen
-  - Pee Wee Hunt
-  - Francis 'Cork' O’Keefe
-  - Bobby Hackett
-  - Herb Ellis
-  - Kenny Sargent
+    - Hank Biagini
+    - Mel Jenssen
+    - Pee Wee Hunt
+    - Francis 'Cork' O’Keefe
+    - Bobby Hackett
+    - Herb Ellis
+    - Kenny Sargent
   influenced: []
   mentors:
-  - Jean Goldkette
+    - Jean Goldkette
 network_extracted: true
-origin: Rural Illinois, USA
+origin: 'Rural Illinois, USA'
 primary_source: perplexity
 research_sources:
-- http://www.bigbandlibrary.com/glengray.html
-- https://en.wikipedia.org/wiki/Casa_Loma_Orchestra
-- https://swingandbeyond.com/2017/06/17/smoke-rings-1937-glen-gray-and-the-casa-loma-orchestra/
-- https://bandchirps.com/band/glen-gray/
-- https://syncopatedtimes.com/casa-loma-orchestra-a-vanguard-of-swing/
-- https://www.jazzstandards.com/biographies/biography_161.htm
-- https://www.walkoffame.com/glen-gray/
+  - 'http://www.bigbandlibrary.com/glengray.html'
+  - 'https://en.wikipedia.org/wiki/Casa_Loma_Orchestra'
+  - >-
+    https://swingandbeyond.com/2017/06/17/smoke-rings-1937-glen-gray-and-the-casa-loma-orchestra/
+  - 'https://bandchirps.com/band/glen-gray/'
+  - 'https://syncopatedtimes.com/casa-loma-orchestra-a-vanguard-of-swing/'
+  - 'https://www.jazzstandards.com/biographies/biography_161.htm'
+  - 'https://www.walkoffame.com/glen-gray/'
 spotify_data:
   followers: 114
   id: 4Rv0jadS0oIpEjls5t17Yy
   popularity: 2
-  url: https://open.spotify.com/artist/4Rv0jadS0oIpEjls5t17Yy
+  url: 'https://open.spotify.com/artist/4Rv0jadS0oIpEjls5t17Yy'
 status: active
-title: GLEN GRAY'S CASA LOMA ORCHESTRA
+title: Glen Gray's Casa Loma Orchestra
+birth_place: 'Rural Illinois, United States'
+artist_type: person
 ---
 
 ![](glen_grays_casa_loma_orchestra.jpg)

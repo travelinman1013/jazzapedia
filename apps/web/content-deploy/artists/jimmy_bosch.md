@@ -2,55 +2,55 @@
 artist_type: person
 biography_enhanced_at: '2026-02-22T01:47:43.775272'
 birth_date: '1960-10-18'
-birth_place: Jersey City
+birth_place: 'Jersey City, New Jersey, United States'
 disambiguation: Salsa trombonist
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:47:43.775287'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dd14a6a3-7055-410b-bb2b-8ec2d8ff5c42
-  spotify: https://open.spotify.com/artist/6qZcCPB1iHABslHewMUWwV
+  musicbrainz: 'https://musicbrainz.org/artist/dd14a6a3-7055-410b-bb2b-8ec2d8ff5c42'
+  spotify: 'https://open.spotify.com/artist/6qZcCPB1iHABslHewMUWwV'
   wikipedia: ''
 gender: Male
 genres:
-- latin jazz
-- salsa
-- mambo
-- cha cha cha
-- afro-cuban jazz
-- son cubano
-- timba
+  - latin jazz
+  - salsa
+  - mambo
+  - cha cha cha
+  - afro-cuban jazz
+  - son cubano
+  - timba
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_bosch.jpg
 last_updated: '2026-02-22T01:47:43.775291'
 musical_connections:
   collaborators:
-  - Ray Barretto
-  - Cachao
-  - Eddie Palmieri
-  - Ruben Blades
-  - Celia Cruz
+    - Ray Barretto
+    - Cachao
+    - Eddie Palmieri
+    - Ruben Blades
+    - Celia Cruz
   influenced: []
   mentors:
-  - Andy Gonzalez
-  - Manny Oquendo
+    - Andy Gonzalez
+    - Manny Oquendo
 musicbrainz_id: dd14a6a3-7055-410b-bb2b-8ec2d8ff5c42
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Jimmy+Bosch/+wiki
-- https://www.laphil.com/musicdb/artists/749/jimmy-bosch
-- https://www.allaboutjazz.com/musicians/jimmy-bosch/
-- https://worldmusiccentral.org/artist-profiles-jimmy-bosch/
-- https://fuzion.com/artists/jimmy-bosch/
-- https://www.salsakingz.com.au/jimmybosch
-- https://www.metrosiliconvalley.com/papers/metro/04.20.00/bosch-0016.html
+  - 'https://www.last.fm/music/Jimmy+Bosch/+wiki'
+  - 'https://www.laphil.com/musicdb/artists/749/jimmy-bosch'
+  - 'https://www.allaboutjazz.com/musicians/jimmy-bosch/'
+  - 'https://worldmusiccentral.org/artist-profiles-jimmy-bosch/'
+  - 'https://fuzion.com/artists/jimmy-bosch/'
+  - 'https://www.salsakingz.com.au/jimmybosch'
+  - 'https://www.metrosiliconvalley.com/papers/metro/04.20.00/bosch-0016.html'
 spotify_data:
   followers: 24093
   id: 6qZcCPB1iHABslHewMUWwV
   popularity: 32
-  url: https://open.spotify.com/artist/6qZcCPB1iHABslHewMUWwV
+  url: 'https://open.spotify.com/artist/6qZcCPB1iHABslHewMUWwV'
 status: active
 tags:
-- jazz
+  - jazz
 title: Jimmy Bosch
 ---
 

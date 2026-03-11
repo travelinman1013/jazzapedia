@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-03-05T01:59:36.738800'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T01:59:36.738810'
 external_urls:
-  spotify: https://open.spotify.com/artist/6lwq8HrbJBrjsSmliBGajY
+  spotify: 'https://open.spotify.com/artist/6lwq8HrbJBrjsSmliBGajY'
   wikipedia: ''
 genres:
-- free jazz
-- hard bop
-image_path: 03_Resources/source_material/ArtistPortraits/jason_marsalis_and_the_21st_century_trad_band.jpg
+  - free jazz
+  - hard bop
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jason_marsalis_and_the_21st_century_trad_band.jpg
 last_updated: '2026-03-05T01:59:36.738812'
 musical_connections:
   collaborators:
-  - Marcus Roberts Trio
-  - Delfeayo Marsalis
-  - Los Hombres Calientes
+    - Marcus Roberts Trio
+    - Delfeayo Marsalis
+    - Los Hombres Calientes
   influenced: []
   mentors:
-  - James Black
-  - Ellis Marsalis Jr.
-  - Marcus Roberts
+    - James Black
+    - Ellis Marsalis Jr.
+    - Marcus Roberts
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://creativepinellas.org/magazine/jason-marsalis-swing-swing-swing/
-- https://studyguides.com/study-methods/overview/cmkyht1iif6kr01d5ctt02ssw
-- https://www.arts.gov/honors/jazz/marsalis-family
-- https://amhistory.si.edu/jazz/Marsalis-Jason/Marsalis_Jason_Interview_Transcription.pdf
-- http://www.jazzweekly.com/interviews/j_marsalis.htm
-- https://www.organissimo.org/forum/topic/92769-jason-marsalis/
+  - 'https://creativepinellas.org/magazine/jason-marsalis-swing-swing-swing/'
+  - 'https://studyguides.com/study-methods/overview/cmkyht1iif6kr01d5ctt02ssw'
+  - 'https://www.arts.gov/honors/jazz/marsalis-family'
+  - >-
+    https://amhistory.si.edu/jazz/Marsalis-Jason/Marsalis_Jason_Interview_Transcription.pdf
+  - 'http://www.jazzweekly.com/interviews/j_marsalis.htm'
+  - 'https://www.organissimo.org/forum/topic/92769-jason-marsalis/'
 spotify_data:
   followers: 37
   id: 6lwq8HrbJBrjsSmliBGajY
   popularity: 0
-  url: https://open.spotify.com/artist/6lwq8HrbJBrjsSmliBGajY
+  url: 'https://open.spotify.com/artist/6lwq8HrbJBrjsSmliBGajY'
 status: active
 title: Jason Marsalis & The 21st Century Trad Band
+artist_type: person
 ---
 
 ![](jason_marsalis_and_the_21st_century_trad_band.jpg)

@@ -1,39 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-26T01:16:51.731614'
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:16:51.731623'
 external_urls:
-  spotify: https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9
-  wikipedia: https://en.wikipedia.org/wiki/Gladys_Bentley
+  spotify: 'https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gladys_Bentley'
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/gladys_bentley.jpg
 last_updated: '2026-02-26T01:16:51.731624'
 musical_connections:
   collaborators:
-  - Drag performers/queens
+    - Drag performers/queens
   influenced:
-  - Carl van Vechten
-  - Langston Hughes
+    - Carl van Vechten
+    - Langston Hughes
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.si.edu/spotlight/gladys-bentley
-- https://www.dragkinghistory.com/1923-1952-gladys-bentley/
-- https://www.smithsonianmag.com/smithsonian-institution/great-blues-singer-gladys-bentley-broke-rules-180971708/
-- https://en.wikipedia.org/wiki/Gladys_Bentley
-- https://unladylike2020.com/profile/gladys-bentley/
-- https://www.unsunghistorypodcast.com/gladys-bentley/
+  - 'https://www.si.edu/spotlight/gladys-bentley'
+  - 'https://www.dragkinghistory.com/1923-1952-gladys-bentley/'
+  - >-
+    https://www.smithsonianmag.com/smithsonian-institution/great-blues-singer-gladys-bentley-broke-rules-180971708/
+  - 'https://en.wikipedia.org/wiki/Gladys_Bentley'
+  - 'https://unladylike2020.com/profile/gladys-bentley/'
+  - 'https://www.unsunghistorypodcast.com/gladys-bentley/'
 spotify_data:
   followers: 4166
   id: 5byQk5bPDb10356SOJJeU9
   popularity: 4
-  url: https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9
+  url: 'https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9'
 status: active
-title: GLADYS BENTLEY
+title: Gladys Bentley
+birth_date: '1907-08-12'
+death_date: '1960-01-18'
+artist_type: person
 ---
 
 ![](gladys_bentley.jpg)

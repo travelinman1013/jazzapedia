@@ -1,64 +1,67 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-02T01:41:26.843635'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:41:26.843645'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f99c1134-b48e-4659-8128-712264f02431
-  spotify: https://open.spotify.com/artist/4EThPSOiCZkpH5DYoeOKTZ
-  wikipedia: https://en.wikipedia.org/wiki/Gene_Harris
+  musicbrainz: 'https://musicbrainz.org/artist/f99c1134-b48e-4659-8128-712264f02431'
+  spotify: 'https://open.spotify.com/artist/4EThPSOiCZkpH5DYoeOKTZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gene_Harris'
 genres:
-- jazz
-- cool jazz
-- soul jazz
-- hard bop
+  - jazz
+  - cool jazz
+  - soul jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/the_gene_harris_quartet.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-02-02T01:41:26.843647'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 1dbdc230-fe9c-4d71-b72e-88ba98800167
-  name: Gene Harris
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 1dbdc230-fe9c-4d71-b72e-88ba98800167
+    name: Gene Harris
 musical_connections:
   collaborators:
-  - Andy Simpkins
-  - Bill Dowdy
-  - Ron Eschete
-  - Ray Brown
-  - Milt Jackson
+    - Andy Simpkins
+    - Bill Dowdy
+    - Ron Eschete
+    - Ray Brown
+    - Milt Jackson
   influenced:
-  - Curtis Stigers
+    - Curtis Stigers
   mentors:
-  - Charles Metcalf
-  - Pete Johnson
-  - Albert Ammons
-  - Oscar Peterson
+    - Charles Metcalf
+    - Pete Johnson
+    - Albert Ammons
+    - Oscar Peterson
 musicbrainz_id: f99c1134-b48e-4659-8128-712264f02431
 network_extracted: true
-origin: Benton Harbor, Michigan, USA
+origin: 'Benton Harbor, Michigan, USA'
 primary_source: perplexity
 research_sources:
-- https://www.latimes.com/archives/la-xpm-1993-12-04-ca-63824-story.html
-- https://archiveswest.orbiscascade.org/ark:/80444/xv31332
-- https://fromthevaults-boppinbob.blogspot.com/2024/09/gene-harris-born-1-september-1937.html
-- https://en.wikipedia.org/wiki/Gene_Harris
-- https://boise.citycast.fm/boise-history/history-gene-harris-boise-soul-jazz-pianist
-- https://www.allaboutjazz.com/gene-harris-gene-harris-by-c-michael-bailey
-- https://www.bluenote.com/artist/gene-harris/
-- https://www.jango.com/music/The+Gene+Harris+Quartet/_full_bio
+  - 'https://www.latimes.com/archives/la-xpm-1993-12-04-ca-63824-story.html'
+  - 'https://archiveswest.orbiscascade.org/ark:/80444/xv31332'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/09/gene-harris-born-1-september-1937.html
+  - 'https://en.wikipedia.org/wiki/Gene_Harris'
+  - >-
+    https://boise.citycast.fm/boise-history/history-gene-harris-boise-soul-jazz-pianist
+  - 'https://www.allaboutjazz.com/gene-harris-gene-harris-by-c-michael-bailey'
+  - 'https://www.bluenote.com/artist/gene-harris/'
+  - 'https://www.jango.com/music/The+Gene+Harris+Quartet/_full_bio'
 spotify_data:
   followers: 4551
   id: 4EThPSOiCZkpH5DYoeOKTZ
   popularity: 27
-  url: https://open.spotify.com/artist/4EThPSOiCZkpH5DYoeOKTZ
+  url: 'https://open.spotify.com/artist/4EThPSOiCZkpH5DYoeOKTZ'
 status: active
 tags:
-- jazz
+  - jazz
 title: The Gene Harris Quartet
+birth_place: 'Benton Harbor, Michigan, United States'
 ---
 
 ![](the_gene_harris_quartet.jpg)

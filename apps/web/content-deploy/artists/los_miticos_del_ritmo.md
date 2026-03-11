@@ -3,43 +3,46 @@ biography_enhanced_at: '2026-02-25T02:01:06.168566'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:01:06.168582'
 external_urls:
-  spotify: https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu
+  spotify: 'https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu'
   wikipedia: ''
 genres:
-- electrocumbia
-- chicha
-- cumbia
-- cumbia sonidera
+  - electrocumbia
+  - chicha
+  - cumbia
+  - cumbia sonidera
 image_path: 03_Resources/source_material/ArtistPortraits/los_miticos_del_ritmo.jpg
 last_updated: '2026-02-25T02:01:06.168583'
 musical_connections:
   collaborators:
-  - Ancer Rada
-  - Fernando Silva
-  - Freddy Colorado
-  - Will 'Quantic' Holland
+    - Ancer Rada
+    - Fernando Silva
+    - Freddy Colorado
+    - Will 'Quantic' Holland
   influenced: []
   mentors:
-  - Aníbal Velásquez
-  - Papi Brandão
+    - Aníbal Velásquez
+    - Papi Brandão
 network_extracted: true
-origin: Cali, Valle del Cauca, Colombia
+origin: 'Cali, Valle del Cauca, Colombia'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Los+Miticos+Del+Ritmo/+wiki
-- https://soundsandcolours.com/articles/colombia/los-miticos-del-ritmo-14791/
-- https://www.youtube.com/watch?v=YQPa_eh1XoE
-- https://www.phonicarecords.com/product/los-miticos-del-ritmo-los-miticos-del-ritmo-lp-soundway/106457
-- https://www.wikidata.org/wiki/Q123691902
-- http://creosotejournal.com/2014/07/a-fresh-minted-lost-classic-of-columbian-cumbia-los-miticos-del-ritmo/
-- https://www.songlines.co.uk/review/los-miticos-del-ritmo
+  - 'https://www.last.fm/music/Los+Miticos+Del+Ritmo/+wiki'
+  - 'https://soundsandcolours.com/articles/colombia/los-miticos-del-ritmo-14791/'
+  - 'https://www.youtube.com/watch?v=YQPa_eh1XoE'
+  - >-
+    https://www.phonicarecords.com/product/los-miticos-del-ritmo-los-miticos-del-ritmo-lp-soundway/106457
+  - 'https://www.wikidata.org/wiki/Q123691902'
+  - >-
+    http://creosotejournal.com/2014/07/a-fresh-minted-lost-classic-of-columbian-cumbia-los-miticos-del-ritmo/
+  - 'https://www.songlines.co.uk/review/los-miticos-del-ritmo'
 spotify_data:
   followers: 20708
   id: 1YR9g05YIIVWq3QsC7Krsu
   popularity: 32
-  url: https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu
+  url: 'https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu'
 status: active
 title: Los Miticos Del Ritmo
+artist_type: person
 ---
 
 ![](los_miticos_del_ritmo.jpg)

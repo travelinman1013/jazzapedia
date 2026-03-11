@@ -1,45 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-27T01:56:13.797572'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:56:13.797577'
 external_urls:
-  spotify: https://open.spotify.com/artist/5gaDjyKuAa81usnyOLIaJo
+  spotify: 'https://open.spotify.com/artist/5gaDjyKuAa81usnyOLIaJo'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/les_getrex_and_his_all_star_band.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/les_getrex_and_his_all_star_band.jpg
 last_updated: '2026-01-27T01:56:13.797577'
 musical_connections:
   collaborators:
-  - Fats Domino
-  - Walter 'Wolfman' Washington
-  - Barbara George
-  - Marva Wright
-  - Rockin' Dopsie
-  - Micheal Ward
-  - Brian Cayolle
-  - Traci Griffin
+    - Fats Domino
+    - Walter 'Wolfman' Washington
+    - Barbara George
+    - Marva Wright
+    - Rockin' Dopsie
+    - Micheal Ward
+    - Brian Cayolle
+    - Traci Griffin
   influenced:
-  - Ray Charles
-  - Otis Redding
+    - Ray Charles
+    - Otis Redding
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/music/les-getrex-his-all-star-band-300-miles-cm-records/
-- https://www.lesgetrex.com/images/lesGetrexPressPack.pdf
-- http://conversationsmag.blogspot.com/2013/06/the-sound-of-les-getrex.html
-- https://www.gigroster.com/listings/les-getrex-and-and-his-all-star-band-creole-cookin
-- https://www.lesgetrex.com/images/breakThruMedia.pdf
-- https://www.lesgetrex.com
-- https://www.lesgetrex.com/bio.html
+  - >-
+    https://www.offbeat.com/music/les-getrex-his-all-star-band-300-miles-cm-records/
+  - 'https://www.lesgetrex.com/images/lesGetrexPressPack.pdf'
+  - 'http://conversationsmag.blogspot.com/2013/06/the-sound-of-les-getrex.html'
+  - >-
+    https://www.gigroster.com/listings/les-getrex-and-and-his-all-star-band-creole-cookin
+  - 'https://www.lesgetrex.com/images/breakThruMedia.pdf'
+  - 'https://www.lesgetrex.com'
+  - 'https://www.lesgetrex.com/bio.html'
 spotify_data:
   followers: 13
   id: 5gaDjyKuAa81usnyOLIaJo
   popularity: 0
-  url: https://open.spotify.com/artist/5gaDjyKuAa81usnyOLIaJo
+  url: 'https://open.spotify.com/artist/5gaDjyKuAa81usnyOLIaJo'
 status: active
 title: Les Getrex & His All Star Band
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](les_getrex_and_his_all_star_band.jpg)

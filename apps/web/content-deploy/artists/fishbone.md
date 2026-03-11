@@ -1,141 +1,141 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-03T02:11:03.710902'
 birth_date: '1979'
 disambiguation: US rock band
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:11:03.710912'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9f3764c0-c9f4-4e20-b7a8-9993124fb1b2
-  spotify: https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi
-  wikipedia: https://en.wikipedia.org/wiki/Fishbone
+  musicbrainz: 'https://musicbrainz.org/artist/9f3764c0-c9f4-4e20-b7a8-9993124fb1b2'
+  spotify: 'https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fishbone'
 genres:
-- funk rock
-- ska
-- ska punk
+  - funk rock
+  - ska
+  - ska punk
 image_path: 03_Resources/source_material/ArtistPortraits/fishbone.jpg
 instruments:
-- trumpet
+  - trumpet
 last_updated: '2026-02-03T02:11:03.710914'
 members:
-- begin: '1979'
-  end: '1993'
-  instruments: []
-  mbid: dccd9b51-086b-458f-9c29-48fe49ee93c0
-  name: Kendall Jones
-- begin: '1979'
-  end: '1994'
-  instruments: []
-  mbid: ad3de4f4-b207-415e-8709-9c1e384190cf
-  name: Christopher Dowd
-- begin: '1979'
-  end: '1998'
-  instruments: []
-  mbid: 0565ee5d-1dda-4a82-98c9-e4e4b587878c
-  name: Fish
-- begin: '1979'
-  end: '2003'
-  instruments: []
-  mbid: 5d351c6c-d5f4-472e-aa7c-d81d680f3aca
-  name: Walter Adam Kibby II
-- &id001
-  begin: '1979'
-  end: ''
-  instruments: []
-  mbid: 55e4a979-33dd-421f-b684-c2e121ea452d
-  name: John Norwood Fisher
-- &id002
-  begin: '1979'
-  end: ''
-  instruments: []
-  mbid: ec4f39fd-84d5-4292-9f8a-bd27ba4e34ed
-  name: Angelo Moore
-- begin: '1989'
-  end: '1997'
-  instruments: []
-  mbid: 7edc0922-4883-47f6-aadc-bf401d668207
-  name: John Bigham
-- begin: '2004'
-  end: '2011'
-  instruments:
-  - trumpet
-  mbid: cc624672-d7a9-4f5b-8b85-000f60eb08aa
-  name: André Holmes
-- &id003
-  begin: '2018'
-  end: ''
-  instruments: []
-  mbid: ad3de4f4-b207-415e-8709-9c1e384190cf
-  name: Christopher Dowd
-- begin: ''
-  end: '1988'
-  instruments: []
-  mbid: 15f8f930-23da-4782-b30e-c84ff6e3cfdd
-  name: Marlon M. Williams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ae08bb81-950c-4589-9b9b-9acfbe56b03a
-  name: Rocky George
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7d3c69af-1f87-461b-8aa8-903b7ad68f6e
-  name: Drè Gipson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9db97e1f-46d0-40d3-8da7-7c53fe4222b3
-  name: Joe McCreary
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d7c482bd-4357-463b-8840-89000941f4ae
-  name: Spacey T.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c2e0adec-6a01-4b1c-889b-af0217b9f8cf
-  name: Anthony Brewster
+  - begin: '1979'
+    end: '1993'
+    instruments: []
+    mbid: dccd9b51-086b-458f-9c29-48fe49ee93c0
+    name: Kendall Jones
+  - begin: '1979'
+    end: '1994'
+    instruments: []
+    mbid: ad3de4f4-b207-415e-8709-9c1e384190cf
+    name: Christopher Dowd
+  - begin: '1979'
+    end: '1998'
+    instruments: []
+    mbid: 0565ee5d-1dda-4a82-98c9-e4e4b587878c
+    name: Fish
+  - begin: '1979'
+    end: '2003'
+    instruments: []
+    mbid: 5d351c6c-d5f4-472e-aa7c-d81d680f3aca
+    name: Walter Adam Kibby II
+  - &ref_0
+    begin: '1979'
+    end: ''
+    instruments: []
+    mbid: 55e4a979-33dd-421f-b684-c2e121ea452d
+    name: John Norwood Fisher
+  - &ref_1
+    begin: '1979'
+    end: ''
+    instruments: []
+    mbid: ec4f39fd-84d5-4292-9f8a-bd27ba4e34ed
+    name: Angelo Moore
+  - begin: '1989'
+    end: '1997'
+    instruments: []
+    mbid: 7edc0922-4883-47f6-aadc-bf401d668207
+    name: John Bigham
+  - begin: '2004'
+    end: '2011'
+    instruments:
+      - trumpet
+    mbid: cc624672-d7a9-4f5b-8b85-000f60eb08aa
+    name: André Holmes
+  - &ref_2
+    begin: '2018'
+    end: ''
+    instruments: []
+    mbid: ad3de4f4-b207-415e-8709-9c1e384190cf
+    name: Christopher Dowd
+  - begin: ''
+    end: '1988'
+    instruments: []
+    mbid: 15f8f930-23da-4782-b30e-c84ff6e3cfdd
+    name: Marlon M. Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ae08bb81-950c-4589-9b9b-9acfbe56b03a
+    name: Rocky George
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7d3c69af-1f87-461b-8aa8-903b7ad68f6e
+    name: Drè Gipson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9db97e1f-46d0-40d3-8da7-7c53fe4222b3
+    name: Joe McCreary
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d7c482bd-4357-463b-8840-89000941f4ae
+    name: Spacey T.
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c2e0adec-6a01-4b1c-889b-af0217b9f8cf
+    name: Anthony Brewster
 musical_connections:
   collaborators:
-  - John Bigham
-  - Rocky George (Suicidal Tendencies)
-  - Kendall Jones
-  - Philip 'Fish' Fisher
-  - Christopher Dowd
-  - Walter A. Kibby II ('Dirty Walt')
+    - John Bigham
+    - Rocky George (Suicidal Tendencies)
+    - Kendall Jones
+    - Philip 'Fish' Fisher
+    - Christopher Dowd
+    - Walter A. Kibby II ('Dirty Walt')
   influenced:
-  - Red Hot Chili Peppers
-  - No Doubt
-  - Flea (Red Hot Chili Peppers)
+    - Red Hot Chili Peppers
+    - No Doubt
+    - Flea (Red Hot Chili Peppers)
   mentors:
-  - Brian O'Neal (The BusBoys)
+    - Brian O'Neal (The BusBoys)
 musicbrainz_id: 9f3764c0-c9f4-4e20-b7a8-9993124fb1b2
 network_extracted: true
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fishbone
-- https://www.aisleseat.com/fishbonedoc.htm
-- https://dyingscene.com/band/fishbone-2/
-- https://www.last.fm/music/Fishbone/+wiki
-- https://www.neh.gov/humanities/2011/januaryfebruary/statement/fish-story
-- https://www.jango.com/music/Fishbone/_full_bio
+  - 'https://en.wikipedia.org/wiki/Fishbone'
+  - 'https://www.aisleseat.com/fishbonedoc.htm'
+  - 'https://dyingscene.com/band/fishbone-2/'
+  - 'https://www.last.fm/music/Fishbone/+wiki'
+  - 'https://www.neh.gov/humanities/2011/januaryfebruary/statement/fish-story'
+  - 'https://www.jango.com/music/Fishbone/_full_bio'
 spotify_data:
   followers: 138129
   id: 2X3pNc13eRGofTO9Yt3sMi
   popularity: 38
-  url: https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi
+  url: 'https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi'
 status: active
 tags:
-- 80s
-- 90s
-- funk
+  - 80s
+  - 90s
+  - funk
 title: Fishbone
 ---
 

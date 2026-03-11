@@ -2,53 +2,56 @@
 artist_type: person
 biography_enhanced_at: '2026-01-29T02:02:22.658180'
 birth_date: '1901-10-20'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 death_date: '1993-11-07'
 disambiguation: American-born UK-based jazz singer and entertainer
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:02:22.658189'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1b376fa5-2128-4cad-93c1-c3045f3c9553
-  spotify: https://open.spotify.com/artist/2KNWLhYlWnBjBJPVqFzqmI
+  musicbrainz: 'https://musicbrainz.org/artist/1b376fa5-2128-4cad-93c1-c3045f3c9553'
+  spotify: 'https://open.spotify.com/artist/2KNWLhYlWnBjBJPVqFzqmI'
   wikipedia: ''
 gender: Female
 genres:
-- ragtime
-- vocal jazz
+  - ragtime
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/adelaide_hall.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-01-29T02:02:22.658191'
 musical_connections:
   collaborators:
-  - Duke Ellington and his Orchestra
-  - Fats Waller
-  - Bill 'Bojangles' Robinson
-  - Noble Sissle and Eubie Blake
-  - Art Tatum
+    - Duke Ellington and his Orchestra
+    - Fats Waller
+    - Bill 'Bojangles' Robinson
+    - Noble Sissle and Eubie Blake
+    - Art Tatum
   influenced:
-  - Ella Fitzgerald
-  - Louis Armstrong
+    - Ella Fitzgerald
+    - Louis Armstrong
   mentors:
-  - Duke Ellington
+    - Duke Ellington
 musicbrainz_id: 1b376fa5-2128-4cad-93c1-c3045f3c9553
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.harlemworldmagazine.com/adelaide-louise-halls-rich-harlem-history-1901-1993-audio-video/
-- https://www.britannica.com/biography/Adelaide-Hall
-- https://www.npg.org.uk/whatson/exhibitions/2007/devotional/adelaide-hall
-- https://syncopatedtimes.com/adelaide-louise-hall/
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/106655/Hall_Adelaide
+  - >-
+    https://www.harlemworldmagazine.com/adelaide-louise-halls-rich-harlem-history-1901-1993-audio-video/
+  - 'https://www.britannica.com/biography/Adelaide-Hall'
+  - 'https://www.npg.org.uk/whatson/exhibitions/2007/devotional/adelaide-hall'
+  - 'https://syncopatedtimes.com/adelaide-louise-hall/'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/106655/Hall_Adelaide
 spotify_data:
   followers: 2137
   id: 2KNWLhYlWnBjBJPVqFzqmI
   popularity: 14
-  url: https://open.spotify.com/artist/2KNWLhYlWnBjBJPVqFzqmI
+  url: 'https://open.spotify.com/artist/2KNWLhYlWnBjBJPVqFzqmI'
 status: active
 tags:
-- jazz
-title: ADELAIDE HALL
+  - jazz
+title: Adelaide Hall
+is_active: false
 ---
 
 ![](adelaide_hall.jpg)

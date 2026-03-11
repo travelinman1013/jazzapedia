@@ -1,39 +1,41 @@
 ---
 biography_enhanced_at: '2026-02-14T01:35:22.297384'
-birth_place: Tucson, Arizona, USA
+birth_place: 'Tucson, Arizona, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-14T01:35:22.297394'
 external_urls:
-  spotify: https://open.spotify.com/artist/3cPmWp3RBEhw1gVapNQtg1
+  spotify: 'https://open.spotify.com/artist/3cPmWp3RBEhw1gVapNQtg1'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/andrew_halchak.jpg
 last_updated: '2026-02-14T01:35:22.297396'
 musical_connections:
   collaborators:
-  - Jack Cooper
-  - Billy Drewes
-  - Teddy Raven
-  - Portland Jazz Orchestra
+    - Jack Cooper
+    - Billy Drewes
+    - Teddy Raven
+    - Portland Jazz Orchestra
   influenced: []
   mentors:
-  - George Garzone
-  - Joe Lovano
+    - George Garzone
+    - Joe Lovano
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://hotelcongress.com/event/andrew-halchak-quartet-plays-paul-desmond/
-- https://www.christinawatka.com/about
-- https://en.wikipedia.org/wiki/Mists:_Charles_Ives_for_Jazz_Orchestra
-- https://www.allaboutjazz.com/dave-brubeck-small-groups-large-stature-by-jack-bowers
-- https://mainehomedesign.com/profile/tending-the-flock/
+  - 'https://hotelcongress.com/event/andrew-halchak-quartet-plays-paul-desmond/'
+  - 'https://www.christinawatka.com/about'
+  - 'https://en.wikipedia.org/wiki/Mists:_Charles_Ives_for_Jazz_Orchestra'
+  - >-
+    https://www.allaboutjazz.com/dave-brubeck-small-groups-large-stature-by-jack-bowers
+  - 'https://mainehomedesign.com/profile/tending-the-flock/'
 spotify_data:
   followers: 19
   id: 3cPmWp3RBEhw1gVapNQtg1
   popularity: 0
-  url: https://open.spotify.com/artist/3cPmWp3RBEhw1gVapNQtg1
+  url: 'https://open.spotify.com/artist/3cPmWp3RBEhw1gVapNQtg1'
 status: active
 title: Andrew Halchak
+artist_type: person
 ---
 
 ![](andrew_halchak.jpg)

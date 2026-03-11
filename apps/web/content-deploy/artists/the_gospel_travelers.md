@@ -3,33 +3,35 @@ biography_enhanced_at: '2026-01-24T01:59:34.105273'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:59:34.105280'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e88321a9-d86c-4634-a1f1-3f27b8bbd494
-  spotify: https://open.spotify.com/artist/3tXo5D3aEDub1jTdpXo0Yz
+  musicbrainz: 'https://musicbrainz.org/artist/e88321a9-d86c-4634-a1f1-3f27b8bbd494'
+  spotify: 'https://open.spotify.com/artist/3tXo5D3aEDub1jTdpXo0Yz'
   wikipedia: null
 genres:
-- southern gospel
+  - southern gospel
 image_path: ''
 last_updated: '2026-01-24T01:59:34.105281'
 musical_connections:
   collaborators:
-  - Deacon George Pierce
-  - Reverend Milton "Bill" Johnson
+    - Deacon George Pierce
+    - Reverend Milton "Bill" Johnson
   influenced: []
   mentors: []
 musicbrainz_id: e88321a9-d86c-4634-a1f1-3f27b8bbd494
 network_extracted: true
-origin: San Jose, California, United States
+origin: 'San Jose, California, United States'
 primary_source: perplexity
 research_sources:
-- https://ww2.kqed.org/spark/gospel-travelers/
-- https://www.reverbnation.com/gospeltravelers/song/12632242-jesus-said-he-will-be-there
+  - 'https://ww2.kqed.org/spark/gospel-travelers/'
+  - >-
+    https://www.reverbnation.com/gospeltravelers/song/12632242-jesus-said-he-will-be-there
 spotify_data:
   followers: 14
   id: 3tXo5D3aEDub1jTdpXo0Yz
   popularity: 0
-  url: https://open.spotify.com/artist/3tXo5D3aEDub1jTdpXo0Yz
+  url: 'https://open.spotify.com/artist/3tXo5D3aEDub1jTdpXo0Yz'
 status: active
 title: The Gospel Travelers
+artist_type: band
 ---
 
 ![]()

@@ -2,58 +2,60 @@
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:30:23.056154'
 birth_date: '1926-06-03'
-birth_place: Newark
+birth_place: 'Newark, New Jersey, United States'
 death_date: '1997-04-05'
 disambiguation: American poet and writer
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:30:23.056171'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8fc551bc-0c60-43fd-a234-2776561c2b18
-  spotify: https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT
+  musicbrainz: 'https://musicbrainz.org/artist/8fc551bc-0c60-43fd-a234-2776561c2b18'
+  spotify: 'https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT'
   wikipedia: ''
 gender: Male
 genres:
-- spoken word
+  - spoken word
 image_path: 03_Resources/source_material/ArtistPortraits/allen_ginsberg.jpg
 instruments:
-- piano
-- spoken vocals
-- choir vocals
-- background vocals
+  - piano
+  - spoken vocals
+  - choir vocals
+  - background vocals
 last_updated: '2026-03-03T01:30:23.056174'
 musical_connections:
   collaborators:
-  - Peter Orlovsky
-  - Philip Glass
-  - Jack Kerouac
-  - William S. Burroughs
+    - Peter Orlovsky
+    - Philip Glass
+    - Jack Kerouac
+    - William S. Burroughs
   influenced:
-  - Beat Generation poets (e.g., Gregory Corso, Lawrence Ferlinghetti)
-  - 1960s counterculture and hippie movement
+    - 'Beat Generation poets (e.g., Gregory Corso, Lawrence Ferlinghetti)'
+    - 1960s counterculture and hippie movement
   mentors:
-  - William Carlos Williams
-  - Walt Whitman
-  - Jack Kerouac
+    - William Carlos Williams
+    - Walt Whitman
+    - Jack Kerouac
 musicbrainz_id: 8fc551bc-0c60-43fd-a234-2776561c2b18
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://study.com/academy/lesson/allen-ginsberg-biography-poems-death.html
-- https://allenginsberg.org/biography/
-- https://www.poetryfoundation.org/poets/allen-ginsberg
-- https://www.britannica.com/biography/Allen-Ginsberg
-- https://poets.org/poet/allen-ginsberg
+  - 'https://study.com/academy/lesson/allen-ginsberg-biography-poems-death.html'
+  - 'https://allenginsberg.org/biography/'
+  - 'https://www.poetryfoundation.org/poets/allen-ginsberg'
+  - 'https://www.britannica.com/biography/Allen-Ginsberg'
+  - 'https://poets.org/poet/allen-ginsberg'
 spotify_data:
   followers: 21786
   id: 1yA9QiqL6p9Qo3nHFb8DkT
   popularity: 26
-  url: https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT
+  url: 'https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT'
 status: active
 tags:
-- beat poetry
-- poetry
-- spoken word
+  - beat poetry
+  - poetry
+  - spoken word
 title: Allen Ginsberg
+is_active: false
+origin: 'Paterson, New Jersey, United States'
 ---
 
 ![](allen_ginsberg.jpg)

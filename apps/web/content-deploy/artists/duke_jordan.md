@@ -1,62 +1,65 @@
 ---
 biography_enhanced_at: '2026-02-03T02:07:11.742586'
-birth_place: New York, New York, United States
+birth_place: 'New York, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:07:11.742597'
 external_urls:
-  spotify: https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM
-  wikipedia: https://en.wikipedia.org/wiki/Duke_Jordan
+  spotify: 'https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Duke_Jordan'
 genres:
-- hard bop
-- jazz
-- jazz ballads
-- bebop
-- cool jazz
+  - hard bop
+  - jazz
+  - jazz ballads
+  - bebop
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/duke_jordan.jpg
 last_updated: '2026-02-03T02:07:11.742600'
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Miles Davis
-  - Max Roach
-  - Tommy Potter
-  - Sonny Stitt
-  - Gene Ammons
-  - Stan Getz
-  - Coleman Hawkins
-  - Roy Eldridge
-  - Art Farmer
-  - Gigi Gryce
-  - Rolf Ericsson
-  - Dexter Gordon
-  - Kenny Drew
-  - Sheila Jordan
+    - Charlie Parker
+    - Miles Davis
+    - Max Roach
+    - Tommy Potter
+    - Sonny Stitt
+    - Gene Ammons
+    - Stan Getz
+    - Coleman Hawkins
+    - Roy Eldridge
+    - Art Farmer
+    - Gigi Gryce
+    - Rolf Ericsson
+    - Dexter Gordon
+    - Kenny Drew
+    - Sheila Jordan
   influenced:
-  - Clifford Brown
-  - Art Blakey
-  - Chet Baker
+    - Clifford Brown
+    - Art Blakey
+    - Chet Baker
   mentors:
-  - Bud Powell
-  - Art Tatum
-  - Thelonious Monk
-  - John Hammond
+    - Bud Powell
+    - Art Tatum
+    - Thelonious Monk
+    - John Hammond
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazzprofiles.blogspot.com/2017/08/duke-jordan-flight-to-europe.html
-- https://en.wikipedia.org/wiki/Duke_Jordan
-- https://www.latimes.com/archives/la-xpm-2006-aug-19-me-jordan19-story.html
-- https://www.bluenote.com/artist/duke-jordan/
-- https://playbill.com/article/jazz-pianist-duke-jordan-dies-at-age-84
-- https://www.allsolos.com/soloist/268/duke-jordan
-- https://www.nepm.org/jazz-world/2022-12-13/duke-jordan-the-piano-favorite-of-bird-and-max
+  - 'https://jazzprofiles.blogspot.com/2017/08/duke-jordan-flight-to-europe.html'
+  - 'https://en.wikipedia.org/wiki/Duke_Jordan'
+  - 'https://www.latimes.com/archives/la-xpm-2006-aug-19-me-jordan19-story.html'
+  - 'https://www.bluenote.com/artist/duke-jordan/'
+  - 'https://playbill.com/article/jazz-pianist-duke-jordan-dies-at-age-84'
+  - 'https://www.allsolos.com/soloist/268/duke-jordan'
+  - >-
+    https://www.nepm.org/jazz-world/2022-12-13/duke-jordan-the-piano-favorite-of-bird-and-max
 spotify_data:
   followers: 16348
   id: 27Zmfr3VpJSgOf8iyWiZzM
   popularity: 36
-  url: https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM
+  url: 'https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM'
 status: active
-title: DUKE JORDAN
+title: Duke Jordan
+birth_date: '1922-04-01'
+artist_type: person
 ---
 
 ![](duke_jordan.jpg)

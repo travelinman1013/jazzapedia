@@ -1,33 +1,35 @@
 ---
 biography_enhanced_at: '2026-02-20T01:17:24.323951'
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:17:24.324047'
 external_urls:
-  spotify: https://open.spotify.com/artist/6ZcX2gJ5PoAb1P91EYoNRe
+  spotify: 'https://open.spotify.com/artist/6ZcX2gJ5PoAb1P91EYoNRe'
   wikipedia: null
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/vega_heartbreak_and_indiana_rome.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/vega_heartbreak_and_indiana_rome.jpg
 last_updated: '2026-02-20T01:17:24.324050'
 musical_connections:
   collaborators:
-  - Indiana Rome
+    - Indiana Rome
   influenced: []
   mentors:
-  - Bradd Young
+    - Bradd Young
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.vegaheartbreak.com
-- https://www.youtube.com/watch?v=ulcXeqDOv80
-- https://www.youtube.com/watch?v=S7_X9WGHHNA
+  - 'https://www.vegaheartbreak.com'
+  - 'https://www.youtube.com/watch?v=ulcXeqDOv80'
+  - 'https://www.youtube.com/watch?v=S7_X9WGHHNA'
 spotify_data:
   followers: 437
   id: 6ZcX2gJ5PoAb1P91EYoNRe
   popularity: 4
-  url: https://open.spotify.com/artist/6ZcX2gJ5PoAb1P91EYoNRe
+  url: 'https://open.spotify.com/artist/6ZcX2gJ5PoAb1P91EYoNRe'
 status: active
 title: Vega Heartbreak & Indiana Rome
+artist_type: person
 ---
 
 ![](vega_heartbreak_and_indiana_rome.jpg)

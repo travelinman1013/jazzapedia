@@ -1,37 +1,38 @@
 ---
 biography_enhanced_at: '2026-01-23T01:41:37.558785'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:41:37.558792'
 external_urls:
-  spotify: https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE
+  spotify: 'https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/la_reezy.jpg
 last_updated: '2026-01-23T01:41:37.558793'
 musical_connections:
   collaborators:
-  - Little Simz
-  - JBoogz
-  - Wale
-  - LaRussell
+    - Little Simz
+    - JBoogz
+    - Wale
+    - LaRussell
   influenced: []
   mentors:
-  - Kendrick Lamar
-  - Tyler, The Creator
-  - Kanye West
+    - Kendrick Lamar
+    - 'Tyler, The Creator'
+    - Kanye West
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=qHi3ecn8K3g
-- https://www.myneworleans.com/2025-will-be-rapper-la-reezys-year/
+  - 'https://www.youtube.com/watch?v=qHi3ecn8K3g'
+  - 'https://www.myneworleans.com/2025-will-be-rapper-la-reezys-year/'
 spotify_data:
   followers: 33231
   id: 2uVTJrWgoWoJmImS2I0KVE
   popularity: 42
-  url: https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE
+  url: 'https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE'
 status: active
 title: La Reezy
+artist_type: person
 ---
 
 ![](la_reezy.jpg)

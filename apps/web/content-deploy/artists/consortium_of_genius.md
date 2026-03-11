@@ -1,36 +1,37 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-24T01:58:32.197062'
 birth_date: '1996-06-29'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:58:32.197069'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9ac89b68-56c8-49be-8f91-a505ec8bef0a
-  spotify: https://open.spotify.com/artist/2j4U6NpkLUcx9HJs18Jjdp
+  musicbrainz: 'https://musicbrainz.org/artist/9ac89b68-56c8-49be-8f91-a505ec8bef0a'
+  spotify: 'https://open.spotify.com/artist/2j4U6NpkLUcx9HJs18Jjdp'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-24T01:58:32.197070'
 musical_connections:
   collaborators:
-  - Dr. Milo Thaddeus Pinkerton III
+    - Dr. Milo Thaddeus Pinkerton III
   influenced: []
   mentors: []
 musicbrainz_id: 9ac89b68-56c8-49be-8f91-a505ec8bef0a
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Consortium/+wiki
-- http://www.consortiumofgenius.com/personnel/
-- https://bigeasymagazine.com/2019/01/24/community-spotlight-consortium-of-genius-supervillain-rock-and-then-some/
+  - 'https://www.last.fm/music/Consortium/+wiki'
+  - 'http://www.consortiumofgenius.com/personnel/'
+  - >-
+    https://bigeasymagazine.com/2019/01/24/community-spotlight-consortium-of-genius-supervillain-rock-and-then-some/
 spotify_data:
   followers: 1
   id: 2j4U6NpkLUcx9HJs18Jjdp
   popularity: 0
-  url: https://open.spotify.com/artist/2j4U6NpkLUcx9HJs18Jjdp
+  url: 'https://open.spotify.com/artist/2j4U6NpkLUcx9HJs18Jjdp'
 status: active
-title: consortium of genius
+title: The Consortium Of Genius
 ---
 
 ![]()

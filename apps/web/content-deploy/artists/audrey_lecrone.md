@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-20T01:22:00.602302'
-birth_place: Bennington, Kansas, USA
+birth_place: 'Bennington, Kansas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:22:00.602312'
 external_urls:
-  spotify: https://open.spotify.com/artist/68nWeJdTUk0kml6tRhMIEF
+  spotify: 'https://open.spotify.com/artist/68nWeJdTUk0kml6tRhMIEF'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/audrey_lecrone.jpg
 last_updated: '2026-02-20T01:22:00.602314'
 musical_connections:
   collaborators:
-  - Jordan Bush
-  - Belinda Moody
-  - Kolja Gjoni
-  - Dorian Roberts
-  - Cameron Clark
-  - Daniel Kaluuya
+    - Jordan Bush
+    - Belinda Moody
+    - Kolja Gjoni
+    - Dorian Roberts
+    - Cameron Clark
+    - Daniel Kaluuya
   influenced:
-  - Daniel Kaluuya
+    - Daniel Kaluuya
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.audreylecrone.com/about-3
-- https://www.nolacrawzaddies.com/about-1
-- https://www.youtube.com/watch?v=GjEBkzU9XMg
-- https://www.youtube.com/watch?v=BDfk9H2NkhM
-- https://www.youtube.com/watch?v=G7O7f_3nnhE
-- https://www.vasta.org/content.aspx?page_id=4002&club_id=516524&item_id=2336659
+  - 'https://www.audreylecrone.com/about-3'
+  - 'https://www.nolacrawzaddies.com/about-1'
+  - 'https://www.youtube.com/watch?v=GjEBkzU9XMg'
+  - 'https://www.youtube.com/watch?v=BDfk9H2NkhM'
+  - 'https://www.youtube.com/watch?v=G7O7f_3nnhE'
+  - >-
+    https://www.vasta.org/content.aspx?page_id=4002&club_id=516524&item_id=2336659
 spotify_data:
   followers: 15
   id: 68nWeJdTUk0kml6tRhMIEF
   popularity: 0
-  url: https://open.spotify.com/artist/68nWeJdTUk0kml6tRhMIEF
+  url: 'https://open.spotify.com/artist/68nWeJdTUk0kml6tRhMIEF'
 status: active
 title: Audrey LeCrone
+artist_type: person
 ---
 
 ![](audrey_lecrone.jpg)

@@ -1,50 +1,54 @@
 ---
 biography_enhanced_at: '2026-02-03T02:05:05.509142'
-birth_place: Detroit, Michigan, USA (birthplace); Columbiaville, Michigan, USA (raised);
+birth_place: >-
+  Detroit, Michigan, USA (birthplace); Columbiaville, Michigan, USA (raised);
   currently Santa Fe, New Mexico, USA
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:05:05.509151'
 external_urls:
-  spotify: https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs
-  wikipedia: https://en.wikipedia.org/wiki/Esther_Rose_(musician)
+  spotify: 'https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Esther_Rose_(musician)'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/esther_rose.jpg
 last_updated: '2026-02-03T02:05:05.509153'
 musical_connections:
   collaborators:
-  - Luke Winslow-King
-  - Lonnie Leary
-  - Meredith Stoner
-  - Kunal Prakash
-  - Howe Pearson
-  - Gina Leslie
-  - John James Tourville
-  - Dean Johnson
-  - Video Age
+    - Luke Winslow-King
+    - Lonnie Leary
+    - Meredith Stoner
+    - Kunal Prakash
+    - Howe Pearson
+    - Gina Leslie
+    - John James Tourville
+    - Dean Johnson
+    - Video Age
   influenced: []
   mentors:
-  - Luke Winslow-King
-  - Ross Farbe
+    - Luke Winslow-King
+    - Ross Farbe
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Esther_Rose_(musician)
-- https://americana-uk.com/more-people-really-should-know-about-esther-rose
-- https://klanderman.wordpress.com/wp-content/uploads/2023/04/estherrose_22safetorun_22biography.pdf
-- https://mokbpresents.com/artist/esther-rose/
-- https://www.estherrose.net/bio
-- https://nelsonvillefest.org/artist/esther-rose/
-- https://thecreativeindependent.com/people/musician-esther-rose-on-questioning-your-path-and-forging-new-ones/
-- https://thebluegrasssituation.com/read/listen-esther-rose-dream-girl/
+  - 'https://en.wikipedia.org/wiki/Esther_Rose_(musician)'
+  - 'https://americana-uk.com/more-people-really-should-know-about-esther-rose'
+  - >-
+    https://klanderman.wordpress.com/wp-content/uploads/2023/04/estherrose_22safetorun_22biography.pdf
+  - 'https://mokbpresents.com/artist/esther-rose/'
+  - 'https://www.estherrose.net/bio'
+  - 'https://nelsonvillefest.org/artist/esther-rose/'
+  - >-
+    https://thecreativeindependent.com/people/musician-esther-rose-on-questioning-your-path-and-forging-new-ones/
+  - 'https://thebluegrasssituation.com/read/listen-esther-rose-dream-girl/'
 spotify_data:
   followers: 24463
   id: 2oHUiSQkf9M1TELQvNJJPs
   popularity: 42
-  url: https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs
+  url: 'https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs'
 status: active
 title: Esther Rose
+artist_type: person
 ---
 
 ![](esther_rose.jpg)

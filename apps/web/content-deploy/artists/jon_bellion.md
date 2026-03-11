@@ -2,53 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2026-01-27T01:58:45.737425'
 birth_date: '1990-12-26'
-birth_place: Lake Grove
+birth_place: 'Lake Grove, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:58:45.737433'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2bd8101a-11c3-42d5-a9bd-6a3b26445f7e
-  spotify: https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg
-  wikipedia: https://en.wikipedia.org/wiki/Jon_Bellion
+  musicbrainz: 'https://musicbrainz.org/artist/2bd8101a-11c3-42d5-a9bd-6a3b26445f7e'
+  spotify: 'https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jon_Bellion'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jon_bellion.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2026-01-27T01:58:45.737434'
 musical_connections:
   collaborators:
-  - Eminem and Rihanna
-  - Jason Derulo
-  - Lawrence (band)
-  - Jonas Brothers
-  - Maroon 5
-  - Halsey
-  - Camila Cabello
-  - Justin Bieber (feat. Chance the Rapper)
+    - Eminem and Rihanna
+    - Jason Derulo
+    - Lawrence (band)
+    - Jonas Brothers
+    - Maroon 5
+    - Halsey
+    - Camila Cabello
+    - Justin Bieber (feat. Chance the Rapper)
   influenced: []
   mentors:
-  - Kara DioGuardi
+    - Kara DioGuardi
 musicbrainz_id: 2bd8101a-11c3-42d5-a9bd-6a3b26445f7e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jon_Bellion
-- https://simple.wikipedia.org/wiki/Jon_Bellion
-- https://top40-charts.com/artist.php?aid=17604
-- https://kids.kiddle.co/Jon_Bellion
-- https://www.last.fm/music/Jon+Bellion/+wiki
-- https://jonbellion.fandom.com/wiki/Jon_Bellion
-- https://www.allamericanspeakers.com/speakers/422550/Jon-Bellion
+  - 'https://en.wikipedia.org/wiki/Jon_Bellion'
+  - 'https://simple.wikipedia.org/wiki/Jon_Bellion'
+  - 'https://top40-charts.com/artist.php?aid=17604'
+  - 'https://kids.kiddle.co/Jon_Bellion'
+  - 'https://www.last.fm/music/Jon+Bellion/+wiki'
+  - 'https://jonbellion.fandom.com/wiki/Jon_Bellion'
+  - 'https://www.allamericanspeakers.com/speakers/422550/Jon-Bellion'
 spotify_data:
   followers: 1537285
   id: 50JJSqHUf2RQ9xsHs0KMHg
   popularity: 67
-  url: https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg
+  url: 'https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg'
 status: active
 tags:
-- hip hop
-- pop
-title: jon bellion
+  - hip hop
+  - pop
+title: Jon Bellion
 ---
 
 ![](jon_bellion.jpg)

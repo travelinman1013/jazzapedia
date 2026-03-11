@@ -2,47 +2,49 @@
 artist_type: person
 biography_enhanced_at: '2026-02-21T01:36:40.843716'
 birth_date: '1913-07-04'
-birth_place: Panola County
+birth_place: 'Panola County, Mississippi, United States'
 death_date: '2002-01-23'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:36:40.843726'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f12450b4-a0f0-4f4d-9a43-45b4712871db
-  spotify: https://open.spotify.com/artist/7oBXyO32Jye8fDiyzFdrPU
+  musicbrainz: 'https://musicbrainz.org/artist/f12450b4-a0f0-4f4d-9a43-45b4712871db'
+  spotify: 'https://open.spotify.com/artist/7oBXyO32Jye8fDiyzFdrPU'
   wikipedia: ''
 gender: Male
 genres:
-- country blues
-- blues
-- classic blues
+  - country blues
+  - blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/ranie_burnette.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-02-21T01:36:40.843727'
 musical_connections:
   collaborators:
-  - R.L. Burnside
-  - Johnny Woods
-  - Leo Bruin
+    - R.L. Burnside
+    - Johnny Woods
+    - Leo Bruin
   influenced:
-  - R.L. Burnside
+    - R.L. Burnside
   mentors: []
 musicbrainz_id: f12450b4-a0f0-4f4d-9a43-45b4712871db
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://msbluestrail.org/blues-trail-markers/rl-burnside
-- https://fatpossum.com/collections/ranie-burnette
-- https://www.last.fm/music/Ranie+Burnette/+wiki
-- https://fatpossum.com/products/hill-country-blues
-- https://www.bluesblastmagazine.com/various-artists-50-years-of-como-ms-blues-album-review/
+  - 'https://msbluestrail.org/blues-trail-markers/rl-burnside'
+  - 'https://fatpossum.com/collections/ranie-burnette'
+  - 'https://www.last.fm/music/Ranie+Burnette/+wiki'
+  - 'https://fatpossum.com/products/hill-country-blues'
+  - >-
+    https://www.bluesblastmagazine.com/various-artists-50-years-of-como-ms-blues-album-review/
 spotify_data:
   followers: 1202
   id: 7oBXyO32Jye8fDiyzFdrPU
   popularity: 2
-  url: https://open.spotify.com/artist/7oBXyO32Jye8fDiyzFdrPU
+  url: 'https://open.spotify.com/artist/7oBXyO32Jye8fDiyzFdrPU'
 status: active
-title: ranie burnette
+title: Ranie Burnette
+is_active: false
 ---
 
 ![](ranie_burnette.jpg)

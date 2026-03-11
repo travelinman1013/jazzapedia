@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-10T01:54:23.964233'
-birth_place: Metairie, Louisiana, United States
+birth_place: 'Metairie, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:54:23.964242'
 external_urls:
-  spotify: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
-  wikipedia: https://en.wikipedia.org/wiki/Jon_Batiste
+  spotify: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jon_Batiste'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jon_batiste_feat_no_id.jpg
 last_updated: '2026-02-10T01:54:23.964244'
 musical_connections:
   collaborators:
-  - Phil Kuehn
-  - Joe Saylor
-  - Eddie Barbash
-  - No I.D. (Dion Wilson)
-  - Stay Human
+    - Phil Kuehn
+    - Joe Saylor
+    - Eddie Barbash
+    - No I.D. (Dion Wilson)
+    - Stay Human
   influenced: []
   mentors:
-  - William Daghlian
+    - William Daghlian
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Jon-Batiste
-- https://www.bso.org/profiles/jon-batiste
-- https://en.wikipedia.org/wiki/Jon_Batiste
-- https://www.capitalbop.com/interview-jon-batiste-on-nola-modern-music-and-staying-human-theres-room-for-everybody/
-- https://en.wikipedia.org/wiki/Jon_Batiste
-- https://www.cannopy.ca/article/16.01-%7C-jon-batiste-
+  - 'https://www.britannica.com/biography/Jon-Batiste'
+  - 'https://www.bso.org/profiles/jon-batiste'
+  - 'https://en.wikipedia.org/wiki/Jon_Batiste'
+  - >-
+    https://www.capitalbop.com/interview-jon-batiste-on-nola-modern-music-and-staying-human-theres-room-for-everybody/
+  - 'https://en.wikipedia.org/wiki/Jon_Batiste'
+  - 'https://www.cannopy.ca/article/16.01-%7C-jon-batiste-'
 spotify_data:
   followers: 638692
   id: 0eRbECAGCLLiTyVXPBRexU
   popularity: 59
-  url: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
+  url: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
 status: active
 title: Jon Batiste Feat No ID
+birth_date: '1986-11-11'
+artist_type: person
 ---
 
 ![](jon_batiste_feat_no_id.jpg)

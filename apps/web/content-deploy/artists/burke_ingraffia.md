@@ -2,12 +2,12 @@
 artist_type: person
 biography_enhanced_at: '2026-02-03T02:01:18.853330'
 birth_date: '1970-05-08'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:01:18.853341'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6b4ef829-08fd-4b80-99a4-01f23c32b047
-  spotify: https://open.spotify.com/artist/2yQ9lFPVv5jsbRuNVq734t
+  musicbrainz: 'https://musicbrainz.org/artist/6b4ef829-08fd-4b80-99a4-01f23c32b047'
+  spotify: 'https://open.spotify.com/artist/2yQ9lFPVv5jsbRuNVq734t'
   wikipedia: ''
 gender: Male
 genres: []
@@ -15,30 +15,31 @@ image_path: 03_Resources/source_material/ArtistPortraits/burke_ingraffia.jpg
 last_updated: '2026-02-03T02:01:18.853343'
 musical_connections:
   collaborators:
-  - Johnny Vidacovich
-  - James Singleton
-  - John Gros
-  - Scott Billington
+    - Johnny Vidacovich
+    - James Singleton
+    - John Gros
+    - Scott Billington
   influenced: []
   mentors:
-  - Mose Allison
-  - Bob Dorough
+    - Mose Allison
+    - Bob Dorough
 musicbrainz_id: 6b4ef829-08fd-4b80-99a4-01f23c32b047
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://purplefiddle.com/bands/burke-ingraffia/
-- https://artasworship.net/2013/03/02/burke-ingraffia/
-- https://www.allaboutjazz.com/musicians/burke-ingraffia/
-- https://saintsonic.com/about/
-- https://www.highrocks.com/2026/01/alumni-spotlight-burke-ingraffia/
+  - 'https://purplefiddle.com/bands/burke-ingraffia/'
+  - 'https://artasworship.net/2013/03/02/burke-ingraffia/'
+  - 'https://www.allaboutjazz.com/musicians/burke-ingraffia/'
+  - 'https://saintsonic.com/about/'
+  - 'https://www.highrocks.com/2026/01/alumni-spotlight-burke-ingraffia/'
 spotify_data:
   followers: 170
   id: 2yQ9lFPVv5jsbRuNVq734t
   popularity: 1
-  url: https://open.spotify.com/artist/2yQ9lFPVv5jsbRuNVq734t
+  url: 'https://open.spotify.com/artist/2yQ9lFPVv5jsbRuNVq734t'
 status: active
 title: Burke Ingraffia
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](burke_ingraffia.jpg)

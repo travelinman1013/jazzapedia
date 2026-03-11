@@ -1,39 +1,39 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-30T01:14:54.073592'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:14:54.073602'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1d0aced5-a749-4127-963b-29488c40f914
-  spotify: https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR
+  musicbrainz: 'https://musicbrainz.org/artist/1d0aced5-a749-4127-963b-29488c40f914'
+  spotify: 'https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR'
   wikipedia: ''
 genres:
-- norwegian pop
+  - norwegian pop
 image_path: 03_Resources/source_material/ArtistPortraits/maridalen.jpg
 last_updated: '2026-01-30T01:14:54.073603'
 musical_connections:
   collaborators:
-  - Emil Brattested
-  - Erland Dahlen
-  - Aleksander Sjølie
+    - Emil Brattested
+    - Erland Dahlen
+    - Aleksander Sjølie
   influenced: []
   mentors: []
 musicbrainz_id: 1d0aced5-a749-4127-963b-29488c40f914
 network_extracted: true
-origin: Maridalen valley, Oslo, Norway
+origin: 'Maridalen valley, Oslo, Norway'
 primary_source: perplexity
 research_sources:
-- https://www.fasching.se/en/maridalen/
-- https://www.maridalentrio.com
-- https://www.bandsintown.com/e/107298540
-- https://jazzjournal.co.uk/2021/09/23/maridalen-maridalen/
-- https://www.youtube.com/watch?v=D7CpzCcJtsg
-- https://www.allaboutjazz.com/maridalen-maridalen-jazzland-recordings/
+  - 'https://www.fasching.se/en/maridalen/'
+  - 'https://www.maridalentrio.com'
+  - 'https://www.bandsintown.com/e/107298540'
+  - 'https://jazzjournal.co.uk/2021/09/23/maridalen-maridalen/'
+  - 'https://www.youtube.com/watch?v=D7CpzCcJtsg'
+  - 'https://www.allaboutjazz.com/maridalen-maridalen-jazzland-recordings/'
 spotify_data:
   followers: 227276
   id: 3rTRHzFfbTk5GL3LpYZGHR
   popularity: 55
-  url: https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR
+  url: 'https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR'
 status: active
 title: Maridalen
 ---

@@ -1,10 +1,10 @@
 ---
 biography_enhanced_at: '2026-03-08T03:01:05.712964'
-birth_place: Belo Horizonte, Minas Gerais, Brazil
+birth_place: 'Belo Horizonte, Minas Gerais, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:01:05.712973'
 external_urls:
-  spotify: https://open.spotify.com/artist/1pqqr5TjFYCs6ZjyIB7SUz
+  spotify: 'https://open.spotify.com/artist/1pqqr5TjFYCs6ZjyIB7SUz'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/welbert_almeida.jpg
@@ -16,15 +16,17 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://open.spotify.com/artist/1pqqr5TjFYCs6ZjyIB7SUz
-- https://welbertalmeida.musicaneo.com/de/about.html
+  - 'https://open.spotify.com/artist/1pqqr5TjFYCs6ZjyIB7SUz'
+  - 'https://welbertalmeida.musicaneo.com/de/about.html'
 spotify_data:
   followers: 19
   id: 1pqqr5TjFYCs6ZjyIB7SUz
   popularity: 0
-  url: https://open.spotify.com/artist/1pqqr5TjFYCs6ZjyIB7SUz
+  url: 'https://open.spotify.com/artist/1pqqr5TjFYCs6ZjyIB7SUz'
 status: active
 title: Welbert Almeida
+birth_date: '2003-03-18'
+artist_type: person
 ---
 
 ![](welbert_almeida.jpg)

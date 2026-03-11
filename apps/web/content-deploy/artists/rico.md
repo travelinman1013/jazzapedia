@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-23T03:07:57.988871'
-birth_place: Philippines
+birth_place: 'Philippines, Philippines, Philippines'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:07:57.988881'
 external_urls:
-  spotify: https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0
-  wikipedia: https://en.wikipedia.org/wiki/Rico_Blanco
+  spotify: 'https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rico_Blanco'
 genres:
-- opm
-- pinoy alternative
-- pinoy rock
-- harana
-- pinoy indie
-- parang
-- p-pop
-- kundiman
+  - opm
+  - pinoy alternative
+  - pinoy rock
+  - harana
+  - pinoy indie
+  - parang
+  - p-pop
+  - kundiman
 image_path: 03_Resources/source_material/ArtistPortraits/rico.jpg
 last_updated: '2026-02-23T03:07:57.988882'
 musical_connections:
   collaborators:
-  - Rivermaya
-  - Slapshock
-  - Sugarfree
-  - The Dawn
-  - Jamir Garcia
+    - Rivermaya
+    - Slapshock
+    - Sugarfree
+    - The Dawn
+    - Jamir Garcia
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rico_Blanco
-- https://www.youtube.com/watch?v=LXr_dBsPNFg
-- https://www.scribd.com/document/336141536/Rico-Blanco
+  - 'https://en.wikipedia.org/wiki/Rico_Blanco'
+  - 'https://www.youtube.com/watch?v=LXr_dBsPNFg'
+  - 'https://www.scribd.com/document/336141536/Rico-Blanco'
 spotify_data:
   followers: 1824916
   id: 6l880dxsvN2x5wiceaG6D0
   popularity: 63
-  url: https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0
+  url: 'https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0'
 status: active
 title: Rico
+birth_date: '1973-03-17'
+artist_type: person
 ---
 
 ![](rico.jpg)

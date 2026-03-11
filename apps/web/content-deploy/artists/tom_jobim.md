@@ -1,49 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-01T01:26:48.504681'
-birth_place: Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:26:48.504687'
 external_urls:
-  spotify: https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG
-  wikipedia: https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim
+  spotify: 'https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim'
 genres:
-- bossa nova
-- brazilian jazz
-- mpb
-- latin jazz
+  - bossa nova
+  - brazilian jazz
+  - mpb
+  - latin jazz
 image_path: 03_Resources/source_material/ArtistPortraits/tom_jobim.jpg
 last_updated: '2026-02-01T01:26:48.504687'
 musical_connections:
   collaborators:
-  - Vinicius de Moraes
-  - João Gilberto
-  - Stan Getz
-  - Astrud Gilberto
-  - Luís Bonfá
+    - Vinicius de Moraes
+    - João Gilberto
+    - Stan Getz
+    - Astrud Gilberto
+    - Luís Bonfá
   influenced:
-  - Stan Getz
-  - Charlie Byrd
-  - Sergio Mendes
+    - Stan Getz
+    - Charlie Byrd
+    - Sergio Mendes
   mentors:
-  - Debussy
-  - Ravel
-  - Pixinguinha
+    - Debussy
+    - Ravel
+    - Pixinguinha
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jazzstandards.com/biographies/biography_222.htm
-- https://jazzvideolessons.net/antonio-carlos-jobim-the-genius-behind-bossa-nova/
-- https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim
-- https://www.songhall.org/profiles/antonio-carlos-jobim
-- https://wicn.org/wicn-artist-of-the-month-january-22-antonio-carlos-jobim/
-- https://www.goodreads.com/book/show/1141545.Antonio_Carlos_Jobim
+  - 'https://www.jazzstandards.com/biographies/biography_222.htm'
+  - >-
+    https://jazzvideolessons.net/antonio-carlos-jobim-the-genius-behind-bossa-nova/
+  - 'https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim'
+  - 'https://www.songhall.org/profiles/antonio-carlos-jobim'
+  - 'https://wicn.org/wicn-artist-of-the-month-january-22-antonio-carlos-jobim/'
+  - 'https://www.goodreads.com/book/show/1141545.Antonio_Carlos_Jobim'
 spotify_data:
   followers: 893375
   id: 3pO5VjZ4wOHCMBXOvbMISG
   popularity: 70
-  url: https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG
+  url: 'https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG'
 status: active
 title: Tom Jobim
+birth_date: '1927-01-25'
+artist_type: person
 ---
 
 ![](tom_jobim.jpg)

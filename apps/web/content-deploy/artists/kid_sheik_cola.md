@@ -1,44 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-03T02:08:01.827363'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:08:01.827381'
 external_urls:
-  spotify: https://open.spotify.com/artist/4oJIgzESdA57qW4l3w85TL
-  wikipedia: https://en.wikipedia.org/wiki/Kid_Sheik
+  spotify: 'https://open.spotify.com/artist/4oJIgzESdA57qW4l3w85TL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kid_Sheik'
 genres: []
 image_path: ''
 last_updated: '2026-02-03T02:08:01.827384'
 musical_connections:
   collaborators:
-  - George Lewis
-  - Eureka Brass Band
-  - Olympia Brass Band
-  - Preservation Hall Jazz Band
-  - Sadie Goodson
-  - Barry Martyn
-  - Captain John Handy
-  - Louis Nelson
+    - George Lewis
+    - Eureka Brass Band
+    - Olympia Brass Band
+    - Preservation Hall Jazz Band
+    - Sadie Goodson
+    - Barry Martyn
+    - Captain John Handy
+    - Louis Nelson
   influenced: []
   mentors:
-  - Wooden Joe Nicholas
-  - Chris Kelley
+    - Wooden Joe Nicholas
+    - Chris Kelley
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kid_Sheik
-- https://alexalbright.works/research/music/blues-jazz/new-orleans-music/9223-2/
-- https://www.groovespin.com/artist/george-kid-sheik-cola
-- https://kids.kiddle.co/Kid_Sheik
-- https://musicrising.tulane.edu/discover/people/george-kid-sheik/
-- https://www.allmusic.com/artist/kid-sheik-cola-mn0002284820
+  - 'https://en.wikipedia.org/wiki/Kid_Sheik'
+  - >-
+    https://alexalbright.works/research/music/blues-jazz/new-orleans-music/9223-2/
+  - 'https://www.groovespin.com/artist/george-kid-sheik-cola'
+  - 'https://kids.kiddle.co/Kid_Sheik'
+  - 'https://musicrising.tulane.edu/discover/people/george-kid-sheik/'
+  - 'https://www.allmusic.com/artist/kid-sheik-cola-mn0002284820'
 spotify_data:
   followers: 0
   id: 4oJIgzESdA57qW4l3w85TL
   popularity: 0
-  url: https://open.spotify.com/artist/4oJIgzESdA57qW4l3w85TL
+  url: 'https://open.spotify.com/artist/4oJIgzESdA57qW4l3w85TL'
 status: active
-title: KID SHEIK COLA
+title: Kid Sheik Cola
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1908-09-15'
+artist_type: person
 ---
 
 ![]()

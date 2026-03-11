@@ -1,47 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-17T01:22:24.989233'
-birth_place: Garden City, Texas, USA
+birth_place: 'Garden City, Texas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-17T01:22:24.989240'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b58864f0-a635-465e-bb81-a3e5a00e9217
-  spotify: https://open.spotify.com/artist/0SDGEgp8DEGaudRPNxBttt
+  musicbrainz: 'https://musicbrainz.org/artist/b58864f0-a635-465e-bb81-a3e5a00e9217'
+  spotify: 'https://open.spotify.com/artist/0SDGEgp8DEGaudRPNxBttt'
   wikipedia: ''
 genres:
-- new orleans bounce
-- bounce
-- southern hip hop
+  - new orleans bounce
+  - bounce
+  - southern hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/jdawg.jpg
 last_updated: '2026-02-17T01:22:24.989241'
 musical_connections:
   collaborators:
-  - Slim Thug
-  - Threat
-  - DJ Jaz
-  - Underboss
-  - Chamillionaire
-  - Pimp C
+    - Slim Thug
+    - Threat
+    - DJ Jaz
+    - Underboss
+    - Chamillionaire
+    - Pimp C
   influenced:
-  - Jay Jones
+    - Jay Jones
   mentors:
-  - Dana Dane
+    - Dana Dane
 musicbrainz_id: b58864f0-a635-465e-bb81-a3e5a00e9217
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.livetrigger.com/profile/7419/jdawg/
-- https://www.lebronjames.co/interviews/j-dawg
-- https://www.youtube.com/watch?v=rn_BwCYlWO0
-- https://www.youtube.com/watch?v=qzbswzwL91Y
-- https://www.thegoodoldayz.com/artist/j-dawg/4919.html
-- https://www.iheart.com/artist/j-dawg-337950/
+  - 'https://www.livetrigger.com/profile/7419/jdawg/'
+  - 'https://www.lebronjames.co/interviews/j-dawg'
+  - 'https://www.youtube.com/watch?v=rn_BwCYlWO0'
+  - 'https://www.youtube.com/watch?v=qzbswzwL91Y'
+  - 'https://www.thegoodoldayz.com/artist/j-dawg/4919.html'
+  - 'https://www.iheart.com/artist/j-dawg-337950/'
 spotify_data:
   followers: 122952
   id: 0SDGEgp8DEGaudRPNxBttt
   popularity: 35
-  url: https://open.spotify.com/artist/0SDGEgp8DEGaudRPNxBttt
+  url: 'https://open.spotify.com/artist/0SDGEgp8DEGaudRPNxBttt'
 status: active
 title: JDawg
+artist_type: person
 ---
 
 ![](jdawg.jpg)

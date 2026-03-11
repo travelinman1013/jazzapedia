@@ -3,40 +3,44 @@ biography_enhanced_at: '2026-02-15T01:54:23.598312'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:54:23.598331'
 external_urls:
-  spotify: https://open.spotify.com/artist/1EKoLMMmw6n1FOhnnelZHn
+  spotify: 'https://open.spotify.com/artist/1EKoLMMmw6n1FOhnnelZHn'
   wikipedia: ''
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/brass_queens.jpg
 last_updated: '2026-02-15T01:54:23.598350'
 musical_connections:
   collaborators:
-  - David Byrne
-  - Alex Harris
-  - Ally Chapel
-  - Stephanie King
+    - David Byrne
+    - Alex Harris
+    - Ally Chapel
+    - Stephanie King
   influenced: []
   mentors:
-  - Rebirth Brass Band
-  - The Soul Rebels
+    - Rebirth Brass Band
+    - The Soul Rebels
 network_extracted: true
-origin: Brooklyn, New York, USA
+origin: 'Brooklyn, New York, USA'
 primary_source: perplexity
 research_sources:
-- https://www.brassqueensnyc.com
-- https://www.bendsource.com/music/a-female-brass-band-is-changing-stereotypes/
-- https://www.colorado.edu/coloradan/2024/07/16/brass-queens-redefining-landscape-female-musicians-nyc
-- https://www.southarts.org/events/brass-queens-2025-11-18
-- https://relix.com/articles/detail/at-work-brass-queens/
-- https://www.cbsnews.com/newyork/news/nyc-village-halloween-parade-brass-queens/
-- https://www.rmpbs.org/shows/live-on-kuvo/episodes/brass-queens-wupqgj
+  - 'https://www.brassqueensnyc.com'
+  - >-
+    https://www.bendsource.com/music/a-female-brass-band-is-changing-stereotypes/
+  - >-
+    https://www.colorado.edu/coloradan/2024/07/16/brass-queens-redefining-landscape-female-musicians-nyc
+  - 'https://www.southarts.org/events/brass-queens-2025-11-18'
+  - 'https://relix.com/articles/detail/at-work-brass-queens/'
+  - >-
+    https://www.cbsnews.com/newyork/news/nyc-village-halloween-parade-brass-queens/
+  - 'https://www.rmpbs.org/shows/live-on-kuvo/episodes/brass-queens-wupqgj'
 spotify_data:
   followers: 1667
   id: 1EKoLMMmw6n1FOhnnelZHn
   popularity: 6
-  url: https://open.spotify.com/artist/1EKoLMMmw6n1FOhnnelZHn
+  url: 'https://open.spotify.com/artist/1EKoLMMmw6n1FOhnnelZHn'
 status: active
 title: Brass Queens
+artist_type: band
 ---
 
 ![](brass_queens.jpg)

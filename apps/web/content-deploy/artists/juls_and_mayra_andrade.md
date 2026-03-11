@@ -1,46 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-15T01:52:12.482643'
-birth_place: Havana, Cuba
+birth_place: 'Havana, Cuba, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:52:12.482654'
 external_urls:
-  spotify: https://open.spotify.com/artist/1FQhAc4BBYQOYgTSgVdTI2
-  wikipedia: https://en.wikipedia.org/wiki/Mayra_Andrade
+  spotify: 'https://open.spotify.com/artist/1FQhAc4BBYQOYgTSgVdTI2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mayra_Andrade'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/juls_and_mayra_andrade.jpg
 last_updated: '2026-02-15T01:52:12.482656'
 musical_connections:
   collaborators:
-  - Kim Alves
-  - Etienne M’Bappé
-  - Zé Luis Nascimento
-  - Cesária Évora
-  - Ornette Coleman
-  - Manu Dibango
-  - Milton Nascimento
-  - Juls
-  - Branko
-  - Nelson Freitas
+    - Kim Alves
+    - Etienne M’Bappé
+    - Zé Luis Nascimento
+    - Cesária Évora
+    - Ornette Coleman
+    - Manu Dibango
+    - Milton Nascimento
+    - Juls
+    - Branko
+    - Nelson Freitas
   influenced:
-  - New generation of African musicians
+    - New generation of African musicians
   mentors:
-  - Orlando Pantera
+    - Orlando Pantera
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mayra_Andrade
-- https://cabo-verde.cv/mayra-andrade-an-enchanting-voice-of-cape-verdean-music/
-- https://kids.kiddle.co/Mayra_Andrade
-- https://www.worldmusic.co.uk/mayra_andrade
-- https://www.vogue.pt/english-version-mystery-issue-interview-mayra-andrade
-- https://www.viberate.com/artist/mayra-andrade/
+  - 'https://en.wikipedia.org/wiki/Mayra_Andrade'
+  - >-
+    https://cabo-verde.cv/mayra-andrade-an-enchanting-voice-of-cape-verdean-music/
+  - 'https://kids.kiddle.co/Mayra_Andrade'
+  - 'https://www.worldmusic.co.uk/mayra_andrade'
+  - 'https://www.vogue.pt/english-version-mystery-issue-interview-mayra-andrade'
+  - 'https://www.viberate.com/artist/mayra-andrade/'
 spotify_data:
   followers: 242
   id: 1FQhAc4BBYQOYgTSgVdTI2
   popularity: 1
-  url: https://open.spotify.com/artist/1FQhAc4BBYQOYgTSgVdTI2
+  url: 'https://open.spotify.com/artist/1FQhAc4BBYQOYgTSgVdTI2'
 status: active
-title: juls & mayra andrade
+title: Juls & Mayra Andrade
+birth_date: '1985-02-13'
+artist_type: person
 ---
 
 ![](juls_and_mayra_andrade.jpg)

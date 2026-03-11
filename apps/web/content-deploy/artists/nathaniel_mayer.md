@@ -1,41 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-10T01:51:05.120649'
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:51:05.120660'
 external_urls:
-  spotify: https://open.spotify.com/artist/1qQPoKyUjp8snBrmlFVZMw
+  spotify: 'https://open.spotify.com/artist/1qQPoKyUjp8snBrmlFVZMw'
   wikipedia: ''
 genres:
-- doo-wop
+  - doo-wop
 image_path: 03_Resources/source_material/ArtistPortraits/nathaniel_mayer.jpg
 last_updated: '2026-02-10T01:51:05.120661'
 musical_connections:
   collaborators:
-  - The Fabulous Twilights
-  - Thelma Hopkins and Joyce Vincent
-  - The Fortune Bravos
-  - Timmy Shaw
-  - Nathaniel 'Nay Dog' Mayer & the Filthy McNasty Group plus Free Style
+    - The Fabulous Twilights
+    - Thelma Hopkins and Joyce Vincent
+    - The Fortune Bravos
+    - Timmy Shaw
+    - Nathaniel 'Nay Dog' Mayer & the Filthy McNasty Group plus Free Style
   influenced: []
   mentors:
-  - Joe Weaver
-  - Sam Cooke
-  - Soul Stirrers
+    - Joe Weaver
+    - Sam Cooke
+    - Soul Stirrers
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://michiganrockandrolllegends.com/hall-of-fame/artists/365-nathaniel-mayer
-- https://fatpossum.com/collections/nathaniel-mayer
-- https://www.clevescene.com/music/nathaniel-mayer-1504096/
-- https://doo-wop.blogg.org/nathaniel-mayer-the-fabulous-twilights-a125215562
+  - >-
+    https://michiganrockandrolllegends.com/hall-of-fame/artists/365-nathaniel-mayer
+  - 'https://fatpossum.com/collections/nathaniel-mayer'
+  - 'https://www.clevescene.com/music/nathaniel-mayer-1504096/'
+  - 'https://doo-wop.blogg.org/nathaniel-mayer-the-fabulous-twilights-a125215562'
 spotify_data:
   followers: 1443
   id: 1qQPoKyUjp8snBrmlFVZMw
   popularity: 6
-  url: https://open.spotify.com/artist/1qQPoKyUjp8snBrmlFVZMw
+  url: 'https://open.spotify.com/artist/1qQPoKyUjp8snBrmlFVZMw'
 status: active
-title: NATHANIEL MAYER
+title: Nathaniel Mayer
+birth_date: '1944-02-10'
+artist_type: person
 ---
 
 ![](nathaniel_mayer.jpg)

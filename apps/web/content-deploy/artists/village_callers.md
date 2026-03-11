@@ -3,54 +3,58 @@ biography_enhanced_at: '2026-01-28T01:56:12.434685'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:56:12.434691'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1da7c6f1-cc0e-4aac-a091-d10693c3f087
-  spotify: https://open.spotify.com/artist/6M6bEJsn4d0GlkL6I8OfON
+  musicbrainz: 'https://musicbrainz.org/artist/1da7c6f1-cc0e-4aac-a091-d10693c3f087'
+  spotify: 'https://open.spotify.com/artist/6M6bEJsn4d0GlkL6I8OfON'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/village_callers.jpg
 last_updated: '2026-01-28T01:56:12.434692'
 musical_connections:
   collaborators:
-  - Marcy Alvarado
-  - Angie Bell
-  - Ersi Arvisu
-  - Al Anaya
-  - Eddie Davis
-  - Joe Espinoza
-  - Adolfo 'Fuzzy' Martinez
-  - Ernie Hernandez
-  - Manny Fernandez
-  - Johnny Gonzalez
-  - Chuck Masten
+    - Marcy Alvarado
+    - Angie Bell
+    - Ersi Arvisu
+    - Al Anaya
+    - Eddie Davis
+    - Joe Espinoza
+    - Adolfo 'Fuzzy' Martinez
+    - Ernie Hernandez
+    - Manny Fernandez
+    - Johnny Gonzalez
+    - Chuck Masten
   influenced:
-  - Sal Chico Band / Chico Band
-  - Silvanus
-  - Poverty Train
-  - Orange Colored Sky
+    - Sal Chico Band / Chico Band
+    - Silvanus
+    - Poverty Train
+    - Orange Colored Sky
   mentors:
-  - Willie Bobo
-  - Mongo Santamaria
-  - Jimmy Smith
+    - Willie Bobo
+    - Mongo Santamaria
+    - Jimmy Smith
 musicbrainz_id: 1da7c6f1-cc0e-4aac-a091-d10693c3f087
 network_extracted: true
-origin: East Los Angeles, California, USA
+origin: 'East Los Angeles, California, USA'
 primary_source: perplexity
 research_sources:
-- http://wwwyoufoundthateastsidesoundcom.blogspot.com/2020/03/eastside-bands-village-callers_30.html
-- https://ediblspaceships.substack.com/p/the-village-callers-hector-thefunkycypresshillsh
-- https://www.soundsvisualradio.com/podcast/episode-172-joe-espinosa-of-the-village-callers/
-- https://fleamarketfunk.com/2009/09/02/the-village-callers-hector/
-- https://www.last.fm/music/The+Village+Callers/+wiki
-- https://getsongkey.com/artist/the-village-callers/g5po3
-- https://www.jazzmusicarchives.com/artist/the-village-callers
-- https://eastlarevue.com/village-callers/
+  - >-
+    http://wwwyoufoundthateastsidesoundcom.blogspot.com/2020/03/eastside-bands-village-callers_30.html
+  - >-
+    https://ediblspaceships.substack.com/p/the-village-callers-hector-thefunkycypresshillsh
+  - >-
+    https://www.soundsvisualradio.com/podcast/episode-172-joe-espinosa-of-the-village-callers/
+  - 'https://fleamarketfunk.com/2009/09/02/the-village-callers-hector/'
+  - 'https://www.last.fm/music/The+Village+Callers/+wiki'
+  - 'https://getsongkey.com/artist/the-village-callers/g5po3'
+  - 'https://www.jazzmusicarchives.com/artist/the-village-callers'
+  - 'https://eastlarevue.com/village-callers/'
 spotify_data:
   followers: 2094
   id: 6M6bEJsn4d0GlkL6I8OfON
   popularity: 20
-  url: https://open.spotify.com/artist/6M6bEJsn4d0GlkL6I8OfON
+  url: 'https://open.spotify.com/artist/6M6bEJsn4d0GlkL6I8OfON'
 status: active
 title: Village Callers
+artist_type: band
 ---
 
 ![](village_callers.jpg)

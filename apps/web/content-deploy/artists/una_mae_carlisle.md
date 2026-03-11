@@ -1,63 +1,65 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 62ee1256-0846-4fe3-99cd-f8151d8a5801
-  name: Una Mae Carlise and Her Jam Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 62ee1256-0846-4fe3-99cd-f8151d8a5801
+    name: Una Mae Carlise and Her Jam Band
 biography_enhanced_at: '2026-02-16T01:03:00.544722'
 birth_date: '1915-12-26'
-birth_place: Zanesville
+birth_place: 'Zanesville, Ohio, United States'
 death_date: '1956-11-07'
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:03:00.544730'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3da7a5de-5354-4dd7-84ce-19694f2f7dac
-  spotify: https://open.spotify.com/artist/7ABfcwT8RFjLwxZ7ejdbJ6
-  wikipedia: https://en.wikipedia.org/wiki/Una_Mae_Carlisle
+  musicbrainz: 'https://musicbrainz.org/artist/3da7a5de-5354-4dd7-84ce-19694f2f7dac'
+  spotify: 'https://open.spotify.com/artist/7ABfcwT8RFjLwxZ7ejdbJ6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Una_Mae_Carlisle'
 gender: Female
 genres:
-- swing music
-- vocal jazz
+  - swing music
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/una_mae_carlisle.jpg
 instruments:
-- eponymous
-- piano
+  - eponymous
+  - piano
 last_updated: '2026-02-16T01:03:00.544732'
 musical_connections:
   collaborators:
-  - Lester Young
-  - Benny Carter
-  - John Kirby
-  - Charlie Shavers
-  - Ray Nance
-  - Danny Polo
-  - Dave Wilkins and Bertie King
+    - Lester Young
+    - Benny Carter
+    - John Kirby
+    - Charlie Shavers
+    - Ray Nance
+    - Danny Polo
+    - Dave Wilkins and Bertie King
   influenced: []
   mentors:
-  - Fats Waller
+    - Fats Waller
 musicbrainz_id: 3da7a5de-5354-4dd7-84ce-19694f2f7dac
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.angelfire.com/jazz/ninamaemckinney/UnaMaeCarlisle.html
-- https://en.wikipedia.org/wiki/Una_Mae_Carlisle
-- https://jazzlives.wordpress.com/2018/02/11/its-sad-but-true-una-mae-carlisle-1915-56/
-- https://travsd.wordpress.com/2012/12/26/una-mae-carlisle/
-- https://www.wijsf.org/jazzwomen/unamaecarlisle.htm
-- http://www.jazzarcheology.com/artists/una_mae_carlisle.pdf
-- https://syncopatedtimes.com/the-scintillating-enigma-of-una-mae-carlisle/
+  - 'https://www.angelfire.com/jazz/ninamaemckinney/UnaMaeCarlisle.html'
+  - 'https://en.wikipedia.org/wiki/Una_Mae_Carlisle'
+  - >-
+    https://jazzlives.wordpress.com/2018/02/11/its-sad-but-true-una-mae-carlisle-1915-56/
+  - 'https://travsd.wordpress.com/2012/12/26/una-mae-carlisle/'
+  - 'https://www.wijsf.org/jazzwomen/unamaecarlisle.htm'
+  - 'http://www.jazzarcheology.com/artists/una_mae_carlisle.pdf'
+  - 'https://syncopatedtimes.com/the-scintillating-enigma-of-una-mae-carlisle/'
 spotify_data:
   followers: 3551
   id: 7ABfcwT8RFjLwxZ7ejdbJ6
   popularity: 17
-  url: https://open.spotify.com/artist/7ABfcwT8RFjLwxZ7ejdbJ6
+  url: 'https://open.spotify.com/artist/7ABfcwT8RFjLwxZ7ejdbJ6'
 status: active
 tags:
-- jazz
+  - jazz
 title: Una Mae Carlisle
+is_active: false
 ---
 
 ![](una_mae_carlisle.jpg)

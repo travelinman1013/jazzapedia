@@ -1,50 +1,53 @@
 ---
 biography_enhanced_at: '2026-03-03T01:31:22.192956'
-birth_place: New Jersey, United States
+birth_place: 'New Jersey, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:31:22.192969'
 external_urls:
-  spotify: https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J
+  spotify: 'https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J'
   wikipedia: Not found in search results
 genres:
-- vocal jazz
-- french jazz
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/melody_gardot_donny_mccaslin_ben_monder_craig_taborn.jpg
+  - vocal jazz
+  - french jazz
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/melody_gardot_donny_mccaslin_ben_monder_craig_taborn.jpg
 last_updated: '2026-03-03T01:31:22.192971'
 musical_connections:
   collaborators:
-  - Philippe Baden Powell
-  - Jesse Harris
-  - Al Schmitt
+    - Philippe Baden Powell
+    - Jesse Harris
+    - Al Schmitt
   influenced:
-  - Nina Simone
-  - Joni Mitchell
-  - Stan Getz
+    - Nina Simone
+    - Joni Mitchell
+    - Stan Getz
   mentors:
-  - Larry Klein
-  - Vince Mendoza
-  - Heitor Pereira
-  - Glenn Barratt
+    - Larry Klein
+    - Vince Mendoza
+    - Heitor Pereira
+    - Glenn Barratt
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allamericanspeakers.com/celebritytalentbios/Melody+Gardot/432908
-- https://www.laphil.com/musicdb/artists/7045/melody-gardot
-- https://www.everythingjazz.com/story/melody-gardot-dont-be-afraid-of-jazz/
-- https://www.interviewmagazine.com/music/melody-gardot
-- https://www.allaboutjazz.com/musicians/melody-gardot/
-- https://www.udiscovermusic.com/artist/melody-gardot/
-- https://jazztimes.com/artists/melody-gardot/
-- https://www.berklee.edu/BPC/events/melody-gardot
-- https://www.youtube.com/@MelodyGardotOfficial/about
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Melody+Gardot/432908'
+  - 'https://www.laphil.com/musicdb/artists/7045/melody-gardot'
+  - 'https://www.everythingjazz.com/story/melody-gardot-dont-be-afraid-of-jazz/'
+  - 'https://www.interviewmagazine.com/music/melody-gardot'
+  - 'https://www.allaboutjazz.com/musicians/melody-gardot/'
+  - 'https://www.udiscovermusic.com/artist/melody-gardot/'
+  - 'https://jazztimes.com/artists/melody-gardot/'
+  - 'https://www.berklee.edu/BPC/events/melody-gardot'
+  - 'https://www.youtube.com/@MelodyGardotOfficial/about'
 spotify_data:
   followers: 773846
   id: 2P1puQXmG48EVLBrHbum1J
   popularity: 61
-  url: https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J
+  url: 'https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J'
 status: active
-title: Melody Gardot, Donny McCaslin, Ben Monder, Craig Taborn
+title: 'Melody Gardot, Donny McCaslin, Ben Monder, Craig Taborn'
+birth_date: '1985'
+artist_type: person
 ---
 
 ![](melody_gardot_donny_mccaslin_ben_monder_craig_taborn.jpg)

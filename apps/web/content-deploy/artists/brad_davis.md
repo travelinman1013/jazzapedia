@@ -1,49 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-02T01:44:14.831670'
-birth_place: Fort Worth, Texas, United States (hometown); born Commerce, Texas
+birth_place: 'Fort Worth, Texas, United States (hometown); born Commerce, Texas'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:44:14.831685'
 external_urls:
-  spotify: https://open.spotify.com/artist/28yx4Aq8882xd1AivwMZLB
+  spotify: 'https://open.spotify.com/artist/28yx4Aq8882xd1AivwMZLB'
   wikipedia: ''
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/brad_davis.jpg
 last_updated: '2026-02-02T01:44:14.831688'
 musical_connections:
   collaborators:
-  - Marty Stuart
-  - Forester Sisters
-  - Earl Scruggs
-  - Billy Bob Thornton
-  - Greg Davis
-  - Willie Nelson
-  - Sheryl Crow
+    - Marty Stuart
+    - Forester Sisters
+    - Earl Scruggs
+    - Billy Bob Thornton
+    - Greg Davis
+    - Willie Nelson
+    - Sheryl Crow
   influenced: []
   mentors:
-  - Flatt and Scruggs
-  - Doc Watson
-  - Tony Rice
-  - Norman Blake
-  - Clarence White
+    - Flatt and Scruggs
+    - Doc Watson
+    - Tony Rice
+    - Norman Blake
+    - Clarence White
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://braddavisrecordingstudio.com/wp-content/uploads/2018/01/BRAD-DAVIS-BIO.pdf
-- https://pickersparadise.org/artists/brad-davis-tim-may-john-moore
-- https://www.cmhrecords.com/collections/brad-davis
-- https://canvasrebel.com/meet-brad-davis/
-- https://bluegrasstoday.com/introducing-brad-davis/
-- https://www.showcaseyourmusic.com/artist/21629/braddavis
-- https://shubb.com/artist/brad-davis/
+  - >-
+    http://braddavisrecordingstudio.com/wp-content/uploads/2018/01/BRAD-DAVIS-BIO.pdf
+  - 'https://pickersparadise.org/artists/brad-davis-tim-may-john-moore'
+  - 'https://www.cmhrecords.com/collections/brad-davis'
+  - 'https://canvasrebel.com/meet-brad-davis/'
+  - 'https://bluegrasstoday.com/introducing-brad-davis/'
+  - 'https://www.showcaseyourmusic.com/artist/21629/braddavis'
+  - 'https://shubb.com/artist/brad-davis/'
 spotify_data:
   followers: 517
   id: 28yx4Aq8882xd1AivwMZLB
   popularity: 20
-  url: https://open.spotify.com/artist/28yx4Aq8882xd1AivwMZLB
+  url: 'https://open.spotify.com/artist/28yx4Aq8882xd1AivwMZLB'
 status: active
-title: BRAD DAVIS
+title: Brad Davis
+origin: 'Fort Worth, Texas, United States'
+artist_type: person
 ---
 
 ![](brad_davis.jpg)

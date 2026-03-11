@@ -1,53 +1,55 @@
 ---
 biography_enhanced_at: '2026-02-05T01:48:34.121671'
-birth_place: Punta Cardón, Venezuela
+birth_place: 'Punta Cardón, Venezuela, Venezuela'
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:48:34.121685'
 external_urls:
-  spotify: https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF
-  wikipedia: https://en.wikipedia.org/wiki/Edward_Simon_(musician)
+  spotify: 'https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Edward_Simon_(musician)'
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/edward_simon.jpg
 last_updated: '2026-02-05T01:48:34.121688'
 musical_connections:
   collaborators:
-  - Horacio Hernández
-  - Anthony Jackson
-  - Scott Colley
-  - Brian Blade
-  - David Binney
-  - Paquito D'Rivera
-  - SFJAZZ Collective members
-  - His brothers
+    - Horacio Hernández
+    - Anthony Jackson
+    - Scott Colley
+    - Brian Blade
+    - David Binney
+    - Paquito D'Rivera
+    - SFJAZZ Collective members
+    - His brothers
   influenced:
-  - Next generation jazz students
-  - Simón Bolivar Big Band
+    - Next generation jazz students
+    - Simón Bolivar Big Band
   mentors:
-  - Sophia Rosof
-  - Madeline Bruser
-  - Mary Spire
-  - Clare Maxwell
+    - Sophia Rosof
+    - Madeline Bruser
+    - Mary Spire
+    - Clare Maxwell
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Edward_Simon_(musician)
-- https://www.yamaha.com/artists/edwardsimon.html
-- https://www.edwardsimon.com/biography
-- https://piedmontpiano.com/calendar/2025/7/19/edward-simon
-- https://ybca.org/artist/edward-simon/
-- https://www.allaboutjazz.com/musicians/edward-simon/
-- https://www.edwardsimon.com/about-1
-- https://www.hanswendl.com/edward-simon/
-- https://jazztimes.com/reviews/albums/edward-simon-sorrows-triumphs/
-- https://www.sfcm.edu/study/faculty/edward-simon
+  - 'https://en.wikipedia.org/wiki/Edward_Simon_(musician)'
+  - 'https://www.yamaha.com/artists/edwardsimon.html'
+  - 'https://www.edwardsimon.com/biography'
+  - 'https://piedmontpiano.com/calendar/2025/7/19/edward-simon'
+  - 'https://ybca.org/artist/edward-simon/'
+  - 'https://www.allaboutjazz.com/musicians/edward-simon/'
+  - 'https://www.edwardsimon.com/about-1'
+  - 'https://www.hanswendl.com/edward-simon/'
+  - 'https://jazztimes.com/reviews/albums/edward-simon-sorrows-triumphs/'
+  - 'https://www.sfcm.edu/study/faculty/edward-simon'
 spotify_data:
   followers: 7060
   id: 0FAC6FNPb4LsY5uyp0xTWF
   popularity: 24
-  url: https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF
+  url: 'https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF'
 status: active
 title: Edward Simon
+birth_date: '1969-07-27'
+artist_type: person
 ---
 
 ![](edward_simon.jpg)

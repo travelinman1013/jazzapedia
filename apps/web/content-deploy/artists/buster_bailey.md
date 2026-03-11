@@ -1,138 +1,140 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1924'
-  end: '1925'
-  instruments: []
-  mbid: 8e062d48-0f1c-4226-8503-19a03fe9249a
-  name: Red Onion Jazz Babies
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4cca8a8b-3831-4ca6-97a3-ee4095c98079
-  name: Mills Blue Rhythm Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b8ae3644-56dc-4dfe-8ee6-68f8f217aef3
-  name: Buster Bailey and His Rhythm Busters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 626e7e6b-45bb-4738-8a07-1fa8c13e6dc2
-  name: The Spencer Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 23bdddab-efc0-43fd-b341-d07d063773e9
-  name: John Kirby and His Onyx Club Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9efa1149-214c-4a8e-b3c8-770da8c3dd62
-  name: Buster Bailey and His Seven Chocolate Dandies
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5cf05134-5999-4e21-9711-41e72a346038
-  name: Buster Bailey Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 93a0fc69-2262-4d99-97f1-ee33227b9c89
-  name: Perry Bradford’s Jazz Phools
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 6e6170a4-31c6-4cae-a3f9-f0db3b9f5892
-  name: Fletcher Henderson and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 3cd95572-1af4-466f-a7f2-a65f15c934b3
-  name: Teddy Wilson and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4dff7933-1b8c-4df8-af07-ca305d44f44a
-  name: Bessie Smith & Her Blue Boys
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 30a7c914-0e1b-4749-9c4e-00f7c4c28bfe
-  name: John Kirby Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a33419ce-40d2-4431-9e5e-0ae0918df0dd
-  name: Mamie Smith and Her Jazz Hounds
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f0d7185c-a365-4010-8471-7389e7586337
-  name: Sam Price's Fly Cats
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: b3053350-2eae-4966-99e6-78f0a6cb10ec
-  name: The Henry “Red” Allen Band
+  - begin: '1924'
+    end: '1925'
+    instruments: []
+    mbid: 8e062d48-0f1c-4226-8503-19a03fe9249a
+    name: Red Onion Jazz Babies
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4cca8a8b-3831-4ca6-97a3-ee4095c98079
+    name: Mills Blue Rhythm Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b8ae3644-56dc-4dfe-8ee6-68f8f217aef3
+    name: Buster Bailey and His Rhythm Busters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 626e7e6b-45bb-4738-8a07-1fa8c13e6dc2
+    name: The Spencer Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 23bdddab-efc0-43fd-b341-d07d063773e9
+    name: John Kirby and His Onyx Club Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9efa1149-214c-4a8e-b3c8-770da8c3dd62
+    name: Buster Bailey and His Seven Chocolate Dandies
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5cf05134-5999-4e21-9711-41e72a346038
+    name: Buster Bailey Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 93a0fc69-2262-4d99-97f1-ee33227b9c89
+    name: Perry Bradford’s Jazz Phools
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 6e6170a4-31c6-4cae-a3f9-f0db3b9f5892
+    name: Fletcher Henderson and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 3cd95572-1af4-466f-a7f2-a65f15c934b3
+    name: Teddy Wilson and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4dff7933-1b8c-4df8-af07-ca305d44f44a
+    name: Bessie Smith & Her Blue Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 30a7c914-0e1b-4749-9c4e-00f7c4c28bfe
+    name: John Kirby Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a33419ce-40d2-4431-9e5e-0ae0918df0dd
+    name: Mamie Smith and Her Jazz Hounds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f0d7185c-a365-4010-8471-7389e7586337
+    name: Sam Price's Fly Cats
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: b3053350-2eae-4966-99e6-78f0a6cb10ec
+    name: The Henry “Red” Allen Band
 biography_enhanced_at: '2026-01-26T01:35:51.369906'
 birth_date: '1902-07-19'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 death_date: '1967-04-12'
 disambiguation: clarinetist
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:35:51.369917'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/20a72e06-2568-4637-a283-1f99f81e82bb
-  spotify: https://open.spotify.com/artist/5WYWug13vXKOCdxwnGoTQr
-  wikipedia: https://en.wikipedia.org/wiki/Buster_Bailey
+  musicbrainz: 'https://musicbrainz.org/artist/20a72e06-2568-4637-a283-1f99f81e82bb'
+  spotify: 'https://open.spotify.com/artist/5WYWug13vXKOCdxwnGoTQr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buster_Bailey'
 gender: Male
 genres:
-- swing music
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/buster_bailey.jpg
 instruments:
-- eponymous
-- original
-- clarinet
-- other vocals
+  - eponymous
+  - original
+  - clarinet
+  - other vocals
 last_updated: '2026-01-26T01:35:51.369919'
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Fletcher Henderson
-  - Noble Sissle
-  - John Kirby
-  - Henry 'Red' Allen
+    - Louis Armstrong
+    - Fletcher Henderson
+    - Noble Sissle
+    - John Kirby
+    - Henry 'Red' Allen
   influenced: []
   mentors:
-  - W.C. Handy
+    - W.C. Handy
 musicbrainz_id: 20a72e06-2568-4637-a283-1f99f81e82bb
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/buster-bailey-1902-1967/
-- https://syncopatedtimes.com/buster-bailey-and-barney-bigard/
-- https://en.wikipedia.org/wiki/Buster_Bailey
-- http://billieholiday.be/musician/0017_bailey,_buster.html
-- https://harlem.org/people/bailey.html
+  - 'https://syncopatedtimes.com/buster-bailey-1902-1967/'
+  - 'https://syncopatedtimes.com/buster-bailey-and-barney-bigard/'
+  - 'https://en.wikipedia.org/wiki/Buster_Bailey'
+  - 'http://billieholiday.be/musician/0017_bailey,_buster.html'
+  - 'https://harlem.org/people/bailey.html'
 spotify_data:
   followers: 1683
   id: 5WYWug13vXKOCdxwnGoTQr
   popularity: 23
-  url: https://open.spotify.com/artist/5WYWug13vXKOCdxwnGoTQr
+  url: 'https://open.spotify.com/artist/5WYWug13vXKOCdxwnGoTQr'
 status: active
 tags:
-- dixieland
-- jazz
-- session
+  - dixieland
+  - jazz
+  - session
 title: Buster Bailey
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](buster_bailey.jpg)

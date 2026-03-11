@@ -1,47 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-27T01:55:16.531192'
-birth_place: Jewell, Warren County, Georgia, USA
+birth_place: 'Jewell, Warren County, Georgia, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:55:16.531198'
 external_urls:
-  spotify: https://open.spotify.com/artist/2KsrPzMI0aathUkcHYjj8W
-  wikipedia: https://en.wikipedia.org/wiki/Buddy_Moss
+  spotify: 'https://open.spotify.com/artist/2KsrPzMI0aathUkcHYjj8W'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buddy_Moss'
 genres:
-- country blues
-- ragtime
-- blues
-- classic blues
+  - country blues
+  - ragtime
+  - blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_moss.jpg
 last_updated: '2026-01-27T01:55:16.531199'
 musical_connections:
   collaborators:
-  - Curley Weaver
-  - Blind Willie McTell
-  - Josh White
-  - Fred McMullen
-  - Sonny Terry and Brownie McGhee
+    - Curley Weaver
+    - Blind Willie McTell
+    - Josh White
+    - Fred McMullen
+    - Sonny Terry and Brownie McGhee
   influenced:
-  - Blind Boy Fuller
+    - Blind Boy Fuller
   mentors:
-  - Robert 'Barbecue Bob' Hicks
-  - Curley Weaver
+    - Robert 'Barbecue Bob' Hicks
+    - Curley Weaver
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://biglegalmessrecords.com/collections/buddy-moss
-- https://en.wikipedia.org/wiki/Buddy_Moss
-- https://blinddogradio.blogspot.com/2017/01/buddy-moss.html
-- https://mojohand.com/glossary/buddy-moss/
-- https://www.blueskc.org/buddy-moss/
-- https://www.georgiaencyclopedia.org/articles/arts-culture/blues-music-overview/m-4268/
-- https://www.allmusic.com/artist/buddy-moss-mn0000537607
+  - 'https://biglegalmessrecords.com/collections/buddy-moss'
+  - 'https://en.wikipedia.org/wiki/Buddy_Moss'
+  - 'https://blinddogradio.blogspot.com/2017/01/buddy-moss.html'
+  - 'https://mojohand.com/glossary/buddy-moss/'
+  - 'https://www.blueskc.org/buddy-moss/'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/blues-music-overview/m-4268/
+  - 'https://www.allmusic.com/artist/buddy-moss-mn0000537607'
 spotify_data:
   followers: 2475
   id: 2KsrPzMI0aathUkcHYjj8W
   popularity: 4
-  url: https://open.spotify.com/artist/2KsrPzMI0aathUkcHYjj8W
+  url: 'https://open.spotify.com/artist/2KsrPzMI0aathUkcHYjj8W'
 status: active
-title: BUDDY MOSS
+title: Buddy Moss
+birth_date: '1914-01-16'
+death_date: '1984-10-19'
+artist_type: person
 ---
 
 ![](buddy_moss.jpg)

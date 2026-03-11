@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-23T03:08:58.801338'
-birth_place: Jamaica
+birth_place: 'Jamaica, Jamaica, null'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:08:58.801347'
 external_urls:
-  spotify: https://open.spotify.com/artist/7nbXsxbJYwNjDoJ1cX8mVR
+  spotify: 'https://open.spotify.com/artist/7nbXsxbJYwNjDoJ1cX8mVR'
   wikipedia: Not found in search results
 genres:
-- rocksteady
-- lovers rock
-- roots reggae
+  - rocksteady
+  - lovers rock
+  - roots reggae
 image_path: 03_Resources/source_material/ArtistPortraits/doreen_schaffer.jpg
 last_updated: '2026-02-23T03:08:58.801348'
 musical_connections:
   collaborators:
-  - The Skatalites
-  - The Moon Invaders
-  - Nioami Philips
+    - The Skatalites
+    - The Moon Invaders
+    - Nioami Philips
   influenced:
-  - 2Tone Movement bands
+    - 2Tone Movement bands
   mentors:
-  - Studio One Records/Coxsone Dodd
+    - Studio One Records/Coxsone Dodd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://reggaediscography.blogspot.com/2012/06/doreen-shaffer-discography-reggaeska.html
-- https://alchetron.com/Doreen-Shaffer
-- https://skatalites.com/band
-- https://www.wikidata.org/wiki/Q544916
-- https://musicbrainz.org/artist/2a9eb313-1d97-487a-a391-afe5b5a50d90
+  - >-
+    https://reggaediscography.blogspot.com/2012/06/doreen-shaffer-discography-reggaeska.html
+  - 'https://alchetron.com/Doreen-Shaffer'
+  - 'https://skatalites.com/band'
+  - 'https://www.wikidata.org/wiki/Q544916'
+  - 'https://musicbrainz.org/artist/2a9eb313-1d97-487a-a391-afe5b5a50d90'
 spotify_data:
   followers: 292
   id: 7nbXsxbJYwNjDoJ1cX8mVR
   popularity: 5
-  url: https://open.spotify.com/artist/7nbXsxbJYwNjDoJ1cX8mVR
+  url: 'https://open.spotify.com/artist/7nbXsxbJYwNjDoJ1cX8mVR'
 status: active
-title: Doreen Schaffer
+title: Doreen Shaffer
+artist_type: person
 ---
 
 ![](doreen_schaffer.jpg)

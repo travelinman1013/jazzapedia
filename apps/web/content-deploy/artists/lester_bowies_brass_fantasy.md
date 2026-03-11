@@ -3,44 +3,50 @@ biography_enhanced_at: '2026-02-27T01:34:08.496414'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:34:08.496421'
 external_urls:
-  spotify: https://open.spotify.com/artist/3sr77X5l6wdC4bBfIx2k0D
-  wikipedia: https://en.wikipedia.org/wiki/Lester_Bowie
+  spotify: 'https://open.spotify.com/artist/3sr77X5l6wdC4bBfIx2k0D'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lester_Bowie'
 genres:
-- free jazz
-- experimental jazz
-- brass band
+  - free jazz
+  - experimental jazz
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/lester_bowies_brass_fantasy.jpg
 last_updated: '2026-02-27T01:34:08.496421'
 musical_connections:
   collaborators:
-  - Art Ensemble of Chicago (Roscoe Mitchell, Joseph Jarman, Malachi Favors)
-  - Jack DeJohnette
-  - Fontella Bass
-  - R&B artists (Jackie Wilson, Jerry Butler, Joe Tex, Rufus Thomas, Solomon Burke)
+    - 'Art Ensemble of Chicago (Roscoe Mitchell, Joseph Jarman, Malachi Favors)'
+    - Jack DeJohnette
+    - Fontella Bass
+    - >-
+      R&B artists (Jackie Wilson, Jerry Butler, Joe Tex, Rufus Thomas, Solomon
+      Burke)
   influenced:
-  - Dave Douglas
-  - Ambrose Akinmusire
-  - Jaimie Branch
-  - Hugh Ragin
+    - Dave Douglas
+    - Ambrose Akinmusire
+    - Jaimie Branch
+    - Hugh Ragin
   mentors:
-  - His father
-  - Muhal Richard Abrams
+    - His father
+    - Muhal Richard Abrams
 network_extracted: true
-origin: St. Louis, Missouri, United States (Bowie's formative location; born Frederick,
-  Maryland)
+origin: >-
+  St. Louis, Missouri, United States (Bowie's formative location; born
+  Frederick, Maryland)
 primary_source: perplexity
 research_sources:
-- https://www.udiscovermusic.com/stories/lester-bowie-brass-fantasy-ecm-records/
-- https://en.wikipedia.org/wiki/Lester_Bowie
-- https://jazztimes.com/archives/the-brass-fantasies-of-lester-bowie/
-- https://www.allaboutjazz.com/musicians/lester-bowie/
+  - >-
+    https://www.udiscovermusic.com/stories/lester-bowie-brass-fantasy-ecm-records/
+  - 'https://en.wikipedia.org/wiki/Lester_Bowie'
+  - 'https://jazztimes.com/archives/the-brass-fantasies-of-lester-bowie/'
+  - 'https://www.allaboutjazz.com/musicians/lester-bowie/'
 spotify_data:
   followers: 2935
   id: 3sr77X5l6wdC4bBfIx2k0D
   popularity: 8
-  url: https://open.spotify.com/artist/3sr77X5l6wdC4bBfIx2k0D
+  url: 'https://open.spotify.com/artist/3sr77X5l6wdC4bBfIx2k0D'
 status: active
 title: Lester Bowie's Brass Fantasy
+birth_place: 'Frederick, Maryland, United States'
+artist_type: band
 ---
 
 ![](lester_bowies_brass_fantasy.jpg)

@@ -3,37 +3,41 @@ biography_enhanced_at: '2026-01-30T01:16:22.716370'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:16:22.716376'
 external_urls:
-  spotify: https://open.spotify.com/artist/2piydMqNvxNMpKgJm7eNP9
-  wikipedia: https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band
+  spotify: 'https://open.spotify.com/artist/2piydMqNvxNMpKgJm7eNP9'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/original_pin_stripe_brass_band.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/original_pin_stripe_brass_band.jpg
 last_updated: '2026-01-30T01:16:22.716377'
 musical_connections:
   collaborators:
-  - Christie Jourdain
+    - Christie Jourdain
   influenced: []
   mentors:
-  - Jeffery C. Herbert
+    - Jeffery C. Herbert
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band
-- https://www.wwno.org/show/american-routes/2020-06-12/american-routes-shortcuts-original-pinettes-brass-band
-- https://www.orleansrecords.com/post/pinstripes-brass-bands-fathers-and-sons-of-new-orleans-jazz-louisiana-life
-- https://artlitlab.org/artists/the-original-pinettes-brass-band
-- https://salon726.com/home/community-spotlight-original-pinettes-brass-band
-- https://honkfest.org/bands/pinettes-brass-band/
-- https://www.wbur.org/news/2016/10/04/original-pinettes-honk-fest
-- https://summerofthearts.org/performer/the-original-pinettes-brass-band/
-- https://jazzajuan.com/en/programme/original-pinettes-brass-band/
+  - 'https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band'
+  - >-
+    https://www.wwno.org/show/american-routes/2020-06-12/american-routes-shortcuts-original-pinettes-brass-band
+  - >-
+    https://www.orleansrecords.com/post/pinstripes-brass-bands-fathers-and-sons-of-new-orleans-jazz-louisiana-life
+  - 'https://artlitlab.org/artists/the-original-pinettes-brass-band'
+  - 'https://salon726.com/home/community-spotlight-original-pinettes-brass-band'
+  - 'https://honkfest.org/bands/pinettes-brass-band/'
+  - 'https://www.wbur.org/news/2016/10/04/original-pinettes-honk-fest'
+  - 'https://summerofthearts.org/performer/the-original-pinettes-brass-band/'
+  - 'https://jazzajuan.com/en/programme/original-pinettes-brass-band/'
 spotify_data:
   followers: 12
   id: 2piydMqNvxNMpKgJm7eNP9
   popularity: 9
-  url: https://open.spotify.com/artist/2piydMqNvxNMpKgJm7eNP9
+  url: 'https://open.spotify.com/artist/2piydMqNvxNMpKgJm7eNP9'
 status: active
-title: ORIGINAL PIN STRIPE BRASS BAND
+title: Original Pin Stripe Brass Band
+artist_type: band
 ---
 
 ![](original_pin_stripe_brass_band.jpg)

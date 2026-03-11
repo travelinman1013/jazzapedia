@@ -1,75 +1,76 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: a835a387-b51a-42f1-9956-9e6d3c9053a5
-  name: Masakowski Family
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d163433d-2428-4f7d-ad80-d96649be851e
-  name: Steve Masakowski & Friends
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: a835a387-b51a-42f1-9956-9e6d3c9053a5
+    name: Masakowski Family
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d163433d-2428-4f7d-ad80-d96649be851e
+    name: Steve Masakowski & Friends
 biography_enhanced_at: '2026-02-05T01:48:19.949659'
 birth_date: '1954-09-02'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:48:19.949667'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/89116e71-dacc-4035-b51a-20a807b8aa57
-  spotify: https://open.spotify.com/artist/3kXQvHL4w1hCPxo0dPyc8u
-  wikipedia: https://en.wikipedia.org/wiki/Steve_Masakowski
+  musicbrainz: 'https://musicbrainz.org/artist/89116e71-dacc-4035-b51a-20a807b8aa57'
+  spotify: 'https://open.spotify.com/artist/3kXQvHL4w1hCPxo0dPyc8u'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steve_Masakowski'
 gender: Male
 genres:
-- cajun
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/steve_masakowski.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-02-05T01:48:19.949669'
 musical_connections:
   collaborators:
-  - Emily Remler
-  - Ellis Marsalis Jr.
-  - James Singleton
-  - Johnny Vidacovich
-  - Dave Liebman
-  - Dianne Reeves
-  - Astral Project
-  - Martin Masakowski
-  - Sasha Masakowski
+    - Emily Remler
+    - Ellis Marsalis Jr.
+    - James Singleton
+    - Johnny Vidacovich
+    - Dave Liebman
+    - Dianne Reeves
+    - Astral Project
+    - Martin Masakowski
+    - Sasha Masakowski
   influenced:
-  - Terence Blanchard
-  - Harry Connick Jr.
-  - Branford Marsalis
-  - Wynton Marsalis
+    - Terence Blanchard
+    - Harry Connick Jr.
+    - Branford Marsalis
+    - Wynton Marsalis
   mentors:
-  - Joe Pass
-  - Wes Montgomery
-  - Pat Martino
-  - Lenny Breau
-  - Bert Braud
-  - Ellis Marsalis
+    - Joe Pass
+    - Wes Montgomery
+    - Pat Martino
+    - Lenny Breau
+    - Bert Braud
+    - Ellis Marsalis
 musicbrainz_id: 89116e71-dacc-4035-b51a-20a807b8aa57
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Steve_Masakowski
-- https://jazzguitartoday.com/2019/02/steve-masakowski-department-of-music-university-of-new-orleans/
-- https://jazzatthejoint.org/steve-masakowski/
-- https://www.uno.edu/academic-affairs/endowed-chairs/steve-masakowski
-- https://compassrecords.com/artist/steve-masakowski/
-- https://www.neworleans.com/listing/steve-masakowski/46556/
+  - 'https://en.wikipedia.org/wiki/Steve_Masakowski'
+  - >-
+    https://jazzguitartoday.com/2019/02/steve-masakowski-department-of-music-university-of-new-orleans/
+  - 'https://jazzatthejoint.org/steve-masakowski/'
+  - 'https://www.uno.edu/academic-affairs/endowed-chairs/steve-masakowski'
+  - 'https://compassrecords.com/artist/steve-masakowski/'
+  - 'https://www.neworleans.com/listing/steve-masakowski/46556/'
 spotify_data:
   followers: 678
   id: 3kXQvHL4w1hCPxo0dPyc8u
   popularity: 10
-  url: https://open.spotify.com/artist/3kXQvHL4w1hCPxo0dPyc8u
+  url: 'https://open.spotify.com/artist/3kXQvHL4w1hCPxo0dPyc8u'
 status: active
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
 title: Steve Masakowski
 ---
 

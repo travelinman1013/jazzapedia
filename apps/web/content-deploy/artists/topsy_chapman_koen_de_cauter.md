@@ -3,39 +3,42 @@ biography_enhanced_at: '2026-02-20T01:20:32.208508'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:20:32.208517'
 external_urls:
-  spotify: https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV
+  spotify: 'https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/topsy_chapman_koen_de_cauter.jpg
 last_updated: '2026-02-20T01:20:32.208519'
 musical_connections:
   collaborators:
-  - Fapy Lafertin
-  - Vivi Limberger
-  - Orange Kellin
-  - David Paquette
-  - Brian Carrick
-  - Jon Marks
-  - Koen De Cauter
+    - Fapy Lafertin
+    - Vivi Limberger
+    - Orange Kellin
+    - David Paquette
+    - Brian Carrick
+    - Jon Marks
+    - Koen De Cauter
   influenced: []
   mentors:
-  - Piotto Limberger
+    - Piotto Limberger
 network_extracted: true
-origin: Kentwood, Louisiana, USA (Chapman); Belgium (De Cauter)
+origin: 'Kentwood, Louisiana, USA (Chapman); Belgium (De Cauter)'
 primary_source: perplexity
 research_sources:
-- https://www.vintageguitar.com/2230/koen-de-cauter-a-little-corner-of-paradise-vol-1/
-- https://eng.hotjazz.co.il/portfolio/topsy-chapman/
-- https://www.last.fm/music/Koen+De+Cauter/+wiki
-- https://wbssmedia.com/artists/detail/1887
-- https://en.wikipedia.org/wiki/Jon_Marks
+  - >-
+    https://www.vintageguitar.com/2230/koen-de-cauter-a-little-corner-of-paradise-vol-1/
+  - 'https://eng.hotjazz.co.il/portfolio/topsy-chapman/'
+  - 'https://www.last.fm/music/Koen+De+Cauter/+wiki'
+  - 'https://wbssmedia.com/artists/detail/1887'
+  - 'https://en.wikipedia.org/wiki/Jon_Marks'
 spotify_data:
   followers: 1190
   id: 2tKivvaRADF3SupG95wulV
   popularity: 16
-  url: https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV
+  url: 'https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV'
 status: active
-title: Topsy Chapman, Koen De Cauter
+title: 'Topsy Chapman, Koen De Cauter'
+birth_place: 'Kentwood, Louisiana, United States'
+artist_type: person
 ---
 
 ![](topsy_chapman_koen_de_cauter.jpg)

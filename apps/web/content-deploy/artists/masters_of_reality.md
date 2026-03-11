@@ -1,154 +1,154 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-28T01:48:01.512896'
 birth_date: '1981'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:48:01.512938'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aeb7af5b-fef8-479d-b5b4-f9b3c4fb95d4
-  spotify: https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb
+  musicbrainz: 'https://musicbrainz.org/artist/aeb7af5b-fef8-479d-b5b4-f9b3c4fb95d4'
+  spotify: 'https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb'
   wikipedia: Not found in search results
 genres:
-- stoner rock
-- stoner metal
-- sludge metal
+  - stoner rock
+  - stoner metal
+  - sludge metal
 image_path: 03_Resources/source_material/ArtistPortraits/masters_of_reality.jpg
 instruments:
-- guitar
-- original
-- lead vocals
-- drums (drum set)
-- bass
-- mandolin
-- keyboard
+  - guitar
+  - original
+  - lead vocals
+  - drums (drum set)
+  - bass
+  - mandolin
+  - keyboard
 last_updated: '2026-02-28T01:48:01.512941'
 members:
-- begin: '1981'
-  end: '1989'
-  instruments:
-  - guitar
-  - original
-  mbid: 71dcc909-886d-4af6-a376-c876c39d8638
-  name: Tim Harrington
-- &id001
-  begin: '1981'
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 09386e0e-92b8-482f-9d6d-7bc08a16faa7
-  name: Chris Goss
-- &id002
-  begin: '1981'
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 09386e0e-92b8-482f-9d6d-7bc08a16faa7
-  name: Chris Goss
-- begin: '1986'
-  end: '1989'
-  instruments:
-  - drums (drum set)
-  mbid: 3b871c6f-0bb9-470d-88a4-f692b4aff1f9
-  name: Vinnie Ludovico
-- begin: '1986'
-  end: '1997'
-  instruments:
-  - bass
-  mbid: 4a52d1d6-44c0-4747-94af-b8457d07e10f
-  name: Googe
-- begin: '1989'
-  end: '1990'
-  instruments:
-  - drums (drum set)
-  mbid: 447649a7-2fed-4b99-94b1-c680fad037d6
-  name: John Leamy
-- begin: '1992'
-  end: '1993'
-  instruments:
-  - drums (drum set)
-  mbid: e01d1aff-9cc2-4606-83d7-56445515c6e6
-  name: Ginger Baker
-- begin: '1993'
-  end: '1996'
-  instruments:
-  - bass
-  mbid: c0cf8e46-34a7-4a52-8ef6-0d800cb53f1b
-  name: Victor Indrizzo
-- begin: '1996'
-  end: '1996'
-  instruments:
-  - mandolin
-  mbid: b44018de-2efc-46ce-bc1c-c084b8fce38b
-  name: Brendon McNichol
-- begin: '1996'
-  end: '1996'
-  instruments:
-  - guitar
-  mbid: b44018de-2efc-46ce-bc1c-c084b8fce38b
-  name: Brendon McNichol
-- begin: '1996'
-  end: '2001'
-  instruments:
-  - drums (drum set)
-  mbid: 447649a7-2fed-4b99-94b1-c680fad037d6
-  name: John Leamy
-- &id003
-  begin: '2005'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 447649a7-2fed-4b99-94b1-c680fad037d6
-  name: John Leamy
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: cf49c8c0-4925-4eac-ab76-378922ae0ce7
-  name: Mr. Owl
+  - begin: '1981'
+    end: '1989'
+    instruments:
+      - guitar
+      - original
+    mbid: 71dcc909-886d-4af6-a376-c876c39d8638
+    name: Tim Harrington
+  - &ref_0
+    begin: '1981'
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 09386e0e-92b8-482f-9d6d-7bc08a16faa7
+    name: Chris Goss
+  - &ref_1
+    begin: '1981'
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 09386e0e-92b8-482f-9d6d-7bc08a16faa7
+    name: Chris Goss
+  - begin: '1986'
+    end: '1989'
+    instruments:
+      - drums (drum set)
+    mbid: 3b871c6f-0bb9-470d-88a4-f692b4aff1f9
+    name: Vinnie Ludovico
+  - begin: '1986'
+    end: '1997'
+    instruments:
+      - bass
+    mbid: 4a52d1d6-44c0-4747-94af-b8457d07e10f
+    name: Googe
+  - begin: '1989'
+    end: '1990'
+    instruments:
+      - drums (drum set)
+    mbid: 447649a7-2fed-4b99-94b1-c680fad037d6
+    name: John Leamy
+  - begin: '1992'
+    end: '1993'
+    instruments:
+      - drums (drum set)
+    mbid: e01d1aff-9cc2-4606-83d7-56445515c6e6
+    name: Ginger Baker
+  - begin: '1993'
+    end: '1996'
+    instruments:
+      - bass
+    mbid: c0cf8e46-34a7-4a52-8ef6-0d800cb53f1b
+    name: Victor Indrizzo
+  - begin: '1996'
+    end: '1996'
+    instruments:
+      - mandolin
+    mbid: b44018de-2efc-46ce-bc1c-c084b8fce38b
+    name: Brendon McNichol
+  - begin: '1996'
+    end: '1996'
+    instruments:
+      - guitar
+    mbid: b44018de-2efc-46ce-bc1c-c084b8fce38b
+    name: Brendon McNichol
+  - begin: '1996'
+    end: '2001'
+    instruments:
+      - drums (drum set)
+    mbid: 447649a7-2fed-4b99-94b1-c680fad037d6
+    name: John Leamy
+  - &ref_2
+    begin: '2005'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 447649a7-2fed-4b99-94b1-c680fad037d6
+    name: John Leamy
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: cf49c8c0-4925-4eac-ab76-378922ae0ce7
+    name: Mr. Owl
 musical_connections:
   collaborators:
-  - Tim Harrington
-  - Ginger Baker
-  - Victor Indrizzo
-  - John Leamy
-  - Alain Johannes
-  - Rick Rubin
+    - Tim Harrington
+    - Ginger Baker
+    - Victor Indrizzo
+    - John Leamy
+    - Alain Johannes
+    - Rick Rubin
   influenced:
-  - Queens of the Stone Age
-  - Kyuss
-  - Palm Desert Scene artists
+    - Queens of the Stone Age
+    - Kyuss
+    - Palm Desert Scene artists
   mentors:
-  - Black Sabbath
-  - Kraftwerk
-  - Suicide
+    - Black Sabbath
+    - Kraftwerk
+    - Suicide
 musicbrainz_id: aeb7af5b-fef8-479d-b5b4-f9b3c4fb95d4
 network_extracted: true
-origin: Syracuse
+origin: 'Syracuse, New York, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Masters+of+Reality/+wiki
-- https://www.theaudiodb.com/artist/122658-Masters-of-Reality
-- https://www.scaruffi.com/vol5/masters.html
-- https://www.loudersound.com/features/masters-of-reality
-- https://deliciousvinyl.com/artists/masters-of-reality/
-- https://goout.net/en/masters-of-reality/pzqwspg/
-- https://www.allmusic.com/artist/masters-of-reality-mn0000385180
-- https://riffipedia.fandom.com/wiki/Masters_of_Reality
-- https://mastersofreality.com
+  - 'https://www.last.fm/music/Masters+of+Reality/+wiki'
+  - 'https://www.theaudiodb.com/artist/122658-Masters-of-Reality'
+  - 'https://www.scaruffi.com/vol5/masters.html'
+  - 'https://www.loudersound.com/features/masters-of-reality'
+  - 'https://deliciousvinyl.com/artists/masters-of-reality/'
+  - 'https://goout.net/en/masters-of-reality/pzqwspg/'
+  - 'https://www.allmusic.com/artist/masters-of-reality-mn0000385180'
+  - 'https://riffipedia.fandom.com/wiki/Masters_of_Reality'
+  - 'https://mastersofreality.com'
 spotify_data:
   followers: 56952
   id: 6I96egIonnFBY26MprKYKb
   popularity: 34
-  url: https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb
+  url: 'https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb'
 status: active
 tags:
-- rock
+  - rock
 title: Masters Of Reality
 ---
 

@@ -1,52 +1,58 @@
 ---
 biography_enhanced_at: '2026-02-09T01:21:16.729277'
-birth_place: New York City, New York, United States (career origin); Maui, Hawaii,
-  United States (married 2010)
+birth_place: 'New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:21:16.729287'
 external_urls:
-  spotify: https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF
-  wikipedia: https://en.wikipedia.org/wiki/Cindy_Blackman_Santana
+  spotify: 'https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cindy_Blackman_Santana'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/cindy_blackman_santana_carlos_santana.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/cindy_blackman_santana_carlos_santana.jpg
 last_updated: '2026-02-09T01:21:16.729288'
 musical_connections:
   collaborators:
-  - Lenny Kravitz
-  - Carlos Santana
-  - Joe Henderson
-  - Kenny Garrett
-  - Wallace Roney
-  - Vernon Reid
-  - Jack Bruce
-  - John Medeski
-  - Pharoah Sanders
-  - Bill Laswell
-  - Joss Stone
+    - Lenny Kravitz
+    - Carlos Santana
+    - Joe Henderson
+    - Kenny Garrett
+    - Wallace Roney
+    - Vernon Reid
+    - Jack Bruce
+    - John Medeski
+    - Pharoah Sanders
+    - Bill Laswell
+    - Joss Stone
   influenced: []
   mentors:
-  - Tony Williams
-  - Art Blakey
-  - Elvin Jones
-  - Max Roach
+    - Tony Williams
+    - Art Blakey
+    - Elvin Jones
+    - Max Roach
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cindy_Blackman_Santana
-- https://cindyblackmansantana.com/bio
-- https://online.berklee.edu/takenote/drummer-cindy-blackman-santana-on-carlos-lenny/
-- https://www.allaboutjazz.com/musicians/cindy-blackman/
-- https://www.thekurlandagency.com/artist/cindy-blackman-santana/
-- https://christiansmusicmusings.wordpress.com/2024/03/12/musings-about-cindy-blackman-santana/
-- https://www.boomerocity.com/interviews/1010-cindy-blackman-santana-talks-her-new-cd-and-life-with-carlos.html
-- https://drummercafe.com/featured/drummer-percussionist/cindy-blackman-santana
+  - 'https://en.wikipedia.org/wiki/Cindy_Blackman_Santana'
+  - 'https://cindyblackmansantana.com/bio'
+  - >-
+    https://online.berklee.edu/takenote/drummer-cindy-blackman-santana-on-carlos-lenny/
+  - 'https://www.allaboutjazz.com/musicians/cindy-blackman/'
+  - 'https://www.thekurlandagency.com/artist/cindy-blackman-santana/'
+  - >-
+    https://christiansmusicmusings.wordpress.com/2024/03/12/musings-about-cindy-blackman-santana/
+  - >-
+    https://www.boomerocity.com/interviews/1010-cindy-blackman-santana-talks-her-new-cd-and-life-with-carlos.html
+  - >-
+    https://drummercafe.com/featured/drummer-percussionist/cindy-blackman-santana
 spotify_data:
   followers: 5952
   id: 0sJ3AmpElEzlg5WjOHQYBF
   popularity: 26
-  url: https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF
+  url: 'https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF'
 status: active
-title: Cindy Blackman Santana, Carlos Santana
+title: 'Cindy Blackman Santana, Carlos Santana'
+birth_date: '1959-11-18'
+artist_type: person
 ---
 
 ![](cindy_blackman_santana_carlos_santana.jpg)

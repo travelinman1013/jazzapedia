@@ -1,47 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-22T01:48:59.187524'
-birth_place: Galveston, Texas, United States
+birth_place: 'Galveston, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:48:59.187534'
 external_urls:
-  spotify: https://open.spotify.com/artist/5eFyGZBkbE1kPmTKF4QlJj
-  wikipedia: https://en.wikipedia.org/wiki/Larry_Coryell
+  spotify: 'https://open.spotify.com/artist/5eFyGZBkbE1kPmTKF4QlJj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Larry_Coryell'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/coryell.jpg
 last_updated: '2026-02-22T01:48:59.187536'
 musical_connections:
   collaborators:
-  - Gábor Szabó
-  - Jim Pepper
-  - Gary Burton
-  - John McLaughlin
-  - Alphonse Mouzon
-  - Al Di Meola
-  - Mike Mandel
+    - Gábor Szabó
+    - Jim Pepper
+    - Gary Burton
+    - John McLaughlin
+    - Alphonse Mouzon
+    - Al Di Meola
+    - Mike Mandel
   influenced:
-  - John McLaughlin
+    - John McLaughlin
   mentors:
-  - Chet Atkins
-  - Chuck Berry
-  - Wes Montgomery
-  - John Coltrane
-  - Philip Catherine
+    - Chet Atkins
+    - Chuck Berry
+    - Wes Montgomery
+    - John Coltrane
+    - Philip Catherine
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Larry_Coryell
-- https://www.vintageguitar.com/32011/larry-coryell-1943-2017/
-- https://www.larrycoryell.net/bio/
-- https://downbeat.com/archives/detail/remembering-larry-coryell/P1
-- https://www.udiscovermusic.com/stories/larry-coryell-godfather-of-fusion/
-- https://floatingworldrecords.co.uk/blogs/discover/larry-coryell
+  - 'https://en.wikipedia.org/wiki/Larry_Coryell'
+  - 'https://www.vintageguitar.com/32011/larry-coryell-1943-2017/'
+  - 'https://www.larrycoryell.net/bio/'
+  - 'https://downbeat.com/archives/detail/remembering-larry-coryell/P1'
+  - 'https://www.udiscovermusic.com/stories/larry-coryell-godfather-of-fusion/'
+  - 'https://floatingworldrecords.co.uk/blogs/discover/larry-coryell'
 spotify_data:
   followers: 21
   id: 5eFyGZBkbE1kPmTKF4QlJj
   popularity: 0
-  url: https://open.spotify.com/artist/5eFyGZBkbE1kPmTKF4QlJj
+  url: 'https://open.spotify.com/artist/5eFyGZBkbE1kPmTKF4QlJj'
 status: active
 title: Coryell
+death_date: '2017-02-19'
+artist_type: person
 ---
 
 ![](coryell.jpg)

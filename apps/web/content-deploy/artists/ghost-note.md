@@ -1,93 +1,94 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-07T01:42:03.314393'
-disambiguation: a percussion-based funk, hip hop and jazz fusion group from Dallas,
-  TX
+disambiguation: 'a percussion-based funk, hip hop and jazz fusion group from Dallas, TX'
 enhancement_provider: perplexity
 entry_created: '2026-03-07T01:42:03.314401'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/491b2a25-3be9-4eaa-8235-37cac0b1bcd3
-  spotify: https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV
-  wikipedia: https://en.wikipedia.org/wiki/Ghost-Note_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/491b2a25-3be9-4eaa-8235-37cac0b1bcd3'
+  spotify: 'https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ghost-Note_(band)'
 genres:
-- jazz funk
-- jazz fusion
-- funk
+  - jazz funk
+  - jazz fusion
+  - funk
 image_path: 03_Resources/source_material/ArtistPortraits/ghost-note.jpg
 last_updated: '2026-03-07T01:42:03.314403'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0fd9440a-3610-47ad-a00c-cf100627879e
-  name: Vaughn “V Keys” Henry
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 128e1f6d-2f68-4bc8-8540-fedcb3fc4f00
-  name: Robert Searight
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0c2d3519-cdac-4732-967e-4c2edc916691
-  name: Dominique Xavier Taplin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ee859d46-4dda-4caa-b041-cf5ca7a795e5
-  name: Dywane Thomas Jr.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d4a5714b-f025-45b4-b29c-7c47c8a71517
-  name: Nate Werth
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8b8871e6-2aa0-4555-bab6-a6f2d71d1223
-  name: Daniel Wytanis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0fd9440a-3610-47ad-a00c-cf100627879e
+    name: Vaughn “V Keys” Henry
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 128e1f6d-2f68-4bc8-8540-fedcb3fc4f00
+    name: Robert Searight
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0c2d3519-cdac-4732-967e-4c2edc916691
+    name: Dominique Xavier Taplin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ee859d46-4dda-4caa-b041-cf5ca7a795e5
+    name: Dywane Thomas Jr.
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d4a5714b-f025-45b4-b29c-7c47c8a71517
+    name: Nate Werth
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8b8871e6-2aa0-4555-bab6-a6f2d71d1223
+    name: Daniel Wytanis
 musical_connections:
   collaborators:
-  - Snarky Puppy
-  - MonoNeon (Dwayne Thomas Jr.)
-  - Dominique Xavier Taplin
-  - Sylvester Onyejiaka
-  - Shaun Martin
-  - Marcus Miller
-  - Bernard Wright
-  - Karl Denson
-  - Eric Gales
+    - Snarky Puppy
+    - MonoNeon (Dwayne Thomas Jr.)
+    - Dominique Xavier Taplin
+    - Sylvester Onyejiaka
+    - Shaun Martin
+    - Marcus Miller
+    - Bernard Wright
+    - Karl Denson
+    - Eric Gales
   influenced:
-  - James Brown
-  - J Dilla
-  - Herbie Hancock
+    - James Brown
+    - J Dilla
+    - Herbie Hancock
   mentors:
-  - Kirk Franklin
-  - University of North Texas Jazz Program
+    - Kirk Franklin
+    - University of North Texas Jazz Program
 musicbrainz_id: 491b2a25-3be9-4eaa-8235-37cac0b1bcd3
 network_extracted: true
-origin: Dallas, Texas, United States
+origin: 'Dallas, Texas, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ghost-Note_(band)
-- https://theduckclub.com/show/ghost-note/
-- https://g-steps.com/en/artiste/ghost-note/
-- https://blog.musoscribe.com/index.php/2019/04/21/ghost-note-the-beat-goes-on/
-- https://chickiewahwah.com/tm-attraction/ghost-note/
-- https://www.knkx.org/show/the-new-cool/2024-05-17/ghost-note-returns-to-seattle-with-a-new-album-of-energetic-jazz-funk
-- https://www.detroitjazzfest.org/artist/ghost-note/
-- https://www.ghost-note-official.com
-- https://www.souldoutfestival.com/speakers/ghost-note-instrumental-explosion/
+  - 'https://en.wikipedia.org/wiki/Ghost-Note_(band)'
+  - 'https://theduckclub.com/show/ghost-note/'
+  - 'https://g-steps.com/en/artiste/ghost-note/'
+  - >-
+    https://blog.musoscribe.com/index.php/2019/04/21/ghost-note-the-beat-goes-on/
+  - 'https://chickiewahwah.com/tm-attraction/ghost-note/'
+  - >-
+    https://www.knkx.org/show/the-new-cool/2024-05-17/ghost-note-returns-to-seattle-with-a-new-album-of-energetic-jazz-funk
+  - 'https://www.detroitjazzfest.org/artist/ghost-note/'
+  - 'https://www.ghost-note-official.com'
+  - 'https://www.souldoutfestival.com/speakers/ghost-note-instrumental-explosion/'
 spotify_data:
   followers: 77640
   id: 55BOGnEb0pUuAgbxAwwbKV
   popularity: 33
-  url: https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV
+  url: 'https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV'
 status: active
 tags:
-- funk
-- hip hop
-- jazz
+  - funk
+  - hip hop
+  - jazz
 title: Ghost-Note
 ---
 

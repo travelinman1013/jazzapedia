@@ -1,37 +1,38 @@
 ---
 biography_enhanced_at: '2026-02-06T01:12:54.040337'
-birth_place: Miami, Florida, USA
+birth_place: 'Miami, Florida, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:12:54.040348'
 external_urls:
-  spotify: https://open.spotify.com/artist/4Fh3PBVVLOlNHoOIBwDy0J
+  spotify: 'https://open.spotify.com/artist/4Fh3PBVVLOlNHoOIBwDy0J'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/shandri.jpg
 last_updated: '2026-02-06T01:12:54.040350'
 musical_connections:
   collaborators:
-  - Mike Chapman
-  - Todd Rundgren
-  - Bernadette Peters
-  - Hoyt Axton
-  - Johnny Halliday
+    - Mike Chapman
+    - Todd Rundgren
+    - Bernadette Peters
+    - Hoyt Axton
+    - Johnny Halliday
   influenced:
-  - KISS
+    - KISS
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Shandi/+wiki
-- https://www.shandri.com
-- https://www.allmusic.com/artist/shandra-beri-mn0001313295
+  - 'https://www.last.fm/music/Shandi/+wiki'
+  - 'https://www.shandri.com'
+  - 'https://www.allmusic.com/artist/shandra-beri-mn0001313295'
 spotify_data:
   followers: 437
   id: 4Fh3PBVVLOlNHoOIBwDy0J
   popularity: 1
-  url: https://open.spotify.com/artist/4Fh3PBVVLOlNHoOIBwDy0J
+  url: 'https://open.spotify.com/artist/4Fh3PBVVLOlNHoOIBwDy0J'
 status: active
 title: Shandri
+artist_type: person
 ---
 
 ![](shandri.jpg)

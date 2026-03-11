@@ -1,113 +1,114 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1947-11-24'
-  end: '1951-03-01'
-  instruments: []
-  mbid: e2be7eac-60a0-4c43-bead-0e74619cba4f
-  name: Louis Jordan and His Tympany Five
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 891ed012-f353-421d-8afb-3d0d84d65c6a
-  name: Bill Doggett & His Combo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1e91cd50-f1cc-4e5f-aaa3-967040a59a8d
-  name: Illinois Jacquet and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: fcc6345f-07b7-4a88-ae42-361e4ae3349d
-  name: Bill Doggett Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: a1aa99a1-604e-4203-b518-45fc769f967b
-  name: The Bill Doggett Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 837b768c-6f73-46fd-938e-829905e9dfde
-  name: The Bill Doggett Octet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 61d43c95-9625-40d0-9a6c-13e572b870a4
-  name: Bill Doggett and His Orchestra
+  - begin: '1947-11-24'
+    end: '1951-03-01'
+    instruments: []
+    mbid: e2be7eac-60a0-4c43-bead-0e74619cba4f
+    name: Louis Jordan and His Tympany Five
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 891ed012-f353-421d-8afb-3d0d84d65c6a
+    name: Bill Doggett & His Combo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1e91cd50-f1cc-4e5f-aaa3-967040a59a8d
+    name: Illinois Jacquet and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: fcc6345f-07b7-4a88-ae42-361e4ae3349d
+    name: Bill Doggett Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: a1aa99a1-604e-4203-b518-45fc769f967b
+    name: The Bill Doggett Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 837b768c-6f73-46fd-938e-829905e9dfde
+    name: The Bill Doggett Octet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 61d43c95-9625-40d0-9a6c-13e572b870a4
+    name: Bill Doggett and His Orchestra
 biography_enhanced_at: '2026-02-24T01:44:34.223326'
 birth_date: '1916-02-16'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '1996-11-13'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:44:34.223335'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b6d381bb-3642-455c-ab73-125ba1259b71
-  spotify: https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Doggett
+  musicbrainz: 'https://musicbrainz.org/artist/b6d381bb-3642-455c-ab73-125ba1259b71'
+  spotify: 'https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Doggett'
 gender: Male
 genres:
-- soul jazz
+  - soul jazz
 image_path: 03_Resources/source_material/ArtistPortraits/bill_doggett.jpg
 instruments:
-- eponymous
-- original
-- piano
+  - eponymous
+  - original
+  - piano
 last_updated: '2026-02-24T01:44:34.223337'
 musical_connections:
   collaborators:
-  - The Ink Spots
-  - Louis Jordan
-  - Billy Butler
-  - Red Holloway
-  - Clifford Scott
-  - Ella Fitzgerald
-  - Count Basie
-  - Louis Armstrong
-  - Lionel Hampton
-  - Coleman Hawkins
-  - Johnny Otis
-  - Wynonie Harris
-  - Bluesiana Hurricane
+    - The Ink Spots
+    - Louis Jordan
+    - Billy Butler
+    - Red Holloway
+    - Clifford Scott
+    - Ella Fitzgerald
+    - Count Basie
+    - Louis Armstrong
+    - Lionel Hampton
+    - Coleman Hawkins
+    - Johnny Otis
+    - Wynonie Harris
+    - Bluesiana Hurricane
   influenced:
-  - Rock and Roll Musicians
+    - Rock and Roll Musicians
   mentors:
-  - His Mother (Church Pianist)
-  - Lucky Millinder
-  - Jimmy Mundy
+    - His Mother (Church Pianist)
+    - Lucky Millinder
+    - Jimmy Mundy
 musicbrainz_id: b6d381bb-3642-455c-ab73-125ba1259b71
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bill_Doggett
-- https://www.last.fm/music/Bill+Doggett+&+His+Combo/+wiki
-- https://www.allaboutjazz.com/musicians/bill-doggett/
-- https://app.soulyears.com/rnb-chart_position-artist-Bill+Doggett.htm
-- https://www.scribd.com/document/225612619/Bill-Doggett
-- https://jaz.fandom.com/wiki/Bill_Doggett
-- https://www.zeroto180.org/bill-doggetts-soft-enduring/
-- https://newmusicbuff.com/tag/bill-doggett/
+  - 'https://en.wikipedia.org/wiki/Bill_Doggett'
+  - 'https://www.last.fm/music/Bill+Doggett+&+His+Combo/+wiki'
+  - 'https://www.allaboutjazz.com/musicians/bill-doggett/'
+  - 'https://app.soulyears.com/rnb-chart_position-artist-Bill+Doggett.htm'
+  - 'https://www.scribd.com/document/225612619/Bill-Doggett'
+  - 'https://jaz.fandom.com/wiki/Bill_Doggett'
+  - 'https://www.zeroto180.org/bill-doggetts-soft-enduring/'
+  - 'https://newmusicbuff.com/tag/bill-doggett/'
 spotify_data:
   followers: 6794
   id: 6xGdsn4r7laoQDz0zbm1nY
   popularity: 24
-  url: https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY
+  url: 'https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY'
 status: active
 tags:
-- jazz
-- r&b
-- soul jazz
-title: BILL DOGGETT
+  - jazz
+  - r&b
+  - soul jazz
+title: Bill Doggett
+is_active: false
 ---
 
 ![](bill_doggett.jpg)

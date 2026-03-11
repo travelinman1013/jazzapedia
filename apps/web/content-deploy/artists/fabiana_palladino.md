@@ -2,53 +2,55 @@
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:37:31.382348'
 birth_date: '1987'
-birth_place: London
+birth_place: 'London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:37:31.382365'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9031031f-54e9-489c-a738-0e296f05104e
-  spotify: https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P
-  wikipedia: https://en.wikipedia.org/wiki/Fabiana_Palladino
+  musicbrainz: 'https://musicbrainz.org/artist/9031031f-54e9-489c-a738-0e296f05104e'
+  spotify: 'https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fabiana_Palladino'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/fabiana_palladino.jpg
 instruments:
-- piano
-- background vocals
+  - piano
+  - background vocals
 last_updated: '2026-03-03T01:37:31.382369'
 musical_connections:
   collaborators:
-  - Ghostpoet
-  - Sampha
-  - Laura Groves
-  - SBTRKT
-  - Jessie Ware
-  - Steve Ferrone
-  - Shawn Everett
+    - Ghostpoet
+    - Sampha
+    - Laura Groves
+    - SBTRKT
+    - Jessie Ware
+    - Steve Ferrone
+    - Shawn Everett
   influenced: []
   mentors:
-  - Jai Paul
-  - Kate Bush
-  - Pino Palladino (father)
+    - Jai Paul
+    - Kate Bush
+    - Pino Palladino (father)
 musicbrainz_id: 9031031f-54e9-489c-a738-0e296f05104e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fabiana_Palladino
-- https://botanique.be/en/artist/fabiana-palladino
-- https://www.othervoices.ie/artists/fabiana-palladino
-- https://www.thelineofbestfit.com/features/interviews/fabiana-palladino-right-on-time
-- https://blog.roughtrade.com/gb/on-the-rise-fabiana-palladino/
-- https://emerged-agency.com/portfolio/fabiana-palladino
-- https://www.pastemagazine.com/music/fabiana-palladino/fabiana-palladino-the-best-of-whats-next
-- https://www.wmc.org.uk/en/llais/2024/fabiana-palladino
+  - 'https://en.wikipedia.org/wiki/Fabiana_Palladino'
+  - 'https://botanique.be/en/artist/fabiana-palladino'
+  - 'https://www.othervoices.ie/artists/fabiana-palladino'
+  - >-
+    https://www.thelineofbestfit.com/features/interviews/fabiana-palladino-right-on-time
+  - 'https://blog.roughtrade.com/gb/on-the-rise-fabiana-palladino/'
+  - 'https://emerged-agency.com/portfolio/fabiana-palladino'
+  - >-
+    https://www.pastemagazine.com/music/fabiana-palladino/fabiana-palladino-the-best-of-whats-next
+  - 'https://www.wmc.org.uk/en/llais/2024/fabiana-palladino'
 spotify_data:
   followers: 24408
   id: 1ZzqxDkqNDAJVaNO1xue3P
   popularity: 24
-  url: https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P
+  url: 'https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P'
 status: active
-title: fabiana palladino
+title: Fabiana Palladino
 ---
 
 ![](fabiana_palladino.jpg)

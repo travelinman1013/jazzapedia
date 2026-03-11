@@ -1,39 +1,41 @@
 ---
 biography_enhanced_at: '2026-02-07T01:25:18.881406'
-birth_place: Raleigh, North Carolina, United States
+birth_place: 'Raleigh, North Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:25:18.881415'
 external_urls:
-  spotify: https://open.spotify.com/artist/7dc9zUAkwLT1uf64Gz3uiI
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Robbins
+  spotify: 'https://open.spotify.com/artist/7dc9zUAkwLT1uf64Gz3uiI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Robbins'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_robins.jpg
 last_updated: '2026-02-07T01:25:18.881417'
 musical_connections:
   collaborators:
-  - Maren Morris
-  - Thomas Rhett
-  - Keith Urban and Miranda Lambert
-  - Kelsea Ballerini and Kenny Chesney
+    - Maren Morris
+    - Thomas Rhett
+    - Keith Urban and Miranda Lambert
+    - Kelsea Ballerini and Kenny Chesney
   influenced: []
   mentors:
-  - Keith Urban
+    - Keith Urban
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jimmy_Robbins
-- http://keylargosongfest.com/artists/jimmy-robbins/
-- https://www.songwriteruniverse.com/jimmy-robbins-songwriter-2016/
-- https://bluebirdcafe.com/tm-attraction/jimmy-robbins/
-- https://www.mailboxmoneymusic.com/jimmy-robbins-bio
-- https://www.viberate.com/artist/jimmy-robbins/
+  - 'https://en.wikipedia.org/wiki/Jimmy_Robbins'
+  - 'http://keylargosongfest.com/artists/jimmy-robbins/'
+  - 'https://www.songwriteruniverse.com/jimmy-robbins-songwriter-2016/'
+  - 'https://bluebirdcafe.com/tm-attraction/jimmy-robbins/'
+  - 'https://www.mailboxmoneymusic.com/jimmy-robbins-bio'
+  - 'https://www.viberate.com/artist/jimmy-robbins/'
 spotify_data:
   followers: 110
   id: 7dc9zUAkwLT1uf64Gz3uiI
   popularity: 1
-  url: https://open.spotify.com/artist/7dc9zUAkwLT1uf64Gz3uiI
+  url: 'https://open.spotify.com/artist/7dc9zUAkwLT1uf64Gz3uiI'
 status: active
 title: Jimmy Robins
+birth_date: '1989-09-03'
+artist_type: person
 ---
 
 ![](jimmy_robins.jpg)

@@ -1,46 +1,47 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-31T01:09:18.105752'
-birth_place: Unknown, United States
+birth_place: 'Unknown, United States'
 disambiguation: early blues singer
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:09:18.105758'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4bd5e87e-27fb-480d-98c5-578835cb2d93
-  spotify: https://open.spotify.com/artist/3z3jUsHWAdGXy7KxIaiU8L
+  musicbrainz: 'https://musicbrainz.org/artist/4bd5e87e-27fb-480d-98c5-578835cb2d93'
+  spotify: 'https://open.spotify.com/artist/3z3jUsHWAdGXy7KxIaiU8L'
   wikipedia: ''
 gender: Female
 genres:
-- ragtime
-- country blues
+  - ragtime
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/bertha_henderson.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-01-31T01:09:18.105758'
 musical_connections:
   collaborators:
-  - Blind Blake
+    - Blind Blake
   influenced: []
   mentors: []
 musicbrainz_id: 4bd5e87e-27fb-480d-98c5-578835cb2d93
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://adp.library.ucsb.edu/names/204411
-- https://blinddogradio.blogspot.com/2018/02/complete-recorded-works-vols-1-4-1926.html
-- https://sundayblues.org/?tag=bertha-henderson
-- https://www.wirz.de/music/blakebl.htm
-- https://www.allmusic.com/artist/bertha-henderson-mn0000042056
-- http://oldtimeblues.net/tag/richmond/
+  - 'https://adp.library.ucsb.edu/names/204411'
+  - >-
+    https://blinddogradio.blogspot.com/2018/02/complete-recorded-works-vols-1-4-1926.html
+  - 'https://sundayblues.org/?tag=bertha-henderson'
+  - 'https://www.wirz.de/music/blakebl.htm'
+  - 'https://www.allmusic.com/artist/bertha-henderson-mn0000042056'
+  - 'http://oldtimeblues.net/tag/richmond/'
 spotify_data:
   followers: 51
   id: 3z3jUsHWAdGXy7KxIaiU8L
   popularity: 0
-  url: https://open.spotify.com/artist/3z3jUsHWAdGXy7KxIaiU8L
+  url: 'https://open.spotify.com/artist/3z3jUsHWAdGXy7KxIaiU8L'
 status: active
 tags:
-- vaudeville blues
-title: bertha henderson
+  - vaudeville blues
+title: Bertha Henderson
 ---
 
 ![](bertha_henderson.jpg)

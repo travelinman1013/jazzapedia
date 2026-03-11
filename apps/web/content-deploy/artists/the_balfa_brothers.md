@@ -1,92 +1,94 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-24T01:57:08.063497'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:57:08.063502'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/83815b8b-a089-4b95-ab7b-d1d3982059e0
-  spotify: https://open.spotify.com/artist/3oXyi8Qg1omMK96jXg8Wic
-  wikipedia: https://en.wikipedia.org/wiki/Dewey_Balfa
+  musicbrainz: 'https://musicbrainz.org/artist/83815b8b-a089-4b95-ab7b-d1d3982059e0'
+  spotify: 'https://open.spotify.com/artist/3oXyi8Qg1omMK96jXg8Wic'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dewey_Balfa'
 genres:
-- cajun
-- zydeco
-- folk québécois
+  - cajun
+  - zydeco
+  - folk québécois
 image_path: 03_Resources/source_material/ArtistPortraits/the_balfa_brothers.jpg
 last_updated: '2026-01-24T01:57:08.063503'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d82a4f5-881d-4820-b0cc-3785940d10dd
-  name: Burkeman Balfa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ae5a3f36-f01b-4d81-85ae-20b7c8d0342f
-  name: Dewey Balfa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 338c5337-ea69-429a-b352-0a0aa250269d
-  name: Harry Balfa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 718518f1-5842-4bec-98c3-ef2874639d34
-  name: Nelda Balfa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 03d35344-1c81-468d-9021-16188a4094b7
-  name: Rodney Balfa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 78b80d20-cb59-4c0b-9cab-6595b77153cd
-  name: Will Balfa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9fbbee73-04fb-4c91-9a89-a5e05c338952
-  name: Hadley Fontenot
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d82a4f5-881d-4820-b0cc-3785940d10dd
+    name: Burkeman Balfa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ae5a3f36-f01b-4d81-85ae-20b7c8d0342f
+    name: Dewey Balfa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 338c5337-ea69-429a-b352-0a0aa250269d
+    name: Harry Balfa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 718518f1-5842-4bec-98c3-ef2874639d34
+    name: Nelda Balfa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 03d35344-1c81-468d-9021-16188a4094b7
+    name: Rodney Balfa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 78b80d20-cb59-4c0b-9cab-6595b77153cd
+    name: Will Balfa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9fbbee73-04fb-4c91-9a89-a5e05c338952
+    name: Hadley Fontenot
 musical_connections:
   collaborators:
-  - Hadley Fontenot
-  - Gladius Thibodeaux
-  - Louis 'Vinesse' LeJeune
-  - Tony Balfa
-  - Nelda Balfa
+    - Hadley Fontenot
+    - Gladius Thibodeaux
+    - Louis 'Vinesse' LeJeune
+    - Tony Balfa
+    - Nelda Balfa
   influenced:
-  - Michael Doucet
-  - Marc Savoy
-  - Christine Balfa
+    - Michael Doucet
+    - Marc Savoy
+    - Christine Balfa
   mentors:
-  - Charles Balfa
-  - J.B. Fuselier
-  - Leo Soileau
-  - Harry Choates
-  - Bob Wills
+    - Charles Balfa
+    - J.B. Fuselier
+    - Leo Soileau
+    - Harry Choates
+    - Bob Wills
 musicbrainz_id: 83815b8b-a089-4b95-ab7b-d1d3982059e0
 network_extracted: true
-origin: Bayou Grand Louis near Mamou, Louisiana, USA
+origin: 'Bayou Grand Louis near Mamou, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dewey_Balfa
-- https://flattownmusic.com/artist/balfa-brothers/
-- https://folkways.si.edu/dewey-balfa-master-cajun/music/article/smithsonian
-- https://louisianasmusic.wordpress.com/2014/11/30/the-balfa-brothers/
-- https://www.arts.gov/honors/heritage/dewey-balfa
-- https://www.abbevilleinstitute.org/what-makes-this-musician-great-the-balfa-brothers/
-- https://mustang1071.com/spotlight-on-louisiana-legend-the-balfa-brothers/
-- https://www.explorelouisiana.com/articles/famous-louisiana-cajun-musician-biographies
+  - 'https://en.wikipedia.org/wiki/Dewey_Balfa'
+  - 'https://flattownmusic.com/artist/balfa-brothers/'
+  - 'https://folkways.si.edu/dewey-balfa-master-cajun/music/article/smithsonian'
+  - 'https://louisianasmusic.wordpress.com/2014/11/30/the-balfa-brothers/'
+  - 'https://www.arts.gov/honors/heritage/dewey-balfa'
+  - >-
+    https://www.abbevilleinstitute.org/what-makes-this-musician-great-the-balfa-brothers/
+  - 'https://mustang1071.com/spotlight-on-louisiana-legend-the-balfa-brothers/'
+  - >-
+    https://www.explorelouisiana.com/articles/famous-louisiana-cajun-musician-biographies
 spotify_data:
   followers: 7245
   id: 3oXyi8Qg1omMK96jXg8Wic
   popularity: 26
-  url: https://open.spotify.com/artist/3oXyi8Qg1omMK96jXg8Wic
+  url: 'https://open.spotify.com/artist/3oXyi8Qg1omMK96jXg8Wic'
 status: active
 tags:
-- cajun
+  - cajun
 title: The Balfa Brothers
 ---
 

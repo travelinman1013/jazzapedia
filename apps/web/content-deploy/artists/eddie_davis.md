@@ -1,48 +1,54 @@
 ---
 biography_enhanced_at: '2026-03-09T01:14:33.841616'
-birth_place: Harlem, New York City, New York, USA
+birth_place: 'Harlem, New York City, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:14:33.841627'
 external_urls:
-  spotify: https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i
+  spotify: 'https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i'
   wikipedia: ''
 genres:
-- hard bop
-- soul jazz
-- jazz
-- bebop
-- jazz ballads
-- cool jazz
+  - hard bop
+  - soul jazz
+  - jazz
+  - bebop
+  - jazz ballads
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_davis.jpg
 last_updated: '2026-03-09T01:14:33.841629'
 musical_connections:
   collaborators:
-  - Count Basie
-  - Shirley Scott
-  - Johnny Griffin
-  - Harry 'Sweets' Edison
-  - Sonny Stitt
+    - Count Basie
+    - Shirley Scott
+    - Johnny Griffin
+    - Harry 'Sweets' Edison
+    - Sonny Stitt
   influenced: []
   mentors:
-  - Ben Webster
-  - Coleman Hawkins
-  - Herschel Evans
+    - Ben Webster
+    - Coleman Hawkins
+    - Herschel Evans
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/eddie-lockjaw-davis-musician-born/
-- https://jazzprofiles.blogspot.com/2020/01/eddie-lockjaw-davis-tough-tenor.html
-- http://www.jazzarcheology.com/artists/eddie_davis.pdf
-- https://xn--gyrgy-szabados-wpb.com/the-world-of-georgy/whos-who/davis-lockjaw-eddie-musician/
-- https://www.psaudio.com/blogs/copper/eddie-lockjaw-davis-a-firm-grasp-on-saxophone-greatness
-- https://jazzjournal.co.uk/2020/09/27/jj-09-70-lockjaw-davis-a-musician-who-matters/
+  - 'https://aaregistry.org/story/eddie-lockjaw-davis-musician-born/'
+  - >-
+    https://jazzprofiles.blogspot.com/2020/01/eddie-lockjaw-davis-tough-tenor.html
+  - 'http://www.jazzarcheology.com/artists/eddie_davis.pdf'
+  - >-
+    https://xn--gyrgy-szabados-wpb.com/the-world-of-georgy/whos-who/davis-lockjaw-eddie-musician/
+  - >-
+    https://www.psaudio.com/blogs/copper/eddie-lockjaw-davis-a-firm-grasp-on-saxophone-greatness
+  - >-
+    https://jazzjournal.co.uk/2020/09/27/jj-09-70-lockjaw-davis-a-musician-who-matters/
 spotify_data:
   followers: 17583
   id: 0gNn3uUyIEErdQthThI51i
   popularity: 23
-  url: https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i
+  url: 'https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i'
 status: active
-title: EDDIE DAVIS
+title: Eddie Davis
+birth_date: '1922-03-02'
+artist_type: person
 ---
 
 ![](eddie_davis.jpg)

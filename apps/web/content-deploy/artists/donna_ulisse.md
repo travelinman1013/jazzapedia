@@ -1,62 +1,65 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-02-02T01:43:58.061822'
-birth_place: Hampton, Virginia, USA
+birth_place: 'Hampton, Virginia, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:43:58.061832'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1cab3efa-3f04-4d2a-b8db-08d745ec7150
-  spotify: https://open.spotify.com/artist/5rwNZAjCBPGFWDrDNeTCC2
-  wikipedia: https://en.wikipedia.org/wiki/Donna_Ulisse
+  musicbrainz: 'https://musicbrainz.org/artist/1cab3efa-3f04-4d2a-b8db-08d745ec7150'
+  spotify: 'https://open.spotify.com/artist/5rwNZAjCBPGFWDrDNeTCC2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Donna_Ulisse'
 gender: Female
 genres:
-- bluegrass
-- christian bluegrass
-- newgrass
-- country christian
-- pop country
+  - bluegrass
+  - christian bluegrass
+  - newgrass
+  - country christian
+  - pop country
 image_path: 03_Resources/source_material/ArtistPortraits/donna_ulisse.jpg
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 last_updated: '2026-02-02T01:43:58.061834'
 musical_connections:
   collaborators:
-  - Rick Stanley
-  - Doyle Lawson
-  - Jerry Salley
-  - The Poor Mountain Boys
-  - Keith Sewell
-  - Marc Rossi
+    - Rick Stanley
+    - Doyle Lawson
+    - Jerry Salley
+    - The Poor Mountain Boys
+    - Keith Sewell
+    - Marc Rossi
   influenced:
-  - Del McCoury Band, Claire Lynch, Darin & Brooke Aldridge, The Bankesters, Nu-Blu
-  - Volume Five
+    - >-
+      Del McCoury Band, Claire Lynch, Darin & Brooke Aldridge, The Bankesters,
+      Nu-Blu
+    - Volume Five
   mentors:
-  - Barbara Davis
-  - Ralph Stanley and Carter Stanley
-  - Osborne Brothers
+    - Barbara Davis
+    - Ralph Stanley and Carter Stanley
+    - Osborne Brothers
 musicbrainz_id: 1cab3efa-3f04-4d2a-b8db-08d745ec7150
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://bluegrasstoday.com/listings-directory/donna-ulisse-the-poor-mountain-boys/
-- https://en.wikipedia.org/wiki/Donna_Ulisse
-- https://www.thebluegrassstandard.com/post/donna-ulisse-the-songwriter-in-her
-- https://www.donnaulisse.com/about-6
-- https://www.donnaulisse.com/press-kit
-- https://www.flatpik.com/instructors/donna-ulisse
-- https://www.the615hideaway.com/post/donna-ulisse-rollin
+  - >-
+    https://bluegrasstoday.com/listings-directory/donna-ulisse-the-poor-mountain-boys/
+  - 'https://en.wikipedia.org/wiki/Donna_Ulisse'
+  - 'https://www.thebluegrassstandard.com/post/donna-ulisse-the-songwriter-in-her'
+  - 'https://www.donnaulisse.com/about-6'
+  - 'https://www.donnaulisse.com/press-kit'
+  - 'https://www.flatpik.com/instructors/donna-ulisse'
+  - 'https://www.the615hideaway.com/post/donna-ulisse-rollin'
 spotify_data:
   followers: 1420
   id: 5rwNZAjCBPGFWDrDNeTCC2
   popularity: 10
-  url: https://open.spotify.com/artist/5rwNZAjCBPGFWDrDNeTCC2
+  url: 'https://open.spotify.com/artist/5rwNZAjCBPGFWDrDNeTCC2'
 status: active
 tags:
-- acoustic
-- americana
-- andy leftwich
-title: DONNA ULISSE
+  - acoustic
+  - americana
+  - andy leftwich
+title: Donna Ulisse
 ---
 
 ![](donna_ulisse.jpg)

@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-24T01:47:35.046778'
-birth_place: Tampa, Florida, United States
+birth_place: 'Tampa, Florida, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:47:35.046788'
 external_urls:
-  spotify: https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP
-  wikipedia: https://en.wikipedia.org/wiki/Doechii
+  spotify: 'https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Doechii'
 genres:
-- r&b
+  - r&b
 image_path: 03_Resources/source_material/ArtistPortraits/doechi_sza.jpg
 last_updated: '2026-02-24T01:47:35.046789'
 musical_connections:
   collaborators:
-  - SZA
-  - Kodak Black
-  - Missy Elliott
-  - David Guetta
+    - SZA
+    - Kodak Black
+    - Missy Elliott
+    - David Guetta
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/a64478935/doechii
-- https://doechii.fandom.com/wiki/Doechii
-- https://diymag.com/interview/doechii-december-2022-interview
-- https://www.hercampus.com/culture/doechii-rise-stardom-timeline/
-- https://bi.org/en/famous/doechii/
-- https://en.wikipedia.org/wiki/Doechii
-- https://www.riffsandrunway.com/post/she-her-star-the-genre-bending-revolution-of-doechii
-- https://www.revolt.tv/article/15-facts-you-should-know-about-doechii
-- https://theface.com/music/doechii-she-her-black-interview-tde-rapper
+  - 'https://www.biography.com/musicians/a64478935/doechii'
+  - 'https://doechii.fandom.com/wiki/Doechii'
+  - 'https://diymag.com/interview/doechii-december-2022-interview'
+  - 'https://www.hercampus.com/culture/doechii-rise-stardom-timeline/'
+  - 'https://bi.org/en/famous/doechii/'
+  - 'https://en.wikipedia.org/wiki/Doechii'
+  - >-
+    https://www.riffsandrunway.com/post/she-her-star-the-genre-bending-revolution-of-doechii
+  - 'https://www.revolt.tv/article/15-facts-you-should-know-about-doechii'
+  - 'https://theface.com/music/doechii-she-her-black-interview-tde-rapper'
 spotify_data:
   followers: 34901143
   id: 7tYKF4w9nC0nq9CsPZTHyP
   popularity: 87
-  url: https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP
+  url: 'https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP'
 status: active
-title: Doechi, SZA
+title: 'Doechi, SZA'
+artist_type: person
 ---
 
 ![](doechi_sza.jpg)

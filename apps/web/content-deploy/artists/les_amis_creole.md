@@ -1,57 +1,58 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-23T03:00:41.058789'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:00:41.058797'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6d53fdc4-674f-40d5-9ee9-13982024d936
-  spotify: https://open.spotify.com/artist/2HU8VGNWXAkvNWIM2nGILO
+  musicbrainz: 'https://musicbrainz.org/artist/6d53fdc4-674f-40d5-9ee9-13982024d936'
+  spotify: 'https://open.spotify.com/artist/2HU8VGNWXAkvNWIM2nGILO'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
-- traditional music
+  - cajun
+  - zydeco
+  - traditional music
 image_path: 03_Resources/source_material/ArtistPortraits/les_amis_creole.jpg
 last_updated: '2026-02-23T03:00:41.058798'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f077c8c5-5787-46cb-93fa-bdc5ba8fae6a
-  name: James Adams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 52f16184-8fa0-4e52-87ce-ac156f659a0f
-  name: Edward Poullard
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7bdc7aa6-8645-4102-849a-577d2398a6bb
-  name: Cedric Watson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f077c8c5-5787-46cb-93fa-bdc5ba8fae6a
+    name: James Adams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 52f16184-8fa0-4e52-87ce-ac156f659a0f
+    name: Edward Poullard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7bdc7aa6-8645-4102-849a-577d2398a6bb
+    name: Cedric Watson
 musical_connections:
   collaborators:
-  - Cedric Watson
-  - Ed Poullard
-  - J.B. Adams / James Adams
+    - Cedric Watson
+    - Ed Poullard
+    - J.B. Adams / James Adams
   influenced: []
   mentors:
-  - Canray Fontenot
+    - Canray Fontenot
 musicbrainz_id: 6d53fdc4-674f-40d5-9ee9-13982024d936
 network_extracted: true
-origin: South Louisiana, USA (origin)
+origin: 'South Louisiana, USA (origin)'
 primary_source: perplexity
 research_sources:
-- https://rhythmandroots.com/artists/cedric-watson-bijou-creole/
-- https://centrum.org/staff/name/ed-poullard/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/lesamiscreole.htm.html
-- https://propermusic.com/products/lesamiscreole-lesamiscreole
-- https://folkandroots.org/cedric-watson-and-les-amis-creole/
+  - 'https://rhythmandroots.com/artists/cedric-watson-bijou-creole/'
+  - 'https://centrum.org/staff/name/ed-poullard/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/lesamiscreole.htm.html
+  - 'https://propermusic.com/products/lesamiscreole-lesamiscreole'
+  - 'https://folkandroots.org/cedric-watson-and-les-amis-creole/'
 spotify_data:
   followers: 223
   id: 2HU8VGNWXAkvNWIM2nGILO
   popularity: 0
-  url: https://open.spotify.com/artist/2HU8VGNWXAkvNWIM2nGILO
+  url: 'https://open.spotify.com/artist/2HU8VGNWXAkvNWIM2nGILO'
 status: active
 title: Les Amis Creole
 ---

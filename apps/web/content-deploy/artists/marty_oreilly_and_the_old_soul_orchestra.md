@@ -1,41 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-24T02:04:04.748506'
-birth_place: Bay Area (Santa Cruz-based), California, USA
+birth_place: 'Bay Area (Santa Cruz-based), California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:04:04.748511'
 external_urls:
-  spotify: https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy
+  spotify: 'https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/marty_oreilly_and_the_old_soul_orchestra.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/marty_oreilly_and_the_old_soul_orchestra.jpg
 last_updated: '2026-01-24T02:04:04.748512'
 musical_connections:
   collaborators:
-  - Chris Lynch
-  - Jeff Kissell
-  - Ben Berry
-  - Matt Goff
+    - Chris Lynch
+    - Jeff Kissell
+    - Ben Berry
+    - Matt Goff
   influenced: []
   mentors:
-  - Saul Kaye
-  - Sean Carscadden
+    - Saul Kaye
+    - Sean Carscadden
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://motherchurchpew.com/2016/02/01/interview-with-marty-oreilly/
-- https://en.everybodywiki.com/Marty_O'Reilly
-- https://www.eventsantacruz.com/musician/marty-oreilly/
-- https://www.chicagomusicexchange.com/blogs/news/labor-of-love-marty-oreilly
-- https://www.cowboysindians.com/2018/02/qa-marty-oreilly-the-old-soul-orchestra/
-- https://www.martyoreilly.com/bio
-- https://idolchatteryd.com/meet-marty-oreilly-of-the-voice-season-28/
+  - 'https://motherchurchpew.com/2016/02/01/interview-with-marty-oreilly/'
+  - 'https://en.everybodywiki.com/Marty_O''Reilly'
+  - 'https://www.eventsantacruz.com/musician/marty-oreilly/'
+  - 'https://www.chicagomusicexchange.com/blogs/news/labor-of-love-marty-oreilly'
+  - >-
+    https://www.cowboysindians.com/2018/02/qa-marty-oreilly-the-old-soul-orchestra/
+  - 'https://www.martyoreilly.com/bio'
+  - 'https://idolchatteryd.com/meet-marty-oreilly-of-the-voice-season-28/'
 spotify_data:
   followers: 30293
   id: 0oFKnXK9fgRpWNyKoJeSOy
   popularity: 41
-  url: https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy
+  url: 'https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy'
 status: active
-title: marty o'reilly & the old soul orchestra
+title: Marty O'Reilly & the Old Soul Orchestra
+origin: 'Santa Cruz, California, United States'
+birth_date: '1989-06-18'
+artist_type: band
 ---
 
 ![](marty_oreilly_and_the_old_soul_orchestra.jpg)

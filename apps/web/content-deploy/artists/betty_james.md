@@ -1,37 +1,42 @@
 ---
 biography_enhanced_at: '2026-03-03T01:37:13.217564'
-birth_place: Baltimore, Maryland, United States
+birth_place: 'Baltimore, Maryland, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:37:13.217573'
 external_urls:
-  spotify: https://open.spotify.com/artist/5F5IB1Cqb0ENtQ0bZoHYQ4
+  spotify: 'https://open.spotify.com/artist/5F5IB1Cqb0ENtQ0bZoHYQ4'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/betty_james.jpg
 last_updated: '2026-03-03T01:37:13.217575'
 musical_connections:
   collaborators:
-  - Husband (unnamed)
-  - Son (unnamed)
-  - Bobby Johnson and Joe Evans
+    - Husband (unnamed)
+    - Son (unnamed)
+    - Bobby Johnson and Joe Evans
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.elsewhere.co.nz/fromthevaults/8344/betty-james-im-a-little-mixed-up-1961/
-- https://aquariumdrunkard.com/2015/08/11/the-lost-rhythm-blues-of-betty-james/
-- https://loosehandlebars.wordpress.com/2016/07/06/that-girl-could-sing-ooh-betty/
-- https://www.last.fm/music/Betty+James
-- http://dereksdaily45.blogspot.com/2010/02/betty-james-im-little-mixed-up.html
-- https://www.allmusic.com/artist/betty-james-mn0000759900
+  - >-
+    https://www.elsewhere.co.nz/fromthevaults/8344/betty-james-im-a-little-mixed-up-1961/
+  - >-
+    https://aquariumdrunkard.com/2015/08/11/the-lost-rhythm-blues-of-betty-james/
+  - >-
+    https://loosehandlebars.wordpress.com/2016/07/06/that-girl-could-sing-ooh-betty/
+  - 'https://www.last.fm/music/Betty+James'
+  - >-
+    http://dereksdaily45.blogspot.com/2010/02/betty-james-im-little-mixed-up.html
+  - 'https://www.allmusic.com/artist/betty-james-mn0000759900'
 spotify_data:
   followers: 1544
   id: 5F5IB1Cqb0ENtQ0bZoHYQ4
   popularity: 6
-  url: https://open.spotify.com/artist/5F5IB1Cqb0ENtQ0bZoHYQ4
+  url: 'https://open.spotify.com/artist/5F5IB1Cqb0ENtQ0bZoHYQ4'
 status: active
-title: Betty JAmes
+title: Betty James
+artist_type: person
 ---
 
 ![](betty_james.jpg)

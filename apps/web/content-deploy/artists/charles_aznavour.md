@@ -1,72 +1,73 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1994'
-  end: '1994'
-  instruments: []
-  mbid: 03f6d51c-1682-4978-bfc5-4bf2d2de98ad
-  name: Les Enfoirés
-- begin: '1999'
-  end: '1999'
-  instruments: []
-  mbid: 03f6d51c-1682-4978-bfc5-4bf2d2de98ad
-  name: Les Enfoirés
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: f889e908-6429-4a6d-aa14-76001fefaadd
-  name: Roche et Aznavour
+  - begin: '1994'
+    end: '1994'
+    instruments: []
+    mbid: 03f6d51c-1682-4978-bfc5-4bf2d2de98ad
+    name: Les Enfoirés
+  - begin: '1999'
+    end: '1999'
+    instruments: []
+    mbid: 03f6d51c-1682-4978-bfc5-4bf2d2de98ad
+    name: Les Enfoirés
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: f889e908-6429-4a6d-aa14-76001fefaadd
+    name: Roche et Aznavour
 biography_enhanced_at: '2026-02-27T01:39:18.017726'
 birth_date: '1924-05-22'
-birth_place: Paris
+birth_place: 'Paris, Île-de-France, France'
 death_date: '2018-10-01'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:39:18.017735'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5f264b87-d5f6-487d-aa3e-ae4c5f0c6fc9
-  spotify: https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Aznavour
+  musicbrainz: 'https://musicbrainz.org/artist/5f264b87-d5f6-487d-aa3e-ae4c5f0c6fc9'
+  spotify: 'https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Aznavour'
 gender: Male
 genres:
-- chanson
-- variété française
-- french jazz
+  - chanson
+  - variété française
+  - french jazz
 image_path: 03_Resources/source_material/ArtistPortraits/charles_aznavour.jpg
 instruments:
-- lead vocals
-- spoken vocals
+  - lead vocals
+  - spoken vocals
 last_updated: '2026-02-27T01:39:18.017736'
 musical_connections:
   collaborators:
-  - Pierre Roche
-  - Édith Piaf
-  - Nicolas Aznavour
+    - Pierre Roche
+    - Édith Piaf
+    - Nicolas Aznavour
   influenced:
-  - None prominently documented
+    - None prominently documented
   mentors:
-  - Édith Piaf
-  - Mischa Aznavourian
+    - Édith Piaf
+    - Mischa Aznavourian
 musicbrainz_id: 5f264b87-d5f6-487d-aa3e-ae4c5f0c6fc9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.af.org.au/blog/2024/charles-aznavour/
-- https://archives.shef.ac.uk/agents/people/351
-- https://aznavourfoundation.org/en/charles_aznavour/biography
-- https://en.wikipedia.org/wiki/Charles_Aznavour
-- https://www.francerocks.com/artist/charles-aznavour/
+  - 'https://www.af.org.au/blog/2024/charles-aznavour/'
+  - 'https://archives.shef.ac.uk/agents/people/351'
+  - 'https://aznavourfoundation.org/en/charles_aznavour/biography'
+  - 'https://en.wikipedia.org/wiki/Charles_Aznavour'
+  - 'https://www.francerocks.com/artist/charles-aznavour/'
 spotify_data:
   followers: 1808172
   id: 2hgP9Ap2tc10R5jrQaEpMT
   popularity: 64
-  url: https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT
+  url: 'https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT'
 status: active
 tags:
-- 1950s
-- 1960s
-- 1970s
-title: CHARLES AZNAVOUR
+  - 1950s
+  - 1960s
+  - 1970s
+title: Charles Aznavour
+is_active: false
 ---
 
 ![](charles_aznavour.jpg)

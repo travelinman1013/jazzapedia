@@ -1,41 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-02T01:49:01.858398'
-birth_place: New Orleans, Louisiana, USA (Chouki resident; Marsalis born New Orleans)
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:49:01.858414'
 external_urls:
-  spotify: https://open.spotify.com/artist/2ig1SBm7zJRUlprlhhst5l
-  wikipedia: https://en.wikipedia.org/wiki/Jason_Marsalis
+  spotify: 'https://open.spotify.com/artist/2ig1SBm7zJRUlprlhhst5l'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jason_Marsalis'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mahmoud_chouki_jason_marsalis.jpg
 last_updated: '2026-02-02T01:49:01.858418'
 musical_connections:
   collaborators:
-  - Jason Marsalis
-  - Herlin Riley
-  - Dr. Michael White
-  - Oscar Rossignoli
-  - Irvin Mayfield
-  - Bill Summers
+    - Jason Marsalis
+    - Herlin Riley
+    - Dr. Michael White
+    - Oscar Rossignoli
+    - Irvin Mayfield
+    - Bill Summers
   influenced: []
   mentors:
-  - Ellis Marsalis
-  - James Black
+    - Ellis Marsalis
+    - James Black
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jason_Marsalis
-- https://www.frenchquarterjournal.com/archives/the-magic-of-mahmoud-chouki
-- https://nolajazzmuseum.org/articles/2024/7/22/gallatin-street-records-to-release-caravan-from-marrakech-to-new-orleans-a-full-length-album-by-mahmoud-chouki
-- https://kids.kiddle.co/Jason_Marsalis
-- https://noma.org/event/chouki-caravan-concert/
+  - 'https://en.wikipedia.org/wiki/Jason_Marsalis'
+  - 'https://www.frenchquarterjournal.com/archives/the-magic-of-mahmoud-chouki'
+  - >-
+    https://nolajazzmuseum.org/articles/2024/7/22/gallatin-street-records-to-release-caravan-from-marrakech-to-new-orleans-a-full-length-album-by-mahmoud-chouki
+  - 'https://kids.kiddle.co/Jason_Marsalis'
+  - 'https://noma.org/event/chouki-caravan-concert/'
 spotify_data:
   followers: 1239
   id: 2ig1SBm7zJRUlprlhhst5l
   popularity: 4
-  url: https://open.spotify.com/artist/2ig1SBm7zJRUlprlhhst5l
+  url: 'https://open.spotify.com/artist/2ig1SBm7zJRUlprlhhst5l'
 status: active
-title: Mahmoud Chouki, Jason Marsalis
+title: 'Mahmoud Chouki, Jason Marsalis'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](mahmoud_chouki_jason_marsalis.jpg)

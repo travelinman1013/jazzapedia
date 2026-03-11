@@ -1,72 +1,74 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 844728e5-e1f3-438e-82cf-c3b6b2755a35
-  name: Lennie Tristano Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 844728e5-e1f3-438e-82cf-c3b6b2755a35
+    name: Lennie Tristano Trio
 biography_enhanced_at: '2026-01-26T01:38:23.012510'
 birth_date: '1919-03-19'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1978-11-18'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:38:23.012521'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6532800a-a00f-424e-8328-36c7c1c864cc
-  spotify: https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e
-  wikipedia: https://en.wikipedia.org/wiki/Lennie_Tristano
+  musicbrainz: 'https://musicbrainz.org/artist/6532800a-a00f-424e-8328-36c7c1c864cc'
+  spotify: 'https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lennie_Tristano'
 gender: Male
 genres:
-- cool jazz
-- bebop
-- jazz
-- free jazz
-- hard bop
+  - cool jazz
+  - bebop
+  - jazz
+  - free jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/lennie_tristano.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-01-26T01:38:23.012524'
 musical_connections:
   collaborators:
-  - Lee Konitz
-  - Warne Marsh
-  - Charlie Parker
-  - Dizzy Gillespie
-  - Miles Davis
-  - Billy Bauer
+    - Lee Konitz
+    - Warne Marsh
+    - Charlie Parker
+    - Dizzy Gillespie
+    - Miles Davis
+    - Billy Bauer
   influenced:
-  - Lee Konitz
-  - Warne Marsh
-  - Bill Russo
-  - Mark Turner
-  - Ethan Iverson
+    - Lee Konitz
+    - Warne Marsh
+    - Bill Russo
+    - Mark Turner
+    - Ethan Iverson
   mentors:
-  - Art Tatum
-  - Lester Young
-  - Louis Armstrong
-  - Charlie Parker
+    - Art Tatum
+    - Lester Young
+    - Louis Armstrong
+    - Charlie Parker
 musicbrainz_id: 6532800a-a00f-424e-8328-36c7c1c864cc
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ipm.org/show/nightlights/2019-09-11/lennie-tristano-jazz-guru
-- https://www.allaboutjazz.com/musicians/lennie-tristano/
-- https://www.elsewhere.co.nz/jazz/2090/lennie-tristano-remembered-jazz-piano-in-a-classical-manner/
-- https://www.dottimerecords.com/artist-page/lennie-tristano-jazz-pioneer/
-- https://en.wikipedia.org/wiki/Lennie_Tristano
-- https://robertgreenbergmusic.com/dr-bob-prescribes-lennie-tristano/
+  - 'https://www.ipm.org/show/nightlights/2019-09-11/lennie-tristano-jazz-guru'
+  - 'https://www.allaboutjazz.com/musicians/lennie-tristano/'
+  - >-
+    https://www.elsewhere.co.nz/jazz/2090/lennie-tristano-remembered-jazz-piano-in-a-classical-manner/
+  - 'https://www.dottimerecords.com/artist-page/lennie-tristano-jazz-pioneer/'
+  - 'https://en.wikipedia.org/wiki/Lennie_Tristano'
+  - 'https://robertgreenbergmusic.com/dr-bob-prescribes-lennie-tristano/'
 spotify_data:
   followers: 19600
   id: 6VoQTYD2vUVvm1H031lp3e
   popularity: 27
-  url: https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e
+  url: 'https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e'
 status: active
 tags:
-- avant-garde jazz
-- bebop
-- free improvisation
-title: LENNIE TRISTANO
+  - avant-garde jazz
+  - bebop
+  - free improvisation
+title: Lennie Tristano
+is_active: false
 ---
 
 ![](lennie_tristano.jpg)

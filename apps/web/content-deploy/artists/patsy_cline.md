@@ -2,48 +2,49 @@
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:36:44.425195'
 birth_date: '1932-09-08'
-birth_place: Winchester
+birth_place: 'Winchester, Virginia, United States'
 death_date: '1963-03-05'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:36:44.425205'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ad82dd72-0df3-4a09-8d7a-1af9c9e80522
-  spotify: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+  musicbrainz: 'https://musicbrainz.org/artist/ad82dd72-0df3-4a09-8d7a-1af9c9e80522'
+  spotify: 'https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK'
   wikipedia: ''
 gender: Female
 genres:
-- classic country
+  - classic country
 image_path: 03_Resources/source_material/ArtistPortraits/patsy_cline.jpg
 last_updated: '2026-03-03T01:36:44.425207'
 musical_connections:
   collaborators:
-  - Willie Nelson
-  - Jimmy Dean
+    - Willie Nelson
+    - Jimmy Dean
   influenced:
-  - Loretta Lynn
+    - Loretta Lynn
   mentors:
-  - Bill Peer
-  - Connie B. Gay
+    - Bill Peer
+    - Connie B. Gay
 musicbrainz_id: ad82dd72-0df3-4a09-8d7a-1af9c9e80522
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/patsy-cline
-- https://www.britannica.com/biography/Patsy-Cline
-- https://encyclopediavirginia.org/entries/cline-patsy-1932-1963/
-- https://www.broadwayrose.org/newsletter-fall2024/article4/
-- https://www.countrymusichalloffame.org/hall-of-fame/patsy-cline
+  - 'https://www.biography.com/musicians/patsy-cline'
+  - 'https://www.britannica.com/biography/Patsy-Cline'
+  - 'https://encyclopediavirginia.org/entries/cline-patsy-1932-1963/'
+  - 'https://www.broadwayrose.org/newsletter-fall2024/article4/'
+  - 'https://www.countrymusichalloffame.org/hall-of-fame/patsy-cline'
 spotify_data:
   followers: 980046
   id: 7dNsHhGeGU5MV01r06O8gK
   popularity: 57
-  url: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+  url: 'https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK'
 status: active
 tags:
-- 2008 universal fire victim
-- country
-- death by plane crash
-title: PAtsy Cline
+  - 2008 universal fire victim
+  - country
+  - death by plane crash
+title: Patsy Cline
+is_active: false
 ---
 
 ![](patsy_cline.jpg)

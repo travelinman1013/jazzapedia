@@ -3,46 +3,52 @@ biography_enhanced_at: '2026-02-06T01:11:23.364678'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:11:23.364688'
 external_urls:
-  spotify: https://open.spotify.com/artist/0kpL3kFRMnQ5LD0uySTor5
+  spotify: 'https://open.spotify.com/artist/0kpL3kFRMnQ5LD0uySTor5'
   wikipedia: Not found in search results
 genres:
-- latin jazz
-- afro-cuban jazz
-- acid jazz
-- jazz funk
-- soul jazz
-image_path: 03_Resources/source_material/ArtistPortraits/pucho_and_the_latin_soul_brothers.jpg
+  - latin jazz
+  - afro-cuban jazz
+  - acid jazz
+  - jazz funk
+  - soul jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/pucho_and_the_latin_soul_brothers.jpg
 last_updated: '2026-02-06T01:11:23.364689'
 musical_connections:
   collaborators:
-  - Bernard 'Pretty' Purdie
-  - Billy Butler
-  - Neal Creque
-  - Jackie Soul
+    - Bernard 'Pretty' Purdie
+    - Billy Butler
+    - Neal Creque
+    - Jackie Soul
   influenced:
-  - Chick Corea
-  - British acid jazz movement
-  - Hip-hop producers and rappers
+    - Chick Corea
+    - British acid jazz movement
+    - Hip-hop producers and rappers
   mentors:
-  - Tito Puente
-  - Joe Panama
+    - Tito Puente
+    - Joe Panama
 network_extracted: true
-origin: Spanish Harlem, New York City, New York, United States
+origin: 'Spanish Harlem, New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Pucho+&+The+Latin+Soul+Brothers/+wiki
-- https://www.vinyl-magic.com/blog/pucho-the-latin-soul-brothers-and-me
-- https://www.allaboutjazz.com/pucho-brown-soul-brother-number-one-by-chris-m-slawecki
-- http://www.richieunterberger.com/pucho.html
-- https://www.popmatters.com/pucho-and-his-latin-soul-brothers-031101-2496082127.html
-- https://jazztimes.com/archives/pucho-and-his-latin-soul-brothers-howm-i-doin/
+  - 'https://www.last.fm/music/Pucho+&+The+Latin+Soul+Brothers/+wiki'
+  - 'https://www.vinyl-magic.com/blog/pucho-the-latin-soul-brothers-and-me'
+  - >-
+    https://www.allaboutjazz.com/pucho-brown-soul-brother-number-one-by-chris-m-slawecki
+  - 'http://www.richieunterberger.com/pucho.html'
+  - >-
+    https://www.popmatters.com/pucho-and-his-latin-soul-brothers-031101-2496082127.html
+  - >-
+    https://jazztimes.com/archives/pucho-and-his-latin-soul-brothers-howm-i-doin/
 spotify_data:
   followers: 2119
   id: 0kpL3kFRMnQ5LD0uySTor5
   popularity: 14
-  url: https://open.spotify.com/artist/0kpL3kFRMnQ5LD0uySTor5
+  url: 'https://open.spotify.com/artist/0kpL3kFRMnQ5LD0uySTor5'
 status: active
-title: pucho and the latin soul brothers
+title: Pucho and the Latin Soul Brothers
+birth_date: '1938-11-01'
+artist_type: band
 ---
 
 ![](pucho_and_the_latin_soul_brothers.jpg)

@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-27T01:54:03.657658'
-birth_place: Washington, D.C., USA
+birth_place: 'Washington, D.C., USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:54:03.657669'
 external_urls:
-  spotify: https://open.spotify.com/artist/5iozeIflBLGYjTvkk6eIi6
+  spotify: 'https://open.spotify.com/artist/5iozeIflBLGYjTvkk6eIi6'
   wikipedia: ''
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/roderick_harper.jpg
 last_updated: '2026-01-27T01:54:03.657671'
 musical_connections:
   collaborators:
-  - Jon Hendricks
-  - Delfeayo Marsalis
-  - Nicholas Payton
-  - Donald Harrison
-  - Jamison Ross
-  - Lincoln Center Jazz Orchestra
+    - Jon Hendricks
+    - Delfeayo Marsalis
+    - Nicholas Payton
+    - Donald Harrison
+    - Jamison Ross
+    - Lincoln Center Jazz Orchestra
   influenced: []
   mentors:
-  - John Malachi
-  - Alvin Batiste
-  - Ellis Marsalis
+    - John Malachi
+    - Alvin Batiste
+    - Ellis Marsalis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazztimes.com/artists/roderick-harper-jazz-vocalist/
-- https://roderickharper.net/bio
-- https://urbanbuzzmag.com/roderick-harper/
-- https://news.theurbanmusicscene.com/2020/10/roderick-harper-to-release-new-album-evolving/
-- https://www.jazzmusicarchives.com/artist/roderick-harper
-- https://roderickharper.net/press
-- https://jazzweekly.com/2021/03/roderick-harper-e-volv-ing/
+  - 'https://jazztimes.com/artists/roderick-harper-jazz-vocalist/'
+  - 'https://roderickharper.net/bio'
+  - 'https://urbanbuzzmag.com/roderick-harper/'
+  - >-
+    https://news.theurbanmusicscene.com/2020/10/roderick-harper-to-release-new-album-evolving/
+  - 'https://www.jazzmusicarchives.com/artist/roderick-harper'
+  - 'https://roderickharper.net/press'
+  - 'https://jazzweekly.com/2021/03/roderick-harper-e-volv-ing/'
 spotify_data:
   followers: 1704
   id: 5iozeIflBLGYjTvkk6eIi6
   popularity: 19
-  url: https://open.spotify.com/artist/5iozeIflBLGYjTvkk6eIi6
+  url: 'https://open.spotify.com/artist/5iozeIflBLGYjTvkk6eIi6'
 status: active
 title: Roderick Harper
+birth_date: '1966-07-20'
+artist_type: person
 ---
 
 ![](roderick_harper.jpg)

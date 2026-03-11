@@ -1,46 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-25T01:57:48.993732'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T01:57:48.993736'
 external_urls:
-  spotify: https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B
-  wikipedia: https://en.wikipedia.org/wiki/Jamila_Woods
+  spotify: 'https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jamila_Woods'
 genres:
-- alternative r&b
+  - alternative r&b
 image_path: 03_Resources/source_material/ArtistPortraits/jamila_woods.jpg
 last_updated: '2026-02-25T01:57:48.993737'
 musical_connections:
   collaborators:
-  - Owen Hill
-  - Chance the Rapper
-  - Noname
-  - Saba
-  - Donnie Trumpet & the Social Experiment
+    - Owen Hill
+    - Chance the Rapper
+    - Noname
+    - Saba
+    - Donnie Trumpet & the Social Experiment
   influenced: []
   mentors:
-  - Lucille Clifton
-  - Gwendolyn Brooks
-  - Toni Morrison
-  - Frida Kahlo
+    - Lucille Clifton
+    - Gwendolyn Brooks
+    - Toni Morrison
+    - Frida Kahlo
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jamila_Woods
-- https://teachrock.org/traceitback/jamila-woods/
-- https://people.chicagoreader.com/who/jamila-woods/profile/
-- https://www.closedsessions.com/jamila-woods-bio
-- http://www.jamila-woods.com/bio-aria
-- https://tisch.nyu.edu/clive-davis-institute/people0/residencies-1/jamila-woods.html
-- https://www.hedgebrook.org/jamila-woods
-- https://floodmagazine.com/67167/jamila-woods-makes-poetry-a-priority/
+  - 'https://en.wikipedia.org/wiki/Jamila_Woods'
+  - 'https://teachrock.org/traceitback/jamila-woods/'
+  - 'https://people.chicagoreader.com/who/jamila-woods/profile/'
+  - 'https://www.closedsessions.com/jamila-woods-bio'
+  - 'http://www.jamila-woods.com/bio-aria'
+  - >-
+    https://tisch.nyu.edu/clive-davis-institute/people0/residencies-1/jamila-woods.html
+  - 'https://www.hedgebrook.org/jamila-woods'
+  - 'https://floodmagazine.com/67167/jamila-woods-makes-poetry-a-priority/'
 spotify_data:
   followers: 238934
   id: 4UodukR17NIQfNu5uaqm9B
   popularity: 46
-  url: https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B
+  url: 'https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B'
 status: active
 title: Jamila Woods
+origin: 'Chicago, Illinois, United States'
+birth_date: '1989-10-06'
+artist_type: person
 ---
 
 ![](jamila_woods.jpg)

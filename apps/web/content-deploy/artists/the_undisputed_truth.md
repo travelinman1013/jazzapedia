@@ -1,87 +1,87 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-26T01:39:51.998880'
 birth_date: '1970'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:39:51.998889'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5e676b63-5c50-4c86-88d8-54243bba76d9
-  spotify: https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw
+  musicbrainz: 'https://musicbrainz.org/artist/5e676b63-5c50-4c86-88d8-54243bba76d9'
+  spotify: 'https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw'
   wikipedia: ''
 genres:
-- motown
-- classic soul
+  - motown
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/the_undisputed_truth.jpg
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 last_updated: '2026-01-26T01:39:51.998891'
 members:
-- begin: '1975'
-  end: '1979'
-  instruments: []
-  mbid: 1f8679f2-6e0b-4bfe-97f6-2c9f0c8f756e
-  name: Taka Boom
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: d4edbbae-23f0-4896-b067-1e837da2f924
-  name: Billie Calvin
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: d4edbbae-23f0-4896-b067-1e837da2f924
-  name: Billie Calvin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9740dfcb-1385-4279-b370-b4de538bddb5
-  name: Marcy Thomas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 60c27ab0-039c-4182-a306-f64ea9f0bd6e
-  name: Lloyd Williams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b32fb05-db0f-45ec-aac1-7ecb714334d6
-  name: Tyrone Barkley
+  - begin: '1975'
+    end: '1979'
+    instruments: []
+    mbid: 1f8679f2-6e0b-4bfe-97f6-2c9f0c8f756e
+    name: Taka Boom
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: d4edbbae-23f0-4896-b067-1e837da2f924
+    name: Billie Calvin
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: d4edbbae-23f0-4896-b067-1e837da2f924
+    name: Billie Calvin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9740dfcb-1385-4279-b370-b4de538bddb5
+    name: Marcy Thomas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 60c27ab0-039c-4182-a306-f64ea9f0bd6e
+    name: Lloyd Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b32fb05-db0f-45ec-aac1-7ecb714334d6
+    name: Tyrone Barkley
 musical_connections:
   collaborators:
-  - Joe Harris
-  - Billie Rae Calvin
-  - Brenda Joyce Evans
-  - Rose Royce
-  - Willie Hutch
+    - Joe Harris
+    - Billie Rae Calvin
+    - Brenda Joyce Evans
+    - Rose Royce
+    - Willie Hutch
   influenced: []
   mentors:
-  - Norman Whitfield
-  - Bobby Taylor
+    - Norman Whitfield
+    - Bobby Taylor
 musicbrainz_id: 5e676b63-5c50-4c86-88d8-54243bba76d9
 network_extracted: true
-origin: Detroit
+origin: 'Detroit, Michigan, United States'
 primary_source: perplexity
 research_sources:
-- https://www.glp.at/web/index.php?p=artists%2Fthe-undisputed-truth
-- http://www.soullyoldies.com/undisputed-truth-biography.html
-- https://www.listeningsessions.ca/p/the-undisputed-truth-and-the-norman
-- https://wers.org/where-are-they-now-undisputed-truth/
-- http://www.soulwalking.co.uk/Undisputed%20Truth.html
-- https://classic.motown.com/artist/the-undisputed-truth/
-- https://classic.motown.com/story/undisputed-truth-smiling-faces-sometimes/
+  - 'https://www.glp.at/web/index.php?p=artists%2Fthe-undisputed-truth'
+  - 'http://www.soullyoldies.com/undisputed-truth-biography.html'
+  - 'https://www.listeningsessions.ca/p/the-undisputed-truth-and-the-norman'
+  - 'https://wers.org/where-are-they-now-undisputed-truth/'
+  - 'http://www.soulwalking.co.uk/Undisputed%20Truth.html'
+  - 'https://classic.motown.com/artist/the-undisputed-truth/'
+  - 'https://classic.motown.com/story/undisputed-truth-smiling-faces-sometimes/'
 spotify_data:
   followers: 63798
   id: 2tkwWmcZOQPNbbIdknfBsw
   popularity: 37
-  url: https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw
+  url: 'https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw'
 status: active
 tags:
-- disco
-- funk
-- psychedelic soul
+  - disco
+  - funk
+  - psychedelic soul
 title: The Undisputed Truth
 ---
 

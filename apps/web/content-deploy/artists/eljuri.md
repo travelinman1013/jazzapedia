@@ -1,40 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-26T01:44:02.826872'
-birth_place: Guayaquil, Ecuador
+birth_place: 'Guayaquil, Ecuador, Ecuador'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:44:02.826915'
 external_urls:
-  spotify: https://open.spotify.com/artist/6iI8lCxLnRuyGsJamxFGD8
+  spotify: 'https://open.spotify.com/artist/6iI8lCxLnRuyGsJamxFGD8'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/eljuri.jpg
 last_updated: '2026-01-26T01:44:02.826918'
 musical_connections:
   collaborators:
-  - Sly & Robbie (Sly Dunbar and Robbie Shakespeare)
-  - Johnette Napolitano (Concrete Blonde)
+    - Sly & Robbie (Sly Dunbar and Robbie Shakespeare)
+    - Johnette Napolitano (Concrete Blonde)
   influenced:
-  - SoundThinking students
+    - SoundThinking students
   mentors:
-  - Mother (unnamed pianist/composer)
-  - Father (Spanish heritage)
+    - Mother (unnamed pianist/composer)
+    - Father (Spanish heritage)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=iAOf9Ukg2KQ
-- https://www.eljurimusic.com/bio
-- https://www.anarapublishing.com/artist/eljuri/
-- https://www.broadjam.com/eljuri
-- https://guitargirlmag.com/interviews/latina-rocker-eljuri-on-her-inspiration-to-be-strong/
-- https://www.eljurimusic.com
-- https://belatina.com/latina-eljuri-listeners-act-music/
+  - 'https://www.youtube.com/watch?v=iAOf9Ukg2KQ'
+  - 'https://www.eljurimusic.com/bio'
+  - 'https://www.anarapublishing.com/artist/eljuri/'
+  - 'https://www.broadjam.com/eljuri'
+  - >-
+    https://guitargirlmag.com/interviews/latina-rocker-eljuri-on-her-inspiration-to-be-strong/
+  - 'https://www.eljurimusic.com'
+  - 'https://belatina.com/latina-eljuri-listeners-act-music/'
 spotify_data:
   followers: 462
   id: 6iI8lCxLnRuyGsJamxFGD8
   popularity: 2
-  url: https://open.spotify.com/artist/6iI8lCxLnRuyGsJamxFGD8
+  url: 'https://open.spotify.com/artist/6iI8lCxLnRuyGsJamxFGD8'
 status: active
 title: Eljuri
+artist_type: person
 ---
 
 ![](eljuri.jpg)

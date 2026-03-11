@@ -1,44 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-22T01:50:01.823443'
-birth_place: Mississippi, United States (born); Detroit, Michigan, United States (raised)
+birth_place: 'Mississippi, United States (born); Detroit, Michigan, United States (raised)'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:50:01.823452'
 external_urls:
-  spotify: https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K
-  wikipedia: https://en.wikipedia.org/wiki/Michael_Henderson
+  spotify: 'https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K'
+  wikipedia: 'https://en.wikipedia.org/wiki/Michael_Henderson'
 genres:
-- post-disco
-- quiet storm
+  - post-disco
+  - quiet storm
 image_path: 03_Resources/source_material/ArtistPortraits/michael_henderson.jpg
 last_updated: '2026-02-22T01:50:01.823453'
 musical_connections:
   collaborators:
-  - Stevie Wonder
-  - Norman Connors
-  - Jean Carn
-  - Phyllis Hyman
-  - Marvin Gaye
-  - Aretha Franklin
+    - Stevie Wonder
+    - Norman Connors
+    - Jean Carn
+    - Phyllis Hyman
+    - Marvin Gaye
+    - Aretha Franklin
   influenced:
-  - Children on the Corner members
+    - Children on the Corner members
   mentors:
-  - James Jamerson
-  - Miles Davis
+    - James Jamerson
+    - Miles Davis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Michael_Henderson
-- https://newdirectionsinmusic.substack.com/p/michael-henderson-in-memoriam
-- https://www.vintageguitar.com/46582/in-memoriam-michael-henderson/
-- https://aadl.org/node/202129
-- https://www.wbgo.org/music/2022-07-22/remembering-michael-henderson-a-funky-energizing-bassist
+  - 'https://en.wikipedia.org/wiki/Michael_Henderson'
+  - 'https://newdirectionsinmusic.substack.com/p/michael-henderson-in-memoriam'
+  - 'https://www.vintageguitar.com/46582/in-memoriam-michael-henderson/'
+  - 'https://aadl.org/node/202129'
+  - >-
+    https://www.wbgo.org/music/2022-07-22/remembering-michael-henderson-a-funky-energizing-bassist
 spotify_data:
   followers: 73338
   id: 6KzAnKswHOUCX8xiEudD7K
   popularity: 29
-  url: https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K
+  url: 'https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K'
 status: active
 title: Michael Henderson
+origin: 'Detroit, Michigan, United States'
+birth_date: '1951-07-07'
+death_date: '2022-07-19'
+artist_type: person
 ---
 
 ![](michael_henderson.jpg)

@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-31T01:09:55.845585'
-birth_place: Denver, Colorado, United States
+birth_place: 'Denver, Colorado, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:09:55.845599'
 external_urls:
-  spotify: https://open.spotify.com/artist/6fONWULZRqhb1zmqHwkaIB
-  wikipedia: https://en.wikipedia.org/wiki/Chuck_E._Weiss
+  spotify: 'https://open.spotify.com/artist/6fONWULZRqhb1zmqHwkaIB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chuck_E._Weiss'
 genres:
-- blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/chuck_e_weiss.jpg
 last_updated: '2026-01-31T01:09:55.845601'
 musical_connections:
   collaborators:
-  - Tom Waits
-  - Rickie Lee Jones
-  - Johnny Depp
-  - Tony Gilkyson
-  - Diablo Dimes
+    - Tom Waits
+    - Rickie Lee Jones
+    - Johnny Depp
+    - Tony Gilkyson
+    - Diablo Dimes
   influenced:
-  - Rickie Lee Jones
-  - Tom Waits
+    - Rickie Lee Jones
+    - Tom Waits
   mentors:
-  - Lightnin' Hopkins
-  - Willie Dixon
+    - Lightnin' Hopkins
+    - Willie Dixon
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chuck_E._Weiss
-- https://marriedwithchildren.fandom.com/wiki/Chuck_E._Weiss
-- https://colomusic.org/profile/chuck-e-weiss/
-- https://davehoekstra.com/2021/07/27/chuck-e-weiss-rolled-the-dice-1945-2021/
-- https://www.liveone.com/artist/chuck-e-weiss/111493
+  - 'https://en.wikipedia.org/wiki/Chuck_E._Weiss'
+  - 'https://marriedwithchildren.fandom.com/wiki/Chuck_E._Weiss'
+  - 'https://colomusic.org/profile/chuck-e-weiss/'
+  - 'https://davehoekstra.com/2021/07/27/chuck-e-weiss-rolled-the-dice-1945-2021/'
+  - 'https://www.liveone.com/artist/chuck-e-weiss/111493'
 spotify_data:
   followers: 5401
   id: 6fONWULZRqhb1zmqHwkaIB
   popularity: 19
-  url: https://open.spotify.com/artist/6fONWULZRqhb1zmqHwkaIB
+  url: 'https://open.spotify.com/artist/6fONWULZRqhb1zmqHwkaIB'
 status: active
-title: chuck E Weiss
+title: Chuck E Weiss
+birth_date: '1945-03-18'
+death_date: '2021-07-20'
+artist_type: person
 ---
 
 ![](chuck_e_weiss.jpg)

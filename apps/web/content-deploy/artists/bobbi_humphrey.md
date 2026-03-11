@@ -2,48 +2,50 @@
 artist_type: person
 biography_enhanced_at: '2026-02-10T01:53:44.090163'
 birth_date: '1950-04-25'
-birth_place: Marlin
+birth_place: 'Marlin, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:53:44.090173'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/59479c29-54ce-429d-9ef8-b7005cd1b6be
-  spotify: https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON
+  musicbrainz: 'https://musicbrainz.org/artist/59479c29-54ce-429d-9ef8-b7005cd1b6be'
+  spotify: 'https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON'
   wikipedia: ''
 gender: Female
 genres:
-- jazz funk
-- jazz fusion
-- soul jazz
+  - jazz funk
+  - jazz fusion
+  - soul jazz
 image_path: 03_Resources/source_material/ArtistPortraits/bobbi_humphrey.jpg
 last_updated: '2026-02-10T01:53:44.090175'
 musical_connections:
   collaborators:
-  - Duke Ellington
-  - Stevie Wonder
-  - Lee Morgan
+    - Duke Ellington
+    - Stevie Wonder
+    - Lee Morgan
   influenced: []
   mentors:
-  - Dizzy Gillespie
-  - Hubert Laws
+    - Dizzy Gillespie
+    - Hubert Laws
 musicbrainz_id: 59479c29-54ce-429d-9ef8-b7005cd1b6be
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/bobbi-humphrey/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/humphrey-bobbi-1950
-- https://www.bluenote.com/artist/bobbi-humphrey/
-- https://dallasweekly.com/2025/02/lincoln-high-school-dallas-bobbi-humphrey/
-- https://experience.rockfeller.com.br/key-speak/bobbi-humphrey-her-life-music-and-impact-1764799207
+  - 'https://www.allaboutjazz.com/musicians/bobbi-humphrey/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/humphrey-bobbi-1950
+  - 'https://www.bluenote.com/artist/bobbi-humphrey/'
+  - 'https://dallasweekly.com/2025/02/lincoln-high-school-dallas-bobbi-humphrey/'
+  - >-
+    https://experience.rockfeller.com.br/key-speak/bobbi-humphrey-her-life-music-and-impact-1764799207
 spotify_data:
   followers: 76951
   id: 0JbqyQSsMK7TavqlR0yNON
   popularity: 38
-  url: https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON
+  url: 'https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON'
 status: active
 tags:
-- boogie
-- jazz
-- jazz fusion
+  - boogie
+  - jazz
+  - jazz fusion
 title: Bobbi Humphrey
 ---
 

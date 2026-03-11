@@ -1,47 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-26T01:41:22.648756'
-birth_place: Grande-Vallée, Gaspé, Québec, Canada
+birth_place: 'Grande-Vallée, Gaspé, Québec, Canada'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:41:22.648772'
 external_urls:
-  spotify: https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc
+  spotify: 'https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc'
   wikipedia: null
 genres:
-- chanson québécoise
-- pop québécoise
-- rock quebecois
-- folk québécois
-- chanson
+  - chanson québécoise
+  - pop québécoise
+  - rock quebecois
+  - folk québécois
+  - chanson
 image_path: 03_Resources/source_material/ArtistPortraits/marie_pierre.jpg
 last_updated: '2026-01-26T01:41:22.648777'
 musical_connections:
   collaborators:
-  - Karkwa
-  - Ariane Moffatt
-  - Mara Tremblay
-  - Steffie Shock
-  - Edith Butler
-  - Gaële
-  - Robbie Kuster
+    - Karkwa
+    - Ariane Moffatt
+    - Mara Tremblay
+    - Steffie Shock
+    - Edith Butler
+    - Gaële
+    - Robbie Kuster
   influenced: []
   mentors:
-  - Louis-Jean Cormier and François Lafontaine (Karkwa)
-  - Olivier Langevin
+    - Louis-Jean Cormier and François Lafontaine (Karkwa)
+    - Olivier Langevin
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://citizenfreak.com/artists/106355-arthur-marie-pierre
-- https://www.last.fm/music/Marie-Pierre+Arthur/+wiki
-- https://www.viberate.com/artist/marie-pierre-arthur/
-- https://www.socanmagazine.ca/features/better-together-marie-pierre-arthur-and-gaele/
-- https://www.frenchmusicblog.com/marie-pierre-arthur
+  - 'https://citizenfreak.com/artists/106355-arthur-marie-pierre'
+  - 'https://www.last.fm/music/Marie-Pierre+Arthur/+wiki'
+  - 'https://www.viberate.com/artist/marie-pierre-arthur/'
+  - >-
+    https://www.socanmagazine.ca/features/better-together-marie-pierre-arthur-and-gaele/
+  - 'https://www.frenchmusicblog.com/marie-pierre-arthur'
 spotify_data:
   followers: 20992
   id: 2IAG8mcBKZoIc5VbcPgNNc
   popularity: 32
-  url: https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc
+  url: 'https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc'
 status: active
 title: Marie Pierre
+artist_type: person
 ---
 
 ![](marie_pierre.jpg)

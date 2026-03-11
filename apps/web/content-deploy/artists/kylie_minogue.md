@@ -2,52 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-02-03T02:13:01.632020'
 birth_date: '1968-05-28'
-birth_place: Melbourne
+birth_place: 'Melbourne, Victoria, Australia'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:13:01.632030'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2fddb92d-24b2-46a5-bf28-3aed46f4684c
-  spotify: https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA
-  wikipedia: https://en.wikipedia.org/wiki/Kylie_Minogue
+  musicbrainz: 'https://musicbrainz.org/artist/2fddb92d-24b2-46a5-bf28-3aed46f4684c'
+  spotify: 'https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kylie_Minogue'
 gender: Female
 genres:
-- dance pop
+  - dance pop
 image_path: 03_Resources/source_material/ArtistPortraits/kylie_minogue.jpg
 instruments:
-- lead vocals
-- background vocals
-- spoken vocals
+  - lead vocals
+  - background vocals
+  - spoken vocals
 last_updated: '2026-02-03T02:13:01.632031'
 musical_connections:
   collaborators:
-  - Giorgio Moroder
-  - Taio Cruz
-  - Laura Pausini
-  - Pharrell Williams
-  - Sia
+    - Giorgio Moroder
+    - Taio Cruz
+    - Laura Pausini
+    - Pharrell Williams
+    - Sia
   influenced:
-  - Madonna
+    - Madonna
   mentors:
-  - Stock Aitken Waterman
+    - Stock Aitken Waterman
 musicbrainz_id: 2fddb92d-24b2-46a5-bf28-3aed46f4684c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kylie_Minogue
-- https://thenightly.com.au/culture/three-minute-biography-from-girl-next-door-to-icon-kylie-minogue-keeps-spinning-around-c-14921564
-- https://kylie-minogue.fandom.com/wiki/Kylie_Minogue_(biography)
-- https://www.britannica.com/biography/Kylie-Minogue
+  - 'https://en.wikipedia.org/wiki/Kylie_Minogue'
+  - >-
+    https://thenightly.com.au/culture/three-minute-biography-from-girl-next-door-to-icon-kylie-minogue-keeps-spinning-around-c-14921564
+  - 'https://kylie-minogue.fandom.com/wiki/Kylie_Minogue_(biography)'
+  - 'https://www.britannica.com/biography/Kylie-Minogue'
 spotify_data:
   followers: 2310248
   id: 4RVnAU35WRWra6OZ3CbbMA
   popularity: 73
-  url: https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA
+  url: 'https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA'
 status: active
 tags:
-- australian dance
-- australian pop
-- contemporary r&b
+  - australian dance
+  - australian pop
+  - contemporary r&b
 title: Kylie Minogue
+origin: 'Melbourne, Victoria, Australia'
 ---
 
 ![](kylie_minogue.jpg)

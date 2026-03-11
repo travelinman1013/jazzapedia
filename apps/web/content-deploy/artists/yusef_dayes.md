@@ -1,48 +1,53 @@
 ---
 biography_enhanced_at: '2026-03-06T01:29:50.764921'
-birth_place: South East London, England
+birth_place: 'South East London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:29:50.764928'
 external_urls:
-  spotify: https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht
+  spotify: 'https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht'
   wikipedia: ''
 genres:
-- nu jazz
-- indie jazz
-- jazz fusion
+  - nu jazz
+  - indie jazz
+  - jazz fusion
 image_path: 03_Resources/source_material/ArtistPortraits/yusef_dayes.jpg
 last_updated: '2026-03-06T01:29:50.764929'
 musical_connections:
   collaborators:
-  - Kamaal Williams
-  - Tom Misch
-  - Ahmad Dayes
-  - Kareem Dayes
-  - Alfa Mist
-  - Shabaka Hutchings
+    - Kamaal Williams
+    - Tom Misch
+    - Ahmad Dayes
+    - Kareem Dayes
+    - Alfa Mist
+    - Shabaka Hutchings
   influenced: []
   mentors:
-  - Billy Cobham
-  - Doudou N’Diaye Rose
-  - Tony Allen
+    - Billy Cobham
+    - Doudou N’Diaye Rose
+    - Tony Allen
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://europe.yamaha.com/en/musical-instruments/drums/artists/y/Yussef%20Dayes.html
-- https://www.flowstate.fm/p/yussef-dayes
-- https://crackmagazine.net/article/profiles/chasing-the-rhythm-with-yussef-dayes/
-- https://www.allaboutjazz.com/musicians/yussef-dayes/
-- https://blog.roughtrade.com/gb/in-profile-yussef-dayes-black-classical-music/
-- https://www.hhv-mag.com/feature/yussef-dayes-ueber-wertvolle-kindliche-mentalitaet-und-die-naechsten-200-jahre/?lang=en
-- https://www.youtube.com/@yussefdayes12/about
-- https://www.allmusic.com/artist/yussef-dayes-mn0003486740
+  - >-
+    https://europe.yamaha.com/en/musical-instruments/drums/artists/y/Yussef%20Dayes.html
+  - 'https://www.flowstate.fm/p/yussef-dayes'
+  - >-
+    https://crackmagazine.net/article/profiles/chasing-the-rhythm-with-yussef-dayes/
+  - 'https://www.allaboutjazz.com/musicians/yussef-dayes/'
+  - >-
+    https://blog.roughtrade.com/gb/in-profile-yussef-dayes-black-classical-music/
+  - >-
+    https://www.hhv-mag.com/feature/yussef-dayes-ueber-wertvolle-kindliche-mentalitaet-und-die-naechsten-200-jahre/?lang=en
+  - 'https://www.youtube.com/@yussefdayes12/about'
+  - 'https://www.allmusic.com/artist/yussef-dayes-mn0003486740'
 spotify_data:
   followers: 379271
   id: 2rspptKP0lPBdlJJAJHqht
   popularity: 58
-  url: https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht
+  url: 'https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht'
 status: active
-title: Yusef Dayes
+title: Yussef Dayes
+artist_type: person
 ---
 
 ![](yusef_dayes.jpg)

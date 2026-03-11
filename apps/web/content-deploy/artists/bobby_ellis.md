@@ -1,41 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-28T01:56:53.310386'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:56:53.310391'
 external_urls:
-  spotify: https://open.spotify.com/artist/3bZqVlEaj230IYSNAXZHMN
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Ellis
+  spotify: 'https://open.spotify.com/artist/3bZqVlEaj230IYSNAXZHMN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Ellis'
 genres:
-- rocksteady
-- dub
-- roots reggae
-- ska
+  - rocksteady
+  - dub
+  - roots reggae
+  - ska
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_ellis.jpg
 last_updated: '2026-01-28T01:56:53.310392'
 musical_connections:
   collaborators:
-  - Deadly Headley Bennett
-  - Tommy McCook
-  - Burning Spear
-  - Roland Alphonso
-  - Peter Tosh
+    - Deadly Headley Bennett
+    - Tommy McCook
+    - Burning Spear
+    - Roland Alphonso
+    - Peter Tosh
   influenced: []
   mentors:
-  - Raymond Harper
+    - Raymond Harper
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobby_Ellis
-- https://bovineska.com/2016/10/26/generoso-and-lilys-bovine-ska-and-rocksteady-bobby-ellis-memorial-show-10-25-16/
-- https://web.archive.org/web/20090628085915/http://www.jamaicaobserver.com/magazines/throb/html/20030404t210000-0500_42070_obs_bobby_ellis_was_born_to_blow.asp
+  - 'https://en.wikipedia.org/wiki/Bobby_Ellis'
+  - >-
+    https://bovineska.com/2016/10/26/generoso-and-lilys-bovine-ska-and-rocksteady-bobby-ellis-memorial-show-10-25-16/
+  - >-
+    https://web.archive.org/web/20090628085915/http://www.jamaicaobserver.com/magazines/throb/html/20030404t210000-0500_42070_obs_bobby_ellis_was_born_to_blow.asp
 spotify_data:
   followers: 1320
   id: 3bZqVlEaj230IYSNAXZHMN
   popularity: 15
-  url: https://open.spotify.com/artist/3bZqVlEaj230IYSNAXZHMN
+  url: 'https://open.spotify.com/artist/3bZqVlEaj230IYSNAXZHMN'
 status: active
 title: Bobby Ellis
+birth_date: '1932-07-02'
+death_date: '2016-10-18'
+artist_type: person
 ---
 
 ![](bobby_ellis.jpg)

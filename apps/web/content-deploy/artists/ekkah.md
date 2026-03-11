@@ -1,47 +1,48 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-27T01:56:44.781458'
 birth_date: '2013'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:56:44.781464'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9f2180a7-2f43-429b-a20e-795626157b34
-  spotify: https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb
+  musicbrainz: 'https://musicbrainz.org/artist/9f2180a7-2f43-429b-a20e-795626157b34'
+  spotify: 'https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb'
   wikipedia: ''
 genres:
-- nu disco
+  - nu disco
 image_path: 03_Resources/source_material/ArtistPortraits/ekkah.jpg
 last_updated: '2026-01-27T01:56:44.781464'
 musical_connections:
   collaborators:
-  - Goldroom
-  - DaM-FunK
-  - Gilligan Moss
-  - Alan Dixon
+    - Goldroom
+    - DaM-FunK
+    - Gilligan Moss
+    - Alan Dixon
   influenced: []
   mentors:
-  - Fleetwood Mac
-  - Jocelyn Brown
-  - Moloko
+    - Fleetwood Mac
+    - Jocelyn Brown
+    - Moloko
 musicbrainz_id: 9f2180a7-2f43-429b-a20e-795626157b34
 network_extracted: true
-origin: Birmingham, UK
+origin: 'Birmingham, UK'
 primary_source: perplexity
 research_sources:
-- https://ekkahmusic.bandcamp.com
-- https://www.musicmetricsvault.com/artists/ekkah/31UKSWpSUyiReoTEb39vHb
-- https://www.last.fm/music/Ekkah/+wiki
-- https://soundplate.com/a-few-minutes-with-ekkah-interview/
-- https://www.viberate.com/artist/ekkah/
-- https://whenthehornblows.com/content/2020/3/6/the-band-explains-ekkah-giving-up-on
-- https://futuredisco.net/ekkah-partyline/
-- https://www.vice.com/da/article/premere-ekkah-figure-it-out/
-- https://www.wonderlandmagazine.com/2016/03/26/new-noise-ekkah/
+  - 'https://ekkahmusic.bandcamp.com'
+  - 'https://www.musicmetricsvault.com/artists/ekkah/31UKSWpSUyiReoTEb39vHb'
+  - 'https://www.last.fm/music/Ekkah/+wiki'
+  - 'https://soundplate.com/a-few-minutes-with-ekkah-interview/'
+  - 'https://www.viberate.com/artist/ekkah/'
+  - >-
+    https://whenthehornblows.com/content/2020/3/6/the-band-explains-ekkah-giving-up-on
+  - 'https://futuredisco.net/ekkah-partyline/'
+  - 'https://www.vice.com/da/article/premere-ekkah-figure-it-out/'
+  - 'https://www.wonderlandmagazine.com/2016/03/26/new-noise-ekkah/'
 spotify_data:
   followers: 19746
   id: 31UKSWpSUyiReoTEb39vHb
   popularity: 38
-  url: https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb
+  url: 'https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb'
 status: active
 title: EKKAH
 ---

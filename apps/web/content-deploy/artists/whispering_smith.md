@@ -1,39 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-07T01:25:08.741953'
-birth_place: Union Church, Mississippi, USA
+birth_place: 'Union Church, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:25:08.741963'
 external_urls:
-  spotify: https://open.spotify.com/artist/0AezPFUeEmlzEvVL8pntsX
-  wikipedia: https://en.wikipedia.org/wiki/Moses_%22Whispering%22_Smith
+  spotify: 'https://open.spotify.com/artist/0AezPFUeEmlzEvVL8pntsX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Moses_%22Whispering%22_Smith'
 genres:
-- classic blues
-- cajun
-- blues
-- boogie-woogie
+  - classic blues
+  - cajun
+  - blues
+  - boogie-woogie
 image_path: 03_Resources/source_material/ArtistPortraits/whispering_smith.jpg
 last_updated: '2026-02-07T01:25:08.741964'
 musical_connections:
   collaborators:
-  - Lightnin' Slim
-  - Silas Hogan
-  - J.D. 'Jay' Miller
+    - Lightnin' Slim
+    - Silas Hogan
+    - J.D. 'Jay' Miller
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Moses_%22Whispering%22_Smith
-- https://www.bmansbluesreport.com/2012/02/lightnin-slim-whispering-smith.html
-- https://wbssmedia.com/artists/detail/3585
-- https://www.allaboutbluesmusic.com/moses-whispering-smith/
+  - 'https://en.wikipedia.org/wiki/Moses_%22Whispering%22_Smith'
+  - 'https://www.bmansbluesreport.com/2012/02/lightnin-slim-whispering-smith.html'
+  - 'https://wbssmedia.com/artists/detail/3585'
+  - 'https://www.allaboutbluesmusic.com/moses-whispering-smith/'
 spotify_data:
   followers: 371
   id: 0AezPFUeEmlzEvVL8pntsX
   popularity: 1
-  url: https://open.spotify.com/artist/0AezPFUeEmlzEvVL8pntsX
+  url: 'https://open.spotify.com/artist/0AezPFUeEmlzEvVL8pntsX'
 status: active
 title: Whispering Smith
+birth_date: '1932-01-25'
+death_date: '1984-04-28'
+artist_type: person
 ---
 
 ![](whispering_smith.jpg)

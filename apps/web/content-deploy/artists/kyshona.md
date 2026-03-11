@@ -1,39 +1,41 @@
 ---
 biography_enhanced_at: '2026-02-09T01:24:57.085524'
-birth_place: Irmo, South Carolina, USA
+birth_place: 'Irmo, South Carolina, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:24:57.085534'
 external_urls:
-  spotify: https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA
-  wikipedia: https://en.wikipedia.org/wiki/Kyshona
+  spotify: 'https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kyshona'
 genres:
-- southern gothic
+  - southern gothic
 image_path: 03_Resources/source_material/ArtistPortraits/kyshona.jpg
 last_updated: '2026-02-09T01:24:57.085536'
 musical_connections:
   collaborators:
-  - Andrija Tokic
-  - ZG Smith
+    - Andrija Tokic
+    - ZG Smith
   influenced: []
   mentors:
-  - Two Black men (poet and recreational therapy student)
+    - Two Black men (poet and recreational therapy student)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.namm.org/library/oral-history/kyshona
-- https://en.wikipedia.org/wiki/Kyshona
-- https://www.passim.org/artists/kyshona/
-- https://www.wkyufm.org/arts-culture/2022-09-02/the-african-american-folklorist-kyshona-armstrong-is-an-artist-activist-and-voice-of-the-voiceless
-- http://www.kyshona.com/bio
-- http://www.kyshona.com
-- https://www.cordella.org/kyshona-armstrong
+  - 'https://www.namm.org/library/oral-history/kyshona'
+  - 'https://en.wikipedia.org/wiki/Kyshona'
+  - 'https://www.passim.org/artists/kyshona/'
+  - >-
+    https://www.wkyufm.org/arts-culture/2022-09-02/the-african-american-folklorist-kyshona-armstrong-is-an-artist-activist-and-voice-of-the-voiceless
+  - 'http://www.kyshona.com/bio'
+  - 'http://www.kyshona.com'
+  - 'https://www.cordella.org/kyshona-armstrong'
 spotify_data:
   followers: 6239
   id: 6W2VAlwJmXUkGwOmtFCFUA
   popularity: 19
-  url: https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA
+  url: 'https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA'
 status: active
 title: Kyshona
+artist_type: person
 ---
 
 ![](kyshona.jpg)

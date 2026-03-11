@@ -3,37 +3,38 @@ biography_enhanced_at: '2026-01-23T01:50:28.914628'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:50:28.914634'
 external_urls:
-  spotify: https://open.spotify.com/artist/1Mz0K5b467rBBVeGWpI8i3
-  wikipedia: https://en.wikipedia.org/wiki/The_Jewels
+  spotify: 'https://open.spotify.com/artist/1Mz0K5b467rBBVeGWpI8i3'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Jewels'
 genres:
-- doo-wop
+  - doo-wop
 image_path: 03_Resources/source_material/ArtistPortraits/the_jewels.jpg
 last_updated: '2026-01-23T01:50:28.914635'
 musical_connections:
   collaborators:
-  - James Brown
-  - Billy Stewart
+    - James Brown
+    - Billy Stewart
   influenced: []
   mentors:
-  - Bo Diddley
-  - Bob Lee
+    - Bo Diddley
+    - Bob Lee
 network_extracted: true
-origin: Washington, D.C., United States
+origin: 'Washington, D.C., United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Jewels
-- https://www.nationscapitaldoowop.org/jewels/
-- https://www.allmusic.com/artist/the-jewels-mn0000088776
-- https://wiki.killuglyradio.com/wiki/The_Jewels
-- https://www.uncamarvy.com/Jewels/jewels.html
-- https://www.history-of-rock.com/jewels.htm
+  - 'https://en.wikipedia.org/wiki/The_Jewels'
+  - 'https://www.nationscapitaldoowop.org/jewels/'
+  - 'https://www.allmusic.com/artist/the-jewels-mn0000088776'
+  - 'https://wiki.killuglyradio.com/wiki/The_Jewels'
+  - 'https://www.uncamarvy.com/Jewels/jewels.html'
+  - 'https://www.history-of-rock.com/jewels.htm'
 spotify_data:
   followers: 90
   id: 1Mz0K5b467rBBVeGWpI8i3
   popularity: 8
-  url: https://open.spotify.com/artist/1Mz0K5b467rBBVeGWpI8i3
+  url: 'https://open.spotify.com/artist/1Mz0K5b467rBBVeGWpI8i3'
 status: active
 title: The Jewels
+artist_type: band
 ---
 
 ![](the_jewels.jpg)

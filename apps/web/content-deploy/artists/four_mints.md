@@ -3,36 +3,37 @@ biography_enhanced_at: '2026-01-23T01:49:59.982814'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:49:59.982823'
 external_urls:
-  spotify: https://open.spotify.com/artist/5weBoY03qqqq9uFG136tti
+  spotify: 'https://open.spotify.com/artist/5weBoY03qqqq9uFG136tti'
   wikipedia: null
 genres:
-- northern soul
-- classic soul
+  - northern soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/four_mints.jpg
 last_updated: '2026-01-23T01:49:59.982824'
 musical_connections:
   collaborators:
-  - Billy Wooten
-  - Bobby Allen
+    - Billy Wooten
+    - Bobby Allen
   influenced: []
   mentors:
-  - Bill Moss
-  - Dean Francis
+    - Bill Moss
+    - Dean Francis
 network_extracted: true
-origin: Columbus, Ohio, United States
+origin: 'Columbus, Ohio, United States'
 primary_source: perplexity
 research_sources:
-- https://numerogroup.com/products/four-mints-gently-down-your-stream
-- https://www.musicmetricsvault.com/artists/four-mints/5weBoY03qqqq9uFG136tti
-- https://www.allmusic.com/artist/the-four-mints-mn0001250806
-- https://www.last.fm/music/The+Four+Mints/+wiki
+  - 'https://numerogroup.com/products/four-mints-gently-down-your-stream'
+  - 'https://www.musicmetricsvault.com/artists/four-mints/5weBoY03qqqq9uFG136tti'
+  - 'https://www.allmusic.com/artist/the-four-mints-mn0001250806'
+  - 'https://www.last.fm/music/The+Four+Mints/+wiki'
 spotify_data:
   followers: 2274
   id: 5weBoY03qqqq9uFG136tti
   popularity: 15
-  url: https://open.spotify.com/artist/5weBoY03qqqq9uFG136tti
+  url: 'https://open.spotify.com/artist/5weBoY03qqqq9uFG136tti'
 status: active
 title: Four Mints
+artist_type: band
 ---
 
 ![](four_mints.jpg)

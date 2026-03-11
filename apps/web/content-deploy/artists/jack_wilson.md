@@ -1,56 +1,57 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-02-25T02:00:34.579100'
-birth_place: Chicago, Illinois, USA
+birth_place: 'Chicago, Illinois, USA'
 disambiguation: production music composer
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:00:34.579169'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4b2dc66f-1d37-4d85-a318-710c56ba4211
-  spotify: https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n
-  wikipedia: https://en.wikipedia.org/wiki/Jack_Wilson_(jazz_pianist)
+  musicbrainz: 'https://musicbrainz.org/artist/4b2dc66f-1d37-4d85-a318-710c56ba4211'
+  spotify: 'https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_Wilson_(jazz_pianist)'
 gender: Male
 genres:
-- hard bop
-- bebop
-- soul jazz
-- jazz
+  - hard bop
+  - bebop
+  - soul jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/jack_wilson.jpg
 last_updated: '2026-02-25T02:00:34.579171'
 musical_connections:
   collaborators:
-  - Dinah Washington
-  - Roy Ayers
-  - Gerald Wilson
-  - Esther Phillips
-  - Barry Harris
-  - Jimmy Cobb
+    - Dinah Washington
+    - Roy Ayers
+    - Gerald Wilson
+    - Esther Phillips
+    - Barry Harris
+    - Jimmy Cobb
   influenced: []
   mentors:
-  - Carl Atkinson
-  - George Shearing
-  - Buddy Collette
+    - Carl Atkinson
+    - George Shearing
+    - Buddy Collette
 musicbrainz_id: 4b2dc66f-1d37-4d85-a318-710c56ba4211
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jack_Wilson_(jazz_pianist)
-- https://jazzresearch.com/jack-wilson/
-- https://jazztimes.com/archives/pianist-jack-wilson-dies-at-71/
-- https://jazzleadsheets.com/artists/jack-wilson-artist.html
-- https://www.bluenote.com/artist/jack-wilson/
-- https://sunra.substack.com/p/jack-wilson
-- https://www.bluenote.com/spotlight/the-underappreciated-jack-wilson/
-- https://store.everythingjazz.com/collections/jack-wilson
-- https://www.liveone.com/artist/jack-wilson/6302
-- https://www.allmusic.com/artist/jack-wilson-mn0000125426
+  - 'https://en.wikipedia.org/wiki/Jack_Wilson_(jazz_pianist)'
+  - 'https://jazzresearch.com/jack-wilson/'
+  - 'https://jazztimes.com/archives/pianist-jack-wilson-dies-at-71/'
+  - 'https://jazzleadsheets.com/artists/jack-wilson-artist.html'
+  - 'https://www.bluenote.com/artist/jack-wilson/'
+  - 'https://sunra.substack.com/p/jack-wilson'
+  - 'https://www.bluenote.com/spotlight/the-underappreciated-jack-wilson/'
+  - 'https://store.everythingjazz.com/collections/jack-wilson'
+  - 'https://www.liveone.com/artist/jack-wilson/6302'
+  - 'https://www.allmusic.com/artist/jack-wilson-mn0000125426'
 spotify_data:
   followers: 1916
   id: 1MJpO71ShS9nmFAbT6KM2n
   popularity: 13
-  url: https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n
+  url: 'https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n'
 status: active
 title: Jack Wilson
+birth_date: '1936-08-03'
 ---
 
 ![](jack_wilson.jpg)

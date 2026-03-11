@@ -3,37 +3,40 @@ biography_enhanced_at: '2026-02-08T02:00:21.560142'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:00:21.560151'
 external_urls:
-  spotify: https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW
+  spotify: 'https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW'
   wikipedia: ''
 genres:
-- son cubano
-- bolero
-- guaracha
+  - son cubano
+  - bolero
+  - guaracha
 image_path: 03_Resources/source_material/ArtistPortraits/trio_matamoros.jpg
 last_updated: '2026-02-08T02:00:21.560152'
 musical_connections:
   collaborators:
-  - Rafael Cueto
-  - Siro Rodríguez
-  - Beny Moré
+    - Rafael Cueto
+    - Siro Rodríguez
+    - Beny Moré
   influenced: []
   mentors: []
 network_extracted: true
-origin: Santiago de Cuba, Oriente, Cuba
+origin: 'Santiago de Cuba, Oriente, Cuba'
 primary_source: perplexity
 research_sources:
-- https://manuelgarciajr.com/2015/10/04/trio-matamoros-old-and-new/
-- https://www.slipcue.com/music/cuba/matamoros.html
-- https://www.radioenciclopedia.cu/cultural-news/the-matamoros-trio-and-the-revolution-of-cuban-son-08052025/
-- https://latinomusiccafe.com/2019/11/25/firing-miguel-matamoros-chapter-5-birth-of-a-legend/
-- https://www.jango.com/music/Trio+Matamoros/_full_bio
+  - 'https://manuelgarciajr.com/2015/10/04/trio-matamoros-old-and-new/'
+  - 'https://www.slipcue.com/music/cuba/matamoros.html'
+  - >-
+    https://www.radioenciclopedia.cu/cultural-news/the-matamoros-trio-and-the-revolution-of-cuban-son-08052025/
+  - >-
+    https://latinomusiccafe.com/2019/11/25/firing-miguel-matamoros-chapter-5-birth-of-a-legend/
+  - 'https://www.jango.com/music/Trio+Matamoros/_full_bio'
 spotify_data:
   followers: 35693
   id: 49J2FQGwlcwdE3AHT2PSOW
   popularity: 33
-  url: https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW
+  url: 'https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW'
 status: active
 title: Trio Matamoros
+artist_type: band
 ---
 
 ![](trio_matamoros.jpg)

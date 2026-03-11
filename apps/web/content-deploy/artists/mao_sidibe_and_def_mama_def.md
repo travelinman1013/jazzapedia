@@ -3,36 +3,40 @@ biography_enhanced_at: '2026-03-08T03:02:06.771632'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:02:06.771646'
 external_urls:
-  spotify: https://open.spotify.com/artist/7kfurIkDQb2fwkmxniqXp9
+  spotify: 'https://open.spotify.com/artist/7kfurIkDQb2fwkmxniqXp9'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-03-08T03:02:06.771649'
 musical_connections:
   collaborators:
-  - Mamy Victory
-  - Unnamed artistic director/stylist
-  - École des Sables (Germaine Acogny)
+    - Mamy Victory
+    - Unnamed artistic director/stylist
+    - École des Sables (Germaine Acogny)
   influenced: []
   mentors:
-  - Doudou Sarr
+    - Doudou Sarr
 network_extracted: true
-origin: Dakar, Senegal
+origin: 'Dakar, Senegal, Senegal'
 primary_source: perplexity
 research_sources:
-- https://pan-african-music.com/en/defmaa-maadef-senegal/
-- https://dmmdmusic.com/biography
-- https://www.musicinafrica.net/directory/def-mama-def
-- https://guardian.ng/saturday-magazine/glo-powered-african-voices-celebrates-diamond-platnumz-sidibe-ngetich/
-- https://www.msf.org.za/news-and-resources/press-release/msf-and-west-african-artists-sound-alarm-health-impacts-climate
-- https://www.songlines.co.uk/features/def-mama-def-we-will-introduce-you-to-the-new-senegalese-musical-era
+  - 'https://pan-african-music.com/en/defmaa-maadef-senegal/'
+  - 'https://dmmdmusic.com/biography'
+  - 'https://www.musicinafrica.net/directory/def-mama-def'
+  - >-
+    https://guardian.ng/saturday-magazine/glo-powered-african-voices-celebrates-diamond-platnumz-sidibe-ngetich/
+  - >-
+    https://www.msf.org.za/news-and-resources/press-release/msf-and-west-african-artists-sound-alarm-health-impacts-climate
+  - >-
+    https://www.songlines.co.uk/features/def-mama-def-we-will-introduce-you-to-the-new-senegalese-musical-era
 spotify_data:
   followers: 12
   id: 7kfurIkDQb2fwkmxniqXp9
   popularity: 2
-  url: https://open.spotify.com/artist/7kfurIkDQb2fwkmxniqXp9
+  url: 'https://open.spotify.com/artist/7kfurIkDQb2fwkmxniqXp9'
 status: active
-title: mao sidibe & def mama def
+title: Mao Sidibe & Def Mama Def
+artist_type: person
 ---
 
 ![]()

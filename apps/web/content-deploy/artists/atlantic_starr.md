@@ -1,98 +1,99 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-24T01:47:21.768562'
 birth_date: '1976'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:47:21.768571'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d793cf63-a10c-48fc-809c-9064d71328da
-  spotify: https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm
-  wikipedia: https://en.wikipedia.org/wiki/Atlantic_Starr
+  musicbrainz: 'https://musicbrainz.org/artist/d793cf63-a10c-48fc-809c-9064d71328da'
+  spotify: 'https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Atlantic_Starr'
 genres:
-- quiet storm
-- classic soul
+  - quiet storm
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/atlantic_starr.jpg
 instruments:
-- lead vocals
-- guitar
+  - lead vocals
+  - guitar
 last_updated: '2026-02-24T01:47:21.768573'
 members:
-- begin: '1976'
-  end: '1984'
-  instruments:
-  - lead vocals
-  mbid: f13712a6-ca4c-475d-a922-37d8fa0e42ef
-  name: Sharon Bryant
-- begin: ''
-  end: '1994'
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: e676922e-7c48-4996-92ce-079d84e2e8d1
-  name: David Lewis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 628b759b-1855-46c9-92d8-b128107827fe
-  name: Jonathan Lewis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f9e122c5-d0ab-44eb-b552-831a385fb258
-  name: Joseph Phillips
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7b00399c-ca81-4ee3-85a0-47548edd9618
-  name: Timmy Allen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 706e02fc-1e91-412c-a3e6-00801fe16247
-  name: Wayne Lewis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d0cfbcf-8ecf-4810-81e4-c48fd19289e5
-  name: Damon Rentie
+  - begin: '1976'
+    end: '1984'
+    instruments:
+      - lead vocals
+    mbid: f13712a6-ca4c-475d-a922-37d8fa0e42ef
+    name: Sharon Bryant
+  - begin: ''
+    end: '1994'
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: e676922e-7c48-4996-92ce-079d84e2e8d1
+    name: David Lewis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 628b759b-1855-46c9-92d8-b128107827fe
+    name: Jonathan Lewis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f9e122c5-d0ab-44eb-b552-831a385fb258
+    name: Joseph Phillips
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7b00399c-ca81-4ee3-85a0-47548edd9618
+    name: Timmy Allen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 706e02fc-1e91-412c-a3e6-00801fe16247
+    name: Wayne Lewis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d0cfbcf-8ecf-4810-81e4-c48fd19289e5
+    name: Damon Rentie
 musical_connections:
   collaborators:
-  - Sharon Bryant
-  - Barbara Weathers
-  - David Lewis
-  - Wayne Lewis
-  - Jonathan Lewis
+    - Sharon Bryant
+    - Barbara Weathers
+    - David Lewis
+    - Wayne Lewis
+    - Jonathan Lewis
   influenced:
-  - Earth, Wind & Fire
-  - The Commodores
-  - New Birth
-  - L.T.D.
+    - 'Earth, Wind & Fire'
+    - The Commodores
+    - New Birth
+    - L.T.D.
   mentors:
-  - Bobby Eli
-  - James Carmichael
-  - Herb Alpert
+    - Bobby Eli
+    - James Carmichael
+    - Herb Alpert
 musicbrainz_id: d793cf63-a10c-48fc-809c-9064d71328da
 network_extracted: true
-origin: Greenburgh
+origin: 'Greenburgh, Westchester County, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Atlantic_Starr
-- https://www.last.fm/music/Atlantic+Starr/+wiki
-- https://www.youtube.com/watch?v=nl9VUuaNNfA
-- https://www.youtube.com/watch?v=7zrSznRbj_4
-- https://equipboard.com/band/atlantic-starr
-- https://www.oreateai.com/blog/the-harmonious-legacy-of-atlantic-starr-a-journey-through-sound/ce815181d661b12b51a5ba786a2b6be6
+  - 'https://en.wikipedia.org/wiki/Atlantic_Starr'
+  - 'https://www.last.fm/music/Atlantic+Starr/+wiki'
+  - 'https://www.youtube.com/watch?v=nl9VUuaNNfA'
+  - 'https://www.youtube.com/watch?v=7zrSznRbj_4'
+  - 'https://equipboard.com/band/atlantic-starr'
+  - >-
+    https://www.oreateai.com/blog/the-harmonious-legacy-of-atlantic-starr-a-journey-through-sound/ce815181d661b12b51a5ba786a2b6be6
 spotify_data:
   followers: 829465
   id: 2YdVmtVBpIrv0N6WiBzSqm
   popularity: 53
-  url: https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm
+  url: 'https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm'
 status: active
 tags:
-- contemporary r&b
-- disco
-- pop
-title: ATLANTIC STARR
+  - contemporary r&b
+  - disco
+  - pop
+title: Atlantic Starr
 ---
 
 ![](atlantic_starr.jpg)

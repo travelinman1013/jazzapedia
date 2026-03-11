@@ -1,67 +1,71 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 050a27d0-dd83-4854-8f53-6390a2ea29eb
-  name: Noro Morales & His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 050a27d0-dd83-4854-8f53-6390a2ea29eb
+    name: Noro Morales & His Orchestra
 biography_enhanced_at: '2026-02-10T01:48:55.698487'
 birth_date: '1912-01-04'
-birth_place: Puerto Rico
+birth_place: 'Puerta de Tierra, San Juan, Puerto Rico'
 death_date: '1964-01-16'
-disambiguation: Puerto Rican composer, band leader
+disambiguation: 'Puerto Rican composer, band leader'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:48:55.698497'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f2d464ac-0c66-47b7-a367-4ddf4a9c558b
-  spotify: https://open.spotify.com/artist/2bfKvPIAQ9IEQQIKw6NPVn
+  musicbrainz: 'https://musicbrainz.org/artist/f2d464ac-0c66-47b7-a367-4ddf4a9c558b'
+  spotify: 'https://open.spotify.com/artist/2bfKvPIAQ9IEQQIKw6NPVn'
   wikipedia: ''
 gender: Male
 genres:
-- latin jazz
-- mambo
-- afro-cuban jazz
-- salsa
-- son cubano
-- cha cha cha
+  - latin jazz
+  - mambo
+  - afro-cuban jazz
+  - salsa
+  - son cubano
+  - cha cha cha
 image_path: 03_Resources/source_material/ArtistPortraits/noro_morales.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-02-10T01:48:55.698499'
 musical_connections:
   collaborators:
-  - Esy Morales (Ismael Morales)
-  - Humberto Morales
-  - Pepito Morales (José Morales, 'Gandinga')
-  - Machito
-  - Tito Rodriguez
-  - Tito Puente
+    - Esy Morales (Ismael Morales)
+    - Humberto Morales
+    - 'Pepito Morales (José Morales, ''Gandinga'')'
+    - Machito
+    - Tito Rodriguez
+    - Tito Puente
   influenced:
-  - Charlie Palmieri
-  - Eddie Palmieri
+    - Charlie Palmieri
+    - Eddie Palmieri
   mentors:
-  - Father (unnamed Morales)
-  - Sister (unnamed)
+    - Father (unnamed Morales)
+    - Sister (unnamed)
 musicbrainz_id: f2d464ac-0c66-47b7-a367-4ddf4a9c558b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/noro-morales/
-- https://ansoniarecords.com/noro-morales/
-- https://www.spaceagepop.com/morales.htm
-- https://thelisteningpostblog.wordpress.com/2021/06/27/song-of-the-day-noro-morales-y-su-sexteto-%E2%80%8E-serenata-ritmica/
-- https://www.jazz-on-film.com/mexican-jumping-bean-los-hijos-de-beda-noro-morales-and-his-orchestra-with-nino-and-lenora-and-dolores/
-- http://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=2410
-- https://www.allmusic.com/artist/noro-morales-mn0000459027
+  - 'https://www.allaboutjazz.com/musicians/noro-morales/'
+  - 'https://ansoniarecords.com/noro-morales/'
+  - 'https://www.spaceagepop.com/morales.htm'
+  - >-
+    https://thelisteningpostblog.wordpress.com/2021/06/27/song-of-the-day-noro-morales-y-su-sexteto-%E2%80%8E-serenata-ritmica/
+  - >-
+    https://www.jazz-on-film.com/mexican-jumping-bean-los-hijos-de-beda-noro-morales-and-his-orchestra-with-nino-and-lenora-and-dolores/
+  - 'http://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=2410'
+  - 'https://www.allmusic.com/artist/noro-morales-mn0000459027'
 spotify_data:
   followers: 14591
   id: 2bfKvPIAQ9IEQQIKw6NPVn
   popularity: 31
-  url: https://open.spotify.com/artist/2bfKvPIAQ9IEQQIKw6NPVn
+  url: 'https://open.spotify.com/artist/2bfKvPIAQ9IEQQIKw6NPVn'
 status: active
 title: Noro Morales
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](noro_morales.jpg)

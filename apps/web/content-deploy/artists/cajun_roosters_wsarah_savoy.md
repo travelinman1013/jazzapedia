@@ -1,50 +1,54 @@
 ---
 biography_enhanced_at: '2026-02-09T01:20:00.161457'
-birth_place: Savoy, Louisiana, USA
+birth_place: 'Savoy, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:20:00.161464'
 external_urls:
-  spotify: https://open.spotify.com/artist/3bK9ROfCCo2WEKo2QtD6T7
+  spotify: 'https://open.spotify.com/artist/3bK9ROfCCo2WEKo2QtD6T7'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/cajun_roosters_wsarah_savoy.jpg
 last_updated: '2026-02-09T01:20:00.161465'
 musical_connections:
   collaborators:
-  - David Rolland
-  - Vincent Blin
-  - Manolo Gonzales
-  - Gerard Dole
-  - Wilson Savoy
-  - Savoy Family Band
+    - David Rolland
+    - Vincent Blin
+    - Manolo Gonzales
+    - Gerard Dole
+    - Wilson Savoy
+    - Savoy Family Band
   influenced: []
   mentors:
-  - Marc Savoy
-  - Ann Savoy
-  - Iry LeJeune
-  - Amédée Ardoin
-  - Jason Frey
+    - Marc Savoy
+    - Ann Savoy
+    - Iry LeJeune
+    - Amédée Ardoin
+    - Jason Frey
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.folkandhoney.co.uk/london/sarah-savoy-a195/
-- https://blues.gr/profiles/blogs/the-princess-of-cajun-sarah-savoy-talks-about-the-cajun-culture
-- https://www.whelanslive.com/sarah-savoy/
-- https://en.fordefestival.no/aktuelt/2019mt-artisten-spesial-sarah-savoy-fra-usa
-- https://www.roux.vip/culture/2-the-savoy-family-rooted-in-cajun-culture
-- https://www.westmarinfiddlecamp.com/sarah-savoy
-- https://frusion.co.uk/artists/dance/global/Sarah_Savoy_Band.html
-- https://www.last.fm/music/Sarah+Savoy+and+the+Francadians/+wiki
-- https://www.thenationalnews.com/arts/mawazine-sessions-meet-the-cajun-queen-sarah-savoy-1.284643
+  - 'https://www.folkandhoney.co.uk/london/sarah-savoy-a195/'
+  - >-
+    https://blues.gr/profiles/blogs/the-princess-of-cajun-sarah-savoy-talks-about-the-cajun-culture
+  - 'https://www.whelanslive.com/sarah-savoy/'
+  - >-
+    https://en.fordefestival.no/aktuelt/2019mt-artisten-spesial-sarah-savoy-fra-usa
+  - 'https://www.roux.vip/culture/2-the-savoy-family-rooted-in-cajun-culture'
+  - 'https://www.westmarinfiddlecamp.com/sarah-savoy'
+  - 'https://frusion.co.uk/artists/dance/global/Sarah_Savoy_Band.html'
+  - 'https://www.last.fm/music/Sarah+Savoy+and+the+Francadians/+wiki'
+  - >-
+    https://www.thenationalnews.com/arts/mawazine-sessions-meet-the-cajun-queen-sarah-savoy-1.284643
 spotify_data:
   followers: 1224
   id: 3bK9ROfCCo2WEKo2QtD6T7
   popularity: 18
-  url: https://open.spotify.com/artist/3bK9ROfCCo2WEKo2QtD6T7
+  url: 'https://open.spotify.com/artist/3bK9ROfCCo2WEKo2QtD6T7'
 status: active
 title: Cajun Roosters w/Sarah SAvoy
+artist_type: person
 ---
 
 ![](cajun_roosters_wsarah_savoy.jpg)

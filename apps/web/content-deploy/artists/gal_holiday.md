@@ -3,44 +3,51 @@ biography_enhanced_at: '2026-02-28T01:45:59.745849'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:45:59.745858'
 external_urls:
-  spotify: https://open.spotify.com/artist/0WOtz7GyTde13WElQtq1xq
+  spotify: 'https://open.spotify.com/artist/0WOtz7GyTde13WElQtq1xq'
   wikipedia: null
 genres:
-- honky tonk
+  - honky tonk
 image_path: 03_Resources/source_material/ArtistPortraits/gal_holiday.jpg
 last_updated: '2026-02-28T01:45:59.745860'
 musical_connections:
   collaborators:
-  - Jimbo Mathus
-  - Corey McGillivary
-  - Justin LeCuyer
-  - Squirrel Nut Zippers
-  - Blind Boys of Alabama
-  - Dr. John
+    - Jimbo Mathus
+    - Corey McGillivary
+    - Justin LeCuyer
+    - Squirrel Nut Zippers
+    - Blind Boys of Alabama
+    - Dr. John
   influenced: []
   mentors:
-  - Doc Scantlin and His Imperial Palms Orchestra
+    - Doc Scantlin and His Imperial Palms Orchestra
 network_extracted: true
-origin: New Orleans, Louisiana, United States (current base); Appalachian region/Maryland
-  (birthplace)
+origin: >-
+  New Orleans, Louisiana, United States (current base); Appalachian
+  region/Maryland (birthplace)
 primary_source: perplexity
 research_sources:
-- https://www.bslshoofly.com/archives/gal-holiday-the-honky-tonk-revue-at-the-100-men-hall-march-10
-- https://galholiday.com/epk
-- https://galholiday.com/archives
-- https://www.offbeat.com/news/drawn-new-orleans-vanessa-gal-holiday-niemann/
-- https://www.theaudiodb.com/artist/134977-Gal-Holiday-and-the-Honky-Tonk-Revue
-- https://www.neworleans.com/listing/gal-holiday-&-the-honky-tonk-revue/46577/
-- https://events.jazzandheritage.org/cal/2589286
-- https://www.oreateai.com/blog/gal-holiday-and-the-honky-tonk-revue/a6d5aba4a8374980363478b95ba79d92
-- https://peoplesrepublicofescotia.com/2018/06/03/lost-and-found-gal-holiday-and-the-honky-tonk-revue-part-five-i-might-not-be-back-this-way-again-by-john-m-davis/
+  - >-
+    https://www.bslshoofly.com/archives/gal-holiday-the-honky-tonk-revue-at-the-100-men-hall-march-10
+  - 'https://galholiday.com/epk'
+  - 'https://galholiday.com/archives'
+  - 'https://www.offbeat.com/news/drawn-new-orleans-vanessa-gal-holiday-niemann/'
+  - >-
+    https://www.theaudiodb.com/artist/134977-Gal-Holiday-and-the-Honky-Tonk-Revue
+  - 'https://www.neworleans.com/listing/gal-holiday-&-the-honky-tonk-revue/46577/'
+  - 'https://events.jazzandheritage.org/cal/2589286'
+  - >-
+    https://www.oreateai.com/blog/gal-holiday-and-the-honky-tonk-revue/a6d5aba4a8374980363478b95ba79d92
+  - >-
+    https://peoplesrepublicofescotia.com/2018/06/03/lost-and-found-gal-holiday-and-the-honky-tonk-revue-part-five-i-might-not-be-back-this-way-again-by-john-m-davis/
 spotify_data:
   followers: 828
   id: 0WOtz7GyTde13WElQtq1xq
   popularity: 3
-  url: https://open.spotify.com/artist/0WOtz7GyTde13WElQtq1xq
+  url: 'https://open.spotify.com/artist/0WOtz7GyTde13WElQtq1xq'
 status: active
-title: Gal holiday
+title: Gal Holiday
+birth_place: 'Appalachian region/Maryland, United States'
+artist_type: person
 ---
 
 ![](gal_holiday.jpg)

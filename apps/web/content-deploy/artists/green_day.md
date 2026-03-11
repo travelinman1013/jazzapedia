@@ -1,99 +1,99 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-28T01:49:19.243186'
-birth_date: '1989'
+birth_date: '1987'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:49:19.243196'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/084308bd-1654-436f-ba03-df6697104e19
-  spotify: https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY
-  wikipedia: https://en.wikipedia.org/wiki/Green_Day
+  musicbrainz: 'https://musicbrainz.org/artist/084308bd-1654-436f-ba03-df6697104e19'
+  spotify: 'https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Green_Day'
 genres:
-- punk
-- pop punk
+  - punk
+  - pop punk
 image_path: 03_Resources/source_material/ArtistPortraits/green_day.jpg
 instruments:
-- drums (drum set)
-- original
-- guitar
-- lead vocals
-- bass guitar
-last_updated: '2026-02-28T01:49:19.243198'
-members:
-- begin: '1989'
-  end: '1990'
-  instruments:
   - drums (drum set)
   - original
-  mbid: 9eb48aba-297f-42f7-b0f9-73ecc0738ae1
-  name: John Kiffmeyer
-- &id001
-  begin: '1989'
-  end: ''
-  instruments:
   - guitar
   - lead vocals
-  - original
-  mbid: 5d06fe54-485a-4a07-b506-5f6f719448cb
-  name: Billie Joe Armstrong
-- &id002
-  begin: '1989'
-  end: ''
-  instruments:
   - bass guitar
-  - original
-  mbid: f332a312-e95b-4413-b6cc-1762a5a6a083
-  name: Mike Dirnt
-- &id003
-  begin: '1990'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 0dcee02c-5d2c-4f5c-9d60-d58a4df32d9e
-  name: Tré Cool
-- begin: '2012'
-  end: '2016'
-  instruments:
-  - guitar
-  mbid: f9b2a692-b74b-44c2-9bd8-db3119665b33
-  name: Jason White
+last_updated: '2026-02-28T01:49:19.243198'
+members:
+  - begin: '1989'
+    end: '1990'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 9eb48aba-297f-42f7-b0f9-73ecc0738ae1
+    name: John Kiffmeyer
+  - &ref_0
+    begin: '1989'
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 5d06fe54-485a-4a07-b506-5f6f719448cb
+    name: Billie Joe Armstrong
+  - &ref_1
+    begin: '1989'
+    end: ''
+    instruments:
+      - bass guitar
+      - original
+    mbid: f332a312-e95b-4413-b6cc-1762a5a6a083
+    name: Mike Dirnt
+  - &ref_2
+    begin: '1990'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 0dcee02c-5d2c-4f5c-9d60-d58a4df32d9e
+    name: Tré Cool
+  - begin: '2012'
+    end: '2016'
+    instruments:
+      - guitar
+    mbid: f9b2a692-b74b-44c2-9bd8-db3119665b33
+    name: Jason White
 musical_connections:
   collaborators:
-  - Mike Dirnt
-  - Tré Cool
-  - John Kiffmeyer (Al Sobrante)
-  - Jason White
+    - Mike Dirnt
+    - Tré Cool
+    - John Kiffmeyer (Al Sobrante)
+    - Jason White
   influenced:
-  - Blink-182
-  - Sum 41
+    - Blink-182
+    - Sum 41
   mentors:
-  - Ramones
-  - Dead Kennedys
-  - Larry Livermore
+    - Ramones
+    - Dead Kennedys
+    - Larry Livermore
 musicbrainz_id: 084308bd-1654-436f-ba03-df6697104e19
 network_extracted: true
-origin: Berkeley
+origin: 'Berkeley, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Green_Day
-- https://www.britannica.com/topic/Green-Day
-- https://greenday.fm/band/band-biography/
-- https://www.ohjeanrecords.com/blogs/news/green-day-biography
+  - 'https://en.wikipedia.org/wiki/Green_Day'
+  - 'https://www.britannica.com/topic/Green-Day'
+  - 'https://greenday.fm/band/band-biography/'
+  - 'https://www.ohjeanrecords.com/blogs/news/green-day-biography'
 spotify_data:
   followers: 18031333
   id: 7oPftvlwr6VrsViSDV7fJY
   popularity: 81
-  url: https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY
+  url: 'https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY'
 status: active
 tags:
-- alternative rock
-- american
-- bay area
-title: green day
+  - alternative rock
+  - american
+  - bay area
+title: Green Day
 ---
 
 ![](green_day.jpg)

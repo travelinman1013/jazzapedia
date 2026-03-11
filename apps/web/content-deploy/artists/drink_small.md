@@ -1,48 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-26T01:19:05.811024'
-birth_place: Bishopville, South Carolina, United States
+birth_place: 'Bishopville, South Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:19:05.811034'
 external_urls:
-  spotify: https://open.spotify.com/artist/4EUsEDBHttKkyKhn6QQZK4
-  wikipedia: https://en.wikipedia.org/wiki/Drink_Small
+  spotify: 'https://open.spotify.com/artist/4EUsEDBHttKkyKhn6QQZK4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Drink_Small'
 genres:
-- soul blues
-- blues
+  - soul blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/drink_small.jpg
 last_updated: '2026-02-26T01:19:05.811036'
 musical_connections:
   collaborators:
-  - The Spiritualaires
-  - Golden Five
-  - Six Stars
-  - Sam Cooke
-  - The Staple Singers
-  - The Harmonizing Four
-  - Sister Rosetta Tharpe
+    - The Spiritualaires
+    - Golden Five
+    - Six Stars
+    - Sam Cooke
+    - The Staple Singers
+    - The Harmonizing Four
+    - Sister Rosetta Tharpe
   influenced: []
   mentors:
-  - Blind Boy Fuller
-  - Tennessee Ernie Ford
-  - Merle Travis
-  - John Lee Hooker
-  - Fats Domino
+    - Blind Boy Fuller
+    - Tennessee Ernie Ford
+    - Merle Travis
+    - John Lee Hooker
+    - Fats Domino
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Drink_Small
-- https://www.musicmaker.org/artist/drink-small/
-- https://studysc.org/sc-people/drink-small
-- https://www.arts.gov/honors/heritage/drink-small
-- https://soozebluesjazz.weebly.com/drink-small.html
-- https://kids.kiddle.co/Drink_Small
+  - 'https://en.wikipedia.org/wiki/Drink_Small'
+  - 'https://www.musicmaker.org/artist/drink-small/'
+  - 'https://studysc.org/sc-people/drink-small'
+  - 'https://www.arts.gov/honors/heritage/drink-small'
+  - 'https://soozebluesjazz.weebly.com/drink-small.html'
+  - 'https://kids.kiddle.co/Drink_Small'
 spotify_data:
   followers: 412
   id: 4EUsEDBHttKkyKhn6QQZK4
   popularity: 0
-  url: https://open.spotify.com/artist/4EUsEDBHttKkyKhn6QQZK4
+  url: 'https://open.spotify.com/artist/4EUsEDBHttKkyKhn6QQZK4'
 status: active
-title: drink small
+title: Drink Small
+birth_date: '1933-01-28'
+artist_type: person
 ---
 
 ![](drink_small.jpg)

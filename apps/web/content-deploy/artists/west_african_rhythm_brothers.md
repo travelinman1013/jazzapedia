@@ -1,53 +1,58 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-28T01:52:39.049756'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:52:39.049765'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6d6feca4-c385-47e3-a7ed-e49dec097358
-  spotify: https://open.spotify.com/artist/6eHx0IIRZoz1ja4upKwXNj
-  wikipedia: https://en.wikipedia.org/wiki/Ambrose_Campbell
+  musicbrainz: 'https://musicbrainz.org/artist/6d6feca4-c385-47e3-a7ed-e49dec097358'
+  spotify: 'https://open.spotify.com/artist/6eHx0IIRZoz1ja4upKwXNj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ambrose_Campbell'
 genres:
-- calypso
-- highlife
+  - calypso
+  - highlife
 image_path: 03_Resources/source_material/ArtistPortraits/west_african_rhythm_brothers.jpg
 last_updated: '2026-01-28T01:52:39.049767'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 43c577a8-fc4a-42b4-8160-3f8f7af41c70
-  name: Ambrose Campbell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 43c577a8-fc4a-42b4-8160-3f8f7af41c70
+    name: Ambrose Campbell
 musical_connections:
   collaborators:
-  - Brewster Hughes
-  - Harry Beckett
-  - Willy Roachford
-  - Ade Bashorun
-  - Leon Russell
-  - Ronnie Scott
+    - Brewster Hughes
+    - Harry Beckett
+    - Willy Roachford
+    - Ade Bashorun
+    - Leon Russell
+    - Ronnie Scott
   influenced:
-  - Fela Kuti
-  - King Sunny Ade
-  - Ebenezer Obey
+    - Fela Kuti
+    - King Sunny Ade
+    - Ebenezer Obey
   mentors:
-  - Herbert Macaulay
+    - Herbert Macaulay
 musicbrainz_id: 6d6feca4-c385-47e3-a7ed-e49dec097358
 network_extracted: true
-origin: Lagos, Nigeria
+origin: 'Lagos, Nigeria, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ambrose_Campbell
-- https://damiajayi.substack.com/p/79-remembering-rosi
-- https://thelisteningpostblog.wordpress.com/2023/07/18/song-of-the-day-west-african-rhythm-brothers/
-- https://www.npg.org.uk/collections/search/person/mp84469/ambrose-adekoya-campbell
+  - 'https://en.wikipedia.org/wiki/Ambrose_Campbell'
+  - 'https://damiajayi.substack.com/p/79-remembering-rosi'
+  - >-
+    https://thelisteningpostblog.wordpress.com/2023/07/18/song-of-the-day-west-african-rhythm-brothers/
+  - >-
+    https://www.npg.org.uk/collections/search/person/mp84469/ambrose-adekoya-campbell
 spotify_data:
   followers: 820
   id: 6eHx0IIRZoz1ja4upKwXNj
   popularity: 6
-  url: https://open.spotify.com/artist/6eHx0IIRZoz1ja4upKwXNj
+  url: 'https://open.spotify.com/artist/6eHx0IIRZoz1ja4upKwXNj'
 status: active
 title: West African Rhythm Brothers
+birth_place: 'Lagos, Nigeria, United States'
+birth_date: '1919-08-19'
+death_date: '2006-06-22'
 ---
 
 ![](west_african_rhythm_brothers.jpg)

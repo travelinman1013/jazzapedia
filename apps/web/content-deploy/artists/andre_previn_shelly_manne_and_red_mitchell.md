@@ -3,40 +3,45 @@ biography_enhanced_at: '2026-03-02T01:13:31.489303'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:13:31.489314'
 external_urls:
-  spotify: https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq
-  wikipedia: https://en.wikipedia.org/wiki/Gigi_(Andr%C3%A9_Previn_album)
+  spotify: 'https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gigi_(Andr%C3%A9_Previn_album)'
 genres:
-- ballet
-- classical
-- orchestral
-image_path: 03_Resources/source_material/ArtistPortraits/andre_previn_shelly_manne_and_red_mitchell.jpg
+  - ballet
+  - classical
+  - orchestral
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/andre_previn_shelly_manne_and_red_mitchell.jpg
 last_updated: '2026-03-02T01:13:31.489316'
 musical_connections:
   collaborators:
-  - Leroy Vinnegar
-  - Les Koenig
+    - Leroy Vinnegar
+    - Les Koenig
   influenced:
-  - West Coast jazz bassists
+    - West Coast jazz bassists
   mentors:
-  - Pierre Monteux
-  - Stan Kenton
+    - Pierre Monteux
+    - Stan Kenton
 network_extracted: true
-origin: Los Angeles, California, United States (primary collaboration base)
+origin: 'Los Angeles, California, United States (primary collaboration base)'
 primary_source: perplexity
 research_sources:
-- https://jazzprofiles.blogspot.com/2019/03/andre-previn-jazz-years-in-california.html
-- https://concord.com/artist/shelly-manne/
-- https://cerra.substack.com/p/imaginative-broadway-show-albums
-- https://www.allaboutjazz.com/musicians/red-mitchell/
-- https://en.wikipedia.org/wiki/Gigi_(Andr%C3%A9_Previn_album)
-- https://concord.com/artist/andre-previn/
+  - >-
+    https://jazzprofiles.blogspot.com/2019/03/andre-previn-jazz-years-in-california.html
+  - 'https://concord.com/artist/shelly-manne/'
+  - 'https://cerra.substack.com/p/imaginative-broadway-show-albums'
+  - 'https://www.allaboutjazz.com/musicians/red-mitchell/'
+  - 'https://en.wikipedia.org/wiki/Gigi_(Andr%C3%A9_Previn_album)'
+  - 'https://concord.com/artist/andre-previn/'
 spotify_data:
   followers: 46067
   id: 2tfWguHr2nj4e8KXLKciVq
   popularity: 62
-  url: https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq
+  url: 'https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq'
 status: active
-title: ANDRE PREVIN, SHELLY MANNE & RED MITCHELL
+title: 'Andre Previn, Shelly Manne & Red Mitchell'
+birth_place: 'Berlin, Germany, Country not specified'
+birth_date: '1929'
+artist_type: band
 ---
 
 ![](andre_previn_shelly_manne_and_red_mitchell.jpg)

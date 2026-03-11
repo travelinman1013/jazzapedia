@@ -1,86 +1,88 @@
 ---
-artist_type: person
+artist_type: band
 associated_acts:
-- begin: '2003'
-  end: '2003'
-  instruments:
-  - original
-  mbid: 9abcbe69-fa83-4d34-8e34-ffc8c9876685
-  name: The Dead
-- begin: '2009'
-  end: ''
-  instruments:
-  - original
-  mbid: 55fd270b-f4e6-49a7-98f8-ac1af1b6d5a8
-  name: Trigger Hippy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ffb7c323-5113-4bb0-a5f7-5b657eec4083
-  name: Phil Lesh & Friends
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
-  name: We Are Family Collective
+  - begin: '2003'
+    end: '2003'
+    instruments:
+      - original
+    mbid: 9abcbe69-fa83-4d34-8e34-ffc8c9876685
+    name: The Dead
+  - begin: '2009'
+    end: ''
+    instruments:
+      - original
+    mbid: 55fd270b-f4e6-49a7-98f8-ac1af1b6d5a8
+    name: Trigger Hippy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ffb7c323-5113-4bb0-a5f7-5b657eec4083
+    name: Phil Lesh & Friends
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
+    name: We Are Family Collective
 biography_enhanced_at: '2026-02-06T01:10:20.222144'
 birth_date: '1963-07-08'
-birth_place: Anchorage
+birth_place: 'Anchorage, Kentucky, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:10:20.222153'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/746916c9-fd36-44e6-823d-03185e596f58
-  spotify: https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o
-  wikipedia: https://en.wikipedia.org/wiki/Joan_Osborne
+  musicbrainz: 'https://musicbrainz.org/artist/746916c9-fd36-44e6-823d-03185e596f58'
+  spotify: 'https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joan_Osborne'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/joan_osborne.jpg
 instruments:
-- original
-- acoustic guitar
-- background vocals
-- lead vocals
+  - original
+  - acoustic guitar
+  - background vocals
+  - lead vocals
 last_updated: '2026-02-06T01:10:20.222154'
 musical_connections:
   collaborators:
-  - Eric Bazilian
-  - The Grateful Dead
-  - Phil Lesh and Friends
-  - The Dixie Chicks
-  - Trigger Hippy
-  - Luciano Pavarotti
-  - Bob Dylan
-  - Stevie Wonder
-  - The Holmes Brothers
-  - Cheap Trick
+    - Eric Bazilian
+    - The Grateful Dead
+    - Phil Lesh and Friends
+    - The Dixie Chicks
+    - Trigger Hippy
+    - Luciano Pavarotti
+    - Bob Dylan
+    - Stevie Wonder
+    - The Holmes Brothers
+    - Cheap Trick
   influenced: []
   mentors:
-  - Billie Holiday
-  - Etta James
-  - Ray Charles
-  - George Stoney
-  - Rick Chertoff
+    - Billie Holiday
+    - Etta James
+    - Ray Charles
+    - George Stoney
+    - Rick Chertoff
 musicbrainz_id: 746916c9-fd36-44e6-823d-03185e596f58
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Joan+Osborne/+wiki
-- https://en.wikipedia.org/wiki/Joan_Osborne
-- https://joanosborne.com/biography/
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/joan-osborne
-- https://www.infoplease.com/biographies/art-entertainment/joan-osborne
-- https://joanosborne.com/bio/
+  - 'https://www.last.fm/music/Joan+Osborne/+wiki'
+  - 'https://en.wikipedia.org/wiki/Joan_Osborne'
+  - 'https://joanosborne.com/biography/'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/joan-osborne
+  - 'https://www.infoplease.com/biographies/art-entertainment/joan-osborne'
+  - 'https://joanosborne.com/bio/'
 spotify_data:
   followers: 251743
   id: 0djV4iaxhNfYWpH60ia85o
   popularity: 56
-  url: https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o
+  url: 'https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o'
 status: active
 tags:
-- blues rock
-- country rock
-- folk
-title: joan osborne
+  - blues rock
+  - country rock
+  - folk
+title: Joan Osborne
+origin: 'New York City, New York, United States'
 ---
 
 ![](joan_osborne.jpg)

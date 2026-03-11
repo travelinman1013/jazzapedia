@@ -1,41 +1,41 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-06T01:13:14.698864'
 birth_date: '2017'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:13:14.698872'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/09b72134-1c43-4a6b-b7a2-cbf1193177b3
-  spotify: https://open.spotify.com/artist/5Urzj24qvnjUNQByIFPNTL
+  musicbrainz: 'https://musicbrainz.org/artist/09b72134-1c43-4a6b-b7a2-cbf1193177b3'
+  spotify: 'https://open.spotify.com/artist/5Urzj24qvnjUNQByIFPNTL'
   wikipedia: Not found in search results
 genres:
-- cajun
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/water_seed.jpg
 last_updated: '2026-02-06T01:13:14.698873'
 musical_connections:
   collaborators:
-  - Lou Hill
-  - Berkley
-  - Cinese
-  - Shaleyah
-  - J Sharp
+    - Lou Hill
+    - Berkley
+    - Cinese
+    - Shaleyah
+    - J Sharp
   influenced: []
   mentors:
-  - James Brown, Sly and the Family Stone, Prince, Earth Wind and Fire
+    - 'James Brown, Sly and the Family Stone, Prince, Earth Wind and Fire'
 musicbrainz_id: 09b72134-1c43-4a6b-b7a2-cbf1193177b3
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/news/water-seed/
-- https://blerdcon.org/water-seed/
-- https://joshuatreemusicfestival.com/portfolio/water-seed/
-- https://www.neworleans.com/listing/water-seed/46637/
+  - 'https://www.offbeat.com/news/water-seed/'
+  - 'https://blerdcon.org/water-seed/'
+  - 'https://joshuatreemusicfestival.com/portfolio/water-seed/'
+  - 'https://www.neworleans.com/listing/water-seed/46637/'
 spotify_data:
   followers: 1555
   id: 5Urzj24qvnjUNQByIFPNTL
   popularity: 14
-  url: https://open.spotify.com/artist/5Urzj24qvnjUNQByIFPNTL
+  url: 'https://open.spotify.com/artist/5Urzj24qvnjUNQByIFPNTL'
 status: active
 title: Water Seed
 ---

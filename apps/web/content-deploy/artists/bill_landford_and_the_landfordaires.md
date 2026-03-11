@@ -1,39 +1,40 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-25T02:01:36.451043'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:01:36.451058'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ffcdf4b6-9e17-4c5f-9405-85dc563d020a
-  spotify: https://open.spotify.com/artist/4QYJCb2OxCvyMINbKWBQiK
+  musicbrainz: 'https://musicbrainz.org/artist/ffcdf4b6-9e17-4c5f-9405-85dc563d020a'
+  spotify: 'https://open.spotify.com/artist/4QYJCb2OxCvyMINbKWBQiK'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-02-25T02:01:36.451062'
 musical_connections:
   collaborators:
-  - Southern Sons
-  - Selah Jubilee Singers
-  - The Landfordaires
+    - Southern Sons
+    - Selah Jubilee Singers
+    - The Landfordaires
   influenced:
-  - Johnny Cash
-  - Moby
+    - Johnny Cash
+    - Moby
   mentors:
-  - Golden Gate Quartet
+    - Golden Gate Quartet
 musicbrainz_id: ffcdf4b6-9e17-4c5f-9405-85dc563d020a
 network_extracted: true
 origin: Unknown
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=DWR6MtITu68
-- https://en.wikipedia.org/wiki/God's_Gonna_Cut_You_Down
-- https://www.beautifulsongoftheweek.com/week-557-run-on-for-a-long-time-by-bill-landford-and-the-landfordaires/
-- https://www.rootsworld.com/rw/feature/gospel99.html
+  - 'https://www.youtube.com/watch?v=DWR6MtITu68'
+  - 'https://en.wikipedia.org/wiki/God''s_Gonna_Cut_You_Down'
+  - >-
+    https://www.beautifulsongoftheweek.com/week-557-run-on-for-a-long-time-by-bill-landford-and-the-landfordaires/
+  - 'https://www.rootsworld.com/rw/feature/gospel99.html'
 spotify_data:
   followers: 1589
   id: 4QYJCb2OxCvyMINbKWBQiK
   popularity: 16
-  url: https://open.spotify.com/artist/4QYJCb2OxCvyMINbKWBQiK
+  url: 'https://open.spotify.com/artist/4QYJCb2OxCvyMINbKWBQiK'
 status: active
 title: Bill Landford & The Landfordaires
 ---

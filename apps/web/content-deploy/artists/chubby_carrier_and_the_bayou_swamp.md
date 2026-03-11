@@ -3,45 +3,53 @@ biography_enhanced_at: '2026-02-04T01:21:12.936837'
 enhancement_provider: perplexity
 entry_created: '2026-02-04T01:21:12.936844'
 external_urls:
-  spotify: https://open.spotify.com/artist/6NNx1kkLD9QdBgrNma1DTI
-  wikipedia: https://en.wikipedia.org/wiki/Chubby_Carrier_and_the_Bayou_Swamp_Band
+  spotify: 'https://open.spotify.com/artist/6NNx1kkLD9QdBgrNma1DTI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chubby_Carrier_and_the_Bayou_Swamp_Band'
 genres:
-- zydeco
-- cajun
-image_path: 03_Resources/source_material/ArtistPortraits/chubby_carrier_and_the_bayou_swamp.jpg
+  - zydeco
+  - cajun
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/chubby_carrier_and_the_bayou_swamp.jpg
 last_updated: '2026-02-04T01:21:12.936844'
 musical_connections:
   collaborators:
-  - Earl Sally
-  - Randy Ellis
-  - Dave Nezat
-  - Mark Metoyer
+    - Earl Sally
+    - Randy Ellis
+    - Dave Nezat
+    - Mark Metoyer
   influenced:
-  - Bebe Carrier
-  - Calvin Carrier
+    - Bebe Carrier
+    - Calvin Carrier
   mentors:
-  - Roy Carrier
-  - Terrance Simien
-  - Warren Carrier
+    - Roy Carrier
+    - Terrance Simien
+    - Warren Carrier
 network_extracted: true
-origin: Church Point, Louisiana, USA
+origin: 'Church Point, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.lafayettetravel.com/things-to-do/arts-culture/music/music-artists/chubby-carrier/
-- https://en.wikipedia.org/wiki/Chubby_Carrier_and_the_Bayou_Swamp_Band
-- https://lcbs.org/bluesmore/chubby-carrier-and-the-bayou-swamp-band
-- https://folkworks.org/interview/zydeco-grammy-winner-chubby-carrier/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/ccarrier.htm.html
-- https://crescentmoonentertainment.com/chubby-carrier-and-the-bayou-swamp-band/
-- https://www.neworleans.com/listing/chubby-carrier-&-the-bayou-swamp-band/46336/
-- https://www.last.fm/music/Chubby+Carrier+&+The+Bayou+Swamp+Band/+wiki
+  - >-
+    https://www.lafayettetravel.com/things-to-do/arts-culture/music/music-artists/chubby-carrier/
+  - 'https://en.wikipedia.org/wiki/Chubby_Carrier_and_the_Bayou_Swamp_Band'
+  - 'https://lcbs.org/bluesmore/chubby-carrier-and-the-bayou-swamp-band'
+  - 'https://folkworks.org/interview/zydeco-grammy-winner-chubby-carrier/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/ccarrier.htm.html
+  - >-
+    https://crescentmoonentertainment.com/chubby-carrier-and-the-bayou-swamp-band/
+  - >-
+    https://www.neworleans.com/listing/chubby-carrier-&-the-bayou-swamp-band/46336/
+  - 'https://www.last.fm/music/Chubby+Carrier+&+The+Bayou+Swamp+Band/+wiki'
 spotify_data:
   followers: 1971
   id: 6NNx1kkLD9QdBgrNma1DTI
   popularity: 9
-  url: https://open.spotify.com/artist/6NNx1kkLD9QdBgrNma1DTI
+  url: 'https://open.spotify.com/artist/6NNx1kkLD9QdBgrNma1DTI'
 status: active
 title: Chubby Carrier & The Bayou Swamp
+birth_place: 'Church Point, Louisiana, United States'
+birth_date: '1967-07-01'
+artist_type: band
 ---
 
 ![](chubby_carrier_and_the_bayou_swamp.jpg)

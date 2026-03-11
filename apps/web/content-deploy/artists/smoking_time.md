@@ -3,41 +3,42 @@ biography_enhanced_at: '2026-02-19T01:57:47.497465'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:57:47.497475'
 external_urls:
-  spotify: https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI
+  spotify: 'https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/smoking_time.jpg
 last_updated: '2026-02-19T01:57:47.497476'
 musical_connections:
   collaborators:
-  - Sarah Peterson
-  - Jack Pritchett
-  - John Joyce
-  - Mike Voelker
-  - Joe Goldberg
-  - Russell Ramirez
-  - Brett Gardner
+    - Sarah Peterson
+    - Jack Pritchett
+    - John Joyce
+    - Mike Voelker
+    - Joe Goldberg
+    - Russell Ramirez
+    - Brett Gardner
   influenced: []
   mentors:
-  - Louis Armstrong
-  - Duke Ellington
-  - Jelly Roll Morton
+    - Louis Armstrong
+    - Duke Ellington
+    - Jelly Roll Morton
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- http://www.smokingtimejazzclub.com/music-2
-- https://syncopatedtimes.com/smoking-time-jazz-club-contrapuntal-stomp/
-- https://www.wwoz.org/blog/3485
-- http://www.smokingtimejazzclub.com
-- https://www.last.fm/music/Smoking+Time+Jazz+Club/+wiki
+  - 'http://www.smokingtimejazzclub.com/music-2'
+  - 'https://syncopatedtimes.com/smoking-time-jazz-club-contrapuntal-stomp/'
+  - 'https://www.wwoz.org/blog/3485'
+  - 'http://www.smokingtimejazzclub.com'
+  - 'https://www.last.fm/music/Smoking+Time+Jazz+Club/+wiki'
 spotify_data:
   followers: 1802
   id: 39eKoaG3eEpq8eKbX5jgUI
   popularity: 8
-  url: https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI
+  url: 'https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI'
 status: active
-title: smoking time
+title: Smoking Time
+artist_type: band
 ---
 
 ![](smoking_time.jpg)

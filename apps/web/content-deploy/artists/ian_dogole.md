@@ -1,84 +1,86 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1986'
-  end: ''
-  instruments: []
-  mbid: 3fb8b56c-bad0-4bbe-a7b6-b4110797ea06
-  name: Ancient Future
-- begin: '1990'
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f8bea941-3e67-4b06-9290-4f1e57d1fcf3
-  name: Ian Dogole & Global Fusion
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: e8b1a7e4-09ba-4935-8f05-235fe6865554
-  name: Sultans of Swatch
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 24818d0d-9639-438a-8fa9-cd3ba0d9e4e4
-  name: Ian Dogole Unit
+  - begin: '1986'
+    end: ''
+    instruments: []
+    mbid: 3fb8b56c-bad0-4bbe-a7b6-b4110797ea06
+    name: Ancient Future
+  - begin: '1990'
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f8bea941-3e67-4b06-9290-4f1e57d1fcf3
+    name: Ian Dogole & Global Fusion
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: e8b1a7e4-09ba-4935-8f05-235fe6865554
+    name: Sultans of Swatch
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 24818d0d-9639-438a-8fa9-cd3ba0d9e4e4
+    name: Ian Dogole Unit
 biography_enhanced_at: '2026-03-09T01:15:09.558479'
-birth_place: Philadelphia, PA, USA
+birth_place: 'Philadelphia, PA, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:15:09.558492'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b10a737d-e02f-4662-b26e-9b86f7197047
-  spotify: https://open.spotify.com/artist/4AzYYRskJJrcdBJ6QuYCS4
+  musicbrainz: 'https://musicbrainz.org/artist/b10a737d-e02f-4662-b26e-9b86f7197047'
+  spotify: 'https://open.spotify.com/artist/4AzYYRskJJrcdBJ6QuYCS4'
   wikipedia: ''
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ian_dogole.jpg
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 last_updated: '2026-03-09T01:15:09.558494'
 musical_connections:
   collaborators:
-  - Sheldon Brown
-  - Sascha Jacobsen
-  - Hamza el Din
-  - Richie Cole
-  - Paul McCandless
-  - Alex de Grassi
-  - Richard Howell
-  - Frank Martin
+    - Sheldon Brown
+    - Sascha Jacobsen
+    - Hamza el Din
+    - Richie Cole
+    - Paul McCandless
+    - Alex de Grassi
+    - Richard Howell
+    - Frank Martin
   influenced: []
   mentors:
-  - Randy Weston
-  - Woody Shaw
-  - Thelonious Monk
-  - John Coltrane
+    - Randy Weston
+    - Woody Shaw
+    - Thelonious Monk
+    - John Coltrane
 musicbrainz_id: b10a737d-e02f-4662-b26e-9b86f7197047
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazzintheneighborhood.org/2018/07/13/ian-dogole-music-beyond-borders/
-- https://www.iandogole.com
-- https://intermusicsf.org/affiliate/ian-dogole-music-beyond-borders/
-- https://www.ancient-future.com/ian.html
-- https://marinarts.org/artist/ian-dogole/
-- https://www.allaboutjazz.com/musicians/ian-dogole/
-- https://m.sunnysiderecords.com/index.php/artist/id/370
-- https://latinjazznet.com/reviews/albums/ian-dogole-outside-the-box/
+  - >-
+    https://jazzintheneighborhood.org/2018/07/13/ian-dogole-music-beyond-borders/
+  - 'https://www.iandogole.com'
+  - 'https://intermusicsf.org/affiliate/ian-dogole-music-beyond-borders/'
+  - 'https://www.ancient-future.com/ian.html'
+  - 'https://marinarts.org/artist/ian-dogole/'
+  - 'https://www.allaboutjazz.com/musicians/ian-dogole/'
+  - 'https://m.sunnysiderecords.com/index.php/artist/id/370'
+  - 'https://latinjazznet.com/reviews/albums/ian-dogole-outside-the-box/'
 spotify_data:
   followers: 58
   id: 4AzYYRskJJrcdBJ6QuYCS4
   popularity: 1
-  url: https://open.spotify.com/artist/4AzYYRskJJrcdBJ6QuYCS4
+  url: 'https://open.spotify.com/artist/4AzYYRskJJrcdBJ6QuYCS4'
 status: active
 tags:
-- drummer
-- world fusion
+  - drummer
+  - world fusion
 title: Ian Dogole
+origin: 'Novato, California, United States'
 ---
 
 ![](ian_dogole.jpg)

@@ -1,44 +1,48 @@
 ---
 biography_enhanced_at: '2026-03-02T01:11:18.589295'
-birth_place: Baton Rouge, Louisiana, USA
+birth_place: 'Baton Rouge, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:11:18.589305'
 external_urls:
-  spotify: https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn
+  spotify: 'https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn'
   wikipedia: ''
 genres:
-- retro soul
-- soul blues
-- soul jazz
+  - retro soul
+  - soul blues
+  - soul jazz
 image_path: 03_Resources/source_material/ArtistPortraits/britti.jpg
 last_updated: '2026-03-02T01:11:18.589307'
 musical_connections:
   collaborators:
-  - Dan Auerbach
-  - Jay Bellerose
-  - Tom Bukovac
-  - Mike Rojas
-  - Nick Movshon
+    - Dan Auerbach
+    - Jay Bellerose
+    - Tom Bukovac
+    - Mike Rojas
+    - Nick Movshon
   influenced: []
   mentors:
-  - Roland Guerin
-  - Dan Auerbach
+    - Roland Guerin
+    - Dan Auerbach
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://shorefire.com/releases/entry/hello-im-britti-dan-auerbach-produced-debut-arriving-february-2-2024-via-easy-eye-sound
-- https://atwoodmagazine.com/britti-hello-im-britti-album-interview-music-feature/
-- https://www.lovebritti.com
-- https://easyeyesound.com/blogs/news/new-orleans-artist-britti-emerges-from-obscurity-to-shine-on-her-debut-single-nothing-compares-to-you
-- https://daily.bandcamp.com/album-of-the-day/britti-hello-im-britti-review
-- https://www.aol.com/hello-im-britti-showcases-louisiana-110126587.html
+  - >-
+    https://shorefire.com/releases/entry/hello-im-britti-dan-auerbach-produced-debut-arriving-february-2-2024-via-easy-eye-sound
+  - >-
+    https://atwoodmagazine.com/britti-hello-im-britti-album-interview-music-feature/
+  - 'https://www.lovebritti.com'
+  - >-
+    https://easyeyesound.com/blogs/news/new-orleans-artist-britti-emerges-from-obscurity-to-shine-on-her-debut-single-nothing-compares-to-you
+  - 'https://daily.bandcamp.com/album-of-the-day/britti-hello-im-britti-review'
+  - 'https://www.aol.com/hello-im-britti-showcases-louisiana-110126587.html'
 spotify_data:
   followers: 5685
   id: 3hg7WmmcESGiEaNU40tqXn
   popularity: 16
-  url: https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn
+  url: 'https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn'
 status: active
 title: Britti
+artist_type: person
 ---
 
 ![](britti.jpg)

@@ -1,15 +1,15 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-19T01:59:20.238599'
 birth_date: '2022'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:59:20.238610'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/938beb72-803e-4bb3-ae25-f00ea672a982
-  spotify: https://open.spotify.com/artist/6RaJojOzLahE6bUSYITs9S
+  musicbrainz: 'https://musicbrainz.org/artist/938beb72-803e-4bb3-ae25-f00ea672a982'
+  spotify: 'https://open.spotify.com/artist/6RaJojOzLahE6bUSYITs9S'
   wikipedia: ''
 genres:
-- outlaw country
+  - outlaw country
 image_path: 03_Resources/source_material/ArtistPortraits/lily_unless_and_the_if_onlys.jpg
 last_updated: '2026-02-19T01:59:20.238612'
 musical_connections:
@@ -18,16 +18,16 @@ musical_connections:
   mentors: []
 musicbrainz_id: 938beb72-803e-4bb3-ae25-f00ea672a982
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://lilyunlessandtheifonlys.bandcamp.com
-- https://open.spotify.com/search/Lily%20Unless%20%26%20The%20If%20Onlys
+  - 'https://lilyunlessandtheifonlys.bandcamp.com'
+  - 'https://open.spotify.com/search/Lily%20Unless%20%26%20The%20If%20Onlys'
 spotify_data:
   followers: 135
   id: 6RaJojOzLahE6bUSYITs9S
   popularity: 0
-  url: https://open.spotify.com/artist/6RaJojOzLahE6bUSYITs9S
+  url: 'https://open.spotify.com/artist/6RaJojOzLahE6bUSYITs9S'
 status: active
 title: Lily Unless & The If Onlys
 ---

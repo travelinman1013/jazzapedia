@@ -3,37 +3,48 @@ biography_enhanced_at: '2026-01-28T01:55:38.091693'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:55:38.091703'
 external_urls:
-  spotify: https://open.spotify.com/artist/3KvGtmDDpEUkfyW09R6kYS
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong_and_His_Friends
+  spotify: 'https://open.spotify.com/artist/3KvGtmDDpEUkfyW09R6kYS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong_and_His_Friends'
 genres:
-- swing music
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_leon_thomas.jpg
+  - swing music
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/louis_armstrong_and_leon_thomas.jpg
 last_updated: '2026-01-28T01:55:38.091705'
 musical_connections:
   collaborators:
-  - Leon Thomas
-  - Pharaoh Sanders
-  - James Spaulding
+    - Leon Thomas
+    - Pharaoh Sanders
+    - James Spaulding
   influenced: []
   mentors:
-  - Oliver Nelson
-  - Bob Thiele
+    - Oliver Nelson
+    - Bob Thiele
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://dippermouth.blogspot.com/2008/04/creator-has-master-plan-unedited.html
-- https://virtualexhibits.louisarmstronghouse.org/2020/06/05/50-years-of-louis-armstrong-and-his-friends-part-3-the-may-27-1970-session/
-- https://dereksmusicblog.com/2014/06/14/louis-armstrong-louis-armstrong-and-his-friends/
-- https://virtualexhibits.louisarmstronghouse.org/2020/05/29/50-years-of-louis-armstrong-and-his-friends-part-1-the-preparation/
-- https://en.wikipedia.org/wiki/Louis_Armstrong_and_His_Friends
+  - >-
+    https://dippermouth.blogspot.com/2008/04/creator-has-master-plan-unedited.html
+  - >-
+    https://virtualexhibits.louisarmstronghouse.org/2020/06/05/50-years-of-louis-armstrong-and-his-friends-part-3-the-may-27-1970-session/
+  - >-
+    https://dereksmusicblog.com/2014/06/14/louis-armstrong-louis-armstrong-and-his-friends/
+  - >-
+    https://virtualexhibits.louisarmstronghouse.org/2020/05/29/50-years-of-louis-armstrong-and-his-friends-part-1-the-preparation/
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong_and_His_Friends'
 spotify_data:
   followers: 1464
   id: 3KvGtmDDpEUkfyW09R6kYS
   popularity: 33
-  url: https://open.spotify.com/artist/3KvGtmDDpEUkfyW09R6kYS
+  url: 'https://open.spotify.com/artist/3KvGtmDDpEUkfyW09R6kYS'
 status: active
 title: Louis Armstrong and Leon Thomas
+origin: >-
+  Not applicable - this represents a collaboration rather than a formal group or
+  band
+birth_date: '1901'
+death_date: '1971'
+artist_type: person
 ---
 
 ![](louis_armstrong_and_leon_thomas.jpg)

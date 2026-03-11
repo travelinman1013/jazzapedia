@@ -1,47 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-25T02:04:46.614129'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:04:46.614138'
 external_urls:
-  spotify: https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE
-  wikipedia: https://en.wikipedia.org/wiki/Slim_Thug
+  spotify: 'https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Slim_Thug'
 genres:
-- southern hip hop
-- crunk
+  - southern hip hop
+  - crunk
 image_path: 03_Resources/source_material/ArtistPortraits/slim.jpg
 last_updated: '2026-02-25T02:04:46.614140'
 musical_connections:
   collaborators:
-  - Mike Jones
-  - Paul Wall
-  - Beyoncé
-  - E.S.G.
+    - Mike Jones
+    - Paul Wall
+    - Beyoncé
+    - E.S.G.
   influenced:
-  - Dre Day
-  - J-Dawg
-  - Killa Kyleon
-  - Le$
+    - Dre Day
+    - J-Dawg
+    - Killa Kyleon
+    - Le$
   mentors:
-  - Michael “5000” Watts
-  - Pharrell Williams
+    - Michael “5000” Watts
+    - Pharrell Williams
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Slim_Thug
-- https://audibletreats.com/slim-thug/
-- https://www.last.fm/music/Slim+Thug/+wiki
-- https://en.wikipedia.org/wiki/Soulja_Slim
-- https://musicrising.tulane.edu/discover/people/soulja-slim/
-- https://soundssobeautiful.net/2021/06/16/southern-rap-history-les/
-- https://www.allmusic.com/artist/slim-thug-mn0000028406
+  - 'https://en.wikipedia.org/wiki/Slim_Thug'
+  - 'https://audibletreats.com/slim-thug/'
+  - 'https://www.last.fm/music/Slim+Thug/+wiki'
+  - 'https://en.wikipedia.org/wiki/Soulja_Slim'
+  - 'https://musicrising.tulane.edu/discover/people/soulja-slim/'
+  - 'https://soundssobeautiful.net/2021/06/16/southern-rap-history-les/'
+  - 'https://www.allmusic.com/artist/slim-thug-mn0000028406'
 spotify_data:
   followers: 992858
   id: 0st5vgzw9XkH5ALJiUM1lE
   popularity: 58
-  url: https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE
+  url: 'https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE'
 status: active
-title: SLIM
+title: Slim Thug
+origin: 'Houston, Texas, United States'
+birth_date: '1980-09-08'
+artist_type: person
 ---
 
 ![](slim.jpg)

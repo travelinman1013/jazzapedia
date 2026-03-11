@@ -1,32 +1,33 @@
 ---
 biography_enhanced_at: '2026-01-24T02:02:16.593739'
-birth_place: Atlanta, Georgia, United States
+birth_place: 'Atlanta, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:02:16.593745'
 external_urls:
-  spotify: https://open.spotify.com/artist/2omNntTlCpmnWGfVKXtAxy
+  spotify: 'https://open.spotify.com/artist/2omNntTlCpmnWGfVKXtAxy'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/michael_wagner.jpg
 last_updated: '2026-01-24T02:02:16.593746'
 musical_connections:
   collaborators:
-  - Niko SMB (Nicky X Ros)
-  - DJ Fredy Muks
-  - True Rylan
+    - Niko SMB (Nicky X Ros)
+    - DJ Fredy Muks
+    - True Rylan
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.officialmichaelwagner.com/bio
+  - 'https://www.officialmichaelwagner.com/bio'
 spotify_data:
   followers: 84
   id: 2omNntTlCpmnWGfVKXtAxy
   popularity: 9
-  url: https://open.spotify.com/artist/2omNntTlCpmnWGfVKXtAxy
+  url: 'https://open.spotify.com/artist/2omNntTlCpmnWGfVKXtAxy'
 status: active
-title: michael wagner
+title: Michael Wagner
+artist_type: person
 ---
 
 ![](michael_wagner.jpg)

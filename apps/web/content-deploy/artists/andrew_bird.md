@@ -1,90 +1,92 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df9dd219-d52b-4614-860d-e59d3d9672f7
-  name: Kevin O'Donnell's Quality Six
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 17b7189d-13e6-4d3f-a48a-2153a2e39a0b
-  name: Pinetop Seven
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a80d4124-e4c8-4a50-bac2-ed90e1190f7e
-  name: Andrew Bird’s Bowl of Fire
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 31810c40-932a-4f2d-8cfd-17849844e2a6
-  name: Squirrel Nut Zippers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 15a62b35-01c5-4019-a98f-7aa38736bd09
-  name: Charlie Nobody
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4fe255c8-5516-4e8e-ba4a-56f3455307d8
-  name: Andrew Bird Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df9dd219-d52b-4614-860d-e59d3d9672f7
+    name: Kevin O'Donnell's Quality Six
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 17b7189d-13e6-4d3f-a48a-2153a2e39a0b
+    name: Pinetop Seven
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a80d4124-e4c8-4a50-bac2-ed90e1190f7e
+    name: Andrew Bird’s Bowl of Fire
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 31810c40-932a-4f2d-8cfd-17849844e2a6
+    name: Squirrel Nut Zippers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 15a62b35-01c5-4019-a98f-7aa38736bd09
+    name: Charlie Nobody
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4fe255c8-5516-4e8e-ba4a-56f3455307d8
+    name: Andrew Bird Trio
 biography_enhanced_at: '2026-01-28T01:55:21.846742'
 birth_date: '1973-07-11'
-birth_place: Lake Forest
-disambiguation: US indie rock multi-instrumentalist, singer, and songwriter
+birth_place: 'Lake Forest, Illinois, United States'
+disambiguation: 'US indie rock multi-instrumentalist, singer, and songwriter'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:55:21.846751'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/081b133e-ce74-42ba-92c1-c18234acb532
-  spotify: https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9
+  musicbrainz: 'https://musicbrainz.org/artist/081b133e-ce74-42ba-92c1-c18234acb532'
+  spotify: 'https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9'
   wikipedia: ''
 gender: Male
 genres:
-- baroque pop
-- indie folk
+  - baroque pop
+  - indie folk
 image_path: 03_Resources/source_material/ArtistPortraits/andrew_bird.jpg
 instruments:
-- mandoguitar
-- guitar
-- piano
-- lead vocals
-- other vocals
-- background vocals
+  - mandoguitar
+  - guitar
+  - piano
+  - lead vocals
+  - other vocals
+  - background vocals
 last_updated: '2026-01-28T01:55:21.846753'
 musical_connections:
   collaborators:
-  - Squirrel Nut Zippers
-  - Bowl of Fire members (e.g., Kevin O'Donnell, Nora O'Connor)
-  - Handsome Family
-  - Esperanza Spalding, Fiona Apple
-  - David Boucher
+    - Squirrel Nut Zippers
+    - 'Bowl of Fire members (e.g., Kevin O''Donnell, Nora O''Connor)'
+    - Handsome Family
+    - 'Esperanza Spalding, Fiona Apple'
+    - David Boucher
   influenced: []
   mentors:
-  - Suzuki method teachers
+    - Suzuki method teachers
 musicbrainz_id: 081b133e-ce74-42ba-92c1-c18234acb532
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://mokbpresents.com/artist/andrew-bird/
-- https://www.britannica.com/biography/Andrew-Bird
-- https://stringsmagazine.com/andrew-bird-surveys-the-nature-of-things-on-inside-problems/
-- https://ponderosa.it/en/artist/andrew-bird/
-- https://www.last.fm/music/Andrew+Bird/+wiki
-- http://www.third-story.com/listen/andrewbird
+  - 'https://mokbpresents.com/artist/andrew-bird/'
+  - 'https://www.britannica.com/biography/Andrew-Bird'
+  - >-
+    https://stringsmagazine.com/andrew-bird-surveys-the-nature-of-things-on-inside-problems/
+  - 'https://ponderosa.it/en/artist/andrew-bird/'
+  - 'https://www.last.fm/music/Andrew+Bird/+wiki'
+  - 'http://www.third-story.com/listen/andrewbird'
 spotify_data:
   followers: 639078
   id: 4uSftVc3FPWe6RJuMZNEe9
   popularity: 57
-  url: https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9
+  url: 'https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9'
 status: active
 tags:
-- baroque pop
-- folk rock
-- indie folk
+  - baroque pop
+  - folk rock
+  - indie folk
 title: Andrew Bird
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](andrew_bird.jpg)

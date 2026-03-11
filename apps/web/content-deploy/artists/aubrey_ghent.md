@@ -1,59 +1,62 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 380ee2d3-6587-4090-90fa-6cafd7407dbb
-  name: Aubrey & Lori Ghent and Friends
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 380ee2d3-6587-4090-90fa-6cafd7407dbb
+    name: Aubrey & Lori Ghent and Friends
 biography_enhanced_at: '2026-03-06T01:32:10.187613'
-birth_place: Fort Pierce, Florida, USA
+birth_place: 'Fort Pierce, Florida, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:32:10.187627'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d1960fad-1790-41fc-9a27-200bdfbfc387
-  spotify: https://open.spotify.com/artist/0NyDG8ISZoiaS2W2yyZSbZ
+  musicbrainz: 'https://musicbrainz.org/artist/d1960fad-1790-41fc-9a27-200bdfbfc387'
+  spotify: 'https://open.spotify.com/artist/0NyDG8ISZoiaS2W2yyZSbZ'
   wikipedia: ''
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/aubrey_ghent.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-03-06T01:32:10.187630'
 musical_connections:
   collaborators:
-  - Lori Ghent
-  - Susan Tedeschi
-  - Derek Trucks Band
-  - Robert Randolph and the Family Band
+    - Lori Ghent
+    - Susan Tedeschi
+    - Derek Trucks Band
+    - Robert Randolph and the Family Band
   influenced:
-  - Aubrey Ghent Jr. (AJ Ghent)
-  - Robert Randolph
+    - Aubrey Ghent Jr. (AJ Ghent)
+    - Robert Randolph
   mentors:
-  - Henry Ghent
+    - Henry Ghent
 musicbrainz_id: d1960fad-1790-41fc-9a27-200bdfbfc387
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sacredstrings.com/history-AGsr
-- https://www.indianrivermagazine.com/fortpiercemagazine/articles/2018/ajghent.html
-- https://ajghent.com/bio
-- https://www.bangordailynews.com/2012/08/20/special-sections/aubrey-ghent-sacred-steel-guitar/
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH00463.pdf
-- https://arhoolie.org/sacred-steel-archive-aubrey-ghent-interview/
-- https://www.nashvillescene.com/arts_culture/aubrey-ghent-at-arts-access/article_0d316963-5d11-5d09-b9c8-6ce9b80ddb5f.html
+  - 'https://sacredstrings.com/history-AGsr'
+  - >-
+    https://www.indianrivermagazine.com/fortpiercemagazine/articles/2018/ajghent.html
+  - 'https://ajghent.com/bio'
+  - >-
+    https://www.bangordailynews.com/2012/08/20/special-sections/aubrey-ghent-sacred-steel-guitar/
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH00463.pdf'
+  - 'https://arhoolie.org/sacred-steel-archive-aubrey-ghent-interview/'
+  - >-
+    https://www.nashvillescene.com/arts_culture/aubrey-ghent-at-arts-access/article_0d316963-5d11-5d09-b9c8-6ce9b80ddb5f.html
 spotify_data:
   followers: 800
   id: 0NyDG8ISZoiaS2W2yyZSbZ
   popularity: 3
-  url: https://open.spotify.com/artist/0NyDG8ISZoiaS2W2yyZSbZ
+  url: 'https://open.spotify.com/artist/0NyDG8ISZoiaS2W2yyZSbZ'
 status: active
 tags:
-- gospel
-- lap steel guitar
-- spiritual
-title: aubrey ghent
+  - gospel
+  - lap steel guitar
+  - spiritual
+title: Aubrey Ghent
 ---
 
 ![](aubrey_ghent.jpg)

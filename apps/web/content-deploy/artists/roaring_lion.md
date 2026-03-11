@@ -2,45 +2,49 @@
 artist_type: person
 biography_enhanced_at: '2026-02-02T01:47:25.597992'
 birth_date: '1908-02-22'
-birth_place: Trinidad
+birth_place: 'Trinidad, Trinidad and Tobago, United States'
 death_date: '1999-07-11'
 disambiguation: Trinidadian calypso singer/composer
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:47:25.598001'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/48fb5388-88e2-4327-ae8c-dc19185804c8
-  spotify: https://open.spotify.com/artist/5hSF1JVkIaxGR4a3Ft5F9V
+  musicbrainz: 'https://musicbrainz.org/artist/48fb5388-88e2-4327-ae8c-dc19185804c8'
+  spotify: 'https://open.spotify.com/artist/5hSF1JVkIaxGR4a3Ft5F9V'
   wikipedia: ''
 gender: Male
 genres:
-- calypso
+  - calypso
 image_path: 03_Resources/source_material/ArtistPortraits/roaring_lion.jpg
 last_updated: '2026-02-02T01:47:25.598003'
 musical_connections:
   collaborators:
-  - Atilla the Hun
-  - Eduardo Sa Gomes
+    - Atilla the Hun
+    - Eduardo Sa Gomes
   influenced:
-  - Maestro
-  - David Rudder
+    - Maestro
+    - David Rudder
   mentors: []
 musicbrainz_id: 48fb5388-88e2-4327-ae8c-dc19185804c8
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kaiserball.wordpress.com/2007/11/18/rafael-de-leon-the-roaring-lion/
-- https://ttmusiclibrary.com/artist/roaringlion/
-- https://music.apple.com/ca/artist/roaring-lion/2758295
-- https://calypsoglobal.weebly.com/roaring-lion---feature-article.html
-- https://overtimett52.mypixieset.com/blog/nigel-lewis-etienne-charles-resuscitate-roaring-lions-70-plus-year-hit-trinidad-is-the-land-of-calypso/
-- https://caribbeanoldtimemusicgcooke.wordpress.com/old-time-caribbean-artistes/roaring-lion-2/
+  - 'https://kaiserball.wordpress.com/2007/11/18/rafael-de-leon-the-roaring-lion/'
+  - 'https://ttmusiclibrary.com/artist/roaringlion/'
+  - 'https://music.apple.com/ca/artist/roaring-lion/2758295'
+  - 'https://calypsoglobal.weebly.com/roaring-lion---feature-article.html'
+  - >-
+    https://overtimett52.mypixieset.com/blog/nigel-lewis-etienne-charles-resuscitate-roaring-lions-70-plus-year-hit-trinidad-is-the-land-of-calypso/
+  - >-
+    https://caribbeanoldtimemusicgcooke.wordpress.com/old-time-caribbean-artistes/roaring-lion-2/
 spotify_data:
   followers: 2351
   id: 5hSF1JVkIaxGR4a3Ft5F9V
   popularity: 16
-  url: https://open.spotify.com/artist/5hSF1JVkIaxGR4a3Ft5F9V
+  url: 'https://open.spotify.com/artist/5hSF1JVkIaxGR4a3Ft5F9V'
 status: active
 title: Roaring Lion
+is_active: false
+origin: 'Port-of-Spain, Trinidad and Tobago, United States'
 ---
 
 ![](roaring_lion.jpg)

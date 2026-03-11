@@ -1,38 +1,40 @@
 ---
 biography_enhanced_at: '2026-02-08T02:01:29.763198'
-birth_place: São Paulo, São Paulo, Brazil
+birth_place: 'São Paulo, São Paulo, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:01:29.763209'
 external_urls:
-  spotify: https://open.spotify.com/artist/3mSFtINh58wWRjqoqanB0U
+  spotify: 'https://open.spotify.com/artist/3mSFtINh58wWRjqoqanB0U'
   wikipedia: null
 genres: []
 image_path: ''
 last_updated: '2026-02-08T02:01:29.763210'
 musical_connections:
   collaborators:
-  - Clima
-  - Romulo Fróes
-  - Marcelo Cabral
-  - Thiago França
-  - Luísa Maita
-  - Criolo
-  - Juçara Marçal
+    - Clima
+    - Romulo Fróes
+    - Marcelo Cabral
+    - Thiago França
+    - Luísa Maita
+    - Criolo
+    - Juçara Marçal
   influenced: []
   mentors:
-  - Tom Zé
+    - Tom Zé
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.womex.com/virtual/agogo_cultural/rodrigo_campos
-- https://brazilbeatblog.wordpress.com/tag/rodrigo-campos/
+  - 'https://www.womex.com/virtual/agogo_cultural/rodrigo_campos'
+  - 'https://brazilbeatblog.wordpress.com/tag/rodrigo-campos/'
 spotify_data:
   followers: 1
   id: 3mSFtINh58wWRjqoqanB0U
   popularity: 2
-  url: https://open.spotify.com/artist/3mSFtINh58wWRjqoqanB0U
+  url: 'https://open.spotify.com/artist/3mSFtINh58wWRjqoqanB0U'
 status: active
 title: Rodrigo Campos & Clima
+origin: 'São Paulo, São Paulo, Brazil'
+artist_type: person
 ---
 
 ![]()

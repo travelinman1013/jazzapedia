@@ -2,50 +2,50 @@
 artist_type: person
 biography_enhanced_at: '2026-03-08T03:08:10.029273'
 birth_date: '1944-07-15'
-birth_place: Thomson
+birth_place: 'Thomson, McDuffie County, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:08:10.029280'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/50e7cc0b-a74e-44b1-a22f-3cd9361d82dd
-  spotify: https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1
+  musicbrainz: 'https://musicbrainz.org/artist/50e7cc0b-a74e-44b1-a22f-3cd9361d82dd'
+  spotify: 'https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1'
   wikipedia: ''
 gender: Female
 genres:
-- northern soul
-- classic soul
-- soul blues
-- soul
-- quiet storm
+  - northern soul
+  - classic soul
+  - soul blues
+  - soul
+  - quiet storm
 image_path: 03_Resources/source_material/ArtistPortraits/millie_jackson.jpg
 last_updated: '2026-03-08T03:08:10.029281'
 musical_connections:
   collaborators:
-  - Raeford Gerald
-  - Tony Camillo
-  - Bert DeCoteaux
-  - Muscle Shoals Swampers
-  - Don French
+    - Raeford Gerald
+    - Tony Camillo
+    - Bert DeCoteaux
+    - Muscle Shoals Swampers
+    - Don French
   influenced:
-  - Keisha Jackson
-  - Female rappers
+    - Keisha Jackson
+    - Female rappers
   mentors:
-  - Gladys Knight
+    - Gladys Knight
 musicbrainz_id: 50e7cc0b-a74e-44b1-a22f-3cd9361d82dd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Millie+Jackson/+wiki
-- https://jointzoftheday.substack.com/p/millie-jackson-born-july-15-1944
-- http://www.warr.org/millie.html
-- https://www.allmusic.com/artist/millie-jackson-mn0000488859
+  - 'https://www.last.fm/music/Millie+Jackson/+wiki'
+  - 'https://jointzoftheday.substack.com/p/millie-jackson-born-july-15-1944'
+  - 'http://www.warr.org/millie.html'
+  - 'https://www.allmusic.com/artist/millie-jackson-mn0000488859'
 spotify_data:
   followers: 165641
   id: 27XI002zivG9xuzrZ9dIb1
   popularity: 39
-  url: https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1
+  url: 'https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1'
 status: active
 tags:
-- soul
+  - soul
 title: Millie Jackson
 ---
 

@@ -1,38 +1,41 @@
 ---
 biography_enhanced_at: '2026-02-10T01:58:19.213150'
-birth_place: Washington Heights, Manhattan, New York, USA
+birth_place: 'Washington Heights, Manhattan, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:58:19.213156'
 external_urls:
-  spotify: https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X
-  wikipedia: https://en.wikipedia.org/wiki/Cardi_B
+  spotify: 'https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cardi_B'
 genres:
-- reggaeton
-- trap latino
-- latin
-- urbano latino
+  - reggaeton
+  - trap latino
+  - latin
+  - urbano latino
 image_path: 03_Resources/source_material/ArtistPortraits/cardi_b_bad_bunny_j_balvin.jpg
 last_updated: '2026-02-10T01:58:19.213156'
 musical_connections:
   collaborators:
-  - Offset
+    - Offset
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Cardi-B
-- https://en.wikipedia.org/wiki/Cardi_B
-- https://www.biography.com/musicians/cardi-b
-- https://blackpast.org/african-american-history/belcalis-marlenis-cardi-b-almanzar-1992/
-- https://www.referencepointpress.com/pdfs/samples/GiantsofRapandHip-Hop.pdf
+  - 'https://www.britannica.com/biography/Cardi-B'
+  - 'https://en.wikipedia.org/wiki/Cardi_B'
+  - 'https://www.biography.com/musicians/cardi-b'
+  - >-
+    https://blackpast.org/african-american-history/belcalis-marlenis-cardi-b-almanzar-1992/
+  - 'https://www.referencepointpress.com/pdfs/samples/GiantsofRapandHip-Hop.pdf'
 spotify_data:
   followers: 108866231
   id: 4q3ewBCX7sLwd24euuV69X
   popularity: 100
-  url: https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X
+  url: 'https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X'
 status: active
-title: Cardi B/ Bad Bunny/ J Balvin
+title: Cardi B
+birth_date: '1992-10-11'
+artist_type: person
 ---
 
 ![](cardi_b_bad_bunny_j_balvin.jpg)

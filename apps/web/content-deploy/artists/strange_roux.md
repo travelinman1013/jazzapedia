@@ -1,45 +1,45 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-04T01:46:29.322712'
 enhancement_provider: perplexity
 entry_created: '2026-03-04T01:46:29.322730'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9b2a3cca-4cf0-44d7-8413-6d2ef2118ecb
-  spotify: https://open.spotify.com/artist/7sVzwlMtWpMlcMr5slFITM
+  musicbrainz: 'https://musicbrainz.org/artist/9b2a3cca-4cf0-44d7-8413-6d2ef2118ecb'
+  spotify: 'https://open.spotify.com/artist/7sVzwlMtWpMlcMr5slFITM'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/strange_roux.jpg
 last_updated: '2026-03-04T01:46:29.322733'
 musical_connections:
   collaborators:
-  - Andre Bohren
-  - Jack Miehle
-  - The Revivalists
-  - Lost Bayou Ramblers
-  - Naughty Professor
-  - Honey Island Swamp Band
-  - Dax Riggs
-  - Luke Winslow King
-  - Papa Mali
-  - Johnny Sketch and The Dirty Notes
+    - Andre Bohren
+    - Jack Miehle
+    - The Revivalists
+    - Lost Bayou Ramblers
+    - Naughty Professor
+    - Honey Island Swamp Band
+    - Dax Riggs
+    - Luke Winslow King
+    - Papa Mali
+    - Johnny Sketch and The Dirty Notes
   influenced: []
   mentors: []
 musicbrainz_id: 9b2a3cca-4cf0-44d7-8413-6d2ef2118ecb
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://strangeroux.com/bio
-- https://www.whereyat.com/strange-roux-boogie-man
-- https://strangeroux.com
-- https://www.whereyat.com/strange-roux
-- https://www.offbeat.com/music/strange-roux-boogieman-total-riot-records/
-- https://www.reverbnation.com/artist/index/strangeroux
+  - 'https://strangeroux.com/bio'
+  - 'https://www.whereyat.com/strange-roux-boogie-man'
+  - 'https://strangeroux.com'
+  - 'https://www.whereyat.com/strange-roux'
+  - 'https://www.offbeat.com/music/strange-roux-boogieman-total-riot-records/'
+  - 'https://www.reverbnation.com/artist/index/strangeroux'
 spotify_data:
   followers: 158
   id: 7sVzwlMtWpMlcMr5slFITM
   popularity: 0
-  url: https://open.spotify.com/artist/7sVzwlMtWpMlcMr5slFITM
+  url: 'https://open.spotify.com/artist/7sVzwlMtWpMlcMr5slFITM'
 status: active
 title: Strange Roux
 ---

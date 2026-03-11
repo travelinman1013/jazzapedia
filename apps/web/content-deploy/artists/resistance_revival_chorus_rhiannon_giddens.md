@@ -1,46 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-31T01:05:57.686129'
-birth_place: Greensboro, North Carolina, USA
+birth_place: 'Greensboro, North Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:05:57.686145'
 external_urls:
-  spotify: https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM
-  wikipedia: https://en.wikipedia.org/wiki/Rhiannon_Giddens
+  spotify: 'https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rhiannon_Giddens'
 genres:
-- folk
-- americana
-- southern gothic
-- bluegrass
-image_path: 03_Resources/source_material/ArtistPortraits/resistance_revival_chorus_rhiannon_giddens.jpg
+  - folk
+  - americana
+  - southern gothic
+  - bluegrass
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/resistance_revival_chorus_rhiannon_giddens.jpg
 last_updated: '2026-01-31T01:05:57.686147'
 musical_connections:
   collaborators:
-  - Dom Flemons
-  - Justin Robinson
-  - Francesco Turrisi
-  - T Bone Burnett
-  - Michael Abels
+    - Dom Flemons
+    - Justin Robinson
+    - Francesco Turrisi
+    - T Bone Burnett
+    - Michael Abels
   influenced:
-  - Our Native Daughters members (e.g., Leyla McCalla, Allison Russell)
+    - 'Our Native Daughters members (e.g., Leyla McCalla, Allison Russell)'
   mentors:
-  - Joe Thompson
+    - Joe Thompson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rhiannon_Giddens
-- https://www.redlightmanagement.com/artists/rhiannon-giddens/
-- https://rhiannongiddens.com/about
-- https://www.smithsonianmag.com/arts-culture/rhiannon-giddens-american-music-history-21st-century-sound-180971449/
-- https://www.macfound.org/fellows/class-of-2017/rhiannon-giddens
-- https://www.ncarts.org/blog/2018/09/04/50-50-rhiannon-giddens
-- https://aarome.org/people/residents/rhiannon-giddens
+  - 'https://en.wikipedia.org/wiki/Rhiannon_Giddens'
+  - 'https://www.redlightmanagement.com/artists/rhiannon-giddens/'
+  - 'https://rhiannongiddens.com/about'
+  - >-
+    https://www.smithsonianmag.com/arts-culture/rhiannon-giddens-american-music-history-21st-century-sound-180971449/
+  - 'https://www.macfound.org/fellows/class-of-2017/rhiannon-giddens'
+  - 'https://www.ncarts.org/blog/2018/09/04/50-50-rhiannon-giddens'
+  - 'https://aarome.org/people/residents/rhiannon-giddens'
 spotify_data:
   followers: 176946
   id: 1EI0NtLHoh9KBziYCeN1vM
   popularity: 50
-  url: https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM
+  url: 'https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM'
 status: active
-title: Resistance Revival Chorus, Rhiannon Giddens
+title: 'Resistance Revival Chorus, Rhiannon Giddens'
+birth_date: '1977-02-21'
+artist_type: person
 ---
 
 ![](resistance_revival_chorus_rhiannon_giddens.jpg)

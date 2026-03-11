@@ -1,67 +1,69 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-03-02T01:14:30.109849'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:14:30.109856'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/68886db8-8980-4212-90d2-86eb1497f75b
-  spotify: https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6
-  wikipedia: https://en.wikipedia.org/wiki/Chico_Hamilton
+  musicbrainz: 'https://musicbrainz.org/artist/68886db8-8980-4212-90d2-86eb1497f75b'
+  spotify: 'https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chico_Hamilton'
 genres:
-- cool jazz
-- hard bop
-- jazz
+  - cool jazz
+  - hard bop
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/the_chico_hamilton_quintet.jpg
 instruments:
-- drums (drum set)
-- eponymous
-- original
-last_updated: '2026-03-02T01:14:30.109856'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
   - eponymous
   - original
-  mbid: 699067a0-ae8c-45fc-82c1-6227d91f9bb4
-  name: Chico Hamilton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ee69197a-ca57-42ba-bd23-93b756391a5d
-  name: Gábor Szabó
+last_updated: '2026-03-02T01:14:30.109856'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - original
+    mbid: 699067a0-ae8c-45fc-82c1-6227d91f9bb4
+    name: Chico Hamilton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ee69197a-ca57-42ba-bd23-93b756391a5d
+    name: Gábor Szabó
 musical_connections:
   collaborators:
-  - Buddy Collette
-  - Jim Hall
-  - Fred Katz
-  - Charles Lloyd
-  - Lena Horne
+    - Buddy Collette
+    - Jim Hall
+    - Fred Katz
+    - Charles Lloyd
+    - Lena Horne
   influenced:
-  - Larry Coryell
-  - Arthur Blythe
+    - Larry Coryell
+    - Arthur Blythe
   mentors:
-  - Gerry Mulligan
+    - Gerry Mulligan
 musicbrainz_id: 68886db8-8980-4212-90d2-86eb1497f75b
 network_extracted: true
-origin: Los Angeles, California, USA
+origin: 'Los Angeles, California, USA'
 primary_source: perplexity
 research_sources:
-- https://jazzprofiles.blogspot.com/2018/05/chico-hamilton-quintet-1955-1960-by.html
-- https://www.bluenote.com/artist/chico-hamilton/
-- https://en.wikipedia.org/wiki/Chico_Hamilton
-- https://jazztimes.com/archives/chico-hamilton-the-sweet-smell-of-success/
-- https://drummercafe.com/featured/drummer-percussionist/chico-hamilton
+  - >-
+    https://jazzprofiles.blogspot.com/2018/05/chico-hamilton-quintet-1955-1960-by.html
+  - 'https://www.bluenote.com/artist/chico-hamilton/'
+  - 'https://en.wikipedia.org/wiki/Chico_Hamilton'
+  - 'https://jazztimes.com/archives/chico-hamilton-the-sweet-smell-of-success/'
+  - 'https://drummercafe.com/featured/drummer-percussionist/chico-hamilton'
 spotify_data:
   followers: 4267
   id: 46KGomcx6B13NuFgu6GNT6
   popularity: 18
-  url: https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6
+  url: 'https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6'
 status: active
 tags:
-- jazz
-title: THE CHICO HAMILTON QUINTET
+  - jazz
+title: The Chico Hamilton Quintet
+birth_place: 'Los Angeles, California, United States'
 ---
 
 ![](the_chico_hamilton_quintet.jpg)

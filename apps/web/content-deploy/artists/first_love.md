@@ -1,41 +1,45 @@
 ---
 biography_enhanced_at: '2026-03-08T03:04:18.284392'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:04:18.284401'
 external_urls:
-  spotify: https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2
-  wikipedia: https://en.wikipedia.org/wiki/Hikaru_Utada
+  spotify: 'https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hikaru_Utada'
 genres:
-- j-pop
-- j-r&b
-- anime
+  - j-pop
+  - j-r&b
+  - anime
 image_path: 03_Resources/source_material/ArtistPortraits/first_love.jpg
 last_updated: '2026-03-08T03:04:18.284402'
 musical_connections:
   collaborators:
-  - Toshiba-EMI (EMI Music Japan)
+    - Toshiba-EMI (EMI Music Japan)
   influenced: []
   mentors:
-  - Teruzane Utada
-  - Keiko Fuji
+    - Teruzane Utada
+    - Keiko Fuji
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hikaru_Utada
-- https://time.com/archive/6911350/utada-hikaru-biography/
-- https://cctvpops.com/episode/first-love-distance-and-the-origins-of-a-legend-pop-101-a-guide-to-hikaru-utada-part-1
-- https://en.wikipedia.org/wiki/First_Love_(Hikaru_Utada_album)
-- https://kids.kiddle.co/Hikaru_Utada
-- https://jpop.fandom.com/wiki/Utada_Hikaru
-- https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/+wiki
+  - 'https://en.wikipedia.org/wiki/Hikaru_Utada'
+  - 'https://time.com/archive/6911350/utada-hikaru-biography/'
+  - >-
+    https://cctvpops.com/episode/first-love-distance-and-the-origins-of-a-legend-pop-101-a-guide-to-hikaru-utada-part-1
+  - 'https://en.wikipedia.org/wiki/First_Love_(Hikaru_Utada_album)'
+  - 'https://kids.kiddle.co/Hikaru_Utada'
+  - 'https://jpop.fandom.com/wiki/Utada_Hikaru'
+  - >-
+    https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/+wiki
 spotify_data:
   followers: 4318120
   id: 7lbSsjYACZHn1MSDXPxNF2
   popularity: 70
-  url: https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2
+  url: 'https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2'
 status: active
 title: First Love
+birth_date: '1983-01-19'
+artist_type: person
 ---
 
 ![](first_love.jpg)

@@ -1,226 +1,226 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-28T01:51:05.576486'
 birth_date: '1968'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:51:05.576495'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/79491354-3d83-40e3-9d8e-7592d58d790a
-  spotify: https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf
+  musicbrainz: 'https://musicbrainz.org/artist/79491354-3d83-40e3-9d8e-7592d58d790a'
+  spotify: 'https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf'
   wikipedia: ''
 genres:
-- hard rock
-- classic rock
-- rock
+  - hard rock
+  - classic rock
+  - rock
 image_path: 03_Resources/source_material/ArtistPortraits/deep_purple.jpg
 instruments:
-- lead vocals
-- original
-- background vocals
-- bass guitar
-- guitar
-- keyboard
-- organ
-- drums (drum set)
-- percussion
-- harmonica
+  - lead vocals
+  - original
+  - background vocals
+  - bass guitar
+  - guitar
+  - keyboard
+  - organ
+  - drums (drum set)
+  - percussion
+  - harmonica
 last_updated: '2026-02-28T01:51:05.576496'
 members:
-- begin: 1968-03
-  end: 1969-07
-  instruments:
-  - lead vocals
-  - original
-  mbid: ed031718-b94c-403d-8a89-438e355db488
-  name: Rod Evans
-- begin: 1968-03
-  end: 1969-07
-  instruments:
-  - background vocals
-  - bass guitar
-  - original
-  mbid: 00929331-8a98-4651-9052-6feaf0458b81
-  name: Nick Simper
-- begin: 1968-03
-  end: 1975-06
-  instruments:
-  - guitar
-  - original
-  mbid: fc5f555c-dfa2-4f16-9da5-98342105c23a
-  name: Ritchie Blackmore
-- begin: 1968-03
-  end: 1976-03
-  instruments:
-  - background vocals
-  - keyboard
-  - organ
-  - original
-  mbid: 6bf692e0-baac-4428-94c3-423d52508cf0
-  name: Jon Lord
-- begin: 1968-03
-  end: 1976-03
-  instruments:
-  - drums (drum set)
-  - original
-  - percussion
-  mbid: 29c11f6b-df9f-454f-964e-75eedadb4a1e
-  name: Ian Paice
-- begin: 1969-07
-  end: 1973-06
-  instruments:
-  - harmonica
-  - lead vocals
-  - percussion
-  mbid: ff2a0e30-aec1-44dd-ae06-dc78877f512d
-  name: Ian Gillan
-- begin: 1969-07
-  end: 1973-06
-  instruments:
-  - bass guitar
-  mbid: 583944a8-d43b-42e9-8e3c-29eb89f53587
-  name: Roger Glover
-- begin: 1973-07
-  end: 1976-03
-  instruments:
-  - bass guitar
-  - lead vocals
-  mbid: 78692212-af57-402a-a291-3938ca356500
-  name: Glenn Hughes
-- begin: 1973-08
-  end: 1976-03
-  instruments:
-  - lead vocals
-  mbid: 8b26558a-1073-45cf-b9a2-233703654ffb
-  name: David Coverdale
-- begin: 1975-06
-  end: 1976-03
-  instruments:
-  - bass guitar
-  - guitar
-  - lead vocals
-  mbid: 1edd8e9a-0deb-4548-a2a3-679af784f6c6
-  name: Tommy Bolin
-- begin: 1984-04
-  end: 1989-05
-  instruments:
-  - harmonica
-  - lead vocals
-  - percussion
-  mbid: ff2a0e30-aec1-44dd-ae06-dc78877f512d
-  name: Ian Gillan
-- begin: 1984-04
-  end: 1993-11
-  instruments:
-  - guitar
-  - original
-  mbid: fc5f555c-dfa2-4f16-9da5-98342105c23a
-  name: Ritchie Blackmore
-- begin: 1984-04
-  end: 2002-02
-  instruments:
-  - background vocals
-  - keyboard
-  - organ
-  - original
-  mbid: 6bf692e0-baac-4428-94c3-423d52508cf0
-  name: Jon Lord
-- &id001
-  begin: 1984-04
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 583944a8-d43b-42e9-8e3c-29eb89f53587
-  name: Roger Glover
-- &id002
-  begin: 1984-04
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  - percussion
-  mbid: 29c11f6b-df9f-454f-964e-75eedadb4a1e
-  name: Ian Paice
-- begin: 1989-12
-  end: 1992-08
-  instruments:
-  - lead vocals
-  mbid: 47cd459b-06c1-462f-8fdd-27721a03ef68
-  name: Joe Lynn Turner
-- &id003
-  begin: 1992-08
-  end: ''
-  instruments:
-  - harmonica
-  - lead vocals
-  - percussion
-  mbid: ff2a0e30-aec1-44dd-ae06-dc78877f512d
-  name: Ian Gillan
-- begin: 1993-12
-  end: 1994-07
-  instruments:
-  - guitar
-  mbid: 29762c82-bb92-4acd-b1fb-09cc4da250d2
-  name: Joe Satriani
-- begin: 1994-11
-  end: '2022-07-23'
-  instruments:
-  - guitar
-  mbid: 6f0d1ab4-a0b8-4d59-acda-5fe3b63058f0
-  name: Steve Morse
-- &id004
-  begin: 2002-03
-  end: ''
-  instruments:
-  - keyboard
-  - organ
-  mbid: 7bec6cd1-9602-400c-ab05-47e2d83bdf3d
-  name: Don Airey
-- &id005
-  begin: 2022-09
-  end: ''
-  instruments:
-  - guitar
-  mbid: cfa59bd9-af11-4dc3-8204-00c58bd009ba
-  name: Simon McBride
+  - begin: 1968-03
+    end: 1969-07
+    instruments:
+      - lead vocals
+      - original
+    mbid: ed031718-b94c-403d-8a89-438e355db488
+    name: Rod Evans
+  - begin: 1968-03
+    end: 1969-07
+    instruments:
+      - background vocals
+      - bass guitar
+      - original
+    mbid: 00929331-8a98-4651-9052-6feaf0458b81
+    name: Nick Simper
+  - begin: 1968-03
+    end: 1975-06
+    instruments:
+      - guitar
+      - original
+    mbid: fc5f555c-dfa2-4f16-9da5-98342105c23a
+    name: Ritchie Blackmore
+  - begin: 1968-03
+    end: 1976-03
+    instruments:
+      - background vocals
+      - keyboard
+      - organ
+      - original
+    mbid: 6bf692e0-baac-4428-94c3-423d52508cf0
+    name: Jon Lord
+  - begin: 1968-03
+    end: 1976-03
+    instruments:
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: 29c11f6b-df9f-454f-964e-75eedadb4a1e
+    name: Ian Paice
+  - begin: 1969-07
+    end: 1973-06
+    instruments:
+      - harmonica
+      - lead vocals
+      - percussion
+    mbid: ff2a0e30-aec1-44dd-ae06-dc78877f512d
+    name: Ian Gillan
+  - begin: 1969-07
+    end: 1973-06
+    instruments:
+      - bass guitar
+    mbid: 583944a8-d43b-42e9-8e3c-29eb89f53587
+    name: Roger Glover
+  - begin: 1973-07
+    end: 1976-03
+    instruments:
+      - bass guitar
+      - lead vocals
+    mbid: 78692212-af57-402a-a291-3938ca356500
+    name: Glenn Hughes
+  - begin: 1973-08
+    end: 1976-03
+    instruments:
+      - lead vocals
+    mbid: 8b26558a-1073-45cf-b9a2-233703654ffb
+    name: David Coverdale
+  - begin: 1975-06
+    end: 1976-03
+    instruments:
+      - bass guitar
+      - guitar
+      - lead vocals
+    mbid: 1edd8e9a-0deb-4548-a2a3-679af784f6c6
+    name: Tommy Bolin
+  - begin: 1984-04
+    end: 1989-05
+    instruments:
+      - harmonica
+      - lead vocals
+      - percussion
+    mbid: ff2a0e30-aec1-44dd-ae06-dc78877f512d
+    name: Ian Gillan
+  - begin: 1984-04
+    end: 1993-11
+    instruments:
+      - guitar
+      - original
+    mbid: fc5f555c-dfa2-4f16-9da5-98342105c23a
+    name: Ritchie Blackmore
+  - begin: 1984-04
+    end: 2002-02
+    instruments:
+      - background vocals
+      - keyboard
+      - organ
+      - original
+    mbid: 6bf692e0-baac-4428-94c3-423d52508cf0
+    name: Jon Lord
+  - &ref_0
+    begin: 1984-04
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 583944a8-d43b-42e9-8e3c-29eb89f53587
+    name: Roger Glover
+  - &ref_1
+    begin: 1984-04
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: 29c11f6b-df9f-454f-964e-75eedadb4a1e
+    name: Ian Paice
+  - begin: 1989-12
+    end: 1992-08
+    instruments:
+      - lead vocals
+    mbid: 47cd459b-06c1-462f-8fdd-27721a03ef68
+    name: Joe Lynn Turner
+  - &ref_2
+    begin: 1992-08
+    end: ''
+    instruments:
+      - harmonica
+      - lead vocals
+      - percussion
+    mbid: ff2a0e30-aec1-44dd-ae06-dc78877f512d
+    name: Ian Gillan
+  - begin: 1993-12
+    end: 1994-07
+    instruments:
+      - guitar
+    mbid: 29762c82-bb92-4acd-b1fb-09cc4da250d2
+    name: Joe Satriani
+  - begin: 1994-11
+    end: '2022-07-23'
+    instruments:
+      - guitar
+    mbid: 6f0d1ab4-a0b8-4d59-acda-5fe3b63058f0
+    name: Steve Morse
+  - &ref_3
+    begin: 2002-03
+    end: ''
+    instruments:
+      - keyboard
+      - organ
+    mbid: 7bec6cd1-9602-400c-ab05-47e2d83bdf3d
+    name: Don Airey
+  - &ref_4
+    begin: 2022-09
+    end: ''
+    instruments:
+      - guitar
+    mbid: cfa59bd9-af11-4dc3-8204-00c58bd009ba
+    name: Simon McBride
 musical_connections:
   collaborators:
-  - Ritchie Blackmore
-  - Ian Gillan
-  - Jon Lord
-  - Ian Paice
-  - Roger Glover
-  - David Coverdale
+    - Ritchie Blackmore
+    - Ian Gillan
+    - Jon Lord
+    - Ian Paice
+    - Roger Glover
+    - David Coverdale
   influenced:
-  - Rainbow
+    - Rainbow
   mentors:
-  - Chris Curtis
+    - Chris Curtis
 musicbrainz_id: 79491354-3d83-40e3-9d8e-7592d58d790a
 network_extracted: true
-origin: Hertford
+origin: 'Hertford, England, United Kingdom'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Deep+Purple/+wiki
-- https://www.classicbands.com/deeppurple.html
-- https://deep-purple.com/biography/
-- https://www.allmusic.com/artist/deep-purple-mn0000192382
-- https://www.deeppurpletribute.com/band-biography/
+  - 'https://www.last.fm/music/Deep+Purple/+wiki'
+  - 'https://www.classicbands.com/deeppurple.html'
+  - 'https://deep-purple.com/biography/'
+  - 'https://www.allmusic.com/artist/deep-purple-mn0000192382'
+  - 'https://www.deeppurpletribute.com/band-biography/'
 spotify_data:
   followers: 6110125
   id: 568ZhdwyaiCyOGJRtNYhWf
   popularity: 65
-  url: https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf
+  url: 'https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf'
 status: active
 tags:
-- blues rock
-- british
-- classic rock
-title: deep purple
+  - blues rock
+  - british
+  - classic rock
+title: Deep Purple
 ---
 
 ![](deep_purple.jpg)

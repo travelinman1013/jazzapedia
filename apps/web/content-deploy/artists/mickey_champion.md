@@ -1,40 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-21T01:36:24.185900'
-birth_place: Lake Charles, Louisiana, USA
+birth_place: 'Lake Charles, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:36:24.185910'
 external_urls:
-  spotify: https://open.spotify.com/artist/1S7uXukAyJbRFSzcBDxIdN
-  wikipedia: https://en.wikipedia.org/wiki/Mickey_Champion
+  spotify: 'https://open.spotify.com/artist/1S7uXukAyJbRFSzcBDxIdN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mickey_Champion'
 genres:
-- boogie-woogie
+  - boogie-woogie
 image_path: 03_Resources/source_material/ArtistPortraits/mickey_champion.jpg
 last_updated: '2026-02-21T01:36:24.185911'
 musical_connections:
   collaborators:
-  - Roy Milton
-  - T-Bone Walker
-  - Little Esther Phillips
-  - Billie Holiday
-  - Duke Ellington
-  - Ray Charles
-  - Jackie Wilson
+    - Roy Milton
+    - T-Bone Walker
+    - Little Esther Phillips
+    - Billie Holiday
+    - Duke Ellington
+    - Ray Charles
+    - Jackie Wilson
   influenced: []
   mentors:
-  - Louis Jordan
+    - Louis Jordan
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mickey_Champion
-- https://www.rodny.cz/?id=a1813970
-- https://www.allmusic.com/artist/mickey-champion-mn0000889590
+  - 'https://en.wikipedia.org/wiki/Mickey_Champion'
+  - 'https://www.rodny.cz/?id=a1813970'
+  - 'https://www.allmusic.com/artist/mickey-champion-mn0000889590'
 spotify_data:
   followers: 301
   id: 1S7uXukAyJbRFSzcBDxIdN
   popularity: 4
-  url: https://open.spotify.com/artist/1S7uXukAyJbRFSzcBDxIdN
+  url: 'https://open.spotify.com/artist/1S7uXukAyJbRFSzcBDxIdN'
 status: active
-title: mickey champion
+title: Mickey Champion
+birth_date: '1925-04-09'
+artist_type: person
 ---
 
 ![](mickey_champion.jpg)

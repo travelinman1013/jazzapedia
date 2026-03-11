@@ -3,45 +3,48 @@ biography_enhanced_at: '2026-02-16T01:03:13.779297'
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:03:13.779313'
 external_urls:
-  spotify: https://open.spotify.com/artist/2CuOnHaqED8u2vVjThmgLB
-  wikipedia: https://en.wikipedia.org/wiki/Pine_Leaf_Boys
+  spotify: 'https://open.spotify.com/artist/2CuOnHaqED8u2vVjThmgLB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pine_Leaf_Boys'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: ''
 last_updated: '2026-02-16T01:03:13.779317'
 musical_connections:
   collaborators:
-  - Courtney Granger
-  - Cedric Watson
-  - Chris Segura
-  - Joel Savoy
-  - Feufollet
+    - Courtney Granger
+    - Cedric Watson
+    - Chris Segura
+    - Joel Savoy
+    - Feufollet
   influenced: []
   mentors:
-  - Marc Savoy
-  - Ann Savoy
-  - Dennis McGee, Dewey Balfa, Wayne Fruge
-  - Jerry Lee Lewis
+    - Marc Savoy
+    - Ann Savoy
+    - 'Dennis McGee, Dewey Balfa, Wayne Fruge'
+    - Jerry Lee Lewis
 network_extracted: true
-origin: Lafayette, South Louisiana, United States
+origin: 'Lafayette, South Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.blog.levitt.org/2015/06/spotlight-pine-leaf-boys/
-- https://en.wikipedia.org/wiki/Pine_Leaf_Boys
-- https://www.richmondfolkfestival.org/2020-performers/2020/9/26/pine-leaf-boys
-- https://www.vinyl-magic.com/blog/pine-leaf-boys-and-me
-- https://www.pineleafboys.com/musician-bio
-- https://www.pineleafboys.com/band-bio
-- https://www.accessallareas.info/artist/pine-leaf-boys/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/pineleaf.htm.html
+  - 'https://www.blog.levitt.org/2015/06/spotlight-pine-leaf-boys/'
+  - 'https://en.wikipedia.org/wiki/Pine_Leaf_Boys'
+  - >-
+    https://www.richmondfolkfestival.org/2020-performers/2020/9/26/pine-leaf-boys
+  - 'https://www.vinyl-magic.com/blog/pine-leaf-boys-and-me'
+  - 'https://www.pineleafboys.com/musician-bio'
+  - 'https://www.pineleafboys.com/band-bio'
+  - 'https://www.accessallareas.info/artist/pine-leaf-boys/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/pineleaf.htm.html
 spotify_data:
   followers: 370
   id: 2CuOnHaqED8u2vVjThmgLB
   popularity: 0
-  url: https://open.spotify.com/artist/2CuOnHaqED8u2vVjThmgLB
+  url: 'https://open.spotify.com/artist/2CuOnHaqED8u2vVjThmgLB'
 status: active
 title: The Pine Leaf Boys
+artist_type: band
 ---
 
 ![]()

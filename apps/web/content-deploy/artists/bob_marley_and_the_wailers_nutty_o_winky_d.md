@@ -3,41 +3,51 @@ biography_enhanced_at: '2026-02-23T03:07:08.966568'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:07:08.966592'
 external_urls:
-  spotify: https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1
+  spotify: 'https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1'
   wikipedia: ''
 genres:
-- reggae
-- roots reggae
-- ragga
-image_path: 03_Resources/source_material/ArtistPortraits/bob_marley_and_the_wailers_nutty_o_winky_d.jpg
+  - reggae
+  - roots reggae
+  - ragga
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bob_marley_and_the_wailers_nutty_o_winky_d.jpg
 last_updated: '2026-02-23T03:07:08.966594'
 musical_connections:
   collaborators:
-  - Bob Marley & The Wailers
-  - DJ Tamuka
-  - Nutty O
-  - Winky D
+    - Bob Marley & The Wailers
+    - DJ Tamuka
+    - Nutty O
+    - Winky D
   influenced:
-  - Winky D & Nutty O
+    - Winky D & Nutty O
   mentors:
-  - Bob Marley
+    - Bob Marley
 network_extracted: true
-origin: Harare, Zimbabwe (for Winky D and Nutty O); Nine Mile, Jamaica (Bob Marley)
+origin: 'Harare, Zimbabwe (for Winky D and Nutty O); Nine Mile, Jamaica (Bob Marley)'
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=Y4MAtP61Nv0
-- https://www.greedysouth.co.zw/2023/07/nutty-o-winky-d-feature-on-bob-marleys.html
-- https://3-mob.com/entertainment/winky-d-nutty-o-to-feature-on-reimagined-bob-marley-album-africa-unite/
-- https://www.newzimbabwe.com/https-www-newzimbabwe-com-winky-d-nutty-o-speak-truth-to-power-in-bob-marley-tribute-album/
-- https://www.hunnypotunlimited.com/hunnypot-does/item/3704-album-review-bob-marley-the-wailers-africa-unite
-- https://www.universalmusic.ca/press-releases/bob-marley-the-wailers-releases-posthumous-album-africa-unite/
+  - 'https://www.youtube.com/watch?v=Y4MAtP61Nv0'
+  - >-
+    https://www.greedysouth.co.zw/2023/07/nutty-o-winky-d-feature-on-bob-marleys.html
+  - >-
+    https://3-mob.com/entertainment/winky-d-nutty-o-to-feature-on-reimagined-bob-marley-album-africa-unite/
+  - >-
+    https://www.newzimbabwe.com/https-www-newzimbabwe-com-winky-d-nutty-o-speak-truth-to-power-in-bob-marley-tribute-album/
+  - >-
+    https://www.hunnypotunlimited.com/hunnypot-does/item/3704-album-review-bob-marley-the-wailers-africa-unite
+  - >-
+    https://www.universalmusic.ca/press-releases/bob-marley-the-wailers-releases-posthumous-album-africa-unite/
 spotify_data:
   followers: 742122
   id: 0CIwCGmQMqHqiblnZlFia1
   popularity: 60
-  url: https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1
+  url: 'https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1'
 status: active
-title: Bob Marley & The Wailers, Nutty O, Winky D
+title: Bob Marley & The Wailers
+birth_place: 'Nine Mile, Jamaica, United States'
+birth_date: '1945'
+death_date: '1981'
+artist_type: band
 ---
 
 ![](bob_marley_and_the_wailers_nutty_o_winky_d.jpg)

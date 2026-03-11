@@ -1,53 +1,57 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: acc791fe-d1e4-4de7-a993-57129cadf300
-  name: Cleveland Crochet and The Sugar Bees
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: acc791fe-d1e4-4de7-a993-57129cadf300
+    name: Cleveland Crochet and The Sugar Bees
 biography_enhanced_at: '2026-02-09T01:19:45.390217'
 birth_date: '1922'
-birth_place: Lake Arthur
+birth_place: 'Lake Arthur, Louisiana, United States'
 death_date: '1965'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:19:45.390235'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d14826d4-1857-41e8-aa53-cecdede901dd
-  spotify: https://open.spotify.com/artist/6qcnKInsEKSeDK3FYh85tu
+  musicbrainz: 'https://musicbrainz.org/artist/d14826d4-1857-41e8-aa53-cecdede901dd'
+  spotify: 'https://open.spotify.com/artist/6qcnKInsEKSeDK3FYh85tu'
   wikipedia: ''
 gender: Male
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: ''
 last_updated: '2026-02-09T01:19:45.390239'
 musical_connections:
   collaborators:
-  - Cleveland Crochet
-  - Jay Stutes
-  - Jimmy C. Newman
-  - Eddie Shuler
+    - Cleveland Crochet
+    - Jay Stutes
+    - Jimmy C. Newman
+    - Eddie Shuler
   influenced: []
   mentors:
-  - Jules Le Blanc
+    - Jules Le Blanc
 musicbrainz_id: d14826d4-1857-41e8-aa53-cecdede901dd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jukegh.blogspot.com/2020/07/shorty-le-blanc-louisiana-swamp-music.html
-- https://www.louisianafolklife.org/lt/articles_essays/creole_art_country_chamele.html
-- https://64parishes.org/entry/goldband-records
-- https://www.allmusic.com/artist/shorty-leblanc-mn0001443575
-- https://www.fremeaux.com/en/6720-cajun-volume-2-the-post-war-years-3561302583426-fa5834.html
-- https://music.apple.com/us/artist/shorty-leblanc/617745843
+  - >-
+    https://jukegh.blogspot.com/2020/07/shorty-le-blanc-louisiana-swamp-music.html
+  - >-
+    https://www.louisianafolklife.org/lt/articles_essays/creole_art_country_chamele.html
+  - 'https://64parishes.org/entry/goldband-records'
+  - 'https://www.allmusic.com/artist/shorty-leblanc-mn0001443575'
+  - >-
+    https://www.fremeaux.com/en/6720-cajun-volume-2-the-post-war-years-3561302583426-fa5834.html
+  - 'https://music.apple.com/us/artist/shorty-leblanc/617745843'
 spotify_data:
   followers: 42
   id: 6qcnKInsEKSeDK3FYh85tu
   popularity: 0
-  url: https://open.spotify.com/artist/6qcnKInsEKSeDK3FYh85tu
+  url: 'https://open.spotify.com/artist/6qcnKInsEKSeDK3FYh85tu'
 status: active
 title: Shorty LeBlanc
+is_active: false
 ---
 
 ![]()

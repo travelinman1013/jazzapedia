@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-11T02:00:08.677383'
-birth_place: Chicago suburbs, Illinois, USA
+birth_place: 'Chicago suburbs, Illinois, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-11T02:00:08.677398'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e2836a4d-3087-469f-b686-c985a9f603f0
-  spotify: https://open.spotify.com/artist/4IYy0bsK75hUwFCQoEQyjq
+  musicbrainz: 'https://musicbrainz.org/artist/e2836a4d-3087-469f-b686-c985a9f603f0'
+  spotify: 'https://open.spotify.com/artist/4IYy0bsK75hUwFCQoEQyjq'
   wikipedia: ''
 genres:
-- swing music
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/miss_sophie_lee.jpg
 last_updated: '2026-02-11T02:00:08.677401'
 musical_connections:
   collaborators:
-  - John Rodli
-  - Daniel Esses
+    - John Rodli
+    - Daniel Esses
   influenced:
-  - Eleanora Rodli and Una Mae Rodli
+    - Eleanora Rodli and Una Mae Rodli
   mentors: []
 musicbrainz_id: e2836a4d-3087-469f-b686-c985a9f603f0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.magnolianola.com/miss-sophie-lee
-- https://sucktheheads.com/having-it-all/
-- https://www.myspiltmilk.com/articles/miss-sophie-lees-path-to-frenchmen-street
-- https://www.offbeat.com/articles/miss-sophie-lee-tracking-her-roots/
-- https://www.allaboutjazz.com/musicians/miss-sophie-lee/
-- https://www.concertarchives.org/bands/miss-sophie-lee
-- https://www.neworleans.com/listing/miss-sophie-lee/46495/
+  - 'https://www.magnolianola.com/miss-sophie-lee'
+  - 'https://sucktheheads.com/having-it-all/'
+  - >-
+    https://www.myspiltmilk.com/articles/miss-sophie-lees-path-to-frenchmen-street
+  - 'https://www.offbeat.com/articles/miss-sophie-lee-tracking-her-roots/'
+  - 'https://www.allaboutjazz.com/musicians/miss-sophie-lee/'
+  - 'https://www.concertarchives.org/bands/miss-sophie-lee'
+  - 'https://www.neworleans.com/listing/miss-sophie-lee/46495/'
 spotify_data:
   followers: 1053
   id: 4IYy0bsK75hUwFCQoEQyjq
   popularity: 16
-  url: https://open.spotify.com/artist/4IYy0bsK75hUwFCQoEQyjq
+  url: 'https://open.spotify.com/artist/4IYy0bsK75hUwFCQoEQyjq'
 status: active
 title: Miss Sophie Lee
+artist_type: person
 ---
 
 ![](miss_sophie_lee.jpg)

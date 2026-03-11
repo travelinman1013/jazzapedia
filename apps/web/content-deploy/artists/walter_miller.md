@@ -1,37 +1,40 @@
 ---
 biography_enhanced_at: '2026-02-10T01:52:50.292036'
-birth_place: Bayou region, Louisiana, United States
+birth_place: 'Bayou region, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:52:50.292046'
 external_urls:
-  spotify: https://open.spotify.com/artist/1m5aXoM5nyZuOyGMZzTU2e
+  spotify: 'https://open.spotify.com/artist/1m5aXoM5nyZuOyGMZzTU2e'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/walter_miller.jpg
 last_updated: '2026-02-10T01:52:50.292048'
 musical_connections:
   collaborators:
-  - Collin Hanley
-  - Kory Shore
+    - Collin Hanley
+    - Kory Shore
   influenced: []
   mentors:
-  - Katie Crist
-  - Skip Harris
-  - Collin Hanley
+    - Katie Crist
+    - Skip Harris
+    - Collin Hanley
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://urbanistamagazine.uk/in-conversation-with-walter-miller-basic-instinct-and-the-pop-rock-reinvention/
-- https://themusicalhype.com/walter-miller-basic-instinct-beaming-with-pride/
-- https://www.hollygleason.com/essays/2020/11/15/walter-miller-nobody-loved-artists-more
-- https://en.wikipedia.org/wiki/Walter_B._Miller
+  - >-
+    https://urbanistamagazine.uk/in-conversation-with-walter-miller-basic-instinct-and-the-pop-rock-reinvention/
+  - 'https://themusicalhype.com/walter-miller-basic-instinct-beaming-with-pride/'
+  - >-
+    https://www.hollygleason.com/essays/2020/11/15/walter-miller-nobody-loved-artists-more
+  - 'https://en.wikipedia.org/wiki/Walter_B._Miller'
 spotify_data:
   followers: 260
   id: 1m5aXoM5nyZuOyGMZzTU2e
   popularity: 14
-  url: https://open.spotify.com/artist/1m5aXoM5nyZuOyGMZzTU2e
+  url: 'https://open.spotify.com/artist/1m5aXoM5nyZuOyGMZzTU2e'
 status: active
-title: WALTER MILLER
+title: Walter Miller
+artist_type: person
 ---
 
 ![](walter_miller.jpg)

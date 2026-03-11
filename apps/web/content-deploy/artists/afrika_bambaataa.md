@@ -1,102 +1,102 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1983'
-  end: ''
-  instruments: []
-  mbid: b5473212-03b8-471a-8ccc-025fd114f543
-  name: Time Zone
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 04c14f1c-5c6f-4914-b547-6ce1a76ec486
-  name: Sirius B
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ef40f557-9338-4cd1-a2bd-5994f0563537
-  name: Shango
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: e12713fa-cae9-4980-bae0-65be2b5beadf
-  name: Zulu Nation
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8c083f78-6a79-440f-a3eb-3ab118af2c2a
-  name: Afrika Bambaataa and Family
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: eb101408-2fcd-4ff2-8555-b3517e10cc52
-  name: Afrika Bambaataa & The Jazzy 5
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
-  name: We Are Family Collective
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5e3b290d-e432-4094-bc63-16bdb382ccf9
-  name: Legends of Hip Hop
+  - begin: '1983'
+    end: ''
+    instruments: []
+    mbid: b5473212-03b8-471a-8ccc-025fd114f543
+    name: Time Zone
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 04c14f1c-5c6f-4914-b547-6ce1a76ec486
+    name: Sirius B
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ef40f557-9338-4cd1-a2bd-5994f0563537
+    name: Shango
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: e12713fa-cae9-4980-bae0-65be2b5beadf
+    name: Zulu Nation
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8c083f78-6a79-440f-a3eb-3ab118af2c2a
+    name: Afrika Bambaataa and Family
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: eb101408-2fcd-4ff2-8555-b3517e10cc52
+    name: Afrika Bambaataa & The Jazzy 5
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
+    name: We Are Family Collective
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5e3b290d-e432-4094-bc63-16bdb382ccf9
+    name: Legends of Hip Hop
 biography_enhanced_at: '2026-02-25T02:05:01.757040'
 birth_date: '1957-04-19'
-birth_place: South Bronx
-disambiguation: US DJ singer, songwriter & producer
+birth_place: 'South Bronx, New York, United States'
+disambiguation: 'US DJ singer, songwriter & producer'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:05:01.757056'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fe3503fb-146f-4d68-a591-a7e5798c321f
-  spotify: https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p
-  wikipedia: https://en.wikipedia.org/wiki/Afrika_Bambaataa
+  musicbrainz: 'https://musicbrainz.org/artist/fe3503fb-146f-4d68-a591-a7e5798c321f'
+  spotify: 'https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p'
+  wikipedia: 'https://en.wikipedia.org/wiki/Afrika_Bambaataa'
 gender: Male
 genres:
-- miami bass
-- old school hip hop
-- funk melody
-- east coast hip hop
+  - miami bass
+  - old school hip hop
+  - funk melody
+  - east coast hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/afrika_bambaataa.jpg
 instruments:
-- original
-- lead vocals
+  - original
+  - lead vocals
 last_updated: '2026-02-25T02:05:01.757058'
 musical_connections:
   collaborators:
-  - Soul Sonic Force
-  - Arthur Baker
-  - John Robie
-  - James Brown
-  - John Lydon (Johnny Rotten)
-  - Bill Laswell
+    - Soul Sonic Force
+    - Arthur Baker
+    - John Robie
+    - James Brown
+    - John Lydon (Johnny Rotten)
+    - Bill Laswell
   influenced:
-  - MC Solaar
+    - MC Solaar
   mentors:
-  - Kool Herc
-  - Disco King Mario
+    - Kool Herc
+    - Disco King Mario
 musicbrainz_id: fe3503fb-146f-4d68-a591-a7e5798c321f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Afrika-Bambaataa
-- https://en.wikipedia.org/wiki/Afrika_Bambaataa
-- https://wbssmedia.com/artists/detail/654
-- https://www.zulunation.com/afrika-bambaataa/
-- http://www.oldschoolhiphop.com/artists/deejays/afrika.htm
+  - 'https://www.britannica.com/biography/Afrika-Bambaataa'
+  - 'https://en.wikipedia.org/wiki/Afrika_Bambaataa'
+  - 'https://wbssmedia.com/artists/detail/654'
+  - 'https://www.zulunation.com/afrika-bambaataa/'
+  - 'http://www.oldschoolhiphop.com/artists/deejays/afrika.htm'
 spotify_data:
   followers: 175022
   id: 7cg61q8kK8jlFi8TKKw70p
   popularity: 45
-  url: https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p
+  url: 'https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p'
 status: active
 tags:
-- 1990s
-- afro-funk
-- breakbeat
-title: AFRIKA BAMBAATAA
+  - 1990s
+  - afro-funk
+  - breakbeat
+title: Afrika Bambaataa
 ---
 
 ![](afrika_bambaataa.jpg)

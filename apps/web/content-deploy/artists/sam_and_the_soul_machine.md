@@ -3,36 +3,39 @@ biography_enhanced_at: '2026-02-25T02:04:09.520126'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:04:09.520136'
 external_urls:
-  spotify: https://open.spotify.com/artist/7vRhG8LFwRKoROr2ESdqFt
+  spotify: 'https://open.spotify.com/artist/7vRhG8LFwRKoROr2ESdqFt'
   wikipedia: Not found
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sam_and_the_soul_machine.jpg
 last_updated: '2026-02-25T02:04:09.520137'
 musical_connections:
   collaborators:
-  - Cyril Neville
-  - Aaron Neville
-  - Allen Toussaint
-  - Deacon John
+    - Cyril Neville
+    - Aaron Neville
+    - Allen Toussaint
+    - Deacon John
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.oocities.org/samhenryjr/
-- https://jazztimes.com/reviews/albums/sam-henry-treme-soul-new-orleans-gumbo/
-- https://homeofthegroove.blogspot.com/2014/07/summertime-syncopations-part-2.html
-- https://myentertaininglifestevecarter.wordpress.com/2017/08/28/new-orleans-legends-my-sessions-with-gary-brown-and-sam-henry-jr/
-- https://www.jazzmusicarchives.com/artist/sam-and-the-soul-machine
-- https://www.youtube.com/watch?v=MU69Ll4UFgA
+  - 'https://www.oocities.org/samhenryjr/'
+  - 'https://jazztimes.com/reviews/albums/sam-henry-treme-soul-new-orleans-gumbo/'
+  - >-
+    https://homeofthegroove.blogspot.com/2014/07/summertime-syncopations-part-2.html
+  - >-
+    https://myentertaininglifestevecarter.wordpress.com/2017/08/28/new-orleans-legends-my-sessions-with-gary-brown-and-sam-henry-jr/
+  - 'https://www.jazzmusicarchives.com/artist/sam-and-the-soul-machine'
+  - 'https://www.youtube.com/watch?v=MU69Ll4UFgA'
 spotify_data:
   followers: 266
   id: 7vRhG8LFwRKoROr2ESdqFt
   popularity: 3
-  url: https://open.spotify.com/artist/7vRhG8LFwRKoROr2ESdqFt
+  url: 'https://open.spotify.com/artist/7vRhG8LFwRKoROr2ESdqFt'
 status: active
-title: sam and the soul machine
+title: Sam and the Soul Machine
+artist_type: band
 ---
 
 ![](sam_and_the_soul_machine.jpg)

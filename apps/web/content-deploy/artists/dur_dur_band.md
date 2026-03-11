@@ -3,42 +3,44 @@ biography_enhanced_at: '2026-01-31T01:05:23.070941'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:05:23.070952'
 external_urls:
-  spotify: https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF
-  wikipedia: https://en.wikipedia.org/wiki/Dur-Dur_Band
+  spotify: 'https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dur-Dur_Band'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/dur_dur_band.jpg
 last_updated: '2026-01-31T01:05:23.070954'
 musical_connections:
   collaborators:
-  - Sahra Abukar Dawo
-  - Abdinur Adan Daljir
-  - Mohamed Ahmed Qomal
-  - Liban Noah
-  - Muhammed Karama
-  - Sitey Xosul Wanaag
+    - Sahra Abukar Dawo
+    - Abdinur Adan Daljir
+    - Mohamed Ahmed Qomal
+    - Liban Noah
+    - Muhammed Karama
+    - Sitey Xosul Wanaag
   influenced: []
   mentors:
-  - Michael Jackson
-  - Bob Marley
-  - Santana
+    - Michael Jackson
+    - Bob Marley
+    - Santana
 network_extracted: true
-origin: Mogadishu, Somalia
+origin: 'Mogadishu, Somalia, Somalia'
 primary_source: perplexity
 research_sources:
-- https://hyphenonline.com/2024/12/02/dur-dur-band-barbican-london/
-- https://en.wikipedia.org/wiki/Dur-Dur_Band
-- https://www.jabulaniradio.com/artists/dur-dur-band-201
-- https://www.womex.com/virtual/global_somali_music/dur_dur_band_somalia
-- https://bandonthewall.org/events/dur-dur-band-international/
-- https://bowdoinorient.com/2022/02/24/dancing-and-dissent-dur-dur-band-in-context/
-- https://www.popmatters.com/dur-dur-band-of-somalia-2605193628.html
+  - 'https://hyphenonline.com/2024/12/02/dur-dur-band-barbican-london/'
+  - 'https://en.wikipedia.org/wiki/Dur-Dur_Band'
+  - 'https://www.jabulaniradio.com/artists/dur-dur-band-201'
+  - 'https://www.womex.com/virtual/global_somali_music/dur_dur_band_somalia'
+  - 'https://bandonthewall.org/events/dur-dur-band-international/'
+  - >-
+    https://bowdoinorient.com/2022/02/24/dancing-and-dissent-dur-dur-band-in-context/
+  - 'https://www.popmatters.com/dur-dur-band-of-somalia-2605193628.html'
 spotify_data:
   followers: 37536
   id: 4KDUfOJRuihzpcwO7jx9DF
   popularity: 42
-  url: https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF
+  url: 'https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF'
 status: active
 title: Dur Dur Band
+artist_type: band
 ---
 
 ![](dur_dur_band.jpg)

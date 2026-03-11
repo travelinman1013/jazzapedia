@@ -2,57 +2,60 @@
 artist_type: person
 biography_enhanced_at: '2026-02-02T01:49:19.088450'
 birth_date: '1935-09-30'
-birth_place: Gilmer
+birth_place: 'Gilmer, Texas, United States'
 disambiguation: US pop/soul singer
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:49:19.088460'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/48896dee-a985-424d-9849-84802f7e79c9
-  spotify: https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Mathis
+  musicbrainz: 'https://musicbrainz.org/artist/48896dee-a985-424d-9849-84802f7e79c9'
+  spotify: 'https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Mathis'
 gender: Male
 genres:
-- christmas
+  - christmas
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_mathis.jpg
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 last_updated: '2026-02-02T01:49:19.088462'
 musical_connections:
   collaborators:
-  - Deniece Williams
-  - Ray Haughn
-  - Quincy Jones
-  - Don Costa
+    - Deniece Williams
+    - Ray Haughn
+    - Quincy Jones
+    - Don Costa
   influenced: []
   mentors:
-  - Connie Cox
-  - Helen Noga
-  - Clem Mathis
-  - Mitch Miller
+    - Connie Cox
+    - Helen Noga
+    - Clem Mathis
+    - Mitch Miller
 musicbrainz_id: 48896dee-a985-424d-9849-84802f7e79c9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Mathis
-- https://achievement.org/achiever/johnny-mathis/
-- https://johnnymathis.com/wp2/index.php/bio/
-- https://walkoffame.com/johnny-mathis/
-- https://www.britannica.com/biography/Johnny-Mathis
-- https://blackpast.org/african-american-history/mathis-johnny-september-30-1935/
-- https://thesongbook.org/hall-of-fame/songbook-hall-of-fame-honorees/johnny-mathis/
-- https://www.youtube.com/watch?v=6zl2nrVw9JA
+  - 'https://en.wikipedia.org/wiki/Johnny_Mathis'
+  - 'https://achievement.org/achiever/johnny-mathis/'
+  - 'https://johnnymathis.com/wp2/index.php/bio/'
+  - 'https://walkoffame.com/johnny-mathis/'
+  - 'https://www.britannica.com/biography/Johnny-Mathis'
+  - >-
+    https://blackpast.org/african-american-history/mathis-johnny-september-30-1935/
+  - >-
+    https://thesongbook.org/hall-of-fame/songbook-hall-of-fame-honorees/johnny-mathis/
+  - 'https://www.youtube.com/watch?v=6zl2nrVw9JA'
 spotify_data:
   followers: 459204
   id: 21LGsW7bziR4Ledx7WZ1Wf
   popularity: 62
-  url: https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf
+  url: 'https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf'
 status: active
 tags:
-- christmas music
-- disco
-- easy listening
+  - christmas music
+  - disco
+  - easy listening
 title: Johnny Mathis
+origin: 'San Francisco, California, United States'
 ---
 
 ![](johnny_mathis.jpg)

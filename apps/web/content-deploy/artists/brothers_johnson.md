@@ -3,40 +3,42 @@ biography_enhanced_at: '2026-03-08T03:05:34.646224'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:05:34.646231'
 external_urls:
-  spotify: https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD
-  wikipedia: https://en.wikipedia.org/wiki/The_Brothers_Johnson
+  spotify: 'https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Brothers_Johnson'
 genres:
-- funk
-- disco
+  - funk
+  - disco
 image_path: 03_Resources/source_material/ArtistPortraits/brothers_johnson.jpg
 last_updated: '2026-03-08T03:05:34.646233'
 musical_connections:
   collaborators:
-  - Tommy Johnson
-  - Alex Weir
-  - Bobby Womack
-  - Supremes
-  - Michael Jackson
+    - Tommy Johnson
+    - Alex Weir
+    - Bobby Womack
+    - Supremes
+    - Michael Jackson
   influenced: []
   mentors:
-  - Quincy Jones
-  - Billy Preston
+    - Quincy Jones
+    - Billy Preston
 network_extracted: true
-origin: Los Angeles, California, USA
+origin: 'Los Angeles, California, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Brothers_Johnson
-- https://www.last.fm/music/Brothers+Johnson/+wiki
-- https://www.udiscovermusic.com/artist/the-brothers-johnson/
-- https://www.youtube.com/watch?v=2onzmpDISDo
-- https://www.allmusic.com/artist/the-brothers-johnson-mn0000624215
+  - 'https://en.wikipedia.org/wiki/The_Brothers_Johnson'
+  - 'https://www.last.fm/music/Brothers+Johnson/+wiki'
+  - 'https://www.udiscovermusic.com/artist/the-brothers-johnson/'
+  - 'https://www.youtube.com/watch?v=2onzmpDISDo'
+  - 'https://www.allmusic.com/artist/the-brothers-johnson-mn0000624215'
 spotify_data:
   followers: 442643
   id: 6h3rSZ8VLK7a5vXjEmhfuD
   popularity: 51
-  url: https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD
+  url: 'https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD'
 status: active
-title: Brothers Johnson
+title: The Brothers Johnson
+death_date: '2015-05-22'
+artist_type: band
 ---
 
 ![](brothers_johnson.jpg)

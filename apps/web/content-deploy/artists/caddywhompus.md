@@ -1,40 +1,42 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-26T01:20:36.740284'
 birth_date: '2008'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:20:36.740290'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5f1691cb-f889-4d47-b598-69fd0a018625
-  spotify: https://open.spotify.com/artist/4YcOFpYDokty2nNuAtYjqc
+  musicbrainz: 'https://musicbrainz.org/artist/5f1691cb-f889-4d47-b598-69fd0a018625'
+  spotify: 'https://open.spotify.com/artist/4YcOFpYDokty2nNuAtYjqc'
   wikipedia: ''
 genres:
-- math rock
-- noise rock
-- indie jazz
+  - math rock
+  - noise rock
+  - indie jazz
 image_path: 03_Resources/source_material/ArtistPortraits/caddywhompus.jpg
 last_updated: '2026-02-26T01:20:36.740291'
 musical_connections:
   collaborators:
-  - Ross Farbe
-  - Max Seckel
+    - Ross Farbe
+    - Max Seckel
   influenced: []
   mentors: []
 musicbrainz_id: 5f1691cb-f889-4d47-b598-69fd0a018625
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.pastemagazine.com/music/louisiana/caddywhompus-hometown-new-orleans-band
-- http://www.communityrecords.org/artists/caddywhompus
-- https://www.spin.com/2017/04/caddywhompus-odd-hours-album-stream-premiere/
-- https://carolinasoundcheck.wordpress.com/2015/10/31/givers-caddywompus-stubbs/
-- https://newnoisemagazine.com/interviews/caddywhompus-capture-unique-sound-3/
+  - >-
+    https://www.pastemagazine.com/music/louisiana/caddywhompus-hometown-new-orleans-band
+  - 'http://www.communityrecords.org/artists/caddywhompus'
+  - 'https://www.spin.com/2017/04/caddywhompus-odd-hours-album-stream-premiere/'
+  - >-
+    https://carolinasoundcheck.wordpress.com/2015/10/31/givers-caddywompus-stubbs/
+  - 'https://newnoisemagazine.com/interviews/caddywhompus-capture-unique-sound-3/'
 spotify_data:
   followers: 2890
   id: 4YcOFpYDokty2nNuAtYjqc
   popularity: 3
-  url: https://open.spotify.com/artist/4YcOFpYDokty2nNuAtYjqc
+  url: 'https://open.spotify.com/artist/4YcOFpYDokty2nNuAtYjqc'
 status: active
 title: Caddywhompus
 ---

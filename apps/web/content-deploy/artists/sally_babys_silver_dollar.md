@@ -3,29 +3,31 @@ biography_enhanced_at: '2026-01-27T01:55:37.335256'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:55:37.335262'
 external_urls:
-  spotify: https://open.spotify.com/artist/5U56iCCHTrCgX9lCv5a6Jz
+  spotify: 'https://open.spotify.com/artist/5U56iCCHTrCgX9lCv5a6Jz'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sally_babys_silver_dollar.jpg
 last_updated: '2026-01-27T01:55:37.335263'
 musical_connections:
   collaborators:
-  - Henri Herbert
+    - Henri Herbert
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.fusicology.com/events/henri-herbert-and-sally-babys-silver-dollars-new-orleans-chickie-wah-wah/
-- https://www.wwoz.org/programs/playlists?page=7
+  - >-
+    https://www.fusicology.com/events/henri-herbert-and-sally-babys-silver-dollars-new-orleans-chickie-wah-wah/
+  - 'https://www.wwoz.org/programs/playlists?page=7'
 spotify_data:
   followers: 233
   id: 5U56iCCHTrCgX9lCv5a6Jz
   popularity: 0
-  url: https://open.spotify.com/artist/5U56iCCHTrCgX9lCv5a6Jz
+  url: 'https://open.spotify.com/artist/5U56iCCHTrCgX9lCv5a6Jz'
 status: active
 title: SALLY BABY'S SILVER DOLLAR
+artist_type: band
 ---
 
 ![](sally_babys_silver_dollar.jpg)

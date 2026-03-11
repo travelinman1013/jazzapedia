@@ -3,45 +3,52 @@ biography_enhanced_at: '2026-02-12T01:10:05.670290'
 enhancement_provider: perplexity
 entry_created: '2026-02-12T01:10:05.670299'
 external_urls:
-  spotify: https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN
-  wikipedia: https://en.wikipedia.org/wiki/Bags_&_Trane
+  spotify: 'https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bags_&_Trane'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
-- jazz ballads
-image_path: 03_Resources/source_material/ArtistPortraits/milt_jackson_and_john_coltrane.jpg
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
+  - jazz ballads
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/milt_jackson_and_john_coltrane.jpg
 last_updated: '2026-02-12T01:10:05.670301'
 musical_connections:
   collaborators:
-  - John Coltrane
-  - Modern Jazz Quartet members (John Lewis, Percy Heath, Kenny Clarke/Connie Kay)
-  - Thelonious Monk
-  - Paul Chambers
+    - John Coltrane
+    - >-
+      Modern Jazz Quartet members (John Lewis, Percy Heath, Kenny Clarke/Connie
+      Kay)
+    - Thelonious Monk
+    - Paul Chambers
   influenced:
-  - Numerous vibraphonists
+    - Numerous vibraphonists
   mentors:
-  - Dizzy Gillespie
-  - Miles Davis
+    - Dizzy Gillespie
+    - Miles Davis
 network_extracted: true
-origin: Detroit, Michigan, USA (Milt Jackson birthplace); Hamlet, North Carolina,
-  USA (John Coltrane birthplace)
+origin: >-
+  Detroit, Michigan, USA (Milt Jackson birthplace); Hamlet, North Carolina, USA
+  (John Coltrane birthplace)
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/detroits-own-jazz-great-milt-jackson/
-- https://trackingangle.com/music/bags-tranemilt-jackson-john-coltrane
-- https://www.bluenote.com/artist/john-coltrane/
-- https://en.wikipedia.org/wiki/Bags_&_Trane
-- https://www.bluenote.com/artist/milt-jackson/
-- https://www.allaboutjazz.com/musicians/milt-jackson/
+  - 'https://aaregistry.org/story/detroits-own-jazz-great-milt-jackson/'
+  - 'https://trackingangle.com/music/bags-tranemilt-jackson-john-coltrane'
+  - 'https://www.bluenote.com/artist/john-coltrane/'
+  - 'https://en.wikipedia.org/wiki/Bags_&_Trane'
+  - 'https://www.bluenote.com/artist/milt-jackson/'
+  - 'https://www.allaboutjazz.com/musicians/milt-jackson/'
 spotify_data:
   followers: 43433
   id: 23i8EixXKG0EWGRCfHlUGN
   popularity: 38
-  url: https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN
+  url: 'https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN'
 status: active
-title: milt jackson and john coltrane
+title: Milt Jackson and John Coltrane
+birth_place: 'Detroit, Michigan, United States'
+birth_date: '1923-01-01'
+artist_type: band
 ---
 
 ![](milt_jackson_and_john_coltrane.jpg)

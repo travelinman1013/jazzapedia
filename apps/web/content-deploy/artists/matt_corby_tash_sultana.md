@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-27T01:58:15.569803'
-birth_place: Melbourne, Victoria, Australia
+birth_place: 'Melbourne, Victoria, Australia'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:58:15.569809'
 external_urls:
-  spotify: https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG
-  wikipedia: https://en.wikipedia.org/wiki/Tash_Sultana
+  spotify: 'https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tash_Sultana'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/matt_corby_tash_sultana.jpg
 last_updated: '2026-01-27T01:58:15.569809'
 musical_connections:
   collaborators:
-  - Matt Corby
-  - Dann Hume
-  - Jerome Farah
-  - Josh Cashman
-  - Patrick O'Brien
-  - Emily Daye
-  - David Herbert
+    - Matt Corby
+    - Dann Hume
+    - Jerome Farah
+    - Josh Cashman
+    - Patrick O'Brien
+    - Emily Daye
+    - David Herbert
   influenced: []
   mentors:
-  - Grandfather
+    - Grandfather
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tash_Sultana
-- https://www.melodija.eu/post/tash-sultana-a-musical-journey-from-melbourne-s-streets-to-global-stardom
-- https://onefiinix.com/artists/tash-sultana/
-- https://maton.com.au/artist/tash-sultana/
-- https://en.wikipedia.org/wiki/Matt_Corby
-- https://top40-charts.com/artist.php?aid=13202
+  - 'https://en.wikipedia.org/wiki/Tash_Sultana'
+  - >-
+    https://www.melodija.eu/post/tash-sultana-a-musical-journey-from-melbourne-s-streets-to-global-stardom
+  - 'https://onefiinix.com/artists/tash-sultana/'
+  - 'https://maton.com.au/artist/tash-sultana/'
+  - 'https://en.wikipedia.org/wiki/Matt_Corby'
+  - 'https://top40-charts.com/artist.php?aid=13202'
 spotify_data:
   followers: 499313
   id: 7CIW23FQUXPc1zebnO1TDG
   popularity: 56
-  url: https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG
+  url: 'https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG'
 status: active
-title: matt corby, tash sultana
+title: 'Matt Corby, Tash Sultana'
+birth_date: '1995-06-15'
+artist_type: person
 ---
 
 ![](matt_corby_tash_sultana.jpg)

@@ -3,40 +3,42 @@ biography_enhanced_at: '2026-03-03T01:30:05.990418'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:30:05.990431'
 external_urls:
-  spotify: https://open.spotify.com/artist/7H94E1cxXmh9ea6ZwwT1f4
+  spotify: 'https://open.spotify.com/artist/7H94E1cxXmh9ea6ZwwT1f4'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/zeke_bleek.jpg
 last_updated: '2026-03-03T01:30:05.990433'
 musical_connections:
   collaborators:
-  - Butch Vig
-  - Samuel Farrell
-  - Frank Lloyd Anderson
-  - Alex Drossart
-  - Cory Chisel
-  - Wally Ingram
+    - Butch Vig
+    - Samuel Farrell
+    - Frank Lloyd Anderson
+    - Alex Drossart
+    - Cory Chisel
+    - Wally Ingram
   influenced: []
   mentors:
-  - Butch Vig
+    - Butch Vig
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://bigtakeover.com/news/26-exes-zeke-bleek
-- https://canvasrebel.com/meet-zeke-bleu/
-- https://www.backstage.com/u/Zeke-Bleu-3/
-- https://magnetmagazine.com/2024/06/25/magnet-exclusive-premiere-of-zeke-bleeks-26-exes-video/
-- https://www.youtube.com/watch?v=EBjdj3M1tbM
-- https://zekebleek.com
-- https://www.youtube.com/watch?v=-aCF3rKMfZ4
-- https://www.youtube.com/channel/UCWV19oZzTho7ccQuI8vMtuw
+  - 'https://bigtakeover.com/news/26-exes-zeke-bleek'
+  - 'https://canvasrebel.com/meet-zeke-bleu/'
+  - 'https://www.backstage.com/u/Zeke-Bleu-3/'
+  - >-
+    https://magnetmagazine.com/2024/06/25/magnet-exclusive-premiere-of-zeke-bleeks-26-exes-video/
+  - 'https://www.youtube.com/watch?v=EBjdj3M1tbM'
+  - 'https://zekebleek.com'
+  - 'https://www.youtube.com/watch?v=-aCF3rKMfZ4'
+  - 'https://www.youtube.com/channel/UCWV19oZzTho7ccQuI8vMtuw'
 spotify_data:
   followers: 23
   id: 7H94E1cxXmh9ea6ZwwT1f4
   popularity: 0
-  url: https://open.spotify.com/artist/7H94E1cxXmh9ea6ZwwT1f4
+  url: 'https://open.spotify.com/artist/7H94E1cxXmh9ea6ZwwT1f4'
 status: active
 title: Zeke Bleek
+artist_type: person
 ---
 
 ![](zeke_bleek.jpg)

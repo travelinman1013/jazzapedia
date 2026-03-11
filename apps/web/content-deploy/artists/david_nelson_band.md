@@ -1,52 +1,53 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-27T01:56:30.285508'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:56:30.285514'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9a03abc1-cd34-47b1-82ed-c4873850c4d5
-  spotify: https://open.spotify.com/artist/4Fap1QSPJArfa9IofSrMPA
-  wikipedia: https://en.wikipedia.org/wiki/David_Nelson_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/9a03abc1-cd34-47b1-82ed-c4873850c4d5'
+  spotify: 'https://open.spotify.com/artist/4Fap1QSPJArfa9IofSrMPA'
+  wikipedia: 'https://en.wikipedia.org/wiki/David_Nelson_(musician)'
 genres:
-- jam band
-- electroacoustic
-- newgrass
+  - jam band
+  - electroacoustic
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/david_nelson_band.jpg
 last_updated: '2026-01-27T01:56:30.285515'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 47e16fd2-452c-440f-9bb5-78be55ab0e13
-  name: David Nelson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 47e16fd2-452c-440f-9bb5-78be55ab0e13
+    name: David Nelson
 musical_connections:
   collaborators:
-  - Bill Laymon
-  - Barry Sless
-  - Mookie Siegel
-  - Arthur Steinhorn
-  - Pete Sears
-  - Robert Hunter
+    - Bill Laymon
+    - Barry Sless
+    - Mookie Siegel
+    - Arthur Steinhorn
+    - Pete Sears
+    - Robert Hunter
   influenced: []
   mentors:
-  - Jerry Garcia
+    - Jerry Garcia
 musicbrainz_id: 9a03abc1-cd34-47b1-82ed-c4873850c4d5
 network_extracted: true
-origin: East Palo Alto, California, USA
+origin: 'East Palo Alto, California, USA'
 primary_source: perplexity
 research_sources:
-- http://www.bay-area-bands.com/bab00089.htm
-- https://en.wikipedia.org/wiki/David_Nelson_(musician)
-- https://www.nelsonband.com/biography/about-dnb/
-- http://www.deaddisc.com/GDFD_David_Nelson.htm
-- https://shubb.com/artist/david-nelson/
+  - 'http://www.bay-area-bands.com/bab00089.htm'
+  - 'https://en.wikipedia.org/wiki/David_Nelson_(musician)'
+  - 'https://www.nelsonband.com/biography/about-dnb/'
+  - 'http://www.deaddisc.com/GDFD_David_Nelson.htm'
+  - 'https://shubb.com/artist/david-nelson/'
 spotify_data:
   followers: 1510
   id: 4Fap1QSPJArfa9IofSrMPA
   popularity: 3
-  url: https://open.spotify.com/artist/4Fap1QSPJArfa9IofSrMPA
+  url: 'https://open.spotify.com/artist/4Fap1QSPJArfa9IofSrMPA'
 status: active
-title: DAVID NELSON BAND
+title: David Nelson Band
+birth_date: '1943-06-12'
 ---
 
 ![](david_nelson_band.jpg)

@@ -3,37 +3,43 @@ biography_enhanced_at: '2026-01-27T01:57:19.820754'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:57:19.820759'
 external_urls:
-  spotify: https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk
-  wikipedia: https://en.wikipedia.org/wiki/Majid_Jordan
+  spotify: 'https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Majid_Jordan'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/majid_jordan.jpg
 last_updated: '2026-01-27T01:57:19.820760'
 musical_connections:
   collaborators:
-  - Drake
-  - Beyoncé
-  - PartyNextDoor
-  - Khalid
+    - Drake
+    - Beyoncé
+    - PartyNextDoor
+    - Khalid
   influenced: []
   mentors:
-  - Noah '40' Shebib
+    - Noah '40' Shebib
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Majid_Jordan
-- https://kids.kiddle.co/Majid_Jordan
-- https://www.thefader.com/2016/02/12/majid-jordan-interview
-- https://first-avenue.com/performer/majid-jordan/
-- https://www.last.fm/music/Majid+Jordan/+wiki
-- https://www.ssense.com/en-us/editorial/music/majid-jordans-school-of-the-sublime
-- https://coveteur.com/2017/10/25/majid-jordan-interview-new-album-personal-style/
+  - 'https://en.wikipedia.org/wiki/Majid_Jordan'
+  - 'https://kids.kiddle.co/Majid_Jordan'
+  - 'https://www.thefader.com/2016/02/12/majid-jordan-interview'
+  - 'https://first-avenue.com/performer/majid-jordan/'
+  - 'https://www.last.fm/music/Majid+Jordan/+wiki'
+  - >-
+    https://www.ssense.com/en-us/editorial/music/majid-jordans-school-of-the-sublime
+  - >-
+    https://coveteur.com/2017/10/25/majid-jordan-interview-new-album-personal-style/
 spotify_data:
   followers: 1029304
   id: 4HzKw8XcD0piJmDrrPRCYk
   popularity: 69
-  url: https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk
+  url: 'https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk'
 status: active
-title: MAJID JORDAN
+title: Majid Jordan
+birth_place: 'Bahrain, Bahrain, null'
+origin: 'Toronto, Ontario, Canada'
+birth_date: '1990-10-22'
+artist_type: band
 ---
 
 ![](majid_jordan.jpg)

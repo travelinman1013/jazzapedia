@@ -1,95 +1,95 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-24T01:58:19.290381'
 birth_date: '2004'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:58:19.290387'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3357cc0c-478b-4e43-8783-5c5894cb0119
-  spotify: https://open.spotify.com/artist/38wHDsvB4cXPH6uy50HUPF
+  musicbrainz: 'https://musicbrainz.org/artist/3357cc0c-478b-4e43-8783-5c5894cb0119'
+  spotify: 'https://open.spotify.com/artist/38wHDsvB4cXPH6uy50HUPF'
   wikipedia: ''
 genres:
-- zydeco
-- folk punk
-- cajun
-- sea shanties
+  - zydeco
+  - folk punk
+  - cajun
+  - sea shanties
 image_path: 03_Resources/source_material/ArtistPortraits/zydepunks.jpg
 instruments:
-- bass
+  - bass
 last_updated: '2026-01-24T01:58:19.290388'
 members:
-- begin: '2003'
-  end: '2005'
-  instruments:
-  - bass
-  mbid: 2108c0e1-6d32-499e-8427-9ff61cb872e5
-  name: Patrick Keenan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ea577e6c-4f3a-4ac2-a19d-4bb85a13b4d4
-  name: Denise Bonis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 62e3d308-4cdb-4af5-8e07-ca3688d32a41
-  name: Paul Edmonds
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4509487a-426e-45be-8675-4d57f27d5215
-  name: Christian Kuffner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 883339d1-da6b-4e1b-8fa0-353889e34bf0
-  name: Joe Lilly
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 645c8918-b92c-4ae1-ad2d-6a9cc8682c12
-  name: Joseph McGinty
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 40998ae7-a347-451e-9d2e-be48f9b028b7
-  name: Eve Venema
+  - begin: '2003'
+    end: '2005'
+    instruments:
+      - bass
+    mbid: 2108c0e1-6d32-499e-8427-9ff61cb872e5
+    name: Patrick Keenan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ea577e6c-4f3a-4ac2-a19d-4bb85a13b4d4
+    name: Denise Bonis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 62e3d308-4cdb-4af5-8e07-ca3688d32a41
+    name: Paul Edmonds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4509487a-426e-45be-8675-4d57f27d5215
+    name: Christian Kuffner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 883339d1-da6b-4e1b-8fa0-353889e34bf0
+    name: Joe Lilly
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 645c8918-b92c-4ae1-ad2d-6a9cc8682c12
+    name: Joseph McGinty
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 40998ae7-a347-451e-9d2e-be48f9b028b7
+    name: Eve Venema
 musical_connections:
   collaborators:
-  - Alan LaFleur
-  - Helen Gillet
-  - Matt Rhody
-  - Stix duh Clown
-  - Meschiya Lake
-  - Frank Scully
-  - Aubrey Freeman
-  - Michael Frey
+    - Alan LaFleur
+    - Helen Gillet
+    - Matt Rhody
+    - Stix duh Clown
+    - Meschiya Lake
+    - Frank Scully
+    - Aubrey Freeman
+    - Michael Frey
   influenced:
-  - The Dreadnoughts
+    - The Dreadnoughts
   mentors: []
 musicbrainz_id: 3357cc0c-478b-4e43-8783-5c5894cb0119
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://zydepunks.com/band/
-- https://shitenonions.home.blog/tag/the-zydepunks/
-- https://www.womex.com/virtual/la_pela_producciones/the_zydepunks
-- https://gallery.fm/artist/737316/the-zydepunks
-- https://www.skruttmagazine.se/zydepunkseng.htm
-- https://thedreadnoughts.substack.com/p/artist-spotlight-the-zydepunks
-- https://www.last.fm/music/The+Zydepunks/+wiki
-- https://zydepunks.com
+  - 'https://zydepunks.com/band/'
+  - 'https://shitenonions.home.blog/tag/the-zydepunks/'
+  - 'https://www.womex.com/virtual/la_pela_producciones/the_zydepunks'
+  - 'https://gallery.fm/artist/737316/the-zydepunks'
+  - 'https://www.skruttmagazine.se/zydepunkseng.htm'
+  - 'https://thedreadnoughts.substack.com/p/artist-spotlight-the-zydepunks'
+  - 'https://www.last.fm/music/The+Zydepunks/+wiki'
+  - 'https://zydepunks.com'
 spotify_data:
   followers: 2902
   id: 38wHDsvB4cXPH6uy50HUPF
   popularity: 8
-  url: https://open.spotify.com/artist/38wHDsvB4cXPH6uy50HUPF
+  url: 'https://open.spotify.com/artist/38wHDsvB4cXPH6uy50HUPF'
 status: active
 tags:
-- folk rock
-- punk
-title: zydepunks
+  - folk rock
+  - punk
+title: Zydepunks
 ---
 
 ![](zydepunks.jpg)

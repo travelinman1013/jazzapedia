@@ -1,51 +1,53 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-02-23T03:07:39.968070'
-birth_place: Saint Croix
+birth_place: 'Saint Croix, U.S. Virgin Islands, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:07:39.968081'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ef591e39-0c7b-4684-92b9-2f97ed25802e
-  spotify: https://open.spotify.com/artist/6gFqoCdl6dVKrJ65nmvcXM
-  wikipedia: https://en.wikipedia.org/wiki/Dezarie
+  musicbrainz: 'https://musicbrainz.org/artist/ef591e39-0c7b-4684-92b9-2f97ed25802e'
+  spotify: 'https://open.spotify.com/artist/6gFqoCdl6dVKrJ65nmvcXM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dezarie'
 gender: Female
 genres:
-- reggae
-- roots reggae
+  - reggae
+  - roots reggae
 image_path: 03_Resources/source_material/ArtistPortraits/dezarie.jpg
 last_updated: '2026-02-23T03:07:39.968083'
 musical_connections:
   collaborators:
-  - Midnite
-  - Phillip Merchant
-  - Dion Hopkins
-  - Ron Benjamin
-  - Abijah
+    - Midnite
+    - Phillip Merchant
+    - Dion Hopkins
+    - Ron Benjamin
+    - Abijah
   influenced:
-  - Kenya Eugene
+    - Kenya Eugene
   mentors:
-  - Midnite
+    - Midnite
 musicbrainz_id: ef591e39-0c7b-4684-92b9-2f97ed25802e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dezarie
-- https://www.youtube.com/watch?v=NP5JFt3QCD0
-- https://www.last.fm/music/Dezarie/+wiki
-- https://www.reggaeville.com/artist-details/dezarie/about/
-- https://www.reggaeville.com/artist-details/dezarie/news/view/interview-with-dezarie-hailing-the-guardian/
-- https://www.oreateai.com/blog/dezarie-the-soulful-voice-of-reggaes-conscious-revolution/614bbabfcf0c058382f4f743e1af1ac9
-- https://musicbrainz.org/artist/ef591e39-0c7b-4684-92b9-2f97ed25802e
-- https://www.aaemusic.com/artist/dezarie
+  - 'https://en.wikipedia.org/wiki/Dezarie'
+  - 'https://www.youtube.com/watch?v=NP5JFt3QCD0'
+  - 'https://www.last.fm/music/Dezarie/+wiki'
+  - 'https://www.reggaeville.com/artist-details/dezarie/about/'
+  - >-
+    https://www.reggaeville.com/artist-details/dezarie/news/view/interview-with-dezarie-hailing-the-guardian/
+  - >-
+    https://www.oreateai.com/blog/dezarie-the-soulful-voice-of-reggaes-conscious-revolution/614bbabfcf0c058382f4f743e1af1ac9
+  - 'https://musicbrainz.org/artist/ef591e39-0c7b-4684-92b9-2f97ed25802e'
+  - 'https://www.aaemusic.com/artist/dezarie'
 spotify_data:
   followers: 149056
   id: 6gFqoCdl6dVKrJ65nmvcXM
   popularity: 43
-  url: https://open.spotify.com/artist/6gFqoCdl6dVKrJ65nmvcXM
+  url: 'https://open.spotify.com/artist/6gFqoCdl6dVKrJ65nmvcXM'
 status: active
 tags:
-- reggae
-- roots reggae
+  - reggae
+  - roots reggae
 title: Dezarie
 ---
 

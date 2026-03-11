@@ -1,48 +1,52 @@
 ---
 biography_enhanced_at: '2026-01-31T01:04:55.344579'
-birth_place: Witbank, South Africa
+birth_place: 'Witbank, South Africa, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:04:55.344597'
 external_urls:
-  spotify: https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp
-  wikipedia: https://en.wikipedia.org/wiki/Hugh_Masekela
+  spotify: 'https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hugh_Masekela'
 genres:
-- afro soul
-- afrobeat
-image_path: 03_Resources/source_material/ArtistPortraits/johannesburg_street_band_hugh_masakela.jpg
+  - afro soul
+  - afrobeat
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/johannesburg_street_band_hugh_masakela.jpg
 last_updated: '2026-01-31T01:04:55.344598'
 musical_connections:
   collaborators:
-  - Abdullah Ibrahim (Dollar Brand), Kippie Moeketsi, Jonas Gwangwa, Makhaya Ntshoko,
-    Johnny Gertze
-  - Miriam Makeba
-  - Paul Simon, Ladysmith Black Mambazo
-  - Herb Alpert
+    - >-
+      Abdullah Ibrahim (Dollar Brand), Kippie Moeketsi, Jonas Gwangwa, Makhaya
+      Ntshoko, Johnny Gertze
+    - Miriam Makeba
+    - 'Paul Simon, Ladysmith Black Mambazo'
+    - Herb Alpert
   influenced:
-  - West and Central African musicians, South African players
-  - Ray Phiri, Kalahari band members
+    - 'West and Central African musicians, South African players'
+    - 'Ray Phiri, Kalahari band members'
   mentors:
-  - Father Trevor Huddleston
-  - Uncle Sauda
-  - Louis Armstrong, Dizzy Gillespie, Miles Davis
+    - Father Trevor Huddleston
+    - Uncle Sauda
+    - 'Louis Armstrong, Dizzy Gillespie, Miles Davis'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hugh_Masekela
-- https://wbssmedia.com/artists/detail/511
-- https://sahistory.org.za/people/hugh-masekela
-- https://dougpayne.com/hmbio.htm
-- https://hughmasekela.co.za/biography/
-- https://aaregistry.org/story/trumpet-player-and-so-much-more-hugh-masekela/
-- https://wicn.org/wicn-artist-of-the-month-april-2025-hugh-masekela/
-- https://www.udiscovermusic.com/stories/hugh-masekela-politics-feature/
+  - 'https://en.wikipedia.org/wiki/Hugh_Masekela'
+  - 'https://wbssmedia.com/artists/detail/511'
+  - 'https://sahistory.org.za/people/hugh-masekela'
+  - 'https://dougpayne.com/hmbio.htm'
+  - 'https://hughmasekela.co.za/biography/'
+  - 'https://aaregistry.org/story/trumpet-player-and-so-much-more-hugh-masekela/'
+  - 'https://wicn.org/wicn-artist-of-the-month-april-2025-hugh-masekela/'
+  - 'https://www.udiscovermusic.com/stories/hugh-masekela-politics-feature/'
 spotify_data:
   followers: 177613
   id: 1b3F5FI7TX4IWTNA4P1kWp
   popularity: 46
-  url: https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp
+  url: 'https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp'
 status: active
-title: Johannesburg Street Band, Hugh Masakela
+title: 'Johannesburg Street Band, Hugh Masakela'
+birth_date: '1939-04-04'
+artist_type: person
 ---
 
 ![](johannesburg_street_band_hugh_masakela.jpg)

@@ -1,45 +1,50 @@
 ---
 biography_enhanced_at: '2026-03-02T01:12:05.434701'
-birth_place: Athens, Georgia, USA
+birth_place: 'Athens, Georgia, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:12:05.434709'
 external_urls:
-  spotify: https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L
-  wikipedia: https://en.wikipedia.org/wiki/Lilli_Lewis
+  spotify: 'https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lilli_Lewis'
 genres:
-- southern gothic
-- americana
+  - southern gothic
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/lilli_lewis.jpg
 last_updated: '2026-03-02T01:12:05.434711'
 musical_connections:
   collaborators:
-  - Liz Hogan
-  - Mark Bingham
-  - Rick Nelson
-  - Gina Forsyth
-  - Holly G.
+    - Liz Hogan
+    - Mark Bingham
+    - Rick Nelson
+    - Gina Forsyth
+    - Holly G.
   influenced: []
   mentors:
-  - bell hooks
+    - bell hooks
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://guitargirlmag.com/interviews/lilli-lewis-composer-musician-folk-rock-diva/
-- https://www.americanbluesscene.com/2021/10/americana-for-lilli-lewis-its-as-much-about-the-stories-as-the-music/
-- https://en.wikipedia.org/wiki/Lilli_Lewis
-- https://www.psaudio.com/blogs/copper/talking-with-folk-americana-artist-lilli-lewis
-- https://www.lillilewis.com/2022/bio/
-- https://www.lillilewis.com/2024/about/
-- http://americanahighways.org/2021/10/27/review-lilli-lewis-americana/
-- https://www.musictolife.org/portfolio/lilli-lewis/
-- https://americana-uk.com/interview-lilli-lewis-on-americana-new-orleans-and-activism
+  - >-
+    https://guitargirlmag.com/interviews/lilli-lewis-composer-musician-folk-rock-diva/
+  - >-
+    https://www.americanbluesscene.com/2021/10/americana-for-lilli-lewis-its-as-much-about-the-stories-as-the-music/
+  - 'https://en.wikipedia.org/wiki/Lilli_Lewis'
+  - >-
+    https://www.psaudio.com/blogs/copper/talking-with-folk-americana-artist-lilli-lewis
+  - 'https://www.lillilewis.com/2022/bio/'
+  - 'https://www.lillilewis.com/2024/about/'
+  - 'http://americanahighways.org/2021/10/27/review-lilli-lewis-americana/'
+  - 'https://www.musictolife.org/portfolio/lilli-lewis/'
+  - >-
+    https://americana-uk.com/interview-lilli-lewis-on-americana-new-orleans-and-activism
 spotify_data:
   followers: 2616
   id: 2dh2iaRf6yHgqVmEJok53L
   popularity: 8
-  url: https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L
+  url: 'https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L'
 status: active
 title: Lilli Lewis
+artist_type: person
 ---
 
 ![](lilli_lewis.jpg)

@@ -1,48 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-24T01:41:41.544130'
-birth_place: Long Island, New York, USA
+birth_place: 'Long Island, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:41:41.544139'
 external_urls:
-  spotify: https://open.spotify.com/artist/7acdJJMSkYQly2X92K3u7u
-  wikipedia: https://en.wikipedia.org/wiki/Ravi_Coltrane
+  spotify: 'https://open.spotify.com/artist/7acdJJMSkYQly2X92K3u7u'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ravi_Coltrane'
 genres:
-- jazz
-- free jazz
-- jazz ballads
+  - jazz
+  - free jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/ravi_coltrane.jpg
 last_updated: '2026-02-24T01:41:41.544140'
 musical_connections:
   collaborators:
-  - Geri Allen
-  - Ralph Alessi
-  - Jeff 'Tain' Watts
-  - Lonnie Plaxico
-  - Luis Perdomo
+    - Geri Allen
+    - Ralph Alessi
+    - Jeff 'Tain' Watts
+    - Lonnie Plaxico
+    - Luis Perdomo
   influenced: []
   mentors:
-  - Steve Coleman
-  - Elvin Jones
-  - Charlie Haden
-  - Rashied Ali
+    - Steve Coleman
+    - Elvin Jones
+    - Charlie Haden
+    - Rashied Ali
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ravi_Coltrane
-- https://www.imnworld.com/artists/ravicoltrane
-- https://jazztimes.com/features/profiles/ravi-coltrane-digging-deeper/
-- https://wbssmedia.com/artists/detail/1806
-- https://www.bluenote.com/artist/ravi-coltrane/
-- https://kupferbergcenter.org/event/ravi-coltrane/
-- https://nomadjazzfestival.com/artists/ravi-coltrane/
-- https://www.kcur.org/2012-07-18/ravi-coltrane-a-noble-sound-witness-to-its-heritage
+  - 'https://en.wikipedia.org/wiki/Ravi_Coltrane'
+  - 'https://www.imnworld.com/artists/ravicoltrane'
+  - 'https://jazztimes.com/features/profiles/ravi-coltrane-digging-deeper/'
+  - 'https://wbssmedia.com/artists/detail/1806'
+  - 'https://www.bluenote.com/artist/ravi-coltrane/'
+  - 'https://kupferbergcenter.org/event/ravi-coltrane/'
+  - 'https://nomadjazzfestival.com/artists/ravi-coltrane/'
+  - >-
+    https://www.kcur.org/2012-07-18/ravi-coltrane-a-noble-sound-witness-to-its-heritage
 spotify_data:
   followers: 14335
   id: 7acdJJMSkYQly2X92K3u7u
   popularity: 23
-  url: https://open.spotify.com/artist/7acdJJMSkYQly2X92K3u7u
+  url: 'https://open.spotify.com/artist/7acdJJMSkYQly2X92K3u7u'
 status: active
 title: Ravi Coltrane
+birth_date: '1965-08-06'
+artist_type: person
 ---
 
 ![](ravi_coltrane.jpg)

@@ -1,88 +1,89 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 5d02f264-e225-41ff-83f7-d9b1f0b1874a
-  name: Simon & Garfunkel
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b1c53f5-e01d-4a1b-b200-1da0b6bc1ecb
-  name: Tico & The Triumphs
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 565042fc-9012-4d2e-9ef3-ee0a9dcad326
-  name: The Cosines
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d018cc6c-eeb1-4881-b46f-e3ee6497712f
-  name: Tom & Jerry
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 5d02f264-e225-41ff-83f7-d9b1f0b1874a
+    name: Simon & Garfunkel
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b1c53f5-e01d-4a1b-b200-1da0b6bc1ecb
+    name: Tico & The Triumphs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 565042fc-9012-4d2e-9ef3-ee0a9dcad326
+    name: The Cosines
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d018cc6c-eeb1-4881-b46f-e3ee6497712f
+    name: Tom & Jerry
 biography_enhanced_at: '2026-02-14T01:34:40.503309'
 birth_date: '1941-10-13'
-birth_place: Newark
+birth_place: 'Newark, New Jersey, United States'
 disambiguation: of Simon & Garfunkel
 enhancement_provider: perplexity
 entry_created: '2026-02-14T01:34:40.503317'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/05517043-ff78-4988-9c22-88c68588ebb9
-  spotify: https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Simon
+  musicbrainz: 'https://musicbrainz.org/artist/05517043-ff78-4988-9c22-88c68588ebb9'
+  spotify: 'https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Simon'
 gender: Male
 genres:
-- singer-songwriter
+  - singer-songwriter
 image_path: 03_Resources/source_material/ArtistPortraits/paul_simon.jpg
 instruments:
-- eponymous
-- original
-- acoustic guitar
-- guitar
-- electric guitar
-- guitar family
-- classical guitar
-- 12 string guitar
-- electric bass guitar
-- lead vocals
-- spoken vocals
-- background vocals
+  - eponymous
+  - original
+  - acoustic guitar
+  - guitar
+  - electric guitar
+  - guitar family
+  - classical guitar
+  - 12 string guitar
+  - electric bass guitar
+  - lead vocals
+  - spoken vocals
+  - background vocals
 last_updated: '2026-02-14T01:34:40.503318'
 musical_connections:
   collaborators:
-  - Art Garfunkel
-  - South African musicians (e.g., Ladysmith Black Mambazo)
-  - Bob Dylan
-  - Edie Brickell
+    - Art Garfunkel
+    - 'South African musicians (e.g., Ladysmith Black Mambazo)'
+    - Bob Dylan
+    - Edie Brickell
   influenced:
-  - Various new generations
+    - Various new generations
   mentors:
-  - English folk music
-  - Andean mountain music and gospel
+    - English folk music
+    - Andean mountain music and gospel
 musicbrainz_id: 05517043-ff78-4988-9c22-88c68588ebb9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Paul_Simon
-- https://www.biography.com/musicians/paul-simon
-- https://www.britannica.com/biography/Paul-Simon
-- https://www.ebsco.com/research-starters/music/paul-simon
-- https://chart-history.net/paul-simon/
-- https://www.paulsimon.com/about/
+  - 'https://en.wikipedia.org/wiki/Paul_Simon'
+  - 'https://www.biography.com/musicians/paul-simon'
+  - 'https://www.britannica.com/biography/Paul-Simon'
+  - 'https://www.ebsco.com/research-starters/music/paul-simon'
+  - 'https://chart-history.net/paul-simon/'
+  - 'https://www.paulsimon.com/about/'
 spotify_data:
   followers: 2598497
   id: 2CvCyf1gEVhI0mX6aFXmVI
   popularity: 67
-  url: https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI
+  url: 'https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI'
 status: active
 tags:
-- contemporary folk
-- folk
-- folk pop
-title: PAUL sIMON
+  - contemporary folk
+  - folk
+  - folk pop
+title: Paul Simon
+origin: 'Queens, New York, United States'
 ---
 
 ![](paul_simon.jpg)

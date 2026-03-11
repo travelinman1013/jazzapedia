@@ -3,38 +3,41 @@ biography_enhanced_at: '2026-01-26T01:43:07.656651'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:43:07.656661'
 external_urls:
-  spotify: https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k
-  wikipedia: https://en.wikipedia.org/wiki/City_of_the_Sun_(band)
+  spotify: 'https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k'
+  wikipedia: 'https://en.wikipedia.org/wiki/City_of_the_Sun_(band)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/city_of_the_sun.jpg
 last_updated: '2026-01-26T01:43:07.656663'
 musical_connections:
   collaborators:
-  - Avi Snow
-  - Troubadour Adam Road
-  - Matt Fasano
-  - Marco Bolfelli
+    - Avi Snow
+    - Troubadour Adam Road
+    - Matt Fasano
+    - Marco Bolfelli
   influenced: []
   mentors: []
 network_extracted: true
-origin: New York City, New York, USA
+origin: 'New York City, New York, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/City_of_the_Sun_(band)
-- https://nettwerk.com/artist/city-of-the-sun/
-- https://apeconcerts.com/attraction/city-of-the-sun/
-- https://riffmagazine.com/features/city-of-the-sun-swerves-from-instrumental-preconceptions/
-- https://www.wearecityofthesun.com/about
-- https://303magazine.com/2017/03/419692/
-- http://indiemvsic.blogspot.com/2017/12/introducing-band-city-of-sun.html
-- https://remezcla.com/features/music/acoustic-post-rock-trio-city-of-the-sun-builds-stories-without-words/
+  - 'https://en.wikipedia.org/wiki/City_of_the_Sun_(band)'
+  - 'https://nettwerk.com/artist/city-of-the-sun/'
+  - 'https://apeconcerts.com/attraction/city-of-the-sun/'
+  - >-
+    https://riffmagazine.com/features/city-of-the-sun-swerves-from-instrumental-preconceptions/
+  - 'https://www.wearecityofthesun.com/about'
+  - 'https://303magazine.com/2017/03/419692/'
+  - 'http://indiemvsic.blogspot.com/2017/12/introducing-band-city-of-sun.html'
+  - >-
+    https://remezcla.com/features/music/acoustic-post-rock-trio-city-of-the-sun-builds-stories-without-words/
 spotify_data:
   followers: 136495
   id: 4DkYxtaASIKQnk4Gj0TB7k
   popularity: 48
-  url: https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k
+  url: 'https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k'
 status: active
 title: City of the Sun
+artist_type: person
 ---
 
 ![](city_of_the_sun.jpg)

@@ -1,64 +1,65 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-02T01:45:15.460567'
 disambiguation: Canadian folk duo from Quebec
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:45:15.460656'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/79edfc7c-e62a-4303-8bcc-7a92381c8fc4
-  spotify: https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M
+  musicbrainz: 'https://musicbrainz.org/artist/79edfc7c-e62a-4303-8bcc-7a92381c8fc4'
+  spotify: 'https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M'
   wikipedia: ''
 genres:
-- pop québécoise
-- chanson québécoise
+  - pop québécoise
+  - chanson québécoise
 image_path: 03_Resources/source_material/ArtistPortraits/veranda.jpg
 last_updated: '2026-02-02T01:45:15.460674'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b64a6776-a2f2-4538-a294-8c6ed1f2f3a3
-  name: Catherine-Audrey Lachapelle
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 44de05b6-d057-4b10-ad63-7d7e5cf43bec
-  name: Léandre Joly-Pelletier
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b64a6776-a2f2-4538-a294-8c6ed1f2f3a3
+    name: Catherine-Audrey Lachapelle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 44de05b6-d057-4b10-ad63-7d7e5cf43bec
+    name: Léandre Joly-Pelletier
 musical_connections:
   collaborators:
-  - Sara Dufour
-  - Laurence Jalbert
-  - Notre Dame-de-Grass
-  - Joe Grass
-  - Marc Olivier Tremblay-Drapeau
-  - Tommy Gauthier
-  - Guy Donis
-  - Charles Guay
-  - Léa Jarry
+    - Sara Dufour
+    - Laurence Jalbert
+    - Notre Dame-de-Grass
+    - Joe Grass
+    - Marc Olivier Tremblay-Drapeau
+    - Tommy Gauthier
+    - Guy Donis
+    - Charles Guay
+    - Léa Jarry
   influenced: []
   mentors:
-  - The Beatles
-  - Led Zeppelin
-  - Pharis and Jason Romero
-  - Slocan Ramblers
+    - The Beatles
+    - Led Zeppelin
+    - Pharis and Jason Romero
+    - Slocan Ramblers
 musicbrainz_id: 79edfc7c-e62a-4303-8bcc-7a92381c8fc4
 network_extracted: true
-origin: Montreal, Quebec, Canada
+origin: 'Montreal, Quebec, Canada'
 primary_source: perplexity
 research_sources:
-- https://montrealguardian.com/montreal-music-veranda/
-- https://www.rootsmusic.ca/2022/11/03/veranda-releases-their-nature-inspired-full-length-debut-la-bas-and-single-la-visite/
-- https://www.youtube.com/verandamusic
+  - 'https://montrealguardian.com/montreal-music-veranda/'
+  - >-
+    https://www.rootsmusic.ca/2022/11/03/veranda-releases-their-nature-inspired-full-length-debut-la-bas-and-single-la-visite/
+  - 'https://www.youtube.com/verandamusic'
 spotify_data:
   followers: 1807
   id: 2uVYPi9uHm3LCyamNqiz1M
   popularity: 23
-  url: https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M
+  url: 'https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M'
 status: active
 tags:
-- bluegrass
-- country
-- folk
+  - bluegrass
+  - country
+  - folk
 title: Veranda
 ---
 

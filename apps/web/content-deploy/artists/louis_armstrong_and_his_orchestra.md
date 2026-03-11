@@ -1,48 +1,52 @@
 ---
 biography_enhanced_at: '2026-01-29T02:00:50.894821'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:00:50.894833'
 external_urls:
-  spotify: https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong
+  spotify: 'https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong'
 genres:
-- big band
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_his_orchestra.jpg
+  - big band
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/louis_armstrong_and_his_orchestra.jpg
 last_updated: '2026-01-29T02:00:50.894834'
 musical_connections:
   collaborators:
-  - Lillian Hardin Armstrong
-  - Johnny Dodds
-  - Kid Ory
-  - Earl Hines
-  - Fletcher Henderson
-  - Joe Glaser
+    - Lillian Hardin Armstrong
+    - Johnny Dodds
+    - Kid Ory
+    - Earl Hines
+    - Fletcher Henderson
+    - Joe Glaser
   influenced:
-  - Swing era trumpeters
-  - Adelaide Hall
+    - Swing era trumpeters
+    - Adelaide Hall
   mentors:
-  - Joe "King" Oliver
-  - Peter Davis
+    - Joe "King" Oliver
+    - Peter Davis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf
-- https://www.louisarmstronghouse.org/biography/
-- https://kgumusic.com/blogs/news/louis-armstrong-the-personal-and-musical-journey-of-the-king-of-jazz
-- https://en.wikipedia.org/wiki/Louis_Armstrong
-- https://www.life1031.com/featured-artist-louis-armstrong/
-- https://musicrising.tulane.edu/discover/people/louis-armstrong-satchmo/
-- https://www.britannica.com/biography/Louis-Armstrong
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/101863/Armstrong_Louis
+  - 'https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf'
+  - 'https://www.louisarmstronghouse.org/biography/'
+  - >-
+    https://kgumusic.com/blogs/news/louis-armstrong-the-personal-and-musical-journey-of-the-king-of-jazz
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+  - 'https://www.life1031.com/featured-artist-louis-armstrong/'
+  - 'https://musicrising.tulane.edu/discover/people/louis-armstrong-satchmo/'
+  - 'https://www.britannica.com/biography/Louis-Armstrong'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/101863/Armstrong_Louis
 spotify_data:
   followers: 746
   id: 1hcIFNujgjY8Mrf5Iidlaf
   popularity: 13
-  url: https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf
+  url: 'https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf'
 status: active
-title: LOUIS ARMSTRONG AND HIS ORCHESTRA
+title: Louis Armstrong and His Orchestra
+artist_type: person
 ---
 
 ![](louis_armstrong_and_his_orchestra.jpg)

@@ -1,90 +1,91 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - piano
-  mbid: b98a0736-05b4-47f6-8add-efcc89f6f1c8
-  name: The Fred Hersch Trio
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 2cea1456-daef-4bb1-b63c-4b6df03ebbd5
-  name: The Fred Hersch Group
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c55ef3a7-bfeb-4aae-9ce0-9c235de43d53
-  name: The Art Farmer Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: da1e2f2c-1c9a-4369-a85f-4d3ed4b1a634
-  name: Gary Burton & Friends
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - piano
+    mbid: b98a0736-05b4-47f6-8add-efcc89f6f1c8
+    name: The Fred Hersch Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 2cea1456-daef-4bb1-b63c-4b6df03ebbd5
+    name: The Fred Hersch Group
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c55ef3a7-bfeb-4aae-9ce0-9c235de43d53
+    name: The Art Farmer Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: da1e2f2c-1c9a-4369-a85f-4d3ed4b1a634
+    name: Gary Burton & Friends
 biography_enhanced_at: '2026-01-27T01:50:17.267201'
 birth_date: '1955-10-21'
-birth_place: Cincinnati
+birth_place: 'Cincinnati, Ohio, United States'
 disambiguation: American jazz pianist and composer
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:50:17.267207'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f573100a-b05b-4286-83f0-5620adf73695
-  spotify: https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx
-  wikipedia: https://en.wikipedia.org/wiki/Fred_Hersch
+  musicbrainz: 'https://musicbrainz.org/artist/f573100a-b05b-4286-83f0-5620adf73695'
+  spotify: 'https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fred_Hersch'
 gender: Male
 genres:
-- jazz
-- jazz ballads
+  - jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/fred_hersch.jpg
 instruments:
-- original
-- piano
+  - original
+  - piano
 last_updated: '2026-01-27T01:50:17.267208'
 musical_connections:
   collaborators:
-  - Art Farmer
-  - Jane Ira Bloom
-  - Toots Thielemans
-  - Eddie Daniels
-  - Janis Siegel
-  - John Hébert
-  - Eric McPherson
-  - Ralph Alessi
-  - Julian Lage
-  - Anat Cohen
+    - Art Farmer
+    - Jane Ira Bloom
+    - Toots Thielemans
+    - Eddie Daniels
+    - Janis Siegel
+    - John Hébert
+    - Eric McPherson
+    - Ralph Alessi
+    - Julian Lage
+    - Anat Cohen
   influenced:
-  - Brad Mehldau
-  - Ethan Iverson
-  - Jason Moran
+    - Brad Mehldau
+    - Ethan Iverson
+    - Jason Moran
   mentors:
-  - Jaki Byard
-  - Art Pepper
-  - Sun Ra
+    - Jaki Byard
+    - Art Pepper
+    - Sun Ra
 musicbrainz_id: f573100a-b05b-4286-83f0-5620adf73695
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fred_Hersch
-- https://www.neworleansreview.org/fred-hersch/
-- https://www.cincinnatimagazine.com/article/cincinnati-kid-fred-hersch/
-- https://www.macdowell.org/artists/fred-hersch
-- https://www.allaboutjazz.com/musicians/fred-hersch/
-- https://chicagopresents.uchicago.edu/people/fred-hersch-piano
-- https://fredhersch.com/about/
-- https://fromthetop.org/musician/fred-hersch/
+  - 'https://en.wikipedia.org/wiki/Fred_Hersch'
+  - 'https://www.neworleansreview.org/fred-hersch/'
+  - 'https://www.cincinnatimagazine.com/article/cincinnati-kid-fred-hersch/'
+  - 'https://www.macdowell.org/artists/fred-hersch'
+  - 'https://www.allaboutjazz.com/musicians/fred-hersch/'
+  - 'https://chicagopresents.uchicago.edu/people/fred-hersch-piano'
+  - 'https://fredhersch.com/about/'
+  - 'https://fromthetop.org/musician/fred-hersch/'
 spotify_data:
   followers: 29836
   id: 7w7DFqQNjVMW5NRvjM8JPx
   popularity: 31
-  url: https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx
+  url: 'https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx'
 status: active
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
 title: Fred Hersch
+origin: 'Cincinnati, Ohio, United States'
 ---
 
 ![](fred_hersch.jpg)

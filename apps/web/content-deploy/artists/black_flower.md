@@ -3,37 +3,38 @@ biography_enhanced_at: '2026-03-06T01:30:14.858574'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:30:14.858606'
 external_urls:
-  spotify: https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz
+  spotify: 'https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz'
   wikipedia: ''
 genres:
-- ethiopian jazz
-- nu jazz
+  - ethiopian jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/black_flower.jpg
 last_updated: '2026-03-06T01:30:14.858613'
 musical_connections:
   collaborators:
-  - Nathan Vandenbempt
-  - Simon Lenski
-  - Marcos Collard
+    - Nathan Vandenbempt
+    - Simon Lenski
+    - Marcos Collard
   influenced: []
   mentors:
-  - Mulatu Astatke
+    - Mulatu Astatke
 network_extracted: true
-origin: Brussels, Belgium
+origin: 'Brussels, Belgium, Belgium'
 primary_source: perplexity
 research_sources:
-- https://black-flower.bandcamp.com/
-- https://www.rootsworld.com/rw/feature/blackflower.html
-- https://en.wikipedia.org/wiki/Black_Flower_(band)
-- https://www.sxsw.com/music/artists/black-flower/
-- https://undergroundengland.com/black-flower/
+  - 'https://black-flower.bandcamp.com/'
+  - 'https://www.rootsworld.com/rw/feature/blackflower.html'
+  - 'https://en.wikipedia.org/wiki/Black_Flower_(band)'
+  - 'https://www.sxsw.com/music/artists/black-flower/'
+  - 'https://undergroundengland.com/black-flower/'
 spotify_data:
   followers: 16073
   id: 3sWzPqn412qggAJRtI6Bvz
   popularity: 20
-  url: https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz
+  url: 'https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz'
 status: active
 title: Black Flower
+artist_type: person
 ---
 
 ![](black_flower.jpg)

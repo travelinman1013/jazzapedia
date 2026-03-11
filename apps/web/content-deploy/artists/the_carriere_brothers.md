@@ -3,45 +3,48 @@ biography_enhanced_at: '2026-02-12T01:11:22.854165'
 enhancement_provider: perplexity
 entry_created: '2026-02-12T01:11:22.854177'
 external_urls:
-  spotify: https://open.spotify.com/artist/7FOdrINO9sTpBAnwqCUVJX
+  spotify: 'https://open.spotify.com/artist/7FOdrINO9sTpBAnwqCUVJX'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/the_carriere_brothers.jpg
 last_updated: '2026-02-12T01:11:22.854179'
 musical_connections:
   collaborators:
-  - Lawtell Playboys
-  - Nick Spitzer
-  - Delton Broussard
-  - Calvin Carrière
+    - Lawtell Playboys
+    - Nick Spitzer
+    - Delton Broussard
+    - Calvin Carrière
   influenced:
-  - Calvin Carrière
-  - Delton Broussard
-  - Goldman Thibodeaux
+    - Calvin Carrière
+    - Delton Broussard
+    - Goldman Thibodeaux
   mentors:
-  - Ernest Carrière
+    - Ernest Carrière
 network_extracted: true
-origin: Lawtell, Louisiana, United States
+origin: 'Lawtell, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Calvin_Carri%C3%A8re
-- https://www.explorelouisiana.com/articles/famous-louisiana-zydeco-musicians-biographies
-- https://en.wikipedia.org/wiki/B%C3%A9b%C3%A9_Carri%C3%A8re
-- https://music.apple.com/us/artist/the-carri%C3%A8re-brothers/28986923
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/gthibodeaux.htm.html
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH00512.pdf
-- https://www.bigfrenchdance.com/carriere-brothers
-- https://open.spotify.com/artist/7FOdrINO9sTpBAnwqCUVJX
-- https://www.allmusic.com/artist/carriere-brothers-mn0000760952
+  - 'https://en.wikipedia.org/wiki/Calvin_Carri%C3%A8re'
+  - >-
+    https://www.explorelouisiana.com/articles/famous-louisiana-zydeco-musicians-biographies
+  - 'https://en.wikipedia.org/wiki/B%C3%A9b%C3%A9_Carri%C3%A8re'
+  - 'https://music.apple.com/us/artist/the-carri%C3%A8re-brothers/28986923'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/gthibodeaux.htm.html
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH00512.pdf'
+  - 'https://www.bigfrenchdance.com/carriere-brothers'
+  - 'https://open.spotify.com/artist/7FOdrINO9sTpBAnwqCUVJX'
+  - 'https://www.allmusic.com/artist/carriere-brothers-mn0000760952'
 spotify_data:
   followers: 264
   id: 7FOdrINO9sTpBAnwqCUVJX
   popularity: 1
-  url: https://open.spotify.com/artist/7FOdrINO9sTpBAnwqCUVJX
+  url: 'https://open.spotify.com/artist/7FOdrINO9sTpBAnwqCUVJX'
 status: active
 title: The Carriere Brothers
+artist_type: band
 ---
 
 ![](the_carriere_brothers.jpg)

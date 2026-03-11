@@ -3,31 +3,33 @@ biography_enhanced_at: '2026-02-03T02:05:57.615849'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:05:57.615858'
 external_urls:
-  spotify: https://open.spotify.com/artist/0NZqoLq2YXXYJi4zEMAiAs
+  spotify: 'https://open.spotify.com/artist/0NZqoLq2YXXYJi4zEMAiAs'
   wikipedia: ''
 genres:
-- garage rock
-- folk punk
+  - garage rock
+  - folk punk
 image_path: 03_Resources/source_material/ArtistPortraits/20_miles.jpg
 last_updated: '2026-02-03T02:05:57.615860'
 musical_connections:
   collaborators:
-  - Judah Bauer
-  - Donovan Bauer
+    - Judah Bauer
+    - Donovan Bauer
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/20-miles-mn0000901178
-- https://www.dallasobserver.com/music/20-miles-6396218/
+  - 'https://www.allmusic.com/artist/20-miles-mn0000901178'
+  - 'https://www.dallasobserver.com/music/20-miles-6396218/'
 spotify_data:
   followers: 1101
   id: 0NZqoLq2YXXYJi4zEMAiAs
   popularity: 3
-  url: https://open.spotify.com/artist/0NZqoLq2YXXYJi4zEMAiAs
+  url: 'https://open.spotify.com/artist/0NZqoLq2YXXYJi4zEMAiAs'
 status: active
-title: 20 MILES
+title: 20 Miles
+origin: 'Minneapolis, Minnesota, United States'
+artist_type: band
 ---
 
 ![](20_miles.jpg)

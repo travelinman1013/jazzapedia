@@ -1,44 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-18T01:35:29.283755'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-18T01:35:29.283773'
 external_urls:
-  spotify: https://open.spotify.com/artist/0mduJ1WZqoWZwAdzC7wY2p
+  spotify: 'https://open.spotify.com/artist/0mduJ1WZqoWZwAdzC7wY2p'
   wikipedia: null
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/sarah_quintana_leyla_mccalla_louis_michot.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/sarah_quintana_leyla_mccalla_louis_michot.jpg
 last_updated: '2026-02-18T01:35:29.283775'
 musical_connections:
   collaborators:
-  - Michael Doucet
-  - Leyla McCalla
-  - Kevin Clark (The Nightcrawlers)
-  - Raphael Imbert
-  - Christophe Lampidecchia
-  - Mark Bingham and Dave Glasser
+    - Michael Doucet
+    - Leyla McCalla
+    - Kevin Clark (The Nightcrawlers)
+    - Raphael Imbert
+    - Christophe Lampidecchia
+    - Mark Bingham and Dave Glasser
   influenced: []
   mentors:
-  - Kent Jordan
-  - Ingrid Lucia
+    - Kent Jordan
+    - Ingrid Lucia
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.sarahquintana.com/about
-- https://antigravitymagazine.com/feature/sarah-quintana-keeps-on-rolling/
-- https://astudiointhewoods.org/artist/sarah-quintana/
-- https://www.sarahquintana.com/press
-- https://www.wwno.org/2025-03-24/on-baby-dont-sarah-quintana-explores-louisiana-sound-on-her-own-terms
-- https://www.neworleans.com/listing/sarah-quintana/47910/
-- https://www.myspiltmilk.com/articles/sarah-quintana-thinks-through-baby-dont-before-jazz-fest
-- https://glidemagazine.com/?p=309143
+  - 'https://www.sarahquintana.com/about'
+  - 'https://antigravitymagazine.com/feature/sarah-quintana-keeps-on-rolling/'
+  - 'https://astudiointhewoods.org/artist/sarah-quintana/'
+  - 'https://www.sarahquintana.com/press'
+  - >-
+    https://www.wwno.org/2025-03-24/on-baby-dont-sarah-quintana-explores-louisiana-sound-on-her-own-terms
+  - 'https://www.neworleans.com/listing/sarah-quintana/47910/'
+  - >-
+    https://www.myspiltmilk.com/articles/sarah-quintana-thinks-through-baby-dont-before-jazz-fest
+  - 'https://glidemagazine.com/?p=309143'
 spotify_data:
   followers: 16179
   id: 0mduJ1WZqoWZwAdzC7wY2p
   popularity: 27
-  url: https://open.spotify.com/artist/0mduJ1WZqoWZwAdzC7wY2p
+  url: 'https://open.spotify.com/artist/0mduJ1WZqoWZwAdzC7wY2p'
 status: active
-title: Sarah Quintana, Leyla McCalla, Louis Michot
+title: 'Sarah Quintana, Leyla McCalla, Louis Michot'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](sarah_quintana_leyla_mccalla_louis_michot.jpg)

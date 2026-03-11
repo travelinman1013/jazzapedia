@@ -3,43 +3,48 @@ biography_enhanced_at: '2026-02-17T01:21:55.599228'
 enhancement_provider: perplexity
 entry_created: '2026-02-17T01:21:55.599237'
 external_urls:
-  spotify: https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y
+  spotify: 'https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y'
   wikipedia: ''
 genres:
-- east coast hip hop
-- hip hop
-- jazz rap
-image_path: 03_Resources/source_material/ArtistPortraits/dead_prez_jorge_ben_jor_talib_kweli_bilal_and_positive_force.jpg
+  - east coast hip hop
+  - hip hop
+  - jazz rap
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dead_prez_jorge_ben_jor_talib_kweli_bilal_and_positive_force.jpg
 last_updated: '2026-02-17T01:21:55.599239'
 musical_connections:
   collaborators:
-  - Big Punisher
-  - Jay-Z
-  - Erykah Badu
+    - Big Punisher
+    - Jay-Z
+    - Erykah Badu
   influenced: []
   mentors:
-  - Lord Jamar
-  - Malcolm X
-  - Public Enemy
+    - Lord Jamar
+    - Malcolm X
+    - Public Enemy
 network_extracted: true
-origin: Tallahassee, Florida, USA (formed at Florida A&M University)
+origin: 'Tallahassee, Florida, USA (formed at Florida A&M University)'
 primary_source: perplexity
 research_sources:
-- https://tapedeck.app/artists/f9b6fa5b-e582-456a-b9bc-f819b10fa744/biography
-- https://deadprezblog.wordpress.com/about/
-- https://www.hiphopscriptures.com/dead-prez
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/dead-prez
-- https://artist.degy.com/major-acts/dead-prez
-- http://www.redwedgemagazine.com/interviews/lets-get-free-living-hip-hop
-- https://blackpast.org/african-american-history/dead-prez-1996/
-- https://www.jango.com/music/Dead+Prez
+  - 'https://tapedeck.app/artists/f9b6fa5b-e582-456a-b9bc-f819b10fa744/biography'
+  - 'https://deadprezblog.wordpress.com/about/'
+  - 'https://www.hiphopscriptures.com/dead-prez'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/dead-prez
+  - 'https://artist.degy.com/major-acts/dead-prez'
+  - 'http://www.redwedgemagazine.com/interviews/lets-get-free-living-hip-hop'
+  - 'https://blackpast.org/african-american-history/dead-prez-1996/'
+  - 'https://www.jango.com/music/Dead+Prez'
 spotify_data:
   followers: 650601
   id: 0lEssBAxQl2In4RpaB1C2Y
   popularity: 52
-  url: https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y
+  url: 'https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y'
 status: active
-title: Dead Prez, Jorge Ben Jor, Talib Kweli, Bilal & Positive Force
+title: 'Dead Prez, Jorge Ben Jor, Talib Kweli, Bilal & Positive Force'
+birth_place: 'Shadeville, Florida, United States'
+birth_date: '1975'
+artist_type: band
 ---
 
 ![](dead_prez_jorge_ben_jor_talib_kweli_bilal_and_positive_force.jpg)

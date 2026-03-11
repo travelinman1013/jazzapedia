@@ -1,65 +1,68 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a85ecff-41e9-4be1-aca6-c87054a4c334
-  name: Buena Vista Social Club
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a85ecff-41e9-4be1-aca6-c87054a4c334
+    name: Buena Vista Social Club
 biography_enhanced_at: '2026-01-25T01:39:48.426733'
 birth_date: '1927-02-20'
-birth_place: San Luis
+birth_place: 'San Luis, Santiago de Cuba, Cuba'
 death_date: '2005-08-06'
 disambiguation: Cuban singer
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:39:48.426740'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a61930ae-dfe3-4574-bc5b-b0fa8d8efb62
-  spotify: https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D
-  wikipedia: https://en.wikipedia.org/wiki/Ibrahim_Ferrer
+  musicbrainz: 'https://musicbrainz.org/artist/a61930ae-dfe3-4574-bc5b-b0fa8d8efb62'
+  spotify: 'https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ibrahim_Ferrer'
 gender: Male
 genres:
-- son cubano
-- afro-cuban jazz
-- latin jazz
-- bolero
+  - son cubano
+  - afro-cuban jazz
+  - latin jazz
+  - bolero
 image_path: 03_Resources/source_material/ArtistPortraits/ibrahim_ferrer.jpg
 instruments:
-- lead vocals
-- choir vocals
-- background vocals
+  - lead vocals
+  - choir vocals
+  - background vocals
 last_updated: '2026-01-25T01:39:48.426741'
 musical_connections:
   collaborators:
-  - Ry Cooder
-  - Omara Portuondo
-  - Afro-Cuban All Stars
-  - Chepín y su Orquesta Oriental
+    - Ry Cooder
+    - Omara Portuondo
+    - Afro-Cuban All Stars
+    - Chepín y su Orquesta Oriental
   influenced: []
   mentors:
-  - Beny Moré
-  - Pacho Alonso
+    - Beny Moré
+    - Pacho Alonso
 musicbrainz_id: a61930ae-dfe3-4574-bc5b-b0fa8d8efb62
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.peoplesworld.org/article/cuban-singer-ibrahim-ferrer-1927-2005/
-- https://en.wikipedia.org/wiki/Ibrahim_Ferrer
-- https://cuba50.org/2025/08/05/ibrahim-ferrer-bolero-singer-and-sonero/
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/ibrahim-ferrer
-- http://salsablvd.com/biographies/ibrahim-ferrer.htm
-- https://www.afrocubaweb.com/ibrahimferrer.html
-- https://havanamusicschool.com/ibrahim-ferrer-the-cuban-bolero/
+  - 'https://www.peoplesworld.org/article/cuban-singer-ibrahim-ferrer-1927-2005/'
+  - 'https://en.wikipedia.org/wiki/Ibrahim_Ferrer'
+  - 'https://cuba50.org/2025/08/05/ibrahim-ferrer-bolero-singer-and-sonero/'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/ibrahim-ferrer
+  - 'http://salsablvd.com/biographies/ibrahim-ferrer.htm'
+  - 'https://www.afrocubaweb.com/ibrahimferrer.html'
+  - 'https://havanamusicschool.com/ibrahim-ferrer-the-cuban-bolero/'
 spotify_data:
   followers: 163842
   id: 5dss7E1Ph0KxuF1ULfAx4D
   popularity: 50
-  url: https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D
+  url: 'https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D'
 status: active
 tags:
-- son cubano
-- world
-title: ibrahim ferrer
+  - son cubano
+  - world
+title: Ibrahim Ferrer
+is_active: false
+origin: 'Havana, Havana Province, Cuba'
 ---
 
 ![](ibrahim_ferrer.jpg)

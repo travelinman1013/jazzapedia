@@ -1,49 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-23T03:09:39.473860'
-birth_place: Jones Town, Kingston, Jamaica
+birth_place: 'Jones Town, Kingston, Jamaica'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:09:39.473868'
 external_urls:
-  spotify: https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra
-  wikipedia: https://en.wikipedia.org/wiki/U-Roy
+  spotify: 'https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra'
+  wikipedia: 'https://en.wikipedia.org/wiki/U-Roy'
 genres:
-- reggae
-- roots reggae
-- rocksteady
-- dub
-- ragga
-- lovers rock
+  - reggae
+  - roots reggae
+  - rocksteady
+  - dub
+  - ragga
+  - lovers rock
 image_path: 03_Resources/source_material/ArtistPortraits/u-roy.jpg
 last_updated: '2026-02-23T03:09:39.473870'
 musical_connections:
   collaborators:
-  - King Tubby
-  - Duke Reid
-  - Prince Tony Robinson
-  - John Holt
+    - King Tubby
+    - Duke Reid
+    - Prince Tony Robinson
+    - John Holt
   influenced:
-  - Ranking Joe
-  - Josey Wales
-  - Yellowman
-  - Sean Paul
-  - Shabba Ranks
+    - Ranking Joe
+    - Josey Wales
+    - Yellowman
+    - Sean Paul
+    - Shabba Ranks
   mentors:
-  - Count Matchuki
-  - King Stitt
+    - Count Matchuki
+    - King Stitt
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://teachrock.org/people/u-roy/
-- https://www.reggaeville.com/artist-details/u-roy/about/
-- https://en.wikipedia.org/wiki/U-Roy
-- https://www.reggae-vibes.com/articles/2021/02/u-roy-dj-originator-1942-2021/
+  - 'https://teachrock.org/people/u-roy/'
+  - 'https://www.reggaeville.com/artist-details/u-roy/about/'
+  - 'https://en.wikipedia.org/wiki/U-Roy'
+  - 'https://www.reggae-vibes.com/articles/2021/02/u-roy-dj-originator-1942-2021/'
 spotify_data:
   followers: 72623
   id: 4aCH6cwaYahrWfJWqfEfra
   popularity: 43
-  url: https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra
+  url: 'https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra'
 status: active
 title: U-Roy
+birth_date: '1942-09-21'
+death_date: '2021-02-17'
+artist_type: person
 ---
 
 ![](u-roy.jpg)

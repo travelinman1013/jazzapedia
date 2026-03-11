@@ -3,53 +3,65 @@ biography_enhanced_at: '2026-02-24T01:39:16.834480'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:39:16.834488'
 external_urls:
-  spotify: https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U
+  spotify: 'https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U'
   wikipedia: ''
 genres:
-- salsa
-- son cubano
-- bolero
-- cha cha cha
-- merengue
-- mambo
-- latin dance
-- latin
-image_path: 03_Resources/source_material/ArtistPortraits/celia_cruz_willie_colon_and_johnny_pacheco.jpg
+  - salsa
+  - son cubano
+  - bolero
+  - cha cha cha
+  - merengue
+  - mambo
+  - latin dance
+  - latin
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/celia_cruz_willie_colon_and_johnny_pacheco.jpg
 last_updated: '2026-02-24T01:39:16.834490'
 musical_connections:
   collaborators:
-  - Johnny Pacheco
-  - Willie Colón
-  - Fania All-Stars
-  - Héctor Lavoe
+    - Johnny Pacheco
+    - Willie Colón
+    - Fania All-Stars
+    - Héctor Lavoe
   influenced:
-  - Rubén Blades
-  - Héctor Lavoe
-  - Willie Colón
+    - Rubén Blades
+    - Héctor Lavoe
+    - Willie Colón
   mentors:
-  - La Sonora Matancera
-  - Tito Puente
-  - Xavier Cugat
+    - La Sonora Matancera
+    - Tito Puente
+    - Xavier Cugat
 network_extracted: true
-origin: Havana, Cuba (Celia Cruz); Santo Domingo, Dominican Republic (Johnny Pacheco);
+origin: >-
+  Havana, Cuba (Celia Cruz); Santo Domingo, Dominican Republic (Johnny Pacheco);
   New York, USA (Willie Colón operations)
 primary_source: perplexity
 research_sources:
-- https://www.grandcata.com/blog/foundations-of-salsa-johnny-pacheco-celia-cruz
-- https://craftrecordings.com/blogs/permanent-record/celia-cruz-johnny-pacheco-celia-johnny
-- https://www.wnycstudios.org/podcasts/takeaway/segments/life-and-legacy-johnny-pacheco-and-fania-records
-- https://concord.com/news/celia-johnny-the-legendary-debut-pairing-of-salsa-icons-celia-cruz-and-johnny-pacheco-returns-to-vinyl-october-11-in-celebration-of-its-50th-anniversary/
-- https://www.loc.gov/static/programs/national-recording-preservation-board/documents/CeliaAndJohnny.pdf
-- https://fania.com/eras/johnny-pacheco-celia-cruz-celia-johnny/
-- https://www.udiscovermusic.com/stories/celia-and-johnny-celia-cruz-johnny-pacheco-album-feature/
-- https://latinjazznet.com/reviews/albums/tropical-report/celia-cruz-and-willie-colon-celia-y-willie/
+  - >-
+    https://www.grandcata.com/blog/foundations-of-salsa-johnny-pacheco-celia-cruz
+  - >-
+    https://craftrecordings.com/blogs/permanent-record/celia-cruz-johnny-pacheco-celia-johnny
+  - >-
+    https://www.wnycstudios.org/podcasts/takeaway/segments/life-and-legacy-johnny-pacheco-and-fania-records
+  - >-
+    https://concord.com/news/celia-johnny-the-legendary-debut-pairing-of-salsa-icons-celia-cruz-and-johnny-pacheco-returns-to-vinyl-october-11-in-celebration-of-its-50th-anniversary/
+  - >-
+    https://www.loc.gov/static/programs/national-recording-preservation-board/documents/CeliaAndJohnny.pdf
+  - 'https://fania.com/eras/johnny-pacheco-celia-cruz-celia-johnny/'
+  - >-
+    https://www.udiscovermusic.com/stories/celia-and-johnny-celia-cruz-johnny-pacheco-album-feature/
+  - >-
+    https://latinjazznet.com/reviews/albums/tropical-report/celia-cruz-and-willie-colon-celia-y-willie/
 spotify_data:
   followers: 751336
   id: 2weA6hhVqTIN2gSn9PUB9U
   popularity: 63
-  url: https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U
+  url: 'https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U'
 status: active
-title: Celia Cruz, Willie Colon, & Johnny Pacheco
+title: 'Celia Cruz, Willie Colon, & Johnny Pacheco'
+birth_place: 'Havana, Cuba, United States'
+birth_date: '1925'
+artist_type: band
 ---
 
 ![](celia_cruz_willie_colon_and_johnny_pacheco.jpg)

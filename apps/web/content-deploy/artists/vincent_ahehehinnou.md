@@ -1,40 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-30T01:21:44.349428'
-birth_place: Benin
+birth_place: 'Benin, Benin, null'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:21:44.349442'
 external_urls:
-  spotify: https://open.spotify.com/artist/1EYbriX2mbaKMLdc5T77uj
+  spotify: 'https://open.spotify.com/artist/1EYbriX2mbaKMLdc5T77uj'
   wikipedia: ''
 genres:
-- afrobeat
-- highlife
+  - afrobeat
+  - highlife
 image_path: 03_Resources/source_material/ArtistPortraits/vincent_ahehehinnou.jpg
 last_updated: '2026-01-30T01:21:44.349445'
 musical_connections:
   collaborators:
-  - Orchestre Poly-Rythmo de Cotonou
-  - Ignace de Souza
+    - Orchestre Poly-Rythmo de Cotonou
+    - Ignace de Souza
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.viberate.com/artist/vincent-ahehehinnou/
-- https://www.putumayo.com/vincentahehehinnou
-- https://recentmusic.com/artist/1EYbriX2mbaKMLdc5T77uj/
-- https://www.musicismysanctuary.com/vincent-ahehehinnou-best-woman-1978-analog-africa
-- https://www.sisterfromanotherplanet.com/interview-w-vincent-ahehehinnou-from-orchestre-poly-rythmo-de-cotonou/
-- https://daily.bandcamp.com/album-of-the-day/vincent-ahehehinnou-best-woman-review
-- https://time.com/archive/6595513/and-the-band-plays-again/
-- https://www.tracklib.com/music/artists/vincent-ahehehinnou
+  - 'https://www.viberate.com/artist/vincent-ahehehinnou/'
+  - 'https://www.putumayo.com/vincentahehehinnou'
+  - 'https://recentmusic.com/artist/1EYbriX2mbaKMLdc5T77uj/'
+  - >-
+    https://www.musicismysanctuary.com/vincent-ahehehinnou-best-woman-1978-analog-africa
+  - >-
+    https://www.sisterfromanotherplanet.com/interview-w-vincent-ahehehinnou-from-orchestre-poly-rythmo-de-cotonou/
+  - >-
+    https://daily.bandcamp.com/album-of-the-day/vincent-ahehehinnou-best-woman-review
+  - 'https://time.com/archive/6595513/and-the-band-plays-again/'
+  - 'https://www.tracklib.com/music/artists/vincent-ahehehinnou'
 spotify_data:
   followers: 3113
   id: 1EYbriX2mbaKMLdc5T77uj
   popularity: 13
-  url: https://open.spotify.com/artist/1EYbriX2mbaKMLdc5T77uj
+  url: 'https://open.spotify.com/artist/1EYbriX2mbaKMLdc5T77uj'
 status: active
 title: Vincent Ahehehinnou
+birth_date: '1946-05-10'
+artist_type: person
 ---
 
 ![](vincent_ahehehinnou.jpg)

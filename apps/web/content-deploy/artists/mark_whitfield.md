@@ -2,64 +2,67 @@
 artist_type: person
 biography_enhanced_at: '2026-02-13T01:24:55.000221'
 birth_date: '1966-10-06'
-birth_place: Lindenhurst
+birth_place: 'Lindenhurst, New York, United States'
 disambiguation: American jazz guitarist
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:24:55.000227'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3911c174-873f-4b81-802a-d24df142a2bc
-  spotify: https://open.spotify.com/artist/3nB93s4nQKqqk8EWxOerDW
+  musicbrainz: 'https://musicbrainz.org/artist/3911c174-873f-4b81-802a-d24df142a2bc'
+  spotify: 'https://open.spotify.com/artist/3nB93s4nQKqqk8EWxOerDW'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- smooth jazz
-- jazz
+  - smooth jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/mark_whitfield.jpg
 instruments:
-- guitar
-- electric guitar
-- acoustic guitar
+  - guitar
+  - electric guitar
+  - acoustic guitar
 last_updated: '2026-02-13T01:24:55.000228'
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Art Blakey
-  - Herbie Hancock
-  - Ray Charles
-  - Christian McBride
-  - Sting
-  - John Mayer
-  - Steven Tyler
-  - Mary J. Blige
-  - Chaka Khan
+    - Dizzy Gillespie
+    - Art Blakey
+    - Herbie Hancock
+    - Ray Charles
+    - Christian McBride
+    - Sting
+    - John Mayer
+    - Steven Tyler
+    - Mary J. Blige
+    - Chaka Khan
   influenced:
-  - Mark Whitfield Jr.
+    - Mark Whitfield Jr.
   mentors:
-  - George Benson
-  - Jack McDuff
+    - George Benson
+    - Jack McDuff
 musicbrainz_id: 3911c174-873f-4b81-802a-d24df142a2bc
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://litchfieldjazzfest.com/2022/07/22/27th-annual-litchfield-jazz-festival-performer-spotlight-mark-whitfield/
-- https://northamptonjazzfest.org/mark-whitfield
-- https://www.markwhitfield.com/bio
-- https://thevelvetnote.com/mark-whitfield/
-- https://www.quilterlabs.com/blogs/news/artist-spotlight-mark-whitfield
-- https://www.allaboutjazz.com/musicians/mark-whitfield/
-- https://www.aaemusic.com/artist/mark-whitfield
-- https://vinylwritermusic.wordpress.com/2021/01/21/an-interview-with-mark-whitfield/
+  - >-
+    https://litchfieldjazzfest.com/2022/07/22/27th-annual-litchfield-jazz-festival-performer-spotlight-mark-whitfield/
+  - 'https://northamptonjazzfest.org/mark-whitfield'
+  - 'https://www.markwhitfield.com/bio'
+  - 'https://thevelvetnote.com/mark-whitfield/'
+  - 'https://www.quilterlabs.com/blogs/news/artist-spotlight-mark-whitfield'
+  - 'https://www.allaboutjazz.com/musicians/mark-whitfield/'
+  - 'https://www.aaemusic.com/artist/mark-whitfield'
+  - >-
+    https://vinylwritermusic.wordpress.com/2021/01/21/an-interview-with-mark-whitfield/
 spotify_data:
   followers: 6372
   id: 3nB93s4nQKqqk8EWxOerDW
   popularity: 21
-  url: https://open.spotify.com/artist/3nB93s4nQKqqk8EWxOerDW
+  url: 'https://open.spotify.com/artist/3nB93s4nQKqqk8EWxOerDW'
 status: active
 tags:
-- hard bop
-- jazz
-- soul jazz
+  - hard bop
+  - jazz
+  - soul jazz
 title: Mark Whitfield
+origin: 'New York, New York, United States'
 ---
 
 ![](mark_whitfield.jpg)

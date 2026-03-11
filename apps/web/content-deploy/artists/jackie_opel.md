@@ -1,61 +1,65 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1964'
-  end: '1970'
-  instruments:
-  - original
-  mbid: 87ac7e25-f278-47a0-b109-5eb131dc96b6
-  name: The Skatalites
+  - begin: '1964'
+    end: '1970'
+    instruments:
+      - original
+    mbid: 87ac7e25-f278-47a0-b109-5eb131dc96b6
+    name: The Skatalites
 biography_enhanced_at: '2026-01-28T01:54:44.902097'
 birth_date: '1938'
-birth_place: Bridgetown
+birth_place: 'Bridgetown, Barbados, United States'
 death_date: '1970-03-08'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:54:44.902107'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e2ac8c06-b7f4-45d5-bb5d-480c8b3c89f2
-  spotify: https://open.spotify.com/artist/4H5WEBeEt0zGNPA8bzPlJI
-  wikipedia: https://en.wikipedia.org/wiki/Jackie_Opel
+  musicbrainz: 'https://musicbrainz.org/artist/e2ac8c06-b7f4-45d5-bb5d-480c8b3c89f2'
+  spotify: 'https://open.spotify.com/artist/4H5WEBeEt0zGNPA8bzPlJI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jackie_Opel'
 gender: Male
 genres:
-- rocksteady
-- ska
-- soul jazz
+  - rocksteady
+  - ska
+  - soul jazz
 image_path: 03_Resources/source_material/ArtistPortraits/jackie_opel.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-01-28T01:54:44.902109'
 musical_connections:
   collaborators:
-  - The Skatalites
-  - Doreen Shaffer
-  - Hortense Ellis
-  - Bob Marley and Peter Tosh (The Wailers)
-  - Roland Alphonso
+    - The Skatalites
+    - Doreen Shaffer
+    - Hortense Ellis
+    - Bob Marley and Peter Tosh (The Wailers)
+    - Roland Alphonso
   influenced:
-  - Spouge genre artists
+    - Spouge genre artists
   mentors:
-  - Jackie Wilson
-  - Byron Lee
+    - Jackie Wilson
+    - Byron Lee
 musicbrainz_id: e2ac8c06-b7f4-45d5-bb5d-480c8b3c89f2
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jackie_Opel
-- https://wiredja.com/index.php/categories/newsberg/culture/barbados-jackie-opel-the-forgotten-musical-hero-of-barbados-and-jamaica
-- https://www.musicmetricsvault.com/artists/jackie-opel/4H5WEBeEt0zGNPA8bzPlJI
-- https://www.youtube.com/watch?v=ARdOTkIHPEU
-- http://thevinylword.blogspot.com/2022/03/in-search-of-spouge-and-jackie-opel.html
-- https://caribbeanoldtimemusicgcooke.wordpress.com/old-time-caribbean-artistes/jackie-opel/
-- https://music.apple.com/jm/artist/jackie-opel/2534204
+  - 'https://en.wikipedia.org/wiki/Jackie_Opel'
+  - >-
+    https://wiredja.com/index.php/categories/newsberg/culture/barbados-jackie-opel-the-forgotten-musical-hero-of-barbados-and-jamaica
+  - 'https://www.musicmetricsvault.com/artists/jackie-opel/4H5WEBeEt0zGNPA8bzPlJI'
+  - 'https://www.youtube.com/watch?v=ARdOTkIHPEU'
+  - >-
+    http://thevinylword.blogspot.com/2022/03/in-search-of-spouge-and-jackie-opel.html
+  - >-
+    https://caribbeanoldtimemusicgcooke.wordpress.com/old-time-caribbean-artistes/jackie-opel/
+  - 'https://music.apple.com/jm/artist/jackie-opel/2534204'
 spotify_data:
   followers: 6982
   id: 4H5WEBeEt0zGNPA8bzPlJI
   popularity: 23
-  url: https://open.spotify.com/artist/4H5WEBeEt0zGNPA8bzPlJI
+  url: 'https://open.spotify.com/artist/4H5WEBeEt0zGNPA8bzPlJI'
 status: active
 title: Jackie Opel
+is_active: false
 ---
 
 ![](jackie_opel.jpg)

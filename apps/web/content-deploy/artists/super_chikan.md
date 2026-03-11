@@ -2,60 +2,65 @@
 artist_type: person
 biography_enhanced_at: '2026-02-24T01:43:38.387429'
 birth_date: '1951-02-16'
-birth_place: Quitman County
+birth_place: 'Darling, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:43:38.387437'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/112ae7bd-96bc-49c0-9041-12d99017b244
-  spotify: https://open.spotify.com/artist/4OVYHrWUNZs9IB5aeWHsUE
+  musicbrainz: 'https://musicbrainz.org/artist/112ae7bd-96bc-49c0-9041-12d99017b244'
+  spotify: 'https://open.spotify.com/artist/4OVYHrWUNZs9IB5aeWHsUE'
   wikipedia: ''
 gender: Male
 genres:
-- blues
-- footwork
-- modern blues
-- blues rock
+  - blues
+  - footwork
+  - modern blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/super_chikan.jpg
 instruments:
-- guitar
-- piano
+  - guitar
+  - piano
 last_updated: '2026-02-24T01:43:38.387438'
 musical_connections:
   collaborators:
-  - Jelly Roll Kings
-  - The Fighting Cocks
-  - Bobby Rush
-  - Cedric Burnside
+    - Jelly Roll Kings
+    - The Fighting Cocks
+    - Bobby Rush
+    - Cedric Burnside
   influenced: []
   mentors:
-  - Jimmy Reed
-  - Big Jack Johnson
-  - Sam Carr
-  - Frank Frost
-  - Ellis Johnson
+    - Jimmy Reed
+    - Big Jack Johnson
+    - Sam Carr
+    - Frank Frost
+    - Ellis Johnson
 musicbrainz_id: 112ae7bd-96bc-49c0-9041-12d99017b244
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.richmondfolkfestival.org/performers-2019/2019/5/30/super-chikan-amp-the-fighting-cocks
-- https://jacksonadvocateonline.com/huck-a-buck-bluesman-james-super-chikan-johnson-a-life-in-blues/
-- https://ofoam.org/about/archives/2015-ogden-valley-roots-and-blues-festival/super-chikan
-- https://www.youtube.com/watch?v=ycNYkytnArQ
-- https://pryorcenter.uark.edu/interview.php?thisProject=King+Biscuit+Blues+Festival&thisProfileURL=JOHNSON-James&displayName=&thisInterviewee=493
-- https://www.bluesblastmagazine.com/featured-interview-super-chikan-2/
-- https://msfolkdirectory.org/james-super-chikan-johnson-2/
-- https://alifeinbluesthemovie.com/about/
+  - >-
+    https://www.richmondfolkfestival.org/performers-2019/2019/5/30/super-chikan-amp-the-fighting-cocks
+  - >-
+    https://jacksonadvocateonline.com/huck-a-buck-bluesman-james-super-chikan-johnson-a-life-in-blues/
+  - >-
+    https://ofoam.org/about/archives/2015-ogden-valley-roots-and-blues-festival/super-chikan
+  - 'https://www.youtube.com/watch?v=ycNYkytnArQ'
+  - >-
+    https://pryorcenter.uark.edu/interview.php?thisProject=King+Biscuit+Blues+Festival&thisProfileURL=JOHNSON-James&displayName=&thisInterviewee=493
+  - 'https://www.bluesblastmagazine.com/featured-interview-super-chikan-2/'
+  - 'https://msfolkdirectory.org/james-super-chikan-johnson-2/'
+  - 'https://alifeinbluesthemovie.com/about/'
 spotify_data:
   followers: 2255
   id: 4OVYHrWUNZs9IB5aeWHsUE
   popularity: 5
-  url: https://open.spotify.com/artist/4OVYHrWUNZs9IB5aeWHsUE
+  url: 'https://open.spotify.com/artist/4OVYHrWUNZs9IB5aeWHsUE'
 status: active
 tags:
-- blues
-- delta blues
-- electric blues
-title: SUPER CHIKAN
+  - blues
+  - delta blues
+  - electric blues
+title: Super Chikan
+origin: 'Clarksdale, Mississippi, United States'
 ---
 
 ![](super_chikan.jpg)

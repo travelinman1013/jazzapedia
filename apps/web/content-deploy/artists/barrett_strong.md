@@ -2,58 +2,61 @@
 artist_type: person
 biography_enhanced_at: '2026-02-03T02:06:16.341646'
 birth_date: '1941-02-05'
-birth_place: West Point
+birth_place: 'West Point, Mississippi, United States'
 death_date: '2023-01-29'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:06:16.341655'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/31ee774b-6248-48d5-a8b5-0d9bebeaba9d
-  spotify: https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD
-  wikipedia: https://en.wikipedia.org/wiki/Barrett_Strong
+  musicbrainz: 'https://musicbrainz.org/artist/31ee774b-6248-48d5-a8b5-0d9bebeaba9d'
+  spotify: 'https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barrett_Strong'
 gender: Male
 genres:
-- motown
-- northern soul
-- classic soul
+  - motown
+  - northern soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/barrett_strong.jpg
 instruments:
-- piano
-- lead vocals
+  - piano
+  - lead vocals
 last_updated: '2026-02-03T02:06:16.341657'
 musical_connections:
   collaborators:
-  - Norman Whitfield
-  - Janie Bradford
-  - Temptations
+    - Norman Whitfield
+    - Janie Bradford
+    - Temptations
   influenced:
-  - The Beatles
-  - The Rolling Stones
-  - Jerry Lee Lewis
+    - The Beatles
+    - The Rolling Stones
+    - Jerry Lee Lewis
   mentors:
-  - Berry Gordy
-  - Jackie Wilson
+    - Berry Gordy
+    - Jackie Wilson
 musicbrainz_id: 31ee774b-6248-48d5-a8b5-0d9bebeaba9d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.motownmuseum.org/artist/barrett-strong/
-- https://www.udiscovermusic.com/stories/barrett-strong-motown-profile/
-- https://www.bridgedetroit.com/motown-songwriter-barrett-strong/
-- https://kutx.org/words-on-music/npr-music/barrett-strong-one-of-motowns-founding-artists-and-known-for-money-dies-at-81/
-- https://en.wikipedia.org/wiki/Barrett_Strong
-- https://classic.motown.com/artist/barrett-strong/
-- https://blackpast.org/african-american-history/barrett-strong-1941/
+  - 'https://www.motownmuseum.org/artist/barrett-strong/'
+  - 'https://www.udiscovermusic.com/stories/barrett-strong-motown-profile/'
+  - 'https://www.bridgedetroit.com/motown-songwriter-barrett-strong/'
+  - >-
+    https://kutx.org/words-on-music/npr-music/barrett-strong-one-of-motowns-founding-artists-and-known-for-money-dies-at-81/
+  - 'https://en.wikipedia.org/wiki/Barrett_Strong'
+  - 'https://classic.motown.com/artist/barrett-strong/'
+  - 'https://blackpast.org/african-american-history/barrett-strong-1941/'
 spotify_data:
   followers: 35538
   id: 3MKwHkhEjcvzva2rasZeWD
   popularity: 43
-  url: https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD
+  url: 'https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD'
 status: active
 tags:
-- early r&b
-- motown
-- r&b
-title: BARRETT STRONG
+  - early r&b
+  - motown
+  - r&b
+title: Barrett Strong
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](barrett_strong.jpg)

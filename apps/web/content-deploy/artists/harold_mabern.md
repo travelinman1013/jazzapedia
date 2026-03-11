@@ -1,94 +1,97 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1998'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 97833500-0d8e-41de-85dd-07ee9663f2ea
-  name: George Coleman Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a1d405ef-77b2-41a2-be5b-8ab14307a1d3
-  name: Harold Mabern Trio
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: b366d594-dc8f-481a-9994-ecf7f4207e9d
-  name: Wes Montgomery Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 4bbbf6eb-a979-4b24-8b63-5d452c89115b
-  name: Wes Montgomery Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 69d62f73-cfc3-4fa6-8e04-da1988cab444
-  name: The Piano Choir
+  - begin: '1998'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 97833500-0d8e-41de-85dd-07ee9663f2ea
+    name: George Coleman Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a1d405ef-77b2-41a2-be5b-8ab14307a1d3
+    name: Harold Mabern Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: b366d594-dc8f-481a-9994-ecf7f4207e9d
+    name: Wes Montgomery Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 4bbbf6eb-a979-4b24-8b63-5d452c89115b
+    name: Wes Montgomery Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 69d62f73-cfc3-4fa6-8e04-da1988cab444
+    name: The Piano Choir
 biography_enhanced_at: '2026-02-19T01:54:05.261291'
 birth_date: '1936-03-20'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 death_date: '2019-09-17'
 disambiguation: American jazz pianist
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:54:05.261303'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b33420e0-1eba-4fa1-9d5c-3a8d8af79ee8
-  spotify: https://open.spotify.com/artist/0CHdvqcELhkUJEsftEZ965
-  wikipedia: https://en.wikipedia.org/wiki/Harold_Mabern
+  musicbrainz: 'https://musicbrainz.org/artist/b33420e0-1eba-4fa1-9d5c-3a8d8af79ee8'
+  spotify: 'https://open.spotify.com/artist/0CHdvqcELhkUJEsftEZ965'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harold_Mabern'
 gender: Male
 genres:
-- hard bop
-- jazz
-- vocal jazz
+  - hard bop
+  - jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/harold_mabern.jpg
 instruments:
-- drums (drum set)
-- piano
-- grand piano
-- electric piano
-- Rhodes piano
+  - drums (drum set)
+  - piano
+  - grand piano
+  - electric piano
+  - Rhodes piano
 last_updated: '2026-02-19T01:54:05.261305'
 musical_connections:
   collaborators:
-  - George Coleman
-  - Eric Alexander
-  - Joe Farnsworth
-  - Frank Strozier
-  - J.J. Johnson
-  - Lionel Hampton
+    - George Coleman
+    - Eric Alexander
+    - Joe Farnsworth
+    - Frank Strozier
+    - J.J. Johnson
+    - Lionel Hampton
   influenced:
-  - Eric Alexander
-  - Joe Farnsworth
+    - Eric Alexander
+    - Joe Farnsworth
   mentors:
-  - Phineas Newborn Jr.
-  - Charles Thomas
-  - Ahmad Jamal
+    - Phineas Newborn Jr.
+    - Charles Thomas
+    - Ahmad Jamal
 musicbrainz_id: b33420e0-1eba-4fa1-9d5c-3a8d8af79ee8
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Harold_Mabern
-- https://jazztimes.com/features/tributes-and-obituaries/harold-mabern-1936-2019/
-- https://livingjazzarchives.org/archives/harold-mabern-archive/
-- https://www.wbgo.org/music/2019-09-20/harold-mabern-pianist-who-mastered-post-bop-blues-and-memphis-soul-is-dead-at-83
-- https://www.local802afm.org/allegro/articles/remembering-harold-mabern/
-- https://www.cc-seas.columbia.edu/wkcr/story/harold-mabern-jazz-profiles
+  - 'https://en.wikipedia.org/wiki/Harold_Mabern'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/harold-mabern-1936-2019/
+  - 'https://livingjazzarchives.org/archives/harold-mabern-archive/'
+  - >-
+    https://www.wbgo.org/music/2019-09-20/harold-mabern-pianist-who-mastered-post-bop-blues-and-memphis-soul-is-dead-at-83
+  - 'https://www.local802afm.org/allegro/articles/remembering-harold-mabern/'
+  - 'https://www.cc-seas.columbia.edu/wkcr/story/harold-mabern-jazz-profiles'
 spotify_data:
   followers: 5416
   id: 0CHdvqcELhkUJEsftEZ965
   popularity: 22
-  url: https://open.spotify.com/artist/0CHdvqcELhkUJEsftEZ965
+  url: 'https://open.spotify.com/artist/0CHdvqcELhkUJEsftEZ965'
 status: active
 tags:
-- hard bop
-- jazz
-- post-bop
+  - hard bop
+  - jazz
+  - post-bop
 title: Harold Mabern
+is_active: false
 ---
 
 ![](harold_mabern.jpg)

@@ -1,44 +1,44 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-27T01:48:04.544360'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:48:04.544367'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ff3f5089-d391-49a8-aeaf-7472f35ec99c
-  spotify: https://open.spotify.com/artist/7vAboNuGyYSoQZ3UahTOWC
+  musicbrainz: 'https://musicbrainz.org/artist/ff3f5089-d391-49a8-aeaf-7472f35ec99c'
+  spotify: 'https://open.spotify.com/artist/7vAboNuGyYSoQZ3UahTOWC'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/chaise_lounge.jpg
 last_updated: '2026-01-27T01:48:04.544368'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cd677f63-18af-426c-9d13-3337bc0345fb
-  name: Tom Barrick
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cd677f63-18af-426c-9d13-3337bc0345fb
+    name: Tom Barrick
 musical_connections:
   collaborators:
-  - Marilyn Older
-  - Joe Jackson
-  - Jeff Gray
-  - Pete Macnamara
+    - Marilyn Older
+    - Joe Jackson
+    - Jeff Gray
+    - Pete Macnamara
   influenced: []
   mentors:
-  - Billy Pierce
-  - Andy McGhee
-  - Chris Vadala
+    - Billy Pierce
+    - Andy McGhee
+    - Chris Vadala
 musicbrainz_id: ff3f5089-d391-49a8-aeaf-7472f35ec99c
 network_extracted: true
-origin: Washington, D.C., USA
+origin: 'Washington, D.C., USA'
 primary_source: perplexity
 research_sources:
-- https://chaiseloungenation.com/meet-chaise-lounge/
-- https://dcist.com/story/11/04/01/dcist-preview-chaise-lounge-iota/
+  - 'https://chaiseloungenation.com/meet-chaise-lounge/'
+  - 'https://dcist.com/story/11/04/01/dcist-preview-chaise-lounge-iota/'
 spotify_data:
   followers: 388
   id: 7vAboNuGyYSoQZ3UahTOWC
   popularity: 12
-  url: https://open.spotify.com/artist/7vAboNuGyYSoQZ3UahTOWC
+  url: 'https://open.spotify.com/artist/7vAboNuGyYSoQZ3UahTOWC'
 status: active
 title: Chaise Lounge
 ---

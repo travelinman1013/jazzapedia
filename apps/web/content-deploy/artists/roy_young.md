@@ -1,46 +1,50 @@
 ---
 biography_enhanced_at: '2026-03-06T01:31:49.340238'
-birth_place: London, England, United Kingdom
+birth_place: 'London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:31:49.340248'
 external_urls:
-  spotify: https://open.spotify.com/artist/4pvQunQQ5wdmTbubrMmhTL
+  spotify: 'https://open.spotify.com/artist/4pvQunQQ5wdmTbubrMmhTL'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/roy_young.jpg
 last_updated: '2026-03-06T01:31:49.340249'
 musical_connections:
   collaborators:
-  - The Beatles
-  - Cliff Bennett and the Rebel Rousers
-  - Chuck Berry
-  - David Bowie
-  - Tony Sheridan
-  - Marvin Gaye
-  - Gil Askey
+    - The Beatles
+    - Cliff Bennett and the Rebel Rousers
+    - Chuck Berry
+    - David Bowie
+    - Tony Sheridan
+    - Marvin Gaye
+    - Gil Askey
   influenced:
-  - Dennis Elliott
-  - Onnie McIntyre
+    - Dennis Elliott
+    - Onnie McIntyre
   mentors:
-  - Jack Good
-  - Little Richard
-  - Willie Mitchell
+    - Jack Good
+    - Little Richard
+    - Willie Mitchell
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Roy+Young/+wiki
-- https://fromthevaults-boppinbob.blogspot.com/2021/10/roy-young-born-20-october-1934.html
-- http://www.royyoung.com/bio.html
-- https://www.the-independent.com/news/obituaries/roy-young-the-beatles-david-bowie-turned-down-britain-little-richard-musician-piano-a8337121.html
-- https://tims.blackcat.nl/messages/roy_young.htm
-- https://peel.fandom.com/wiki/Roy_Young_Band
+  - 'https://www.last.fm/music/Roy+Young/+wiki'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/10/roy-young-born-20-october-1934.html
+  - 'http://www.royyoung.com/bio.html'
+  - >-
+    https://www.the-independent.com/news/obituaries/roy-young-the-beatles-david-bowie-turned-down-britain-little-richard-musician-piano-a8337121.html
+  - 'https://tims.blackcat.nl/messages/roy_young.htm'
+  - 'https://peel.fandom.com/wiki/Roy_Young_Band'
 spotify_data:
   followers: 877
   id: 4pvQunQQ5wdmTbubrMmhTL
   popularity: 7
-  url: https://open.spotify.com/artist/4pvQunQQ5wdmTbubrMmhTL
+  url: 'https://open.spotify.com/artist/4pvQunQQ5wdmTbubrMmhTL'
 status: active
-title: roy young
+title: Roy Young
+birth_date: '1934-10-20'
+artist_type: person
 ---
 
 ![](roy_young.jpg)

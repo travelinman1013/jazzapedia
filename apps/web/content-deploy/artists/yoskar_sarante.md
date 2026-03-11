@@ -2,54 +2,56 @@
 artist_type: person
 biography_enhanced_at: '2026-02-01T01:29:41.670350'
 birth_date: '1970'
-birth_place: Dominican Republic
+birth_place: 'Villas Agrícolas, Santo Domingo, Dominican Republic'
 death_date: '2019-01-28'
 disambiguation: aka "El Prabú"
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:29:41.670356'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3ed93fc7-3413-4a54-a46a-43ab40a0b898
-  spotify: https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4
+  musicbrainz: 'https://musicbrainz.org/artist/3ed93fc7-3413-4a54-a46a-43ab40a0b898'
+  spotify: 'https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4'
   wikipedia: ''
 gender: Male
 genres:
-- bachata
-- merengue
+  - bachata
+  - merengue
 image_path: 03_Resources/source_material/ArtistPortraits/yoskar_sarante.jpg
 last_updated: '2026-02-01T01:29:41.670356'
 musical_connections:
   collaborators:
-  - Kinito Mendez
-  - Alex Bueno
-  - Kewdy de los Santos
-  - Tomás Barrera
-  - Cheche Abreu
-  - Aramis Camilo
-  - Guancho Viloria
-  - International Grupo Melao
+    - Kinito Mendez
+    - Alex Bueno
+    - Kewdy de los Santos
+    - Tomás Barrera
+    - Cheche Abreu
+    - Aramis Camilo
+    - Guancho Viloria
+    - International Grupo Melao
   influenced: []
   mentors:
-  - Domingo Sarante
+    - Domingo Sarante
 musicbrainz_id: 3ed93fc7-3413-4a54-a46a-43ab40a0b898
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://steemit.com/historia/@sergiozabala/yoskar-sarante-history-his-legacy-in-peace-descase-brother-and-friend
-- https://kids.kiddle.co/Yoskar_Sarante
-- https://rmmusicpublishing.com/roster/yoskarsarante/
-- https://recentmusic.com/artist/5VcamBo0Goh74iFQDqj6Q4/
-- https://www.viberate.com/artist/yoskar-sarante/
-- https://www.youtube.com/channel/UCQPlmzOMbAe0JKjAh-R9fkQ/about
+  - >-
+    https://steemit.com/historia/@sergiozabala/yoskar-sarante-history-his-legacy-in-peace-descase-brother-and-friend
+  - 'https://kids.kiddle.co/Yoskar_Sarante'
+  - 'https://rmmusicpublishing.com/roster/yoskarsarante/'
+  - 'https://recentmusic.com/artist/5VcamBo0Goh74iFQDqj6Q4/'
+  - 'https://www.viberate.com/artist/yoskar-sarante/'
+  - 'https://www.youtube.com/channel/UCQPlmzOMbAe0JKjAh-R9fkQ/about'
 spotify_data:
   followers: 562867
   id: 5VcamBo0Goh74iFQDqj6Q4
   popularity: 53
-  url: https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4
+  url: 'https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4'
 status: active
 tags:
-- bachata
-- latin
-title: yoskar sarante
+  - bachata
+  - latin
+title: Yoskar Sarante
+is_active: false
 ---
 
 ![](yoskar_sarante.jpg)

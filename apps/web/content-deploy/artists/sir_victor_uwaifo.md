@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-22T01:48:46.887720'
-birth_place: Benin City, Edo State, Nigeria
+birth_place: 'Benin City, Edo State, Nigeria'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:48:46.887730'
 external_urls:
-  spotify: https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU
-  wikipedia: https://en.wikipedia.org/wiki/Victor_Uwaifo
+  spotify: 'https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Victor_Uwaifo'
 genres:
-- highlife
-- afrobeat
-- fújì
-- afropop
+  - highlife
+  - afrobeat
+  - fújì
+  - afropop
 image_path: 03_Resources/source_material/ArtistPortraits/sir_victor_uwaifo.jpg
 last_updated: '2026-02-22T01:48:46.887731'
 musical_connections:
   collaborators:
-  - Melody Maestros (later Titibits)
-  - Segun Bucknor
-  - Olaiya's All Stars
+    - Melody Maestros (later Titibits)
+    - Segun Bucknor
+    - Olaiya's All Stars
   influenced:
-  - Edo State musicians
+    - Edo State musicians
   mentors:
-  - E.C. Arinze
-  - Stephen Osadebe
-  - Fred Coker
+    - E.C. Arinze
+    - Stephen Osadebe
+    - Fred Coker
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Victor_Uwaifo
-- https://www.vanguardngr.com/2021/08/all-you-need-to-know-about-late-singer-victor-uwaifo/
-- https://www.afropop.org/articles/uwaifo
-- https://www.musicinafrica.net/fr/node/11173
-- https://www.last.fm/music/Sir+Victor+Uwaifo+&+His+Melody+Maestroes/+wiki
-- https://www.allmusic.com/artist/victor-uwaifo-mn0000011904
+  - 'https://en.wikipedia.org/wiki/Victor_Uwaifo'
+  - >-
+    https://www.vanguardngr.com/2021/08/all-you-need-to-know-about-late-singer-victor-uwaifo/
+  - 'https://www.afropop.org/articles/uwaifo'
+  - 'https://www.musicinafrica.net/fr/node/11173'
+  - 'https://www.last.fm/music/Sir+Victor+Uwaifo+&+His+Melody+Maestroes/+wiki'
+  - 'https://www.allmusic.com/artist/victor-uwaifo-mn0000011904'
 spotify_data:
   followers: 23145
   id: 2hCi6vXJyyTG9szd63b4LU
   popularity: 27
-  url: https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU
+  url: 'https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU'
 status: active
 title: Sir Victor Uwaifo
+birth_date: '1941-03-01'
+artist_type: person
 ---
 
 ![](sir_victor_uwaifo.jpg)

@@ -1,60 +1,63 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1990'
-  end: '1997'
-  instruments: []
-  mbid: c4990d62-84f0-468b-9283-e248de37ced7
-  name: Four Bitchin' Babes
+  - begin: '1990'
+    end: '1997'
+    instruments: []
+    mbid: c4990d62-84f0-468b-9283-e248de37ced7
+    name: Four Bitchin' Babes
 biography_enhanced_at: '2026-02-24T01:40:51.915824'
 birth_date: '1952-01-02'
-birth_place: Westchester County, New York, USA
+birth_place: 'Westchester County, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:40:51.915835'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/03172678-72c4-423a-b3ca-4bbc7fc89d04
-  spotify: https://open.spotify.com/artist/0XJx8SvU8jJl2S3DwEXark
+  musicbrainz: 'https://musicbrainz.org/artist/03172678-72c4-423a-b3ca-4bbc7fc89d04'
+  spotify: 'https://open.spotify.com/artist/0XJx8SvU8jJl2S3DwEXark'
   wikipedia: ''
 gender: Female
 genres:
-- folk
+  - folk
 image_path: 03_Resources/source_material/ArtistPortraits/christine_lavin.jpg
 instruments:
-- guitar
-- background vocals
-- lead vocals
+  - guitar
+  - background vocals
+  - lead vocals
 last_updated: '2026-02-24T01:40:51.915838'
 musical_connections:
   collaborators:
-  - Cliff Eberhardt
-  - Patty Larkin
-  - Cheryl Wheeler
+    - Cliff Eberhardt
+    - Patty Larkin
+    - Cheryl Wheeler
   influenced:
-  - Betty Buckley
-  - Sutton Foster
-  - Nanci Griffith
+    - Betty Buckley
+    - Sutton Foster
+    - Nanci Griffith
   mentors:
-  - Dave Van Ronk
-  - Laura Weber
+    - Dave Van Ronk
+    - Laura Weber
 musicbrainz_id: 03172678-72c4-423a-b3ca-4bbc7fc89d04
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://rochestermusic.org/inductees/class-of-2019/christine-lavin/
-- https://www.passim.org/artists/christine-lavin/
-- https://christinelavin.com/about/
-- https://www.jango.com/music/Christine+Lavin/_full_bio
-- https://everythingsundry.com/2021/03/31/retro-quick-q-and-a-with-christine-lavin/
-- http://tamulevich.com/wp-content/uploads/christine/christine.lavin.bio.2015.pdf
+  - 'https://rochestermusic.org/inductees/class-of-2019/christine-lavin/'
+  - 'https://www.passim.org/artists/christine-lavin/'
+  - 'https://christinelavin.com/about/'
+  - 'https://www.jango.com/music/Christine+Lavin/_full_bio'
+  - >-
+    https://everythingsundry.com/2021/03/31/retro-quick-q-and-a-with-christine-lavin/
+  - >-
+    http://tamulevich.com/wp-content/uploads/christine/christine.lavin.bio.2015.pdf
 spotify_data:
   followers: 4114
   id: 0XJx8SvU8jJl2S3DwEXark
   popularity: 10
-  url: https://open.spotify.com/artist/0XJx8SvU8jJl2S3DwEXark
+  url: 'https://open.spotify.com/artist/0XJx8SvU8jJl2S3DwEXark'
 status: active
 tags:
-- folk
+  - folk
 title: Christine Lavin
+origin: 'New York City, New York, USA'
 ---
 
 ![](christine_lavin.jpg)

@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-03-03T01:32:55.525924'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:32:55.525936'
 external_urls:
-  spotify: https://open.spotify.com/artist/0XpG3SoQn3TM0Okdwz4tU4
+  spotify: 'https://open.spotify.com/artist/0XpG3SoQn3TM0Okdwz4tU4'
   wikipedia: ''
 genres:
-- southern gothic
+  - southern gothic
 image_path: 03_Resources/source_material/ArtistPortraits/don_hollinger.jpg
 last_updated: '2026-03-03T01:32:55.525938'
 musical_connections:
@@ -16,15 +16,16 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://education.ufl.edu/etc/files/2017/07/et07.pdf
-- https://thesoutherngothicmusic.com/bio
+  - 'https://education.ufl.edu/etc/files/2017/07/et07.pdf'
+  - 'https://thesoutherngothicmusic.com/bio'
 spotify_data:
   followers: 72
   id: 0XpG3SoQn3TM0Okdwz4tU4
   popularity: 0
-  url: https://open.spotify.com/artist/0XpG3SoQn3TM0Okdwz4tU4
+  url: 'https://open.spotify.com/artist/0XpG3SoQn3TM0Okdwz4tU4'
 status: active
-title: DON HOLLINGER
+title: Don Hollinger
+artist_type: person
 ---
 
 ![](don_hollinger.jpg)

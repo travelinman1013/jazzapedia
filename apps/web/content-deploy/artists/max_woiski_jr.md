@@ -2,47 +2,48 @@
 artist_type: person
 biography_enhanced_at: '2026-02-18T01:36:10.728209'
 birth_date: '1930-05-13'
-birth_place: Paramaribo
+birth_place: 'Paramaribo, Suriname'
 death_date: '2011-03-23'
 enhancement_provider: perplexity
 entry_created: '2026-02-18T01:36:10.728248'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/58134959-3bff-477f-9a6a-6994a0fc5823
-  spotify: https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF
-  wikipedia: https://nl.wikipedia.org/wiki/Max_Woiski_sr.
+  musicbrainz: 'https://musicbrainz.org/artist/58134959-3bff-477f-9a6a-6994a0fc5823'
+  spotify: 'https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF'
+  wikipedia: 'https://nl.wikipedia.org/wiki/Max_Woiski_sr.'
 gender: Male
 genres:
-- hollands
-- nederpop
+  - hollands
+  - nederpop
 image_path: 03_Resources/source_material/ArtistPortraits/max_woiski_jr.jpg
 last_updated: '2026-02-18T01:36:10.728251'
 musical_connections:
   collaborators:
-  - Steve Boston
-  - Johnny de Miranda
+    - Steve Boston
+    - Johnny de Miranda
   influenced:
-  - Ciska Peters
-  - Edwin Rutten
-  - Lils Mackintosh
+    - Ciska Peters
+    - Edwin Rutten
+    - Lils Mackintosh
   mentors:
-  - Max Woiski Sr.
+    - Max Woiski Sr.
 musicbrainz_id: 58134959-3bff-477f-9a6a-6994a0fc5823
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://historiek.net/zanger-max-woiski-jr-80-overleden/10911/
-- https://en.wikipedia.org/wiki/Max_Woiski_Sr.
-- https://nl.wikipedia.org/wiki/Max_Woiski_sr.
-- https://www.youtube.com/watch?v=OcoH0uyovbc
-- https://www.youtube.com/watch?v=mowEOy4sabA
-- http://kesteloo.net/index.php?route=product%2Fproduct&product_id=15843
+  - 'https://historiek.net/zanger-max-woiski-jr-80-overleden/10911/'
+  - 'https://en.wikipedia.org/wiki/Max_Woiski_Sr.'
+  - 'https://nl.wikipedia.org/wiki/Max_Woiski_sr.'
+  - 'https://www.youtube.com/watch?v=OcoH0uyovbc'
+  - 'https://www.youtube.com/watch?v=mowEOy4sabA'
+  - 'http://kesteloo.net/index.php?route=product%2Fproduct&product_id=15843'
 spotify_data:
   followers: 427
   id: 5S2Y2OyMuLYbua54iv2QNF
   popularity: 6
-  url: https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF
+  url: 'https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF'
 status: active
-title: MAX WOISKI JR.
+title: Max Woiski Jr.
+is_active: false
 ---
 
 ![](max_woiski_jr.jpg)

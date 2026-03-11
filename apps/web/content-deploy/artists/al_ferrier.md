@@ -1,63 +1,65 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 532395ef-5cb6-47d0-a368-74c4ff972d28
-  name: Al Ferrier & His Boppin’ Billies
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 06383e3b-1385-452d-86d2-272edb5e6f91
-  name: Al Ferrier & His New Boppin' Billies
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 532395ef-5cb6-47d0-a368-74c4ff972d28
+    name: Al Ferrier & His Boppin’ Billies
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 06383e3b-1385-452d-86d2-272edb5e6f91
+    name: Al Ferrier & His New Boppin' Billies
 biography_enhanced_at: '2026-02-21T01:36:11.201140'
 birth_date: '1935-08-19'
-birth_place: Louisiana
+birth_place: 'Olla, Louisiana, United States'
 death_date: '2015-01-06'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:36:11.201156'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/48be7fe0-be60-447a-925f-fd3bb45f9b10
-  spotify: https://open.spotify.com/artist/1M0Okrc5E3pT0kXN89PcNU
-  wikipedia: https://en.wikipedia.org/wiki/Al_Ferrier
+  musicbrainz: 'https://musicbrainz.org/artist/48be7fe0-be60-447a-925f-fd3bb45f9b10'
+  spotify: 'https://open.spotify.com/artist/1M0Okrc5E3pT0kXN89PcNU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Al_Ferrier'
 gender: Male
 genres:
-- rockabilly
-- cajun
-- psychobilly
+  - rockabilly
+  - cajun
+  - psychobilly
 image_path: 03_Resources/source_material/ArtistPortraits/al_ferrier.jpg
 last_updated: '2026-02-21T01:36:11.201160'
 musical_connections:
   collaborators:
-  - Brian Ferrier
-  - Warren Ferrier
-  - Katie Webster
-  - Warren Storm
-  - Louisiana Swamp Cats
+    - Brian Ferrier
+    - Warren Ferrier
+    - Katie Webster
+    - Warren Storm
+    - Louisiana Swamp Cats
   influenced: []
   mentors:
-  - Hank Williams, Sr.
-  - Eddie Shuler
-  - J.D. (Jay) Miller
+    - 'Hank Williams, Sr.'
+    - Eddie Shuler
+    - J.D. (Jay) Miller
 musicbrainz_id: 48be7fe0-be60-447a-925f-fd3bb45f9b10
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://peel.fandom.com/wiki/Al_Ferrier
-- https://flattownmusic.com/artist/al-ferrier/
-- https://fromthevaults-boppinbob.blogspot.com/2025/08/al-ferrier-born-19-august-1935.html
-- https://en.wikipedia.org/wiki/Al_Ferrier
-- https://ladigitalmedia.org/video_v2/asset-detail/LFOLK-505-03_Ferrier
+  - 'https://peel.fandom.com/wiki/Al_Ferrier'
+  - 'https://flattownmusic.com/artist/al-ferrier/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/08/al-ferrier-born-19-august-1935.html
+  - 'https://en.wikipedia.org/wiki/Al_Ferrier'
+  - 'https://ladigitalmedia.org/video_v2/asset-detail/LFOLK-505-03_Ferrier'
 spotify_data:
   followers: 1731
   id: 1M0Okrc5E3pT0kXN89PcNU
   popularity: 8
-  url: https://open.spotify.com/artist/1M0Okrc5E3pT0kXN89PcNU
+  url: 'https://open.spotify.com/artist/1M0Okrc5E3pT0kXN89PcNU'
 status: active
 tags:
-- rockabilly
-title: al ferrier
+  - rockabilly
+title: Al Ferrier
+is_active: false
 ---
 
 ![](al_ferrier.jpg)

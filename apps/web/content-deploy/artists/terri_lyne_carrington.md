@@ -1,87 +1,88 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 7765c5a1-ca9c-4a4c-adda-a6841d3f5d09
-  name: Jazz Soul Seven
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - eponymous
-  - original
-  mbid: 9834cbe2-4612-4122-836f-75825f29ae8d
-  name: Murray, Allen & Carrington Power Trio
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 2f374fe8-8942-4d81-a5ac-92f76407993d
-  name: Future 2 Future
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 7765c5a1-ca9c-4a4c-adda-a6841d3f5d09
+    name: Jazz Soul Seven
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - original
+    mbid: 9834cbe2-4612-4122-836f-75825f29ae8d
+    name: 'Murray, Allen & Carrington Power Trio'
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 2f374fe8-8942-4d81-a5ac-92f76407993d
+    name: Future 2 Future
 biography_enhanced_at: '2026-01-27T01:48:19.388986'
 birth_date: '1965-08-04'
-birth_place: Massachusetts
+birth_place: 'Medford, Massachusetts, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:48:19.388996'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7062af1b-b491-40a2-9d82-77dd63a33dcb
-  spotify: https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP
-  wikipedia: https://en.wikipedia.org/wiki/Terri_Lyne_Carrington
+  musicbrainz: 'https://musicbrainz.org/artist/7062af1b-b491-40a2-9d82-77dd63a33dcb'
+  spotify: 'https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Terri_Lyne_Carrington'
 gender: Female
 genres:
-- jazz
-- vocal jazz
+  - jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/terri_lyne_carrington.jpg
 instruments:
-- original
-- drums (drum set)
-- eponymous
-- background vocals
-- spoken vocals
+  - original
+  - drums (drum set)
+  - eponymous
+  - background vocals
+  - spoken vocals
 last_updated: '2026-01-27T01:48:19.388998'
 musical_connections:
   collaborators:
-  - Clark Terry
-  - Quincy Jones
-  - Wayne Shorter
-  - Herbie Hancock
-  - Joe Sample
-  - Al Jarreau
-  - Carlos Santana
+    - Clark Terry
+    - Quincy Jones
+    - Wayne Shorter
+    - Herbie Hancock
+    - Joe Sample
+    - Al Jarreau
+    - Carlos Santana
   influenced:
-  - Students at Berklee Institute of Jazz and Gender Justice
+    - Students at Berklee Institute of Jazz and Gender Justice
   mentors:
-  - Clark Terry
-  - Alan Dawson
-  - Keith Copeland
-  - Jack DeJohnette
-  - Roy Haynes
-  - Wayne Shorter
-  - Dizzy Gillespie
+    - Clark Terry
+    - Alan Dawson
+    - Keith Copeland
+    - Jack DeJohnette
+    - Roy Haynes
+    - Wayne Shorter
+    - Dizzy Gillespie
 musicbrainz_id: 7062af1b-b491-40a2-9d82-77dd63a33dcb
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/terri-lyne-carrington
-- https://www.yamaha.com/artists/terrilynecarrington.html
-- https://pas.org/terri-lyne-carrington/
-- https://www.thehistorymakers.org/biography/terri-lyne-carrington
-- https://jazztimes.com/features/profiles/terri-lyne-carrington-sophisticated-lady/
-- https://berkleepress.com/berklee-authors/terri-lyne-carrington/
-- https://en.wikipedia.org/wiki/Terri_Lyne_Carrington
+  - 'https://www.arts.gov/honors/jazz/terri-lyne-carrington'
+  - 'https://www.yamaha.com/artists/terrilynecarrington.html'
+  - 'https://pas.org/terri-lyne-carrington/'
+  - 'https://www.thehistorymakers.org/biography/terri-lyne-carrington'
+  - >-
+    https://jazztimes.com/features/profiles/terri-lyne-carrington-sophisticated-lady/
+  - 'https://berkleepress.com/berklee-authors/terri-lyne-carrington/'
+  - 'https://en.wikipedia.org/wiki/Terri_Lyne_Carrington'
 spotify_data:
   followers: 16988
   id: 02HpkiuAylAwAnQBswaXlP
   popularity: 31
-  url: https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP
+  url: 'https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP'
 status: active
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
+  - contemporary jazz
+  - jazz
+  - jazz fusion
 title: Terri Lyne Carrington
 ---
 

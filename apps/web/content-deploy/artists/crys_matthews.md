@@ -1,46 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-23T03:01:56.461884'
-birth_place: Richlands, North Carolina, USA
+birth_place: 'Richlands, North Carolina, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:01:56.461894'
 external_urls:
-  spotify: https://open.spotify.com/artist/4amdI0ryPLlEzWrxW7B2RC
+  spotify: 'https://open.spotify.com/artist/4amdI0ryPLlEzWrxW7B2RC'
   wikipedia: ''
 genres:
-- americana
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/crys_matthews.jpg
 last_updated: '2026-02-23T03:01:56.461896'
 musical_connections:
   collaborators:
-  - Levi Lowry
-  - Mark Williams
-  - Heather Mae
-  - Kyshona
-  - Melody Walker
-  - Chris Housman
-  - Ben Tufts
-  - Graham Drew
-  - Wes Lanich
+    - Levi Lowry
+    - Mark Williams
+    - Heather Mae
+    - Kyshona
+    - Melody Walker
+    - Chris Housman
+    - Ben Tufts
+    - Graham Drew
+    - Wes Lanich
   influenced: []
   mentors:
-  - Dr. Martin Luther King Jr.
+    - Dr. Martin Luther King Jr.
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://everythingsundry.com/2022/07/20/meet-crys-matthews/
-- http://www.wiscassetnewspaper.com/article/bh-opera-house-singer-songwriter-crys-matthews/261991
-- https://www.crysmatthews.com/about
-- https://www.arts.gov/stories/podcast/crys-matthews
-- https://norcalpublicmedia.org/art-of-the-song/singer-songwriter-music-educator-crys-matthews-on-art-of-the-song-thursday-at-11pm
-- https://thebluegrasssituation.com/read/crys-matthews-driving-out-hate-with-love/
-- https://wpln.org/post/episodes/profile-singer-songwriter-crys-matthews/
+  - 'https://everythingsundry.com/2022/07/20/meet-crys-matthews/'
+  - >-
+    http://www.wiscassetnewspaper.com/article/bh-opera-house-singer-songwriter-crys-matthews/261991
+  - 'https://www.crysmatthews.com/about'
+  - 'https://www.arts.gov/stories/podcast/crys-matthews'
+  - >-
+    https://norcalpublicmedia.org/art-of-the-song/singer-songwriter-music-educator-crys-matthews-on-art-of-the-song-thursday-at-11pm
+  - >-
+    https://thebluegrasssituation.com/read/crys-matthews-driving-out-hate-with-love/
+  - 'https://wpln.org/post/episodes/profile-singer-songwriter-crys-matthews/'
 spotify_data:
   followers: 4462
   id: 4amdI0ryPLlEzWrxW7B2RC
   popularity: 13
-  url: https://open.spotify.com/artist/4amdI0ryPLlEzWrxW7B2RC
+  url: 'https://open.spotify.com/artist/4amdI0ryPLlEzWrxW7B2RC'
 status: active
 title: Crys Matthews
+artist_type: person
 ---
 
 ![](crys_matthews.jpg)

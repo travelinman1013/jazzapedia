@@ -1,43 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-13T01:25:09.849390'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:25:09.849401'
 external_urls:
-  spotify: https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer
+  spotify: 'https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
-- brass band
-image_path: 03_Resources/source_material/ArtistPortraits/big_chief_juan_pardo_golden_comanche.jpg
+  - cajun
+  - zydeco
+  - brass band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/big_chief_juan_pardo_golden_comanche.jpg
 last_updated: '2026-02-13T01:25:09.849402'
 musical_connections:
   collaborators:
-  - Maxim Samarov
-  - Galactic
-  - New Orleans Suspects
-  - 101 Runners
-  - Lillian Aguinaga
+    - Maxim Samarov
+    - Galactic
+    - New Orleans Suspects
+    - 101 Runners
+    - Lillian Aguinaga
   influenced: []
   mentors:
-  - Eugene “Pepe” Esteban
-  - Wallace Pardo
+    - Eugene “Pepe” Esteban
+    - Wallace Pardo
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://ellanola.org/ellanotes/big-chief-juan-pardo-born-into-the-tradition-and-bringing-it-forward
-- https://astudiointhewoods.org/artist/juan-pardo/
-- https://www.youtube.com/watch?v=jO1Fn3HiWvc
-- https://ragman.org/tribal-gold
-- https://www.neworleans.com/listing/tribal-gold-ft-big-chief-juan-pardo/46632/
+  - >-
+    https://ellanola.org/ellanotes/big-chief-juan-pardo-born-into-the-tradition-and-bringing-it-forward
+  - 'https://astudiointhewoods.org/artist/juan-pardo/'
+  - 'https://www.youtube.com/watch?v=jO1Fn3HiWvc'
+  - 'https://ragman.org/tribal-gold'
+  - >-
+    https://www.neworleans.com/listing/tribal-gold-ft-big-chief-juan-pardo/46632/
 spotify_data:
   followers: 2367
   id: 6dEA9IhHWUof5HKLeYRGer
   popularity: 13
-  url: https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer
+  url: 'https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer'
 status: active
-title: big chief juan pardo, golden comanche
+title: 'Big Chief Juan Pardo, Golden Comanche'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](big_chief_juan_pardo_golden_comanche.jpg)

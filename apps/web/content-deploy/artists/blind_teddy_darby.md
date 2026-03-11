@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-03-03T01:33:13.616737'
-birth_place: Henderson, Kentucky, United States
+birth_place: 'Henderson, Kentucky, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:33:13.616746'
 external_urls:
-  spotify: https://open.spotify.com/artist/2anyFdQmsiB0fp843OUc9T
-  wikipedia: https://en.wikipedia.org/wiki/Teddy_Darby
+  spotify: 'https://open.spotify.com/artist/2anyFdQmsiB0fp843OUc9T'
+  wikipedia: 'https://en.wikipedia.org/wiki/Teddy_Darby'
 genres:
-- country blues
-- ragtime
-- blues
+  - country blues
+  - ragtime
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/blind_teddy_darby.jpg
 last_updated: '2026-03-03T01:33:13.616748'
 musical_connections:
   collaborators:
-  - Peetie Wheatstraw
+    - Peetie Wheatstraw
   influenced:
-  - John Miller
-  - Roy Book Binder
-  - Howard Bursen
-  - Phil Heywood
+    - John Miller
+    - Roy Book Binder
+    - Howard Bursen
+    - Phil Heywood
   mentors:
-  - Jesse Riley (Mother)
+    - Jesse Riley (Mother)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Teddy_Darby
-- https://kids.kiddle.co/Teddy_Darby
-- https://sentirelblues.blogspot.com/2019/04/blind-teddy-darby.html
-- https://1937flood.substack.com/p/i-never-cried-til-my-baby-got-on
-- https://sundayblues.org/wp-content/uploads/2021/07/Blues-World-31-ocr-3-4.pdf
+  - 'https://en.wikipedia.org/wiki/Teddy_Darby'
+  - 'https://kids.kiddle.co/Teddy_Darby'
+  - 'https://sentirelblues.blogspot.com/2019/04/blind-teddy-darby.html'
+  - 'https://1937flood.substack.com/p/i-never-cried-til-my-baby-got-on'
+  - >-
+    https://sundayblues.org/wp-content/uploads/2021/07/Blues-World-31-ocr-3-4.pdf
 spotify_data:
   followers: 313
   id: 2anyFdQmsiB0fp843OUc9T
   popularity: 0
-  url: https://open.spotify.com/artist/2anyFdQmsiB0fp843OUc9T
+  url: 'https://open.spotify.com/artist/2anyFdQmsiB0fp843OUc9T'
 status: active
-title: BLIND TEDDY DARBY
+title: Blind Teddy Darby
+birth_date: '1906-03-02'
+artist_type: person
 ---
 
 ![](blind_teddy_darby.jpg)

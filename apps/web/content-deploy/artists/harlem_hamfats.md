@@ -3,41 +3,43 @@ biography_enhanced_at: '2026-02-20T01:23:21.707568'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:23:21.707576'
 external_urls:
-  spotify: https://open.spotify.com/artist/7DoOkp29czR1xjPtxHiaZo
-  wikipedia: https://en.wikipedia.org/wiki/Harlem_Hamfats
+  spotify: 'https://open.spotify.com/artist/7DoOkp29czR1xjPtxHiaZo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harlem_Hamfats'
 genres:
-- swing music
-- ragtime
-- electro swing
+  - swing music
+  - ragtime
+  - electro swing
 image_path: 03_Resources/source_material/ArtistPortraits/harlem_hamfats.jpg
 last_updated: '2026-02-20T01:23:21.707577'
 musical_connections:
   collaborators:
-  - Rosetta Howard
-  - Johnny Temple
-  - Frankie Jaxon
-  - Herb Morand
-  - Joe McCoy
-  - Buster Bailey
+    - Rosetta Howard
+    - Johnny Temple
+    - Frankie Jaxon
+    - Herb Morand
+    - Joe McCoy
+    - Buster Bailey
   influenced:
-  - Louis Jordan
-  - Rhythm and Blues artists
-  - Rock and Roll musicians
+    - Louis Jordan
+    - Rhythm and Blues artists
+    - Rock and Roll musicians
   mentors: []
 network_extracted: true
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Harlem_Hamfats
-- https://sentirelblues.blogspot.com/2016/07/the-harlem-hamfats.html
-- https://www.musicmetricsvault.com/artists/harlem-hamfats/7DoOkp29czR1xjPtxHiaZo
+  - 'https://en.wikipedia.org/wiki/Harlem_Hamfats'
+  - 'https://sentirelblues.blogspot.com/2016/07/the-harlem-hamfats.html'
+  - >-
+    https://www.musicmetricsvault.com/artists/harlem-hamfats/7DoOkp29czR1xjPtxHiaZo
 spotify_data:
   followers: 2594
   id: 7DoOkp29czR1xjPtxHiaZo
   popularity: 12
-  url: https://open.spotify.com/artist/7DoOkp29czR1xjPtxHiaZo
+  url: 'https://open.spotify.com/artist/7DoOkp29czR1xjPtxHiaZo'
 status: active
-title: harlem hamfats
+title: Harlem Hamfats
+artist_type: person
 ---
 
 ![](harlem_hamfats.jpg)

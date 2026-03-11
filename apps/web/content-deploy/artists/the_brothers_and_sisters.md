@@ -3,31 +3,34 @@ biography_enhanced_at: '2026-02-10T01:47:26.647233'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:47:26.647243'
 external_urls:
-  spotify: https://open.spotify.com/artist/0GQ7agtox5Vp1xqiaCcOgr
+  spotify: 'https://open.spotify.com/artist/0GQ7agtox5Vp1xqiaCcOgr'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_brothers_and_sisters.jpg
 last_updated: '2026-02-10T01:47:26.647244'
 musical_connections:
   collaborators:
-  - Lilly Courtney
+    - Lilly Courtney
   influenced: []
   mentors:
-  - Cynthia Clawson
-  - Ragan Courtney
+    - Cynthia Clawson
+    - Ragan Courtney
 network_extracted: true
-origin: Austin, Texas, USA (band formation)
+origin: 'Austin, Texas, USA (band formation)'
 primary_source: perplexity
 research_sources:
-- https://sixsongs.blogspot.com/2013/09/brothers-sisters-brothers-and-sisters.html
-- https://www.austinchronicle.com/music/brothers-and-sisters-reviewed-11741452/
+  - >-
+    https://sixsongs.blogspot.com/2013/09/brothers-sisters-brothers-and-sisters.html
+  - >-
+    https://www.austinchronicle.com/music/brothers-and-sisters-reviewed-11741452/
 spotify_data:
   followers: 2235
   id: 0GQ7agtox5Vp1xqiaCcOgr
   popularity: 22
-  url: https://open.spotify.com/artist/0GQ7agtox5Vp1xqiaCcOgr
+  url: 'https://open.spotify.com/artist/0GQ7agtox5Vp1xqiaCcOgr'
 status: active
 title: The Brothers & Sisters
+artist_type: band
 ---
 
 ![](the_brothers_and_sisters.jpg)

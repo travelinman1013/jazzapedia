@@ -1,92 +1,95 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bb8ee0e0-90c1-4c0d-9ebb-174556e68dc5
-  name: The Molly Tuttle Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d8d91c87-b514-4596-8017-29e5ffd12f83
-  name: The Goodbye Girls
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 88d0832d-9e62-4ffd-b195-db7c49f4f401
-  name: '♀♀♀♀: The Collaboration'
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6c771169-ea82-4272-a21d-f6ec0847f25d
-  name: The Tuttles
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: a8f1e5ff-c0d3-4bbe-9287-fc8a0d01b5a0
-  name: First Ladies of Bluegrass
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bb8ee0e0-90c1-4c0d-9ebb-174556e68dc5
+    name: The Molly Tuttle Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d8d91c87-b514-4596-8017-29e5ffd12f83
+    name: The Goodbye Girls
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 88d0832d-9e62-4ffd-b195-db7c49f4f401
+    name: '♀♀♀♀: The Collaboration'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6c771169-ea82-4272-a21d-f6ec0847f25d
+    name: The Tuttles
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: a8f1e5ff-c0d3-4bbe-9287-fc8a0d01b5a0
+    name: First Ladies of Bluegrass
 biography_enhanced_at: '2026-02-09T01:20:38.534909'
 birth_date: '1993-01-14'
-birth_place: Palo Alto
+birth_place: 'Santa Clara, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:20:38.534921'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/968fb129-2c95-4fd5-b195-86552ba45c94
-  spotify: https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE
-  wikipedia: https://en.wikipedia.org/wiki/Molly_Tuttle
+  musicbrainz: 'https://musicbrainz.org/artist/968fb129-2c95-4fd5-b195-86552ba45c94'
+  spotify: 'https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Molly_Tuttle'
 gender: Female
 genres:
-- bluegrass
-- newgrass
-- americana
+  - bluegrass
+  - newgrass
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/molly_tuttle.jpg
 instruments:
-- guitar
-- acoustic guitar
-- lead vocals
-- background vocals
-- vocal
+  - guitar
+  - acoustic guitar
+  - lead vocals
+  - background vocals
+  - vocal
 last_updated: '2026-02-09T01:20:38.534923'
 musical_connections:
   collaborators:
-  - AJ Lee
-  - Sullivan Tuttle
-  - Michael Tuttle
-  - Golden Highway (Shelby Means, Kyle Tuttle, Bronwyn Keith-Hynes, Dominick Leslie)
-  - Alison Brown, Missy Raines, Sierra Hull, Becky Buller
-  - Jerry Douglas
+    - AJ Lee
+    - Sullivan Tuttle
+    - Michael Tuttle
+    - >-
+      Golden Highway (Shelby Means, Kyle Tuttle, Bronwyn Keith-Hynes, Dominick
+      Leslie)
+    - 'Alison Brown, Missy Raines, Sierra Hull, Becky Buller'
+    - Jerry Douglas
   influenced:
-  - AJ Lee
+    - AJ Lee
   mentors:
-  - Jack Tuttle
-  - Laurie Lewis
-  - Kathy Kallick
-  - Alison Krauss
-  - Hazel Dickens
+    - Jack Tuttle
+    - Laurie Lewis
+    - Kathy Kallick
+    - Alison Krauss
+    - Hazel Dickens
 musicbrainz_id: 968fb129-2c95-4fd5-b195-86552ba45c94
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Molly_Tuttle
-- https://cmagazine.org/2023/04/18/the-era-of-molly-tuttle/
-- https://www.opry.com/artists/molly-tuttle
-- https://mountainjamfestival.com/artist/molly-tuttle-golden-highway
-- https://www.mollytuttlemusic.com/bio
-- https://www.therealeasyed.com/molly-tuttle-from-her-tweens-to-her-twenties/
-- https://rhythmandroots.com/artists/molly-tuttle/
+  - 'https://en.wikipedia.org/wiki/Molly_Tuttle'
+  - 'https://cmagazine.org/2023/04/18/the-era-of-molly-tuttle/'
+  - 'https://www.opry.com/artists/molly-tuttle'
+  - 'https://mountainjamfestival.com/artist/molly-tuttle-golden-highway'
+  - 'https://www.mollytuttlemusic.com/bio'
+  - 'https://www.therealeasyed.com/molly-tuttle-from-her-tweens-to-her-twenties/'
+  - 'https://rhythmandroots.com/artists/molly-tuttle/'
 spotify_data:
   followers: 118658
   id: 4LX0KCPnH7gvxEbVXqXmAE
   popularity: 46
-  url: https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE
+  url: 'https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE'
 status: active
 tags:
-- americana
-- bluegrass
-- progressive bluegrass
+  - americana
+  - bluegrass
+  - progressive bluegrass
 title: Molly Tuttle
+origin: 'Palo Alto, California, United States'
 ---
 
 ![](molly_tuttle.jpg)

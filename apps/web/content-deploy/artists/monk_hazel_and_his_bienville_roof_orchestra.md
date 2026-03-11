@@ -1,59 +1,62 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-29T02:01:59.385530'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:01:59.385540'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/36f2a8b9-a034-4f45-aea8-6f2c77804373
-  spotify: https://open.spotify.com/artist/4qYOjRDjdl28TMU5q6aqlC
+  musicbrainz: 'https://musicbrainz.org/artist/36f2a8b9-a034-4f45-aea8-6f2c77804373'
+  spotify: 'https://open.spotify.com/artist/4qYOjRDjdl28TMU5q6aqlC'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: ''
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-01-29T02:01:59.385541'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 79720629-a5f8-4385-9f62-c492bd0079fd
-  name: Monk Hazel
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 79720629-a5f8-4385-9f62-c492bd0079fd
+    name: Monk Hazel
 musical_connections:
   collaborators:
-  - Sharkey Bonano
-  - Sidney Arodin
-  - Pete Fountain
-  - Al Hirt
-  - Abbie Brunies
-  - Tony Parenti
-  - Gene Austin
+    - Sharkey Bonano
+    - Sidney Arodin
+    - Pete Fountain
+    - Al Hirt
+    - Abbie Brunies
+    - Tony Parenti
+    - Gene Austin
   influenced: []
   mentors:
-  - Emmett Hardy
-  - Hazel's father
+    - Emmett Hardy
+    - Hazel's father
 musicbrainz_id: 36f2a8b9-a034-4f45-aea8-6f2c77804373
 network_extracted: true
-origin: Harvey, Louisiana, USA
+origin: 'Harvey, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/arthur-monk-hazel/
-- https://syncopatedtimes.com/monk-hazel-and-his-bienville-roof-orchestra/
-- https://garry-dashner.tripod.com/arthurmonkhazel/index.html
-- https://adp.library.ucsb.edu/names/109708
-- https://www.youtube.com/watch?v=KIx3pv--2ac
-- https://snoozerquinn.com/stories/monk-hazel/
-- https://www.foxsoundi.com/artist/36536259/monk-hazel-bienville-roof-orchestra
+  - 'https://musicrising.tulane.edu/discover/people/arthur-monk-hazel/'
+  - 'https://syncopatedtimes.com/monk-hazel-and-his-bienville-roof-orchestra/'
+  - 'https://garry-dashner.tripod.com/arthurmonkhazel/index.html'
+  - 'https://adp.library.ucsb.edu/names/109708'
+  - 'https://www.youtube.com/watch?v=KIx3pv--2ac'
+  - 'https://snoozerquinn.com/stories/monk-hazel/'
+  - >-
+    https://www.foxsoundi.com/artist/36536259/monk-hazel-bienville-roof-orchestra
 spotify_data:
   followers: 22
   id: 4qYOjRDjdl28TMU5q6aqlC
   popularity: 1
-  url: https://open.spotify.com/artist/4qYOjRDjdl28TMU5q6aqlC
+  url: 'https://open.spotify.com/artist/4qYOjRDjdl28TMU5q6aqlC'
 status: active
 tags:
-- jazz
-title: MONK HAZEL AND HIS BIENVILLE ROOF ORCHESTRA
+  - jazz
+title: Monk Hazel and His Bienville Roof Orchestra
+birth_place: 'Harvey, Louisiana, United States'
+birth_date: '1903-08-15'
 ---
 
 ![]()

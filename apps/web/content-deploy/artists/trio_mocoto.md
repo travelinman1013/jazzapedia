@@ -3,42 +3,44 @@ biography_enhanced_at: '2026-03-01T01:59:13.073038'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T01:59:13.073044'
 external_urls:
-  spotify: https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP
-  wikipedia: https://en.wikipedia.org/wiki/Trio_Mocot%C3%B3
+  spotify: 'https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trio_Mocot%C3%B3'
 genres:
-- samba
-- brazilian jazz
-- bossa nova
+  - samba
+  - brazilian jazz
+  - bossa nova
 image_path: 03_Resources/source_material/ArtistPortraits/trio_mocoto.jpg
 last_updated: '2026-03-01T01:59:13.073045'
 musical_connections:
   collaborators:
-  - Jorge Ben
-  - Skowa
-  - João Parahyba
-  - Nereu Gargalo
-  - Fritz Escovão
+    - Jorge Ben
+    - Skowa
+    - João Parahyba
+    - Nereu Gargalo
+    - Fritz Escovão
   influenced:
-  - Tim Maia
+    - Tim Maia
   mentors:
-  - Clementina de Jesus
-  - Dizzy Gillespie
+    - Clementina de Jesus
+    - Dizzy Gillespie
 network_extracted: true
-origin: São Paulo, Brazil
+origin: 'São Paulo, Brazil'
 primary_source: perplexity
 research_sources:
-- https://www.slipcue.com/music/brazil/trio-mocoto_01.html
-- https://en.wikipedia.org/wiki/Trio_Mocot%C3%B3
-- https://en.estudiomedusa.com.br/triomocoto
-- https://www.musicmetricsvault.com/artists/trio-mocoto/5nriuBVz6NDh6k8gTU5WgP
-- https://www.allmusic.com/artist/trio-mocot%C3%B3-mn0000026724
+  - 'https://www.slipcue.com/music/brazil/trio-mocoto_01.html'
+  - 'https://en.wikipedia.org/wiki/Trio_Mocot%C3%B3'
+  - 'https://en.estudiomedusa.com.br/triomocoto'
+  - 'https://www.musicmetricsvault.com/artists/trio-mocoto/5nriuBVz6NDh6k8gTU5WgP'
+  - 'https://www.allmusic.com/artist/trio-mocot%C3%B3-mn0000026724'
 spotify_data:
   followers: 46401
   id: 5nriuBVz6NDh6k8gTU5WgP
   popularity: 52
-  url: https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP
+  url: 'https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP'
 status: active
 title: Trio Mocoto
+death_date: '2024'
+artist_type: band
 ---
 
 ![](trio_mocoto.jpg)

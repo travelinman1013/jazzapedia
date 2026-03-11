@@ -1,50 +1,55 @@
 ---
 biography_enhanced_at: '2026-01-23T01:49:12.688791'
-birth_place: Georgia, USA (birthplace); Detroit, Michigan, USA (primary residence
-  from age 3)
+birth_place: >-
+  Georgia, USA (birthplace); Detroit, Michigan, USA (primary residence from age
+  3)
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:49:12.688798'
 external_urls:
-  spotify: https://open.spotify.com/artist/3qgqFAwG2ml4B2c1pvFpWH
+  spotify: 'https://open.spotify.com/artist/3qgqFAwG2ml4B2c1pvFpWH'
   wikipedia: null
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/melvin_davis.jpg
 last_updated: '2026-01-23T01:49:12.688798'
 musical_connections:
   collaborators:
-  - David Ruffin
-  - Smokey Robinson & The Miracles
-  - Lyman Woodard
-  - Dennis Coffey
-  - The 8th Day
-  - Wayne Kramer & MC5
-  - The Temptations
-  - Martha Reeves & The Vandellas
-  - The Supremes
-  - Steve Mancha (Clyde Wilson)
-  - JJ Barnes
+    - David Ruffin
+    - Smokey Robinson & The Miracles
+    - Lyman Woodard
+    - Dennis Coffey
+    - The 8th Day
+    - Wayne Kramer & MC5
+    - The Temptations
+    - Martha Reeves & The Vandellas
+    - The Supremes
+    - Steve Mancha (Clyde Wilson)
+    - JJ Barnes
   influenced:
-  - Northern Soul Genre
+    - Northern Soul Genre
   mentors:
-  - Little Richard
-  - Soul Stirrers (featuring Sam Cooke)
-  - WLAC Radio (Nashville)
+    - Little Richard
+    - Soul Stirrers (featuring Sam Cooke)
+    - WLAC Radio (Nashville)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.forcedexposure.com/Artists/DAVIS.MELVIN.html
-- https://soulstrutter.blogspot.com/2023/01/melvin-davis-help-with-medical-bills.html
-- https://detroitsound.org/artifact/melvin-davis/
-- https://www.allmusic.com/artist/melvin-davis-mn0002768762
-- https://www.ponderosastomp.com/music_more.php/241/Melvin+Davis
+  - 'https://www.forcedexposure.com/Artists/DAVIS.MELVIN.html'
+  - >-
+    https://soulstrutter.blogspot.com/2023/01/melvin-davis-help-with-medical-bills.html
+  - 'https://detroitsound.org/artifact/melvin-davis/'
+  - 'https://www.allmusic.com/artist/melvin-davis-mn0002768762'
+  - 'https://www.ponderosastomp.com/music_more.php/241/Melvin+Davis'
 spotify_data:
   followers: 618
   id: 3qgqFAwG2ml4B2c1pvFpWH
   popularity: 5
-  url: https://open.spotify.com/artist/3qgqFAwG2ml4B2c1pvFpWH
+  url: 'https://open.spotify.com/artist/3qgqFAwG2ml4B2c1pvFpWH'
 status: active
 title: Melvin Davis
+origin: 'Detroit, Michigan, United States'
+birth_date: '1942-08-29'
+artist_type: person
 ---
 
 ![](melvin_davis.jpg)

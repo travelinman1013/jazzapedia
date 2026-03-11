@@ -3,34 +3,35 @@ biography_enhanced_at: '2026-02-25T02:03:57.400392'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:03:57.400401'
 external_urls:
-  spotify: https://open.spotify.com/artist/64Zeu1SF8xQ7ixqTaypvhN
+  spotify: 'https://open.spotify.com/artist/64Zeu1SF8xQ7ixqTaypvhN'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/gravity_a.jpg
 last_updated: '2026-02-25T02:03:57.400402'
 musical_connections:
   collaborators:
-  - Jon Solomon
-  - Carter
-  - Aaron Lind
-  - Andrew Meehan
-  - Danny Abel
-  - Bru Bruser
-  - Devin Karagan
+    - Jon Solomon
+    - Carter
+    - Aaron Lind
+    - Andrew Meehan
+    - Danny Abel
+    - Bru Bruser
+    - Devin Karagan
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://neworleans.riverbeats.life/gravity-a-interview/
+  - 'https://neworleans.riverbeats.life/gravity-a-interview/'
 spotify_data:
   followers: 23
   id: 64Zeu1SF8xQ7ixqTaypvhN
   popularity: 0
-  url: https://open.spotify.com/artist/64Zeu1SF8xQ7ixqTaypvhN
+  url: 'https://open.spotify.com/artist/64Zeu1SF8xQ7ixqTaypvhN'
 status: active
-title: gravity A
+title: Gravity A
+artist_type: band
 ---
 
 ![](gravity_a.jpg)

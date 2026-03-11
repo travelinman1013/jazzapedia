@@ -3,34 +3,37 @@ biography_enhanced_at: '2026-02-22T01:50:25.257742'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:50:25.257754'
 external_urls:
-  spotify: https://open.spotify.com/artist/5EP4vEuczVqy2wZ5NwOrfg
+  spotify: 'https://open.spotify.com/artist/5EP4vEuczVqy2wZ5NwOrfg'
   wikipedia: ''
 genres:
-- worship
+  - worship
 image_path: 03_Resources/source_material/ArtistPortraits/freedom.jpg
 last_updated: '2026-02-22T01:50:25.257756'
 musical_connections:
   collaborators:
-  - Gary Snowzell
+    - Gary Snowzell
   influenced: []
   mentors: []
 network_extracted: true
-origin: Moncks Corner, SC, USA (primary church origin); Philadelphia, PA, USA (worship
+origin: >-
+  Moncks Corner, SC, USA (primary church origin); Philadelphia, PA, USA (worship
   focus)
 primary_source: perplexity
 research_sources:
-- https://www.multitracks.com/artists/Freedom-Church/biography/
-- https://wearefreedomchurch.org/freedom-worship/
-- https://www.newreleasetoday.com/artistdetail.php?artist_id=5540&showme=desktop
-- https://www.multitracksafrica.com/artists/Freedom-Church/biography/
-- https://www.multitracks.com/artists/Freedom-Church/biography/
+  - 'https://www.multitracks.com/artists/Freedom-Church/biography/'
+  - 'https://wearefreedomchurch.org/freedom-worship/'
+  - >-
+    https://www.newreleasetoday.com/artistdetail.php?artist_id=5540&showme=desktop
+  - 'https://www.multitracksafrica.com/artists/Freedom-Church/biography/'
+  - 'https://www.multitracks.com/artists/Freedom-Church/biography/'
 spotify_data:
   followers: 752
   id: 5EP4vEuczVqy2wZ5NwOrfg
   popularity: 15
-  url: https://open.spotify.com/artist/5EP4vEuczVqy2wZ5NwOrfg
+  url: 'https://open.spotify.com/artist/5EP4vEuczVqy2wZ5NwOrfg'
 status: active
 title: Freedom
+artist_type: band
 ---
 
 ![](freedom.jpg)

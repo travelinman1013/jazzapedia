@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-03T02:06:45.948403'
-birth_place: Algoma, Mississippi, USA
+birth_place: 'Algoma, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:06:45.948413'
 external_urls:
-  spotify: https://open.spotify.com/artist/1zqbbuhdv0wyMcaLmauCvQ
-  wikipedia: https://en.wikipedia.org/wiki/Leroy_Foster_(musician)
+  spotify: 'https://open.spotify.com/artist/1zqbbuhdv0wyMcaLmauCvQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leroy_Foster_(musician)'
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/baby_face_leroy_foster.jpg
 last_updated: '2026-02-03T02:06:45.948415'
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Little Walter
-  - Jimmy Rogers
-  - Sunnyland Slim
-  - Lee Brown
+    - Muddy Waters
+    - Little Walter
+    - Jimmy Rogers
+    - Sunnyland Slim
+    - Lee Brown
   influenced:
-  - Postwar Chicago blues musicians
+    - Postwar Chicago blues musicians
   mentors:
-  - John Lee 'Sonny Boy' Williamson
-  - Doctor Clayton
+    - John Lee 'Sonny Boy' Williamson
+    - Doctor Clayton
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blinddogradio.blogspot.com/2018/09/baby-face-leroy-foster.html
-- https://en.wikipedia.org/wiki/Leroy_Foster_(musician)
-- https://sundayblues.org/?p=128
-- https://www.bluesway.gr/2018/12/baby-face-leroy-foster.html
-- https://sentirelblues.blogspot.com/2011/11/baby-face-leroy-foster.html
-- https://www.allaboutbluesmusic.com/leroy-baby-face-foster/
-- https://www.allmusic.com/artist/leroy-foster-mn0000205592
+  - 'https://blinddogradio.blogspot.com/2018/09/baby-face-leroy-foster.html'
+  - 'https://en.wikipedia.org/wiki/Leroy_Foster_(musician)'
+  - 'https://sundayblues.org/?p=128'
+  - 'https://www.bluesway.gr/2018/12/baby-face-leroy-foster.html'
+  - 'https://sentirelblues.blogspot.com/2011/11/baby-face-leroy-foster.html'
+  - 'https://www.allaboutbluesmusic.com/leroy-baby-face-foster/'
+  - 'https://www.allmusic.com/artist/leroy-foster-mn0000205592'
 spotify_data:
   followers: 730
   id: 1zqbbuhdv0wyMcaLmauCvQ
   popularity: 2
-  url: https://open.spotify.com/artist/1zqbbuhdv0wyMcaLmauCvQ
+  url: 'https://open.spotify.com/artist/1zqbbuhdv0wyMcaLmauCvQ'
 status: active
-title: BABY FACE LEROY FOSTER
+title: Baby Face Leroy Foster
+origin: 'Chicago, Illinois, United States'
+birth_date: '1923-02-01'
+artist_type: person
 ---
 
 ![](baby_face_leroy_foster.jpg)

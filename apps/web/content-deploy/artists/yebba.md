@@ -2,42 +2,43 @@
 artist_type: person
 biography_enhanced_at: '2026-03-04T01:44:51.100559'
 birth_date: '1995-01-16'
-birth_place: West Memphis
+birth_place: 'West Memphis, Arkansas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-04T01:44:51.100569'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0aeea1ef-8d96-4556-8c4a-84b88ae271bb
-  spotify: https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F
-  wikipedia: https://en.wikipedia.org/wiki/Yebba
+  musicbrainz: 'https://musicbrainz.org/artist/0aeea1ef-8d96-4556-8c4a-84b88ae271bb'
+  spotify: 'https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yebba'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/yebba.jpg
 last_updated: '2026-03-04T01:44:51.100571'
 musical_connections:
   collaborators:
-  - PJ Morton
-  - Mark Ronson
-  - Chance the Rapper
-  - Drake
-  - Sam Smith
+    - PJ Morton
+    - Mark Ronson
+    - Chance the Rapper
+    - Drake
+    - Sam Smith
   influenced: []
   mentors:
-  - Ed Sheeran
+    - Ed Sheeran
 musicbrainz_id: 0aeea1ef-8d96-4556-8c4a-84b88ae271bb
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Yebba
-- https://www.last.fm/music/Yebba/+wiki
-- https://www.theelementmagazine.com/post/the-impact-discography-of-yebba
-- https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2020/05/YEBBA-DAWN-bio-June-2021-final.pdf
-- https://theuncarvedblog.com/2022/01/
-- https://relix.com/articles/detail/yebba-daughter-of-a-preacher-man/
+  - 'https://en.wikipedia.org/wiki/Yebba'
+  - 'https://www.last.fm/music/Yebba/+wiki'
+  - 'https://www.theelementmagazine.com/post/the-impact-discography-of-yebba'
+  - >-
+    https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2020/05/YEBBA-DAWN-bio-June-2021-final.pdf
+  - 'https://theuncarvedblog.com/2022/01/'
+  - 'https://relix.com/articles/detail/yebba-daughter-of-a-preacher-man/'
 spotify_data:
   followers: 875815
   id: 1ooV8YZC1KbpEcrmI8WH0F
   popularity: 72
-  url: https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F
+  url: 'https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F'
 status: active
 title: Yebba
 ---

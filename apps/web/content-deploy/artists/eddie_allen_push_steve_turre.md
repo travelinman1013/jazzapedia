@@ -1,48 +1,49 @@
 ---
 biography_enhanced_at: '2026-03-09T01:15:41.520501'
-birth_place: Milwaukee, Wisconsin, USA (early studies; birthplace not specified)
+birth_place: 'Milwaukee, Wisconsin, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:15:41.520512'
 external_urls:
-  spotify: https://open.spotify.com/artist/5oM9MmVWGFrIcVyojUVwcJ
+  spotify: 'https://open.spotify.com/artist/5oM9MmVWGFrIcVyojUVwcJ'
   wikipedia: ''
 genres:
-- trance
-- progressive trance
+  - trance
+  - progressive trance
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_allen_push_steve_turre.jpg
 last_updated: '2026-03-09T01:15:41.520514'
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Dizzy Gillespie
-  - Randy Weston
-  - Joe Henderson
-  - Steve Turre
-  - Jonathan Beshay
-  - Misha Tsiganov
-  - Tyler Bullock II
-  - Kenny Davis
-  - EJ Strickland
+    - Art Blakey
+    - Dizzy Gillespie
+    - Randy Weston
+    - Joe Henderson
+    - Steve Turre
+    - Jonathan Beshay
+    - Misha Tsiganov
+    - Tyler Bullock II
+    - Kenny Davis
+    - EJ Strickland
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://originarts.com/recordings/recording.php?TitleID=82940
-- https://www.paris-move.com/reviews/eddie-allens-push-the-rhythm/
-- https://en.wikipedia.org/wiki/Steve_Turre_discography
-- https://www.allaboutjazz.com/musicians/steve-turre/
-- https://eddieallen.net/biography/
-- https://www.rsberkeley.com/eddie-allen-1
-- https://www.allaboutjazz.com/musicians/eddie-allen/
-- https://www.allmusic.com/artist/allen-mn0000168880
+  - 'https://originarts.com/recordings/recording.php?TitleID=82940'
+  - 'https://www.paris-move.com/reviews/eddie-allens-push-the-rhythm/'
+  - 'https://en.wikipedia.org/wiki/Steve_Turre_discography'
+  - 'https://www.allaboutjazz.com/musicians/steve-turre/'
+  - 'https://eddieallen.net/biography/'
+  - 'https://www.rsberkeley.com/eddie-allen-1'
+  - 'https://www.allaboutjazz.com/musicians/eddie-allen/'
+  - 'https://www.allmusic.com/artist/allen-mn0000168880'
 spotify_data:
   followers: 9232
   id: 5oM9MmVWGFrIcVyojUVwcJ
   popularity: 38
-  url: https://open.spotify.com/artist/5oM9MmVWGFrIcVyojUVwcJ
+  url: 'https://open.spotify.com/artist/5oM9MmVWGFrIcVyojUVwcJ'
 status: active
-title: Eddie Allen, PUSH, Steve Turre
+title: 'Eddie Allen, PUSH, Steve Turre'
+artist_type: band
 ---
 
 ![](eddie_allen_push_steve_turre.jpg)

@@ -3,41 +3,46 @@ biography_enhanced_at: '2026-02-17T01:22:08.373359'
 enhancement_provider: perplexity
 entry_created: '2026-02-17T01:22:08.373375'
 external_urls:
-  spotify: https://open.spotify.com/artist/6s0XeQM0p1Gtapn3MdfvKa
-  wikipedia: https://en.wikipedia.org/wiki/Irvin_Mayfield
+  spotify: 'https://open.spotify.com/artist/6s0XeQM0p1Gtapn3MdfvKa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Irvin_Mayfield'
 genres: []
 image_path: ''
 last_updated: '2026-02-17T01:22:08.373378'
 musical_connections:
   collaborators:
-  - Irvin Mayfield
-  - Bill Summers
-  - Jason Marsalis
-  - Yvette Bostic-Summers
-  - Edwin Livingston
+    - Irvin Mayfield
+    - Bill Summers
+    - Jason Marsalis
+    - Yvette Bostic-Summers
+    - Edwin Livingston
   influenced: []
   mentors:
-  - New Orleans Center for Creative Arts (NOCCA)
+    - New Orleans Center for Creative Arts (NOCCA)
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Irvin_Mayfield
-- https://musicrising.tulane.edu/discover/people/irvin-mayfield/
-- https://jazztimes.com/features/profiles/irvin-mayfield-the-cultural-ambassador-of-new-orleans/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/los-hombres-calientes
-- https://www.allaboutjazz.com/musicians/irvin-mayfield/
-- https://www.last.fm/es/music/Los+Hombres+Calientes/+wiki
-- https://jazztimes.com/features/profiles/los-hombres-calientes-big-bad-voodoo-daddies/
-- https://www.wunc.org/2001-04-08/i-los-hombres-calientes-i
-- https://www.allmusic.com/artist/los-hombres-calientes-irving-mayfield-bill-summers-mn0002299722
+  - 'https://en.wikipedia.org/wiki/Irvin_Mayfield'
+  - 'https://musicrising.tulane.edu/discover/people/irvin-mayfield/'
+  - >-
+    https://jazztimes.com/features/profiles/irvin-mayfield-the-cultural-ambassador-of-new-orleans/
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/los-hombres-calientes
+  - 'https://www.allaboutjazz.com/musicians/irvin-mayfield/'
+  - 'https://www.last.fm/es/music/Los+Hombres+Calientes/+wiki'
+  - >-
+    https://jazztimes.com/features/profiles/los-hombres-calientes-big-bad-voodoo-daddies/
+  - 'https://www.wunc.org/2001-04-08/i-los-hombres-calientes-i'
+  - >-
+    https://www.allmusic.com/artist/los-hombres-calientes-irving-mayfield-bill-summers-mn0002299722
 spotify_data:
   followers: 1
   id: 6s0XeQM0p1Gtapn3MdfvKa
   popularity: 0
-  url: https://open.spotify.com/artist/6s0XeQM0p1Gtapn3MdfvKa
+  url: 'https://open.spotify.com/artist/6s0XeQM0p1Gtapn3MdfvKa'
 status: active
 title: 'Los Hombres Calientes: Irvin Mayfield & Bill Summers'
+artist_type: person
 ---
 
 ![]()

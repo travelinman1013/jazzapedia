@@ -1,64 +1,65 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-19T01:58:33.453821'
 birth_date: '1996'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:58:33.453828'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75a65dbd-ff79-4cb9-ae95-96a6f66625e6
-  spotify: https://open.spotify.com/artist/0QVOiEgdXPijzZ4sAWA92X
+  musicbrainz: 'https://musicbrainz.org/artist/75a65dbd-ff79-4cb9-ae95-96a6f66625e6'
+  spotify: 'https://open.spotify.com/artist/0QVOiEgdXPijzZ4sAWA92X'
   wikipedia: null
 genres:
-- cajun
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/jumbo_shrimp.jpg
 last_updated: '2026-02-19T01:58:33.453828'
 members:
-- &id001
-  begin: '1996'
-  end: ''
-  instruments: []
-  mbid: 47b649ae-91d2-4a9f-a34c-b35c06498dc5
-  name: Klaus Flouride
-- &id002
-  begin: '1996'
-  end: ''
-  instruments: []
-  mbid: d8559d8b-a8ee-4174-b5f1-226fe5e2891a
-  name: East Bay Ray
+  - &ref_0
+    begin: '1996'
+    end: ''
+    instruments: []
+    mbid: 47b649ae-91d2-4a9f-a34c-b35c06498dc5
+    name: Klaus Flouride
+  - &ref_1
+    begin: '1996'
+    end: ''
+    instruments: []
+    mbid: d8559d8b-a8ee-4174-b5f1-226fe5e2891a
+    name: East Bay Ray
 musical_connections:
   collaborators:
-  - Dennis Lichtman
-  - Fernando Lima
-  - Salvador Avila
-  - Ricardo Pascal
-  - Mark Rubin
-  - Jennie Brent
-  - Banu Gibson
-  - Jafet Perez
-  - Barry Martyn
+    - Dennis Lichtman
+    - Fernando Lima
+    - Salvador Avila
+    - Ricardo Pascal
+    - Mark Rubin
+    - Jennie Brent
+    - Banu Gibson
+    - Jafet Perez
+    - Barry Martyn
   influenced: []
   mentors: []
 musicbrainz_id: 75a65dbd-ff79-4cb9-ae95-96a6f66625e6
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 primary_source: perplexity
 research_sources:
-- https://www.jumboshrimpjazzband.com/bio
-- https://syncopatedtimes.com/the-jumbo-shrimp-jazz-band-prawn-shop/
-- https://www.jumboshrimpjazzband.com
-- https://syncopatedtimes.com/the-crustaceous-capers-of-the-jumbo-shrimp-jazz-band/
-- https://jumboshrimpjazzband.bandcamp.com
-- https://www.neworleans.com/listing/jumbo-shrimp-jazz-band/46445/
+  - 'https://www.jumboshrimpjazzband.com/bio'
+  - 'https://syncopatedtimes.com/the-jumbo-shrimp-jazz-band-prawn-shop/'
+  - 'https://www.jumboshrimpjazzband.com'
+  - >-
+    https://syncopatedtimes.com/the-crustaceous-capers-of-the-jumbo-shrimp-jazz-band/
+  - 'https://jumboshrimpjazzband.bandcamp.com'
+  - 'https://www.neworleans.com/listing/jumbo-shrimp-jazz-band/46445/'
 spotify_data:
   followers: 777
   id: 0QVOiEgdXPijzZ4sAWA92X
   popularity: 2
-  url: https://open.spotify.com/artist/0QVOiEgdXPijzZ4sAWA92X
+  url: 'https://open.spotify.com/artist/0QVOiEgdXPijzZ4sAWA92X'
 status: active
-title: jumbo shrimp
+title: The Jumbo Shrimp
 ---
 
 ![](jumbo_shrimp.jpg)

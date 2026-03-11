@@ -1,69 +1,73 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 94555b2e-dca3-4399-b428-435e80fee4d4
-  name: Annette Hanshaw & Her Sizzlin' Syncopators
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 94555b2e-dca3-4399-b428-435e80fee4d4
+    name: Annette Hanshaw & Her Sizzlin' Syncopators
 biography_enhanced_at: '2026-03-05T02:01:00.185476'
 birth_date: '1901-10-18'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 death_date: '1985-03-13'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:01:00.185484'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bedec4b9-5808-4c68-a8f8-475a37626298
-  spotify: https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk
+  musicbrainz: 'https://musicbrainz.org/artist/bedec4b9-5808-4c68-a8f8-475a37626298'
+  spotify: 'https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk'
   wikipedia: ''
 gender: Female
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/annette_hanshaw.jpg
 instruments:
-- eponymous
-- original
-- spoken vocals
+  - eponymous
+  - original
+  - spoken vocals
 last_updated: '2026-03-05T02:01:00.185485'
 musical_connections:
   collaborators:
-  - Red Nichols
-  - Miff Mole
-  - Joe Venuti
-  - Eddie Lang
-  - Adrian Rollini
-  - Benny Goodman
-  - Jimmy Dorsey
-  - Tommy Dorsey
-  - Glen Gray’s Casa Loma Orchestra
+    - Red Nichols
+    - Miff Mole
+    - Joe Venuti
+    - Eddie Lang
+    - Adrian Rollini
+    - Benny Goodman
+    - Jimmy Dorsey
+    - Tommy Dorsey
+    - Glen Gray’s Casa Loma Orchestra
   influenced:
-  - Helen Kane imitators
+    - Helen Kane imitators
   mentors:
-  - Herman “Wally” Rose
+    - Herman “Wally” Rose
 musicbrainz_id: bedec4b9-5808-4c68-a8f8-475a37626298
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/catherine-annette-hanshaw/
-- https://gotamillionrhymes.wordpress.com/2017/03/04/annette-hanshaw/
-- https://travsd.wordpress.com/2017/10/18/annette-hanshaw-the-personality-girl/
-- https://www.jazzage1920s.com/annettehanshaw/bio/bio.php
-- https://syncopatedtimes.com/ruth-etting-and-annette-hanshaw-profiles-in-jazz/
-- https://www.minerd.com/bio-hanshaw,_annette.htm
-- https://sites.arizona.edu/vaudeville/annette-hanshaw-the-personality-girl-by-david-soren/
-- https://www.allaboutjazz.com/musicians/annette-hanshaw/
-- https://bettyboop.fandom.com/wiki/Annette_Hanshaw
+  - 'https://syncopatedtimes.com/catherine-annette-hanshaw/'
+  - 'https://gotamillionrhymes.wordpress.com/2017/03/04/annette-hanshaw/'
+  - >-
+    https://travsd.wordpress.com/2017/10/18/annette-hanshaw-the-personality-girl/
+  - 'https://www.jazzage1920s.com/annettehanshaw/bio/bio.php'
+  - >-
+    https://syncopatedtimes.com/ruth-etting-and-annette-hanshaw-profiles-in-jazz/
+  - 'https://www.minerd.com/bio-hanshaw,_annette.htm'
+  - >-
+    https://sites.arizona.edu/vaudeville/annette-hanshaw-the-personality-girl-by-david-soren/
+  - 'https://www.allaboutjazz.com/musicians/annette-hanshaw/'
+  - 'https://bettyboop.fandom.com/wiki/Annette_Hanshaw'
 spotify_data:
   followers: 19406
   id: 2NH5zRbA36q4uznwcJ8yDk
   popularity: 31
-  url: https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk
+  url: 'https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk'
 status: active
 tags:
-- jazz
-title: ANNETTE HANSHAW
+  - jazz
+title: Annette Hanshaw
+is_active: false
 ---
 
 ![](annette_hanshaw.jpg)

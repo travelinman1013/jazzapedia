@@ -1,47 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-23T03:08:40.972460'
-birth_place: San Fernando, Trinidad and Tobago
+birth_place: 'San Fernando, Trinidad and Tobago, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:08:40.972473'
 external_urls:
-  spotify: https://open.spotify.com/artist/0NZQTozgPtlt5iN3hmANhy
-  wikipedia: https://en.wikipedia.org/wiki/Queen_Omega_(singer)
+  spotify: 'https://open.spotify.com/artist/0NZQTozgPtlt5iN3hmANhy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Queen_Omega_(singer)'
 genres:
-- reggae
-- ragga
-- dub
-- roots reggae
-image_path: 03_Resources/source_material/ArtistPortraits/queen_omega_the_expanders_walshy_fire.jpg
+  - reggae
+  - ragga
+  - dub
+  - roots reggae
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/queen_omega_the_expanders_walshy_fire.jpg
 last_updated: '2026-02-23T03:08:40.972474'
 musical_connections:
   collaborators:
-  - Jah Sun
-  - Marcia Griffiths
-  - Walshy Fire
-  - The Expanders
+    - Jah Sun
+    - Marcia Griffiths
+    - Walshy Fire
+    - The Expanders
   influenced: []
   mentors:
-  - Emperor Haile Selassie I
-  - Mickey D (Michael Swaby)
-  - Green House Family (Zak Esau, Michael 'Micky D' Swaby, Jamo)
+    - Emperor Haile Selassie I
+    - Mickey D (Michael Swaby)
+    - 'Green House Family (Zak Esau, Michael ''Micky D'' Swaby, Jamo)'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/queen-omega/about/
-- https://en.wikipedia.org/wiki/Queen_Omega_(singer)
-- https://rebelbase.be/interviews/detail/queen-omega---reggae-geel-082017
-- https://pauzeradio.com/queen-omega/
-- https://concord.com/publishing-roster/walshy-fire/
-- https://sflcn.com/walshy-fire-and-the-expanders-release-piece-of-love-riddim/
-- https://www.youtube.com/watch?v=s9iZ7QA6q5I
-- https://en.wikipedia.org/wiki/The_Expanders
+  - 'https://www.reggaeville.com/artist-details/queen-omega/about/'
+  - 'https://en.wikipedia.org/wiki/Queen_Omega_(singer)'
+  - 'https://rebelbase.be/interviews/detail/queen-omega---reggae-geel-082017'
+  - 'https://pauzeradio.com/queen-omega/'
+  - 'https://concord.com/publishing-roster/walshy-fire/'
+  - >-
+    https://sflcn.com/walshy-fire-and-the-expanders-release-piece-of-love-riddim/
+  - 'https://www.youtube.com/watch?v=s9iZ7QA6q5I'
+  - 'https://en.wikipedia.org/wiki/The_Expanders'
 spotify_data:
   followers: 338635
   id: 0NZQTozgPtlt5iN3hmANhy
   popularity: 49
-  url: https://open.spotify.com/artist/0NZQTozgPtlt5iN3hmANhy
+  url: 'https://open.spotify.com/artist/0NZQTozgPtlt5iN3hmANhy'
 status: active
-title: Queen Omega, The Expanders, Walshy Fire
+title: 'Queen Omega, The Expanders, Walshy Fire'
+artist_type: person
 ---
 
 ![](queen_omega_the_expanders_walshy_fire.jpg)

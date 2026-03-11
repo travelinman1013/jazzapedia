@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2026-03-02T01:11:34.245608'
-birth_place: Central City, New Orleans, Louisiana, USA
+birth_place: 'Central City, New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:11:34.245616'
 external_urls:
-  spotify: https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr
-  wikipedia: https://en.wikipedia.org/wiki/Big_Freedia
+  spotify: 'https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Freedia'
 genres:
-- new orleans bounce
-- bounce
-- ballroom vogue
-image_path: 03_Resources/source_material/ArtistPortraits/big_freedia_queen_latifah_dawn_richard.jpg
+  - new orleans bounce
+  - bounce
+  - ballroom vogue
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/big_freedia_queen_latifah_dawn_richard.jpg
 last_updated: '2026-03-02T01:11:34.245617'
 musical_connections:
   collaborators:
-  - Beyoncé
-  - Drake
-  - Galactic
-  - Mannie Fresh
-  - Sissy Nobby
+    - Beyoncé
+    - Drake
+    - Galactic
+    - Mannie Fresh
+    - Sissy Nobby
   influenced:
-  - Sissy Nobby
+    - Sissy Nobby
   mentors:
-  - Katey Red
+    - Katey Red
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Big_Freedia
-- https://grammymuseum.org/event/spotlight-big-freedia/
-- https://www.bigfreedia.com/bio/
-- https://musicinsideout.wwno.org/big-freedia/
-- https://college.berklee.edu/news/big-freedia-bounce-music-interview-beyonce
-- https://www.aceshowbiz.com/celebrity/big_freedia/biography.html
-- https://www.myneworleans.com/a-bounce-star-is-born/
+  - 'https://en.wikipedia.org/wiki/Big_Freedia'
+  - 'https://grammymuseum.org/event/spotlight-big-freedia/'
+  - 'https://www.bigfreedia.com/bio/'
+  - 'https://musicinsideout.wwno.org/big-freedia/'
+  - 'https://college.berklee.edu/news/big-freedia-bounce-music-interview-beyonce'
+  - 'https://www.aceshowbiz.com/celebrity/big_freedia/biography.html'
+  - 'https://www.myneworleans.com/a-bounce-star-is-born/'
 spotify_data:
   followers: 124352
   id: 2gyv1akuIB9fQvXoGSPaJr
   popularity: 45
-  url: https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr
+  url: 'https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr'
 status: active
-title: Big Freedia, Queen Latifah, Dawn Richard
+title: Big Freedia
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1978-01-28'
+artist_type: person
 ---
 
 ![](big_freedia_queen_latifah_dawn_richard.jpg)

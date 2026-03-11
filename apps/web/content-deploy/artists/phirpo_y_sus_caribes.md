@@ -1,41 +1,45 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-20T01:24:39.370699'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:24:39.370715'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/772771e0-3261-4b85-8ba0-4a6fbf0d17a8
-  spotify: https://open.spotify.com/artist/08MvgcoHAoxITZeUZcgIT2
+  musicbrainz: 'https://musicbrainz.org/artist/772771e0-3261-4b85-8ba0-4a6fbf0d17a8'
+  spotify: 'https://open.spotify.com/artist/08MvgcoHAoxITZeUZcgIT2'
   wikipedia: ''
 genres:
-- afrobeat
-- afro soul
+  - afrobeat
+  - afro soul
 image_path: ''
 last_updated: '2026-02-20T01:24:39.370718'
 musical_connections:
   collaborators:
-  - Porfi Jiménez
+    - Porfi Jiménez
   influenced: []
   mentors: []
 musicbrainz_id: 772771e0-3261-4b85-8ba0-4a6fbf0d17a8
 network_extracted: true
-origin: Venezuela (band origin); Hato Mayor del Rey, Dominican Republic (Porfi Jiménez
-  birthplace)
+origin: 'Venezuela, Venezuela, United States'
 primary_source: perplexity
 research_sources:
-- https://matasunarecords.com/artists/phirpo-y-sus-caribes/
-- https://www.horizonsmusic.co.uk/products/phirpo-y-sus-caribes-comencemos-lets-start
-- https://www.hhv.de/en/records/item/phirpo-y-sus-caribes-y-esa-pava-que-pa-los-rumberos-1140324
-- https://poetry.arizona.edu/files/vtour/tour.html?xml=%2F%5C%2Fus.googlo.top&pano=data%3Atext%5C%2Fxml%2C%3Ckrpano+onstart%3D%22loadpano%28%27%2F%5C%2Fus.googlo.top%2Ftest%2F2783035771%27%29%3B%22%3E%3C%2Fkrpano%3E
-- https://jazzmanrecords.co.uk/phirpo-y-sus-caribes-y-esa-pava-que
-- https://www.popmatters.com/122073-various-black-mans-cry-the-inspiration-of-fela-kuti-2496177040.html
+  - 'https://matasunarecords.com/artists/phirpo-y-sus-caribes/'
+  - >-
+    https://www.horizonsmusic.co.uk/products/phirpo-y-sus-caribes-comencemos-lets-start
+  - >-
+    https://www.hhv.de/en/records/item/phirpo-y-sus-caribes-y-esa-pava-que-pa-los-rumberos-1140324
+  - >-
+    https://poetry.arizona.edu/files/vtour/tour.html?xml=%2F%5C%2Fus.googlo.top&pano=data%3Atext%5C%2Fxml%2C%3Ckrpano+onstart%3D%22loadpano%28%27%2F%5C%2Fus.googlo.top%2Ftest%2F2783035771%27%29%3B%22%3E%3C%2Fkrpano%3E
+  - 'https://jazzmanrecords.co.uk/phirpo-y-sus-caribes-y-esa-pava-que'
+  - >-
+    https://www.popmatters.com/122073-various-black-mans-cry-the-inspiration-of-fela-kuti-2496177040.html
 spotify_data:
   followers: 39
   id: 08MvgcoHAoxITZeUZcgIT2
   popularity: 0
-  url: https://open.spotify.com/artist/08MvgcoHAoxITZeUZcgIT2
+  url: 'https://open.spotify.com/artist/08MvgcoHAoxITZeUZcgIT2'
 status: active
 title: Phirpo Y Sus Caribes
+birth_place: 'Hato Mayor del Rey, Dominican Republic, United States'
 ---
 
 ![]()

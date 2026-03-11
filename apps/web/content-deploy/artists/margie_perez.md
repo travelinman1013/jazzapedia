@@ -1,40 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-28T01:45:36.481814'
-birth_place: Washington DC, USA (birthplace); New Orleans, Louisiana, USA (home)
+birth_place: 'Washington DC, USA (birthplace); New Orleans, Louisiana, USA (home)'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:45:36.481827'
 external_urls:
-  spotify: https://open.spotify.com/artist/1nVPMM5FzJwa0X18rb1W9C
+  spotify: 'https://open.spotify.com/artist/1nVPMM5FzJwa0X18rb1W9C'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/margie_perez.jpg
 last_updated: '2026-02-28T01:45:36.481830'
 musical_connections:
   collaborators:
-  - Muévelo
-  - Stanton Moore
-  - Dr. Michael White
-  - Leo Nocentelli
-  - Michael Skinkus and Moyuba
+    - Muévelo
+    - Stanton Moore
+    - Dr. Michael White
+    - Leo Nocentelli
+    - Michael Skinkus and Moyuba
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.margieperez.com/epk
-- https://www.btdfoundation.org/margie-perez/
-- https://musicinsideout.wwno.org/margie-perez-2/
-- https://www.vianolavie.org/2020/08/03/story-assignment-5-margie-muevelo-and-mutualism/
-- https://myemail.constantcontact.com/Women-s-History-Month--A-Salute-to-New-Orleans-Women-in-Jazz--Margie-Perez-added-.html?soid=1011087220895&aid=QEsrsd6S388
-- https://www.wwoz.org/blog/2439
-- https://www.neworleans.com/listing/margie-perez/46475/
+  - 'https://www.margieperez.com/epk'
+  - 'https://www.btdfoundation.org/margie-perez/'
+  - 'https://musicinsideout.wwno.org/margie-perez-2/'
+  - >-
+    https://www.vianolavie.org/2020/08/03/story-assignment-5-margie-muevelo-and-mutualism/
+  - >-
+    https://myemail.constantcontact.com/Women-s-History-Month--A-Salute-to-New-Orleans-Women-in-Jazz--Margie-Perez-added-.html?soid=1011087220895&aid=QEsrsd6S388
+  - 'https://www.wwoz.org/blog/2439'
+  - 'https://www.neworleans.com/listing/margie-perez/46475/'
 spotify_data:
   followers: 199
   id: 1nVPMM5FzJwa0X18rb1W9C
   popularity: 1
-  url: https://open.spotify.com/artist/1nVPMM5FzJwa0X18rb1W9C
+  url: 'https://open.spotify.com/artist/1nVPMM5FzJwa0X18rb1W9C'
 status: active
 title: Margie Perez
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](margie_perez.jpg)

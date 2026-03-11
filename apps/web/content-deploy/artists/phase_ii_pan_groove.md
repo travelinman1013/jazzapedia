@@ -3,48 +3,50 @@ biography_enhanced_at: '2026-02-02T01:47:09.287311'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:47:09.287321'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bdb4742f-a461-4595-86ec-7f6cf27d8139
-  spotify: https://open.spotify.com/artist/0jDzJWy4GtyVd1cbvZU3aQ
+  musicbrainz: 'https://musicbrainz.org/artist/bdb4742f-a461-4595-86ec-7f6cf27d8139'
+  spotify: 'https://open.spotify.com/artist/0jDzJWy4GtyVd1cbvZU3aQ'
   wikipedia: ''
 genres:
-- calypso
+  - calypso
 image_path: 03_Resources/source_material/ArtistPortraits/phase_ii_pan_groove.jpg
 last_updated: '2026-02-02T01:47:09.287322'
 musical_connections:
   collaborators:
-  - Len “Boogsie” Sharpe
-  - Michael Phillips
-  - Barry Howard
-  - Andy Phillips
-  - Selwyn Tarradath
-  - Noel Seon
-  - Rawle Mitchell
-  - Max Roach
-  - Monty Alexander
-  - Gary Burton
+    - Len “Boogsie” Sharpe
+    - Michael Phillips
+    - Barry Howard
+    - Andy Phillips
+    - Selwyn Tarradath
+    - Noel Seon
+    - Rawle Mitchell
+    - Max Roach
+    - Monty Alexander
+    - Gary Burton
   influenced:
-  - Young steelband arrangers
+    - Young steelband arrangers
   mentors:
-  - Ray Holman
+    - Ray Holman
 musicbrainz_id: bdb4742f-a461-4595-86ec-7f6cf27d8139
 network_extracted: true
-origin: Woodbrook, Port-of-Spain, Trinidad and Tobago
+origin: 'Woodbrook, Port-of-Spain, Trinidad and Tobago'
 primary_source: perplexity
 research_sources:
-- https://www.panonthenet.com/tnt/bios/bands/phase2-bio.htm
-- http://www.bestoftrinidad.com/groups/phase2.html
-- https://www.caribbean-beat.com/issue-171/in-the-groove-backstory
-- https://whensteeltalks.ning.com/forum/topics/the-story-of-phase-ii-pan-groove
-- http://www.mypanyard.co.uk/Pioneers-Boogsie-Sharpe-PhaseII.html
-- https://uwispace.sta.uwi.edu/items/a4f69c22-538b-4825-a954-819d7c454cbe
-- https://www.caribbeanlife.com/phase-ii-pan-groove-takes-the-top-prize/
+  - 'https://www.panonthenet.com/tnt/bios/bands/phase2-bio.htm'
+  - 'http://www.bestoftrinidad.com/groups/phase2.html'
+  - 'https://www.caribbean-beat.com/issue-171/in-the-groove-backstory'
+  - >-
+    https://whensteeltalks.ning.com/forum/topics/the-story-of-phase-ii-pan-groove
+  - 'http://www.mypanyard.co.uk/Pioneers-Boogsie-Sharpe-PhaseII.html'
+  - 'https://uwispace.sta.uwi.edu/items/a4f69c22-538b-4825-a954-819d7c454cbe'
+  - 'https://www.caribbeanlife.com/phase-ii-pan-groove-takes-the-top-prize/'
 spotify_data:
   followers: 554
   id: 0jDzJWy4GtyVd1cbvZU3aQ
   popularity: 3
-  url: https://open.spotify.com/artist/0jDzJWy4GtyVd1cbvZU3aQ
+  url: 'https://open.spotify.com/artist/0jDzJWy4GtyVd1cbvZU3aQ'
 status: active
 title: Phase II Pan Groove
+artist_type: band
 ---
 
 ![](phase_ii_pan_groove.jpg)

@@ -1,64 +1,65 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7bc28ff4-bd46-4e91-8335-5015758ee6d1
-  name: The Living Sisters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7bc28ff4-bd46-4e91-8335-5015758ee6d1
+    name: The Living Sisters
 biography_enhanced_at: '2026-01-24T02:02:35.599020'
 birth_date: '1969-10-10'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:02:35.599026'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e888b7d9-bc39-4927-9244-a235b64b1347
-  spotify: https://open.spotify.com/artist/1H2Pirtsx57pHB52dP0Ibc
+  musicbrainz: 'https://musicbrainz.org/artist/e888b7d9-bc39-4927-9244-a235b64b1347'
+  spotify: 'https://open.spotify.com/artist/1H2Pirtsx57pHB52dP0Ibc'
   wikipedia: ''
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/eleni_mandell.jpg
 instruments:
-- guitar
-- electric guitar
-- lead vocals
-- vocal
+  - guitar
+  - electric guitar
+  - lead vocals
+  - vocal
 last_updated: '2026-01-24T02:02:35.599027'
 musical_connections:
   collaborators:
-  - Andrew Berger
-  - Nigel Harrison
-  - Elvira Gonzalez
-  - Inara George
-  - Becky Stark
-  - Sheldon Gomberg
-  - Jon Brion
-  - Ethan Johns
+    - Andrew Berger
+    - Nigel Harrison
+    - Elvira Gonzalez
+    - Inara George
+    - Becky Stark
+    - Sheldon Gomberg
+    - Jon Brion
+    - Ethan Johns
   influenced: []
   mentors:
-  - Chuck E. Weiss
-  - Leonard Michaels
+    - Chuck E. Weiss
+    - Leonard Michaels
 musicbrainz_id: e888b7d9-bc39-4927-9244-a235b64b1347
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/mandell-eleni
-- https://the-avocado.org/2016/08/05/artist-spotlight-eleni-mandell/
-- https://www.nailedmagazine.com/features/singer-songwriter-eleni-mandell
-- https://www.obscuresound.com/2007/01/eleni-mandell/
-- https://first-avenue.com/performer/eleni-mandell/
-- https://thebluegrasssituation.com/read/bgs-55-eleni-mandell/
-- https://elenimandell.com/bio/
-- https://voyagela.com/interview/meet-eleni-mandell/
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/mandell-eleni
+  - 'https://the-avocado.org/2016/08/05/artist-spotlight-eleni-mandell/'
+  - 'https://www.nailedmagazine.com/features/singer-songwriter-eleni-mandell'
+  - 'https://www.obscuresound.com/2007/01/eleni-mandell/'
+  - 'https://first-avenue.com/performer/eleni-mandell/'
+  - 'https://thebluegrasssituation.com/read/bgs-55-eleni-mandell/'
+  - 'https://elenimandell.com/bio/'
+  - 'https://voyagela.com/interview/meet-eleni-mandell/'
 spotify_data:
   followers: 5890
   id: 1H2Pirtsx57pHB52dP0Ibc
   popularity: 19
-  url: https://open.spotify.com/artist/1H2Pirtsx57pHB52dP0Ibc
+  url: 'https://open.spotify.com/artist/1H2Pirtsx57pHB52dP0Ibc'
 status: active
 tags:
-- american
-title: eleni mandell
+  - american
+title: Eleni Mandell
 ---
 
 ![](eleni_mandell.jpg)

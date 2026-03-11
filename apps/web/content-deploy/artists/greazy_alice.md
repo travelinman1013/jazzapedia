@@ -3,37 +3,43 @@ biography_enhanced_at: '2026-02-26T01:22:35.583758'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:22:35.583769'
 external_urls:
-  spotify: https://open.spotify.com/artist/3tKCbo0CRuCBd3QhBDYyTm
+  spotify: 'https://open.spotify.com/artist/3tKCbo0CRuCBd3QhBDYyTm'
   wikipedia: Not found
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/greazy_alice.jpg
 last_updated: '2026-02-26T01:22:35.583771'
 musical_connections:
   collaborators:
-  - Jo Morris
-  - Lee Garcia
-  - Will Repholz
+    - Jo Morris
+    - Lee Garcia
+    - Will Repholz
   influenced: []
   mentors:
-  - Terry Allen
-  - Gram Parsons
+    - Terry Allen
+    - Gram Parsons
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.lonesomehighway.com/interviewsold/2025/10/25/alex-pianovich-greazy-alice-interview
-- https://fruit-tree-records.com/tag/greazy-alice/
-- https://list.co.uk/event/greazy-alice-488434?venue=The+Kitchen+Garden
-- https://americana-uk.com/greazy-alice-circles-it-all-comes-round-again
-- https://www.fatea-records.co.uk/magazine/reviews/GreazyAlice/
-- https://kevinegperry.com/2026/01/02/greazy-alice-take-it-eazy/
-- https://sc4m.co.uk/greazy-alice-plus-the-lovely-basement-railway-may-6/
+  - >-
+    https://www.lonesomehighway.com/interviewsold/2025/10/25/alex-pianovich-greazy-alice-interview
+  - 'https://fruit-tree-records.com/tag/greazy-alice/'
+  - 'https://list.co.uk/event/greazy-alice-488434?venue=The+Kitchen+Garden'
+  - 'https://americana-uk.com/greazy-alice-circles-it-all-comes-round-again'
+  - 'https://www.fatea-records.co.uk/magazine/reviews/GreazyAlice/'
+  - 'https://kevinegperry.com/2026/01/02/greazy-alice-take-it-eazy/'
+  - 'https://sc4m.co.uk/greazy-alice-plus-the-lovely-basement-railway-may-6/'
 spotify_data:
   followers: 383
   id: 3tKCbo0CRuCBd3QhBDYyTm
   popularity: 10
-  url: https://open.spotify.com/artist/3tKCbo0CRuCBd3QhBDYyTm
+  url: 'https://open.spotify.com/artist/3tKCbo0CRuCBd3QhBDYyTm'
 status: active
 title: Greazy Alice
+birth_place: 'Pennsylvania, United States'
+origin: >-
+  New Orleans, Louisiana, United States (current base); Pennsylvania, United
+  States (birthplace)
+artist_type: band
 ---
 
 ![](greazy_alice.jpg)

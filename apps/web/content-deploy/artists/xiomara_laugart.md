@@ -1,56 +1,59 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2003'
-  end: '2005'
-  instruments: []
-  mbid: 92c199e0-8b83-45bf-b134-b2e66a241e66
-  name: Yerba Buena
+  - begin: '2003'
+    end: '2005'
+    instruments: []
+    mbid: 92c199e0-8b83-45bf-b134-b2e66a241e66
+    name: Yerba Buena
 biography_enhanced_at: '2026-03-01T01:58:08.071108'
-birth_place: Guantánamo
+birth_place: 'Guantánamo, Guantanamo Province, Cuba'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T01:58:08.071115'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/02ea5369-1a0e-4dcf-856e-92da974c18e7
-  spotify: https://open.spotify.com/artist/4C3ax8mSSUyYEGxzW3e7MO
-  wikipedia: https://en.wikipedia.org/wiki/Xiomara_Laugart
+  musicbrainz: 'https://musicbrainz.org/artist/02ea5369-1a0e-4dcf-856e-92da974c18e7'
+  spotify: 'https://open.spotify.com/artist/4C3ax8mSSUyYEGxzW3e7MO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Xiomara_Laugart'
 gender: Female
 genres:
-- nueva trova
-- latin folk
-- trova
-- son cubano
-- afro-cuban jazz
+  - nueva trova
+  - latin folk
+  - trova
+  - son cubano
+  - afro-cuban jazz
 image_path: 03_Resources/source_material/ArtistPortraits/xiomara_laugart.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2026-03-01T01:58:08.071115'
 musical_connections:
   collaborators:
-  - Yerba Buena
-  - Kip Hanrahan
-  - Ellipsis Art
-  - Jacky Terrasson
-  - Fun Loving Criminals
+    - Yerba Buena
+    - Kip Hanrahan
+    - Ellipsis Art
+    - Jacky Terrasson
+    - Fun Loving Criminals
   influenced: []
   mentors: []
 musicbrainz_id: 02ea5369-1a0e-4dcf-856e-92da974c18e7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Xiomara_Laugart
-- https://worldmusiccentral.org/artist-profiles-xiomara-laugart/
-- https://latinjazznet.com/artist-profiles/singer-songwriter-xiomara-laugart/
-- https://www.allaboutjazz.com/musicians/xiomara-laugart/
-- https://villageview.nyc/2024/03/03/xiomarra-laugart-the-voice-of-cuba-does-it-again-at-zinc-bar/
-- https://www.miamiartguide.com/xiomara-laugart/
+  - 'https://en.wikipedia.org/wiki/Xiomara_Laugart'
+  - 'https://worldmusiccentral.org/artist-profiles-xiomara-laugart/'
+  - 'https://latinjazznet.com/artist-profiles/singer-songwriter-xiomara-laugart/'
+  - 'https://www.allaboutjazz.com/musicians/xiomara-laugart/'
+  - >-
+    https://villageview.nyc/2024/03/03/xiomarra-laugart-the-voice-of-cuba-does-it-again-at-zinc-bar/
+  - 'https://www.miamiartguide.com/xiomara-laugart/'
 spotify_data:
   followers: 3624
   id: 4C3ax8mSSUyYEGxzW3e7MO
   popularity: 10
-  url: https://open.spotify.com/artist/4C3ax8mSSUyYEGxzW3e7MO
+  url: 'https://open.spotify.com/artist/4C3ax8mSSUyYEGxzW3e7MO'
 status: active
 title: Xiomara Laugart
+birth_date: '1960'
+origin: 'New York City, New York, United States'
 ---
 
 ![](xiomara_laugart.jpg)

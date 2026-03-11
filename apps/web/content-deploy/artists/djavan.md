@@ -2,56 +2,57 @@
 artist_type: person
 biography_enhanced_at: '2026-03-08T03:00:49.630963'
 birth_date: '1949-01-27'
-birth_place: Maceió
+birth_place: 'Maceió, Alagoas, Brazil'
 disambiguation: Brazilian singer-songwriter and guitarist
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:00:49.630969'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/751e517d-9663-4692-8c20-942e16d484c5
-  spotify: https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA
-  wikipedia: https://en.wikipedia.org/wiki/Djavan
+  musicbrainz: 'https://musicbrainz.org/artist/751e517d-9663-4692-8c20-942e16d484c5'
+  spotify: 'https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Djavan'
 gender: Male
 genres:
-- mpb
+  - mpb
 image_path: 03_Resources/source_material/ArtistPortraits/djavan.jpg
 instruments:
-- guitar
-- acoustic guitar
-- electric guitar
-- lead vocals
-- background vocals
-- vocal
-- choir vocals
+  - guitar
+  - acoustic guitar
+  - electric guitar
+  - lead vocals
+  - background vocals
+  - vocal
+  - choir vocals
 last_updated: '2026-03-08T03:00:49.630970'
 musical_connections:
   collaborators:
-  - Stevie Wonder
-  - Torcuato Mariano
+    - Stevie Wonder
+    - Torcuato Mariano
   influenced:
-  - Gal Costa
-  - Al Jarreau
-  - Carmen McRae
+    - Gal Costa
+    - Al Jarreau
+    - Carmen McRae
   mentors:
-  - Aloysio de Oliveira
-  - Edson Mauro
+    - Aloysio de Oliveira
+    - Edson Mauro
 musicbrainz_id: 751e517d-9663-4692-8c20-942e16d484c5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://djavan.com.br/en/biography/
-- https://www.last.fm/music/Djavan/+wiki
-- https://www.allaboutjazz.com/musicians/djavan/
-- https://www.connectbrazil.com/warming-up-to-djavan/
-- https://www.allmusic.com/artist/djavan-mn0000167220
+  - 'https://djavan.com.br/en/biography/'
+  - 'https://www.last.fm/music/Djavan/+wiki'
+  - 'https://www.allaboutjazz.com/musicians/djavan/'
+  - 'https://www.connectbrazil.com/warming-up-to-djavan/'
+  - 'https://www.allmusic.com/artist/djavan-mn0000167220'
 spotify_data:
   followers: 3937166
   id: 5rrmaoBXZ7Jcs4Qb77j0YA
   popularity: 69
-  url: https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA
+  url: 'https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA'
 status: active
 tags:
-- mpb
+  - mpb
 title: Djavan
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 ---
 
 ![](djavan.jpg)

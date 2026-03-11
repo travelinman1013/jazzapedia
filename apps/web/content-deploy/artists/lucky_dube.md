@@ -2,48 +2,49 @@
 artist_type: person
 biography_enhanced_at: '2026-01-25T01:38:41.565867'
 birth_date: '1964-08-03'
-birth_place: Ermelo
+birth_place: 'Ermelo, Mpumalanga, South Africa'
 death_date: '2007-10-18'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:38:41.565873'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/97aeedc1-f252-4cfa-a8d8-c895c490532f
-  spotify: https://open.spotify.com/artist/308gQ5eCBIiSAHmi9tqlJ6
-  wikipedia: https://en.wikipedia.org/wiki/Lucky_Dube
+  musicbrainz: 'https://musicbrainz.org/artist/97aeedc1-f252-4cfa-a8d8-c895c490532f'
+  spotify: 'https://open.spotify.com/artist/308gQ5eCBIiSAHmi9tqlJ6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lucky_Dube'
 gender: Male
 genres:
-- reggae
-- roots reggae
-- ragga
-- lovers rock
+  - reggae
+  - roots reggae
+  - ragga
+  - lovers rock
 image_path: 03_Resources/source_material/ArtistPortraits/lucky_dube.jpg
 last_updated: '2026-01-25T01:38:41.565874'
 musical_connections:
   collaborators:
-  - Richard Siluma
-  - Dave
+    - Richard Siluma
+    - Dave
   influenced: []
   mentors:
-  - Jimmy Cliff
-  - Peter Tosh
+    - Jimmy Cliff
+    - Peter Tosh
 musicbrainz_id: 97aeedc1-f252-4cfa-a8d8-c895c490532f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/lucky-dube-a-south-african-reggae-artist/
-- https://luckydubelegacy.com/biography/
-- https://kids.britannica.com/students/article/Lucky-Dube/606478
-- https://en.wikipedia.org/wiki/Lucky_Dube
+  - 'https://aaregistry.org/story/lucky-dube-a-south-african-reggae-artist/'
+  - 'https://luckydubelegacy.com/biography/'
+  - 'https://kids.britannica.com/students/article/Lucky-Dube/606478'
+  - 'https://en.wikipedia.org/wiki/Lucky_Dube'
 spotify_data:
   followers: 1829516
   id: 308gQ5eCBIiSAHmi9tqlJ6
   popularity: 63
-  url: https://open.spotify.com/artist/308gQ5eCBIiSAHmi9tqlJ6
+  url: 'https://open.spotify.com/artist/308gQ5eCBIiSAHmi9tqlJ6'
 status: active
 tags:
-- reggae
-- roots reggae
-title: lucky dube
+  - reggae
+  - roots reggae
+title: Lucky Dube
+is_active: false
 ---
 
 ![](lucky_dube.jpg)

@@ -3,41 +3,52 @@ biography_enhanced_at: '2026-02-09T01:23:16.476569'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:23:16.476579'
 external_urls:
-  spotify: https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX
+  spotify: 'https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX'
   wikipedia: Not found in search results
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/lilli_lewis_cassie_watson_francillon.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/lilli_lewis_cassie_watson_francillon.jpg
 last_updated: '2026-02-09T01:23:16.476581'
 musical_connections:
   collaborators:
-  - Leyla McCalla
-  - Joy Clark
-  - Sabine McCalla
-  - Sula Spirit
-  - Gina Forsyth
+    - Leyla McCalla
+    - Joy Clark
+    - Sabine McCalla
+    - Sula Spirit
+    - Gina Forsyth
   influenced: []
   mentors:
-  - Mark Bingham
-  - Indigo Girls
-  - Stevie Wonder
+    - Mark Bingham
+    - Indigo Girls
+    - Stevie Wonder
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://music.apple.com/us/artist/lilli-lewis/30859452
-- https://www.ongoinghistoryofprotestsongs.com/2023/05/31/a-month-of-protest-may/
-- https://www.heyjackson.net/listener-guide-to-soulfolk
-- https://www.americanbluesscene.com/2023/01/exclusive-premiere-interview-mark-bingham-on-vast-retrospective-release-series/
-- https://thebluegrasssituation.com/read/the-creative-freedom-behind-leyla-mccallas-sun-without-the-heat/
-- https://www.anti.com/news/leyla-mccalla-shares-cover-of-landmark-protest-song-freedom-is-a-constant-s/
-- https://www.viberate.com/artist/lilli-lewis/
-- https://highzero.org/2025_site/performers/
+  - 'https://music.apple.com/us/artist/lilli-lewis/30859452'
+  - >-
+    https://www.ongoinghistoryofprotestsongs.com/2023/05/31/a-month-of-protest-may/
+  - 'https://www.heyjackson.net/listener-guide-to-soulfolk'
+  - >-
+    https://www.americanbluesscene.com/2023/01/exclusive-premiere-interview-mark-bingham-on-vast-retrospective-release-series/
+  - >-
+    https://thebluegrasssituation.com/read/the-creative-freedom-behind-leyla-mccallas-sun-without-the-heat/
+  - >-
+    https://www.anti.com/news/leyla-mccalla-shares-cover-of-landmark-protest-song-freedom-is-a-constant-s/
+  - 'https://www.viberate.com/artist/lilli-lewis/'
+  - 'https://highzero.org/2025_site/performers/'
 spotify_data:
   followers: 384
   id: 6LuBYCozHo0lrFf7CnkgMX
   popularity: 18
-  url: https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX
+  url: 'https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX'
 status: active
-title: Lilli Lewis, Cassie Watson Francillon
+title: 'Lilli Lewis, Cassie Watson Francillon'
+birth_place: 'Athens, Georgia, United States'
+origin: >-
+  New Orleans, Louisiana, United States (current); Athens, Georgia, United
+  States (birthplace for Lilli Lewis)
+birth_date: '1976-04-14'
+artist_type: person
 ---
 
 ![](lilli_lewis_cassie_watson_francillon.jpg)

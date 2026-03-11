@@ -1,96 +1,99 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-05T02:02:58.921544'
 birth_date: '1974'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:02:58.921554'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/835cbbdd-4a59-45a9-bf37-6d2050aec2a9
-  spotify: https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT
+  musicbrainz: 'https://musicbrainz.org/artist/835cbbdd-4a59-45a9-bf37-6d2050aec2a9'
+  spotify: 'https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT'
   wikipedia: ''
 genres:
-- blues
-- classic blues
-- blues rock
-- southern rock
-- modern blues
+  - blues
+  - classic blues
+  - blues rock
+  - southern rock
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/the_fabulous_thunderbirds.jpg
 last_updated: '2026-03-05T02:02:58.921555'
 members:
-- begin: '1974'
-  end: '1985'
-  instruments: []
-  mbid: 72cf6174-01cb-4947-a26f-bf9030472ecd
-  name: Keith Ferguson
-- begin: '1974'
-  end: '1990'
-  instruments: []
-  mbid: dac15690-cbad-4692-a6bf-3bb0ae05cfe1
-  name: Jimmie Vaughan
-- &id001
-  begin: '1974'
-  end: ''
-  instruments: []
-  mbid: d30137de-a6bc-4330-bbbb-743e3551e892
-  name: Kim Wilson
-- begin: '1979'
-  end: '1996'
-  instruments: []
-  mbid: b9907e0b-d84f-4492-b4c9-c23da2237cd8
-  name: Fran Christina
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 04187c65-ac84-4449-9b9d-fca80252ad54
-  name: Kevin Anker
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3eb6dc8f-1c01-4257-a4b3-146e65c51014
-  name: Steven Kirsty
+  - begin: '1974'
+    end: '1985'
+    instruments: []
+    mbid: 72cf6174-01cb-4947-a26f-bf9030472ecd
+    name: Keith Ferguson
+  - begin: '1974'
+    end: '1990'
+    instruments: []
+    mbid: dac15690-cbad-4692-a6bf-3bb0ae05cfe1
+    name: Jimmie Vaughan
+  - &ref_0
+    begin: '1974'
+    end: ''
+    instruments: []
+    mbid: d30137de-a6bc-4330-bbbb-743e3551e892
+    name: Kim Wilson
+  - begin: '1979'
+    end: '1996'
+    instruments: []
+    mbid: b9907e0b-d84f-4492-b4c9-c23da2237cd8
+    name: Fran Christina
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 04187c65-ac84-4449-9b9d-fca80252ad54
+    name: Kevin Anker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3eb6dc8f-1c01-4257-a4b3-146e65c51014
+    name: Steven Kirsty
 musical_connections:
   collaborators:
-  - Jimmie Vaughan
-  - Keith Ferguson
-  - Mike Buck
-  - Preston Hubbard
-  - Fran Christina
-  - Lou Ann Barton
-  - Johnny Moeller
-  - Bob Welsh
+    - Jimmie Vaughan
+    - Keith Ferguson
+    - Mike Buck
+    - Preston Hubbard
+    - Fran Christina
+    - Lou Ann Barton
+    - Johnny Moeller
+    - Bob Welsh
   influenced:
-  - Stevie Ray Vaughan
+    - Stevie Ray Vaughan
   mentors:
-  - Buddy Guy
-  - Otis Rush
-  - Sunnyland Slim
-  - B.B. King
-  - Muddy Waters
+    - Buddy Guy
+    - Otis Rush
+    - Sunnyland Slim
+    - B.B. King
+    - Muddy Waters
 musicbrainz_id: 835cbbdd-4a59-45a9-bf37-6d2050aec2a9
 network_extracted: true
-origin: Austin, Texas, USA
+origin: 'Austin, Texas, USA'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://www.bilbaobluesfestival.com/en/the-fabulous-thunderbirds-living-blues-rock-history/
-- https://www.tshaonline.org/handbook/entries/fabulous-thunderbirds
-- https://www.lastmusic.co.uk/artists/the-fab
-- https://www.laphil.com/musicdb/artists/1730/the-fabulous-thunderbirds
-- https://www.austinfilm.org/sponsored/tuffenuff/
-- https://fabulousthunderbirds.com/about
-- http://bluesjunctionproductions.com/re-visited_the_fabulous_thunderbirds_-_girls_go_wild
-- https://www.goldminemag.com/music-history/take-five/5-early-tracks-from-the-fabulous-thunderbirds-that-you-should-know/
+  - >-
+    https://www.bilbaobluesfestival.com/en/the-fabulous-thunderbirds-living-blues-rock-history/
+  - 'https://www.tshaonline.org/handbook/entries/fabulous-thunderbirds'
+  - 'https://www.lastmusic.co.uk/artists/the-fab'
+  - 'https://www.laphil.com/musicdb/artists/1730/the-fabulous-thunderbirds'
+  - 'https://www.austinfilm.org/sponsored/tuffenuff/'
+  - 'https://fabulousthunderbirds.com/about'
+  - >-
+    http://bluesjunctionproductions.com/re-visited_the_fabulous_thunderbirds_-_girls_go_wild
+  - >-
+    https://www.goldminemag.com/music-history/take-five/5-early-tracks-from-the-fabulous-thunderbirds-that-you-should-know/
 spotify_data:
   followers: 193084
   id: 6zmLTiN3NBNCDECRbbJKkT
   popularity: 42
-  url: https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT
+  url: 'https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT'
 status: active
 tags:
-- blues
-- blues rock
-- electric texas blues
+  - blues
+  - blues rock
+  - electric texas blues
 title: The Fabulous Thunderbirds
 ---
 

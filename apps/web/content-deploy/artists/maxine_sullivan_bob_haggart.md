@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-25T02:03:45.137303'
-birth_place: Pittsburgh, Pennsylvania, United States (birthplace)
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:03:45.137313'
 external_urls:
-  spotify: https://open.spotify.com/artist/0tEpMx1r2UhJNf6yMvVBLG
+  spotify: 'https://open.spotify.com/artist/0tEpMx1r2UhJNf6yMvVBLG'
   wikipedia: Not provided in search results
 genres:
-- vocal jazz
-- swing music
+  - vocal jazz
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/maxine_sullivan_bob_haggart.jpg
 last_updated: '2026-02-25T02:03:45.137314'
 musical_connections:
   collaborators:
-  - John Kirby
-  - Bob Haggart
-  - Bob Wilber
-  - Charlie Shavers
-  - Ellis Larkins
+    - John Kirby
+    - Bob Haggart
+    - Bob Wilber
+    - Charlie Shavers
+    - Ellis Larkins
   influenced:
-  - Peggy Lee
+    - Peggy Lee
   mentors:
-  - Gladys Mosier
-  - Claude Thornhill
+    - Gladys Mosier
+    - Claude Thornhill
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://swingandbeyond.com/2018/06/09/too-many-tears-1969-maxine-sullivan-with-bob-wilber/
-- https://nmaahc.si.edu/explore/stories/life-well-sung
-- https://kids.kiddle.co/Maxine_Sullivan
-- https://www.allaboutjazz.com/musicians/maxine-sullivan/
-- https://syncopatedtimes.com/yank-lawson-and-bob-haggart-profiles-in-jazz/
-- https://en.wikipedia.org/wiki/Bob_Haggart
-- https://jazzjournal.co.uk/2019/11/14/maxine-sullivan-the-collection-1937-49/
+  - >-
+    https://swingandbeyond.com/2018/06/09/too-many-tears-1969-maxine-sullivan-with-bob-wilber/
+  - 'https://nmaahc.si.edu/explore/stories/life-well-sung'
+  - 'https://kids.kiddle.co/Maxine_Sullivan'
+  - 'https://www.allaboutjazz.com/musicians/maxine-sullivan/'
+  - 'https://syncopatedtimes.com/yank-lawson-and-bob-haggart-profiles-in-jazz/'
+  - 'https://en.wikipedia.org/wiki/Bob_Haggart'
+  - 'https://jazzjournal.co.uk/2019/11/14/maxine-sullivan-the-collection-1937-49/'
 spotify_data:
   followers: 11400
   id: 0tEpMx1r2UhJNf6yMvVBLG
   popularity: 24
-  url: https://open.spotify.com/artist/0tEpMx1r2UhJNf6yMvVBLG
+  url: 'https://open.spotify.com/artist/0tEpMx1r2UhJNf6yMvVBLG'
 status: active
-title: Maxine Sullivan, Bob Haggart
+title: 'Maxine Sullivan, Bob Haggart'
+artist_type: person
 ---
 
 ![](maxine_sullivan_bob_haggart.jpg)

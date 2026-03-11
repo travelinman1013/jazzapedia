@@ -3,45 +3,48 @@ biography_enhanced_at: '2026-02-08T02:00:47.036294'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:00:47.036302'
 external_urls:
-  spotify: https://open.spotify.com/artist/1nGt9Auu0hzIZ6lI2WZWOq
-  wikipedia: https://en.wikipedia.org/wiki/Los_Mu%C3%B1equitos_de_Matanzas
+  spotify: 'https://open.spotify.com/artist/1nGt9Auu0hzIZ6lI2WZWOq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Los_Mu%C3%B1equitos_de_Matanzas'
 genres:
-- afro-cuban jazz
-- timba
-- latin jazz
-- son cubano
+  - afro-cuban jazz
+  - timba
+  - latin jazz
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/los_munequitos_de_matanzas.jpg
 last_updated: '2026-02-08T02:00:47.036303'
 musical_connections:
   collaborators:
-  - Florencio Calle 'Catalino'
-  - Diosdado Ramos
-  - Jesús Alfonso
-  - Esteban Lantri 'Saldiguera'
+    - Florencio Calle 'Catalino'
+    - Diosdado Ramos
+    - Jesús Alfonso
+    - Esteban Lantri 'Saldiguera'
   influenced:
-  - Eddie Palmieri
-  - Grupo Vocal Sampling
+    - Eddie Palmieri
+    - Grupo Vocal Sampling
   mentors:
-  - Arsenio Rodríguez
+    - Arsenio Rodríguez
 network_extracted: true
-origin: Matanzas, Matanzas Province, Cuba
+origin: 'Matanzas, Matanzas Province, Cuba'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Los_Mu%C3%B1equitos_de_Matanzas
-- http://cubasi.cu/en/news/los-munequitos-de-matanzas-power-rumba
-- https://www.afrocubaweb.com/munequitos/muneq.htm
-- https://www.last.fm/es/music/Los+Mu%C3%B1equitos+De+Matanzas/+wiki
-- https://oncubanews.com/en/culture/munequitos-de-matanzas/
-- https://latinjazznet.com/reviews/albums/los-munequitos-de-matanzas-la-bandera-de-mi-tierra/
-- https://havanamusicschool.com/munequitos-de-matanzas-you-guys-are-the-rumba/
-- https://www.afropop.org/articles/voices-in-vinyl-matanzas-a-story-in-afro-cuban-culture
+  - 'https://en.wikipedia.org/wiki/Los_Mu%C3%B1equitos_de_Matanzas'
+  - 'http://cubasi.cu/en/news/los-munequitos-de-matanzas-power-rumba'
+  - 'https://www.afrocubaweb.com/munequitos/muneq.htm'
+  - 'https://www.last.fm/es/music/Los+Mu%C3%B1equitos+De+Matanzas/+wiki'
+  - 'https://oncubanews.com/en/culture/munequitos-de-matanzas/'
+  - >-
+    https://latinjazznet.com/reviews/albums/los-munequitos-de-matanzas-la-bandera-de-mi-tierra/
+  - 'https://havanamusicschool.com/munequitos-de-matanzas-you-guys-are-the-rumba/'
+  - >-
+    https://www.afropop.org/articles/voices-in-vinyl-matanzas-a-story-in-afro-cuban-culture
 spotify_data:
   followers: 15794
   id: 1nGt9Auu0hzIZ6lI2WZWOq
   popularity: 30
-  url: https://open.spotify.com/artist/1nGt9Auu0hzIZ6lI2WZWOq
+  url: 'https://open.spotify.com/artist/1nGt9Auu0hzIZ6lI2WZWOq'
 status: active
 title: Los Munequitos de Matanzas
+artist_type: band
 ---
 
 ![](los_munequitos_de_matanzas.jpg)

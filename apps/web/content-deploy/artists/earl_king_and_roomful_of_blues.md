@@ -1,47 +1,53 @@
 ---
 biography_enhanced_at: '2026-02-11T01:59:38.130274'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 disambiguation: Spez. Edition
 enhancement_provider: perplexity
 entry_created: '2026-02-11T01:59:38.130281'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0b57fdc9-14f8-4361-ab81-ab2430c6ae85
-  spotify: https://open.spotify.com/artist/02MBmtgkuaSzywfcSIMKch
-  wikipedia: https://en.wikipedia.org/wiki/Earl_King
+  musicbrainz: 'https://musicbrainz.org/artist/0b57fdc9-14f8-4361-ab81-ab2430c6ae85'
+  spotify: 'https://open.spotify.com/artist/02MBmtgkuaSzywfcSIMKch'
+  wikipedia: 'https://en.wikipedia.org/wiki/Earl_King'
 genres:
-- cajun
-- zydeco
-image_path: 03_Resources/source_material/ArtistPortraits/earl_king_and_roomful_of_blues.jpg
+  - cajun
+  - zydeco
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/earl_king_and_roomful_of_blues.jpg
 last_updated: '2026-02-11T01:59:38.130282'
 musical_connections:
   collaborators:
-  - Roomful of Blues
-  - Allen Toussaint and the Meters
-  - Dave Bartholomew
-  - Snooks Eaglin
+    - Roomful of Blues
+    - Allen Toussaint and the Meters
+    - Dave Bartholomew
+    - Snooks Eaglin
   influenced:
-  - Jimi Hendrix
-  - Stevie Ray Vaughan
-  - Freddie King
-  - Professor Longhair
+    - Jimi Hendrix
+    - Stevie Ray Vaughan
+    - Freddie King
+    - Professor Longhair
   mentors:
-  - Guitar Slim
+    - Guitar Slim
 musicbrainz_id: 0b57fdc9-14f8-4361-ab81-ab2430c6ae85
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Earl_King
-- https://fromthevaults-boppinbob.blogspot.com/2013/02/earl-king-born-7-february-1934.html
-- https://bittersoutherner.com/feature/2021/earl-king-poet-laureate-of-new-orleans
-- https://kids.kiddle.co/Earl_King
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/king-earl
+  - 'https://en.wikipedia.org/wiki/Earl_King'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2013/02/earl-king-born-7-february-1934.html
+  - >-
+    https://bittersoutherner.com/feature/2021/earl-king-poet-laureate-of-new-orleans
+  - 'https://kids.kiddle.co/Earl_King'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/king-earl
 spotify_data:
   followers: 229
   id: 02MBmtgkuaSzywfcSIMKch
   popularity: 5
-  url: https://open.spotify.com/artist/02MBmtgkuaSzywfcSIMKch
+  url: 'https://open.spotify.com/artist/02MBmtgkuaSzywfcSIMKch'
 status: active
 title: Earl King & Roomful Of Blues
+birth_date: '1934-02-07'
+artist_type: band
 ---
 
 ![](earl_king_and_roomful_of_blues.jpg)

@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-02-03T02:01:35.527043'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:01:35.527059'
 external_urls:
-  spotify: https://open.spotify.com/artist/1PqdHQoxKkIQmNvm4suEhZ
-  wikipedia: https://en.wikipedia.org/wiki/Tito_Puente
+  spotify: 'https://open.spotify.com/artist/1PqdHQoxKkIQmNvm4suEhZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tito_Puente'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/tito_puente_and_la_india.jpg
 last_updated: '2026-02-03T02:01:35.527063'
 musical_connections:
   collaborators:
-  - Machito
-  - George Shearing
-  - Woody Herman
-  - La India
+    - Machito
+    - George Shearing
+    - Woody Herman
+    - La India
   influenced:
-  - Carlos Santana
+    - Carlos Santana
   mentors:
-  - Mario Bauza
-  - Lieutenant Sweeney
+    - Mario Bauza
+    - Lieutenant Sweeney
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/tito-puente
-- https://en.wikipedia.org/wiki/Tito_Puente
-- https://www.nprdpinc.org/historical-honoree/la-india
-- https://worldmusiccentral.org/artist-profiles-tito-puente/
-- https://fania.com/artist/tito-puente/
-- https://www.nps.gov/articles/000/la-india-the-princess-of-salsa.htm
-- http://www.salsablvd.com/biographies/la-india.htm
+  - 'https://www.biography.com/musicians/tito-puente'
+  - 'https://en.wikipedia.org/wiki/Tito_Puente'
+  - 'https://www.nprdpinc.org/historical-honoree/la-india'
+  - 'https://worldmusiccentral.org/artist-profiles-tito-puente/'
+  - 'https://fania.com/artist/tito-puente/'
+  - 'https://www.nps.gov/articles/000/la-india-the-princess-of-salsa.htm'
+  - 'http://www.salsablvd.com/biographies/la-india.htm'
 spotify_data:
   followers: 4182
   id: 1PqdHQoxKkIQmNvm4suEhZ
   popularity: 49
-  url: https://open.spotify.com/artist/1PqdHQoxKkIQmNvm4suEhZ
+  url: 'https://open.spotify.com/artist/1PqdHQoxKkIQmNvm4suEhZ'
 status: active
 title: Tito Puente & La India
+birth_date: '1923-04-20'
+death_date: '2000-05-31'
+artist_type: band
 ---
 
 ![](tito_puente_and_la_india.jpg)

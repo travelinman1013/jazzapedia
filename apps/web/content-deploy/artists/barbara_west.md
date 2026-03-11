@@ -4,7 +4,7 @@ birth_place: Unknown
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:36:28.668677'
 external_urls:
-  spotify: https://open.spotify.com/artist/5XK9gtqSZeDp52Hg50diLY
+  spotify: 'https://open.spotify.com/artist/5XK9gtqSZeDp52Hg50diLY'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/barbara_west.jpg
@@ -16,15 +16,16 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/barbara-west-mn0000788975
-- https://secondhandsongs.com/artist/75124/all
+  - 'https://www.allmusic.com/artist/barbara-west-mn0000788975'
+  - 'https://secondhandsongs.com/artist/75124/all'
 spotify_data:
   followers: 5619
   id: 5XK9gtqSZeDp52Hg50diLY
   popularity: 26
-  url: https://open.spotify.com/artist/5XK9gtqSZeDp52Hg50diLY
+  url: 'https://open.spotify.com/artist/5XK9gtqSZeDp52Hg50diLY'
 status: active
 title: Barbara West
+artist_type: person
 ---
 
 ![](barbara_west.jpg)

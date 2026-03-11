@@ -1,47 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-31T01:06:40.860792'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:06:40.860808'
 external_urls:
-  spotify: https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7
-  wikipedia: https://en.wikipedia.org/wiki/Wynton_Marsalis
+  spotify: 'https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wynton_Marsalis'
 genres:
-- jazz
-- latin jazz
-- big band
-- jazz ballads
-- cool jazz
-image_path: 03_Resources/source_material/ArtistPortraits/wynton_marsalis_and_lincoln_center_jazz_orchestra.jpg
+  - jazz
+  - latin jazz
+  - big band
+  - jazz ballads
+  - cool jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/wynton_marsalis_and_lincoln_center_jazz_orchestra.jpg
 last_updated: '2026-01-31T01:06:40.860810'
 musical_connections:
   collaborators:
-  - Branford Marsalis
-  - Kenny Kirkland
-  - Charnett Moffett
-  - Jeff 'Tain' Watts
-  - Jazz at Lincoln Center Orchestra
+    - Branford Marsalis
+    - Kenny Kirkland
+    - Charnett Moffett
+    - Jeff 'Tain' Watts
+    - Jazz at Lincoln Center Orchestra
   influenced:
-  - Young jazz musicians and students
+    - Young jazz musicians and students
   mentors:
-  - Art Blakey
-  - Herbie Hancock
+    - Art Blakey
+    - Herbie Hancock
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wynton_Marsalis
-- https://cso.org/about/performers/visiting-artists/brass/wynton-marsalis/
-- https://wyntonmarsalis.org/about/bio
-- https://www.primoartists.com/wynton-marsalis
-- https://theconrad.org/bio/wynton-marsalis/
-- https://wyntonmarsalis.org/images/press/WM_bio2017.pdf
+  - 'https://en.wikipedia.org/wiki/Wynton_Marsalis'
+  - 'https://cso.org/about/performers/visiting-artists/brass/wynton-marsalis/'
+  - 'https://wyntonmarsalis.org/about/bio'
+  - 'https://www.primoartists.com/wynton-marsalis'
+  - 'https://theconrad.org/bio/wynton-marsalis/'
+  - 'https://wyntonmarsalis.org/images/press/WM_bio2017.pdf'
 spotify_data:
   followers: 253106
   id: 375zxMmh2cSgUzFFnva0O7
   popularity: 51
-  url: https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7
+  url: 'https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7'
 status: active
 title: Wynton Marsalis & Lincoln Center Jazz Orchestra
+birth_date: '1961-10-18'
+artist_type: band
 ---
 
 ![](wynton_marsalis_and_lincoln_center_jazz_orchestra.jpg)

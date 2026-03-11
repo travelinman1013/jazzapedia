@@ -1,46 +1,49 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:36:17.773255'
-birth_place: United States
+birth_place: 'United States, United States, null'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:36:17.773265'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e411fb0c-546a-4f38-bd09-c605b9d899bf
-  spotify: https://open.spotify.com/artist/5RTZbaOmBog1RS0FpeAj0V
+  musicbrainz: 'https://musicbrainz.org/artist/e411fb0c-546a-4f38-bd09-c605b9d899bf'
+  spotify: 'https://open.spotify.com/artist/5RTZbaOmBog1RS0FpeAj0V'
   wikipedia: ''
 gender: Male
 genres:
-- retro soul
+  - retro soul
 image_path: 03_Resources/source_material/ArtistPortraits/gerald_mccauley.jpg
 instruments:
-- Rhodes piano
-- electric piano
-- lead vocals
+  - Rhodes piano
+  - electric piano
+  - lead vocals
 last_updated: '2026-03-03T01:36:17.773267'
 musical_connections:
   collaborators:
-  - Rob Mullins
-  - Dean James
-  - George Benson
-  - Al Jarreau
+    - Rob Mullins
+    - Dean James
+    - George Benson
+    - Al Jarreau
   influenced: []
   mentors: []
 musicbrainz_id: e411fb0c-546a-4f38-bd09-c605b9d899bf
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/gerald-mccauley-mn0000649436
-- https://www.coleminerecords.com/products/gerald-mccauley-wondering
-- https://www.t25cl.com/collections/gerald-mccauley-the-gift
-- https://www.bloomsbury.com/us/down-the-rhodes-9781480342422/
-- https://www.dignitymemorial.com/obituaries/burbank-ca/gerald-mccauley-10469122
+  - 'https://www.allmusic.com/artist/gerald-mccauley-mn0000649436'
+  - 'https://www.coleminerecords.com/products/gerald-mccauley-wondering'
+  - 'https://www.t25cl.com/collections/gerald-mccauley-the-gift'
+  - 'https://www.bloomsbury.com/us/down-the-rhodes-9781480342422/'
+  - >-
+    https://www.dignitymemorial.com/obituaries/burbank-ca/gerald-mccauley-10469122
 spotify_data:
   followers: 143
   id: 5RTZbaOmBog1RS0FpeAj0V
   popularity: 5
-  url: https://open.spotify.com/artist/5RTZbaOmBog1RS0FpeAj0V
+  url: 'https://open.spotify.com/artist/5RTZbaOmBog1RS0FpeAj0V'
 status: active
 title: Gerald McCauley
+birth_date: '1964-05-30'
+death_date: '2021-11-21'
 ---
 
 ![](gerald_mccauley.jpg)

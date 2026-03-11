@@ -1,102 +1,104 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: de9a19b3-531b-4df3-ae90-4763fe282946
-  name: The Crickets
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 6ed2f24c-f205-4add-8477-aa000934c073
-  name: Old Dogs
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c685765c-b778-4ed6-9035-8f7088431765
-  name: The Highwaymen
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: bfb72ba3-d816-4eac-ac9d-ff14bcc91016
-  name: Waylon Jennings and The Waymore Blues Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 45716fc0-8e06-4143-a47b-327a7906ffb4
-  name: Waylon Jennings & Willie Nelson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: de9a19b3-531b-4df3-ae90-4763fe282946
+    name: The Crickets
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6ed2f24c-f205-4add-8477-aa000934c073
+    name: Old Dogs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c685765c-b778-4ed6-9035-8f7088431765
+    name: The Highwaymen
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: bfb72ba3-d816-4eac-ac9d-ff14bcc91016
+    name: Waylon Jennings and The Waymore Blues Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 45716fc0-8e06-4143-a47b-327a7906ffb4
+    name: Waylon Jennings & Willie Nelson
 biography_enhanced_at: '2026-02-15T01:54:55.408294'
 birth_date: '1937-06-15'
-birth_place: Littlefield
+birth_place: 'Littlefield, Texas, United States'
 death_date: '2002-02-13'
 disambiguation: US country musician
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:54:55.408302'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1a46826b-4d73-4e04-8590-f36c9d832f9e
-  spotify: https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM
-  wikipedia: https://en.wikipedia.org/wiki/Waylon_Jennings
+  musicbrainz: 'https://musicbrainz.org/artist/1a46826b-4d73-4e04-8590-f36c9d832f9e'
+  spotify: 'https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Waylon_Jennings'
 gender: Male
 genres:
-- outlaw country
-- classic country
-- country
-- honky tonk
-- traditional country
+  - outlaw country
+  - classic country
+  - country
+  - honky tonk
+  - traditional country
 image_path: 03_Resources/source_material/ArtistPortraits/waylon_jennings.jpg
 instruments:
-- original
-- eponymous
-- guitar
-- electric guitar
-- acoustic guitar
-- lead vocals
-- background vocals
-- choir vocals
-- spoken vocals
+  - original
+  - eponymous
+  - guitar
+  - electric guitar
+  - acoustic guitar
+  - lead vocals
+  - background vocals
+  - choir vocals
+  - spoken vocals
 last_updated: '2026-02-15T01:54:55.408303'
 musical_connections:
   collaborators:
-  - Willie Nelson
-  - Jessi Colter
-  - Tompall Glaser
-  - Kris Kristofferson
-  - Johnny Cash
-  - The Waylors
+    - Willie Nelson
+    - Jessi Colter
+    - Tompall Glaser
+    - Kris Kristofferson
+    - Johnny Cash
+    - The Waylors
   influenced:
-  - Hank Williams Jr.
-  - David Allan Coe
-  - Merle Haggard
+    - Hank Williams Jr.
+    - David Allan Coe
+    - Merle Haggard
   mentors:
-  - Buddy Holly
-  - Chet Atkins
-  - Johnny Cash
+    - Buddy Holly
+    - Chet Atkins
+    - Johnny Cash
 musicbrainz_id: 1a46826b-4d73-4e04-8590-f36c9d832f9e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/waylon-jennings
-- https://en.wikipedia.org/wiki/Waylon_Jennings
-- https://www.goodreads.com/book/show/79193.Waylon
-- https://www.britannica.com/biography/Waylon-Jennings
-- https://waylonshop.com/products/waylon-an-autobiography
-- https://americansongwriter.com/waylon-jennings-books/
+  - 'https://www.biography.com/musicians/waylon-jennings'
+  - 'https://en.wikipedia.org/wiki/Waylon_Jennings'
+  - 'https://www.goodreads.com/book/show/79193.Waylon'
+  - 'https://www.britannica.com/biography/Waylon-Jennings'
+  - 'https://waylonshop.com/products/waylon-an-autobiography'
+  - 'https://americansongwriter.com/waylon-jennings-books/'
 spotify_data:
   followers: 1730252
   id: 7wCjDgV6nqBsHguQXPAaIM
   popularity: 67
-  url: https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM
+  url: 'https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM'
 status: active
 tags:
-- alt-country
-- country
-- country rock
+  - alt-country
+  - country
+  - country rock
 title: Waylon Jennings
+is_active: false
+origin: 'Lubbock, Texas, United States'
 ---
 
 ![](waylon_jennings.jpg)

@@ -1,42 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-01T01:29:04.954527'
-birth_place: Favela do Canão, São Paulo, Brazil
+birth_place: 'Favela do Canão, São Paulo, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:29:04.954533'
 external_urls:
-  spotify: https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o
-  wikipedia: https://en.wikipedia.org/wiki/Sabotage_(rapper)
+  spotify: 'https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sabotage_(rapper)'
 genres:
-- brazilian hip hop
+  - brazilian hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/instituto_and_sabotage.jpg
 last_updated: '2026-02-01T01:29:04.954534'
 musical_connections:
   collaborators:
-  - RZO Group
-  - Sepultura
+    - RZO Group
+    - Sepultura
   influenced:
-  - Criolo
-  - Emicida
-  - Karol Conka
+    - Criolo
+    - Emicida
+    - Karol Conka
   mentors:
-  - Rapin Hood and Sandrão (RZO Group)
-  - Mano Brown (Racionais MCs)
+    - Rapin Hood and Sandrão (RZO Group)
+    - Mano Brown (Racionais MCs)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://sabotageoficial.com/home-english/
-- https://en.wikipedia.org/wiki/Sabotage_(rapper)
-- https://www.bertelsmann.com/news-and-media/news/bmg-to-publish-brazilian-hip-hop-icon-sabotage.jsp
-- https://www.riotimesonline.com/brazil-news/rio-entertainment/music/the-story-of-famous-brazilian-rapper-sabotage-will-be-recounted-on-film/
-- https://www.hercampus.com/school/casper-libero/sabotage-50-whos-the-rapper-known-as-the-brazilian-tupac/
-- https://hip-hop-music.fandom.com/wiki/Sabotage
+  - 'http://sabotageoficial.com/home-english/'
+  - 'https://en.wikipedia.org/wiki/Sabotage_(rapper)'
+  - >-
+    https://www.bertelsmann.com/news-and-media/news/bmg-to-publish-brazilian-hip-hop-icon-sabotage.jsp
+  - >-
+    https://www.riotimesonline.com/brazil-news/rio-entertainment/music/the-story-of-famous-brazilian-rapper-sabotage-will-be-recounted-on-film/
+  - >-
+    https://www.hercampus.com/school/casper-libero/sabotage-50-whos-the-rapper-known-as-the-brazilian-tupac/
+  - 'https://hip-hop-music.fandom.com/wiki/Sabotage'
 spotify_data:
   followers: 22942
   id: 33xmh99C0KxDvzaPjR178o
   popularity: 54
-  url: https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o
+  url: 'https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o'
 status: active
-title: instituto & sabotage
+title: Instituto & Sabotage
+origin: 'São Paulo, Brazil'
+birth_date: '1973-04-03'
+death_date: '2003-01-24'
+artist_type: person
 ---
 
 ![](instituto_and_sabotage.jpg)

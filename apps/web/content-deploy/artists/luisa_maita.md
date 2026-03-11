@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2026-03-01T02:00:09.734510'
-birth_place: São Paulo (Bela Vista/Bixiga neighborhood), Brazil
+birth_place: 'São Paulo, São Paulo, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:00:09.734522'
 external_urls:
-  spotify: https://open.spotify.com/artist/4BgTv4STSndm0cWNWsehl1
-  wikipedia: https://en.wikipedia.org/wiki/Lu%C3%ADsa_Maita
+  spotify: 'https://open.spotify.com/artist/4BgTv4STSndm0cWNWsehl1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lu%C3%ADsa_Maita'
 genres:
-- new mpb
-- forró
+  - new mpb
+  - forró
 image_path: 03_Resources/source_material/ArtistPortraits/luisa_maita.jpg
 last_updated: '2026-03-01T02:00:09.734524'
 musical_connections:
   collaborators:
-  - Rodrigo Campos
-  - Virginia Rosa
-  - João Donato
-  - Lenine, Caetano Veloso, Maria Gadú, Mariana Aydar
-  - Morris Picciotto
+    - Rodrigo Campos
+    - Virginia Rosa
+    - João Donato
+    - 'Lenine, Caetano Veloso, Maria Gadú, Mariana Aydar'
+    - Morris Picciotto
   influenced: []
   mentors:
-  - Antonio Carlos Jobim
-  - Benjamin Taubkin
-  - Billie Holiday, Chet Baker
+    - Antonio Carlos Jobim
+    - Benjamin Taubkin
+    - 'Billie Holiday, Chet Baker'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lu%C3%ADsa_Maita
-- https://www.luisamaita.com.br/international
-- https://www.cumbancha.com/luisamaita
-- https://remezcla.com/features/music/luisa-maita-profile/
-- https://www.accent-presse.com/wp-content/uploads/IMG/pdf/Luisa_Maita_Biography_Anglais_.pdf
-- https://martyrslive.com/lu%C3%ADsa-maita
-- https://www.griot.de/luisamaita.html
+  - 'https://en.wikipedia.org/wiki/Lu%C3%ADsa_Maita'
+  - 'https://www.luisamaita.com.br/international'
+  - 'https://www.cumbancha.com/luisamaita'
+  - 'https://remezcla.com/features/music/luisa-maita-profile/'
+  - >-
+    https://www.accent-presse.com/wp-content/uploads/IMG/pdf/Luisa_Maita_Biography_Anglais_.pdf
+  - 'https://martyrslive.com/lu%C3%ADsa-maita'
+  - 'https://www.griot.de/luisamaita.html'
 spotify_data:
   followers: 13962
   id: 4BgTv4STSndm0cWNWsehl1
   popularity: 22
-  url: https://open.spotify.com/artist/4BgTv4STSndm0cWNWsehl1
+  url: 'https://open.spotify.com/artist/4BgTv4STSndm0cWNWsehl1'
 status: active
 title: Luisa Maita
+origin: 'São Paulo, São Paulo, Brazil'
+birth_date: '1982-04-27'
+artist_type: person
 ---
 
 ![](luisa_maita.jpg)

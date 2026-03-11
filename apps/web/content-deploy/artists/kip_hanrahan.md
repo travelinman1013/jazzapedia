@@ -1,65 +1,67 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bd8138ba-15fc-4095-8a00-d70c4897d53a
-  name: Conjure
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bd8138ba-15fc-4095-8a00-d70c4897d53a
+    name: Conjure
 biography_enhanced_at: '2026-02-24T01:41:27.134380'
 birth_date: '1954-12-09'
-birth_place: The Bronx
+birth_place: 'The Bronx, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:41:27.134389'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ee9f1551-5469-4df4-9419-3a14c0e07e28
-  spotify: https://open.spotify.com/artist/5DHf2YUKRha33AnBFDXcqg
-  wikipedia: https://en.wikipedia.org/wiki/Kip_Hanrahan
+  musicbrainz: 'https://musicbrainz.org/artist/ee9f1551-5469-4df4-9419-3a14c0e07e28'
+  spotify: 'https://open.spotify.com/artist/5DHf2YUKRha33AnBFDXcqg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kip_Hanrahan'
 gender: Male
 genres:
-- afro-cuban jazz
-- latin jazz
-- free jazz
+  - afro-cuban jazz
+  - latin jazz
+  - free jazz
 image_path: 03_Resources/source_material/ArtistPortraits/kip_hanrahan.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2026-02-24T01:41:27.134390'
 musical_connections:
   collaborators:
-  - Astor Piazzolla
-  - David Murray
-  - Don Pullen
-  - Jack Bruce
-  - Ishmael Reed
-  - Steve Swallow
-  - Milton Cardona
+    - Astor Piazzolla
+    - David Murray
+    - Don Pullen
+    - Jack Bruce
+    - Ishmael Reed
+    - Steve Swallow
+    - Milton Cardona
   influenced: []
   mentors:
-  - Eddie Palmieri
+    - Eddie Palmieri
 musicbrainz_id: ee9f1551-5469-4df4-9419-3a14c0e07e28
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/kip-hanrahan/
-- https://en.wikipedia.org/wiki/Kip_Hanrahan
-- http://hanrahan.free.fr/htm/life.html
-- http://www.nts.live/artists/48975-kip-hanrahan
-- https://jazztimes.com/departments/artist-profiles/kip-hanrahan-american-claveist/
-- https://www.popmatters.com/hanrahankip-pinero-2495934455.html
-- https://www.scaruffi.com/avant/hanrahan.html
-- https://www.theabsolutesound.com/articles/catching-up-with-kip-hanrahan/
-- https://www.americanclave.com/1-kip.html
+  - 'https://www.allaboutjazz.com/musicians/kip-hanrahan/'
+  - 'https://en.wikipedia.org/wiki/Kip_Hanrahan'
+  - 'http://hanrahan.free.fr/htm/life.html'
+  - 'http://www.nts.live/artists/48975-kip-hanrahan'
+  - >-
+    https://jazztimes.com/departments/artist-profiles/kip-hanrahan-american-claveist/
+  - 'https://www.popmatters.com/hanrahankip-pinero-2495934455.html'
+  - 'https://www.scaruffi.com/avant/hanrahan.html'
+  - 'https://www.theabsolutesound.com/articles/catching-up-with-kip-hanrahan/'
+  - 'https://www.americanclave.com/1-kip.html'
 spotify_data:
   followers: 5703
   id: 5DHf2YUKRha33AnBFDXcqg
   popularity: 14
-  url: https://open.spotify.com/artist/5DHf2YUKRha33AnBFDXcqg
+  url: 'https://open.spotify.com/artist/5DHf2YUKRha33AnBFDXcqg'
 status: active
 tags:
-- jazz
-- jazz and blues
-- percussionist
+  - jazz
+  - jazz and blues
+  - percussionist
 title: Kip Hanrahan
+origin: 'Reston, Virginia, United States'
 ---
 
 ![](kip_hanrahan.jpg)

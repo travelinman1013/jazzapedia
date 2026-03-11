@@ -2,52 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2026-03-08T03:04:51.098241'
 birth_date: '1945-12-17'
-birth_place: Birmingham
+birth_place: 'Birmingham, Alabama, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:04:51.098249'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c951fc13-5f42-4618-969d-c5e1bab004ae
-  spotify: https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX
+  musicbrainz: 'https://musicbrainz.org/artist/c951fc13-5f42-4618-969d-c5e1bab004ae'
+  spotify: 'https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX'
   wikipedia: ''
 gender: Male
 genres:
-- northern soul
-- soul
+  - northern soul
+  - soul
 image_path: 03_Resources/source_material/ArtistPortraits/sam_dees.jpg
 last_updated: '2026-03-08T03:04:51.098251'
 musical_connections:
   collaborators:
-  - Bossanovians
-  - Southern Tripleaires
-  - Black Haze Express
+    - Bossanovians
+    - Southern Tripleaires
+    - Black Haze Express
   influenced:
-  - Atlantic Starr
-  - Larry Graham
-  - Gladys Knight & the Pips
-  - George Benson & Aretha Franklin
-  - Whitney Houston
+    - Atlantic Starr
+    - Larry Graham
+    - Gladys Knight & the Pips
+    - George Benson & Aretha Franklin
+    - Whitney Houston
   mentors:
-  - Shelby Singleton
-  - Lenny Sachs
+    - Shelby Singleton
+    - Lenny Sachs
 musicbrainz_id: c951fc13-5f42-4618-969d-c5e1bab004ae
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://souldisco.de/allgemein/sam-dees-the-undiscovered-soul-legend/
-- https://www.bhamwiki.com/w/Sam_Dees
-- https://peel.fandom.com/wiki/Sam_Dees
-- https://kids.kiddle.co/Sam_Dees
-- https://sunrecords.com/artists/sam-dees/
-- https://www.crossrhythms.co.uk/articles/music/Sam_Dees_The_soul_songwriter/40751/p1/
-- https://www.allmusic.com/artist/sam-dees-mn0000238116
+  - 'https://souldisco.de/allgemein/sam-dees-the-undiscovered-soul-legend/'
+  - 'https://www.bhamwiki.com/w/Sam_Dees'
+  - 'https://peel.fandom.com/wiki/Sam_Dees'
+  - 'https://kids.kiddle.co/Sam_Dees'
+  - 'https://sunrecords.com/artists/sam-dees/'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Sam_Dees_The_soul_songwriter/40751/p1/
+  - 'https://www.allmusic.com/artist/sam-dees-mn0000238116'
 spotify_data:
   followers: 7835
   id: 25kvpgmZP82Hn719lpTrlX
   popularity: 30
-  url: https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX
+  url: 'https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX'
 status: active
 tags:
-- soul
+  - soul
 title: Sam Dees
 ---
 

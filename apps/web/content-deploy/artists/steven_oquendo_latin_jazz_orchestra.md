@@ -3,46 +3,55 @@ biography_enhanced_at: '2026-02-07T01:26:15.189527'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:26:15.189537'
 external_urls:
-  spotify: https://open.spotify.com/artist/43hm0pPtNEvrbaQ62TplgW
+  spotify: 'https://open.spotify.com/artist/43hm0pPtNEvrbaQ62TplgW'
   wikipedia: null
 genres:
-- latin jazz
-- big band
-image_path: 03_Resources/source_material/ArtistPortraits/steven_oquendo_latin_jazz_orchestra.jpg
+  - latin jazz
+  - big band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/steven_oquendo_latin_jazz_orchestra.jpg
 last_updated: '2026-02-07T01:26:15.189539'
 musical_connections:
   collaborators:
-  - Celia Cruz
-  - Rubén Blades
-  - Eddie Palmieri
-  - Juan Luis Guerra
-  - SOLJO Band Members
+    - Celia Cruz
+    - Rubén Blades
+    - Eddie Palmieri
+    - Juan Luis Guerra
+    - SOLJO Band Members
   influenced:
-  - Pelham Preparatory Academy students
-  - All-City Latin Ensemble members
+    - Pelham Preparatory Academy students
+    - All-City Latin Ensemble members
   mentors:
-  - Wynton Marsalis
-  - Jon Faddis
+    - Wynton Marsalis
+    - Jon Faddis
 network_extracted: true
-origin: New York City, New York, United States (birthplace); Bronx, New York, United
+origin: >-
+  New York City, New York, United States (birthplace); Bronx, New York, United
   States (SOLJO origin)
 primary_source: perplexity
 research_sources:
-- https://www.truthrevolutionrecords.com/stevenoquendo
-- https://www.lincolncenter.org/series/summer-for-the-city/the-steven-oquendo-latin-jazz-orchestra-953
-- https://newworldnjazz.com/steven-oquendo-latin-jazz-orchestra-a-centennial-salute-to-tito-tito-truth-revolutions/
-- https://latinjazznet.com/reviews/albums/steven-oquendo-latin-jazz-orchestra-a-centennial-salute-to-tito-tito/
-- https://jazzizdiscovery.com/new-releases/a-centennial-salute-to-tito-tito/
-- https://www.blrbmag.com/post/steven-oquendo-s-latin-jazz-orchestra-swings-into-history-on-a-centennial-salute-to-tito-tito
-- https://www.allaboutjazz.com/news/burnin-hot-new-release-the-steven-oquendo-latin-jazz-orchestra-live-at-dizzys/
-- https://queenslatino.com/tito-tito-hot-latin-jazz-steven-oquendo/
+  - 'https://www.truthrevolutionrecords.com/stevenoquendo'
+  - >-
+    https://www.lincolncenter.org/series/summer-for-the-city/the-steven-oquendo-latin-jazz-orchestra-953
+  - >-
+    https://newworldnjazz.com/steven-oquendo-latin-jazz-orchestra-a-centennial-salute-to-tito-tito-truth-revolutions/
+  - >-
+    https://latinjazznet.com/reviews/albums/steven-oquendo-latin-jazz-orchestra-a-centennial-salute-to-tito-tito/
+  - 'https://jazzizdiscovery.com/new-releases/a-centennial-salute-to-tito-tito/'
+  - >-
+    https://www.blrbmag.com/post/steven-oquendo-s-latin-jazz-orchestra-swings-into-history-on-a-centennial-salute-to-tito-tito
+  - >-
+    https://www.allaboutjazz.com/news/burnin-hot-new-release-the-steven-oquendo-latin-jazz-orchestra-live-at-dizzys/
+  - 'https://queenslatino.com/tito-tito-hot-latin-jazz-steven-oquendo/'
 spotify_data:
   followers: 94
   id: 43hm0pPtNEvrbaQ62TplgW
   popularity: 2
-  url: https://open.spotify.com/artist/43hm0pPtNEvrbaQ62TplgW
+  url: 'https://open.spotify.com/artist/43hm0pPtNEvrbaQ62TplgW'
 status: active
 title: Steven Oquendo Latin Jazz Orchestra
+birth_place: 'New York City, New York, United States'
+artist_type: person
 ---
 
 ![](steven_oquendo_latin_jazz_orchestra.jpg)

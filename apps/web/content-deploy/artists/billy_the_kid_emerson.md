@@ -1,46 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-27T01:37:31.359362'
-birth_place: Tarpon Springs, Pinellas County, Florida, United States
+birth_place: 'Tarpon Springs, Pinellas County, Florida, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:37:31.359374'
 external_urls:
-  spotify: https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw
+  spotify: 'https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw'
   wikipedia: ''
 genres:
-- classic blues
-- rockabilly
+  - classic blues
+  - rockabilly
 image_path: 03_Resources/source_material/ArtistPortraits/billy_the_kid_emerson.jpg
 last_updated: '2026-02-27T01:37:31.359376'
 musical_connections:
   collaborators:
-  - Ike Turner
-  - Willie Dixon
-  - Denise LaSalle
-  - Earl Hooker
+    - Ike Turner
+    - Willie Dixon
+    - Denise LaSalle
+    - Earl Hooker
   influenced:
-  - Elvis Presley
-  - Billy Lee Riley
-  - Bob Luman
+    - Elvis Presley
+    - Billy Lee Riley
+    - Bob Luman
   mentors:
-  - John Hannah
-  - Ike Turner
+    - John Hannah
+    - Ike Turner
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Billy+%22The+Kid%22+Emerson/+wiki
-- https://dekedickerson.com/musings/billy-the-kid-emerson/
-- https://sunrecords.com/artists/billy-the-kid-emerson/
-- https://dos.fl.gov/cultural/programs/florida-folklife-program/folk-heritage-awards/list-of-past-recipients/william-emerson/
-- https://www.iheart.com/artist/billy-the-kid-emerson-127453/
-- https://tims.blackcat.nl/messages/billy_the_kid_emerson.htm
-- https://www.allmusic.com/artist/billy-the-kid-emerson-mn0000068045
+  - 'https://www.last.fm/music/Billy+%22The+Kid%22+Emerson/+wiki'
+  - 'https://dekedickerson.com/musings/billy-the-kid-emerson/'
+  - 'https://sunrecords.com/artists/billy-the-kid-emerson/'
+  - >-
+    https://dos.fl.gov/cultural/programs/florida-folklife-program/folk-heritage-awards/list-of-past-recipients/william-emerson/
+  - 'https://www.iheart.com/artist/billy-the-kid-emerson-127453/'
+  - 'https://tims.blackcat.nl/messages/billy_the_kid_emerson.htm'
+  - 'https://www.allmusic.com/artist/billy-the-kid-emerson-mn0000068045'
 spotify_data:
   followers: 2942
   id: 07mlkNoHj4X0n11DmGBptw
   popularity: 14
-  url: https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw
+  url: 'https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw'
 status: active
-title: billy the kid emerson
+title: Billy the Kid Emerson
+birth_date: '1925-12-21'
+artist_type: person
 ---
 
 ![](billy_the_kid_emerson.jpg)

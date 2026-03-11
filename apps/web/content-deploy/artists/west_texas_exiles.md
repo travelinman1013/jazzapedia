@@ -1,49 +1,50 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-09T01:22:57.674647'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:22:57.674652'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1051a1dd-409f-441b-806d-6bba22ea5059
-  spotify: https://open.spotify.com/artist/7Du2DuYP9MjzSgxQHtQoCO
+  musicbrainz: 'https://musicbrainz.org/artist/1051a1dd-409f-441b-806d-6bba22ea5059'
+  spotify: 'https://open.spotify.com/artist/7Du2DuYP9MjzSgxQHtQoCO'
   wikipedia: ''
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/west_texas_exiles.jpg
 last_updated: '2026-02-09T01:22:57.674653'
 musical_connections:
   collaborators:
-  - Jaret Ray Reddick
-  - NOIVAS
-  - Dave Alvin
-  - Jimmie Dale Gilmore
-  - Eric Harrison
-  - Trinidad Leal
-  - Marco Gutierrez
+    - Jaret Ray Reddick
+    - NOIVAS
+    - Dave Alvin
+    - Jimmie Dale Gilmore
+    - Eric Harrison
+    - Trinidad Leal
+    - Marco Gutierrez
   influenced: []
   mentors:
-  - Jimmie Dale Gilmore
-  - The Flatlanders
+    - Jimmie Dale Gilmore
+    - The Flatlanders
 musicbrainz_id: 1051a1dd-409f-441b-806d-6bba22ea5059
 network_extracted: true
 origin: 'Austin, Texas, United States (origins: El Paso, Lubbock, Amarillo, Texas)'
 primary_source: perplexity
 research_sources:
-- https://www.westtexasexiles.com/about
-- https://www.westtexasexiles.com/epk-1
-- https://thekessler.org/bands/west-texas-exiles/
-- https://www.popmatters.com/west-texas-exiles-8000-days
-- https://www.stillaustin.com/blog/west-texas-exiles-a-seven-questions-series-deep-dive
-- https://theheightstheater.com/bands/west-texas-exiles/
-- https://panchospicks.com/2022/05/21/west-texas-exiles/
-- https://www.westtexasexiles.com
-- https://texasmusicscene.com/artists/west-texas-exiles/
+  - 'https://www.westtexasexiles.com/about'
+  - 'https://www.westtexasexiles.com/epk-1'
+  - 'https://thekessler.org/bands/west-texas-exiles/'
+  - 'https://www.popmatters.com/west-texas-exiles-8000-days'
+  - >-
+    https://www.stillaustin.com/blog/west-texas-exiles-a-seven-questions-series-deep-dive
+  - 'https://theheightstheater.com/bands/west-texas-exiles/'
+  - 'https://panchospicks.com/2022/05/21/west-texas-exiles/'
+  - 'https://www.westtexasexiles.com'
+  - 'https://texasmusicscene.com/artists/west-texas-exiles/'
 spotify_data:
   followers: 2833
   id: 7Du2DuYP9MjzSgxQHtQoCO
   popularity: 17
-  url: https://open.spotify.com/artist/7Du2DuYP9MjzSgxQHtQoCO
+  url: 'https://open.spotify.com/artist/7Du2DuYP9MjzSgxQHtQoCO'
 status: active
 title: West Texas Exiles
 ---

@@ -1,48 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-23T01:43:12.249591'
-birth_place: Jimma, Oromia Region, Ethiopia
+birth_place: 'Jimma, Oromia Region, Ethiopia'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:43:12.249597'
 external_urls:
-  spotify: https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv
-  wikipedia: https://en.wikipedia.org/wiki/Mulatu_Astatke
+  spotify: 'https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mulatu_Astatke'
 genres:
-- ethiopian jazz
+  - ethiopian jazz
 image_path: 03_Resources/source_material/ArtistPortraits/nubiyan_twist_mulatu_astatke.jpg
 last_updated: '2026-01-23T01:43:12.249598'
 musical_connections:
   collaborators:
-  - Mahmoud Ahmed
-  - Duke Ellington
-  - Hailu Mergia and the Walias Band
-  - Either/Orchestra
-  - The Heliocentrics
-  - Hoodna Orchestra
+    - Mahmoud Ahmed
+    - Duke Ellington
+    - Hailu Mergia and the Walias Band
+    - Either/Orchestra
+    - The Heliocentrics
+    - Hoodna Orchestra
   influenced:
-  - Nas & Damian Marley
-  - International DJ Collectives
-  - Contemporary Ethiopian Musicians
+    - Nas & Damian Marley
+    - International DJ Collectives
+    - Contemporary Ethiopian Musicians
   mentors:
-  - Berklee College of Music Faculty
-  - Trinity College of Music (London)
-  - Lindisfarne College (Wales)
+    - Berklee College of Music Faculty
+    - Trinity College of Music (London)
+    - Lindisfarne College (Wales)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Mulatu+Astatke/+wiki
-- https://worldmusiccentral.org/mulatu-astatke-the-father-of-ethio-jazz/
-- https://www.radcliffe.harvard.edu/people/mulatu-astatke
-- https://www.redbullmusicacademy.com/lectures/mulatu-astatke-ethiopian-knight/
-- https://www.allaboutjazz.com/musicians/mulatu-astatke/
-- https://en.wikipedia.org/wiki/Mulatu_Astatke
-- https://www.songlines.co.uk/artists/mulatu-astatke
+  - 'https://www.last.fm/music/Mulatu+Astatke/+wiki'
+  - 'https://worldmusiccentral.org/mulatu-astatke-the-father-of-ethio-jazz/'
+  - 'https://www.radcliffe.harvard.edu/people/mulatu-astatke'
+  - >-
+    https://www.redbullmusicacademy.com/lectures/mulatu-astatke-ethiopian-knight/
+  - 'https://www.allaboutjazz.com/musicians/mulatu-astatke/'
+  - 'https://en.wikipedia.org/wiki/Mulatu_Astatke'
+  - 'https://www.songlines.co.uk/artists/mulatu-astatke'
 spotify_data:
   followers: 306457
   id: 7HGFXtBhRq3g1Ma3nH4Rgv
   popularity: 53
-  url: https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv
+  url: 'https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv'
 status: active
 title: Nubiyan Twist/ Mulatu Astatke
+birth_date: '1943-12-19'
+artist_type: person
 ---
 
 ![](nubiyan_twist_mulatu_astatke.jpg)

@@ -1,152 +1,154 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-31T01:11:06.335434'
-birth_date: '1998'
+birth_date: '1975-04-01'
 disambiguation: Australian electic roots band
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:11:06.335442'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7952b266-9fd4-4a09-a324-7dc84f11b5fc
-  spotify: https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt
-  wikipedia: https://en.wikipedia.org/wiki/John_Butler_Trio
+  musicbrainz: 'https://musicbrainz.org/artist/7952b266-9fd4-4a09-a324-7dc84f11b5fc'
+  spotify: 'https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Butler_Trio'
 genres:
-- jam band
+  - jam band
 image_path: 03_Resources/source_material/ArtistPortraits/john_butler_trio.jpg
 instruments:
-- background vocals
-- double bass
-- electric bass guitar
-- drums (drum set)
-- eponymous
-- guitar
-- lead vocals
-- original
-- percussion
-- sampler
-- keyboard
-last_updated: '2026-01-31T01:11:06.335443'
-members:
-- begin: '1998'
-  end: '2001-06-02'
-  instruments:
   - background vocals
   - double bass
   - electric bass guitar
-  mbid: 2f2571cd-6c90-4ef4-9e10-8c28aa14d9ca
-  name: Gavin Shoesmith
-- begin: '1998'
-  end: '2002-10-20'
-  instruments:
   - drums (drum set)
-  mbid: 17ba9952-d86b-4818-9c1a-7a539867b4a6
-  name: Jason McGann
-- &id001
-  begin: '1998'
-  end: ''
-  instruments:
   - eponymous
   - guitar
   - lead vocals
   - original
-  mbid: 790278a2-0256-447e-891d-991211e90a86
-  name: John Butler
-- begin: '2001-09-02'
-  end: '2002-05-25'
-  instruments:
-  - double bass
-  - electric bass guitar
-  mbid: 9a0c58cb-f3c2-4e02-95d3-e18f254a9e24
-  name: Rory Quirk
-- begin: '2002-06-22'
-  end: '2002-10-20'
-  instruments:
-  - double bass
-  - electric bass guitar
-  mbid: 06b30ce0-ebd0-4a33-83a6-97d12cb8e5bb
-  name: Andrew Fry
-- begin: '2003-06-03'
-  end: '2009-04-18'
-  instruments:
-  - drums (drum set)
-  - percussion
-  mbid: e93cef3c-6e04-4c90-8595-23606a4dd485
-  name: Michael Barker
-- begin: '2003-06-03'
-  end: '2009-04-18'
-  instruments:
-  - background vocals
-  - double bass
-  - electric bass guitar
-  mbid: 008d0b64-25c9-41b9-9a11-a5f8a1bed4c0
-  name: Shannon Birchall
-- begin: '2009-06-30'
-  end: '2013-08-31'
-  instruments:
-  - background vocals
-  - drums (drum set)
-  - percussion
-  mbid: 8ecc0e45-4b35-4baf-91a4-f0be2cf23963
-  name: Nicky Bomba
-- begin: '2009-06-30'
-  end: '2019-03-09'
-  instruments:
-  - background vocals
-  - double bass
-  - electric bass guitar
-  mbid: 3a49acf5-fa57-452d-90c7-7a28e4ab9722
-  name: Byron Luiters
-- begin: '2013-10-08'
-  end: '2019-03-09'
-  instruments:
-  - background vocals
-  - drums (drum set)
   - percussion
   - sampler
-  mbid: 65180ad0-5eab-4ed0-bf86-e4f860d07ba6
-  name: Grant Gerathy
-- begin: '2014'
-  end: '2019-03-09'
-  instruments:
   - keyboard
-  mbid: 3a49acf5-fa57-452d-90c7-7a28e4ab9722
-  name: Byron Luiters
+last_updated: '2026-01-31T01:11:06.335443'
+members:
+  - begin: '1998'
+    end: '2001-06-02'
+    instruments:
+      - background vocals
+      - double bass
+      - electric bass guitar
+    mbid: 2f2571cd-6c90-4ef4-9e10-8c28aa14d9ca
+    name: Gavin Shoesmith
+  - begin: '1998'
+    end: '2002-10-20'
+    instruments:
+      - drums (drum set)
+    mbid: 17ba9952-d86b-4818-9c1a-7a539867b4a6
+    name: Jason McGann
+  - &ref_0
+    begin: '1998'
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - lead vocals
+      - original
+    mbid: 790278a2-0256-447e-891d-991211e90a86
+    name: John Butler
+  - begin: '2001-09-02'
+    end: '2002-05-25'
+    instruments:
+      - double bass
+      - electric bass guitar
+    mbid: 9a0c58cb-f3c2-4e02-95d3-e18f254a9e24
+    name: Rory Quirk
+  - begin: '2002-06-22'
+    end: '2002-10-20'
+    instruments:
+      - double bass
+      - electric bass guitar
+    mbid: 06b30ce0-ebd0-4a33-83a6-97d12cb8e5bb
+    name: Andrew Fry
+  - begin: '2003-06-03'
+    end: '2009-04-18'
+    instruments:
+      - drums (drum set)
+      - percussion
+    mbid: e93cef3c-6e04-4c90-8595-23606a4dd485
+    name: Michael Barker
+  - begin: '2003-06-03'
+    end: '2009-04-18'
+    instruments:
+      - background vocals
+      - double bass
+      - electric bass guitar
+    mbid: 008d0b64-25c9-41b9-9a11-a5f8a1bed4c0
+    name: Shannon Birchall
+  - begin: '2009-06-30'
+    end: '2013-08-31'
+    instruments:
+      - background vocals
+      - drums (drum set)
+      - percussion
+    mbid: 8ecc0e45-4b35-4baf-91a4-f0be2cf23963
+    name: Nicky Bomba
+  - begin: '2009-06-30'
+    end: '2019-03-09'
+    instruments:
+      - background vocals
+      - double bass
+      - electric bass guitar
+    mbid: 3a49acf5-fa57-452d-90c7-7a28e4ab9722
+    name: Byron Luiters
+  - begin: '2013-10-08'
+    end: '2019-03-09'
+    instruments:
+      - background vocals
+      - drums (drum set)
+      - percussion
+      - sampler
+    mbid: 65180ad0-5eab-4ed0-bf86-e4f860d07ba6
+    name: Grant Gerathy
+  - begin: '2014'
+    end: '2019-03-09'
+    instruments:
+      - keyboard
+    mbid: 3a49acf5-fa57-452d-90c7-7a28e4ab9722
+    name: Byron Luiters
 musical_connections:
   collaborators:
-  - Gavin Shoesmith
-  - Jason McGann
-  - Nicky Bomba
-  - Byron Luiters
-  - The Waifs
-  - Phil Stevens
+    - Gavin Shoesmith
+    - Jason McGann
+    - Nicky Bomba
+    - Byron Luiters
+    - The Waifs
+    - Phil Stevens
   influenced:
-  - Nicky Bomba
+    - Nicky Bomba
   mentors:
-  - The Waifs
+    - The Waifs
 musicbrainz_id: 7952b266-9fd4-4a09-a324-7dc84f11b5fc
 network_extracted: true
-origin: Fremantle
+origin: 'Fremantle, Western Australia, Australia'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_Butler_Trio
-- https://www.last.fm/music/The+John+Butler+Trio/+wiki
-- https://en.wikipedia.org/wiki/John_Butler_(musician)
-- https://www.stereofox.com/artists/john-butler-trio/
-- https://kids.kiddle.co/John_Butler_(musician)
-- https://www.justinhjacobs.com/life-travel-1/2014/11/06/John-Butler-Trio-Blood-Flesh-and-Brothers
-- https://mmusicmag.com/m/2015/07/the-john-butler-trio/
+  - 'https://en.wikipedia.org/wiki/John_Butler_Trio'
+  - 'https://www.last.fm/music/The+John+Butler+Trio/+wiki'
+  - 'https://en.wikipedia.org/wiki/John_Butler_(musician)'
+  - 'https://www.stereofox.com/artists/john-butler-trio/'
+  - 'https://kids.kiddle.co/John_Butler_(musician)'
+  - >-
+    https://www.justinhjacobs.com/life-travel-1/2014/11/06/John-Butler-Trio-Blood-Flesh-and-Brothers
+  - 'https://mmusicmag.com/m/2015/07/the-john-butler-trio/'
 spotify_data:
   followers: 518012
   id: 6fBF4MULW5yMzyGaon1kUt
   popularity: 53
-  url: https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt
+  url: 'https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt'
 status: active
 tags:
-- acoustic
-- aln-sh
-- alternative rock
-title: john butler trio
+  - acoustic
+  - aln-sh
+  - alternative rock
+title: The John Butler Trio
+birth_place: 'Torrance, California, United States'
 ---
 
 ![](john_butler_trio.jpg)

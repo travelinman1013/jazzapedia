@@ -1,50 +1,55 @@
 ---
 biography_enhanced_at: '2026-02-09T01:20:52.685953'
-birth_place: Tremé, New Orleans, Louisiana, USA
+birth_place: 'Tremé, New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:20:52.685962'
 external_urls:
-  spotify: https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR
-  wikipedia: https://en.wikipedia.org/wiki/Trombone_Shorty
+  spotify: 'https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trombone_Shorty'
 genres:
-- brass band
-- jazz funk
-image_path: 03_Resources/source_material/ArtistPortraits/bonerama_trombone_shorty_cyril_neville_ivan_neville.jpg
+  - brass band
+  - jazz funk
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bonerama_trombone_shorty_cyril_neville_ivan_neville.jpg
 last_updated: '2026-02-09T01:20:52.685964'
 musical_connections:
   collaborators:
-  - Lenny Kravitz
-  - U2
-  - The Meters
-  - Green Day
-  - New Orleans Social Club
+    - Lenny Kravitz
+    - U2
+    - The Meters
+    - Green Day
+    - New Orleans Social Club
   influenced:
-  - NOCCA Classmates
-  - Trombone Shorty Music Academy Students
+    - NOCCA Classmates
+    - Trombone Shorty Music Academy Students
   mentors:
-  - James Andrews
-  - Fred Wesley
-  - Cyril Neville
-  - Tuba Fats
-  - Rebirth Brass Band
+    - James Andrews
+    - Fred Wesley
+    - Cyril Neville
+    - Tuba Fats
+    - Rebirth Brass Band
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/troy-trombone-shorty-andrews/
-- https://www.heinzawards.org/pages/troy-andrews
-- https://wicn.org/troy-trombone-shorty-andrews/
-- https://gardenandgun.com/feature/trombone-shorty-nolas-soul-man/
-- https://sandiegotroubadour.com/trombone-shorty-what-is-the-meaning-of-being-a-new-orleans-musician/
-- https://en.wikipedia.org/wiki/Trombone_Shorty
-- https://storylineonline.net/books/trombone-shorty/
-- https://thebrownbookshelf.com/28days/day-12-trombone-shorty/
+  - 'https://musicrising.tulane.edu/discover/people/troy-trombone-shorty-andrews/'
+  - 'https://www.heinzawards.org/pages/troy-andrews'
+  - 'https://wicn.org/troy-trombone-shorty-andrews/'
+  - 'https://gardenandgun.com/feature/trombone-shorty-nolas-soul-man/'
+  - >-
+    https://sandiegotroubadour.com/trombone-shorty-what-is-the-meaning-of-being-a-new-orleans-musician/
+  - 'https://en.wikipedia.org/wiki/Trombone_Shorty'
+  - 'https://storylineonline.net/books/trombone-shorty/'
+  - 'https://thebrownbookshelf.com/28days/day-12-trombone-shorty/'
 spotify_data:
   followers: 211142
   id: 37ZvFp654tY74Z1D2TLOGR
   popularity: 48
-  url: https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR
+  url: 'https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR'
 status: active
-title: Bonerama, Trombone Shorty, Cyril Neville, Ivan Neville
+title: 'Bonerama, Trombone Shorty, Cyril Neville, Ivan Neville'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1986-01-02'
+artist_type: band
 ---
 
 ![](bonerama_trombone_shorty_cyril_neville_ivan_neville.jpg)

@@ -1,10 +1,10 @@
 ---
 biography_enhanced_at: '2026-02-27T01:33:16.255218'
-birth_place: Unknown, United States
+birth_place: 'Unknown, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:33:16.255223'
 external_urls:
-  spotify: https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg
+  spotify: 'https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ray_av.jpg
@@ -16,16 +16,18 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sheisthemusic.org/profile/raysav/
-- https://app.chartmetric.com/artist/10898111
-- https://www.raysav.com
+  - 'https://sheisthemusic.org/profile/raysav/'
+  - 'https://app.chartmetric.com/artist/10898111'
+  - 'https://www.raysav.com'
 spotify_data:
   followers: 120584
   id: 4yYYCSCDUTypErQMZv5iSg
   popularity: 45
-  url: https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg
+  url: 'https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg'
 status: active
-title: Ray $av
+title: Ray$av
+birth_date: '2000-06-15'
+artist_type: person
 ---
 
 ![](ray_av.jpg)

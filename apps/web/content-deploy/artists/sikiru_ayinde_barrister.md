@@ -2,51 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-02-08T02:04:01.239246'
 birth_date: '1948-02-09'
-birth_place: Ibadan
+birth_place: 'Ibadan, Oyo State, Nigeria'
 death_date: '2010-12-16'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:04:01.239254'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c021f132-1792-410c-8816-d72827d70315
-  spotify: https://open.spotify.com/artist/3MUG3UzeQWT49WgA7hZrMg
-  wikipedia: https://en.wikipedia.org/wiki/Ayinde_Barrister
+  musicbrainz: 'https://musicbrainz.org/artist/c021f132-1792-410c-8816-d72827d70315'
+  spotify: 'https://open.spotify.com/artist/3MUG3UzeQWT49WgA7hZrMg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ayinde_Barrister'
 gender: Male
 genres:
-- fújì
-- highlife
-- afro adura
+  - fújì
+  - highlife
+  - afro adura
 image_path: 03_Resources/source_material/ArtistPortraits/sikiru_ayinde_barrister.jpg
 last_updated: '2026-02-08T02:04:01.239256'
 musical_connections:
   collaborators:
-  - Kollington Ayinla
-  - Supreme Fuji Commanders
+    - Kollington Ayinla
+    - Supreme Fuji Commanders
   influenced:
-  - Saheed Osupa
-  - General Fuji artists
+    - Saheed Osupa
+    - General Fuji artists
   mentors:
-  - Father Salawu Balogun
-  - Sákárà and Àpàlà traditions
+    - Father Salawu Balogun
+    - Sákárà and Àpàlà traditions
 musicbrainz_id: c021f132-1792-410c-8816-d72827d70315
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://lifestyle.thecable.ng/sikiru-ayinde-barrister-fuji-legend/
-- https://kids.kiddle.co/Ayinde_Barrister
-- https://en.wikipedia.org/wiki/Ayinde_Barrister
-- https://historymade.substack.com/p/introducing-mr-fuji-a-podcast-about
-- https://chimurengachronic.co.za/ayinde-barrister-tribute-to-a-true-exponent/
-- https://music.youtube.com/channel/UCTgI-EKloXNwJw2hf8LK0Ug
+  - 'https://lifestyle.thecable.ng/sikiru-ayinde-barrister-fuji-legend/'
+  - 'https://kids.kiddle.co/Ayinde_Barrister'
+  - 'https://en.wikipedia.org/wiki/Ayinde_Barrister'
+  - 'https://historymade.substack.com/p/introducing-mr-fuji-a-podcast-about'
+  - 'https://chimurengachronic.co.za/ayinde-barrister-tribute-to-a-true-exponent/'
+  - 'https://music.youtube.com/channel/UCTgI-EKloXNwJw2hf8LK0Ug'
 spotify_data:
   followers: 57113
   id: 3MUG3UzeQWT49WgA7hZrMg
   popularity: 44
-  url: https://open.spotify.com/artist/3MUG3UzeQWT49WgA7hZrMg
+  url: 'https://open.spotify.com/artist/3MUG3UzeQWT49WgA7hZrMg'
 status: active
 tags:
-- fuji
-- wéré
-title: sikiru ayinde barrister
+  - fuji
+  - wéré
+title: Sikiru Ayinde Barrister
+is_active: false
 ---
 
 ![](sikiru_ayinde_barrister.jpg)

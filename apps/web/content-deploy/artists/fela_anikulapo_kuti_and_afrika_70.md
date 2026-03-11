@@ -1,39 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-26T01:39:26.191797'
-birth_place: Abeokuta, Nigeria
+birth_place: 'Abeokuta, Ogun State, Nigeria'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:39:26.191808'
 external_urls:
-  spotify: https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR
-  wikipedia: https://en.wikipedia.org/wiki/Fela_Kuti
+  spotify: 'https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fela_Kuti'
 genres:
-- afrobeat
-- highlife
-- afropop
-image_path: 03_Resources/source_material/ArtistPortraits/fela_anikulapo_kuti_and_afrika_70.jpg
+  - afrobeat
+  - highlife
+  - afropop
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/fela_anikulapo_kuti_and_afrika_70.jpg
 last_updated: '2026-01-26T01:39:26.191810'
 musical_connections:
   collaborators:
-  - Afrika 70
+    - Afrika 70
   influenced:
-  - Femi Kuti
+    - Femi Kuti
   mentors:
-  - Sandra Izsadore
-  - Funmilayo Ransome-Kuti
+    - Sandra Izsadore
+    - Funmilayo Ransome-Kuti
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fela_Kuti
-- https://www.britannica.com/biography/Fela-Kuti
-- https://www.olneytheatre.org/about-us/blog/who-fela-anikulapo-kuti
-- https://www.biography.com/musicians/fela-kuti
+  - 'https://en.wikipedia.org/wiki/Fela_Kuti'
+  - 'https://www.britannica.com/biography/Fela-Kuti'
+  - 'https://www.olneytheatre.org/about-us/blog/who-fela-anikulapo-kuti'
+  - 'https://www.biography.com/musicians/fela-kuti'
 spotify_data:
   followers: 705586
   id: 5CG9X521RDFWCuAhlo6QoR
   popularity: 52
-  url: https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR
+  url: 'https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR'
 status: active
 title: Fela Anikulapo Kuti and Afrika 70
+birth_date: '1938-10-15'
+artist_type: band
 ---
 
 ![](fela_anikulapo_kuti_and_afrika_70.jpg)

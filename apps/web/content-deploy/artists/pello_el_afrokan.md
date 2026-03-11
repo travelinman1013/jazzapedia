@@ -1,38 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-08T02:00:33.179327'
-birth_place: Jesús María, Havana, Cuba
+birth_place: 'Jesús María, Havana, Cuba'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:00:33.179335'
 external_urls:
-  spotify: https://open.spotify.com/artist/4INcY7JW41TPOhH4DWhHj2
+  spotify: 'https://open.spotify.com/artist/4INcY7JW41TPOhH4DWhHj2'
   wikipedia: ''
 genres:
-- son cubano
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/pello_el_afrokan.jpg
 last_updated: '2026-02-08T02:00:33.179337'
 musical_connections:
   collaborators:
-  - Evelio Landa
-  - Guanari Amoedo
-  - Omar (grandson)
+    - Evelio Landa
+    - Guanari Amoedo
+    - Omar (grandson)
   influenced: []
   mentors:
-  - Manuel Palacio
-  - Father (unnamed Izquierdo)
+    - Manuel Palacio
+    - Father (unnamed Izquierdo)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.afrocubaweb.com/pelloafrokan.htm
-- https://michaelpluznick.com/the-late-great-pello-el-afrokan-our-teacher/
-- https://www.radioenciclopedia.cu/cultural-news/pello-el-afrokan-and-his-incomparable-rhythm-07012023/
-- https://en.wikipedia.org/wiki/Mozambique_(music)
+  - 'https://www.afrocubaweb.com/pelloafrokan.htm'
+  - 'https://michaelpluznick.com/the-late-great-pello-el-afrokan-our-teacher/'
+  - >-
+    https://www.radioenciclopedia.cu/cultural-news/pello-el-afrokan-and-his-incomparable-rhythm-07012023/
+  - 'https://en.wikipedia.org/wiki/Mozambique_(music)'
 spotify_data:
   followers: 764
   id: 4INcY7JW41TPOhH4DWhHj2
   popularity: 3
-  url: https://open.spotify.com/artist/4INcY7JW41TPOhH4DWhHj2
+  url: 'https://open.spotify.com/artist/4INcY7JW41TPOhH4DWhHj2'
 status: active
 title: Pello El Afrokan
+origin: 'Havana, Cuba'
+birth_date: '1933-01-07'
+artist_type: person
 ---
 
 ![](pello_el_afrokan.jpg)

@@ -1,39 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-04T01:20:01.588486'
-birth_place: Mankon, Bamenda, Cameroon
+birth_place: 'Mankon, Bamenda, Cameroon'
 enhancement_provider: perplexity
 entry_created: '2026-02-04T01:20:01.588497'
 external_urls:
-  spotify: https://open.spotify.com/artist/1FCbNmkqiw0GA5j7yDl4Ze
-  wikipedia: https://en.wikipedia.org/wiki/Ndeh_Ntumazah
+  spotify: 'https://open.spotify.com/artist/1FCbNmkqiw0GA5j7yDl4Ze'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ndeh_Ntumazah'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ndeh_ntumazah.jpg
 last_updated: '2026-02-04T01:20:01.588499'
 musical_connections:
   collaborators:
-  - Ruben Um Nyobé
-  - Ernest Ouandié
-  - Abel Kingué
-  - Osendé Afana
+    - Ruben Um Nyobé
+    - Ernest Ouandié
+    - Abel Kingué
+    - Osendé Afana
   influenced:
-  - Nelson Mandela
+    - Nelson Mandela
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ndeh_Ntumazah
-- https://recorderline.blogspot.com/2010/01/cameroon-ndeh-ntumazah-passing-of-great.html
-- https://ntumazahmemorial.weebly.com
-- https://africanbookscollective.com/books/ndeh-ntumazah/
-- https://pambazuka.org/remembering-ndeh-ntumuzah-african-freedom-fighter
-- https://eliesmith.blogspot.com/2006/08/book-review-ndeh-ntumazah.html
+  - 'https://en.wikipedia.org/wiki/Ndeh_Ntumazah'
+  - >-
+    https://recorderline.blogspot.com/2010/01/cameroon-ndeh-ntumazah-passing-of-great.html
+  - 'https://ntumazahmemorial.weebly.com'
+  - 'https://africanbookscollective.com/books/ndeh-ntumazah/'
+  - 'https://pambazuka.org/remembering-ndeh-ntumuzah-african-freedom-fighter'
+  - 'https://eliesmith.blogspot.com/2006/08/book-review-ndeh-ntumazah.html'
 spotify_data:
   followers: 357
   id: 1FCbNmkqiw0GA5j7yDl4Ze
   popularity: 8
-  url: https://open.spotify.com/artist/1FCbNmkqiw0GA5j7yDl4Ze
+  url: 'https://open.spotify.com/artist/1FCbNmkqiw0GA5j7yDl4Ze'
 status: active
 title: Ndeh Ntumazah
+death_date: '2010-01-21'
+artist_type: person
 ---
 
 ![](ndeh_ntumazah.jpg)

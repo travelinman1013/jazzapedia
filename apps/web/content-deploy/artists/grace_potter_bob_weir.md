@@ -3,39 +3,49 @@ biography_enhanced_at: '2026-02-01T01:32:29.468757'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:32:29.468762'
 external_urls:
-  spotify: https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht
+  spotify: 'https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/grace_potter_bob_weir.jpg
 last_updated: '2026-02-01T01:32:29.468763'
 musical_connections:
   collaborators:
-  - Bob Weir
-  - Grace Potter and the Nocturnals (former members)
-  - Scott Tournet
-  - Don Was
+    - Bob Weir
+    - Grace Potter and the Nocturnals (former members)
+    - Scott Tournet
+    - Don Was
   influenced: []
   mentors:
-  - Grateful Dead (Jerry Garcia era)
+    - Grateful Dead (Jerry Garcia era)
 network_extracted: true
-origin: Waitsfield, Vermont, USA (Grace Potter birthplace); San Francisco Bay Area,
+origin: >-
+  Waitsfield, Vermont, USA (Grace Potter birthplace); San Francisco Bay Area,
   California, USA (Bob Weir base)
 primary_source: perplexity
 research_sources:
-- https://jambands.com/news/2018/09/11/bob-weir-joins-grace-potter-friend-of-the-devil-sound-summit/
-- https://martineztribune.com/2018/09/09/herbie-hancock-grace-potter-and-bob-weir-rock-sound-summit/
-- https://relix.com/blogs/detail/watch_grace_potter_and_bob_weir_play_emotional_friend_of_the_devil_at_the_dear_jerry_concert/
-- https://liveforlivemusic.com/features/the-many-faces-of-grateful-dead-bob-weir-tribute/
-- https://blackbirdpresents.com/video/grace-potter-and-don-was-on-friend-of-the-devil/
-- https://www.goldminemag.com/features/amazing-grace-grace-potter-exploring-new-extensions/
-- https://rhythmandroots.com/artists/grace-potter/
+  - >-
+    https://jambands.com/news/2018/09/11/bob-weir-joins-grace-potter-friend-of-the-devil-sound-summit/
+  - >-
+    https://martineztribune.com/2018/09/09/herbie-hancock-grace-potter-and-bob-weir-rock-sound-summit/
+  - >-
+    https://relix.com/blogs/detail/watch_grace_potter_and_bob_weir_play_emotional_friend_of_the_devil_at_the_dear_jerry_concert/
+  - >-
+    https://liveforlivemusic.com/features/the-many-faces-of-grateful-dead-bob-weir-tribute/
+  - >-
+    https://blackbirdpresents.com/video/grace-potter-and-don-was-on-friend-of-the-devil/
+  - >-
+    https://www.goldminemag.com/features/amazing-grace-grace-potter-exploring-new-extensions/
+  - 'https://rhythmandroots.com/artists/grace-potter/'
 spotify_data:
   followers: 136264
   id: 1PJVVIeS5Wu0wbZDhtC0Ht
   popularity: 53
-  url: https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht
+  url: 'https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht'
 status: active
-title: Grace Potter, Bob Weir
+title: 'Grace Potter, Bob Weir'
+birth_place: 'Waitsfield, Vermont, United States'
+birth_date: '1983-06-20'
+artist_type: person
 ---
 
 ![](grace_potter_bob_weir.jpg)

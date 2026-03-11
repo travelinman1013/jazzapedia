@@ -1,39 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-11T01:57:27.794477'
-birth_place: South Korea
+birth_place: 'South Korea, South Korea, Asia'
 enhancement_provider: perplexity
 entry_created: '2026-02-11T01:57:27.794483'
 external_urls:
-  spotify: https://open.spotify.com/artist/4Kt2TSsv0kYz18AuoamkeV
-  wikipedia: https://en.wikipedia.org/wiki/Karen_O
+  spotify: 'https://open.spotify.com/artist/4Kt2TSsv0kYz18AuoamkeV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Karen_O'
 genres: []
 image_path: ''
 last_updated: '2026-02-11T01:57:27.794485'
 musical_connections:
   collaborators:
-  - Danger Mouse
-  - Spike Jonze
-  - Yeah Yeah Yeahs (Nick Zinner, Brian Chase)
-  - David Lynch
-  - Swans
-  - Santigold
+    - Danger Mouse
+    - Spike Jonze
+    - 'Yeah Yeah Yeahs (Nick Zinner, Brian Chase)'
+    - David Lynch
+    - Swans
+    - Santigold
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Karen_O
-- https://www.allmusic.com/artist/karen-o-mn0000186401
-- https://karenomusic.com/biography
-- https://www.mixtapememoir.com/season-3/episode-10-karen-o
-- https://musicbrainz.org/artist/14d44067-99c2-4f77-b58b-138f0b6911fa
+  - 'https://en.wikipedia.org/wiki/Karen_O'
+  - 'https://www.allmusic.com/artist/karen-o-mn0000186401'
+  - 'https://karenomusic.com/biography'
+  - 'https://www.mixtapememoir.com/season-3/episode-10-karen-o'
+  - 'https://musicbrainz.org/artist/14d44067-99c2-4f77-b58b-138f0b6911fa'
 spotify_data:
   followers: 37
   id: 4Kt2TSsv0kYz18AuoamkeV
   popularity: 8
-  url: https://open.spotify.com/artist/4Kt2TSsv0kYz18AuoamkeV
+  url: 'https://open.spotify.com/artist/4Kt2TSsv0kYz18AuoamkeV'
 status: active
 title: Karen O & Danger Mouse
+origin: 'New York City, New York, United States'
+birth_date: '1978-11-22'
+artist_type: band
 ---
 
 ![]()

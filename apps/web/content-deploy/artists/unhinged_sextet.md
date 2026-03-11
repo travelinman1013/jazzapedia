@@ -3,43 +3,47 @@ biography_enhanced_at: '2026-01-29T01:58:04.512189'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T01:58:04.512196'
 external_urls:
-  spotify: https://open.spotify.com/artist/6SEw1LnxMhYax16WLtksdN
+  spotify: 'https://open.spotify.com/artist/6SEw1LnxMhYax16WLtksdN'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/unhinged_sextet.jpg
 last_updated: '2026-01-29T01:58:04.512196'
 musical_connections:
   collaborators:
-  - Will Campbell
-  - Matt Olson
-  - Michael Kocour
-  - Jon Hamar
-  - Dom Moio
-  - Vern Sielert
+    - Will Campbell
+    - Matt Olson
+    - Michael Kocour
+    - Jon Hamar
+    - Dom Moio
+    - Vern Sielert
   influenced: []
   mentors: []
 network_extracted: true
-origin: Arizona, United States (recording location); members based across multiple
+origin: >-
+  Arizona, United States (recording location); members based across multiple
   U.S. regions
 primary_source: perplexity
 research_sources:
-- https://www.challengerecords.com/products/15008851199914/dont-blink
-- https://originarts.com/oa2/recordings/recording.php?TitleID=22145
-- https://www.furman.edu/people/matt-olson/
-- https://originarts.com/oa2/recordings/recording.php?TitleID=22116
-- https://propermusic.com/products/unhingedsextet-dontblink
-- https://www.chicagojazz.com/clarity-unhinged-sextet
-- https://www.allaboutjazz.com/dont-blink-unhinged-sextet-oa2-records-review-by-david-a-orthmann
-- https://musicians.allaboutjazz.com/discography/unhingedsextet
-- https://coaa.charlotte.edu/news/new-cd-features-jazz-studies-director-will-campbell/
-- https://originarts.com/oa2/reviews/review.php?ReviewID=574
+  - 'https://www.challengerecords.com/products/15008851199914/dont-blink'
+  - 'https://originarts.com/oa2/recordings/recording.php?TitleID=22145'
+  - 'https://www.furman.edu/people/matt-olson/'
+  - 'https://originarts.com/oa2/recordings/recording.php?TitleID=22116'
+  - 'https://propermusic.com/products/unhingedsextet-dontblink'
+  - 'https://www.chicagojazz.com/clarity-unhinged-sextet'
+  - >-
+    https://www.allaboutjazz.com/dont-blink-unhinged-sextet-oa2-records-review-by-david-a-orthmann
+  - 'https://musicians.allaboutjazz.com/discography/unhingedsextet'
+  - >-
+    https://coaa.charlotte.edu/news/new-cd-features-jazz-studies-director-will-campbell/
+  - 'https://originarts.com/oa2/reviews/review.php?ReviewID=574'
 spotify_data:
   followers: 115
   id: 6SEw1LnxMhYax16WLtksdN
   popularity: 0
-  url: https://open.spotify.com/artist/6SEw1LnxMhYax16WLtksdN
+  url: 'https://open.spotify.com/artist/6SEw1LnxMhYax16WLtksdN'
 status: active
-title: Unhinged Sextet
+title: The Unhinged Sextet
+artist_type: band
 ---
 
 ![](unhinged_sextet.jpg)

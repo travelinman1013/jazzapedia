@@ -3,32 +3,33 @@ biography_enhanced_at: '2026-02-18T01:35:45.361152'
 enhancement_provider: perplexity
 entry_created: '2026-02-18T01:35:45.361167'
 external_urls:
-  spotify: https://open.spotify.com/artist/5ym5TdvptggWheCD4jeo5r
+  spotify: 'https://open.spotify.com/artist/5ym5TdvptggWheCD4jeo5r'
   wikipedia: Not found
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/voices_of_a_nation.jpg
 last_updated: '2026-02-18T01:35:45.361169'
 musical_connections:
   collaborators:
-  - Jerry 'Drumspeaker' Chapman
-  - Wagogo people (Tanzania)
-  - Various First Nations communities
+    - Jerry 'Drumspeaker' Chapman
+    - Wagogo people (Tanzania)
+    - Various First Nations communities
   influenced: []
   mentors:
-  - Master drummers from multiple continents
+    - Master drummers from multiple continents
 network_extracted: true
 origin: International (based on global partnerships and collaborations)
 primary_source: perplexity
 research_sources:
-- https://www.voicesfromthenations.org
+  - 'https://www.voicesfromthenations.org'
 spotify_data:
   followers: 86
   id: 5ym5TdvptggWheCD4jeo5r
   popularity: 0
-  url: https://open.spotify.com/artist/5ym5TdvptggWheCD4jeo5r
+  url: 'https://open.spotify.com/artist/5ym5TdvptggWheCD4jeo5r'
 status: active
 title: Voices of a Nation
+artist_type: person
 ---
 
 ![](voices_of_a_nation.jpg)

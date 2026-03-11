@@ -1,79 +1,82 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 2a5ad80d-59a7-401c-842b-60567e6a06c2
-  name: Chick Webb and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8411e79d-deba-4753-8cd3-b1d23a264050
-  name: The Jungle Band
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: 7d7f6488-af08-4f03-97bd-741a7a810524
-  name: Chick Webb’s Savoy Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 2a5ad80d-59a7-401c-842b-60567e6a06c2
+    name: Chick Webb and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8411e79d-deba-4753-8cd3-b1d23a264050
+    name: The Jungle Band
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: 7d7f6488-af08-4f03-97bd-741a7a810524
+    name: Chick Webb’s Savoy Orchestra
 biography_enhanced_at: '2026-02-23T03:09:24.629051'
 birth_date: '1905-02-10'
-birth_place: Baltimore
+birth_place: 'Baltimore, Maryland, United States'
 death_date: '1939-06-16'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:09:24.629060'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8ecae52e-9c89-4b61-99d8-ac11abc26771
-  spotify: https://open.spotify.com/artist/7AgtFmxbJL1wDbp7yYrzQb
-  wikipedia: https://en.wikipedia.org/wiki/Chick_Webb
+  musicbrainz: 'https://musicbrainz.org/artist/8ecae52e-9c89-4b61-99d8-ac11abc26771'
+  spotify: 'https://open.spotify.com/artist/7AgtFmxbJL1wDbp7yYrzQb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chick_Webb'
 gender: Male
 genres:
-- swing music
-- big band
-- jazz
+  - swing music
+  - big band
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/chick_webb.jpg
 instruments:
-- eponymous
-- membranophone
+  - eponymous
+  - membranophone
 last_updated: '2026-02-23T03:09:24.629061'
 musical_connections:
   collaborators:
-  - Ella Fitzgerald
-  - Edgar Sampson
-  - Louis Jordan
-  - Mario Bauza
-  - Louis Armstrong
+    - Ella Fitzgerald
+    - Edgar Sampson
+    - Louis Jordan
+    - Mario Bauza
+    - Louis Armstrong
   influenced:
-  - Buddy Rich
-  - Jo Jones
-  - Art Blakey
-  - Kenny Clarke
-  - Max Roach
+    - Buddy Rich
+    - Jo Jones
+    - Art Blakey
+    - Kenny Clarke
+    - Max Roach
   mentors:
-  - Duke Ellington
+    - Duke Ellington
 musicbrainz_id: 8ecae52e-9c89-4b61-99d8-ac11abc26771
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/chick-webb
-- https://www.aaihs.org/chick-webb-the-king-of-swing/
-- https://www.moderndrummer.com/2009/12/chick-webb/
-- https://meisha-rosenberg.squarespace.com/chick-webb-king-of-drums
-- https://www.baltimorejazz.com/2023/08/baltimore-born-drummer-chick-webb-a-retrospective/
-- https://www.britannica.com/biography/Chick-Webb
-- https://en.wikipedia.org/wiki/Chick_Webb
+  - 'https://www.ebsco.com/research-starters/biography/chick-webb'
+  - 'https://www.aaihs.org/chick-webb-the-king-of-swing/'
+  - 'https://www.moderndrummer.com/2009/12/chick-webb/'
+  - 'https://meisha-rosenberg.squarespace.com/chick-webb-king-of-drums'
+  - >-
+    https://www.baltimorejazz.com/2023/08/baltimore-born-drummer-chick-webb-a-retrospective/
+  - 'https://www.britannica.com/biography/Chick-Webb'
+  - 'https://en.wikipedia.org/wiki/Chick_Webb'
 spotify_data:
   followers: 27449
   id: 7AgtFmxbJL1wDbp7yYrzQb
   popularity: 39
-  url: https://open.spotify.com/artist/7AgtFmxbJL1wDbp7yYrzQb
+  url: 'https://open.spotify.com/artist/7AgtFmxbJL1wDbp7yYrzQb'
 status: active
 tags:
-- jazz
-- swing
+  - jazz
+  - swing
 title: Chick Webb
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](chick_webb.jpg)

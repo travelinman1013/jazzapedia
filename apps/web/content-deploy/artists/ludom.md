@@ -3,35 +3,36 @@ biography_enhanced_at: '2026-02-08T02:01:43.653024'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:01:43.653039'
 external_urls:
-  spotify: https://open.spotify.com/artist/0OvNr1faDWn2zNrw2f8HhW
-  wikipedia: https://en.wikipedia.org/wiki/Olodum
+  spotify: 'https://open.spotify.com/artist/0OvNr1faDWn2zNrw2f8HhW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Olodum'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ludom.jpg
 last_updated: '2026-02-08T02:01:43.653043'
 musical_connections:
   collaborators:
-  - Paul Simon
-  - Simone
-  - Michael Jackson
-  - Daniela Mercury
-  - Caetano Veloso
+    - Paul Simon
+    - Simone
+    - Michael Jackson
+    - Daniela Mercury
+    - Caetano Veloso
   influenced: []
   mentors:
-  - Neguinho do Samba
+    - Neguinho do Samba
 network_extracted: true
-origin: Salvador, Bahia, Brazil
+origin: 'Salvador, Bahia, Brazil'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Olodum
-- https://www.last.fm/music/Olodum/+wiki
-- https://playingforchange.com/artists/olodum
+  - 'https://en.wikipedia.org/wiki/Olodum'
+  - 'https://www.last.fm/music/Olodum/+wiki'
+  - 'https://playingforchange.com/artists/olodum'
 spotify_data:
   followers: 120
   id: 0OvNr1faDWn2zNrw2f8HhW
   popularity: 4
-  url: https://open.spotify.com/artist/0OvNr1faDWn2zNrw2f8HhW
+  url: 'https://open.spotify.com/artist/0OvNr1faDWn2zNrw2f8HhW'
 status: active
-title: Ludom
+title: Olodum
+artist_type: person
 ---
 
 ![](ludom.jpg)

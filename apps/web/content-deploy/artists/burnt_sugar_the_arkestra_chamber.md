@@ -3,45 +3,49 @@ biography_enhanced_at: '2026-03-03T01:29:37.610932'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:29:37.610941'
 external_urls:
-  spotify: https://open.spotify.com/artist/6fY1SofsJHNKJ5wvfhJZco
-  wikipedia: https://en.wikipedia.org/wiki/Burnt_Sugar_(band)
+  spotify: 'https://open.spotify.com/artist/6fY1SofsJHNKJ5wvfhJZco'
+  wikipedia: 'https://en.wikipedia.org/wiki/Burnt_Sugar_(band)'
 genres:
-- indie jazz
-image_path: 03_Resources/source_material/ArtistPortraits/burnt_sugar_the_arkestra_chamber.jpg
+  - indie jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/burnt_sugar_the_arkestra_chamber.jpg
 last_updated: '2026-03-03T01:29:37.610942'
 musical_connections:
   collaborators:
-  - Vijay Iyer
-  - Jared Michael Nickerson
-  - Kirk Douglass
-  - Matana Roberts
-  - Melvin Van Peebles, Toshi Reagon, DJ Logic, Gary Lucas, TV On The Radio, Tamar
-    Kali, Phish, William Parker, Liz Wright, The Holmes Brothers, Wadada Leo Smith,
-    David Murray, Joseph Bowie
+    - Vijay Iyer
+    - Jared Michael Nickerson
+    - Kirk Douglass
+    - Matana Roberts
+    - >-
+      Melvin Van Peebles, Toshi Reagon, DJ Logic, Gary Lucas, TV On The Radio,
+      Tamar Kali, Phish, William Parker, Liz Wright, The Holmes Brothers, Wadada
+      Leo Smith, David Murray, Joseph Bowie
   influenced:
-  - Contemporary improvisational and experimental music scene
+    - Contemporary improvisational and experimental music scene
   mentors:
-  - Butch Morris
-  - Sun Ra
+    - Butch Morris
+    - Sun Ra
 network_extracted: true
-origin: New York, United States
+origin: 'New York, United States'
 primary_source: perplexity
 research_sources:
-- https://burntsugarindex.com/about-the-band/
-- https://www.allaboutjazz.com/musicians/burnt-sugar-the-arkestra-chamber/
-- https://en.wikipedia.org/wiki/Burnt_Sugar_(band)
-- https://www.hallwalls.org/music/4702.html
-- https://www.carnegiehall.org/Calendar/2022/04/03/Burnt-Sugar-The-Arkestra-Chamber-0730PM
-- https://burntsugarindex.com
-- https://walkerart.org/magazine/burnt-sugar-interview
-- https://burntsugarthearkestrachamber.bandcamp.com
+  - 'https://burntsugarindex.com/about-the-band/'
+  - 'https://www.allaboutjazz.com/musicians/burnt-sugar-the-arkestra-chamber/'
+  - 'https://en.wikipedia.org/wiki/Burnt_Sugar_(band)'
+  - 'https://www.hallwalls.org/music/4702.html'
+  - >-
+    https://www.carnegiehall.org/Calendar/2022/04/03/Burnt-Sugar-The-Arkestra-Chamber-0730PM
+  - 'https://burntsugarindex.com'
+  - 'https://walkerart.org/magazine/burnt-sugar-interview'
+  - 'https://burntsugarthearkestrachamber.bandcamp.com'
 spotify_data:
   followers: 1181
   id: 6fY1SofsJHNKJ5wvfhJZco
   popularity: 2
-  url: https://open.spotify.com/artist/6fY1SofsJHNKJ5wvfhJZco
+  url: 'https://open.spotify.com/artist/6fY1SofsJHNKJ5wvfhJZco'
 status: active
-title: Burnt Sugar, The Arkestra Chamber
+title: 'Burnt Sugar, The Arkestra Chamber'
+artist_type: person
 ---
 
 ![](burnt_sugar_the_arkestra_chamber.jpg)

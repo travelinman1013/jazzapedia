@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-02-22T01:47:51.188130'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:47:51.188136'
 external_urls:
-  spotify: https://open.spotify.com/artist/3bhX3vZfuhHqcrBn0MPwzb
+  spotify: 'https://open.spotify.com/artist/3bhX3vZfuhHqcrBn0MPwzb'
   wikipedia: ''
 genres:
-- zouk
+  - zouk
 image_path: 03_Resources/source_material/ArtistPortraits/mamhy_claudia.jpg
 last_updated: '2026-02-22T01:47:51.188137'
 musical_connections:
@@ -16,20 +16,21 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/claudia-mamhy-mn0001276025
-- https://jazztimes.com/artists/claudia-gomez/
-- https://en.wikipedia.org/wiki/Cl%C3%A1udya
-- https://www.buro247.my/culture/music/stripped-back-with-claudia.html
-- https://www.claudiahoyser.com/bio-1
-- https://www.wcfsymphony.org/about/musicians/claudia-anderson/
-- https://www.t-howard.org/alumni-spotlight-claudia-oddo/
+  - 'https://www.allmusic.com/artist/claudia-mamhy-mn0001276025'
+  - 'https://jazztimes.com/artists/claudia-gomez/'
+  - 'https://en.wikipedia.org/wiki/Cl%C3%A1udya'
+  - 'https://www.buro247.my/culture/music/stripped-back-with-claudia.html'
+  - 'https://www.claudiahoyser.com/bio-1'
+  - 'https://www.wcfsymphony.org/about/musicians/claudia-anderson/'
+  - 'https://www.t-howard.org/alumni-spotlight-claudia-oddo/'
 spotify_data:
   followers: 6
   id: 3bhX3vZfuhHqcrBn0MPwzb
   popularity: 0
-  url: https://open.spotify.com/artist/3bhX3vZfuhHqcrBn0MPwzb
+  url: 'https://open.spotify.com/artist/3bhX3vZfuhHqcrBn0MPwzb'
 status: active
 title: Mamhy Claudia
+artist_type: person
 ---
 
 ![](mamhy_claudia.jpg)

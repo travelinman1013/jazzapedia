@@ -1,99 +1,102 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-20T01:22:40.559821'
 birth_date: '1936'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:22:40.559837'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dc4bd323-3e4f-488b-9255-206f9a51ec69
-  spotify: https://open.spotify.com/artist/4LIDLCqtok6xaQjHtS2Cx3
+  musicbrainz: 'https://musicbrainz.org/artist/dc4bd323-3e4f-488b-9255-206f9a51ec69'
+  spotify: 'https://open.spotify.com/artist/4LIDLCqtok6xaQjHtS2Cx3'
   wikipedia: ''
 genres:
-- blues
+  - blues
 image_path: ''
 last_updated: '2026-02-20T01:22:40.559840'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: efa6a1fe-9646-4718-9c4c-3256e2c106d5
-  name: Fred Flynn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f88570ab-8564-419b-bf93-6729291b8520
-  name: Hamfoot Ham
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9b77ed8d-0b9d-4f43-a10f-6a1386073596
-  name: John Lindsay
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 67c2f9a9-2cf6-42ec-9daa-797fd5aea831
-  name: Horace Malcolm
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 76685710-5990-4186-9601-8e8084a424ff
-  name: “Papa” Charlie McCoy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 302886da-969c-44da-b6c5-3f4eea07ea49
-  name: Kansas Joe McCoy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 91d4d487-c916-475d-9af5-6d8b778478ab
-  name: Herb Morand
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8f3c9848-fdc5-4d00-b6ed-8bca7b7053f5
-  name: Odell Rand
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d26fb099-3726-44ff-a3ec-b02f5e125235
-  name: Pearlis Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: efa6a1fe-9646-4718-9c4c-3256e2c106d5
+    name: Fred Flynn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f88570ab-8564-419b-bf93-6729291b8520
+    name: Hamfoot Ham
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9b77ed8d-0b9d-4f43-a10f-6a1386073596
+    name: John Lindsay
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 67c2f9a9-2cf6-42ec-9daa-797fd5aea831
+    name: Horace Malcolm
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 76685710-5990-4186-9601-8e8084a424ff
+    name: “Papa” Charlie McCoy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 302886da-969c-44da-b6c5-3f4eea07ea49
+    name: Kansas Joe McCoy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 91d4d487-c916-475d-9af5-6d8b778478ab
+    name: Herb Morand
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8f3c9848-fdc5-4d00-b6ed-8bca7b7053f5
+    name: Odell Rand
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d26fb099-3726-44ff-a3ec-b02f5e125235
+    name: Pearlis Williams
 musical_connections:
   collaborators:
-  - Johnny Temple
-  - Rosetta Howard
-  - Frankie Jaxon
-  - Kansas Joe McCoy
-  - Papa Charlie McCoy
-  - Herb Morand
+    - Johnny Temple
+    - Rosetta Howard
+    - Frankie Jaxon
+    - Kansas Joe McCoy
+    - Papa Charlie McCoy
+    - Herb Morand
   influenced:
-  - Louis Prima
-  - Louis Jordan
-  - Count Basie
-  - Led Zeppelin
+    - Louis Prima
+    - Louis Jordan
+    - Count Basie
+    - Led Zeppelin
   mentors:
-  - J. Mayo Williams
+    - J. Mayo Williams
 musicbrainz_id: dc4bd323-3e4f-488b-9255-206f9a51ec69
 network_extracted: true
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://sentirelblues.blogspot.com/2016/07/the-harlem-hamfats.html
-- https://mark-guarino.com/the-harlem-hamfats-rediscovering-the-real-mccoys-of-chicago-blues/
-- https://the-viper-label.co.uk/harlem-hamfats-lets-get-drunk-and-truck-songs-about-drinkdrugssex-and-troubles-1936-1939-viper-133/
-- https://www.allmusic.com/artist/harlem-hamfats-mn0000950251
-- https://soundbeat.org/episode/feel-like-going-to-town/
-- https://jazzlives.wordpress.com/tag/harlem-hamfats/
-- https://sundayblues.org/?tag=harlem-hamfats
+  - 'https://sentirelblues.blogspot.com/2016/07/the-harlem-hamfats.html'
+  - >-
+    https://mark-guarino.com/the-harlem-hamfats-rediscovering-the-real-mccoys-of-chicago-blues/
+  - >-
+    https://the-viper-label.co.uk/harlem-hamfats-lets-get-drunk-and-truck-songs-about-drinkdrugssex-and-troubles-1936-1939-viper-133/
+  - 'https://www.allmusic.com/artist/harlem-hamfats-mn0000950251'
+  - 'https://soundbeat.org/episode/feel-like-going-to-town/'
+  - 'https://jazzlives.wordpress.com/tag/harlem-hamfats/'
+  - 'https://sundayblues.org/?tag=harlem-hamfats'
 spotify_data:
   followers: 4
   id: 4LIDLCqtok6xaQjHtS2Cx3
   popularity: 0
-  url: https://open.spotify.com/artist/4LIDLCqtok6xaQjHtS2Cx3
+  url: 'https://open.spotify.com/artist/4LIDLCqtok6xaQjHtS2Cx3'
 status: active
 tags:
-- jazz
-title: the harlem hamfats
+  - jazz
+title: The Harlem Hamfats
+death_date: '1950'
 ---
 
 ![]()

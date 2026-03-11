@@ -3,36 +3,37 @@ biography_enhanced_at: '2026-02-24T01:46:46.746911'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:46:46.746920'
 external_urls:
-  spotify: https://open.spotify.com/artist/6JB4jnHl7nJyOEXxjeXKel
+  spotify: 'https://open.spotify.com/artist/6JB4jnHl7nJyOEXxjeXKel'
   wikipedia: null
 genres: []
 image_path: ''
 last_updated: '2026-02-24T01:46:46.746922'
 musical_connections:
   collaborators:
-  - Val Peterson
-  - Paul Frederick
-  - Nick Ariondo
-  - Erica Bushner
+    - Val Peterson
+    - Paul Frederick
+    - Nick Ariondo
+    - Erica Bushner
   influenced: []
   mentors:
-  - Cole Porter
-  - Irving Berlin
-  - Ella Fitzgerald
-  - Artie Shaw
+    - Cole Porter
+    - Irving Berlin
+    - Ella Fitzgerald
+    - Artie Shaw
 network_extracted: true
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://bigluckyband.com/big-lucky
-- https://bigluckyband.com
+  - 'https://bigluckyband.com/big-lucky'
+  - 'https://bigluckyband.com'
 spotify_data:
   followers: 6
   id: 6JB4jnHl7nJyOEXxjeXKel
   popularity: 0
-  url: https://open.spotify.com/artist/6JB4jnHl7nJyOEXxjeXKel
+  url: 'https://open.spotify.com/artist/6JB4jnHl7nJyOEXxjeXKel'
 status: active
 title: Big Lucky
+artist_type: person
 ---
 
 ![]()

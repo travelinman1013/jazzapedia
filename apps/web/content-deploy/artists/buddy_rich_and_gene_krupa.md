@@ -3,50 +3,58 @@ biography_enhanced_at: '2026-02-28T01:44:29.122018'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:44:29.122023'
 external_urls:
-  spotify: https://open.spotify.com/artist/30Jm03gEdiLubWShsngcvT
-  wikipedia: https://en.wikipedia.org/wiki/Gene_Krupa
+  spotify: 'https://open.spotify.com/artist/30Jm03gEdiLubWShsngcvT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gene_Krupa'
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_rich_and_gene_krupa.jpg
 last_updated: '2026-02-28T01:44:29.122024'
 musical_connections:
   collaborators:
-  - Benny Goodman
-  - Tommy Dorsey
-  - Buddy Rich
-  - Gene Krupa
-  - Anita O'Day
-  - Roy Eldridge
+    - Benny Goodman
+    - Tommy Dorsey
+    - Buddy Rich
+    - Gene Krupa
+    - Anita O'Day
+    - Roy Eldridge
   influenced:
-  - John Bonham
-  - Louie Bellson
-  - Modern drummers
+    - John Bonham
+    - Louie Bellson
+    - Modern drummers
   mentors:
-  - Father Ildefonse Rapp
-  - Roy Knapp
-  - Gene Krupa
+    - Father Ildefonse Rapp
+    - Roy Knapp
+    - Gene Krupa
 network_extracted: true
-origin: Chicago, Illinois, USA (Krupa birthplace); Brooklyn, New York, USA (Rich birthplace)
+origin: >-
+  Chicago, Illinois, USA (Krupa birthplace); Brooklyn, New York, USA (Rich
+  birthplace)
 primary_source: perplexity
 research_sources:
-- https://rockandrollglobe.com/jazz/how-buddy-rich-shaped-the-music-of-modern-america/
-- https://www.britannica.com/biography/Gene-Krupa
-- https://en.wikipedia.org/wiki/Gene_Krupa
-- https://www.musicradar.com/artists/drummers/gene-krupa-drum-week
-- https://jazztimes.com/features/special-feature/gene-krupa-and-buddy-rich-behind-the-making-of-burnin-beat-verve-1962/
-- https://syncopatedtimes.com/profiles-in-jazz-gene-krupa/
-- https://www.allaboutjazz.com/musicians/gene-krupa/
-- https://en.wikipedia.org/wiki/Buddy_Rich
-- https://www.flapperpress.com/post/unbeatable-the-life-and-drumming-of-buddy-rich
-- https://www.canadianjazzarchive.net/musicians/buddy-rich.html
+  - >-
+    https://rockandrollglobe.com/jazz/how-buddy-rich-shaped-the-music-of-modern-america/
+  - 'https://www.britannica.com/biography/Gene-Krupa'
+  - 'https://en.wikipedia.org/wiki/Gene_Krupa'
+  - 'https://www.musicradar.com/artists/drummers/gene-krupa-drum-week'
+  - >-
+    https://jazztimes.com/features/special-feature/gene-krupa-and-buddy-rich-behind-the-making-of-burnin-beat-verve-1962/
+  - 'https://syncopatedtimes.com/profiles-in-jazz-gene-krupa/'
+  - 'https://www.allaboutjazz.com/musicians/gene-krupa/'
+  - 'https://en.wikipedia.org/wiki/Buddy_Rich'
+  - >-
+    https://www.flapperpress.com/post/unbeatable-the-life-and-drumming-of-buddy-rich
+  - 'https://www.canadianjazzarchive.net/musicians/buddy-rich.html'
 spotify_data:
   followers: 9860
   id: 30Jm03gEdiLubWShsngcvT
   popularity: 21
-  url: https://open.spotify.com/artist/30Jm03gEdiLubWShsngcvT
+  url: 'https://open.spotify.com/artist/30Jm03gEdiLubWShsngcvT'
 status: active
 title: Buddy Rich & Gene Krupa
+birth_place: 'Chicago, Illinois, United States'
+birth_date: '1909-01-15'
+artist_type: band
 ---
 
 ![](buddy_rich_and_gene_krupa.jpg)

@@ -1,18 +1,18 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1377ce81-22fe-440b-951b-c6435c7a30f0
-  name: Zeshan B & the Transistors
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1377ce81-22fe-440b-951b-c6435c7a30f0
+    name: Zeshan B & the Transistors
 biography_enhanced_at: '2026-01-26T01:40:35.533358'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:40:35.533367'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/98302d56-596a-45fa-9725-aa945a8a0291
-  spotify: https://open.spotify.com/artist/2YKEqXUkXI7yVEWqTCX8Fc
+  musicbrainz: 'https://musicbrainz.org/artist/98302d56-596a-45fa-9725-aa945a8a0291'
+  spotify: 'https://open.spotify.com/artist/2YKEqXUkXI7yVEWqTCX8Fc'
   wikipedia: ''
 gender: Male
 genres: []
@@ -20,28 +20,28 @@ image_path: 03_Resources/source_material/ArtistPortraits/zeshan_b.jpg
 last_updated: '2026-01-26T01:40:35.533369'
 musical_connections:
   collaborators:
-  - Preet Bharara
-  - Dr. Alexandra Roybal
-  - Dr. Shireen and Afzal Ahmad
+    - Preet Bharara
+    - Dr. Alexandra Roybal
+    - Dr. Shireen and Afzal Ahmad
   influenced: []
   mentors:
-  - Sam Cooke
-  - Marvin Gaye
-  - Otis Redding
+    - Sam Cooke
+    - Marvin Gaye
+    - Otis Redding
 musicbrainz_id: 98302d56-596a-45fa-9725-aa945a8a0291
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.zeshanb.com/bio
-- https://www.saichicago.org/dialogues/zeshan-feature
-- https://midoriandfriends.org/zeshan/
-- https://lincolncenter.org/lincoln-center-at-home/show/zeshan-b-819
-- https://shangrilahawaii.org/what-we-do/residencies/YjpQMREAACAAet6n
+  - 'https://www.zeshanb.com/bio'
+  - 'https://www.saichicago.org/dialogues/zeshan-feature'
+  - 'https://midoriandfriends.org/zeshan/'
+  - 'https://lincolncenter.org/lincoln-center-at-home/show/zeshan-b-819'
+  - 'https://shangrilahawaii.org/what-we-do/residencies/YjpQMREAACAAet6n'
 spotify_data:
   followers: 11804
   id: 2YKEqXUkXI7yVEWqTCX8Fc
   popularity: 27
-  url: https://open.spotify.com/artist/2YKEqXUkXI7yVEWqTCX8Fc
+  url: 'https://open.spotify.com/artist/2YKEqXUkXI7yVEWqTCX8Fc'
 status: active
 title: Zeshan B
 ---

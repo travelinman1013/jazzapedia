@@ -1,67 +1,70 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1927-04-08'
-  end: '1927-11-01'
-  instruments:
-  - original
-  mbid: ce0465e3-f8a6-4199-9108-2cf76fc1e788
-  name: Peg Leg Howell and His Gang
+  - begin: '1927-04-08'
+    end: '1927-11-01'
+    instruments:
+      - original
+    mbid: ce0465e3-f8a6-4199-9108-2cf76fc1e788
+    name: Peg Leg Howell and His Gang
 biography_enhanced_at: '2026-03-03T01:33:50.301510'
 birth_date: '1888-03-05'
-birth_place: Eatonton
+birth_place: 'Eatonton, Georgia, United States'
 death_date: '1966-08-11'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:33:50.301520'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ac8d34b4-2c89-4bd7-95f4-deaacb680b28
-  spotify: https://open.spotify.com/artist/3Ks8gfOiRm64NuCnRWe6IF
-  wikipedia: https://en.wikipedia.org/wiki/Peg_Leg_Howell
+  musicbrainz: 'https://musicbrainz.org/artist/ac8d34b4-2c89-4bd7-95f4-deaacb680b28'
+  spotify: 'https://open.spotify.com/artist/3Ks8gfOiRm64NuCnRWe6IF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peg_Leg_Howell'
 gender: Male
 genres:
-- country blues
-- blues
-- classic blues
-- ragtime
+  - country blues
+  - blues
+  - classic blues
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/peg_leg_howell.jpg
 instruments:
-- original
-- guitar
-- spoken vocals
-- vocal
+  - original
+  - guitar
+  - spoken vocals
+  - vocal
 last_updated: '2026-03-03T01:33:50.301521'
 musical_connections:
   collaborators:
-  - Henry Williams
-  - Eddie Anthony
-  - Jim Hill
-  - George Mitchell
-  - Roger Brown
+    - Henry Williams
+    - Eddie Anthony
+    - Jim Hill
+    - George Mitchell
+    - Roger Brown
   influenced:
-  - R. Crumb
+    - R. Crumb
   mentors:
-  - Field recordings and early blues songsters
+    - Field recordings and early blues songsters
 musicbrainz_id: ac8d34b4-2c89-4bd7-95f4-deaacb680b28
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Peg_Leg_Howell
-- https://wbssmedia.com/artists/detail/238
-- https://oakiedog.substack.com/p/doin-the-peg-leg-stompppppp-p-p-pp
-- https://www.elsewhere.co.nz/fromthevaults/10114/peg-leg-howell-please-maam-1928/
-- http://oldtimeblues.net/2018/03/05/columbia-14194-d-peg-leg-howell-1926/
-- https://www.earlyblues.com/essay_peg%20leg%20howell.htm
-- https://www.allmusic.com/artist/peg-leg-howell-mn0000307128
+  - 'https://en.wikipedia.org/wiki/Peg_Leg_Howell'
+  - 'https://wbssmedia.com/artists/detail/238'
+  - 'https://oakiedog.substack.com/p/doin-the-peg-leg-stompppppp-p-p-pp'
+  - >-
+    https://www.elsewhere.co.nz/fromthevaults/10114/peg-leg-howell-please-maam-1928/
+  - 'http://oldtimeblues.net/2018/03/05/columbia-14194-d-peg-leg-howell-1926/'
+  - 'https://www.earlyblues.com/essay_peg%20leg%20howell.htm'
+  - 'https://www.allmusic.com/artist/peg-leg-howell-mn0000307128'
 spotify_data:
   followers: 2867
   id: 3Ks8gfOiRm64NuCnRWe6IF
   popularity: 2
-  url: https://open.spotify.com/artist/3Ks8gfOiRm64NuCnRWe6IF
+  url: 'https://open.spotify.com/artist/3Ks8gfOiRm64NuCnRWe6IF'
 status: active
 tags:
-- blues
-- country blues
-title: PEG LEG HOWELL
+  - blues
+  - country blues
+title: Peg Leg Howell
+is_active: false
+origin: 'Atlanta, Georgia, United States'
 ---
 
 ![](peg_leg_howell.jpg)

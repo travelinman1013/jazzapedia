@@ -3,38 +3,41 @@ biography_enhanced_at: '2026-01-31T01:05:46.132269'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:05:46.132283'
 external_urls:
-  spotify: https://open.spotify.com/artist/3we9o54sLEX1qFcUHzS3Yt
+  spotify: 'https://open.spotify.com/artist/3we9o54sLEX1qFcUHzS3Yt'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_spirit_of_the_fi_yi_yi.jpg
 last_updated: '2026-01-31T01:05:46.132285'
 musical_connections:
   collaborators:
-  - Collins "Coach" Lewis
-  - Jack Robertson
-  - Wesley Phillips
-  - Victor Harris Jr.
+    - Collins "Coach" Lewis
+    - Jack Robertson
+    - Wesley Phillips
+    - Victor Harris Jr.
   influenced:
-  - Harris family members and younger generation
+    - Harris family members and younger generation
   mentors:
-  - Allison "Tootie" Montana
+    - Allison "Tootie" Montana
 network_extracted: true
-origin: New Orleans, Louisiana, United States (9th Ward)
+origin: 'New Orleans, Louisiana, United States (9th Ward)'
 primary_source: perplexity
 research_sources:
-- https://veritenews.org/2024/02/12/spirit-of-the-fi-yi-yi-retiring/
-- https://www.americamagazine.org/ideas/2025/08/25/the-funeral-spirituality-of-new-orleans/
-- https://crescenttocapitol.org/2021/02/23/in-a-city-that-grieves-like-no-other-pandemic-restrictions-compound-loss-of-black-culture-bearers/
-- https://www.verylocal.com/return-of-darryl-montana/21473/
-- https://www.whereyat.com/thursday44-april-30
-- https://www.thevinyldistrict.com/page/572/
+  - 'https://veritenews.org/2024/02/12/spirit-of-the-fi-yi-yi-retiring/'
+  - >-
+    https://www.americamagazine.org/ideas/2025/08/25/the-funeral-spirituality-of-new-orleans/
+  - >-
+    https://crescenttocapitol.org/2021/02/23/in-a-city-that-grieves-like-no-other-pandemic-restrictions-compound-loss-of-black-culture-bearers/
+  - 'https://www.verylocal.com/return-of-darryl-montana/21473/'
+  - 'https://www.whereyat.com/thursday44-april-30'
+  - 'https://www.thevinyldistrict.com/page/572/'
 spotify_data:
   followers: 46
   id: 3we9o54sLEX1qFcUHzS3Yt
   popularity: 0
-  url: https://open.spotify.com/artist/3we9o54sLEX1qFcUHzS3Yt
+  url: 'https://open.spotify.com/artist/3we9o54sLEX1qFcUHzS3Yt'
 status: active
 title: The Spirit of the Fi Yi Yi
+artist_type: band
 ---
 
 ![](the_spirit_of_the_fi_yi_yi.jpg)

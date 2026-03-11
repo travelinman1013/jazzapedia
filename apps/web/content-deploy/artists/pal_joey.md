@@ -6,43 +6,44 @@ disambiguation: US deep house producer
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:23:31.085904'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6310174c-530e-419a-a8fd-091de3082692
-  spotify: https://open.spotify.com/artist/28FSgx0UErqnebZfL8K6Fc
+  musicbrainz: 'https://musicbrainz.org/artist/6310174c-530e-419a-a8fd-091de3082692'
+  spotify: 'https://open.spotify.com/artist/28FSgx0UErqnebZfL8K6Fc'
   wikipedia: ''
 gender: Male
 genres:
-- chicago house
-- lo-fi house
+  - chicago house
+  - lo-fi house
 image_path: 03_Resources/source_material/ArtistPortraits/pal_joey.jpg
 last_updated: '2026-02-13T01:23:31.085906'
 musical_connections:
   collaborators:
-  - Eric B. & Rakim
-  - Boogie Down Productions
-  - Deee-Lite
-  - Sade
-  - KRS-One
+    - Eric B. & Rakim
+    - Boogie Down Productions
+    - Deee-Lite
+    - Sade
+    - KRS-One
   influenced: []
   mentors:
-  - Frank Sinatra
-  - Bing Crosby
+    - Frank Sinatra
+    - Bing Crosby
 musicbrainz_id: 6310174c-530e-419a-a8fd-091de3082692
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.spin.com/2013/07/pal-joey-hot-music-compilation-track-list-bbe/
-- https://bbemusic.com/artist/pal-joey
-- https://goout.net/en/pal-joey/pzluodg/
-- https://peel.fandom.com/wiki/Pal_Joey
+  - 'https://www.spin.com/2013/07/pal-joey-hot-music-compilation-track-list-bbe/'
+  - 'https://bbemusic.com/artist/pal-joey'
+  - 'https://goout.net/en/pal-joey/pzluodg/'
+  - 'https://peel.fandom.com/wiki/Pal_Joey'
 spotify_data:
   followers: 7045
   id: 28FSgx0UErqnebZfL8K6Fc
   popularity: 26
-  url: https://open.spotify.com/artist/28FSgx0UErqnebZfL8K6Fc
+  url: 'https://open.spotify.com/artist/28FSgx0UErqnebZfL8K6Fc'
 status: active
 tags:
-- jazz
+  - jazz
 title: Pal Joey
+origin: 'Queens, New York City, United States'
 ---
 
 ![](pal_joey.jpg)

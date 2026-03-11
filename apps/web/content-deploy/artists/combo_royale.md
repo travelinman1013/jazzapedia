@@ -1,33 +1,33 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-01T01:23:09.341117'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:23:09.341127'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7358a85d-74a2-425c-8091-bc2a136fe537
-  spotify: https://open.spotify.com/artist/25CfG2eUS67ncCzO8oCSCx
+  musicbrainz: 'https://musicbrainz.org/artist/7358a85d-74a2-425c-8091-bc2a136fe537'
+  spotify: 'https://open.spotify.com/artist/25CfG2eUS67ncCzO8oCSCx'
   wikipedia: ''
 genres:
-- swing music
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/combo_royale.jpg
 last_updated: '2026-02-01T01:23:09.341128'
 musical_connections:
   collaborators:
-  - Jaymz Bee
+    - Jaymz Bee
   influenced: []
   mentors: []
 musicbrainz_id: 7358a85d-74a2-425c-8091-bc2a136fe537
 network_extracted: true
-origin: Toronto, Ontario, Canada
+origin: 'Toronto, Ontario, Canada'
 primary_source: perplexity
 research_sources:
-- https://www.spotify.com/search/Combo+Royale
-- https://www.youtube.com/watch?v=R5-6753o_bY
+  - 'https://www.spotify.com/search/Combo+Royale'
+  - 'https://www.youtube.com/watch?v=R5-6753o_bY'
 spotify_data:
   followers: 112
   id: 25CfG2eUS67ncCzO8oCSCx
   popularity: 1
-  url: https://open.spotify.com/artist/25CfG2eUS67ncCzO8oCSCx
+  url: 'https://open.spotify.com/artist/25CfG2eUS67ncCzO8oCSCx'
 status: active
 title: Combo Royale
 ---

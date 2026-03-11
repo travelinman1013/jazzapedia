@@ -5,8 +5,8 @@ birth_place: Unknown
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:09:29.830209'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/74f696e4-7638-4971-af9b-3ad2508d8fc0
-  spotify: https://open.spotify.com/artist/4W2bVcagNE67xCjhx89wuf
+  musicbrainz: 'https://musicbrainz.org/artist/74f696e4-7638-4971-af9b-3ad2508d8fc0'
+  spotify: 'https://open.spotify.com/artist/4W2bVcagNE67xCjhx89wuf'
   wikipedia: ''
 gender: Male
 genres: []
@@ -14,25 +14,26 @@ image_path: 03_Resources/source_material/ArtistPortraits/deacon_leon_davis.jpg
 last_updated: '2026-01-31T01:09:29.830211'
 musical_connections:
   collaborators:
-  - Rev. J. M. Gates
+    - Rev. J. M. Gates
   influenced: []
   mentors: []
 musicbrainz_id: 74f696e4-7638-4971-af9b-3ad2508d8fc0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.earlygospel.com/early-gospel-singers-d/
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/114422/Davis_Leon_Deacon
-- https://open.spotify.com/track/0KmLMM1UHVbfXoykC08GD5
-- https://dusttodigital.bandcamp.com/track/deacons-prayer-service
-- https://www.allmusic.com/artist/leon-davis-mn0002590617
+  - 'http://www.earlygospel.com/early-gospel-singers-d/'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/114422/Davis_Leon_Deacon
+  - 'https://open.spotify.com/track/0KmLMM1UHVbfXoykC08GD5'
+  - 'https://dusttodigital.bandcamp.com/track/deacons-prayer-service'
+  - 'https://www.allmusic.com/artist/leon-davis-mn0002590617'
 spotify_data:
   followers: 67
   id: 4W2bVcagNE67xCjhx89wuf
   popularity: 0
-  url: https://open.spotify.com/artist/4W2bVcagNE67xCjhx89wuf
+  url: 'https://open.spotify.com/artist/4W2bVcagNE67xCjhx89wuf'
 status: active
-title: deacon leon davis
+title: Deacon Leon Davis
 ---
 
 ![](deacon_leon_davis.jpg)

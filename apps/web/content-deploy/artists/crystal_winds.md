@@ -3,35 +3,36 @@ biography_enhanced_at: '2026-02-01T01:30:28.774437'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:30:28.774442'
 external_urls:
-  spotify: https://open.spotify.com/artist/4z0n4GcNBiUUBnEoYx4csp
+  spotify: 'https://open.spotify.com/artist/4z0n4GcNBiUUBnEoYx4csp'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/crystal_winds.jpg
 last_updated: '2026-02-01T01:30:28.774442'
 musical_connections:
   collaborators:
-  - Paul Coleman
-  - M.C. (Morris) Brown
-  - Theresa Davis
-  - Martin Dumas
-  - Rich Tufo
-  - E. Frank Donaldson
+    - Paul Coleman
+    - M.C. (Morris) Brown
+    - Theresa Davis
+    - Martin Dumas
+    - Rich Tufo
+    - E. Frank Donaldson
   influenced: []
   mentors: []
 network_extracted: true
-origin: Chicago, Illinois, USA
+origin: 'Chicago, Illinois, USA'
 primary_source: perplexity
 research_sources:
-- https://bbemusic.com/artist/crystal-winds
-- https://www.allmusic.com/artist/crystal-wind-mn0000133023
-- https://www.youtube.com/watch?v=CdM-AmangSA
+  - 'https://bbemusic.com/artist/crystal-winds'
+  - 'https://www.allmusic.com/artist/crystal-wind-mn0000133023'
+  - 'https://www.youtube.com/watch?v=CdM-AmangSA'
 spotify_data:
   followers: 1014
   id: 4z0n4GcNBiUUBnEoYx4csp
   popularity: 10
-  url: https://open.spotify.com/artist/4z0n4GcNBiUUBnEoYx4csp
+  url: 'https://open.spotify.com/artist/4z0n4GcNBiUUBnEoYx4csp'
 status: active
 title: Crystal Winds
+artist_type: band
 ---
 
 ![](crystal_winds.jpg)

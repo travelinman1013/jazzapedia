@@ -1,39 +1,41 @@
 ---
 biography_enhanced_at: '2026-02-23T03:00:51.220551'
-birth_place: Notting Hill, London, England
+birth_place: 'Notting Hill, London, England'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:00:51.220573'
 external_urls:
-  spotify: https://open.spotify.com/artist/3nOAFevc7IMqcF31h7HADX
-  wikipedia: https://en.wikipedia.org/wiki/Albert_Chevalier
+  spotify: 'https://open.spotify.com/artist/3nOAFevc7IMqcF31h7HADX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Albert_Chevalier'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/albert_chevalier.jpg
 last_updated: '2026-02-23T03:00:51.220576'
 musical_connections:
   collaborators:
-  - Charles Ingle
-  - Yvette Guilbert
+    - Charles Ingle
+    - Yvette Guilbert
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Albert-Chevalier
-- https://en.wikipedia.org/wiki/Albert_Chevalier
-- https://www.felbridge.org.uk/index.php/publications/albert-chevalier/
-- https://arhoolie.org/albert-chevalier-clemon-robert-clifton-edmond-interview/
-- https://arhoolie.org/artist/albert-chevalier/
-- https://musicbrainz.org/artist/ef2852b5-0cdb-418d-8c94-fcb1bd074658
-- https://www.londonremembers.com/subjects/albert-chevalier
+  - 'https://www.britannica.com/biography/Albert-Chevalier'
+  - 'https://en.wikipedia.org/wiki/Albert_Chevalier'
+  - 'https://www.felbridge.org.uk/index.php/publications/albert-chevalier/'
+  - >-
+    https://arhoolie.org/albert-chevalier-clemon-robert-clifton-edmond-interview/
+  - 'https://arhoolie.org/artist/albert-chevalier/'
+  - 'https://musicbrainz.org/artist/ef2852b5-0cdb-418d-8c94-fcb1bd074658'
+  - 'https://www.londonremembers.com/subjects/albert-chevalier'
 spotify_data:
   followers: 59
   id: 3nOAFevc7IMqcF31h7HADX
   popularity: 0
-  url: https://open.spotify.com/artist/3nOAFevc7IMqcF31h7HADX
+  url: 'https://open.spotify.com/artist/3nOAFevc7IMqcF31h7HADX'
 status: active
 title: Albert Chevalier
+artist_type: person
 ---
 
 ![](albert_chevalier.jpg)

@@ -1,13 +1,13 @@
 ---
 biography_enhanced_at: '2026-02-07T01:24:58.356377'
-birth_place: Lake Charles, LA, USA
+birth_place: 'Lake Charles, LA, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:24:58.356421'
 external_urls:
-  spotify: https://open.spotify.com/artist/5LduSqZcuqh7KzCly7B4w4
+  spotify: 'https://open.spotify.com/artist/5LduSqZcuqh7KzCly7B4w4'
   wikipedia: ''
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/charles_sheffield.jpg
 last_updated: '2026-02-07T01:24:58.356423'
 musical_connections:
@@ -17,21 +17,22 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/charles-sheffield-mn0000200508
-- https://www.last.fm/music/Charles+Sheffield/+wiki
-- http://www.nts.live/artists/4840-charles-sheffield
-- https://open.spotify.com/artist/5LduSqZcuqh7KzCly7B4w4
-- https://www.classic45s.com/collections/charles-sheffield
-- https://acerecords.co.uk/features/how-to-buy/northern-soul
-- https://www.rodny.cz/?id=a1006654
-- https://www.last.fm/music/Charles+Sheffield
+  - 'https://www.allmusic.com/artist/charles-sheffield-mn0000200508'
+  - 'https://www.last.fm/music/Charles+Sheffield/+wiki'
+  - 'http://www.nts.live/artists/4840-charles-sheffield'
+  - 'https://open.spotify.com/artist/5LduSqZcuqh7KzCly7B4w4'
+  - 'https://www.classic45s.com/collections/charles-sheffield'
+  - 'https://acerecords.co.uk/features/how-to-buy/northern-soul'
+  - 'https://www.rodny.cz/?id=a1006654'
+  - 'https://www.last.fm/music/Charles+Sheffield'
 spotify_data:
   followers: 2398
   id: 5LduSqZcuqh7KzCly7B4w4
   popularity: 21
-  url: https://open.spotify.com/artist/5LduSqZcuqh7KzCly7B4w4
+  url: 'https://open.spotify.com/artist/5LduSqZcuqh7KzCly7B4w4'
 status: active
 title: Charles Sheffield
+artist_type: person
 ---
 
 ![](charles_sheffield.jpg)

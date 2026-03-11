@@ -1,37 +1,39 @@
 ---
 biography_enhanced_at: '2026-02-20T01:17:12.022175'
-birth_place: Surulere, Lagos State, Nigeria
+birth_place: 'Surulere, Lagos State, Nigeria'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:17:12.022185'
 external_urls:
-  spotify: https://open.spotify.com/artist/0oOtsvk8WeAm8TKponkgla
+  spotify: 'https://open.spotify.com/artist/0oOtsvk8WeAm8TKponkgla'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/skiiwii.jpg
 last_updated: '2026-02-20T01:17:12.022187'
 musical_connections:
   collaborators:
-  - Reekado Banks
-  - Davido
-  - Kizz Daniel
-  - Teni
+    - Reekado Banks
+    - Davido
+    - Kizz Daniel
+    - Teni
   influenced: []
   mentors:
-  - Kcee
+    - Kcee
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://musicbiography.com.ng/skiibi-biography/
-- https://www1.wikilifeng.com/about/skiibii-
-- https://profileability.com/skiibii/
-- https://www.famousbirthdays.com/people/skiibii.html
+  - 'https://musicbiography.com.ng/skiibi-biography/'
+  - 'https://www1.wikilifeng.com/about/skiibii-'
+  - 'https://profileability.com/skiibii/'
+  - 'https://www.famousbirthdays.com/people/skiibii.html'
 spotify_data:
   followers: 132
   id: 0oOtsvk8WeAm8TKponkgla
   popularity: 0
-  url: https://open.spotify.com/artist/0oOtsvk8WeAm8TKponkgla
+  url: 'https://open.spotify.com/artist/0oOtsvk8WeAm8TKponkgla'
 status: active
 title: SkiiWii
+birth_date: '1992-07-05'
+artist_type: person
 ---
 
 ![](skiiwii.jpg)

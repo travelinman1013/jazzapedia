@@ -3,38 +3,39 @@ biography_enhanced_at: '2026-01-31T01:07:45.611100'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:07:45.611109'
 external_urls:
-  spotify: https://open.spotify.com/artist/6ENOhNo8F2LbLtsByy4olz
+  spotify: 'https://open.spotify.com/artist/6ENOhNo8F2LbLtsByy4olz'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/electric_ramble.jpg
 last_updated: '2026-01-31T01:07:45.611110'
 musical_connections:
   collaborators:
-  - Tyler Self
-  - William McMains
+    - Tyler Self
+    - William McMains
   influenced: []
   mentors:
-  - Led Zeppelin
-  - The Allman Brothers
-  - Otis Redding
-  - The Black Crowes
-  - Jimi Hendrix
+    - Led Zeppelin
+    - The Allman Brothers
+    - Otis Redding
+    - The Black Crowes
+    - Jimi Hendrix
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://radioromford.co.uk/2025/08/24/artist-feature-electric-ramble/
-- https://www.bandsintown.com/e/107731221?app_id=spt_feed&came_from=281
-- https://www.electricramble.com/epk
-- https://www.electricramble.com
-- https://www.neworleans.com/listing/electric-ramble/47745/
+  - 'https://radioromford.co.uk/2025/08/24/artist-feature-electric-ramble/'
+  - 'https://www.bandsintown.com/e/107731221?app_id=spt_feed&came_from=281'
+  - 'https://www.electricramble.com/epk'
+  - 'https://www.electricramble.com'
+  - 'https://www.neworleans.com/listing/electric-ramble/47745/'
 spotify_data:
   followers: 210
   id: 6ENOhNo8F2LbLtsByy4olz
   popularity: 14
-  url: https://open.spotify.com/artist/6ENOhNo8F2LbLtsByy4olz
+  url: 'https://open.spotify.com/artist/6ENOhNo8F2LbLtsByy4olz'
 status: active
 title: Electric Ramble
+artist_type: band
 ---
 
 ![](electric_ramble.jpg)

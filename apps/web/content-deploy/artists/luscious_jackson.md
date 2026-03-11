@@ -1,78 +1,79 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-13T01:26:27.138224'
 birth_date: '1991'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:26:27.138231'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8be5d1de-e925-4e9f-b410-6d702cd8dcaa
-  spotify: https://open.spotify.com/artist/1EcRE2Nnqg2spdn2otakhg
+  musicbrainz: 'https://musicbrainz.org/artist/8be5d1de-e925-4e9f-b410-6d702cd8dcaa'
+  spotify: 'https://open.spotify.com/artist/1EcRE2Nnqg2spdn2otakhg'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/luscious_jackson.jpg
 instruments:
-- keyboard
+  - keyboard
 last_updated: '2026-02-13T01:26:27.138232'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 94d40f48-df1e-41a1-8a76-b85a3d98f6d8
-  name: Jill Cunniff
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8dd8b3f3-f99a-44a4-9386-82292c31feb8
-  name: Gabby Glaser
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2f4b1021-9a7a-44b9-8dc8-992354ed74d0
-  name: Kate Schellenbach
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9ac3cf69-a8ea-48dd-b281-69d44d2bb6d2
-  name: Tia Sprocket
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 79766f64-9065-4357-8282-2da0dcfbc42b
-  name: Vivian Trimble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 94d40f48-df1e-41a1-8a76-b85a3d98f6d8
+    name: Jill Cunniff
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8dd8b3f3-f99a-44a4-9386-82292c31feb8
+    name: Gabby Glaser
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2f4b1021-9a7a-44b9-8dc8-992354ed74d0
+    name: Kate Schellenbach
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9ac3cf69-a8ea-48dd-b281-69d44d2bb6d2
+    name: Tia Sprocket
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 79766f64-9065-4357-8282-2da0dcfbc42b
+    name: Vivian Trimble
 musical_connections:
   collaborators:
-  - Kate Schellenbach
-  - Jill Cunniff
-  - Gabby Glaser
-  - Vivian Trimble
-  - Tony Mangurian
+    - Kate Schellenbach
+    - Jill Cunniff
+    - Gabby Glaser
+    - Vivian Trimble
+    - Tony Mangurian
   influenced: []
   mentors:
-  - Beastie Boys
+    - Beastie Boys
 musicbrainz_id: 8be5d1de-e925-4e9f-b410-6d702cd8dcaa
 network_extracted: true
-origin: Manhattan
+origin: 'Manhattan, New York City, United States'
 primary_source: perplexity
 research_sources:
-- https://bombmagazine.org/articles/1995/01/01/luscious-jackson/
-- https://www.last.fm/music/Luscious+Jackson/+wiki
-- https://www.spin.com/2012/05/luscious-jackson-behind-return-90s-coolest-girls/
-- https://www.youtube.com/watch?v=ioKGyj_ksLY
-- https://friendsfromnewyork.substack.com/p/meet-our-friends-luscious-jackson
-- https://www.beastiemania.com/whois/luscious_jackson/
-- https://www.allmusic.com/artist/luscious-jackson-mn0000203695
-- https://peel.fandom.com/wiki/Luscious_Jackson
+  - 'https://bombmagazine.org/articles/1995/01/01/luscious-jackson/'
+  - 'https://www.last.fm/music/Luscious+Jackson/+wiki'
+  - >-
+    https://www.spin.com/2012/05/luscious-jackson-behind-return-90s-coolest-girls/
+  - 'https://www.youtube.com/watch?v=ioKGyj_ksLY'
+  - 'https://friendsfromnewyork.substack.com/p/meet-our-friends-luscious-jackson'
+  - 'https://www.beastiemania.com/whois/luscious_jackson/'
+  - 'https://www.allmusic.com/artist/luscious-jackson-mn0000203695'
+  - 'https://peel.fandom.com/wiki/Luscious_Jackson'
 spotify_data:
   followers: 76989
   id: 1EcRE2Nnqg2spdn2otakhg
   popularity: 36
-  url: https://open.spotify.com/artist/1EcRE2Nnqg2spdn2otakhg
+  url: 'https://open.spotify.com/artist/1EcRE2Nnqg2spdn2otakhg'
 status: active
 tags:
-- alternative
-- american
-- classic pop and rock
+  - alternative
+  - american
+  - classic pop and rock
 title: Luscious Jackson
 ---
 

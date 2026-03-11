@@ -1,51 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-30T01:17:35.233086'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:17:35.233096'
 external_urls:
-  spotify: https://open.spotify.com/artist/2o99vXaUOPE7JyDEBVKNaq
+  spotify: 'https://open.spotify.com/artist/2o99vXaUOPE7JyDEBVKNaq'
   wikipedia: ''
 genres:
-- jazz funk
+  - jazz funk
 image_path: 03_Resources/source_material/ArtistPortraits/john_michael_bradford.jpg
 last_updated: '2026-01-30T01:17:35.233098'
 musical_connections:
   collaborators:
-  - Jon Batiste
-  - Herbie Hancock
-  - Leo Nocentelli
-  - Leslie Odom Jr.
-  - Harry Connick Jr.
-  - Dumpstaphunk
-  - Chris Severin
-  - Joe Dyson
-  - Rickie Monie
-  - Benny Jones
-  - Detroit Brooks
+    - Jon Batiste
+    - Herbie Hancock
+    - Leo Nocentelli
+    - Leslie Odom Jr.
+    - Harry Connick Jr.
+    - Dumpstaphunk
+    - Chris Severin
+    - Joe Dyson
+    - Rickie Monie
+    - Benny Jones
+    - Detroit Brooks
   influenced:
-  - Young musicians at NOCCA and NOJHS
+    - Young musicians at NOCCA and NOJHS
   mentors:
-  - Donald Harrison
-  - Nicholas Payton
-  - Sean Jones
-  - Tia Fuller
-  - Sam Williams
+    - Donald Harrison
+    - Nicholas Payton
+    - Sean Jones
+    - Tia Fuller
+    - Sam Williams
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.johnmichaelbradford.com/bio
-- https://www.johnmichaelbradford.com
-- https://college.berklee.edu/events/john-michael-bradford-6
-- https://www.allaboutjazz.com/musicians/john-michael-bradford
-- https://voyagela.com/interview/meet-john-michael-bradford-john-michael-bradford-van-nuys/
+  - 'https://www.johnmichaelbradford.com/bio'
+  - 'https://www.johnmichaelbradford.com'
+  - 'https://college.berklee.edu/events/john-michael-bradford-6'
+  - 'https://www.allaboutjazz.com/musicians/john-michael-bradford'
+  - >-
+    https://voyagela.com/interview/meet-john-michael-bradford-john-michael-bradford-van-nuys/
 spotify_data:
   followers: 437
   id: 2o99vXaUOPE7JyDEBVKNaq
   popularity: 3
-  url: https://open.spotify.com/artist/2o99vXaUOPE7JyDEBVKNaq
+  url: 'https://open.spotify.com/artist/2o99vXaUOPE7JyDEBVKNaq'
 status: active
 title: John Michael Bradford
+artist_type: person
 ---
 
 ![](john_michael_bradford.jpg)

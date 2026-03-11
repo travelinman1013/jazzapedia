@@ -1,43 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-17T01:19:32.712091'
-birth_place: 7th Ward, New Orleans, Louisiana, USA
+birth_place: '7th Ward, New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-17T01:19:32.712097'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ys7gXdEFWr8ftsmH5716z
+  spotify: 'https://open.spotify.com/artist/0ys7gXdEFWr8ftsmH5716z'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/spirit_of_fi_yi_yi_and_the_mandingo_warriors.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/spirit_of_fi_yi_yi_and_the_mandingo_warriors.jpg
 last_updated: '2026-02-17T01:19:32.712098'
 musical_connections:
   collaborators:
-  - Wesley Phillips
-  - “Coach” Lewis
-  - Jack Robertson
-  - “Little” Victor Harris
-  - Calsey Harris
+    - Wesley Phillips
+    - “Coach” Lewis
+    - Jack Robertson
+    - “Little” Victor Harris
+    - Calsey Harris
   influenced: []
   mentors:
-  - Allison “Tootie” Montana
+    - Allison “Tootie” Montana
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://whatssospecialaboutneworleans.blogspot.com/2018/05/new-book-explores-spirit-of-fi-yi-yi.html
-- http://pertuniafoundation.org/fiyiyi_album.html
-- http://www.louisianaweekly.com/victor-harris-the-spirit-of-fi-yi-yi-55-years-of-spreading-joy/
-- https://veritenews.org/2024/02/12/spirit-of-the-fi-yi-yi-retiring/
-- https://www.myneworleans.com/spirit-of-fi-yi-yi/
-- https://astudiointhewoods.org/artist/big-chief-victor-harris/
-- https://www.neighborhoodstoryproject.org/product-page/fire-in-the-hole-the-spirit-work-of-fi-yi-yi-and-the-mandingo-warriors
-- https://direct.mit.edu/afar/article/53/1/95/55155/Fire-in-the-Hole-The-Spirit-Work-of-Fi-Yi-Yi-and
-- https://www.uno.edu/unopress/fire-in-the-hole
+  - >-
+    https://whatssospecialaboutneworleans.blogspot.com/2018/05/new-book-explores-spirit-of-fi-yi-yi.html
+  - 'http://pertuniafoundation.org/fiyiyi_album.html'
+  - >-
+    http://www.louisianaweekly.com/victor-harris-the-spirit-of-fi-yi-yi-55-years-of-spreading-joy/
+  - 'https://veritenews.org/2024/02/12/spirit-of-the-fi-yi-yi-retiring/'
+  - 'https://www.myneworleans.com/spirit-of-fi-yi-yi/'
+  - 'https://astudiointhewoods.org/artist/big-chief-victor-harris/'
+  - >-
+    https://www.neighborhoodstoryproject.org/product-page/fire-in-the-hole-the-spirit-work-of-fi-yi-yi-and-the-mandingo-warriors
+  - >-
+    https://direct.mit.edu/afar/article/53/1/95/55155/Fire-in-the-Hole-The-Spirit-Work-of-Fi-Yi-Yi-and
+  - 'https://www.uno.edu/unopress/fire-in-the-hole'
 spotify_data:
   followers: 5
   id: 0ys7gXdEFWr8ftsmH5716z
   popularity: 19
-  url: https://open.spotify.com/artist/0ys7gXdEFWr8ftsmH5716z
+  url: 'https://open.spotify.com/artist/0ys7gXdEFWr8ftsmH5716z'
 status: active
-title: spirit of fi yi yi & the mandingo warriors
+title: Spirit Of FI YI YI & the Mandingo Warriors
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](spirit_of_fi_yi_yi_and_the_mandingo_warriors.jpg)

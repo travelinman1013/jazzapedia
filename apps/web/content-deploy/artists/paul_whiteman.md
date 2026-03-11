@@ -1,50 +1,54 @@
 ---
 biography_enhanced_at: '2026-02-08T01:59:37.510570'
-birth_place: Denver, Colorado, United States
+birth_place: 'Denver, Colorado, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T01:59:37.510579'
 external_urls:
-  spotify: https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Whiteman
+  spotify: 'https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Whiteman'
 genres:
-- ragtime
-- big band
-- swing music
+  - ragtime
+  - big band
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/paul_whiteman.jpg
 last_updated: '2026-02-08T01:59:37.510581'
 musical_connections:
   collaborators:
-  - George Gershwin
-  - Ferde Grofé
-  - Bix Beiderbecke
-  - Frankie Trumbauer
-  - Bing Crosby
-  - Mildred Bailey
-  - Johnny Mercer
-  - Joe Venuti
-  - Eddie Lang
-  - Henry Busse
-  - Hoagy Carmichael
+    - George Gershwin
+    - Ferde Grofé
+    - Bix Beiderbecke
+    - Frankie Trumbauer
+    - Bing Crosby
+    - Mildred Bailey
+    - Johnny Mercer
+    - Joe Venuti
+    - Eddie Lang
+    - Henry Busse
+    - Hoagy Carmichael
   influenced: []
   mentors:
-  - Wilberforce J. Whiteman
-  - Efrida Whiteman
+    - Wilberforce J. Whiteman
+    - Efrida Whiteman
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://mus-col.com/en/events/33641/
-- https://walkoffame.com/paul-whiteman/
-- https://syncopatedtimes.com/paul-whiteman-profiles-in-jazz/
-- https://en.wikipedia.org/wiki/Paul_Whiteman
-- https://fromthevaults-boppinbob.blogspot.com/2025/03/paul-whiteman-born-28-march-1890.html
-- https://cmhof.org/inductees/paul-whiteman/
+  - 'https://mus-col.com/en/events/33641/'
+  - 'https://walkoffame.com/paul-whiteman/'
+  - 'https://syncopatedtimes.com/paul-whiteman-profiles-in-jazz/'
+  - 'https://en.wikipedia.org/wiki/Paul_Whiteman'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/03/paul-whiteman-born-28-march-1890.html
+  - 'https://cmhof.org/inductees/paul-whiteman/'
 spotify_data:
   followers: 9546
   id: 1mZm40boQmdGKicfbNkd0r
   popularity: 28
-  url: https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r
+  url: 'https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r'
 status: active
 title: Paul Whiteman
+birth_date: '1890-03-28'
+death_date: '1967-12-29'
+artist_type: person
 ---
 
 ![](paul_whiteman.jpg)

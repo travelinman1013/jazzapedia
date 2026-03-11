@@ -1,35 +1,38 @@
 ---
 biography_enhanced_at: '2026-02-03T02:11:29.406213'
-birth_place: Atlanta, Georgia, United States (birthplace)
+birth_place: 'Atlanta, Georgia, United States (birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:11:29.406220'
 external_urls:
-  spotify: https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8
+  spotify: 'https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/paul_russell.jpg
 last_updated: '2026-02-03T02:11:29.406221'
 musical_connections:
   collaborators:
-  - Sean Cook
-  - The Emotions (Maurice White, Al McKay)
+    - Sean Cook
+    - 'The Emotions (Maurice White, Al McKay)'
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://notion.online/paul-russell/
-- https://www.audacy.com/national/music/paul-russell-on-the-cool-journey-to-lil-boo-thang
-- https://www.songwritingmagazine.co.uk/interviews/lil-boo-thang-paul-russell
-- https://rapzilla.com/2020-04-paul-russell-rapzilla-freshman-already-celebrity/
-- https://www.wape.com/lsp/artist/bio/paul-russell/
+  - 'https://notion.online/paul-russell/'
+  - >-
+    https://www.audacy.com/national/music/paul-russell-on-the-cool-journey-to-lil-boo-thang
+  - 'https://www.songwritingmagazine.co.uk/interviews/lil-boo-thang-paul-russell'
+  - >-
+    https://rapzilla.com/2020-04-paul-russell-rapzilla-freshman-already-celebrity/
+  - 'https://www.wape.com/lsp/artist/bio/paul-russell/'
 spotify_data:
   followers: 262968
   id: 4zoRNhOhsGX3w8yBAnFSQ8
   popularity: 62
-  url: https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8
+  url: 'https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8'
 status: active
 title: Paul Russell
+artist_type: person
 ---
 
 ![](paul_russell.jpg)

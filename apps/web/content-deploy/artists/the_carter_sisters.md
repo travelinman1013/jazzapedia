@@ -1,44 +1,45 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-23T03:04:39.592477'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:04:39.592487'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3f8cfa25-a881-4dce-b762-dc609d4c3f71
-  spotify: https://open.spotify.com/artist/2Z76ufZ8SQ3z2jEjrlecNV
-  wikipedia: https://en.wikipedia.org/wiki/Carter_Family
+  musicbrainz: 'https://musicbrainz.org/artist/3f8cfa25-a881-4dce-b762-dc609d4c3f71'
+  spotify: 'https://open.spotify.com/artist/2Z76ufZ8SQ3z2jEjrlecNV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carter_Family'
 genres:
-- classic country
-- traditional country
+  - classic country
+  - traditional country
 image_path: 03_Resources/source_material/ArtistPortraits/the_carter_sisters.jpg
 last_updated: '2026-02-23T03:04:39.592489'
 musical_connections:
   collaborators:
-  - Helen Carter
-  - Anita Carter
-  - June Carter
+    - Helen Carter
+    - Anita Carter
+    - June Carter
   influenced:
-  - Johnny Cash
-  - Chet Atkins
+    - Johnny Cash
+    - Chet Atkins
   mentors:
-  - A.P. Carter
+    - A.P. Carter
 musicbrainz_id: 3f8cfa25-a881-4dce-b762-dc609d4c3f71
 network_extracted: true
-origin: Maces Spring (Poor Valley), Virginia, USA
+origin: 'Maces Spring (Poor Valley), Virginia, USA'
 primary_source: perplexity
 research_sources:
-- https://carterfamilyfold.org/heritage/
-- https://www.historysouth.org/carter/
-- https://birthplaceofcountrymusic.org/tag/the-carter-family/
-- https://theboot.com/the-carter-family-a-history-of-the-first-family-of-country-music/
-- https://www.life.com/people/carter-family/
-- https://en.wikipedia.org/wiki/Carter_Family
-- https://countrymusichalloffame.org/artist/carter-family
+  - 'https://carterfamilyfold.org/heritage/'
+  - 'https://www.historysouth.org/carter/'
+  - 'https://birthplaceofcountrymusic.org/tag/the-carter-family/'
+  - >-
+    https://theboot.com/the-carter-family-a-history-of-the-first-family-of-country-music/
+  - 'https://www.life.com/people/carter-family/'
+  - 'https://en.wikipedia.org/wiki/Carter_Family'
+  - 'https://countrymusichalloffame.org/artist/carter-family'
 spotify_data:
   followers: 2634
   id: 2Z76ufZ8SQ3z2jEjrlecNV
   popularity: 15
-  url: https://open.spotify.com/artist/2Z76ufZ8SQ3z2jEjrlecNV
+  url: 'https://open.spotify.com/artist/2Z76ufZ8SQ3z2jEjrlecNV'
 status: active
 title: The Carter Sisters
 ---

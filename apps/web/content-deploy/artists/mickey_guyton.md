@@ -1,56 +1,56 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1999'
-  end: '1999'
-  instruments:
-  - original
-  mbid: fc9d0b71-d338-43bc-b2b1-f3f6d8f75b99
-  name: 3LW
+  - begin: '1999'
+    end: '1999'
+    instruments:
+      - original
+    mbid: fc9d0b71-d338-43bc-b2b1-f3f6d8f75b99
+    name: 3LW
 biography_enhanced_at: '2026-02-03T02:10:44.383177'
 birth_date: '1983-06-17'
-birth_place: Arlington
+birth_place: 'Arlington, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:10:44.383186'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/77467723-5d0e-4293-a89b-d230f56eaf50
-  spotify: https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz
-  wikipedia: https://en.wikipedia.org/wiki/Mickey_Guyton
+  musicbrainz: 'https://musicbrainz.org/artist/77467723-5d0e-4293-a89b-d230f56eaf50'
+  spotify: 'https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mickey_Guyton'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mickey_guyton.jpg
 instruments:
-- original
-- background vocals
-- lead vocals
+  - original
+  - background vocals
+  - lead vocals
 last_updated: '2026-02-03T02:10:44.383188'
 musical_connections:
   collaborators:
-  - Keith Urban
-  - Chrissy Metz, Carrie Underwood, Lauren Alaina, Maddie & Tae
+    - Keith Urban
+    - 'Chrissy Metz, Carrie Underwood, Lauren Alaina, Maddie & Tae'
   influenced: []
   mentors:
-  - Julian Raymond
-  - Gary Borman and Steve Moir
+    - Julian Raymond
+    - Gary Borman and Steve Moir
 musicbrainz_id: 77467723-5d0e-4293-a89b-d230f56eaf50
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blackpast.org/african-american-history/mickey-guyton-1983/
-- https://holican.io/wiki/mickey-guyton
-- https://www.rocky-52.net/chanteursg/guyton_mickey.htm
-- https://kalmusky.com/artists/mickey-guyton/
-- https://www.mickeyguyton.com/about
+  - 'https://blackpast.org/african-american-history/mickey-guyton-1983/'
+  - 'https://holican.io/wiki/mickey-guyton'
+  - 'https://www.rocky-52.net/chanteursg/guyton_mickey.htm'
+  - 'https://kalmusky.com/artists/mickey-guyton/'
+  - 'https://www.mickeyguyton.com/about'
 spotify_data:
   followers: 104701
   id: 6nfN5B7Jmi853SHa9106Hz
   popularity: 47
-  url: https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz
+  url: 'https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz'
 status: active
 tags:
-- contemporary country
-- country
-- country pop
+  - contemporary country
+  - country
+  - country pop
 title: Mickey Guyton
 ---
 

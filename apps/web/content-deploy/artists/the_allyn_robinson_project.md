@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-02-03T02:03:06.036517'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:03:06.036529'
 external_urls:
-  spotify: https://open.spotify.com/artist/42S9H9CekjLRcFXhK3zqRz
+  spotify: 'https://open.spotify.com/artist/42S9H9CekjLRcFXhK3zqRz'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_allyn_robinson_project.jpg
 last_updated: '2026-02-03T02:03:06.036531'
 musical_connections:
   collaborators:
-  - Wayne Cochran
-  - Jaco Pastorius
-  - Charles Brent
-  - Luther Kent
-  - Chuck Archard
-  - Tab Benoit
+    - Wayne Cochran
+    - Jaco Pastorius
+    - Charles Brent
+    - Luther Kent
+    - Chuck Archard
+    - Tab Benoit
   influenced:
-  - Peter Erskine
+    - Peter Erskine
   mentors:
-  - Earl Palmer
+    - Earl Palmer
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.allynrobinson.com/history.htm
-- http://www.allynrobinson.com/current.htm
-- http://www.allynrobinson.com
-- https://www.louisianamusicfactory.com/product/allyn-robinson-project-dreams-realized-my-life-in-music/
-- https://heartbeatofaplanet.com/musicians/allyn-robinson/
-- http://www.allynrobinson.com/news/MD_SEPT12_AR.pdf
+  - 'http://www.allynrobinson.com/history.htm'
+  - 'http://www.allynrobinson.com/current.htm'
+  - 'http://www.allynrobinson.com'
+  - >-
+    https://www.louisianamusicfactory.com/product/allyn-robinson-project-dreams-realized-my-life-in-music/
+  - 'https://heartbeatofaplanet.com/musicians/allyn-robinson/'
+  - 'http://www.allynrobinson.com/news/MD_SEPT12_AR.pdf'
 spotify_data:
   followers: 25
   id: 42S9H9CekjLRcFXhK3zqRz
   popularity: 0
-  url: https://open.spotify.com/artist/42S9H9CekjLRcFXhK3zqRz
+  url: 'https://open.spotify.com/artist/42S9H9CekjLRcFXhK3zqRz'
 status: active
 title: The Allyn Robinson Project
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](the_allyn_robinson_project.jpg)

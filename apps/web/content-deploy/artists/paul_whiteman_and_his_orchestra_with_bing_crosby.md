@@ -3,43 +3,48 @@ biography_enhanced_at: '2026-02-09T01:19:17.546223'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:19:17.546264'
 external_urls:
-  spotify: https://open.spotify.com/artist/0tIS1GWwrWqr4DHK0RLg5u
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Whiteman
+  spotify: 'https://open.spotify.com/artist/0tIS1GWwrWqr4DHK0RLg5u'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Whiteman'
 genres:
-- ragtime
-- big band
-- swing music
-image_path: 03_Resources/source_material/ArtistPortraits/paul_whiteman_and_his_orchestra_with_bing_crosby.jpg
+  - ragtime
+  - big band
+  - swing music
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/paul_whiteman_and_his_orchestra_with_bing_crosby.jpg
 last_updated: '2026-02-09T01:19:17.546266'
 musical_connections:
   collaborators:
-  - Bing Crosby
-  - Bix Beiderbecke
-  - Frankie Trumbauer
-  - Eddie Lang
-  - Joe Venuti
-  - George Gershwin
-  - Hoagy Carmichael
-  - Mildred Bailey
+    - Bing Crosby
+    - Bix Beiderbecke
+    - Frankie Trumbauer
+    - Eddie Lang
+    - Joe Venuti
+    - George Gershwin
+    - Hoagy Carmichael
+    - Mildred Bailey
   influenced:
-  - Bing Crosby
+    - Bing Crosby
   mentors:
-  - San Francisco Symphony
+    - San Francisco Symphony
 network_extracted: true
-origin: Denver, Colorado, United States
+origin: 'Denver, Colorado, United States'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/paul-whiteman-and-his-orchestra/
-- https://en.wikipedia.org/wiki/Paul_Whiteman
-- https://www.jazzstandards.com/biographies/biography_22.htm
-- https://cmhof.org/inductees/paul-whiteman/
+  - 'https://syncopatedtimes.com/paul-whiteman-and-his-orchestra/'
+  - 'https://en.wikipedia.org/wiki/Paul_Whiteman'
+  - 'https://www.jazzstandards.com/biographies/biography_22.htm'
+  - 'https://cmhof.org/inductees/paul-whiteman/'
 spotify_data:
   followers: 5724
   id: 0tIS1GWwrWqr4DHK0RLg5u
   popularity: 27
-  url: https://open.spotify.com/artist/0tIS1GWwrWqr4DHK0RLg5u
+  url: 'https://open.spotify.com/artist/0tIS1GWwrWqr4DHK0RLg5u'
 status: active
 title: Paul Whiteman and his Orchestra with Bing Crosby
+birth_place: 'Denver, Colorado, United States'
+birth_date: '1890-03-28'
+death_date: '1967-12-29'
+artist_type: person
 ---
 
 ![](paul_whiteman_and_his_orchestra_with_bing_crosby.jpg)

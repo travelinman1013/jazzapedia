@@ -2,50 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-02-01T01:32:17.237693'
 birth_date: '1925-09-26'
-birth_place: Glendale
+birth_place: 'Glendale, Arizona, United States'
 death_date: '1982-12-08'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:32:17.237698'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2c2add7c-9a99-4812-a20e-870d331f01fd
-  spotify: https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo
-  wikipedia: https://en.wikipedia.org/wiki/Marty_Robbins
+  musicbrainz: 'https://musicbrainz.org/artist/2c2add7c-9a99-4812-a20e-870d331f01fd'
+  spotify: 'https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marty_Robbins'
 gender: Male
 genres:
-- classic country
-- outlaw country
+  - classic country
+  - outlaw country
 image_path: 03_Resources/source_material/ArtistPortraits/marty_robbins.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2026-02-01T01:32:17.237699'
 musical_connections:
   collaborators:
-  - Little Jimmy Dickens
+    - Little Jimmy Dickens
   influenced: []
   mentors:
-  - Texas Bob Heckle
-  - Gene Autry
+    - Texas Bob Heckle
+    - Gene Autry
 musicbrainz_id: 2c2add7c-9a99-4812-a20e-870d331f01fd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marty_Robbins
-- https://alancackett.com/marty-robbins-biography
-- https://www.biography.com/musicians/marty-robbins
-- https://www.britannica.com/biography/Marty-Robbins
-- https://soulrideblog.com/2021/08/01/the-reputations-of-marty-robbins/
-- https://www.press.uillinois.edu/wordpress/marty-robbins-el-paso-and-mr-teardrop/
+  - 'https://en.wikipedia.org/wiki/Marty_Robbins'
+  - 'https://alancackett.com/marty-robbins-biography'
+  - 'https://www.biography.com/musicians/marty-robbins'
+  - 'https://www.britannica.com/biography/Marty-Robbins'
+  - 'https://soulrideblog.com/2021/08/01/the-reputations-of-marty-robbins/'
+  - >-
+    https://www.press.uillinois.edu/wordpress/marty-robbins-el-paso-and-mr-teardrop/
 spotify_data:
   followers: 653549
   id: 0Xi59sEw38vRvwleSAVqoo
   popularity: 65
-  url: https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo
+  url: 'https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo'
 status: active
 tags:
-- 50s
-- 60s
-- 70s
+  - 50s
+  - 60s
+  - 70s
 title: Marty Robbins
+is_active: false
 ---
 
 ![](marty_robbins.jpg)

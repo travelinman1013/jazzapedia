@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-23T02:59:39.170349'
-birth_place: Beardstown, Illinois, United States
+birth_place: 'Beardstown, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T02:59:39.170364'
 external_urls:
-  spotify: https://open.spotify.com/artist/3LY2PBRPr66bGrHsXMpjmE
-  wikipedia: https://en.wikipedia.org/wiki/Red_Norvo
+  spotify: 'https://open.spotify.com/artist/3LY2PBRPr66bGrHsXMpjmE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Norvo'
 genres: []
 image_path: ''
 last_updated: '2026-02-23T02:59:39.170368'
 musical_connections:
   collaborators:
-  - Mildred Bailey
-  - Eddie Sauter
-  - Tal Farlow
-  - Charles Mingus
-  - Benny Goodman
-  - Charlie Parker and Dizzy Gillespie
+    - Mildred Bailey
+    - Eddie Sauter
+    - Tal Farlow
+    - Charles Mingus
+    - Benny Goodman
+    - Charlie Parker and Dizzy Gillespie
   influenced:
-  - Tal Farlow
-  - Charles Mingus
+    - Tal Farlow
+    - Charles Mingus
   mentors:
-  - Paul Ash
+    - Paul Ash
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/norvo-red
-- https://en.wikipedia.org/wiki/Red_Norvo
-- https://www.bluenote.com/artist/red-norvo/
-- https://sirismm.si.edu/EADpdfs/NMAH.AC.0858.pdf
-- https://www.allaboutjazz.com/musicians/red-norvo/
-- https://www.latimes.com/archives/la-xpm-1999-apr-08-mn-25446-story.html
-- https://syncopatedtimes.com/red-norvo/
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/norvo-red
+  - 'https://en.wikipedia.org/wiki/Red_Norvo'
+  - 'https://www.bluenote.com/artist/red-norvo/'
+  - 'https://sirismm.si.edu/EADpdfs/NMAH.AC.0858.pdf'
+  - 'https://www.allaboutjazz.com/musicians/red-norvo/'
+  - 'https://www.latimes.com/archives/la-xpm-1999-apr-08-mn-25446-story.html'
+  - 'https://syncopatedtimes.com/red-norvo/'
 spotify_data:
   followers: 3
   id: 3LY2PBRPr66bGrHsXMpjmE
   popularity: 0
-  url: https://open.spotify.com/artist/3LY2PBRPr66bGrHsXMpjmE
+  url: 'https://open.spotify.com/artist/3LY2PBRPr66bGrHsXMpjmE'
 status: active
 title: Red Norvo's All Star Sextet
+birth_date: '1908-03-31'
+artist_type: band
 ---
 
 ![]()

@@ -4,38 +4,39 @@ disambiguation: New Orleans alt-County
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:50:41.597407'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fc5d99a9-a3d6-4cd9-abd5-b936cb14038c
-  spotify: https://open.spotify.com/artist/4ICmY5syOAOQaM2T80Ei5q
+  musicbrainz: 'https://musicbrainz.org/artist/fc5d99a9-a3d6-4cd9-abd5-b936cb14038c'
+  spotify: 'https://open.spotify.com/artist/4ICmY5syOAOQaM2T80Ei5q'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/hollyrock.jpg
 last_updated: '2026-02-05T01:50:41.597409'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c543b953-2284-4369-85d3-5a0ee5e7c852
-  name: The Iceman Special
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c543b953-2284-4369-85d3-5a0ee5e7c852
+    name: The Iceman Special
 musical_connections:
   collaborators: []
   influenced: []
   mentors: []
 musicbrainz_id: fc5d99a9-a3d6-4cd9-abd5-b936cb14038c
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://hollyrockmusic.com/bio
-- https://hollyrockmusic.com/music
-- https://hollyrockmusic.com
-- https://www.youtube.com/watch?v=tFRRua-ZgCA
+  - 'https://hollyrockmusic.com/bio'
+  - 'https://hollyrockmusic.com/music'
+  - 'https://hollyrockmusic.com'
+  - 'https://www.youtube.com/watch?v=tFRRua-ZgCA'
 spotify_data:
   followers: 277
   id: 4ICmY5syOAOQaM2T80Ei5q
   popularity: 5
-  url: https://open.spotify.com/artist/4ICmY5syOAOQaM2T80Ei5q
+  url: 'https://open.spotify.com/artist/4ICmY5syOAOQaM2T80Ei5q'
 status: active
-title: hollyrock
+title: Hollyrock
+artist_type: band
 ---
 
 ![](hollyrock.jpg)

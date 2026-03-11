@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-13T01:24:00.473250'
-birth_place: Kansas City, Missouri, United States
+birth_place: 'Kansas City, Missouri, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:24:00.473257'
 external_urls:
-  spotify: https://open.spotify.com/artist/7DfDgQGeZEQSltpae33aUP
-  wikipedia: https://en.wikipedia.org/wiki/Ed_Sanders
+  spotify: 'https://open.spotify.com/artist/7DfDgQGeZEQSltpae33aUP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ed_Sanders'
 genres:
-- spoken word
-- avant-garde
+  - spoken word
+  - avant-garde
 image_path: 03_Resources/source_material/ArtistPortraits/ed_sanders.jpg
 last_updated: '2026-02-13T01:24:00.473258'
 musical_connections:
   collaborators:
-  - Tuli Kupferberg
-  - Ken Weaver
-  - Peter Stampfel
-  - Steve Weber
+    - Tuli Kupferberg
+    - Ken Weaver
+    - Peter Stampfel
+    - Steve Weber
   influenced: []
   mentors:
-  - Allen Ginsberg
-  - Grace Paley
+    - Allen Ginsberg
+    - Grace Paley
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ed_Sanders
-- https://www.albany.edu/writers-inst/webpages4/archives/sanders.html
-- https://www.chronogram.com/arts/ed-sanders-celebrates-the-60th-anniversary-of-the-fugs-24022059/
-- https://dsps.lib.uiowa.edu/downtownpopunderground/person/ed-sanders/
-- https://findingaids.library.upenn.edu/records/PRIN_MUDD_C1703
-- https://www.poetryfoundation.org/poets/ed-sanders
-- https://gagosian.com/quarterly/2021/01/21/essay-ed-sanders/
+  - 'https://en.wikipedia.org/wiki/Ed_Sanders'
+  - 'https://www.albany.edu/writers-inst/webpages4/archives/sanders.html'
+  - >-
+    https://www.chronogram.com/arts/ed-sanders-celebrates-the-60th-anniversary-of-the-fugs-24022059/
+  - 'https://dsps.lib.uiowa.edu/downtownpopunderground/person/ed-sanders/'
+  - 'https://findingaids.library.upenn.edu/records/PRIN_MUDD_C1703'
+  - 'https://www.poetryfoundation.org/poets/ed-sanders'
+  - 'https://gagosian.com/quarterly/2021/01/21/essay-ed-sanders/'
 spotify_data:
   followers: 494
   id: 7DfDgQGeZEQSltpae33aUP
   popularity: 1
-  url: https://open.spotify.com/artist/7DfDgQGeZEQSltpae33aUP
+  url: 'https://open.spotify.com/artist/7DfDgQGeZEQSltpae33aUP'
 status: active
 title: Ed Sanders
+birth_date: '1939-08-17'
+artist_type: person
 ---
 
 ![](ed_sanders.jpg)

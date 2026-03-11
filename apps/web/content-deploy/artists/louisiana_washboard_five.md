@@ -1,110 +1,112 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-01T01:57:44.489637'
 birth_date: '1997'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T01:57:44.489644'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4c9db7c8-20be-438c-997c-02eaecebc3f5
-  spotify: https://open.spotify.com/artist/64RxpxRIuVmBnjjQedAHH6
+  musicbrainz: 'https://musicbrainz.org/artist/4c9db7c8-20be-438c-997c-02eaecebc3f5'
+  spotify: 'https://open.spotify.com/artist/64RxpxRIuVmBnjjQedAHH6'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/louisiana_washboard_five.jpg
 instruments:
-- banjo
-- trumpet
-- clarinet
-- saxophone
-- percussion
-- drums (drum set)
-- guitar
+  - banjo
+  - trumpet
+  - clarinet
+  - saxophone
+  - percussion
+  - drums (drum set)
+  - guitar
 last_updated: '2026-03-01T01:57:44.489645'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  mbid: 9e16f0bc-cff1-49d9-a96e-aa5d45001788
-  name: Johan Lammers
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  mbid: c0b4fe0f-5628-4dda-8c54-b18bca592744
-  name: Ben Milenkovic
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: aaf73b41-f90f-4f12-9d06-31cc021414f5
-  name: Arnulf Røkke
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: e35aa1d4-a8fe-48a0-ab49-aee23460f275
-  name: Ketil Sæthre
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 1bc7d752-e23c-43bf-a1d8-0845d5f0d885
-  name: Steinar Sætre
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 1bc7d752-e23c-43bf-a1d8-0845d5f0d885
-  name: Steinar Sætre
-- begin: ''
-  end: ''
-  instruments:
-  - percussion
-  mbid: 8a028327-dbf2-49c9-a355-48feff31b8ed
-  name: Rolf Seldal
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 8a028327-dbf2-49c9-a355-48feff31b8ed
-  name: Rolf Seldal
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  mbid: d7542c35-f98c-4ea5-9eba-a98aac4f1ac3
-  name: Petter Bakke
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: d7542c35-f98c-4ea5-9eba-a98aac4f1ac3
-  name: Petter Bakke
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: 9e16f0bc-cff1-49d9-a96e-aa5d45001788
+    name: Johan Lammers
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: c0b4fe0f-5628-4dda-8c54-b18bca592744
+    name: Ben Milenkovic
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: aaf73b41-f90f-4f12-9d06-31cc021414f5
+    name: Arnulf Røkke
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: e35aa1d4-a8fe-48a0-ab49-aee23460f275
+    name: Ketil Sæthre
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 1bc7d752-e23c-43bf-a1d8-0845d5f0d885
+    name: Steinar Sætre
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 1bc7d752-e23c-43bf-a1d8-0845d5f0d885
+    name: Steinar Sætre
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: 8a028327-dbf2-49c9-a355-48feff31b8ed
+    name: Rolf Seldal
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 8a028327-dbf2-49c9-a355-48feff31b8ed
+    name: Rolf Seldal
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: d7542c35-f98c-4ea5-9eba-a98aac4f1ac3
+    name: Petter Bakke
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: d7542c35-f98c-4ea5-9eba-a98aac4f1ac3
+    name: Petter Bakke
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Billy Kersands
+    - Billy Kersands
 musicbrainz_id: 4c9db7c8-20be-438c-997c-02eaecebc3f5
 network_extracted: true
-origin: Bergen
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Clarence_Williams_(musician)
-- https://www.tshaonline.org/handbook/entries/zydeco
-- https://syncopatedtimes.com/the-louisiana-washboard-five-professor-hot-stuff/
-- https://www.louisianafolklife.org/lt/articles_essays/brblues1.html
-- https://en.wikipedia.org/wiki/Clarence_Williams_(musician)
+  - 'https://en.wikipedia.org/wiki/Clarence_Williams_(musician)'
+  - 'https://www.tshaonline.org/handbook/entries/zydeco'
+  - >-
+    https://syncopatedtimes.com/the-louisiana-washboard-five-professor-hot-stuff/
+  - 'https://www.louisianafolklife.org/lt/articles_essays/brblues1.html'
+  - 'https://en.wikipedia.org/wiki/Clarence_Williams_(musician)'
 spotify_data:
   followers: 151
   id: 64RxpxRIuVmBnjjQedAHH6
   popularity: 1
-  url: https://open.spotify.com/artist/64RxpxRIuVmBnjjQedAHH6
+  url: 'https://open.spotify.com/artist/64RxpxRIuVmBnjjQedAHH6'
 status: active
 tags:
-- bergen
-- classic jazz
-- norway
+  - bergen
+  - classic jazz
+  - norway
 title: Louisiana Washboard Five
+birth_place: 'Plaquemine, Louisiana, United States'
 ---
 
 ![](louisiana_washboard_five.jpg)

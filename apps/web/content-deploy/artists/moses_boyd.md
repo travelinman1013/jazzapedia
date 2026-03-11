@@ -1,72 +1,73 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - eponymous
-  - original
-  mbid: a31d689f-bb04-45e4-aec0-b06022186e52
-  name: Moses Boyd Exodus
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - original
+    mbid: a31d689f-bb04-45e4-aec0-b06022186e52
+    name: Moses Boyd Exodus
 biography_enhanced_at: '2026-01-23T01:42:48.871856'
 birth_date: '1991-04-30'
-birth_place: London
+birth_place: 'Catford, South London, England'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:42:48.871862'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/90c07789-6d90-4b86-9780-0a954cc4469c
-  spotify: https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV
-  wikipedia: https://en.wikipedia.org/wiki/Moses_Boyd
+  musicbrainz: 'https://musicbrainz.org/artist/90c07789-6d90-4b86-9780-0a954cc4469c'
+  spotify: 'https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Moses_Boyd'
 gender: Male
 genres:
-- nu jazz
-- indie jazz
-- jazz
+  - nu jazz
+  - indie jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/moses_boyd.jpg
 instruments:
-- drums (drum set)
-- eponymous
-- original
+  - drums (drum set)
+  - eponymous
+  - original
 last_updated: '2026-01-23T01:42:48.871863'
 musical_connections:
   collaborators:
-  - Binker Golding
-  - Theon Cross
-  - Artie Zaitz
-  - Nathaniel Cross
-  - Zara McFarlane
-  - Little Simz
-  - Four Tet
-  - Floating Points
-  - Sons of Kemet
+    - Binker Golding
+    - Theon Cross
+    - Artie Zaitz
+    - Nathaniel Cross
+    - Zara McFarlane
+    - Little Simz
+    - Four Tet
+    - Floating Points
+    - Sons of Kemet
   influenced: []
   mentors:
-  - Bobby Worth
-  - Tomorrow's Warriors program
-  - Gilles Peterson
+    - Bobby Worth
+    - Tomorrow's Warriors program
+    - Gilles Peterson
 musicbrainz_id: 90c07789-6d90-4b86-9780-0a954cc4469c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://holican.io/wiki/moses-boyd
-- https://en.wikipedia.org/wiki/Moses_Boyd
-- https://uk.yamaha.com/en/musical-instruments/drums/artists/m/moses-boyd.html
-- https://www.33rpm.film/profile/moses-boyd
-- https://crackmagazine.net/article/profiles/moses-boyd-keep-pace/
-- https://dmy.co/features/the-art-of-jazz-a-conversation-with-moses-boyd
-- https://www.allaboutjazz.com/musicians/moses-boyd/
+  - 'https://holican.io/wiki/moses-boyd'
+  - 'https://en.wikipedia.org/wiki/Moses_Boyd'
+  - 'https://uk.yamaha.com/en/musical-instruments/drums/artists/m/moses-boyd.html'
+  - 'https://www.33rpm.film/profile/moses-boyd'
+  - 'https://crackmagazine.net/article/profiles/moses-boyd-keep-pace/'
+  - 'https://dmy.co/features/the-art-of-jazz-a-conversation-with-moses-boyd'
+  - 'https://www.allaboutjazz.com/musicians/moses-boyd/'
 spotify_data:
   followers: 68485
   id: 1otDUlTEBjcyDQg6CkHRaV
   popularity: 45
-  url: https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV
+  url: 'https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV'
 status: active
 tags:
-- beats
-- electronic
-- grime
+  - beats
+  - electronic
+  - grime
 title: Moses Boyd
+origin: 'London, England'
 ---
 
 ![](moses_boyd.jpg)

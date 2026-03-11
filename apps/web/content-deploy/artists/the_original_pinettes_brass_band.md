@@ -1,47 +1,49 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-13T01:26:10.316898'
 birth_date: '1991'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:26:10.316904'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/496eeb25-01fa-43ae-9929-b5fcb65a07c7
-  spotify: https://open.spotify.com/artist/1tfkx5YqgKHID4yIYCq33z
-  wikipedia: https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band
+  musicbrainz: 'https://musicbrainz.org/artist/496eeb25-01fa-43ae-9929-b5fcb65a07c7'
+  spotify: 'https://open.spotify.com/artist/1tfkx5YqgKHID4yIYCq33z'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band'
 genres:
-- brass band
-image_path: 03_Resources/source_material/ArtistPortraits/the_original_pinettes_brass_band.jpg
+  - brass band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/the_original_pinettes_brass_band.jpg
 last_updated: '2026-02-13T01:26:10.316905'
 musical_connections:
   collaborators:
-  - Christie A. Jourdain
-  - Demaries Holmes
-  - Arcade Fire
-  - Mia X
-  - Katy Perry
+    - Christie A. Jourdain
+    - Demaries Holmes
+    - Arcade Fire
+    - Mia X
+    - Katy Perry
   influenced: []
   mentors:
-  - Jeffery C. Herbert
+    - Jeffery C. Herbert
 musicbrainz_id: 496eeb25-01fa-43ae-9929-b5fcb65a07c7
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band
-- https://artlitlab.org/artists/the-original-pinettes-brass-band
-- https://salon726.com/home/community-spotlight-original-pinettes-brass-band
-- https://summerofthearts.org/performer/the-original-pinettes-brass-band/
-- https://www.wwno.org/show/american-routes/2020-06-12/american-routes-shortcuts-original-pinettes-brass-band
-- https://www.wbur.org/news/2016/10/04/original-pinettes-honk-fest
-- https://honkfest.org/bands/pinettes-brass-band/
-- https://jazzajuan.com/en/programme/original-pinettes-brass-band/
+  - 'https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band'
+  - 'https://artlitlab.org/artists/the-original-pinettes-brass-band'
+  - 'https://salon726.com/home/community-spotlight-original-pinettes-brass-band'
+  - 'https://summerofthearts.org/performer/the-original-pinettes-brass-band/'
+  - >-
+    https://www.wwno.org/show/american-routes/2020-06-12/american-routes-shortcuts-original-pinettes-brass-band
+  - 'https://www.wbur.org/news/2016/10/04/original-pinettes-honk-fest'
+  - 'https://honkfest.org/bands/pinettes-brass-band/'
+  - 'https://jazzajuan.com/en/programme/original-pinettes-brass-band/'
 spotify_data:
   followers: 1447
   id: 1tfkx5YqgKHID4yIYCq33z
   popularity: 4
-  url: https://open.spotify.com/artist/1tfkx5YqgKHID4yIYCq33z
+  url: 'https://open.spotify.com/artist/1tfkx5YqgKHID4yIYCq33z'
 status: active
-title: the original pinettes brass band
+title: The Original Pinettes Brass Band
 ---
 
 ![](the_original_pinettes_brass_band.jpg)

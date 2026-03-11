@@ -1,39 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-11T02:00:42.969278'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-11T02:00:42.969285'
 external_urls:
-  spotify: https://open.spotify.com/artist/7dWc2uL8PEBxQWe3qUfEcR
+  spotify: 'https://open.spotify.com/artist/7dWc2uL8PEBxQWe3qUfEcR'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/big_chief_bo_dollis_jr.jpg
 last_updated: '2026-02-11T02:00:42.969287'
 musical_connections:
   collaborators:
-  - Wild Magnolias
-  - Big Queen Laurita Dollis
+    - Wild Magnolias
+    - Big Queen Laurita Dollis
   influenced: []
   mentors:
-  - Bo Dollis Sr.
+    - Bo Dollis Sr.
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/heritage/bo-dollis
-- https://iambricemiller.wordpress.com/2015/01/20/r-i-p-big-chief-bo-dollis-of-the-wild-magnolia-mardi-gras-indians/
-- https://dirtycoast.com/blogs/the-dirt/31460161-big-chief-bo-dollis
-- https://redbeansanderic.com/big-chief-bo-dollis-jr/
-- https://nolafamily.com/dad-about-town-bo-dollis-jr/
-- https://www.neworleans.com/listing/big-chief-bo-dollis-jr-&-the-wild-magnolias/48484/
-- https://jazztimes.com/features/tributes-and-obituaries/new-orleans-says-goodbye-to-bo-dollis/
-- https://www.myneworleans.com/the-big-chief/
+  - 'https://www.arts.gov/honors/heritage/bo-dollis'
+  - >-
+    https://iambricemiller.wordpress.com/2015/01/20/r-i-p-big-chief-bo-dollis-of-the-wild-magnolia-mardi-gras-indians/
+  - 'https://dirtycoast.com/blogs/the-dirt/31460161-big-chief-bo-dollis'
+  - 'https://redbeansanderic.com/big-chief-bo-dollis-jr/'
+  - 'https://nolafamily.com/dad-about-town-bo-dollis-jr/'
+  - >-
+    https://www.neworleans.com/listing/big-chief-bo-dollis-jr-&-the-wild-magnolias/48484/
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/new-orleans-says-goodbye-to-bo-dollis/
+  - 'https://www.myneworleans.com/the-big-chief/'
 spotify_data:
   followers: 98
   id: 7dWc2uL8PEBxQWe3qUfEcR
   popularity: 1
-  url: https://open.spotify.com/artist/7dWc2uL8PEBxQWe3qUfEcR
+  url: 'https://open.spotify.com/artist/7dWc2uL8PEBxQWe3qUfEcR'
 status: active
 title: Big Chief Bo Dollis Jr
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](big_chief_bo_dollis_jr.jpg)

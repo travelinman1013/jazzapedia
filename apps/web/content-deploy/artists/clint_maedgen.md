@@ -1,58 +1,60 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1a9b4e0d-05e2-4491-83f0-a4a676283f99
-  name: Preservation Hall Jazz Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f1713580-23d2-4785-8e61-ca98b287c03f
-  name: clint maedgen and the BANDAPANDAS
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1a9b4e0d-05e2-4491-83f0-a4a676283f99
+    name: Preservation Hall Jazz Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f1713580-23d2-4785-8e61-ca98b287c03f
+    name: clint maedgen and the BANDAPANDAS
 biography_enhanced_at: '2026-03-04T01:46:50.312788'
 birth_date: '1969-08-15'
-birth_place: New Orleans, Louisiana, USA (family roots; nomadic early life)
+birth_place: 'New Orleans, Louisiana, USA (family roots; nomadic early life)'
 enhancement_provider: perplexity
 entry_created: '2026-03-04T01:46:50.312799'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c49d38b6-1c61-443d-92c1-1e08ea0d9101
-  spotify: https://open.spotify.com/artist/7tzZCU2EuVwsavfXvfZyHv
+  musicbrainz: 'https://musicbrainz.org/artist/c49d38b6-1c61-443d-92c1-1e08ea0d9101'
+  spotify: 'https://open.spotify.com/artist/7tzZCU2EuVwsavfXvfZyHv'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/clint_maedgen.jpg
 instruments:
-- other vocals
-- lead vocals
+  - other vocals
+  - lead vocals
 last_updated: '2026-03-04T01:46:50.312801'
 musical_connections:
   collaborators:
-  - Preservation Hall Jazz Band
-  - New Orleans Bingo! Show
-  - Liquidrone
-  - Clint Maedgen+9
-  - Tom Waits
+    - Preservation Hall Jazz Band
+    - New Orleans Bingo! Show
+    - Liquidrone
+    - Clint Maedgen+9
+    - Tom Waits
   influenced: []
   mentors:
-  - Alvin Baptiste
-  - Branford Marsalis
+    - Alvin Baptiste
+    - Branford Marsalis
 musicbrainz_id: c49d38b6-1c61-443d-92c1-1e08ea0d9101
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/clint-maedgen/
-- https://thetraveladdict.com/interviews/interview-clint-maedgen/
-- https://newvinegrowing.com/clint-maedgen-musical-chameleon-straddles-the-line-between-tradition-and-rock-n-roll/
-- https://www.livingneworleans.com/?p=2366
-- http://brucebase.wikidot.com/relation:clint-maedgen
+  - 'https://musicrising.tulane.edu/discover/people/clint-maedgen/'
+  - 'https://thetraveladdict.com/interviews/interview-clint-maedgen/'
+  - >-
+    https://newvinegrowing.com/clint-maedgen-musical-chameleon-straddles-the-line-between-tradition-and-rock-n-roll/
+  - 'https://www.livingneworleans.com/?p=2366'
+  - 'http://brucebase.wikidot.com/relation:clint-maedgen'
 spotify_data:
   followers: 214
   id: 7tzZCU2EuVwsavfXvfZyHv
   popularity: 2
-  url: https://open.spotify.com/artist/7tzZCU2EuVwsavfXvfZyHv
+  url: 'https://open.spotify.com/artist/7tzZCU2EuVwsavfXvfZyHv'
 status: active
-title: clint maedgen
+title: Clint Maedgen
+origin: 'New Orleans, Louisiana, USA'
 ---
 
 ![](clint_maedgen.jpg)

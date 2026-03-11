@@ -3,37 +3,40 @@ biography_enhanced_at: '2026-03-04T01:46:12.717535'
 enhancement_provider: perplexity
 entry_created: '2026-03-04T01:46:12.717544'
 external_urls:
-  spotify: https://open.spotify.com/artist/5natajWfd6OyfmdZLcbDWH
+  spotify: 'https://open.spotify.com/artist/5natajWfd6OyfmdZLcbDWH'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/new_orleans_rhythm_conspiracy.jpg
 last_updated: '2026-03-04T01:46:12.717546'
 musical_connections:
   collaborators:
-  - Jack Cruz
-  - George Sartin
-  - Sally Stevens
-  - David Jumper
-  - David Woodard
-  - Jimmy Carpenter
-  - Wilbert Arnold
+    - Jack Cruz
+    - George Sartin
+    - Sally Stevens
+    - David Jumper
+    - David Woodard
+    - Jimmy Carpenter
+    - Wilbert Arnold
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.louisianamusicfactory.com/product/new-orleans-rhythm-conspiracy-dancin-ground/
-- https://www.offbeat.com/music/new-orleans-rhythm-conspiracy-dancing-ground-independent/
-- https://www.f6s.com/company/rhythmconspiracyproductionsinc
-- https://www.allmusic.com/artist/new-orleans-rhythm-conspiracy-mn0001755392
+  - >-
+    https://www.louisianamusicfactory.com/product/new-orleans-rhythm-conspiracy-dancin-ground/
+  - >-
+    https://www.offbeat.com/music/new-orleans-rhythm-conspiracy-dancing-ground-independent/
+  - 'https://www.f6s.com/company/rhythmconspiracyproductionsinc'
+  - 'https://www.allmusic.com/artist/new-orleans-rhythm-conspiracy-mn0001755392'
 spotify_data:
   followers: 13
   id: 5natajWfd6OyfmdZLcbDWH
   popularity: 0
-  url: https://open.spotify.com/artist/5natajWfd6OyfmdZLcbDWH
+  url: 'https://open.spotify.com/artist/5natajWfd6OyfmdZLcbDWH'
 status: active
-title: new orleans rhythm conspiracy
+title: New Orleans Rhythm Conspiracy
+artist_type: band
 ---
 
 ![](new_orleans_rhythm_conspiracy.jpg)

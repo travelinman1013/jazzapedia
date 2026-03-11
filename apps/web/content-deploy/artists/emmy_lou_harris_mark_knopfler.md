@@ -3,33 +3,37 @@ biography_enhanced_at: '2026-02-09T01:21:45.081571'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:21:45.081581'
 external_urls:
-  spotify: https://open.spotify.com/artist/0cB1b3DNLFUSELcfp0AE6x
-  wikipedia: https://en.wikipedia.org/wiki/Mark_Knopfler
+  spotify: 'https://open.spotify.com/artist/0cB1b3DNLFUSELcfp0AE6x'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mark_Knopfler'
 genres:
-- traditional country
+  - traditional country
 image_path: 03_Resources/source_material/ArtistPortraits/emmy_lou_harris_mark_knopfler.jpg
 last_updated: '2026-02-09T01:21:45.081583'
 musical_connections:
   collaborators:
-  - Chet Atkins
+    - Chet Atkins
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://americansongwriter.com/how-mark-knopfler-and-emmylou-harris-eloquently-communicated-the-ups-and-downs-of-the-touring-life/
-- https://www.oreateai.com/blog/mark-knopfler-and-emmylou-harris-a-journey-through-real-live-roadrunning/8449e5289e4f98f7f4a180add9d53b27
-- https://www.pastemagazine.com/music/mark-knopfler-and-emmylou-harris/mark-knopfler-and-emmylou-harris
-- https://en.wikipedia.org/wiki/Mark_Knopfler
-- https://www.last.fm/music/Mark+Knopfler+&+Emmylou+Harris/+wiki
-- https://www.emmylouharris.com/about
+  - >-
+    https://americansongwriter.com/how-mark-knopfler-and-emmylou-harris-eloquently-communicated-the-ups-and-downs-of-the-touring-life/
+  - >-
+    https://www.oreateai.com/blog/mark-knopfler-and-emmylou-harris-a-journey-through-real-live-roadrunning/8449e5289e4f98f7f4a180add9d53b27
+  - >-
+    https://www.pastemagazine.com/music/mark-knopfler-and-emmylou-harris/mark-knopfler-and-emmylou-harris
+  - 'https://en.wikipedia.org/wiki/Mark_Knopfler'
+  - 'https://www.last.fm/music/Mark+Knopfler+&+Emmylou+Harris/+wiki'
+  - 'https://www.emmylouharris.com/about'
 spotify_data:
   followers: 4263
   id: 0cB1b3DNLFUSELcfp0AE6x
   popularity: 12
-  url: https://open.spotify.com/artist/0cB1b3DNLFUSELcfp0AE6x
+  url: 'https://open.spotify.com/artist/0cB1b3DNLFUSELcfp0AE6x'
 status: active
-title: Emmy Lou Harris, Mark Knopfler
+title: 'Emmy Lou Harris, Mark Knopfler'
+artist_type: band
 ---
 
 ![](emmy_lou_harris_mark_knopfler.jpg)

@@ -1,75 +1,75 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-03T02:03:31.169706'
-birth_date: '1999'
+birth_date: '1998'
 disambiguation: Philadelphia electronica/rock band
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:03:31.169728'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b4681cdc-4002-4521-8458-ac812f1b6d28
-  spotify: https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk
+  musicbrainz: 'https://musicbrainz.org/artist/b4681cdc-4002-4521-8458-ac812f1b6d28'
+  spotify: 'https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk'
   wikipedia: null
 genres:
-- jam band
+  - jam band
 image_path: 03_Resources/source_material/ArtistPortraits/lotus.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-02-03T02:03:31.169731'
 members:
-- begin: '2001'
-  end: '2023'
-  instruments: []
-  mbid: d3bb35a0-c7fb-4b43-952f-7bac349cf36b
-  name: Chuck Morris
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a84604b1-d59c-4490-b6ba-231d9eb9711b
-  name: Mike Greenfield
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ccc54af3-63b4-44e9-9c0d-ff555c49a537
-  name: Mike Rempel
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: b7ea13fe-ecc0-4a01-b624-4b46fba49b32
-  name: Tim Palmieri
+  - begin: '2001'
+    end: '2023'
+    instruments: []
+    mbid: d3bb35a0-c7fb-4b43-952f-7bac349cf36b
+    name: Chuck Morris
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a84604b1-d59c-4490-b6ba-231d9eb9711b
+    name: Mike Greenfield
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ccc54af3-63b4-44e9-9c0d-ff555c49a537
+    name: Mike Rempel
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: b7ea13fe-ecc0-4a01-b624-4b46fba49b32
+    name: Tim Palmieri
 musical_connections:
   collaborators:
-  - Mike Greenfield
-  - Jesse Miller
-  - Luke Miller
-  - Steve Lubitz
-  - Chuck Morris
-  - Tim Palmieri
+    - Mike Greenfield
+    - Jesse Miller
+    - Luke Miller
+    - Steve Lubitz
+    - Chuck Morris
+    - Tim Palmieri
   influenced: []
   mentors:
-  - Phish
-  - The Grateful Dead
-  - The Orb
-  - Medeski, Martin, and Wood
+    - Phish
+    - The Grateful Dead
+    - The Orb
+    - 'Medeski, Martin, and Wood'
 musicbrainz_id: b4681cdc-4002-4521-8458-ac812f1b6d28
 network_extracted: true
-origin: Goshen
+origin: 'Goshen, Indiana, United States'
 primary_source: perplexity
 research_sources:
-- https://mokbpresents.com/artist/lotus/
-- https://sites.google.com/site/thetravellog/lotus-history
-- https://americansongwriter.com/free-swim-lotus-album-interview/
-- https://wookiepost.wordpress.com/artists/lotus/
+  - 'https://mokbpresents.com/artist/lotus/'
+  - 'https://sites.google.com/site/thetravellog/lotus-history'
+  - 'https://americansongwriter.com/free-swim-lotus-album-interview/'
+  - 'https://wookiepost.wordpress.com/artists/lotus/'
 spotify_data:
   followers: 97230
   id: 1a4N2lwra7WGjwCDJS1Dkk
   popularity: 41
-  url: https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk
+  url: 'https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk'
 status: active
 tags:
-- disco
-- electronic
-- funk
+  - disco
+  - electronic
+  - funk
 title: Lotus
 ---
 

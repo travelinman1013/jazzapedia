@@ -3,46 +3,53 @@ biography_enhanced_at: '2026-02-09T01:21:30.921906'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:21:30.921918'
 external_urls:
-  spotify: https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP
-  wikipedia: https://en.wikipedia.org/wiki/Joan_Baez
+  spotify: 'https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joan_Baez'
 genres:
-- country rock
-- americana
-- folk
-- alt country
-- bluegrass
-- classic country
-- singer-songwriter
-image_path: 03_Resources/source_material/ArtistPortraits/joan_baez_emmy_lou_harris_jackson_browne.jpg
+  - country rock
+  - americana
+  - folk
+  - alt country
+  - bluegrass
+  - classic country
+  - singer-songwriter
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/joan_baez_emmy_lou_harris_jackson_browne.jpg
 last_updated: '2026-02-09T01:21:30.921930'
 musical_connections:
   collaborators:
-  - Jackson Browne
-  - Emmylou Harris
+    - Jackson Browne
+    - Emmylou Harris
   influenced:
-  - Emmylou Harris
-  - Jackson Browne
+    - Emmylou Harris
+    - Jackson Browne
   mentors:
-  - Bob Dylan
+    - Bob Dylan
 network_extracted: true
-origin: Staten Island, New York, USA (Joan Baez); Birmingham, Alabama, USA (Emmylou
-  Harris); Heidelberg, Germany (born), Los Angeles, California, USA (raised) (Jackson
-  Browne)
+origin: >-
+  Staten Island, New York, USA (Joan Baez); Birmingham, Alabama, USA (Emmylou
+  Harris); Heidelberg, Germany (born), Los Angeles, California, USA (raised)
+  (Jackson Browne)
 primary_source: perplexity
 research_sources:
-- https://www.jacksonbrowne.com/news/music-legends-joan-baez-jackson-browne-and-emmylou-harris-join-forces-with-the-downtown-streets-team-to-end-homelessness/
-- https://americana-uk.com/jackson-browne-inducts-joan-baez-into-hall-of-fame
-- https://en.wikipedia.org/wiki/Joan_Baez
-- https://americansongwriter.com/emmylou-harris-picked-up-the-guitar-because-of-this-woman-i-had-a-goddess-complex/
-- http://www.joanbaez.com/bio/
-- https://thatmilliondollarbash.substack.com/p/joan-baez-the-reverberation-of-centuries
+  - >-
+    https://www.jacksonbrowne.com/news/music-legends-joan-baez-jackson-browne-and-emmylou-harris-join-forces-with-the-downtown-streets-team-to-end-homelessness/
+  - 'https://americana-uk.com/jackson-browne-inducts-joan-baez-into-hall-of-fame'
+  - 'https://en.wikipedia.org/wiki/Joan_Baez'
+  - >-
+    https://americansongwriter.com/emmylou-harris-picked-up-the-guitar-because-of-this-woman-i-had-a-goddess-complex/
+  - 'http://www.joanbaez.com/bio/'
+  - >-
+    https://thatmilliondollarbash.substack.com/p/joan-baez-the-reverberation-of-centuries
 spotify_data:
   followers: 434775
   id: 5s6TJEuHTr9GR894wc6VfP
   popularity: 60
-  url: https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP
+  url: 'https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP'
 status: active
-title: Joan Baez, Emmy Lou Harris, Jackson Browne
+title: 'Joan Baez, Emmy Lou Harris, Jackson Browne'
+birth_place: 'Staten Island, New York, United States'
+artist_type: person
 ---
 
 ![](joan_baez_emmy_lou_harris_jackson_browne.jpg)

@@ -1,40 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-26T01:42:41.209966'
-birth_place: Ann Arbor, Michigan, USA (birthplace)
+birth_place: 'Ann Arbor, Michigan, USA (birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:42:41.209972'
 external_urls:
-  spotify: https://open.spotify.com/artist/6xLrTsjoZcv1vfH53a77Qo
+  spotify: 'https://open.spotify.com/artist/6xLrTsjoZcv1vfH53a77Qo'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/lee_penn_sky.jpg
 last_updated: '2026-01-26T01:42:41.209973'
 musical_connections:
   collaborators:
-  - Brandon Wallace
-  - The Oliphants
-  - Steve Fulton
-  - Mr. Picasso Head band members
+    - Brandon Wallace
+    - The Oliphants
+    - Steve Fulton
+    - Mr. Picasso Head band members
   influenced: []
   mentors:
-  - Wife (unnamed)
+    - Wife (unnamed)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://treasurevalleynotes.com/?p=2792
-- https://leepennsky.com/press
-- https://leepennsky.com/bio
-- https://idahosongwriters.com/staff/lee-penn-sky/
-- https://boisesongtalk.com/the-third-season/lee-penn-sky/
-- https://www.leepennsky.com
-- https://theboisebeat.com/index.php/2025/10/14/lee-penn-sky-prophets-and-pretenders-review/
+  - 'https://treasurevalleynotes.com/?p=2792'
+  - 'https://leepennsky.com/press'
+  - 'https://leepennsky.com/bio'
+  - 'https://idahosongwriters.com/staff/lee-penn-sky/'
+  - 'https://boisesongtalk.com/the-third-season/lee-penn-sky/'
+  - 'https://www.leepennsky.com'
+  - >-
+    https://theboisebeat.com/index.php/2025/10/14/lee-penn-sky-prophets-and-pretenders-review/
 spotify_data:
   followers: 457
   id: 6xLrTsjoZcv1vfH53a77Qo
   popularity: 8
-  url: https://open.spotify.com/artist/6xLrTsjoZcv1vfH53a77Qo
+  url: 'https://open.spotify.com/artist/6xLrTsjoZcv1vfH53a77Qo'
 status: active
 title: Lee Penn Sky
+artist_type: person
 ---
 
 ![](lee_penn_sky.jpg)

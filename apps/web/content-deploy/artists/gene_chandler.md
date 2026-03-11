@@ -2,49 +2,49 @@
 artist_type: person
 biography_enhanced_at: '2026-02-25T02:03:25.216168'
 birth_date: '1937-07-06'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:03:25.216179'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/89ac1a98-98f0-473c-96ef-e6f7cb0944ae
-  spotify: https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW
-  wikipedia: https://en.wikipedia.org/wiki/Gene_Chandler
+  musicbrainz: 'https://musicbrainz.org/artist/89ac1a98-98f0-473c-96ef-e6f7cb0944ae'
+  spotify: 'https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gene_Chandler'
 gender: Male
 genres:
-- doo-wop
-- northern soul
+  - doo-wop
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/gene_chandler.jpg
 last_updated: '2026-02-25T02:03:25.216180'
 musical_connections:
   collaborators:
-  - Dukays
-  - Carl Davis
-  - Barbara Acklin
-  - Jerry Butler
-  - Mel and Tim
+    - Dukays
+    - Carl Davis
+    - Barbara Acklin
+    - Jerry Butler
+    - Mel and Tim
   influenced: []
   mentors:
-  - Curtis Mayfield
+    - Curtis Mayfield
 musicbrainz_id: 89ac1a98-98f0-473c-96ef-e6f7cb0944ae
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gene_Chandler
-- http://northernsoultrain.co.uk/artists/genechandler.html
-- https://popdose.com/soul-serenade-gene-chandler-groovy-situation/
-- https://www.thehistorymakers.org/biography/gene-chandler
-- https://www.nailedmagazine.com/features/there-was-a-time-gene-chandler
-- https://wbssmedia.com/artists/detail/1480
+  - 'https://en.wikipedia.org/wiki/Gene_Chandler'
+  - 'http://northernsoultrain.co.uk/artists/genechandler.html'
+  - 'https://popdose.com/soul-serenade-gene-chandler-groovy-situation/'
+  - 'https://www.thehistorymakers.org/biography/gene-chandler'
+  - 'https://www.nailedmagazine.com/features/there-was-a-time-gene-chandler'
+  - 'https://wbssmedia.com/artists/detail/1480'
 spotify_data:
   followers: 95065
   id: 52uMkSFt2RVO6XxTEt5VeW
   popularity: 40
-  url: https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW
+  url: 'https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW'
 status: active
 tags:
-- chicago soul
-- disco
-- doo-wop
+  - chicago soul
+  - disco
+  - doo-wop
 title: Gene Chandler
 ---
 

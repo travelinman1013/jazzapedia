@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-24T01:58:43.739810'
-birth_place: Georgia, USA (raised); Nashville, TN, USA (current base)
+birth_place: 'Georgia, USA (raised); Nashville, TN, USA (current base)'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:58:43.739817'
 external_urls:
-  spotify: https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6
+  spotify: 'https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6'
   wikipedia: ''
 genres:
-- folk pop
+  - folk pop
 image_path: 03_Resources/source_material/ArtistPortraits/chappy.jpg
 last_updated: '2026-01-24T01:58:43.739817'
 musical_connections:
   collaborators: []
   influenced:
-  - James Taylor
-  - Brittany Howard
-  - Bruce Springsteen
-  - Nathaniel Rateliff
+    - James Taylor
+    - Brittany Howard
+    - Bruce Springsteen
+    - Nathaniel Rateliff
   mentors:
-  - Willie Nelson
-  - Grandmother (painter)
+    - Willie Nelson
+    - Grandmother (painter)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.musicmetricsvault.com/artists/chappy/5jum8G9CQDNNd4ZtgM6KT7
-- https://itschappy.com/about
-- https://open.spotify.com/artist/5jum8G9CQDNNd4ZtgM6KT7
-- https://www.nashvillescene.com/bon/2021/arts-music-and-culture/writers-choice/chappy-hull/article_e361e8c8-2ae1-11ec-a9fa-c3d49d06693a.html
-- https://creativeloafing.com/group-607850-chappy--
+  - 'https://www.musicmetricsvault.com/artists/chappy/5jum8G9CQDNNd4ZtgM6KT7'
+  - 'https://itschappy.com/about'
+  - 'https://open.spotify.com/artist/5jum8G9CQDNNd4ZtgM6KT7'
+  - >-
+    https://www.nashvillescene.com/bon/2021/arts-music-and-culture/writers-choice/chappy-hull/article_e361e8c8-2ae1-11ec-a9fa-c3d49d06693a.html
+  - 'https://creativeloafing.com/group-607850-chappy--'
 spotify_data:
   followers: 18911
   id: 2Jsv2nBcTfKpM9dbZcBbk6
   popularity: 41
-  url: https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6
+  url: 'https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6'
 status: active
-title: chappy
+title: Chappy
+origin: 'Nashville, TN, USA'
+artist_type: person
 ---
 
 ![](chappy.jpg)

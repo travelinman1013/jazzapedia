@@ -1,50 +1,53 @@
 ---
 biography_enhanced_at: '2026-02-02T01:48:48.419798'
-birth_place: New York City, New York, USA
+birth_place: 'New York City, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:48:48.419806'
 external_urls:
-  spotify: https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1
-  wikipedia: https://en.wikipedia.org/wiki/Tito_Puente
+  spotify: 'https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tito_Puente'
 genres:
-- latin jazz
-- cha cha cha
-- afro-cuban jazz
-- mambo
-- son cubano
-- salsa
-- exotica
+  - latin jazz
+  - cha cha cha
+  - afro-cuban jazz
+  - mambo
+  - son cubano
+  - salsa
+  - exotica
 image_path: 03_Resources/source_material/ArtistPortraits/tito_puente_and_his_orchestra.jpg
 last_updated: '2026-02-02T01:48:48.419808'
 musical_connections:
   collaborators:
-  - Celia Cruz
-  - George Shearing
-  - Woody Herman
-  - Tito Rodríguez
-  - Pérez Prado
+    - Celia Cruz
+    - George Shearing
+    - Woody Herman
+    - Tito Rodríguez
+    - Pérez Prado
   influenced:
-  - Santana
-  - Tito Puente Jr.
+    - Santana
+    - Tito Puente Jr.
   mentors:
-  - Juilliard School
+    - Juilliard School
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://drummercafe.com/featured/drummer-percussionist/tito-puente
-- https://www.biography.com/musicians/tito-puente
-- https://www.britannica.com/biography/Tito-Puente
-- https://en.wikipedia.org/wiki/Tito_Puente
-- https://fania.com/artist/tito-puente/
-- https://www.nprdpinc.org/es/historical-honoree/tito-puente
-- https://pas.org/tito-puente
+  - 'https://drummercafe.com/featured/drummer-percussionist/tito-puente'
+  - 'https://www.biography.com/musicians/tito-puente'
+  - 'https://www.britannica.com/biography/Tito-Puente'
+  - 'https://en.wikipedia.org/wiki/Tito_Puente'
+  - 'https://fania.com/artist/tito-puente/'
+  - 'https://www.nprdpinc.org/es/historical-honoree/tito-puente'
+  - 'https://pas.org/tito-puente'
 spotify_data:
   followers: 27009
   id: 1zN5Et4jcH3XQ0b60IGmp1
   popularity: 34
-  url: https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1
+  url: 'https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1'
 status: active
 title: Tito Puente & His orchestra
+birth_date: '1923-04-20'
+death_date: '2000-05-31'
+artist_type: band
 ---
 
 ![](tito_puente_and_his_orchestra.jpg)

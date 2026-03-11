@@ -3,40 +3,43 @@ biography_enhanced_at: '2026-02-08T02:01:01.531700'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:01:01.531716'
 external_urls:
-  spotify: https://open.spotify.com/artist/2j5L797rrCvzLP6aIaYc8R
+  spotify: 'https://open.spotify.com/artist/2j5L797rrCvzLP6aIaYc8R'
   wikipedia: ''
 genres:
-- latin jazz
-- timba
-- son cubano
+  - latin jazz
+  - timba
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/afrocuba_de_matanzas.jpg
 last_updated: '2026-02-08T02:01:01.531720'
 musical_connections:
   collaborators:
-  - Rogelio Scull
-  - Dolores Perez
-  - Pedro 'Pello' Tapanes
-  - Regino
-  - Cané
+    - Rogelio Scull
+    - Dolores Perez
+    - Pedro 'Pello' Tapanes
+    - Regino
+    - Cané
   influenced: []
   mentors:
-  - Francisco 'Minini' Zamora Chirino
+    - Francisco 'Minini' Zamora Chirino
 network_extracted: true
-origin: Matanzas, Matanzas Province, Cuba
+origin: 'Matanzas, Matanzas Province, Cuba'
 primary_source: perplexity
 research_sources:
-- https://www.afrocubaweb.com/afrocubamatanzas.htm
-- https://michaelpluznick.com/keepers-of-the-flame-is-a-documentary-about-the-elder-cubano-statesmen-of-rumba/
-- https://magazineampm.com/en/el-adn-de-la-rumba-en-20-nombres/
-- https://www.ecured.cu/AfroCuba_de_Matanzas
-- https://esquinarumbera.blogspot.com/2007/06/
+  - 'https://www.afrocubaweb.com/afrocubamatanzas.htm'
+  - >-
+    https://michaelpluznick.com/keepers-of-the-flame-is-a-documentary-about-the-elder-cubano-statesmen-of-rumba/
+  - 'https://magazineampm.com/en/el-adn-de-la-rumba-en-20-nombres/'
+  - 'https://www.ecured.cu/AfroCuba_de_Matanzas'
+  - 'https://esquinarumbera.blogspot.com/2007/06/'
 spotify_data:
   followers: 2908
   id: 2j5L797rrCvzLP6aIaYc8R
   popularity: 3
-  url: https://open.spotify.com/artist/2j5L797rrCvzLP6aIaYc8R
+  url: 'https://open.spotify.com/artist/2j5L797rrCvzLP6aIaYc8R'
 status: active
 title: Afrocuba de Matanzas
+death_date: '2016'
+artist_type: band
 ---
 
 ![](afrocuba_de_matanzas.jpg)

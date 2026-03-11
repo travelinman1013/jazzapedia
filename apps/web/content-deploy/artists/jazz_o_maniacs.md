@@ -3,39 +3,41 @@ biography_enhanced_at: '2026-02-01T01:23:22.469119'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:23:22.469124'
 external_urls:
-  spotify: https://open.spotify.com/artist/0xnuYSXXeeO8gqKLv7ZV6p
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Creath
+  spotify: 'https://open.spotify.com/artist/0xnuYSXXeeO8gqKLv7ZV6p'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Creath'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jazz_o_maniacs.jpg
 last_updated: '2026-02-01T01:23:22.469125'
 musical_connections:
   collaborators:
-  - Zutty Singleton
-  - Lonnie Johnson
-  - Pops Foster
-  - Fate Marable
-  - Ed Allen
-  - Jerome Don Pasquall
-  - Leonard Davis
+    - Zutty Singleton
+    - Lonnie Johnson
+    - Pops Foster
+    - Fate Marable
+    - Ed Allen
+    - Jerome Don Pasquall
+    - Leonard Davis
   influenced:
-  - Gene Sedric
+    - Gene Sedric
   mentors: []
 network_extracted: true
-origin: St. Louis, Missouri, USA
+origin: 'St. Louis, Missouri, USA'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/charlie-creath-1890-1951/
-- https://en.wikipedia.org/wiki/Charlie_Creath
-- https://www.allmusic.com/artist/jazz-o-maniacs-mn0000562854
-- https://syncopatedtimes.com/charles-creaths-jazz-o-maniacs/
-- https://music.apple.com/za/artist/jazz-omaniacs/168804967
+  - 'https://syncopatedtimes.com/charlie-creath-1890-1951/'
+  - 'https://en.wikipedia.org/wiki/Charlie_Creath'
+  - 'https://www.allmusic.com/artist/jazz-o-maniacs-mn0000562854'
+  - 'https://syncopatedtimes.com/charles-creaths-jazz-o-maniacs/'
+  - 'https://music.apple.com/za/artist/jazz-omaniacs/168804967'
 spotify_data:
   followers: 23
   id: 0xnuYSXXeeO8gqKLv7ZV6p
   popularity: 0
-  url: https://open.spotify.com/artist/0xnuYSXXeeO8gqKLv7ZV6p
+  url: 'https://open.spotify.com/artist/0xnuYSXXeeO8gqKLv7ZV6p'
 status: active
 title: Jazz O' Maniacs
+birth_place: 'Ironton, Missouri, United States'
+artist_type: person
 ---
 
 ![](jazz_o_maniacs.jpg)

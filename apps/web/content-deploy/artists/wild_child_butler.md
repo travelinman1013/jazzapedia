@@ -1,43 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-07T01:25:54.218059'
-birth_place: Autaugaville, Alabama, United States
+birth_place: 'Autaugaville, Alabama, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:25:54.218069'
 external_urls:
-  spotify: https://open.spotify.com/artist/04zasEARxCarWBfE8b7AH1
+  spotify: 'https://open.spotify.com/artist/04zasEARxCarWBfE8b7AH1'
   wikipedia: null
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/wild_child_butler.jpg
 last_updated: '2026-02-07T01:25:54.218070'
 musical_connections:
   collaborators:
-  - John Lee Hooker
-  - Sonny Boy Williamson II (Aleck "Rice" Miller)
-  - Sam "Lightnin'" Hopkins
-  - Pinetop Perkins
-  - Jimmy Rogers
+    - John Lee Hooker
+    - Sonny Boy Williamson II (Aleck "Rice" Miller)
+    - Sam "Lightnin'" Hopkins
+    - Pinetop Perkins
+    - Jimmy Rogers
   influenced: []
   mentors:
-  - Deal, Ace, Moe, and Sloan
+    - 'Deal, Ace, Moe, and Sloan'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://encyclopediaofalabama.org/article/george-wild-child-butler/
-- https://www.thecountryblues.com/dr-barry-lee-pearson/george-wild-child-butler/
-- https://pt.jango.com/music/George+Wild+Child+Butler
-- https://fromthevaults-boppinbob.blogspot.com/2023/10/wild-child-butler-born-i-october-1936.html
-- https://alabamanewscenter.com/2017/10/01/day-alabama-history-wild-child-butler-born-autaugaville/
-- https://www.enjoythemusic.com/magazine/music/0602/butler.htm
-- http://www.windsor-communities.com/african-music-george.php
+  - 'https://encyclopediaofalabama.org/article/george-wild-child-butler/'
+  - >-
+    https://www.thecountryblues.com/dr-barry-lee-pearson/george-wild-child-butler/
+  - 'https://pt.jango.com/music/George+Wild+Child+Butler'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/10/wild-child-butler-born-i-october-1936.html
+  - >-
+    https://alabamanewscenter.com/2017/10/01/day-alabama-history-wild-child-butler-born-autaugaville/
+  - 'https://www.enjoythemusic.com/magazine/music/0602/butler.htm'
+  - 'http://www.windsor-communities.com/african-music-george.php'
 spotify_data:
   followers: 721
   id: 04zasEARxCarWBfE8b7AH1
   popularity: 5
-  url: https://open.spotify.com/artist/04zasEARxCarWBfE8b7AH1
+  url: 'https://open.spotify.com/artist/04zasEARxCarWBfE8b7AH1'
 status: active
 title: Wild Child Butler
+origin: 'Chicago, Illinois, United States'
+birth_date: '1936-10-01'
+death_date: '2005-03-01'
+artist_type: person
 ---
 
 ![](wild_child_butler.jpg)

@@ -1,48 +1,55 @@
 ---
 biography_enhanced_at: '2026-02-07T01:24:48.148935'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:24:48.148941'
 external_urls:
-  spotify: https://open.spotify.com/artist/3VZqNnzzdkk5GmzDcju3wG
-  wikipedia: https://en.wikipedia.org/wiki/Monk_Boudreaux
+  spotify: 'https://open.spotify.com/artist/3VZqNnzzdkk5GmzDcju3wG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Monk_Boudreaux'
 genres:
-- cajun
-- brass band
-image_path: 03_Resources/source_material/ArtistPortraits/big_chief_monk_boudreaux_and_the_golden_eagles.jpg
+  - cajun
+  - brass band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/big_chief_monk_boudreaux_and_the_golden_eagles.jpg
 last_updated: '2026-02-07T01:24:48.148941'
 musical_connections:
   collaborators:
-  - Big Chief Bo Dollis and The Wild Magnolias
-  - Anders Osborne
-  - Galactic
-  - Papa Mali
-  - Robbie Robertson
-  - Snooks Eaglin and Willie Tee
-  - Tab Benoit
+    - Big Chief Bo Dollis and The Wild Magnolias
+    - Anders Osborne
+    - Galactic
+    - Papa Mali
+    - Robbie Robertson
+    - Snooks Eaglin and Willie Tee
+    - Tab Benoit
   influenced:
-  - Bob Marley
-  - Young Eagles
+    - Bob Marley
+    - Young Eagles
   mentors:
-  - Raymond Boudreaux (Father)
-  - Big Chief Lawrence Fletcher
-  - Big Chief Bo Dollis
+    - Raymond Boudreaux (Father)
+    - Big Chief Lawrence Fletcher
+    - Big Chief Bo Dollis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Monk_Boudreaux
-- https://bigchiefmonkboudreaux.com/bio-1
-- https://www.arts.gov/honors/heritage/joseph-pierre-big-chief-monk-boudreaux
-- https://www.offbeat.com/news/national-endowment-arts-honors-big-chief-monk-boudreaux-prestigious-award/
-- https://www.louisianaweekly.com/big-chief-monk-boudreaux-and-the-musicians-who-made-2017-memorable/
-- https://www.neworleans.com/listing/big-chief-monk-boudreaux-&-the-golden-eagles/47815/
+  - 'https://en.wikipedia.org/wiki/Monk_Boudreaux'
+  - 'https://bigchiefmonkboudreaux.com/bio-1'
+  - 'https://www.arts.gov/honors/heritage/joseph-pierre-big-chief-monk-boudreaux'
+  - >-
+    https://www.offbeat.com/news/national-endowment-arts-honors-big-chief-monk-boudreaux-prestigious-award/
+  - >-
+    https://www.louisianaweekly.com/big-chief-monk-boudreaux-and-the-musicians-who-made-2017-memorable/
+  - >-
+    https://www.neworleans.com/listing/big-chief-monk-boudreaux-&-the-golden-eagles/47815/
 spotify_data:
   followers: 378
   id: 3VZqNnzzdkk5GmzDcju3wG
   popularity: 1
-  url: https://open.spotify.com/artist/3VZqNnzzdkk5GmzDcju3wG
+  url: 'https://open.spotify.com/artist/3VZqNnzzdkk5GmzDcju3wG'
 status: active
 title: Big CHIEF MONK BOUDREAUX & the golden eagles
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1941-12-07'
+artist_type: person
 ---
 
 ![](big_chief_monk_boudreaux_and_the_golden_eagles.jpg)

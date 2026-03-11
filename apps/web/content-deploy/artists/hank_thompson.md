@@ -1,63 +1,64 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a2fed990-98b4-414d-80fd-c3346b3ed115
-  name: Hank Thompson & His Brazos Valley Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a2fed990-98b4-414d-80fd-c3346b3ed115
+    name: Hank Thompson & His Brazos Valley Boys
 biography_enhanced_at: '2026-02-20T01:22:20.762663'
 birth_date: '1925-09-03'
-birth_place: Waco
+birth_place: 'Waco, Texas, United States'
 death_date: '2007-11-06'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:22:20.762672'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/80f22a87-7a82-4aff-a60d-8ef0d025ce96
-  spotify: https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0
-  wikipedia: https://en.wikipedia.org/wiki/Hank_Thompson_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/80f22a87-7a82-4aff-a60d-8ef0d025ce96'
+  spotify: 'https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hank_Thompson_(musician)'
 gender: Male
 genres:
-- classic country
-- honky tonk
-- traditional country
+  - classic country
+  - honky tonk
+  - traditional country
 image_path: 03_Resources/source_material/ArtistPortraits/hank_thompson.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-02-20T01:22:20.762674'
 musical_connections:
   collaborators:
-  - Brazos Valley Boys
-  - Ken Nelson
-  - Merle Travis
-  - Wanda Jackson
+    - Brazos Valley Boys
+    - Ken Nelson
+    - Merle Travis
+    - Wanda Jackson
   influenced:
-  - Status Quo
-  - George Strait
+    - Status Quo
+    - George Strait
   mentors:
-  - Bob Wills
-  - Tex Ritter
+    - Bob Wills
+    - Tex Ritter
 musicbrainz_id: 80f22a87-7a82-4aff-a60d-8ef0d025ce96
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://alancackett.com/hank-thompson-biography
-- https://www.birthplaceofwesternswing.com/post/hank-thompson
-- https://en.wikipedia.org/wiki/Hank_Thompson_(musician)
-- https://www.tshaonline.org/handbook/entries/thompson-henry-william-hank
-- https://billybobstexas.com/artists/hank-thompson
-- https://www.countrymusichalloffame.org/artist/hank-thompson
+  - 'https://alancackett.com/hank-thompson-biography'
+  - 'https://www.birthplaceofwesternswing.com/post/hank-thompson'
+  - 'https://en.wikipedia.org/wiki/Hank_Thompson_(musician)'
+  - 'https://www.tshaonline.org/handbook/entries/thompson-henry-william-hank'
+  - 'https://billybobstexas.com/artists/hank-thompson'
+  - 'https://www.countrymusichalloffame.org/artist/hank-thompson'
 spotify_data:
   followers: 46849
   id: 42tDjhK9kdS7CCHxs8ysz0
   popularity: 35
-  url: https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0
+  url: 'https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0'
 status: active
 tags:
-- 2008 universal fire victim
-- american
-- country
-title: hank thompson
+  - 2008 universal fire victim
+  - american
+  - country
+title: Hank Thompson
+is_active: false
 ---
 
 ![](hank_thompson.jpg)

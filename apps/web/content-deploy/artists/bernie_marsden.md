@@ -1,121 +1,123 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1972'
-  end: '1973'
-  instruments:
-  - electric guitar
-  mbid: c0bf9e20-2872-4897-ad1f-0882b83272a0
-  name: UFO
-- begin: '1978'
-  end: '1982'
-  instruments:
-  - electric guitar
-  mbid: 5dedf5cf-a598-4408-9556-3bf3f149f3ba
-  name: Whitesnake
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9ba9adad-2da8-410f-8c84-3639b5b7d89d
-  name: M3
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4735caf5-711e-4042-bb63-a2991420239a
-  name: Babe Ruth
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 47ec3234-6b15-4f5c-9b48-efe7509fd7b6
-  name: Juicy Lucy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fc093d65-8e5b-4544-9265-69f9fbf3fe09
-  name: The Company of Snakes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 72dee903-655f-4ea0-a95d-255f2cbde1de
-  name: Wild Turkey
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 11f32765-e757-4543-b07e-cab05538ff79
-  name: Alaska
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d3a61cd-1b31-4a4f-9194-8a0bd59d871a
-  name: Paice Ashton Lord
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f8259d53-2d2b-4da1-a261-59ef2fd46d36
-  name: Cozy Powell's Hammer
+  - begin: '1972'
+    end: '1973'
+    instruments:
+      - electric guitar
+    mbid: c0bf9e20-2872-4897-ad1f-0882b83272a0
+    name: UFO
+  - begin: '1978'
+    end: '1982'
+    instruments:
+      - electric guitar
+    mbid: 5dedf5cf-a598-4408-9556-3bf3f149f3ba
+    name: Whitesnake
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9ba9adad-2da8-410f-8c84-3639b5b7d89d
+    name: M3
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4735caf5-711e-4042-bb63-a2991420239a
+    name: Babe Ruth
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 47ec3234-6b15-4f5c-9b48-efe7509fd7b6
+    name: Juicy Lucy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fc093d65-8e5b-4544-9265-69f9fbf3fe09
+    name: The Company of Snakes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 72dee903-655f-4ea0-a95d-255f2cbde1de
+    name: Wild Turkey
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 11f32765-e757-4543-b07e-cab05538ff79
+    name: Alaska
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d3a61cd-1b31-4a4f-9194-8a0bd59d871a
+    name: Paice Ashton Lord
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f8259d53-2d2b-4da1-a261-59ef2fd46d36
+    name: Cozy Powell's Hammer
 biography_enhanced_at: '2026-01-29T02:03:18.748062'
 birth_date: '1951-05-07'
-birth_place: Buckingham
+birth_place: 'Buckingham, England, United Kingdom'
 death_date: '2023-08-24'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:03:18.748073'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8b57275b-4eed-4cc8-bee1-45560350f35b
-  spotify: https://open.spotify.com/artist/677DC3rdbnijHQV1dg4j6c
-  wikipedia: https://en.wikipedia.org/wiki/Bernie_Marsden
+  musicbrainz: 'https://musicbrainz.org/artist/8b57275b-4eed-4cc8-bee1-45560350f35b'
+  spotify: 'https://open.spotify.com/artist/677DC3rdbnijHQV1dg4j6c'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bernie_Marsden'
 gender: Male
 genres:
-- blues rock
-- modern blues
-- blues
+  - blues rock
+  - modern blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/bernie_marsden.jpg
 instruments:
-- electric guitar
-- original
-- guitar
-- background vocals
-- lead vocals
+  - electric guitar
+  - original
+  - guitar
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-29T02:03:18.748075'
 musical_connections:
   collaborators:
-  - David Coverdale
-  - Micky Moody
-  - Ian Paice
-  - Jon Lord
-  - Cozy Powell
-  - Joe Bonamassa
+    - David Coverdale
+    - Micky Moody
+    - Ian Paice
+    - Jon Lord
+    - Cozy Powell
+    - Joe Bonamassa
   influenced:
-  - Joe Bonamassa
+    - Joe Bonamassa
   mentors:
-  - Howlin' Wolf
-  - Muddy Waters
-  - Peter Green
-  - Eric Clapton
-  - Jeff Beck
-  - Jimi Hendrix
+    - Howlin' Wolf
+    - Muddy Waters
+    - Peter Green
+    - Eric Clapton
+    - Jeff Beck
+    - Jimi Hendrix
 musicbrainz_id: 8b57275b-4eed-4cc8-bee1-45560350f35b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.guitarworld.com/lessons/bernie-marsden-blues-rock-legend-whitesnake
-- https://en.wikipedia.org/wiki/Bernie_Marsden
-- https://www.vintageguitar.com/64370/bernie-marsden/
-- https://www.loudersound.com/features/bernie-marsden-interview-whitesnake
-- https://www.goodreads.com/book/show/48612617-where-s-my-guitar
-- https://theroadtorock.com/podcast/bernie-marsden/
-- https://www.coffeehouseguitars.co.uk/pages/guitarist/bernie-marsden
+  - >-
+    https://www.guitarworld.com/lessons/bernie-marsden-blues-rock-legend-whitesnake
+  - 'https://en.wikipedia.org/wiki/Bernie_Marsden'
+  - 'https://www.vintageguitar.com/64370/bernie-marsden/'
+  - 'https://www.loudersound.com/features/bernie-marsden-interview-whitesnake'
+  - 'https://www.goodreads.com/book/show/48612617-where-s-my-guitar'
+  - 'https://theroadtorock.com/podcast/bernie-marsden/'
+  - 'https://www.coffeehouseguitars.co.uk/pages/guitarist/bernie-marsden'
 spotify_data:
   followers: 10876
   id: 677DC3rdbnijHQV1dg4j6c
   popularity: 30
-  url: https://open.spotify.com/artist/677DC3rdbnijHQV1dg4j6c
+  url: 'https://open.spotify.com/artist/677DC3rdbnijHQV1dg4j6c'
 status: active
 tags:
-- blues
-- blues rock
-- classic pop and rock
+  - blues
+  - blues rock
+  - classic pop and rock
 title: Bernie Marsden
+is_active: false
 ---
 
 ![](bernie_marsden.jpg)

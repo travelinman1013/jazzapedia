@@ -1,59 +1,61 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 143d190c-11e8-4ecd-adf7-a68a3ccdaab1
-  name: BeauSoleil
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 143d190c-11e8-4ecd-adf7-a68a3ccdaab1
+    name: BeauSoleil
 biography_enhanced_at: '2026-02-23T03:01:20.567162'
 birth_date: '1922-10-16'
-birth_place: L'Anse Aux Vaches, Louisiana, United States
+birth_place: 'L''Anse Aux Vaches, Louisiana, United States'
 death_date: '1995-06-29'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:01:20.567171'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/48d5bbe4-992f-4fe9-a654-e6ab2390b527
-  spotify: https://open.spotify.com/artist/1RA2maizaYdn2c4GDhIxWQ
-  wikipedia: https://en.wikipedia.org/wiki/Canray_Fontenot
+  musicbrainz: 'https://musicbrainz.org/artist/48d5bbe4-992f-4fe9-a654-e6ab2390b527'
+  spotify: 'https://open.spotify.com/artist/1RA2maizaYdn2c4GDhIxWQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Canray_Fontenot'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/canray_fontenot.jpg
 instruments:
-- spoken vocals
+  - spoken vocals
 last_updated: '2026-02-23T03:01:20.567173'
 musical_connections:
   collaborators:
-  - Alphonse "Bois Sec" Ardoin
-  - Duralde Ramblers
+    - Alphonse "Bois Sec" Ardoin
+    - Duralde Ramblers
   influenced:
-  - Michael Doucet (Beausoleil founder)
-  - Jourdan Thibodeaux
-  - Modern Zydeco and Cajun musicians
+    - Michael Doucet (Beausoleil founder)
+    - Jourdan Thibodeaux
+    - Modern Zydeco and Cajun musicians
   mentors:
-  - Adam Fontenot (father)
-  - Douglas Belair (cousin)
-  - Amédé Ardoin
-  - Alphonse Lafleur
-  - Joel Victorien (maternal grandfather)
+    - Adam Fontenot (father)
+    - Douglas Belair (cousin)
+    - Amédé Ardoin
+    - Alphonse Lafleur
+    - Joel Victorien (maternal grandfather)
 musicbrainz_id: 48d5bbe4-992f-4fe9-a654-e6ab2390b527
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Canray_Fontenot
-- https://www.louisianafolklife.org/lt/articles_essays/lfmzydecofiddle.html
-- https://www.arts.gov/honors/heritage/canray-fontenot
-- https://www.cigarboxguitars.com/post/cajun-legend-canray-fontenot-his-cigar-box-fiddle
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH00381.pdf
-- https://www.folkstreams.net/contexts/bois-sec-and-canray
+  - 'https://en.wikipedia.org/wiki/Canray_Fontenot'
+  - 'https://www.louisianafolklife.org/lt/articles_essays/lfmzydecofiddle.html'
+  - 'https://www.arts.gov/honors/heritage/canray-fontenot'
+  - >-
+    https://www.cigarboxguitars.com/post/cajun-legend-canray-fontenot-his-cigar-box-fiddle
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH00381.pdf'
+  - 'https://www.folkstreams.net/contexts/bois-sec-and-canray'
 spotify_data:
   followers: 1207
   id: 1RA2maizaYdn2c4GDhIxWQ
   popularity: 8
-  url: https://open.spotify.com/artist/1RA2maizaYdn2c4GDhIxWQ
+  url: 'https://open.spotify.com/artist/1RA2maizaYdn2c4GDhIxWQ'
 status: active
 title: Canray Fontenot
+is_active: false
 ---
 
 ![](canray_fontenot.jpg)

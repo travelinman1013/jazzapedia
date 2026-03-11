@@ -3,42 +3,48 @@ biography_enhanced_at: '2026-01-26T01:37:33.822919'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:37:33.822929'
 external_urls:
-  spotify: https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7
+  spotify: 'https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/rainbow_girls_ben_morrison_john_craigie.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/rainbow_girls_ben_morrison_john_craigie.jpg
 last_updated: '2026-01-26T01:37:33.822931'
 musical_connections:
   collaborators:
-  - Ben Morrison
-  - The Shook Twins
-  - Fruition (Tyler Thompson, Jay Cobb Anderson)
-  - Gregory Alan Isakov
+    - Ben Morrison
+    - The Shook Twins
+    - 'Fruition (Tyler Thompson, Jay Cobb Anderson)'
+    - Gregory Alan Isakov
   influenced: []
   mentors:
-  - Townes Van Zandt
-  - Blaze Foley
-  - John Prine
+    - Townes Van Zandt
+    - Blaze Foley
+    - John Prine
 network_extracted: true
-origin: North Bay area, California, USA (Rainbow Girls origin); Los Angeles, California,
-  USA (John Craigie birthplace)
+origin: >-
+  North Bay area, California, USA (Rainbow Girls origin); Los Angeles,
+  California, USA (John Craigie birthplace)
 primary_source: perplexity
 research_sources:
-- https://bisslist.com/biss-interview/biss-list-interview-with-john-craigie-beautiful-vocation-07-26-17/
-- https://riffmagazine.com/interview/rainbow-girls-give-the-people-what-they-want/
-- https://bandonthewall.org/events/rainbow-girls/
-- https://www.jambandfriendly.com/articles/24-interview-john-craigie-sp-9733
-- https://music.apple.com/gb/artist/john-craigie/259716390
-- https://norcalpublicmedia.org/world-cafe/an-encore-session-with-john-craigie-on-world-cafe-friday-at-2pm
-- https://riffjournal.com/rainbow-girls-50-gifted-singer-songwriters/
-- https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7
+  - >-
+    https://bisslist.com/biss-interview/biss-list-interview-with-john-craigie-beautiful-vocation-07-26-17/
+  - >-
+    https://riffmagazine.com/interview/rainbow-girls-give-the-people-what-they-want/
+  - 'https://bandonthewall.org/events/rainbow-girls/'
+  - 'https://www.jambandfriendly.com/articles/24-interview-john-craigie-sp-9733'
+  - 'https://music.apple.com/gb/artist/john-craigie/259716390'
+  - >-
+    https://norcalpublicmedia.org/world-cafe/an-encore-session-with-john-craigie-on-world-cafe-friday-at-2pm
+  - 'https://riffjournal.com/rainbow-girls-50-gifted-singer-songwriters/'
+  - 'https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7'
 spotify_data:
   followers: 36780
   id: 5qV8qZrppecEsKTWwCCtA7
   popularity: 37
-  url: https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7
+  url: 'https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7'
 status: active
-title: Rainbow Girls, Ben Morrison, John Craigie
+title: Rainbow Girls
+artist_type: band
 ---
 
 ![](rainbow_girls_ben_morrison_john_craigie.jpg)

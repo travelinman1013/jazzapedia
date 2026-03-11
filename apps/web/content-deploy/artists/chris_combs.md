@@ -1,41 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-23T01:43:30.997803'
-birth_place: Tulsa, Oklahoma, United States
+birth_place: 'Tulsa, Oklahoma, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:43:30.997810'
 external_urls:
-  spotify: https://open.spotify.com/artist/3miqlLmG2OcePqOI3GmSrO
-  wikipedia: https://en.wikipedia.org/wiki/Chris_Combs_(composer)
+  spotify: 'https://open.spotify.com/artist/3miqlLmG2OcePqOI3GmSrO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chris_Combs_(composer)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/chris_combs.jpg
 last_updated: '2026-01-23T01:43:30.997810'
 musical_connections:
   collaborators:
-  - Jacob Fred Jazz Odyssey
-  - Jeff Coffin
-  - Steven Bernstein
-  - George Porter Jr.
-  - Matt Chamberlain
-  - Brian Haas
-  - Josh Raymer
-  - Jeff Harshbarger
-  - Aaron Boehler
-  - Andrew Bones
+    - Jacob Fred Jazz Odyssey
+    - Jeff Coffin
+    - Steven Bernstein
+    - George Porter Jr.
+    - Matt Chamberlain
+    - Brian Haas
+    - Josh Raymer
+    - Jeff Harshbarger
+    - Aaron Boehler
+    - Andrew Bones
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chris_Combs_(composer)
-- https://www.allaboutjazz.com/musicians/chris-combs/
-- https://www.youtube.com/watch?v=8JvgGDKEdSI
+  - 'https://en.wikipedia.org/wiki/Chris_Combs_(composer)'
+  - 'https://www.allaboutjazz.com/musicians/chris-combs/'
+  - 'https://www.youtube.com/watch?v=8JvgGDKEdSI'
 spotify_data:
   followers: 232
   id: 3miqlLmG2OcePqOI3GmSrO
   popularity: 1
-  url: https://open.spotify.com/artist/3miqlLmG2OcePqOI3GmSrO
+  url: 'https://open.spotify.com/artist/3miqlLmG2OcePqOI3GmSrO'
 status: active
 title: Chris Combs
+origin: 'Tulsa, Oklahoma, United States'
+birth_date: '1983-10-12'
+artist_type: person
 ---
 
 ![](chris_combs.jpg)

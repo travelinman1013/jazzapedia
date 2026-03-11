@@ -2,44 +2,45 @@
 artist_type: person
 biography_enhanced_at: '2026-02-24T01:46:31.268754'
 birth_date: '1924-04-11'
-birth_place: St. Landry Parish
+birth_place: 'Palmetto, St. Landry Parish, Louisiana, United States'
 death_date: '1982-07-27'
 disambiguation: blues singer and guitarist
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:46:31.268762'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9ad0e0ca-6ba1-441d-9b90-0f1eedab792b
-  spotify: https://open.spotify.com/artist/34FB3bhjBNkf5NW4Blnf3G
+  musicbrainz: 'https://musicbrainz.org/artist/9ad0e0ca-6ba1-441d-9b90-0f1eedab792b'
+  spotify: 'https://open.spotify.com/artist/34FB3bhjBNkf5NW4Blnf3G'
   wikipedia: null
 gender: Male
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/morris_pejoe.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-02-24T01:46:31.268788'
 musical_connections:
   collaborators:
-  - Mary Lane
+    - Mary Lane
   influenced: []
   mentors: []
 musicbrainz_id: 9ad0e0ca-6ba1-441d-9b90-0f1eedab792b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/morris-pejoe-mn0000596203
-- https://treasurechess.wordpress.com/2013/03/27/morris-pejoe/
-- https://sundayblues.org/?tag=morris-pejoe
-- https://www.last.fm/music/Morris+Pejoe/+wiki
-- https://www.wirz.de/music/pejoe.htm
+  - 'https://www.allmusic.com/artist/morris-pejoe-mn0000596203'
+  - 'https://treasurechess.wordpress.com/2013/03/27/morris-pejoe/'
+  - 'https://sundayblues.org/?tag=morris-pejoe'
+  - 'https://www.last.fm/music/Morris+Pejoe/+wiki'
+  - 'https://www.wirz.de/music/pejoe.htm'
 spotify_data:
   followers: 149
   id: 34FB3bhjBNkf5NW4Blnf3G
   popularity: 0
-  url: https://open.spotify.com/artist/34FB3bhjBNkf5NW4Blnf3G
+  url: 'https://open.spotify.com/artist/34FB3bhjBNkf5NW4Blnf3G'
 status: active
 title: Morris Pejoe
+is_active: false
 ---
 
 ![](morris_pejoe.jpg)

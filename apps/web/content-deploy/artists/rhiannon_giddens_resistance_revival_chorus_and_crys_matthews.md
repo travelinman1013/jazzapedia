@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-23T03:05:09.766375'
-birth_place: Greensboro, North Carolina, United States
+birth_place: 'Greensboro, North Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:05:09.766388'
 external_urls:
-  spotify: https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM
+  spotify: 'https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM'
   wikipedia: null
 genres:
-- folk
-- americana
-- southern gothic
-- bluegrass
-image_path: 03_Resources/source_material/ArtistPortraits/rhiannon_giddens_resistance_revival_chorus_and_crys_matthews.jpg
+  - folk
+  - americana
+  - southern gothic
+  - bluegrass
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/rhiannon_giddens_resistance_revival_chorus_and_crys_matthews.jpg
 last_updated: '2026-02-23T03:05:09.766390'
 musical_connections:
   collaborators:
-  - Carolina Chocolate Drops
-  - Our Native Daughters
-  - Francesco Turrisi
-  - Silkroad Ensemble
+    - Carolina Chocolate Drops
+    - Our Native Daughters
+    - Francesco Turrisi
+    - Silkroad Ensemble
   influenced: []
   mentors:
-  - Joe Thompson
+    - Joe Thompson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.silkroad.org/artists-rhiannon-giddens
-- https://rhiannongiddens.com/about
-- https://www.macfound.org/fellows/class-of-2017/rhiannon-giddens
-- https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/rhiannon-giddens
-- https://ums.org/2024/10/29/from-carolina-ballads-to-global-stages-rhiannon-giddens-rise-to-fame/
+  - 'https://www.silkroad.org/artists-rhiannon-giddens'
+  - 'https://rhiannongiddens.com/about'
+  - 'https://www.macfound.org/fellows/class-of-2017/rhiannon-giddens'
+  - >-
+    https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/rhiannon-giddens
+  - >-
+    https://ums.org/2024/10/29/from-carolina-ballads-to-global-stages-rhiannon-giddens-rise-to-fame/
 spotify_data:
   followers: 178000
   id: 1EI0NtLHoh9KBziYCeN1vM
   popularity: 46
-  url: https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM
+  url: 'https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM'
 status: active
-title: Rhiannon Giddens, Resistance Revival Chorus & Crys Matthews
+title: 'Rhiannon Giddens, Resistance Revival Chorus & Crys Matthews'
+artist_type: person
 ---
 
 ![](rhiannon_giddens_resistance_revival_chorus_and_crys_matthews.jpg)

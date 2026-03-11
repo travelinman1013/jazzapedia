@@ -3,46 +3,50 @@ biography_enhanced_at: '2026-02-06T01:07:20.344901'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:07:20.344913'
 external_urls:
-  spotify: https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp
-  wikipedia: https://en.wikipedia.org/wiki/Nels_Cline
+  spotify: 'https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nels_Cline'
 genres:
-- free jazz
-- avant-garde
-- indie jazz
-- experimental jazz
-- jazz
+  - free jazz
+  - avant-garde
+  - indie jazz
+  - experimental jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/nels_cline_singers.jpg
 last_updated: '2026-02-06T01:07:20.344916'
 musical_connections:
   collaborators:
-  - Alex Cline
-  - Skerik
-  - Trevor Dunn
-  - Scott Amendola
-  - Cyro Baptista
-  - Tim Berne
-  - Julius Hemphill
+    - Alex Cline
+    - Skerik
+    - Trevor Dunn
+    - Scott Amendola
+    - Cyro Baptista
+    - Tim Berne
+    - Julius Hemphill
   influenced: []
   mentors:
-  - Vinny Golia
-  - Eric Von Essen
-  - Miles Davis
+    - Vinny Golia
+    - Eric Von Essen
+    - Miles Davis
 network_extracted: true
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nels_Cline
-- https://www.nelscline.com/biography
-- https://downbeat.com/news/detail/nels-cline-double-sizes-the-singers
-- https://www.spin.com/2025/03/the-returning-angel-nels-clines-50-year-journey/
-- https://daily.redbullmusicacademy.com/2015/05/origin-stories-nels-cline/
+  - 'https://en.wikipedia.org/wiki/Nels_Cline'
+  - 'https://www.nelscline.com/biography'
+  - 'https://downbeat.com/news/detail/nels-cline-double-sizes-the-singers'
+  - >-
+    https://www.spin.com/2025/03/the-returning-angel-nels-clines-50-year-journey/
+  - 'https://daily.redbullmusicacademy.com/2015/05/origin-stories-nels-cline/'
 spotify_data:
   followers: 27312
   id: 3s6o8vxtYJ1utkWl8EXxUp
   popularity: 30
-  url: https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp
+  url: 'https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp'
 status: active
 title: Nels Cline Singers
+birth_place: 'Los Angeles, California, United States'
+birth_date: '1956-01-04'
+artist_type: person
 ---
 
 ![](nels_cline_singers.jpg)

@@ -1,49 +1,50 @@
 ---
-artist_type: person
+artist_type: band
 biography_enhanced_at: '2026-01-25T01:37:47.590187'
 birth_date: '1977-09-26'
 birth_place: São Paulo
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:37:47.590194'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2c3a242f-9f56-41b3-97fe-fb2038b64b92
-  spotify: https://open.spotify.com/artist/320orbjqGDtwP5r4NEp1rT
-  wikipedia: https://en.wikipedia.org/wiki/The_Bluebells
+  musicbrainz: 'https://musicbrainz.org/artist/2c3a242f-9f56-41b3-97fe-fb2038b64b92'
+  spotify: 'https://open.spotify.com/artist/320orbjqGDtwP5r4NEp1rT'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Bluebells'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/blubell.jpg
 last_updated: '2026-01-25T01:37:47.590195'
 musical_connections:
   collaborators:
-  - Siobhan Fahey
-  - Bobby Valentino
-  - Lawrence Donegan
-  - Craig Gannon
+    - Siobhan Fahey
+    - Bobby Valentino
+    - Lawrence Donegan
+    - Craig Gannon
   influenced:
-  - McCluskey Brothers
-  - Up
-  - The Adult Net
+    - McCluskey Brothers
+    - Up
+    - The Adult Net
   mentors:
-  - Elvis Costello
+    - Elvis Costello
 musicbrainz_id: 2c3a242f-9f56-41b3-97fe-fb2038b64b92
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Bluebells
-- https://bandonthewall.org/events/the-bluebells/
-- https://www.last.fm/music/The+Bluebells/+wiki
-- https://www.youtube.com/watch?v=4EUAOu7wP8U
-- https://www.allmusic.com/artist/the-bluebells-mn0000041810
-- https://radiowigwam.co.uk/bands/bluebell/
-- https://plainorpan.com/tag/the-bluebells/
-- https://peel.fandom.com/wiki/Bluebells
+  - 'https://en.wikipedia.org/wiki/The_Bluebells'
+  - 'https://bandonthewall.org/events/the-bluebells/'
+  - 'https://www.last.fm/music/The+Bluebells/+wiki'
+  - 'https://www.youtube.com/watch?v=4EUAOu7wP8U'
+  - 'https://www.allmusic.com/artist/the-bluebells-mn0000041810'
+  - 'https://radiowigwam.co.uk/bands/bluebell/'
+  - 'https://plainorpan.com/tag/the-bluebells/'
+  - 'https://peel.fandom.com/wiki/Bluebells'
 spotify_data:
   followers: 819
   id: 320orbjqGDtwP5r4NEp1rT
   popularity: 3
-  url: https://open.spotify.com/artist/320orbjqGDtwP5r4NEp1rT
+  url: 'https://open.spotify.com/artist/320orbjqGDtwP5r4NEp1rT'
 status: active
-title: Blubell
+title: The Bluebells
+origin: 'Glasgow, Scotland, United Kingdom'
 ---
 
 ![](blubell.jpg)

@@ -1,50 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-10T01:58:07.768453'
-birth_place: Windsor, California, USA
+birth_place: 'Windsor, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:58:07.768466'
 external_urls:
-  spotify: https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG
-  wikipedia: https://en.wikipedia.org/wiki/Frost_(rapper)
+  spotify: 'https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frost_(rapper)'
 genres:
-- latin hip hop
-- mexican hip hop
-- west coast hip hop
-- g-funk
-- gangster rap
+  - latin hip hop
+  - mexican hip hop
+  - west coast hip hop
+  - g-funk
+  - gangster rap
 image_path: 03_Resources/source_material/ArtistPortraits/kid_frost.jpg
 last_updated: '2026-02-10T01:58:07.768468'
 musical_connections:
   collaborators:
-  - Scoop DeVille
-  - Above The Law
-  - A.L.T.
-  - Kurupt
-  - Baby Bash
-  - Jay Tee
+    - Scoop DeVille
+    - Above The Law
+    - A.L.T.
+    - Kurupt
+    - Baby Bash
+    - Jay Tee
   influenced:
-  - Scoop DeVille
-  - Latin Alliance members
+    - Scoop DeVille
+    - Latin Alliance members
   mentors:
-  - Ice-T
-  - Dr. Dre
-  - DJ Yella
+    - Ice-T
+    - Dr. Dre
+    - DJ Yella
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Frost_(rapper)
-- https://www.last.fm/music/Kid+Frost/+wiki
-- https://www.liveone.com/artist/kid-frost
-- https://hiphopgoldenage.com/everything-you-need-to-know-about-kid-frost/
-- https://www.youtube.com/watch?v=-PK2BGj106I&vl=en
-- https://gta.fandom.com/wiki/Kid_Frost
+  - 'https://en.wikipedia.org/wiki/Frost_(rapper)'
+  - 'https://www.last.fm/music/Kid+Frost/+wiki'
+  - 'https://www.liveone.com/artist/kid-frost'
+  - 'https://hiphopgoldenage.com/everything-you-need-to-know-about-kid-frost/'
+  - 'https://www.youtube.com/watch?v=-PK2BGj106I&vl=en'
+  - 'https://gta.fandom.com/wiki/Kid_Frost'
 spotify_data:
   followers: 100150
   id: 6OxjXk1y4QXXRUJyldFIIG
   popularity: 43
-  url: https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG
+  url: 'https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG'
 status: active
-title: kid frost
+title: Kid Frost
+birth_date: '1964-05-31'
+artist_type: person
 ---
 
 ![](kid_frost.jpg)

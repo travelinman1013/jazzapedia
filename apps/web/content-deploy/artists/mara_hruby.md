@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-28T01:52:20.412007'
-birth_place: Oakland, California, United States
+birth_place: 'Oakland, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:52:20.412016'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a5bfa50f-33ca-42e2-b6c0-9db80893e355
-  spotify: https://open.spotify.com/artist/0T1ITvo373zVtx1PnoTv7A
+  musicbrainz: 'https://musicbrainz.org/artist/a5bfa50f-33ca-42e2-b6c0-9db80893e355'
+  spotify: 'https://open.spotify.com/artist/0T1ITvo373zVtx1PnoTv7A'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mara_hruby.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2026-01-28T01:52:20.412018'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Her Godmother
-  - Emily King
-  - Amel Larrieux
+    - Her Godmother
+    - Emily King
+    - Amel Larrieux
 musicbrainz_id: a5bfa50f-33ca-42e2-b6c0-9db80893e355
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://heragenda.com/p/making-a-dream-a-reality-from-her-eyes-mara-hruby/
-- http://marahruby.com/bio
-- https://irockjazz.com/2013/10/mara-hruby-modern-sound-vintage-look/
-- https://www.curlynikki.com/introducing-mara-hruby.html
-- https://www.last.fm/music/Mara+Hruby/+wiki
-- https://www.kgou.org/arts-and-entertainment/arts-and-entertainment/2016-05-25/songs-we-love-mara-hruby-in-the-wee-small-hours
+  - 'https://heragenda.com/p/making-a-dream-a-reality-from-her-eyes-mara-hruby/'
+  - 'http://marahruby.com/bio'
+  - 'https://irockjazz.com/2013/10/mara-hruby-modern-sound-vintage-look/'
+  - 'https://www.curlynikki.com/introducing-mara-hruby.html'
+  - 'https://www.last.fm/music/Mara+Hruby/+wiki'
+  - >-
+    https://www.kgou.org/arts-and-entertainment/arts-and-entertainment/2016-05-25/songs-we-love-mara-hruby-in-the-wee-small-hours
 spotify_data:
   followers: 3514
   id: 0T1ITvo373zVtx1PnoTv7A
   popularity: 12
-  url: https://open.spotify.com/artist/0T1ITvo373zVtx1PnoTv7A
+  url: 'https://open.spotify.com/artist/0T1ITvo373zVtx1PnoTv7A'
 status: active
 title: Mara Hruby
+artist_type: person
 ---
 
 ![](mara_hruby.jpg)

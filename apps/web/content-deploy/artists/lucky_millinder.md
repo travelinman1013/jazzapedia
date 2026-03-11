@@ -1,72 +1,77 @@
 ---
-artist_type: person
+artist_type: band
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 6c86c545-70b3-4069-baa9-94716305c3d1
-  name: Lucky Millinder & His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4cca8a8b-3831-4ca6-97a3-ee4095c98079
-  name: Mills Blue Rhythm Band
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6c86c545-70b3-4069-baa9-94716305c3d1
+    name: Lucky Millinder & His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4cca8a8b-3831-4ca6-97a3-ee4095c98079
+    name: Mills Blue Rhythm Band
 biography_enhanced_at: '2026-02-10T01:55:34.602106'
 birth_date: '1910-08-08'
-birth_place: Anniston
+birth_place: 'Anniston, Alabama, United States'
 death_date: '1966-09-28'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:55:34.602115'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/108e3471-2cd5-4a88-939e-0bedf463dfa7
-  spotify: https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23
-  wikipedia: https://en.wikipedia.org/wiki/Lucky_Millinder
+  musicbrainz: 'https://musicbrainz.org/artist/108e3471-2cd5-4a88-939e-0bedf463dfa7'
+  spotify: 'https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lucky_Millinder'
 gender: Male
 genres:
-- swing music
-- big band
-- boogie-woogie
+  - swing music
+  - big band
+  - boogie-woogie
 image_path: 03_Resources/source_material/ArtistPortraits/lucky_millinder.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-02-10T01:55:34.602117'
 musical_connections:
   collaborators:
-  - Bill Doggett
-  - Dizzy Gillespie
-  - Wynonie Harris
-  - Sister Rosetta Tharpe
-  - Bull Moose Jackson
-  - Eddie "Lockjaw" Davis
-  - Panama Francis
-  - Annisteen Allen
-  - Thelonious Monk
+    - Bill Doggett
+    - Dizzy Gillespie
+    - Wynonie Harris
+    - Sister Rosetta Tharpe
+    - Bull Moose Jackson
+    - Eddie "Lockjaw" Davis
+    - Panama Francis
+    - Annisteen Allen
+    - Thelonious Monk
   influenced: []
   mentors: []
 musicbrainz_id: 108e3471-2cd5-4a88-939e-0bedf463dfa7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.harlemworldmagazine.com/the-legendary-harlem-rhythm-and-blues-and-swing-bandleader-lucius-venable-lucky-millinder-1910-1966/
-- https://en.wikipedia.org/wiki/Lucky_Millinder
-- https://www.allaboutjazz.com/musicians/lucky-millinder/
-- https://tims.blackcat.nl/messages/lucky_millinder.htm
-- http://www.bigbandlibrary.com/luckymillinder.html
-- https://www.jazz-on-film.com/lucky-millinder-and-his-orchestra/
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/103146/Millinder_Lucky
-- https://www.swingstreetradio.org/swings-unsung-heroes-the-story-of-the-mills-blue-rhythm-band/
+  - >-
+    https://www.harlemworldmagazine.com/the-legendary-harlem-rhythm-and-blues-and-swing-bandleader-lucius-venable-lucky-millinder-1910-1966/
+  - 'https://en.wikipedia.org/wiki/Lucky_Millinder'
+  - 'https://www.allaboutjazz.com/musicians/lucky-millinder/'
+  - 'https://tims.blackcat.nl/messages/lucky_millinder.htm'
+  - 'http://www.bigbandlibrary.com/luckymillinder.html'
+  - 'https://www.jazz-on-film.com/lucky-millinder-and-his-orchestra/'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/103146/Millinder_Lucky
+  - >-
+    https://www.swingstreetradio.org/swings-unsung-heroes-the-story-of-the-mills-blue-rhythm-band/
 spotify_data:
   followers: 6761
   id: 4tdVYQWfsBth04tc1mmQ23
   popularity: 26
-  url: https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23
+  url: 'https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23'
 status: active
 tags:
-- jump blues
-- r&b
-- swing
+  - jump blues
+  - r&b
+  - swing
 title: Lucky Millinder
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](lucky_millinder.jpg)

@@ -3,44 +3,47 @@ biography_enhanced_at: '2026-03-03T01:39:54.224050'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:39:54.224059'
 external_urls:
-  spotify: https://open.spotify.com/artist/1Osl0VBGNGXl4Wnh0cben0
+  spotify: 'https://open.spotify.com/artist/1Osl0VBGNGXl4Wnh0cben0'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/dabeull_jordan_lee.jpg
 last_updated: '2026-03-03T01:39:54.224061'
 musical_connections:
   collaborators:
-  - Jordan Lee
-  - Dabeull
-  - Holybrune
-  - Crayon
-  - PHABO
+    - Jordan Lee
+    - Dabeull
+    - Holybrune
+    - Crayon
+    - PHABO
   influenced:
-  - James Brown
-  - Michael Jackson
-  - Prince
-  - Usher
-  - Luther Vandross
-  - John Legend
-  - Janet Jackson
+    - James Brown
+    - Michael Jackson
+    - Prince
+    - Usher
+    - Luther Vandross
+    - John Legend
+    - Janet Jackson
   mentors:
-  - Cezaire
-  - Father (unnamed)
+    - Cezaire
+    - Father (unnamed)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.famousbirthdays.com/people/dabeull.html
-- https://www.viberate.com/artist/jordan-lee/
-- https://www.backinthedayz.be/en/artist/dabeull
-- https://atwoodmagazine.com/jlfv-jordan-lee-fighter-for-love-debut-album-interview-music-feature/
-- https://www.rovr.live/artists/dabeull%20&%20jordan%20lee
+  - 'https://www.famousbirthdays.com/people/dabeull.html'
+  - 'https://www.viberate.com/artist/jordan-lee/'
+  - 'https://www.backinthedayz.be/en/artist/dabeull'
+  - >-
+    https://atwoodmagazine.com/jlfv-jordan-lee-fighter-for-love-debut-album-interview-music-feature/
+  - 'https://www.rovr.live/artists/dabeull%20&%20jordan%20lee'
 spotify_data:
   followers: 97
   id: 1Osl0VBGNGXl4Wnh0cben0
   popularity: 1
-  url: https://open.spotify.com/artist/1Osl0VBGNGXl4Wnh0cben0
+  url: 'https://open.spotify.com/artist/1Osl0VBGNGXl4Wnh0cben0'
 status: active
-title: DABEULL, JORDAN LEE
+title: 'Dabeull, Jordan Lee'
+origin: 'Paris, Île-de-France, France'
+artist_type: person
 ---
 
 ![](dabeull_jordan_lee.jpg)

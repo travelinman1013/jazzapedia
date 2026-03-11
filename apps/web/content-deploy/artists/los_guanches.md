@@ -1,43 +1,43 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-15T01:50:11.710392'
 birth_date: '1993'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:50:11.710401'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/201700aa-027a-4167-b9a5-da2c9dc75806
-  spotify: https://open.spotify.com/artist/2apVlbE0QMGDXT3EdXmC0D
+  musicbrainz: 'https://musicbrainz.org/artist/201700aa-027a-4167-b9a5-da2c9dc75806'
+  spotify: 'https://open.spotify.com/artist/2apVlbE0QMGDXT3EdXmC0D'
   wikipedia: ''
 genres:
-- son cubano
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/los_guanches.jpg
 last_updated: '2026-02-15T01:50:11.710402'
 musical_connections:
   collaborators:
-  - Alex Pareas
+    - Alex Pareas
   influenced: []
   mentors: []
 musicbrainz_id: 201700aa-027a-4167-b9a5-da2c9dc75806
 network_extracted: true
-origin: Santiago de Cuba
+origin: 'Santiago de Cuba, Santiago de Cuba Province, Cuba'
 primary_source: perplexity
 research_sources:
-- https://es.wikipedia.org/wiki/Son_cubano
-- https://corason.com/los-guanches/
-- https://music.apple.com/us/album/mi-son-cubano-remasterizado/1196363988
-- https://www.youtube.com/watch?v=yEY9--E_pbo
-- https://open.spotify.com/intl-es/track/0VOBo0dnzlXYTZP8V2pogx
-- https://www.youtube.com/watch?v=yZ072R2VEIk
-- https://www.youtube.com/watch?v=LZ2v9Z2TcJ8
-- https://www.youtube.com/watch?v=Q2603WmlNlI
+  - 'https://es.wikipedia.org/wiki/Son_cubano'
+  - 'https://corason.com/los-guanches/'
+  - 'https://music.apple.com/us/album/mi-son-cubano-remasterizado/1196363988'
+  - 'https://www.youtube.com/watch?v=yEY9--E_pbo'
+  - 'https://open.spotify.com/intl-es/track/0VOBo0dnzlXYTZP8V2pogx'
+  - 'https://www.youtube.com/watch?v=yZ072R2VEIk'
+  - 'https://www.youtube.com/watch?v=LZ2v9Z2TcJ8'
+  - 'https://www.youtube.com/watch?v=Q2603WmlNlI'
 spotify_data:
   followers: 663
   id: 2apVlbE0QMGDXT3EdXmC0D
   popularity: 5
-  url: https://open.spotify.com/artist/2apVlbE0QMGDXT3EdXmC0D
+  url: 'https://open.spotify.com/artist/2apVlbE0QMGDXT3EdXmC0D'
 status: active
 tags:
-- latin
+  - latin
 title: Los Guanches
 ---
 

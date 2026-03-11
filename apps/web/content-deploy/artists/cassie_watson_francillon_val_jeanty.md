@@ -1,38 +1,43 @@
 ---
 biography_enhanced_at: '2026-03-02T01:16:42.837094'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:16:42.837105'
 external_urls:
-  spotify: https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX
+  spotify: 'https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/cassie_watson_francillon_val_jeanty.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/cassie_watson_francillon_val_jeanty.jpg
 last_updated: '2026-03-02T01:16:42.837106'
 musical_connections:
   collaborators:
-  - Val Jeanty
-  - Sasha Masakowski
-  - Arséne DeLay, Mykia Jovan, Kr3wcial, Simon Lott, Aquiles Navarro, Gladney, Sulyiman
+    - Val Jeanty
+    - Sasha Masakowski
+    - >-
+      Arséne DeLay, Mykia Jovan, Kr3wcial, Simon Lott, Aquiles Navarro, Gladney,
+      Sulyiman
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://icareifyoulisten.com/2024/03/5-questions-to-val-jeanty/
-- https://www.allaboutjazz.com/selene-saint-aime-aruan-ortiz-cassie-watson-francillon-val-jeanty-and-more
-- https://www.fouroneoneprojects.org/events/reimagining-tropiques-then-and-now
-- https://newsuns.net/val-jeanty-dodo/
-- https://cassandharp.bandcamp.com/music
-- https://dadastrain.substack.com/p/new-dada-music_january-2026
-- https://highzero.org/2025_site/performers/
+  - 'https://icareifyoulisten.com/2024/03/5-questions-to-val-jeanty/'
+  - >-
+    https://www.allaboutjazz.com/selene-saint-aime-aruan-ortiz-cassie-watson-francillon-val-jeanty-and-more
+  - 'https://www.fouroneoneprojects.org/events/reimagining-tropiques-then-and-now'
+  - 'https://newsuns.net/val-jeanty-dodo/'
+  - 'https://cassandharp.bandcamp.com/music'
+  - 'https://dadastrain.substack.com/p/new-dada-music_january-2026'
+  - 'https://highzero.org/2025_site/performers/'
 spotify_data:
   followers: 428
   id: 6LuBYCozHo0lrFf7CnkgMX
   popularity: 13
-  url: https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX
+  url: 'https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX'
 status: active
-title: Cassie Watson Francillon, Val Jeanty
+title: 'Cassie Watson Francillon, Val Jeanty'
+artist_type: person
 ---
 
 ![](cassie_watson_francillon_val_jeanty.jpg)

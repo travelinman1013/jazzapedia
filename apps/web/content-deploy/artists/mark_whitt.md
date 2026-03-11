@@ -1,39 +1,40 @@
 ---
 biography_enhanced_at: '2026-02-02T01:42:36.990260'
-birth_place: Richmond, VA, USA
+birth_place: 'Richmond, VA, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:42:36.990271'
 external_urls:
-  spotify: https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ
+  spotify: 'https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ'
   wikipedia: ''
 genres:
-- hardstyle
-- hardcore
-- frenchcore
+  - hardstyle
+  - hardcore
+  - frenchcore
 image_path: 03_Resources/source_material/ArtistPortraits/mark_whitt.jpg
 last_updated: '2026-02-02T01:42:36.990272'
 musical_connections:
   collaborators:
-  - Dan-O Deckleman
+    - Dan-O Deckleman
   influenced: []
   mentors:
-  - Jeff Tweedy
-  - Elliott Smith
-  - R.E.M.
+    - Jeff Tweedy
+    - Elliott Smith
+    - R.E.M.
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.coyotemusic.com/artists/mark-witt
-- https://www.markwhitttruebluegrass.com/news.html
-- http://www.markwhitttruebluegrass.com/index.html
-- https://bluegrasstoday.com/fly-me-home-mark-whitt/
+  - 'https://www.coyotemusic.com/artists/mark-witt'
+  - 'https://www.markwhitttruebluegrass.com/news.html'
+  - 'http://www.markwhitttruebluegrass.com/index.html'
+  - 'https://bluegrasstoday.com/fly-me-home-mark-whitt/'
 spotify_data:
   followers: 84552
   id: 4OPaH4YIqua9DUnI7t0fOQ
   popularity: 51
-  url: https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ
+  url: 'https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ'
 status: active
-title: MARK WHITT
+title: Mark Whitt
+artist_type: person
 ---
 
 ![](mark_whitt.jpg)

@@ -3,34 +3,38 @@ biography_enhanced_at: '2026-02-22T01:48:36.754204'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:48:36.754213'
 external_urls:
-  spotify: https://open.spotify.com/artist/2LgNyppqldw8VKS5B1a4sk
+  spotify: 'https://open.spotify.com/artist/2LgNyppqldw8VKS5B1a4sk'
   wikipedia: ''
 genres:
-- soul jazz
+  - soul jazz
 image_path: 03_Resources/source_material/ArtistPortraits/rickie_clark_company.jpg
 last_updated: '2026-02-22T01:48:36.754215'
 musical_connections:
   collaborators:
-  - Paul Thomas (Pryme Tyme, 'P', 'Funky Skunk')
-  - Stanlee Paul
+    - 'Paul Thomas (Pryme Tyme, ''P'', ''Funky Skunk'')'
+    - Stanlee Paul
   influenced: []
   mentors: []
 network_extracted: true
-origin: Indianapolis, Indiana, USA
+origin: 'Indianapolis, Indiana, USA'
 primary_source: perplexity
 research_sources:
-- https://rickclarkproductions.com/bio
-- https://wdet.org/2019/10/21/sams-jams-this-boogie-track-became-the-theme-music-for-bet/
-- https://www.horizonsmusic.co.uk/products/the-rickie-clark-company-time-to-throw-down
-- https://www.iheart.com/artist/the-rickie-clark-company-37475028/albums/soul-jazz-records-presents-electro-throwdown-279369184/
-- https://bleep.com/artist/388219-the-rickie-clark-company
+  - 'https://rickclarkproductions.com/bio'
+  - >-
+    https://wdet.org/2019/10/21/sams-jams-this-boogie-track-became-the-theme-music-for-bet/
+  - >-
+    https://www.horizonsmusic.co.uk/products/the-rickie-clark-company-time-to-throw-down
+  - >-
+    https://www.iheart.com/artist/the-rickie-clark-company-37475028/albums/soul-jazz-records-presents-electro-throwdown-279369184/
+  - 'https://bleep.com/artist/388219-the-rickie-clark-company'
 spotify_data:
   followers: 23
   id: 2LgNyppqldw8VKS5B1a4sk
   popularity: 0
-  url: https://open.spotify.com/artist/2LgNyppqldw8VKS5B1a4sk
+  url: 'https://open.spotify.com/artist/2LgNyppqldw8VKS5B1a4sk'
 status: active
 title: Rickie Clark Company
+artist_type: band
 ---
 
 ![](rickie_clark_company.jpg)

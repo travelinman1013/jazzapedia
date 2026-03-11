@@ -1,45 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-13T01:23:45.497827'
-birth_place: Clifton Hill, Tobago, Trinidad and Tobago
+birth_place: 'Clifton Hill, Tobago, Trinidad and Tobago'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:23:45.497846'
 external_urls:
-  spotify: https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG
+  spotify: 'https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-02-13T01:23:45.497849'
 musical_connections:
   collaborators:
-  - Jeffrey Osborne
-  - The Temptations
-  - The Manhattans
-  - Ashanti
-  - Shaggy
-  - Third World
-  - Carla Thomas
-  - Eddie Grant
-  - Jean Knight
-  - Percy Sledge
-  - Dave Elcock
+    - Jeffrey Osborne
+    - The Temptations
+    - The Manhattans
+    - Ashanti
+    - Shaggy
+    - Third World
+    - Carla Thomas
+    - Eddie Grant
+    - Jean Knight
+    - Percy Sledge
+    - Dave Elcock
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=Umg5h5T7PpQ
-- https://www.ecaroh.com/profiles/mavis_john.htm
-- https://music.cliggo.com/artist/1435568-Mavis_John/bio
-- https://www.youtube.com/watch?v=_PWX_X4ALzc
-- http://www.guardian.co.tt/article-6.2.400735.e95b922520
-- https://www.loopnews.com/content/mavis-john-a-woman-of-many-talents/
+  - 'https://www.youtube.com/watch?v=Umg5h5T7PpQ'
+  - 'https://www.ecaroh.com/profiles/mavis_john.htm'
+  - 'https://music.cliggo.com/artist/1435568-Mavis_John/bio'
+  - 'https://www.youtube.com/watch?v=_PWX_X4ALzc'
+  - 'http://www.guardian.co.tt/article-6.2.400735.e95b922520'
+  - 'https://www.loopnews.com/content/mavis-john-a-woman-of-many-talents/'
 spotify_data:
   followers: 3109
   id: 3MkGbWOM7lb49LNZViHwxG
   popularity: 23
-  url: https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG
+  url: 'https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG'
 status: active
 title: Mavis John
+artist_type: person
 ---
 
 ![]()

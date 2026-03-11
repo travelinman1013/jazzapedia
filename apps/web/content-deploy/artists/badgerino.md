@@ -4,33 +4,34 @@ birth_place: Unknown
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:27:07.425418'
 external_urls:
-  spotify: https://open.spotify.com/artist/1VVqwSAQyRtYpEEP74xLOK
+  spotify: 'https://open.spotify.com/artist/1VVqwSAQyRtYpEEP74xLOK'
   wikipedia: ''
 genres:
-- blues rock
-- blues
+  - blues rock
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/badgerino.jpg
 last_updated: '2026-02-07T01:27:07.425420'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - T-Bone Walker
+    - T-Bone Walker
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Badger_(band)
-- https://www.youtube.com/watch?v=KDoCx_NQ3I0
-- https://www.youtube.com/watch?v=1IRHg87Jqk8
-- https://www.youtube.com/watch?v=KScmiF6kXl4
-- https://music.youtube.com/search?q=%23psychedelicrock
+  - 'https://en.wikipedia.org/wiki/Badger_(band)'
+  - 'https://www.youtube.com/watch?v=KDoCx_NQ3I0'
+  - 'https://www.youtube.com/watch?v=1IRHg87Jqk8'
+  - 'https://www.youtube.com/watch?v=KScmiF6kXl4'
+  - 'https://music.youtube.com/search?q=%23psychedelicrock'
 spotify_data:
   followers: 651
   id: 1VVqwSAQyRtYpEEP74xLOK
   popularity: 28
-  url: https://open.spotify.com/artist/1VVqwSAQyRtYpEEP74xLOK
+  url: 'https://open.spotify.com/artist/1VVqwSAQyRtYpEEP74xLOK'
 status: active
-title: badgerino
+title: Badgerino
+artist_type: person
 ---
 
 ![](badgerino.jpg)

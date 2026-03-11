@@ -1,75 +1,76 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 576cf7e1-fa85-4e47-999b-7d1f1b45d661
-  name: Spectrum Road
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: ad5636a9-6b74-4f9e-ae48-0f1188042943
-  name: Jacky Terrasson Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 95ea286c-a123-445b-8900-09dde5b912c9
-  name: Mike McCready and The Casual Acquaintances
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 576cf7e1-fa85-4e47-999b-7d1f1b45d661
+    name: Spectrum Road
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: ad5636a9-6b74-4f9e-ae48-0f1188042943
+    name: Jacky Terrasson Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 95ea286c-a123-445b-8900-09dde5b912c9
+    name: Mike McCready and The Casual Acquaintances
 biography_enhanced_at: '2026-02-15T01:56:02.487601'
 birth_date: '1959-11-18'
-birth_place: Ohio
+birth_place: 'Ohio, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:56:02.487612'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/64c02ec0-1101-4099-a019-7a05a33f9351
-  spotify: https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF
-  wikipedia: https://en.wikipedia.org/wiki/Cindy_Blackman_Santana
+  musicbrainz: 'https://musicbrainz.org/artist/64c02ec0-1101-4099-a019-7a05a33f9351'
+  spotify: 'https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cindy_Blackman_Santana'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/cindy_blackman_santana.jpg
 instruments:
-- membranophone
-- drums (drum set)
-- original
+  - membranophone
+  - drums (drum set)
+  - original
 last_updated: '2026-02-15T01:56:02.487614'
 musical_connections:
   collaborators:
-  - Lenny Kravitz
-  - Carlos Santana
-  - Vernon Reid, Jack Bruce, John Medeski
-  - Pharoah Sanders
-  - Ron Carter
+    - Lenny Kravitz
+    - Carlos Santana
+    - 'Vernon Reid, Jack Bruce, John Medeski'
+    - Pharoah Sanders
+    - Ron Carter
   influenced: []
   mentors:
-  - Alan Dawson
-  - Tony Williams
-  - Max Roach
+    - Alan Dawson
+    - Tony Williams
+    - Max Roach
 musicbrainz_id: 64c02ec0-1101-4099-a019-7a05a33f9351
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://cindyblackmansantana.com/bio
-- https://www.allaboutjazz.com/musicians/cindy-blackman/
-- https://playingforchange.com/artists/cindy-blackman-santana
-- https://coltranejazzfest.com/cindy-blackman-santana/
-- https://www.youtube.com/watch?v=QfZgciN_n5Y
-- https://www.thekurlandagency.com/artist/cindy-blackman-santana/
-- https://en.wikipedia.org/wiki/Cindy_Blackman_Santana
-- https://wbssmedia.com/artists/detail/2886
+  - 'https://cindyblackmansantana.com/bio'
+  - 'https://www.allaboutjazz.com/musicians/cindy-blackman/'
+  - 'https://playingforchange.com/artists/cindy-blackman-santana'
+  - 'https://coltranejazzfest.com/cindy-blackman-santana/'
+  - 'https://www.youtube.com/watch?v=QfZgciN_n5Y'
+  - 'https://www.thekurlandagency.com/artist/cindy-blackman-santana/'
+  - 'https://en.wikipedia.org/wiki/Cindy_Blackman_Santana'
+  - 'https://wbssmedia.com/artists/detail/2886'
 spotify_data:
   followers: 5962
   id: 0sJ3AmpElEzlg5WjOHQYBF
   popularity: 26
-  url: https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF
+  url: 'https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF'
 status: active
 tags:
-- jazz
-- jazz fusion
+  - jazz
+  - jazz fusion
 title: Cindy Blackman Santana
+origin: 'New York City, New York, United States'
 ---
 
 ![](cindy_blackman_santana.jpg)

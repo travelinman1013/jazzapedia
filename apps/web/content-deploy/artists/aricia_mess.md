@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-01T01:27:21.421933'
-birth_place: Niterói, Rio de Janeiro, Brazil
+birth_place: 'Niterói, Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:27:21.421955'
 external_urls:
-  spotify: https://open.spotify.com/artist/4wJS6TKp0LxmeEeidTzeE6
-  wikipedia: https://pt.wikipedia.org/wiki/Ar%C3%ADcia_Mess
+  spotify: 'https://open.spotify.com/artist/4wJS6TKp0LxmeEeidTzeE6'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Ar%C3%ADcia_Mess'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/aricia_mess.jpg
 last_updated: '2026-02-01T01:27:21.421956'
 musical_connections:
   collaborators:
-  - Dona Onete
-  - Aleh Ferreira
-  - Gabriel Muzak
-  - Ricardo Dias Gomes
-  - Chico César
-  - Maria Del Mar
-  - João Deogracias
-  - Samba Sam
-  - André Lima
-  - Loco Sosa
+    - Dona Onete
+    - Aleh Ferreira
+    - Gabriel Muzak
+    - Ricardo Dias Gomes
+    - Chico César
+    - Maria Del Mar
+    - João Deogracias
+    - Samba Sam
+    - André Lima
+    - Loco Sosa
   influenced: []
   mentors:
-  - Dona Onete
+    - Dona Onete
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://korokoromusic.com/albums/
-- https://ariciamessartist.bandcamp.com/track/batuque-reza-forte
-- https://www.musicismysanctuary.com/exclusive-premiere-aricia-mess-batuque-e-reza-forte-feat-dona-onete
-- https://www.orbitamusic.com.br/english/onde-mora-o-segredo-aricia-mess.html
-- https://pt.wikipedia.org/wiki/Ar%C3%ADcia_Mess
+  - 'https://korokoromusic.com/albums/'
+  - 'https://ariciamessartist.bandcamp.com/track/batuque-reza-forte'
+  - >-
+    https://www.musicismysanctuary.com/exclusive-premiere-aricia-mess-batuque-e-reza-forte-feat-dona-onete
+  - 'https://www.orbitamusic.com.br/english/onde-mora-o-segredo-aricia-mess.html'
+  - 'https://pt.wikipedia.org/wiki/Ar%C3%ADcia_Mess'
 spotify_data:
   followers: 0
   id: 4wJS6TKp0LxmeEeidTzeE6
   popularity: 0
-  url: https://open.spotify.com/artist/4wJS6TKp0LxmeEeidTzeE6
+  url: 'https://open.spotify.com/artist/4wJS6TKp0LxmeEeidTzeE6'
 status: active
 title: Aricia Mess
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
+artist_type: person
 ---
 
 ![](aricia_mess.jpg)

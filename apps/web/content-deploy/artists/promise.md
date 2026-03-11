@@ -3,44 +3,46 @@ biography_enhanced_at: '2026-01-23T01:49:43.639828'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:49:43.639834'
 external_urls:
-  spotify: https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu
-  wikipedia: https://en.wikipedia.org/wiki/The_Promise_Ring
+  spotify: 'https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Promise_Ring'
 genres:
-- midwest emo
-- emo
-- post-hardcore
-- math rock
+  - midwest emo
+  - emo
+  - post-hardcore
+  - math rock
 image_path: 03_Resources/source_material/ArtistPortraits/promise.jpg
 last_updated: '2026-01-23T01:49:43.639834'
 musical_connections:
   collaborators:
-  - Davey von Bohlen
-  - Jason Gnewikow
-  - Dan Didier
-  - Scott Schoenbeck
+    - Davey von Bohlen
+    - Jason Gnewikow
+    - Dan Didier
+    - Scott Schoenbeck
   influenced:
-  - Dashboard Confessional
-  - Basement
-  - Title Fight
-  - Pet Symmetry
+    - Dashboard Confessional
+    - Basement
+    - Title Fight
+    - Pet Symmetry
   mentors: []
 network_extracted: true
-origin: Milwaukee, Wisconsin, United States
+origin: 'Milwaukee, Wisconsin, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Promise_Ring
-- https://skramz.fandom.com/wiki/The_Promise_Ring
-- https://en.wikipedia.org/wiki/Midwest_emo
-- https://entertainmentexplorer.substack.com/p/exploring-midwest-emo-a-historical
-- https://loudwire.com/midwest-emo-explained/
-- https://www.last.fm/music/The+Promise+Ring
+  - 'https://en.wikipedia.org/wiki/The_Promise_Ring'
+  - 'https://skramz.fandom.com/wiki/The_Promise_Ring'
+  - 'https://en.wikipedia.org/wiki/Midwest_emo'
+  - >-
+    https://entertainmentexplorer.substack.com/p/exploring-midwest-emo-a-historical
+  - 'https://loudwire.com/midwest-emo-explained/'
+  - 'https://www.last.fm/music/The+Promise+Ring'
 spotify_data:
   followers: 65575
   id: 5li5GfWFVl73vu7r2bGitu
   popularity: 34
-  url: https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu
+  url: 'https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu'
 status: active
-title: Promise
+title: The Promise Ring
+artist_type: band
 ---
 
 ![](promise.jpg)

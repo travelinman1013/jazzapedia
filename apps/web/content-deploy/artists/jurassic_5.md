@@ -1,83 +1,84 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-20T01:24:58.581357'
 birth_date: '1993'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:24:58.581367'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/11c6b106-1c1f-429d-8407-b1ee155d7f72
-  spotify: https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B
-  wikipedia: https://en.wikipedia.org/wiki/Jurassic_5
+  musicbrainz: 'https://musicbrainz.org/artist/11c6b106-1c1f-429d-8407-b1ee155d7f72'
+  spotify: 'https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jurassic_5'
 genres:
-- hip hop
+  - hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/jurassic_5.jpg
 last_updated: '2026-02-20T01:24:58.581368'
 members:
-- begin: ''
-  end: '2005'
-  instruments: []
-  mbid: e0975164-e68b-45d6-9854-d5d0ce84e671
-  name: Cut Chemist
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8b6d2740-f901-49ac-9fbb-c99edbdc4048
-  name: Akil
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 871c27c9-2121-4eb9-a072-e36a0e367642
-  name: Chali 2na
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 02958659-d30a-433e-8b0f-fc9b932d9994
-  name: Marc 7
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1968d208-dfec-4eec-b0ff-2a6926f15a38
-  name: DJ Nu‐Mark
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 938ebefb-ea11-4709-95d5-57d8673f2112
-  name: Zaakir
+  - begin: ''
+    end: '2005'
+    instruments: []
+    mbid: e0975164-e68b-45d6-9854-d5d0ce84e671
+    name: Cut Chemist
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8b6d2740-f901-49ac-9fbb-c99edbdc4048
+    name: Akil
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 871c27c9-2121-4eb9-a072-e36a0e367642
+    name: Chali 2na
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 02958659-d30a-433e-8b0f-fc9b932d9994
+    name: Marc 7
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1968d208-dfec-4eec-b0ff-2a6926f15a38
+    name: DJ Nu‐Mark
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 938ebefb-ea11-4709-95d5-57d8673f2112
+    name: Zaakir
 musical_connections:
   collaborators:
-  - Chali 2na (Charles Stewart)
-  - Akil (Dante Givens)
-  - Zaakir (Courtenay Henderson, aka Soup)
-  - Marc 7 (Marc Stuart)
-  - DJ Nu-Mark (Mark Potsic)
-  - Cut Chemist (Lucas Macfadden)
+    - Chali 2na (Charles Stewart)
+    - Akil (Dante Givens)
+    - 'Zaakir (Courtenay Henderson, aka Soup)'
+    - Marc 7 (Marc Stuart)
+    - DJ Nu-Mark (Mark Potsic)
+    - Cut Chemist (Lucas Macfadden)
   influenced:
-  - Chali 2na
+    - Chali 2na
   mentors:
-  - Bill “Bigga B” Operin
+    - Bill “Bigga B” Operin
 musicbrainz_id: 11c6b106-1c1f-429d-8407-b1ee155d7f72
 network_extracted: true
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Jurassic+5/+wiki
-- https://www.scaruffi.com/vol7/jurassic.html
-- https://sungenre.com/artist/jurassic-5/
-- https://en.wikipedia.org/wiki/Jurassic_5
-- https://the-avocado.org/2016/02/25/artist-spotlight-jurassic-5-or-how-mtv-got-me-into-conscious-hip-hop/
-- https://www.insomniac.com/music/artists/jurassic-5/
-- https://www.spin.com/2020/06/jurassic-5-quality-control-20th-anniversary/
-- https://www.youtube.com/watch?v=5DyAJ1D_y1o
+  - 'https://www.last.fm/music/Jurassic+5/+wiki'
+  - 'https://www.scaruffi.com/vol7/jurassic.html'
+  - 'https://sungenre.com/artist/jurassic-5/'
+  - 'https://en.wikipedia.org/wiki/Jurassic_5'
+  - >-
+    https://the-avocado.org/2016/02/25/artist-spotlight-jurassic-5-or-how-mtv-got-me-into-conscious-hip-hop/
+  - 'https://www.insomniac.com/music/artists/jurassic-5/'
+  - 'https://www.spin.com/2020/06/jurassic-5-quality-control-20th-anniversary/'
+  - 'https://www.youtube.com/watch?v=5DyAJ1D_y1o'
 spotify_data:
   followers: 481149
   id: 6wFId9Jhuf9AKVzWboOj2B
   popularity: 50
-  url: https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B
+  url: 'https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B'
 status: active
 tags:
-- 2008 universal fire victim
-- alternative hip hop
-- conscious hip hop
+  - 2008 universal fire victim
+  - alternative hip hop
+  - conscious hip hop
 title: Jurassic 5
 ---
 

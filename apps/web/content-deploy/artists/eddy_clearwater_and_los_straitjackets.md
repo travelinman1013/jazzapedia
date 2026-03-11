@@ -1,47 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-07T01:27:27.189927'
-birth_place: Macon, Mississippi, United States
+birth_place: 'Macon, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:27:27.189936'
 external_urls:
-  spotify: https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd
-  wikipedia: https://en.wikipedia.org/wiki/Eddy_Clearwater
+  spotify: 'https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddy_Clearwater'
 genres:
-- classic rock
-- southern rock
-- country rock
-image_path: 03_Resources/source_material/ArtistPortraits/eddy_clearwater_and_los_straitjackets.jpg
+  - classic rock
+  - southern rock
+  - country rock
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/eddy_clearwater_and_los_straitjackets.jpg
 last_updated: '2026-02-07T01:27:27.189937'
 musical_connections:
   collaborators:
-  - Los Straitjackets
-  - Ronnie Baker Brooks
-  - Billy Branch
-  - Buddy Guy
-  - Junior Wells
+    - Los Straitjackets
+    - Ronnie Baker Brooks
+    - Billy Branch
+    - Buddy Guy
+    - Junior Wells
   influenced: []
   mentors:
-  - Magic Sam
-  - Sunnyland Slim
-  - Earl Hooker
-  - Chuck Berry
+    - Magic Sam
+    - Sunnyland Slim
+    - Earl Hooker
+    - Chuck Berry
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.eddyclearwater.com/bio.html
-- https://www.alligator.com/artists/Eddy-Clearwater/
-- https://en.wikipedia.org/wiki/Eddy_Clearwater
-- https://bigtrainblues.com/sonny-boy-williamson/
-- https://www.anatomicallycorrect.org/EddyClearwater.htm
-- https://bluesrockreview.com/2018/05/eddy-clearwater-interview.html
-- https://vnews.com/2018/06/09/eddy-clearwater-boisterous-bluesman-dies-at-83-17991810/
+  - 'https://www.eddyclearwater.com/bio.html'
+  - 'https://www.alligator.com/artists/Eddy-Clearwater/'
+  - 'https://en.wikipedia.org/wiki/Eddy_Clearwater'
+  - 'https://bigtrainblues.com/sonny-boy-williamson/'
+  - 'https://www.anatomicallycorrect.org/EddyClearwater.htm'
+  - 'https://bluesrockreview.com/2018/05/eddy-clearwater-interview.html'
+  - >-
+    https://vnews.com/2018/06/09/eddy-clearwater-boisterous-bluesman-dies-at-83-17991810/
 spotify_data:
   followers: 8199352
   id: 3IYUhFvPQItj6xySrBmZkd
   popularity: 80
-  url: https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd
+  url: 'https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd'
 status: active
-title: eddy clearwater & los straitjackets
+title: Eddy Clearwater & Los Straitjackets
+origin: 'Chicago, Illinois, United States'
+birth_date: '1935-01-10'
+artist_type: person
 ---
 
 ![](eddy_clearwater_and_los_straitjackets.jpg)

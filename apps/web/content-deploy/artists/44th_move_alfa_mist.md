@@ -1,49 +1,53 @@
 ---
 biography_enhanced_at: '2026-03-06T01:30:03.786551'
-birth_place: Newham, London, England, United Kingdom
+birth_place: 'Newham, London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:30:03.786559'
 external_urls:
-  spotify: https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI
-  wikipedia: https://en.wikipedia.org/wiki/Alfa_Mist
+  spotify: 'https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alfa_Mist'
 genres:
-- nu jazz
-- jazz rap
-- indie jazz
-- jazz fusion
-- jazz
+  - nu jazz
+  - jazz rap
+  - indie jazz
+  - jazz fusion
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/44th_move_alfa_mist.jpg
 last_updated: '2026-03-06T01:30:03.786561'
 musical_connections:
   collaborators:
-  - Jordan Rakei
-  - Tom Misch
-  - Kaya Thomas-Dyke
-  - Richard Spaven
-  - Lester Duval
+    - Jordan Rakei
+    - Tom Misch
+    - Kaya Thomas-Dyke
+    - Richard Spaven
+    - Lester Duval
   influenced: []
   mentors:
-  - Hi-Tek
-  - Madlib
-  - J Dilla
+    - Hi-Tek
+    - Madlib
+    - J Dilla
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.anti.com/press/alfa-mist-bio-2021/
-- https://www.outermostagency.com/alfa-mist
-- https://www.last.fm/music/Alfa+Mist/+wiki
-- https://en.wikipedia.org/wiki/Alfa_Mist
-- https://www.stampthewax.com/2020/04/16/premiere-44th-move-two-nil/
-- https://magazine.waxpoetics.com/article/east-london-composer-and-pianist-alfa-mist-creates-profound-space-jazz/
-- https://www.stereofox.com/interviews/interview-alfa-mist/
-- https://www.hhv-mag.com/feature/alfa-mist-wollte-wieder-mit-dem-kopf-nicken-und-weiter-fehler-machen/?lang=en
+  - 'https://www.anti.com/press/alfa-mist-bio-2021/'
+  - 'https://www.outermostagency.com/alfa-mist'
+  - 'https://www.last.fm/music/Alfa+Mist/+wiki'
+  - 'https://en.wikipedia.org/wiki/Alfa_Mist'
+  - 'https://www.stampthewax.com/2020/04/16/premiere-44th-move-two-nil/'
+  - >-
+    https://magazine.waxpoetics.com/article/east-london-composer-and-pianist-alfa-mist-creates-profound-space-jazz/
+  - 'https://www.stereofox.com/interviews/interview-alfa-mist/'
+  - >-
+    https://www.hhv-mag.com/feature/alfa-mist-wollte-wieder-mit-dem-kopf-nicken-und-weiter-fehler-machen/?lang=en
 spotify_data:
   followers: 310374
   id: 2i1CPudyCUjL50Wqjv8AMI
   popularity: 50
-  url: https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI
+  url: 'https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI'
 status: active
 title: 44th Move/ Alfa Mist
+origin: 'London, England, United Kingdom'
+artist_type: person
 ---
 
 ![](44th_move_alfa_mist.jpg)

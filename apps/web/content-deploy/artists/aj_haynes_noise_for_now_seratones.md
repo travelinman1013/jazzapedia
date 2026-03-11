@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-03-02T01:12:24.579087'
-birth_place: Shreveport, Louisiana, USA
+birth_place: 'Shreveport, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:12:24.579097'
 external_urls:
-  spotify: https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc
+  spotify: 'https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc'
   wikipedia: ''
 genres:
-- funk rock
-- retro soul
-image_path: 03_Resources/source_material/ArtistPortraits/aj_haynes_noise_for_now_seratones.jpg
+  - funk rock
+  - retro soul
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/aj_haynes_noise_for_now_seratones.jpg
 last_updated: '2026-03-02T01:12:24.579099'
 musical_connections:
   collaborators:
-  - Brad Schultz
-  - Seratones band members
+    - Brad Schultz
+    - Seratones band members
   influenced: []
   mentors:
-  - Charles Bradley
+    - Charles Bradley
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://frontrunnermag.com/posts/seratones/
-- https://www.artists-at-work.org/aj-haynes
-- https://www.stillaustin.com/blog/seven-questions-aj-haynes-of-seratones
-- https://offshelf.net/2019/10/03/seratoness-aj-haynes/
-- https://nwla.culturalyst.com/ajhaynes
-- https://www.centenary.edu/library/magale-fest/aj-haynes/
-- https://sippculture.org/a-j-haynes-2/
-- https://sippculture.org/a-j-haynes/
-- https://www.seratones.com/bio
+  - 'https://frontrunnermag.com/posts/seratones/'
+  - 'https://www.artists-at-work.org/aj-haynes'
+  - 'https://www.stillaustin.com/blog/seven-questions-aj-haynes-of-seratones'
+  - 'https://offshelf.net/2019/10/03/seratoness-aj-haynes/'
+  - 'https://nwla.culturalyst.com/ajhaynes'
+  - 'https://www.centenary.edu/library/magale-fest/aj-haynes/'
+  - 'https://sippculture.org/a-j-haynes-2/'
+  - 'https://sippculture.org/a-j-haynes/'
+  - 'https://www.seratones.com/bio'
 spotify_data:
   followers: 25299
   id: 7D9TOQJq1HnpnQZlNNYWqc
   popularity: 24
-  url: https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc
+  url: 'https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc'
 status: active
-title: AJ Haynes, Noise For Now, Seratones
+title: 'AJ Haynes, Noise For Now, Seratones'
+artist_type: person
 ---
 
 ![](aj_haynes_noise_for_now_seratones.jpg)

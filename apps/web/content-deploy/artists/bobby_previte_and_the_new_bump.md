@@ -1,49 +1,52 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-24T01:40:15.145887'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:40:15.145894'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/221d6e3f-07f9-454f-a367-45954720eaf8
-  spotify: https://open.spotify.com/artist/4fS8fQojVWeMxOtAXYESwS
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Previte
+  musicbrainz: 'https://musicbrainz.org/artist/221d6e3f-07f9-454f-a367-45954720eaf8'
+  spotify: 'https://open.spotify.com/artist/4fS8fQojVWeMxOtAXYESwS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Previte'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/bobby_previte_and_the_new_bump.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bobby_previte_and_the_new_bump.jpg
 last_updated: '2026-02-24T01:40:15.145896'
 musical_connections:
   collaborators:
-  - John Zorn
-  - Wayne Horvitz
-  - Elliott Sharp
-  - Tom Waits
-  - Jamie Saft
-  - Steve Swallow
+    - John Zorn
+    - Wayne Horvitz
+    - Elliott Sharp
+    - Tom Waits
+    - Jamie Saft
+    - Steve Swallow
   influenced: []
   mentors:
-  - Edgard Varèse
-  - Charles Mingus
-  - Sunny Murray
+    - Edgard Varèse
+    - Charles Mingus
+    - Sunny Murray
 musicbrainz_id: 221d6e3f-07f9-454f-a367-45954720eaf8
 network_extracted: true
-origin: Niagara Falls, New York, USA
+origin: 'Niagara Falls, New York, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobby_Previte
-- https://www.bobbyprevite.com/biography
-- https://www.allaboutjazz.com/musicians/bobby-previte/
-- https://www.chronogram.com/arts/lasting-impact-bobby-previte-2322845/
-- https://jazztimes.com/archives/bobby-previte-drums-unlimited/
-- https://www.bobbyprevite.com
-- https://musicbrainz.org/artist/036d91c6-89b8-49bb-9f31-fc72287fe8a0
+  - 'https://en.wikipedia.org/wiki/Bobby_Previte'
+  - 'https://www.bobbyprevite.com/biography'
+  - 'https://www.allaboutjazz.com/musicians/bobby-previte/'
+  - 'https://www.chronogram.com/arts/lasting-impact-bobby-previte-2322845/'
+  - 'https://jazztimes.com/archives/bobby-previte-drums-unlimited/'
+  - 'https://www.bobbyprevite.com'
+  - 'https://musicbrainz.org/artist/036d91c6-89b8-49bb-9f31-fc72287fe8a0'
 spotify_data:
   followers: 13
   id: 4fS8fQojVWeMxOtAXYESwS
   popularity: 0
-  url: https://open.spotify.com/artist/4fS8fQojVWeMxOtAXYESwS
+  url: 'https://open.spotify.com/artist/4fS8fQojVWeMxOtAXYESwS'
 status: active
 tags:
-- jazz
+  - jazz
 title: Bobby Previte & the New Bump
+birth_place: 'Niagara Falls, New York, United States'
+birth_date: '1951-07-16'
 ---
 
 ![](bobby_previte_and_the_new_bump.jpg)

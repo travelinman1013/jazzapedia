@@ -3,46 +3,51 @@ biography_enhanced_at: '2026-03-01T02:00:36.674101'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:00:36.674110'
 external_urls:
-  spotify: https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit
-  wikipedia: https://en.wikipedia.org/wiki/Jorge_Ben
+  spotify: 'https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jorge_Ben'
 genres:
-- mpb
-- bossa nova
-- samba
-- brazilian jazz
+  - mpb
+  - bossa nova
+  - samba
+  - brazilian jazz
 image_path: 03_Resources/source_material/ArtistPortraits/gilberto_gil_and_jorge_ben.jpg
 last_updated: '2026-03-01T02:00:36.674112'
 musical_connections:
   collaborators:
-  - Caetano Veloso
-  - Trio Mocotó
-  - Gal Costa
-  - Tom Zé
-  - Maria Bethânia
-  - Sérgio Mendes
-  - Roberta Sá
+    - Caetano Veloso
+    - Trio Mocotó
+    - Gal Costa
+    - Tom Zé
+    - Maria Bethânia
+    - Sérgio Mendes
+    - Roberta Sá
   influenced:
-  - Dead Prez, Talib Kweli, and Bilal
-  - Iron & Wine
+    - 'Dead Prez, Talib Kweli, and Bilal'
+    - Iron & Wine
   mentors:
-  - João Gilberto
-  - Luiz Gonzaga and Jackson do Pandeiro
-  - Jorge Ben
+    - João Gilberto
+    - Luiz Gonzaga and Jackson do Pandeiro
+    - Jorge Ben
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jorge_Ben
-- https://artsandculture.google.com/story/gilberto-gil-and-jorge-ben-the-partnerships-of-xang%C3%B4-and-ogum-instituto-gilberto-gil/HgWxZsbribdQhw?hl=en
-- https://en.wikipedia.org/wiki/Gilberto_Gil
-- https://transatlantic-cultures.org/es/catalog/gilberto-gil
-- https://www.allaboutjazz.com/musicians/gilberto-gil/
+  - 'https://en.wikipedia.org/wiki/Jorge_Ben'
+  - >-
+    https://artsandculture.google.com/story/gilberto-gil-and-jorge-ben-the-partnerships-of-xang%C3%B4-and-ogum-instituto-gilberto-gil/HgWxZsbribdQhw?hl=en
+  - 'https://en.wikipedia.org/wiki/Gilberto_Gil'
+  - 'https://transatlantic-cultures.org/es/catalog/gilberto-gil'
+  - 'https://www.allaboutjazz.com/musicians/gilberto-gil/'
 spotify_data:
   followers: 1274291
   id: 5JYtpnUKxAzXfHEYpOeeit
   popularity: 64
-  url: https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit
+  url: 'https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit'
 status: active
 title: Gilberto Gil & Jorge Ben
+birth_place: 'Salvador, Bahia, Brazil'
+origin: 'Brazil (Gilberto Gil: Salvador, Bahia; Jorge Ben: Rio de Janeiro)'
+birth_date: '1942'
+artist_type: person
 ---
 
 ![](gilberto_gil_and_jorge_ben.jpg)

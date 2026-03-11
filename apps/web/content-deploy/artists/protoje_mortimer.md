@@ -1,50 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-23T03:10:24.013344'
-birth_place: Saint Elizabeth, Jamaica
+birth_place: 'Saint Elizabeth, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:10:24.013352'
 external_urls:
-  spotify: https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv
-  wikipedia: https://en.wikipedia.org/wiki/Protoje
+  spotify: 'https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Protoje'
 genres:
-- reggae
-- roots reggae
-- lovers rock
+  - reggae
+  - roots reggae
+  - lovers rock
 image_path: 03_Resources/source_material/ArtistPortraits/protoje_mortimer.jpg
 last_updated: '2026-02-23T03:10:24.013353'
 musical_connections:
   collaborators:
-  - Ky-Mani Marley
-  - Mortimer
-  - Chronixx
-  - Winta James
+    - Ky-Mani Marley
+    - Mortimer
+    - Chronixx
+    - Winta James
   influenced:
-  - Mortimer
-  - Lila Iké
-  - Sevana
+    - Mortimer
+    - Lila Iké
+    - Sevana
   mentors:
-  - Don Corleon
-  - Ini Kamoze
-  - Black Uhuru
+    - Don Corleon
+    - Ini Kamoze
+    - Black Uhuru
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Protoje
-- https://www.reggaeville.com/artist-details/mortimer/about/
-- https://www.last.fm/music/Protoje/+wiki
-- https://www.upsetta.com/mortimer-artist-spotlight/
-- https://wbssmedia.com/artists/detail/3978
-- https://www.mortimerofficial.com
-- https://www.laketahoereggaefest.com/protoje/
-- https://skinfama.com/artiste/mortimer/
-- https://unitedreggae.com/articles/n559/021011/interview-protoje
+  - 'https://en.wikipedia.org/wiki/Protoje'
+  - 'https://www.reggaeville.com/artist-details/mortimer/about/'
+  - 'https://www.last.fm/music/Protoje/+wiki'
+  - 'https://www.upsetta.com/mortimer-artist-spotlight/'
+  - 'https://wbssmedia.com/artists/detail/3978'
+  - 'https://www.mortimerofficial.com'
+  - 'https://www.laketahoereggaefest.com/protoje/'
+  - 'https://skinfama.com/artiste/mortimer/'
+  - 'https://unitedreggae.com/articles/n559/021011/interview-protoje'
 spotify_data:
   followers: 41685
   id: 6qyqSsQOJmW6GDx8djH0dv
   popularity: 41
-  url: https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv
+  url: 'https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv'
 status: active
-title: Protoje, Mortimer
+title: 'Protoje, Mortimer'
+birth_date: '1981-06-14'
+artist_type: person
 ---
 
 ![](protoje_mortimer.jpg)

@@ -4,10 +4,10 @@ birth_place: Unknown
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:26:12.839743'
 external_urls:
-  spotify: https://open.spotify.com/artist/3kDlEsOcaDua0yWQaKeHeG
+  spotify: 'https://open.spotify.com/artist/3kDlEsOcaDua0yWQaKeHeG'
   wikipedia: Not found
 genres:
-- brazilian jazz
+  - brazilian jazz
 image_path: 03_Resources/source_material/ArtistPortraits/marcelo_hilgenberg.jpg
 last_updated: '2026-02-01T01:26:12.839744'
 musical_connections:
@@ -21,9 +21,10 @@ spotify_data:
   followers: 19
   id: 3kDlEsOcaDua0yWQaKeHeG
   popularity: 0
-  url: https://open.spotify.com/artist/3kDlEsOcaDua0yWQaKeHeG
+  url: 'https://open.spotify.com/artist/3kDlEsOcaDua0yWQaKeHeG'
 status: active
 title: Marcelo Hilgenberg
+artist_type: person
 ---
 
 ![](marcelo_hilgenberg.jpg)

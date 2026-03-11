@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-28T01:49:34.948439'
-birth_place: Anchorage, Alaska, United States
+birth_place: 'Anchorage, Alaska, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:49:34.948448'
 external_urls:
-  spotify: https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd
+  spotify: 'https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd'
   wikipedia: ''
 genres:
-- bedroom pop
+  - bedroom pop
 image_path: 03_Resources/source_material/ArtistPortraits/ralph_castelli.jpg
 last_updated: '2026-01-28T01:49:34.948450'
 musical_connections:
   collaborators:
-  - Jesse Rutherford (The Neighbourhood)
-  - Blu DeTiger
-  - Dora Jar
-  - Glaive
+    - Jesse Rutherford (The Neighbourhood)
+    - Blu DeTiger
+    - Dora Jar
+    - Glaive
   influenced: []
   mentors:
-  - Sufjan Stevens
-  - Radiohead
+    - Sufjan Stevens
+    - Radiohead
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://balloonmachineblog.wordpress.com/2019/08/08/interview-ralph-castelli/
-- https://www.thelunacollective.co/journal/qa-ralph-castelli
-- https://www.famousbirthdays.com/people/ralph-castelli.html
-- https://www.last.fm/music/Ralph+Castelli/+wiki
-- https://onestowatch.com/en/blog/ralph-castelli-gives-us-chills-in-the
-- https://apeconcerts.com/attraction/ralph-castelli/
-- https://the49thsupplyco.com/blogs/news/supply-the-sounds-ralph-castelli
+  - >-
+    https://balloonmachineblog.wordpress.com/2019/08/08/interview-ralph-castelli/
+  - 'https://www.thelunacollective.co/journal/qa-ralph-castelli'
+  - 'https://www.famousbirthdays.com/people/ralph-castelli.html'
+  - 'https://www.last.fm/music/Ralph+Castelli/+wiki'
+  - 'https://onestowatch.com/en/blog/ralph-castelli-gives-us-chills-in-the'
+  - 'https://apeconcerts.com/attraction/ralph-castelli/'
+  - 'https://the49thsupplyco.com/blogs/news/supply-the-sounds-ralph-castelli'
 spotify_data:
   followers: 152589
   id: 4o16FybIZV7WPD7tOl7PUd
   popularity: 53
-  url: https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd
+  url: 'https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd'
 status: active
 title: Ralph Castelli
+artist_type: person
 ---
 
 ![](ralph_castelli.jpg)

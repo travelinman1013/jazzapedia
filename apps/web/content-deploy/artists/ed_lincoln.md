@@ -1,46 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-10T01:47:59.219546'
-birth_place: Fortaleza, Ceará, Brazil
+birth_place: 'Fortaleza, Ceará, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:47:59.219552'
 external_urls:
-  spotify: https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU
-  wikipedia: https://en.wikipedia.org/wiki/Ed_Lincoln
+  spotify: 'https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ed_Lincoln'
 genres:
-- brazilian jazz
-- bossa nova
+  - brazilian jazz
+  - bossa nova
 image_path: 03_Resources/source_material/ArtistPortraits/ed_lincoln.jpg
 last_updated: '2026-02-10T01:47:59.219553'
 musical_connections:
   collaborators:
-  - Orlandivo
-  - D'Orlann
-  - Sílvio César
-  - Durval Ferreira
-  - Baden Powell
-  - Luizinho Eça
-  - Elza Soares
-  - Clifford Brown
+    - Orlandivo
+    - D'Orlann
+    - Sílvio César
+    - Durval Ferreira
+    - Baden Powell
+    - Luizinho Eça
+    - Elza Soares
+    - Clifford Brown
   influenced:
-  - Eumir Deodato
+    - Eumir Deodato
   mentors:
-  - Oscar Peterson
+    - Oscar Peterson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ed_Lincoln
-- https://www.slipcue.com/music/brazil/lincoln_ed_01.html
-- https://kids.kiddle.co/Ed_Lincoln
-- https://fatsound.wordpress.com/2015/05/05/ed-lincoln-seu-piano-e-seu-orgao-espetacular/
-- https://www.viberate.com/artist/ed-lincoln/
-- https://www.musicstack.com/records-cds/ed+lincoln
+  - 'https://en.wikipedia.org/wiki/Ed_Lincoln'
+  - 'https://www.slipcue.com/music/brazil/lincoln_ed_01.html'
+  - 'https://kids.kiddle.co/Ed_Lincoln'
+  - >-
+    https://fatsound.wordpress.com/2015/05/05/ed-lincoln-seu-piano-e-seu-orgao-espetacular/
+  - 'https://www.viberate.com/artist/ed-lincoln/'
+  - 'https://www.musicstack.com/records-cds/ed+lincoln'
 spotify_data:
   followers: 9431
   id: 0wYxlxMUxoFfy6MxiDwTpU
   popularity: 24
-  url: https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU
+  url: 'https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU'
 status: active
 title: Ed Lincoln
+birth_date: '1932-05-31'
+artist_type: person
 ---
 
 ![](ed_lincoln.jpg)

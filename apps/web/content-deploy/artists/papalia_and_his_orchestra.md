@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-01-29T02:01:35.682213'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:01:35.682231'
 external_urls:
-  spotify: https://open.spotify.com/artist/2shGhC9YMM5zl73nnBlS2C
+  spotify: 'https://open.spotify.com/artist/2shGhC9YMM5zl73nnBlS2C'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: ''
 last_updated: '2026-01-29T02:01:35.682235'
 musical_connections:
@@ -20,9 +20,10 @@ spotify_data:
   followers: 0
   id: 2shGhC9YMM5zl73nnBlS2C
   popularity: 0
-  url: https://open.spotify.com/artist/2shGhC9YMM5zl73nnBlS2C
+  url: 'https://open.spotify.com/artist/2shGhC9YMM5zl73nnBlS2C'
 status: active
-title: PAPALIA AND HIS ORCHESTRA
+title: Papalia and His Orchestra
+artist_type: band
 ---
 
 ![]()

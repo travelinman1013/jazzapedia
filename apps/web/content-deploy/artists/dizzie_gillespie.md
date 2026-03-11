@@ -1,54 +1,57 @@
 ---
 biography_enhanced_at: '2026-02-25T02:02:21.056311'
-birth_place: Cheraw, South Carolina, United States
+birth_place: 'Cheraw, South Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:02:21.056319'
 external_urls:
-  spotify: https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn
-  wikipedia: https://en.wikipedia.org/wiki/Dizzy_Gillespie
+  spotify: 'https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dizzy_Gillespie'
 genres:
-- bebop
-- jazz
-- afro-cuban jazz
-- hard bop
-- latin jazz
-- big band
-- cool jazz
+  - bebop
+  - jazz
+  - afro-cuban jazz
+  - hard bop
+  - latin jazz
+  - big band
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/dizzie_gillespie.jpg
 last_updated: '2026-02-25T02:02:21.056321'
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Chano Pozo
-  - Cab Calloway
-  - John Coltrane
-  - Duke Ellington
+    - Charlie Parker
+    - Chano Pozo
+    - Cab Calloway
+    - John Coltrane
+    - Duke Ellington
   influenced:
-  - Miles Davis
-  - Max Roach
-  - Arturo Sandoval
-  - Clifford Brown
-  - Fats Navarro
+    - Miles Davis
+    - Max Roach
+    - Arturo Sandoval
+    - Clifford Brown
+    - Fats Navarro
   mentors:
-  - Roy Eldridge
-  - Norman Powe
+    - Roy Eldridge
+    - Norman Powe
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://study.com/learn/lesson/dizzy-gillespie-songs-biography.html
-- https://www.britannica.com/biography/Dizzy-Gillespie
-- https://www.polarmusicprize.org/laureates/dizzy-gillespie/
-- https://en.wikipedia.org/wiki/Dizzy_Gillespie
-- https://www.ijc.uidaho.edu/gillespie_dizzy/bio.html
-- https://www.arts.gov/honors/jazz/john-birks-dizzy-gillespie
-- https://blackpast.org/african-american-history/gillespie-dizzy-john-birks-gillespie-1917-1993/
+  - 'https://study.com/learn/lesson/dizzy-gillespie-songs-biography.html'
+  - 'https://www.britannica.com/biography/Dizzy-Gillespie'
+  - 'https://www.polarmusicprize.org/laureates/dizzy-gillespie/'
+  - 'https://en.wikipedia.org/wiki/Dizzy_Gillespie'
+  - 'https://www.ijc.uidaho.edu/gillespie_dizzy/bio.html'
+  - 'https://www.arts.gov/honors/jazz/john-birks-dizzy-gillespie'
+  - >-
+    https://blackpast.org/african-american-history/gillespie-dizzy-john-birks-gillespie-1917-1993/
 spotify_data:
   followers: 479894
   id: 5RzjqfPS0Bu4bUMkyNNDpn
   popularity: 46
-  url: https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn
+  url: 'https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn'
 status: active
 title: Dizzie Gillespie
+birth_date: '1917-10-21'
+artist_type: person
 ---
 
 ![](dizzie_gillespie.jpg)

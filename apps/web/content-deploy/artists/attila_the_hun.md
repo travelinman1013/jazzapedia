@@ -1,36 +1,39 @@
 ---
 biography_enhanced_at: '2026-02-02T01:48:15.812768'
-birth_place: Port-of-Spain, Trinidad and Tobago
+birth_place: 'Port-of-Spain, Trinidad and Tobago'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:48:15.812778'
 external_urls:
-  spotify: https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG
+  spotify: 'https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG'
   wikipedia: Not found in search results
 genres:
-- calypso
+  - calypso
 image_path: 03_Resources/source_material/ArtistPortraits/attila_the_hun.jpg
 last_updated: '2026-02-02T01:48:15.812780'
 musical_connections:
   collaborators:
-  - The Roaring Lion
+    - The Roaring Lion
   influenced:
-  - Harry Belafonte
+    - Harry Belafonte
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Atilla+the+Hun/+wiki
-- https://time.com/archive/6614390/mastersinger/
-- http://www.bestoftrinidad.com/calypso/atilla.html
-- https://roaringlioncalypso.wordpress.com/growling-tiger-and-attila-the-hun/
-- https://books.google.com/books/about/Atilla_s_Kaiso.html?id=kGBaAAAAMAAJ
+  - 'https://www.last.fm/music/Atilla+the+Hun/+wiki'
+  - 'https://time.com/archive/6614390/mastersinger/'
+  - 'http://www.bestoftrinidad.com/calypso/atilla.html'
+  - 'https://roaringlioncalypso.wordpress.com/growling-tiger-and-attila-the-hun/'
+  - 'https://books.google.com/books/about/Atilla_s_Kaiso.html?id=kGBaAAAAMAAJ'
 spotify_data:
   followers: 411
   id: 3CK4SLHGVhasR86lTSHYnG
   popularity: 2
-  url: https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG
+  url: 'https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG'
 status: active
 title: Attila the Hun
+origin: 'Port-of-Spain, Trinidad and Tobago'
+birth_date: '1892-03-24'
+artist_type: person
 ---
 
 ![](attila_the_hun.jpg)

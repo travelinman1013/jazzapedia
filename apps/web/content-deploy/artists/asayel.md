@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2026-03-08T03:03:16.404742'
-birth_place: Makkah, Saudi Arabia
+birth_place: 'Makkah, Makkah Province, Saudi Arabia'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:03:16.404750'
 external_urls:
-  spotify: https://open.spotify.com/artist/31UcNVT6d7myOObOy0LsNS
+  spotify: 'https://open.spotify.com/artist/31UcNVT6d7myOObOy0LsNS'
   wikipedia: ''
 genres:
-- arabic hip hop
-- egyptian hip hop
-- egyptian pop
+  - arabic hip hop
+  - egyptian hip hop
+  - egyptian pop
 image_path: 03_Resources/source_material/ArtistPortraits/asayel.jpg
 last_updated: '2026-03-08T03:03:16.404752'
 musical_connections:
   collaborators:
-  - The Synaptik
-  - Karim Osama
-  - Ahmed Lebleb
+    - The Synaptik
+    - Karim Osama
+    - Ahmed Lebleb
   influenced:
-  - Next generation Saudi artists
+    - Next generation Saudi artists
   mentors:
-  - MDLBeast Records
-  - Moayad
-  - Dafencii
+    - MDLBeast Records
+    - Moayad
+    - Dafencii
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://hypebae.com/2025/3/asayel-musician-interview-bred-festival-abu-dhabi-hena-meaning
-- https://www.artinthemiddle.com/blog/saudi-rapper-asayel-talks-culture-musical-influences-and-what-s-next
-- https://mdlbeast.com/performers/asayel
-- https://www.arabnews.com/node/2571209/gtm.start
-- https://scenenoise.com/Features/WORD-Asayel-Asliyah
-- https://egyptianstreets.com/2020/03/11/7-of-the-best-arab-and-north-african-female-rappers/
-- https://madamerap.com/en/asayel-slay-2/
+  - >-
+    https://hypebae.com/2025/3/asayel-musician-interview-bred-festival-abu-dhabi-hena-meaning
+  - >-
+    https://www.artinthemiddle.com/blog/saudi-rapper-asayel-talks-culture-musical-influences-and-what-s-next
+  - 'https://mdlbeast.com/performers/asayel'
+  - 'https://www.arabnews.com/node/2571209/gtm.start'
+  - 'https://scenenoise.com/Features/WORD-Asayel-Asliyah'
+  - >-
+    https://egyptianstreets.com/2020/03/11/7-of-the-best-arab-and-north-african-female-rappers/
+  - 'https://madamerap.com/en/asayel-slay-2/'
 spotify_data:
   followers: 2851
   id: 31UcNVT6d7myOObOy0LsNS
   popularity: 15
-  url: https://open.spotify.com/artist/31UcNVT6d7myOObOy0LsNS
+  url: 'https://open.spotify.com/artist/31UcNVT6d7myOObOy0LsNS'
 status: active
-title: asayel
+title: Asayel
+artist_type: person
 ---
 
 ![](asayel.jpg)

@@ -1,63 +1,65 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 91120af3-5f27-46da-a105-2d28d453b973
-  name: Huey “Piano” Smith & His Clowns
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3216a64b-073b-4ae8-a7f4-5dc5a468cf9b
-  name: The Clowns
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 91120af3-5f27-46da-a105-2d28d453b973
+    name: Huey “Piano” Smith & His Clowns
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3216a64b-073b-4ae8-a7f4-5dc5a468cf9b
+    name: The Clowns
 biography_enhanced_at: '2026-02-20T01:21:20.422556'
 birth_date: '1930-04-30'
-birth_place: Youngstown
+birth_place: 'Youngstown, Ohio, United States'
 death_date: '1999-12-05'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:21:20.422565'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ca7129b1-b2b8-40da-89ea-a2b6aeabb87b
-  spotify: https://open.spotify.com/artist/3hHAdG4gMD9GnqqWWST9D7
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Marchan
+  musicbrainz: 'https://musicbrainz.org/artist/ca7129b1-b2b8-40da-89ea-a2b6aeabb87b'
+  spotify: 'https://open.spotify.com/artist/3hHAdG4gMD9GnqqWWST9D7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Marchan'
 gender: Male
 genres:
-- northern soul
-- doo-wop
-- motown
+  - northern soul
+  - doo-wop
+  - motown
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_marchan.jpg
 last_updated: '2026-02-20T01:21:20.422567'
 musical_connections:
   collaborators:
-  - Huey 'Piano' Smith and the Clowns
-  - Otis Redding
-  - DJ Jubilee
+    - Huey 'Piano' Smith and the Clowns
+    - Otis Redding
+    - DJ Jubilee
   influenced:
-  - Slade
-  - Cash Money Records artists
+    - Slade
+    - Cash Money Records artists
   mentors:
-  - Cosimo Matassa
-  - Johnny Vincent
+    - Cosimo Matassa
+    - Johnny Vincent
 musicbrainz_id: ca7129b1-b2b8-40da-89ea-a2b6aeabb87b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobby_Marchan
-- https://fromthevaults-boppinbob.blogspot.com/2020/04/bobby-marchan-born-30-april-1930.html
-- https://64parishes.org/the-irrepressible-bobby-marchan
-- https://queermusicheritage.com/drag-marchan.html
+  - 'https://en.wikipedia.org/wiki/Bobby_Marchan'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/04/bobby-marchan-born-30-april-1930.html
+  - 'https://64parishes.org/the-irrepressible-bobby-marchan'
+  - 'https://queermusicheritage.com/drag-marchan.html'
 spotify_data:
   followers: 2464
   id: 3hHAdG4gMD9GnqqWWST9D7
   popularity: 11
-  url: https://open.spotify.com/artist/3hHAdG4gMD9GnqqWWST9D7
+  url: 'https://open.spotify.com/artist/3hHAdG4gMD9GnqqWWST9D7'
 status: active
 tags:
-- new orleans r&b
-- r&b
-- rock and indie
-title: BOBBY MARCHAN
+  - new orleans r&b
+  - r&b
+  - rock and indie
+title: Bobby Marchan
+is_active: false
 ---
 
 ![](bobby_marchan.jpg)

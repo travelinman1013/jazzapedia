@@ -1,123 +1,124 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1991'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
-  name: The Great Jazz Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 23bdf915-67af-4089-b938-60efdaeab13f
-  name: Sarah Vaughan and Her Trio
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 616d142c-5e6e-4851-a81b-32d65412c295
-  name: John Coltrane Trio
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 3dca9156-a588-46d6-afd3-ddfcf2162fc2
-  name: Roy Haynes and The Fountain of Youth Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a43270af-bc4a-4552-847e-617b11f38d7b
-  name: John Coltrane Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 5ade8ffa-4e9c-42b7-ac4d-615f0f35fd24
-  name: Roy Haynes Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0b87f371-4765-4d55-bbf0-95e66428a8ec
-  name: David Murray Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e1e8d361-a350-4253-a078-232c5c3570b5
-  name: Bud Powell's Modernists
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 55920730-831f-431f-80f7-539a2bf83f98
-  name: Miles Davis and His Band
+  - begin: '1991'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
+    name: The Great Jazz Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 23bdf915-67af-4089-b938-60efdaeab13f
+    name: Sarah Vaughan and Her Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 616d142c-5e6e-4851-a81b-32d65412c295
+    name: John Coltrane Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 3dca9156-a588-46d6-afd3-ddfcf2162fc2
+    name: Roy Haynes and The Fountain of Youth Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a43270af-bc4a-4552-847e-617b11f38d7b
+    name: John Coltrane Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 5ade8ffa-4e9c-42b7-ac4d-615f0f35fd24
+    name: Roy Haynes Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0b87f371-4765-4d55-bbf0-95e66428a8ec
+    name: David Murray Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e1e8d361-a350-4253-a078-232c5c3570b5
+    name: Bud Powell's Modernists
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 55920730-831f-431f-80f7-539a2bf83f98
+    name: Miles Davis and His Band
 biography_enhanced_at: '2026-02-21T01:34:05.260144'
 birth_date: '1925-03-13'
-birth_place: Boston
+birth_place: 'Boston, Massachusetts, United States'
 death_date: '2024-11-12'
 disambiguation: American jazz drummer and bandleader
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:34:05.260161'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2c090b57-5e9d-49c5-9b71-6f0a331cc1ca
-  spotify: https://open.spotify.com/artist/1tGINpEJVUsQXssRC28ugo
-  wikipedia: https://en.wikipedia.org/wiki/Roy_Haynes
+  musicbrainz: 'https://musicbrainz.org/artist/2c090b57-5e9d-49c5-9b71-6f0a331cc1ca'
+  spotify: 'https://open.spotify.com/artist/1tGINpEJVUsQXssRC28ugo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roy_Haynes'
 gender: Male
 genres:
-- hard bop
-- bebop
-- jazz
+  - hard bop
+  - bebop
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/roy_haynes.jpg
 instruments:
-- drums (drum set)
-- original
-- eponymous
+  - drums (drum set)
+  - original
+  - eponymous
 last_updated: '2026-02-21T01:34:05.260163'
 musical_connections:
   collaborators:
-  - Lester Young
-  - Charlie Parker
-  - Bud Powell
-  - Sarah Vaughan
-  - John Coltrane
-  - Pat Metheny
-  - Wardell Gray
-  - Stan Getz
-  - Miles Davis
-  - Kai Winding
-  - Thelonious Monk
-  - George Shearing
-  - Kenny Burrell
-  - Chick Corea
-  - McCoy Tyner
+    - Lester Young
+    - Charlie Parker
+    - Bud Powell
+    - Sarah Vaughan
+    - John Coltrane
+    - Pat Metheny
+    - Wardell Gray
+    - Stan Getz
+    - Miles Davis
+    - Kai Winding
+    - Thelonious Monk
+    - George Shearing
+    - Kenny Burrell
+    - Chick Corea
+    - McCoy Tyner
   influenced:
-  - Entire generation of percussionists
-  - Pat Metheny
-  - Modern jazz drummers
+    - Entire generation of percussionists
+    - Pat Metheny
+    - Modern jazz drummers
   mentors:
-  - Father (Church Organist)
-  - Luis Russell
+    - Father (Church Organist)
+    - Luis Russell
 musicbrainz_id: 2c090b57-5e9d-49c5-9b71-6f0a331cc1ca
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Roy_Haynes
-- https://www.namm.org/library/oral-history/roy-haynes
-- https://www.youtube.com/watch?v=e6wAykZuCwE
-- https://www.moderndrummer.com/2004/05/roy-haynes/
-- https://www.arts.gov/honors/jazz/roy-haynes
-- https://downbeat.com/news/detail/in-memoriam-roy-haynes-1925-2024
-- https://www.drummerworld.com/drummers/roy_haynes/
+  - 'https://en.wikipedia.org/wiki/Roy_Haynes'
+  - 'https://www.namm.org/library/oral-history/roy-haynes'
+  - 'https://www.youtube.com/watch?v=e6wAykZuCwE'
+  - 'https://www.moderndrummer.com/2004/05/roy-haynes/'
+  - 'https://www.arts.gov/honors/jazz/roy-haynes'
+  - 'https://downbeat.com/news/detail/in-memoriam-roy-haynes-1925-2024'
+  - 'https://www.drummerworld.com/drummers/roy_haynes/'
 spotify_data:
   followers: 25143
   id: 1tGINpEJVUsQXssRC28ugo
   popularity: 27
-  url: https://open.spotify.com/artist/1tGINpEJVUsQXssRC28ugo
+  url: 'https://open.spotify.com/artist/1tGINpEJVUsQXssRC28ugo'
 status: active
 tags:
-- 2008 universal fire victim
-- american
-- avant-garde jazz
+  - 2008 universal fire victim
+  - american
+  - avant-garde jazz
 title: Roy Haynes
+is_active: false
 ---
 
 ![](roy_haynes.jpg)

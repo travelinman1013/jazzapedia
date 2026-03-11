@@ -3,45 +3,47 @@ biography_enhanced_at: '2026-02-10T01:48:25.532356'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:48:25.532367'
 external_urls:
-  spotify: https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O
-  wikipedia: https://en.wikipedia.org/wiki/Alfredo_Rodr%C3%ADguez
+  spotify: 'https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alfredo_Rodr%C3%ADguez'
 genres:
-- latin jazz
-- afro-cuban jazz
-- son cubano
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/cubanismo_wjesus_alemany_and_alfredo_rodriguez.jpg
+  - latin jazz
+  - afro-cuban jazz
+  - son cubano
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/cubanismo_wjesus_alemany_and_alfredo_rodriguez.jpg
 last_updated: '2026-02-10T01:48:25.532368'
 musical_connections:
   collaborators:
-  - Alfredo Rodríguez
-  - Patato Valdés
-  - Joe Boyd
-  - Roberto Torres
+    - Alfredo Rodríguez
+    - Patato Valdés
+    - Joe Boyd
+    - Roberto Torres
   influenced:
-  - Fernando Ferrer
+    - Fernando Ferrer
   mentors:
-  - Lili Martínez
-  - Guillermo Rubalcaba
-  - Gonzalo Rubalcaba
+    - Lili Martínez
+    - Guillermo Rubalcaba
+    - Gonzalo Rubalcaba
 network_extracted: true
-origin: Havana, Cuba
+origin: 'Havana, Cuba'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alfredo_Rodr%C3%ADguez
-- https://www.cubanismo.org/bio
-- https://www.last.fm/es/music/Alfredo+Rodriguez/+wiki
-- https://latinastereo.com/alfredo-rodriguez/
-- https://www.last.fm/es/music/%C2%A1Cubanismo!/+wiki
-- https://www.solarlatinclub.com/jesus-alemany-y-cubanismo-acuarela-cubana/
-- https://www.youtube.com/watch?v=SQQGgJKxh8I
+  - 'https://en.wikipedia.org/wiki/Alfredo_Rodr%C3%ADguez'
+  - 'https://www.cubanismo.org/bio'
+  - 'https://www.last.fm/es/music/Alfredo+Rodriguez/+wiki'
+  - 'https://latinastereo.com/alfredo-rodriguez/'
+  - 'https://www.last.fm/es/music/%C2%A1Cubanismo!/+wiki'
+  - 'https://www.solarlatinclub.com/jesus-alemany-y-cubanismo-acuarela-cubana/'
+  - 'https://www.youtube.com/watch?v=SQQGgJKxh8I'
 spotify_data:
   followers: 48310
   id: 1dp5YyefJVa9mkiqa3s50O
   popularity: 37
-  url: https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O
+  url: 'https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O'
 status: active
 title: Cubanismo! w/Jesus Alemany & Alfredo Rodriguez
+artist_type: band
 ---
 
 ![](cubanismo_wjesus_alemany_and_alfredo_rodriguez.jpg)

@@ -1,54 +1,59 @@
 ---
 biography_enhanced_at: '2026-01-23T01:44:36.845822'
-birth_place: Philadelphia, Pennsylvania, USA
+birth_place: 'Philadelphia, Pennsylvania, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:44:36.845827'
 external_urls:
-  spotify: https://open.spotify.com/artist/3d1zE2R2ce1IGKNZdbnPwQ
-  wikipedia: https://en.wikipedia.org/wiki/Benny_Golson
+  spotify: 'https://open.spotify.com/artist/3d1zE2R2ce1IGKNZdbnPwQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Benny_Golson'
 genres:
-- hard bop
-- jazz
-- cool jazz
-- jazz ballads
+  - hard bop
+  - jazz
+  - cool jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/benny_golson_quintet.jpg
 last_updated: '2026-01-23T01:44:36.845828'
 musical_connections:
   collaborators:
-  - Art Farmer
-  - Art Blakey
-  - Dizzy Gillespie
-  - Lionel Hampton
-  - McCoy Tyner
-  - Curtis Fuller
+    - Art Farmer
+    - Art Blakey
+    - Dizzy Gillespie
+    - Lionel Hampton
+    - McCoy Tyner
+    - Curtis Fuller
   influenced:
-  - John Coltrane
-  - Miles Davis
-  - Quincy Jones
-  - McCoy Tyner
+    - John Coltrane
+    - Miles Davis
+    - Quincy Jones
+    - McCoy Tyner
   mentors:
-  - Tadd Dameron
-  - Arnett Cobb
+    - Tadd Dameron
+    - Arnett Cobb
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/benny-golson
-- https://www.selmer.fr/en/blogs/infos/benny-golson-legende-vivante-du-jazz
-- https://scecruises.com/2024/09/28/our-take-benny-golson-his-life-was-a-history-of-jazz/
-- https://en.wikipedia.org/wiki/Benny_Golson
-- https://www.tuneintoleadership.com/newsletter/jazz-master-tribute-benny-golson
-- https://jazztimes.com/features/profiles/benny-golson-old-school/
-- https://downbeat.com/archives/detail/benny-golson-fortunate-whispers1/P1
-- https://www.bennygolson.com
-- https://www.stlpr.org/show/jazz-unlimited/2016-07-10/the-music-of-benny-golson
-- https://amhistory.si.edu/jazz/Golson-Benny/Golson_Benny_Transcript.pdf
+  - 'https://www.arts.gov/honors/jazz/benny-golson'
+  - 'https://www.selmer.fr/en/blogs/infos/benny-golson-legende-vivante-du-jazz'
+  - >-
+    https://scecruises.com/2024/09/28/our-take-benny-golson-his-life-was-a-history-of-jazz/
+  - 'https://en.wikipedia.org/wiki/Benny_Golson'
+  - >-
+    https://www.tuneintoleadership.com/newsletter/jazz-master-tribute-benny-golson
+  - 'https://jazztimes.com/features/profiles/benny-golson-old-school/'
+  - 'https://downbeat.com/archives/detail/benny-golson-fortunate-whispers1/P1'
+  - 'https://www.bennygolson.com'
+  - >-
+    https://www.stlpr.org/show/jazz-unlimited/2016-07-10/the-music-of-benny-golson
+  - 'https://amhistory.si.edu/jazz/Golson-Benny/Golson_Benny_Transcript.pdf'
 spotify_data:
   followers: 892
   id: 3d1zE2R2ce1IGKNZdbnPwQ
   popularity: 17
-  url: https://open.spotify.com/artist/3d1zE2R2ce1IGKNZdbnPwQ
+  url: 'https://open.spotify.com/artist/3d1zE2R2ce1IGKNZdbnPwQ'
 status: active
 title: Benny Golson Quintet
+birth_date: '1929-01-25'
+artist_type: band
 ---
 
 ![](benny_golson_quintet.jpg)

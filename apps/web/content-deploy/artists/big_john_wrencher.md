@@ -2,50 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-02-10T01:50:54.126440'
 birth_date: '1923-02-12'
-birth_place: Sunflower, Mississippi, United States
+birth_place: 'Sunflower, Mississippi, United States'
 death_date: '1977-07-15'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:50:54.126451'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b7969ada-ac69-4483-85a4-d38949240d60
-  spotify: https://open.spotify.com/artist/01uTP2IUPKcMQQRsDOXIv6
-  wikipedia: https://en.wikipedia.org/wiki/Big_John_Wrencher
+  musicbrainz: 'https://musicbrainz.org/artist/b7969ada-ac69-4483-85a4-d38949240d60'
+  spotify: 'https://open.spotify.com/artist/01uTP2IUPKcMQQRsDOXIv6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_John_Wrencher'
 gender: Male
 genres:
-- blues
-- classic blues
-- modern blues
+  - blues
+  - classic blues
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/big_john_wrencher.jpg
 last_updated: '2026-02-10T01:50:54.126452'
 musical_connections:
   collaborators:
-  - Jimmy Rogers
-  - Claude "Blue Smitty" Smith
-  - Baby Boy Warren
-  - Little Buddy Thomas
-  - Playboy Vinson
-  - Robert Nighthawk
-  - Eddie Taylor
-  - Johnny Young
+    - Jimmy Rogers
+    - Claude "Blue Smitty" Smith
+    - Baby Boy Warren
+    - Little Buddy Thomas
+    - Playboy Vinson
+    - Robert Nighthawk
+    - Eddie Taylor
+    - Johnny Young
   influenced: []
   mentors: []
 musicbrainz_id: b7969ada-ac69-4483-85a4-d38949240d60
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Big_John_Wrencher
-- https://kids.kiddle.co/Big_John_Wrencher
-- https://mtzionmemorialfund.com/project/big-john-wrencher/
-- https://www.iheart.com/artist/big-john-wrencher-8561/
-- https://www.wirz.de/music/wrencher.htm
-- https://www.austinweeklynews.com/2014/07/18/big-john-wrencher/
+  - 'https://en.wikipedia.org/wiki/Big_John_Wrencher'
+  - 'https://kids.kiddle.co/Big_John_Wrencher'
+  - 'https://mtzionmemorialfund.com/project/big-john-wrencher/'
+  - 'https://www.iheart.com/artist/big-john-wrencher-8561/'
+  - 'https://www.wirz.de/music/wrencher.htm'
+  - 'https://www.austinweeklynews.com/2014/07/18/big-john-wrencher/'
 spotify_data:
   followers: 467
   id: 01uTP2IUPKcMQQRsDOXIv6
   popularity: 1
-  url: https://open.spotify.com/artist/01uTP2IUPKcMQQRsDOXIv6
+  url: 'https://open.spotify.com/artist/01uTP2IUPKcMQQRsDOXIv6'
 status: active
-title: BIG JOHN WRENCHER
+title: Big John Wrencher
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](big_john_wrencher.jpg)

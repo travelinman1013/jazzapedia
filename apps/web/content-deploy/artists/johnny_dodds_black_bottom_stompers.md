@@ -3,42 +3,48 @@ biography_enhanced_at: '2026-02-08T01:58:29.111280'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T01:58:29.111286'
 external_urls:
-  spotify: https://open.spotify.com/artist/6Hf61pN5c3W1TTzmLdptVL
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Dodds
+  spotify: 'https://open.spotify.com/artist/6Hf61pN5c3W1TTzmLdptVL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Dodds'
 genres:
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/johnny_dodds_black_bottom_stompers.jpg
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/johnny_dodds_black_bottom_stompers.jpg
 last_updated: '2026-02-08T01:58:29.111287'
 musical_connections:
   collaborators:
-  - Baby Dodds
-  - Joe King Oliver
-  - Louis Armstrong
-  - Jelly Roll Morton
-  - Natty Dominique
-  - Lovie Austin
+    - Baby Dodds
+    - Joe King Oliver
+    - Louis Armstrong
+    - Jelly Roll Morton
+    - Natty Dominique
+    - Lovie Austin
   influenced:
-  - Baby Dodds
+    - Baby Dodds
   mentors:
-  - Kid Ory
+    - Kid Ory
 network_extracted: true
-origin: Waveland, Mississippi, USA
+origin: 'Waveland, Mississippi, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Dodds
-- https://tomharrisonsax.com/discover/jazz-biographies/johnny-dodds-biography.html
-- https://aaregistry.org/story/johnny-dodds-clarenetist-born/
-- https://syncopatedtimes.com/profiles-in-jazz-the-legacy-of-johnny-and-baby-dodds/
-- https://syncopatedtimes.com/johnny-dodds-black-bottom-stompers/
-- https://www.iheart.com/artist/johnny-dodds-black-bottom-stompers-961141/
-- https://www.theaudiodb.com/artist/140804-Johnny-Dodds-Black-Bottom-Stompers
+  - 'https://en.wikipedia.org/wiki/Johnny_Dodds'
+  - >-
+    https://tomharrisonsax.com/discover/jazz-biographies/johnny-dodds-biography.html
+  - 'https://aaregistry.org/story/johnny-dodds-clarenetist-born/'
+  - >-
+    https://syncopatedtimes.com/profiles-in-jazz-the-legacy-of-johnny-and-baby-dodds/
+  - 'https://syncopatedtimes.com/johnny-dodds-black-bottom-stompers/'
+  - 'https://www.iheart.com/artist/johnny-dodds-black-bottom-stompers-961141/'
+  - 'https://www.theaudiodb.com/artist/140804-Johnny-Dodds-Black-Bottom-Stompers'
 spotify_data:
   followers: 433
   id: 6Hf61pN5c3W1TTzmLdptVL
   popularity: 6
-  url: https://open.spotify.com/artist/6Hf61pN5c3W1TTzmLdptVL
+  url: 'https://open.spotify.com/artist/6Hf61pN5c3W1TTzmLdptVL'
 status: active
 title: Johnny Dodds Black Bottom Stompers
+birth_place: 'Waveland, Mississippi, United States'
+birth_date: '1892-04-12'
+artist_type: band
 ---
 
 ![](johnny_dodds_black_bottom_stompers.jpg)

@@ -1,70 +1,72 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-06T01:08:44.178807'
-birth_date: '1968'
+birth_date: '1945-02-02'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:08:44.178816'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/570938b4-8fe5-44f9-ab43-9438feb03c6f
-  spotify: https://open.spotify.com/artist/0CXNdUUhv5Cw42dr0wWrjd
-  wikipedia: https://en.wikipedia.org/wiki/Honey_Cone
+  musicbrainz: 'https://musicbrainz.org/artist/570938b4-8fe5-44f9-ab43-9438feb03c6f'
+  spotify: 'https://open.spotify.com/artist/0CXNdUUhv5Cw42dr0wWrjd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Honey_Cone'
 genres:
-- northern soul
-- classic soul
-- motown
+  - northern soul
+  - classic soul
+  - motown
 image_path: 03_Resources/source_material/ArtistPortraits/honey_cone.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-02-06T01:08:44.178818'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 14071675-c96a-4834-b79e-c0543eaf8ec3
-  name: Shelly Clark
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 71f7416b-4c99-4eff-8283-bf0451e9bc59
-  name: Carolyn Willis
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 072328ca-d145-4fe9-9fc3-06305bafc4c8
-  name: Edna Wright
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 14071675-c96a-4834-b79e-c0543eaf8ec3
+    name: Shelly Clark
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 71f7416b-4c99-4eff-8283-bf0451e9bc59
+    name: Carolyn Willis
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 072328ca-d145-4fe9-9fc3-06305bafc4c8
+    name: Edna Wright
 musical_connections:
   collaborators:
-  - Edna Wright
-  - Carolyn Willis
-  - Shelly Clark
-  - Greg Perry
-  - General Johnson
+    - Edna Wright
+    - Carolyn Willis
+    - Shelly Clark
+    - Greg Perry
+    - General Johnson
   influenced:
-  - Martha & the Vandellas
-  - The Marvelettes
+    - Martha & the Vandellas
+    - The Marvelettes
   mentors:
-  - Eddie Holland
-  - Holland-Dozier-Holland (Brian Holland, Lamont Dozier, Eddie Holland)
+    - Eddie Holland
+    - 'Holland-Dozier-Holland (Brian Holland, Lamont Dozier, Eddie Holland)'
 musicbrainz_id: 570938b4-8fe5-44f9-ab43-9438feb03c6f
 network_extracted: true
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Honey_Cone
-- https://music.apple.com/us/artist/honey-cone/199092579
-- https://open.spotify.com/artist/0CXNdUUhv5Cw42dr0wWrjd
-- https://soulstrutter.blogspot.com/2023/02/edna-wright-aka-sandy-wynns-honey-cone.html
-- https://blackpast.org/african-american-history/honey-cone-1968-1973/
+  - 'https://en.wikipedia.org/wiki/Honey_Cone'
+  - 'https://music.apple.com/us/artist/honey-cone/199092579'
+  - 'https://open.spotify.com/artist/0CXNdUUhv5Cw42dr0wWrjd'
+  - >-
+    https://soulstrutter.blogspot.com/2023/02/edna-wright-aka-sandy-wynns-honey-cone.html
+  - 'https://blackpast.org/african-american-history/honey-cone-1968-1973/'
 spotify_data:
   followers: 12510
   id: 0CXNdUUhv5Cw42dr0wWrjd
   popularity: 24
-  url: https://open.spotify.com/artist/0CXNdUUhv5Cw42dr0wWrjd
+  url: 'https://open.spotify.com/artist/0CXNdUUhv5Cw42dr0wWrjd'
 status: active
-title: HONEY CONE
+title: Honey Cone
+death_date: '2020-09-12'
 ---
 
 ![](honey_cone.jpg)

@@ -1,62 +1,62 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-01T01:59:32.677077'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T01:59:32.677086'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d1440efb-87fb-486e-bfed-d667c9f3e4ef
-  spotify: https://open.spotify.com/artist/2dbFjCcHCIFfQrvvd24kcE
+  musicbrainz: 'https://musicbrainz.org/artist/d1440efb-87fb-486e-bfed-d667c9f3e4ef'
+  spotify: 'https://open.spotify.com/artist/2dbFjCcHCIFfQrvvd24kcE'
   wikipedia: ''
 genres:
-- brazilian jazz
+  - brazilian jazz
 image_path: 03_Resources/source_material/ArtistPortraits/grupo_batuque.jpg
 last_updated: '2026-03-01T01:59:32.677088'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ca70ca01-8b43-4198-b957-c075b8671399
-  name: Ivan Conti
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9117900c-d531-469a-85d6-598790b370ca
-  name: Joe Davis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fb0f13af-bd4c-41c5-a5ae-95494096c22b
-  name: Roc Hunter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ca70ca01-8b43-4198-b957-c075b8671399
+    name: Ivan Conti
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9117900c-d531-469a-85d6-598790b370ca
+    name: Joe Davis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fb0f13af-bd4c-41c5-a5ae-95494096c22b
+    name: Roc Hunter
 musical_connections:
   collaborators:
-  - Joe Davis
-  - Ivan Conti
-  - Wilson das Neves
-  - Dom Chacal
-  - Cidinho Moreira
-  - Leo Gandelman
-  - Nico Rezende
-  - Fabiola
-  - Claudemir De Silva
-  - Roc Hunter
-  - 4 Hero, Masters At Work
+    - Joe Davis
+    - Ivan Conti
+    - Wilson das Neves
+    - Dom Chacal
+    - Cidinho Moreira
+    - Leo Gandelman
+    - Nico Rezende
+    - Fabiola
+    - Claudemir De Silva
+    - Roc Hunter
+    - '4 Hero, Masters At Work'
   influenced: []
   mentors: []
 musicbrainz_id: d1440efb-87fb-486e-bfed-d667c9f3e4ef
 network_extracted: true
-origin: Rio de Janeiro, Brazil
+origin: 'Rio de Janeiro, Brazil'
 primary_source: perplexity
 research_sources:
-- https://www.faroutrecordings.com/artist/393661-grupo-batuque?lang=en_US
-- https://www.forcedexposure.com/Artists/GRUPO.BATUQUE.html
-- https://www.slipcue.com/music/brazil/aa_styles_batucada/A_01.html
-- https://www.liveone.com/artist/grupo-batuque/268232
-- https://www.allmusic.com/artist/grupo-batuque-mn0000652485
+  - 'https://www.faroutrecordings.com/artist/393661-grupo-batuque?lang=en_US'
+  - 'https://www.forcedexposure.com/Artists/GRUPO.BATUQUE.html'
+  - 'https://www.slipcue.com/music/brazil/aa_styles_batucada/A_01.html'
+  - 'https://www.liveone.com/artist/grupo-batuque/268232'
+  - 'https://www.allmusic.com/artist/grupo-batuque-mn0000652485'
 spotify_data:
   followers: 1546
   id: 2dbFjCcHCIFfQrvvd24kcE
   popularity: 10
-  url: https://open.spotify.com/artist/2dbFjCcHCIFfQrvvd24kcE
+  url: 'https://open.spotify.com/artist/2dbFjCcHCIFfQrvvd24kcE'
 status: active
 title: Grupo Batuque
 ---

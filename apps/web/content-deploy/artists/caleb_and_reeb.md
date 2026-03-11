@@ -3,44 +3,48 @@ biography_enhanced_at: '2026-02-23T03:03:26.736846'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:03:26.736893'
 external_urls:
-  spotify: https://open.spotify.com/artist/7o0lxTv9wt6rqJDUpFQoHT
+  spotify: 'https://open.spotify.com/artist/7o0lxTv9wt6rqJDUpFQoHT'
   wikipedia: ''
 genres:
-- bluegrass
-- cajun
-- americana
-- newgrass
+  - bluegrass
+  - cajun
+  - americana
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/caleb_and_reeb.jpg
 last_updated: '2026-02-23T03:03:26.736895'
 musical_connections:
   collaborators:
-  - Zach Sharpe
-  - Jack Kinney
-  - Brandon Godman
-  - Chris Scruggs
-  - Joel Savoy
-  - Foghorn Stringband
+    - Zach Sharpe
+    - Jack Kinney
+    - Brandon Godman
+    - Chris Scruggs
+    - Joel Savoy
+    - Foghorn Stringband
   influenced:
-  - Various bands and singers
+    - Various bands and singers
   mentors:
-  - Foghorn Stringband
+    - Foghorn Stringband
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://paulemerymusic.com/caleb-klauder-reeb-willms/
-- https://www.trailblazermag.com/features/quarantine-q-a-caleb-klauder-reeb-willms
-- https://calebklauder.com/about
-- https://www.southernsongsandstories.com/blog/2025/6/14/notes-from-country-cajun-and-bluegrass-far-western-bureau-with-caleb-klauder-and-reeb-willms
-- https://fliartists.com/artists/caleb-reeb/
-- https://centrum.org/faculty-profile/name/caleb-klauder/
-- https://californiabluegrass.org/band/caleb-reeb-and-the-cali-cutups/
+  - 'https://paulemerymusic.com/caleb-klauder-reeb-willms/'
+  - >-
+    https://www.trailblazermag.com/features/quarantine-q-a-caleb-klauder-reeb-willms
+  - 'https://calebklauder.com/about'
+  - >-
+    https://www.southernsongsandstories.com/blog/2025/6/14/notes-from-country-cajun-and-bluegrass-far-western-bureau-with-caleb-klauder-and-reeb-willms
+  - 'https://fliartists.com/artists/caleb-reeb/'
+  - 'https://centrum.org/faculty-profile/name/caleb-klauder/'
+  - 'https://californiabluegrass.org/band/caleb-reeb-and-the-cali-cutups/'
 spotify_data:
   followers: 42
   id: 7o0lxTv9wt6rqJDUpFQoHT
   popularity: 18
-  url: https://open.spotify.com/artist/7o0lxTv9wt6rqJDUpFQoHT
+  url: 'https://open.spotify.com/artist/7o0lxTv9wt6rqJDUpFQoHT'
 status: active
 title: Caleb & Reeb
+origin: 'San Juan Islands, Washington, USA (current home; originally Washington State)'
+artist_type: band
 ---
 
 ![](caleb_and_reeb.jpg)

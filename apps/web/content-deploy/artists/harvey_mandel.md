@@ -1,139 +1,140 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1969'
-  end: '1971'
-  instruments:
-  - guitar family
-  mbid: 815a0279-558c-4522-ac3b-6a1e259e95b5
-  name: Canned Heat
-- begin: '1990'
-  end: '1992'
-  instruments:
-  - guitar
-  mbid: 815a0279-558c-4522-ac3b-6a1e259e95b5
-  name: Canned Heat
-- begin: '1996'
-  end: '1999'
-  instruments:
-  - guitar
-  mbid: 815a0279-558c-4522-ac3b-6a1e259e95b5
-  name: Canned Heat
-- begin: '2010'
-  end: ''
-  instruments:
-  - guitar
-  mbid: 815a0279-558c-4522-ac3b-6a1e259e95b5
-  name: Canned Heat
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3d845604-a9db-49ad-a12b-f5926f0fbc5d
-  name: Charley Musselwhite's South Side Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c397c3f1-22f1-4fcb-8890-03f60a3629ba
-  name: Pure Food and Drug Act
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b71776cf-3a3b-4bf2-9640-d4ec3e3a556a
-  name: USA Union Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e9f664a7-8b4e-4e36-8a47-7d220c7cdda3
-  name: Acme Thunder
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3329c762-b49a-4265-a85c-4fccc7f6cbd9
-  name: The Barry Goldberg Reunion
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a41a7ae-25eb-49d2-aa63-8e0cdad8e67b
-  name: Chicago Blues Reunion
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 62244c0b-cf91-481b-9f52-e7e6bf29eb76
-  name: Barry Goldberg & Friends
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 68ad00c3-f677-414f-b85b-ea3c23ee6ae8
-  name: The Barry Goldberg Blues Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: e5787782-95d0-4438-beb5-e02fe959c560
-  name: Harvey Mandel & The Snake Crew
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4d6d725d-2f5b-485b-8c70-d1b654751f3a
-  name: Nightfire
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3d65449f-57d0-47fe-af9a-28d6e230504f
-  name: The Psychedelic Guitar Circus
+  - begin: '1969'
+    end: '1971'
+    instruments:
+      - guitar family
+    mbid: 815a0279-558c-4522-ac3b-6a1e259e95b5
+    name: Canned Heat
+  - begin: '1990'
+    end: '1992'
+    instruments:
+      - guitar
+    mbid: 815a0279-558c-4522-ac3b-6a1e259e95b5
+    name: Canned Heat
+  - begin: '1996'
+    end: '1999'
+    instruments:
+      - guitar
+    mbid: 815a0279-558c-4522-ac3b-6a1e259e95b5
+    name: Canned Heat
+  - begin: '2010'
+    end: ''
+    instruments:
+      - guitar
+    mbid: 815a0279-558c-4522-ac3b-6a1e259e95b5
+    name: Canned Heat
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3d845604-a9db-49ad-a12b-f5926f0fbc5d
+    name: Charley Musselwhite's South Side Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c397c3f1-22f1-4fcb-8890-03f60a3629ba
+    name: Pure Food and Drug Act
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b71776cf-3a3b-4bf2-9640-d4ec3e3a556a
+    name: USA Union Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e9f664a7-8b4e-4e36-8a47-7d220c7cdda3
+    name: Acme Thunder
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3329c762-b49a-4265-a85c-4fccc7f6cbd9
+    name: The Barry Goldberg Reunion
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a41a7ae-25eb-49d2-aa63-8e0cdad8e67b
+    name: Chicago Blues Reunion
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 62244c0b-cf91-481b-9f52-e7e6bf29eb76
+    name: Barry Goldberg & Friends
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 68ad00c3-f677-414f-b85b-ea3c23ee6ae8
+    name: The Barry Goldberg Blues Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: e5787782-95d0-4438-beb5-e02fe959c560
+    name: Harvey Mandel & The Snake Crew
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4d6d725d-2f5b-485b-8c70-d1b654751f3a
+    name: Nightfire
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3d65449f-57d0-47fe-af9a-28d6e230504f
+    name: The Psychedelic Guitar Circus
 biography_enhanced_at: '2026-02-26T01:16:25.928552'
 birth_date: '1945-03-11'
-birth_place: Detroit
+birth_place: 'Detroit, Michigan, United States'
 disambiguation: American guitarist
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:16:25.928562'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e3cd8c79-46bc-481f-905f-480847ada894
-  spotify: https://open.spotify.com/artist/3Wrfz3A5PMc9fle2Tchv3N
-  wikipedia: https://en.wikipedia.org/wiki/Harvey_Mandel
+  musicbrainz: 'https://musicbrainz.org/artist/e3cd8c79-46bc-481f-905f-480847ada894'
+  spotify: 'https://open.spotify.com/artist/3Wrfz3A5PMc9fle2Tchv3N'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harvey_Mandel'
 gender: Male
 genres:
-- blues rock
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/harvey_mandel.jpg
 instruments:
-- guitar family
-- guitar
-- eponymous
+  - guitar family
+  - guitar
+  - eponymous
 last_updated: '2026-02-26T01:16:25.928564'
 musical_connections:
   collaborators:
-  - Charlie Musselwhite
-  - Canned Heat
-  - John Mayall
-  - The Rolling Stones
-  - Pure Food and Drug Act
-  - Ron Wood
+    - Charlie Musselwhite
+    - Canned Heat
+    - John Mayall
+    - The Rolling Stones
+    - Pure Food and Drug Act
+    - Ron Wood
   influenced:
-  - Eddie Van Halen
-  - Stanley Jordan
+    - Eddie Van Halen
+    - Stanley Jordan
   mentors:
-  - Buddy Guy
-  - Barry Goldberg
+    - Buddy Guy
+    - Barry Goldberg
 musicbrainz_id: e3cd8c79-46bc-481f-905f-480847ada894
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Harvey+Mandel/+wiki
-- https://www.premierguitar.com/artists/psych-blues-guitar-hero-harvey-mandel
-- https://en.wikipedia.org/wiki/Harvey_Mandel
-- https://www.vintageguitar.com/58623/fretprints-harvey-mandel/
-- https://www.allmusic.com/artist/harvey-mandel-mn0000668511
+  - 'https://www.last.fm/music/Harvey+Mandel/+wiki'
+  - 'https://www.premierguitar.com/artists/psych-blues-guitar-hero-harvey-mandel'
+  - 'https://en.wikipedia.org/wiki/Harvey_Mandel'
+  - 'https://www.vintageguitar.com/58623/fretprints-harvey-mandel/'
+  - 'https://www.allmusic.com/artist/harvey-mandel-mn0000668511'
 spotify_data:
   followers: 8796
   id: 3Wrfz3A5PMc9fle2Tchv3N
   popularity: 21
-  url: https://open.spotify.com/artist/3Wrfz3A5PMc9fle2Tchv3N
+  url: 'https://open.spotify.com/artist/3Wrfz3A5PMc9fle2Tchv3N'
 status: active
 tags:
-- blues rock
-- jazz
-- jazz-rock
+  - blues rock
+  - jazz
+  - jazz-rock
 title: Harvey Mandel
+origin: 'Morton Grove, Illinois, United States'
 ---
 
 ![](harvey_mandel.jpg)

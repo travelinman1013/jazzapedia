@@ -1,50 +1,54 @@
 ---
 biography_enhanced_at: '2026-02-22T01:48:14.115763'
-birth_place: Abidjan, Ivory Coast
+birth_place: 'Abidjan, Ivory Coast, Ivory Coast'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:48:14.115772'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/070ee2a6-9cc9-49d6-8f88-01d3237e5298
-  spotify: https://open.spotify.com/artist/1DozOdBFHPtwvaGxFwfa0J
+  musicbrainz: 'https://musicbrainz.org/artist/070ee2a6-9cc9-49d6-8f88-01d3237e5298'
+  spotify: 'https://open.spotify.com/artist/1DozOdBFHPtwvaGxFwfa0J'
   wikipedia: Not found in search results
 genres:
-- zouk
-- rumba congolaise
-- kompa
-- coupé décalé
-- kizomba
-- ndombolo
-- bikutsi
+  - zouk
+  - rumba congolaise
+  - kompa
+  - coupé décalé
+  - kizomba
+  - ndombolo
+  - bikutsi
 image_path: 03_Resources/source_material/ArtistPortraits/monique_seka.jpg
 last_updated: '2026-02-22T01:48:14.115773'
 musical_connections:
   collaborators:
-  - Manu Lima
-  - Dominique Richard
-  - Oliver N'Goma
+    - Manu Lima
+    - Dominique Richard
+    - Oliver N'Goma
   influenced: []
   mentors:
-  - Okoi Séka
-  - Gun Morgan
-  - Les Sœurs Comoé
+    - Okoi Séka
+    - Gun Morgan
+    - Les Sœurs Comoé
 musicbrainz_id: 070ee2a6-9cc9-49d6-8f88-01d3237e5298
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=B2wztG9MOPA
-- https://www.monitor.co.ug/uganda/lifestyle/entertainment/queen-of-afro-zouk-looks-back-on-career-3944652
-- https://www.last.fm/music/Monique+Seka/+wiki
-- https://www.theeastafrican.co.ke/tea/magazine/queen-of-afro-zouk-coming-to-kampala-3922762
-- https://www.musiques-afrique.net/civ/art-seka.html
-- https://www.iheart.com/artist/monique-seka-30018652/
-- http://www.nts.live/artists/43995-monique-seka
+  - 'https://www.youtube.com/watch?v=B2wztG9MOPA'
+  - >-
+    https://www.monitor.co.ug/uganda/lifestyle/entertainment/queen-of-afro-zouk-looks-back-on-career-3944652
+  - 'https://www.last.fm/music/Monique+Seka/+wiki'
+  - >-
+    https://www.theeastafrican.co.ke/tea/magazine/queen-of-afro-zouk-coming-to-kampala-3922762
+  - 'https://www.musiques-afrique.net/civ/art-seka.html'
+  - 'https://www.iheart.com/artist/monique-seka-30018652/'
+  - 'http://www.nts.live/artists/43995-monique-seka'
 spotify_data:
   followers: 10249
   id: 1DozOdBFHPtwvaGxFwfa0J
   popularity: 29
-  url: https://open.spotify.com/artist/1DozOdBFHPtwvaGxFwfa0J
+  url: 'https://open.spotify.com/artist/1DozOdBFHPtwvaGxFwfa0J'
 status: active
 title: Monique Seka
+birth_date: '1965-11-22'
+artist_type: person
 ---
 
 ![](monique_seka.jpg)

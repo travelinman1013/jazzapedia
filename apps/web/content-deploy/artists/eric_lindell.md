@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-15T01:55:15.853082'
-birth_place: San Mateo, California, United States
+birth_place: 'San Mateo, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:55:15.853092'
 external_urls:
-  spotify: https://open.spotify.com/artist/6w8FACwOtRQh9LrVlxClPX
-  wikipedia: https://en.wikipedia.org/wiki/Eric_Lindell
+  spotify: 'https://open.spotify.com/artist/6w8FACwOtRQh9LrVlxClPX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eric_Lindell'
 genres:
-- modern blues
-- blues
-- blues rock
+  - modern blues
+  - blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/eric_lindell.jpg
 last_updated: '2026-02-15T01:55:15.853094'
 musical_connections:
   collaborators:
-  - Ivan Neville
-  - Stanton Moore
-  - Harold Ray Brown
-  - Dragon Smoke
+    - Ivan Neville
+    - Stanton Moore
+    - Harold Ray Brown
+    - Dragon Smoke
   influenced: []
   mentors:
-  - Buddy Guy
-  - Junior Wells
-  - Stevie Wonder
+    - Buddy Guy
+    - Junior Wells
+    - Stevie Wonder
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.alligator.com/artists/Eric-Lindell/
-- https://en.wikipedia.org/wiki/Eric_Lindell
-- https://www.newmusicforoldfolks.com/single-post/2015/10/07/eric-lindell-1
-- https://houmatimes.com/concerts/bob-profile-eric-lindell/
-- https://www.ericlindell.com
-- https://www.neworleans.com/listing/eric-lindell/46385/
-- https://www.allmusic.com/artist/eric-lindell-mn0000558514
+  - 'https://www.alligator.com/artists/Eric-Lindell/'
+  - 'https://en.wikipedia.org/wiki/Eric_Lindell'
+  - 'https://www.newmusicforoldfolks.com/single-post/2015/10/07/eric-lindell-1'
+  - 'https://houmatimes.com/concerts/bob-profile-eric-lindell/'
+  - 'https://www.ericlindell.com'
+  - 'https://www.neworleans.com/listing/eric-lindell/46385/'
+  - 'https://www.allmusic.com/artist/eric-lindell-mn0000558514'
 spotify_data:
   followers: 35046
   id: 6w8FACwOtRQh9LrVlxClPX
   popularity: 37
-  url: https://open.spotify.com/artist/6w8FACwOtRQh9LrVlxClPX
+  url: 'https://open.spotify.com/artist/6w8FACwOtRQh9LrVlxClPX'
 status: active
 title: Eric Lindell
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](eric_lindell.jpg)

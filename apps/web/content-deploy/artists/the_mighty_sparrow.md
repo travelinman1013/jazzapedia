@@ -1,41 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-30T01:19:16.696157'
-birth_place: Grand Roy, Grenada
+birth_place: 'Grand Roy, Grenada, Grenada'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:19:16.696167'
 external_urls:
-  spotify: https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w
-  wikipedia: https://en.wikipedia.org/wiki/Mighty_Sparrow
+  spotify: 'https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mighty_Sparrow'
 genres:
-- calypso
-- soca
-- parang
+  - calypso
+  - soca
+  - parang
 image_path: 03_Resources/source_material/ArtistPortraits/the_mighty_sparrow.jpg
 last_updated: '2026-01-30T01:19:16.696168'
 musical_connections:
   collaborators:
-  - Lord Melody
-  - Harry Belafonte
+    - Lord Melody
+    - Harry Belafonte
   influenced: []
   mentors:
-  - Catholic school choir
+    - Catholic school choir
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mighty_Sparrow
-- https://www.mightysparrow.com/the-mighty-sparrow-biography/
-- https://calypsoglobal.weebly.com/undisputed-the-mighty-sparrow.html
-- https://caricom.org/personalities/dr-slinger-francisco-the-mighty-sparrow/
-- https://www.encyclopedia.com/arts/culture-magazines/mighty-sparrow
-- https://www.roughtrade.com/artist/the-mighty-sparrow
-- https://nycaribnews.com/the-mighty-sparrow-turns-90-calypso-king-of-the-world/
+  - 'https://en.wikipedia.org/wiki/Mighty_Sparrow'
+  - 'https://www.mightysparrow.com/the-mighty-sparrow-biography/'
+  - 'https://calypsoglobal.weebly.com/undisputed-the-mighty-sparrow.html'
+  - 'https://caricom.org/personalities/dr-slinger-francisco-the-mighty-sparrow/'
+  - 'https://www.encyclopedia.com/arts/culture-magazines/mighty-sparrow'
+  - 'https://www.roughtrade.com/artist/the-mighty-sparrow'
+  - >-
+    https://nycaribnews.com/the-mighty-sparrow-turns-90-calypso-king-of-the-world/
 spotify_data:
   followers: 26049
   id: 4MFEUloFYnm8U4OAGWQH2w
   popularity: 29
-  url: https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w
+  url: 'https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w'
 status: active
-title: the mighty sparrow
+title: The Mighty Sparrow
+origin: 'Port of Spain, Trinidad and Tobago, Trinidad and Tobago'
+birth_date: '1935-07-09'
+artist_type: person
 ---
 
 ![](the_mighty_sparrow.jpg)

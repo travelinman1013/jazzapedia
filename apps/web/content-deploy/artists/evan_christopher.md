@@ -1,48 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-01T01:23:36.172883'
-birth_place: Long Beach, California, U.S.
+birth_place: 'Long Beach, California, U.S.'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:23:36.172889'
 external_urls:
-  spotify: https://open.spotify.com/artist/5hvHnEOmNB3wP7yIDhCPYm
-  wikipedia: https://en.wikipedia.org/wiki/Evan_Christopher
+  spotify: 'https://open.spotify.com/artist/5hvHnEOmNB3wP7yIDhCPYm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Evan_Christopher'
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/evan_christopher.jpg
 last_updated: '2026-02-01T01:23:36.172890'
 musical_connections:
   collaborators:
-  - Jim Cullum Jazz Band
-  - Dick Hyman
-  - Bucky Pizzarelli
-  - Tom McDermott
-  - A.J. Croce
-  - New Orleans Jazz Orchestra (Irvin Mayfield)
-  - Al Hirt
-  - Galactic
+    - Jim Cullum Jazz Band
+    - Dick Hyman
+    - Bucky Pizzarelli
+    - Tom McDermott
+    - A.J. Croce
+    - New Orleans Jazz Orchestra (Irvin Mayfield)
+    - Al Hirt
+    - Galactic
   influenced: []
   mentors:
-  - Kenny Davern
-  - Tony Scott
-  - George Probert
-  - Marshall Hawkins
-  - Gary Bovyer
+    - Kenny Davern
+    - Tony Scott
+    - George Probert
+    - Marshall Hawkins
+    - Gary Bovyer
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/evan-christopher/
-- https://en.wikipedia.org/wiki/Evan_Christopher
-- https://www.clarinetroad.com/about/
-- https://syncopatedtimes.com/evan-christopher-traveling-the-clarinet-road/
-- http://www.bebopified.com/2010/03/interview-with-evan-christopher-part-1.html
-- https://www.wwno.org/show/american-routes/2025-02-07/american-routes-shortcuts-evan-christopher
+  - 'https://www.allaboutjazz.com/musicians/evan-christopher/'
+  - 'https://en.wikipedia.org/wiki/Evan_Christopher'
+  - 'https://www.clarinetroad.com/about/'
+  - 'https://syncopatedtimes.com/evan-christopher-traveling-the-clarinet-road/'
+  - >-
+    http://www.bebopified.com/2010/03/interview-with-evan-christopher-part-1.html
+  - >-
+    https://www.wwno.org/show/american-routes/2025-02-07/american-routes-shortcuts-evan-christopher
 spotify_data:
   followers: 2387
   id: 5hvHnEOmNB3wP7yIDhCPYm
   popularity: 19
-  url: https://open.spotify.com/artist/5hvHnEOmNB3wP7yIDhCPYm
+  url: 'https://open.spotify.com/artist/5hvHnEOmNB3wP7yIDhCPYm'
 status: active
 title: Evan Christopher
+birth_date: '1969-08-31'
+artist_type: person
 ---
 
 ![](evan_christopher.jpg)

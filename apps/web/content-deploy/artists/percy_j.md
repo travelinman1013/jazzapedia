@@ -1,38 +1,40 @@
 ---
 biography_enhanced_at: '2026-02-25T02:04:34.593757'
-birth_place: Llandrindod Wells, Powys, Wales, United Kingdom
+birth_place: 'Llandrindod Wells, Powys, Wales, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:04:34.593766'
 external_urls:
-  spotify: https://open.spotify.com/artist/3tEE1OlE32IMEEYjkUymys
+  spotify: 'https://open.spotify.com/artist/3tEE1OlE32IMEEYjkUymys'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/percy_j.jpg
 last_updated: '2026-02-25T02:04:34.593768'
 musical_connections:
   collaborators:
-  - Brand X
-  - Brian Eno
-  - Phil Collins
-  - Steve Hackett
-  - David Sylvian
+    - Brand X
+    - Brian Eno
+    - Phil Collins
+    - Steve Hackett
+    - David Sylvian
   influenced: []
   mentors:
-  - Charles Mingus
+    - Charles Mingus
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Percy+Jones/+wiki
-- https://bassmusicianmagazine.com/2022/03/interview-with-bassist-percy-jones/
-- https://alchetron.com/Percy-Jones-(musician)
-- https://www.allmusic.com/artist/percy-jones-mn0000308478
+  - 'https://www.last.fm/music/Percy+Jones/+wiki'
+  - 'https://bassmusicianmagazine.com/2022/03/interview-with-bassist-percy-jones/'
+  - 'https://alchetron.com/Percy-Jones-(musician)'
+  - 'https://www.allmusic.com/artist/percy-jones-mn0000308478'
 spotify_data:
   followers: 44033
   id: 3tEE1OlE32IMEEYjkUymys
   popularity: 33
-  url: https://open.spotify.com/artist/3tEE1OlE32IMEEYjkUymys
+  url: 'https://open.spotify.com/artist/3tEE1OlE32IMEEYjkUymys'
 status: active
-title: percy J
+title: Percy J
+birth_date: '1947-12-03'
+artist_type: person
 ---
 
 ![](percy_j.jpg)

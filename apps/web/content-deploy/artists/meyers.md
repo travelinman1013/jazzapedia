@@ -1,40 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-21T01:35:09.767337'
-birth_place: Near Austin, Texas, United States
+birth_place: 'Near Austin, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:35:09.767347'
 external_urls:
-  spotify: https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO
-  wikipedia: https://en.wikipedia.org/wiki/Ty_Myers
+  spotify: 'https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ty_Myers'
 genres:
-- country
+  - country
 image_path: 03_Resources/source_material/ArtistPortraits/meyers.jpg
 last_updated: '2026-02-21T01:35:09.767348'
 musical_connections:
   collaborators:
-  - Willie Nelson
-  - Randy Rogers Band
-  - Wade Bowen
-  - Cody Johnson
-  - Luke Combs
+    - Willie Nelson
+    - Randy Rogers Band
+    - Wade Bowen
+    - Cody Johnson
+    - Luke Combs
   influenced: []
   mentors:
-  - Father (unnamed)
+    - Father (unnamed)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ty_Myers
-- https://www.allamericanspeakers.com/celebritytalentbios/Ty+Myers/464290
-- https://www.songwriteruniverse.com/ty-myers-the-select-ends-of-the-earth/
-- https://www.famousbirthdays.com/people/ty-myers.html
-- https://www.tymyersmusic.com/about
+  - 'https://en.wikipedia.org/wiki/Ty_Myers'
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Ty+Myers/464290'
+  - 'https://www.songwriteruniverse.com/ty-myers-the-select-ends-of-the-earth/'
+  - 'https://www.famousbirthdays.com/people/ty-myers.html'
+  - 'https://www.tymyersmusic.com/about'
 spotify_data:
   followers: 411416
   id: 1Gh0pCAxpjw0Iq3JMoVAwO
   popularity: 68
-  url: https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO
+  url: 'https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO'
 status: active
-title: meyers
+title: Meyers
+birth_date: '2007-07-12'
+artist_type: person
 ---
 
 ![](meyers.jpg)

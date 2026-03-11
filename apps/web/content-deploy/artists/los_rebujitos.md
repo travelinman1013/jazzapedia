@@ -1,51 +1,52 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-01T02:02:50.654187'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:02:50.654196'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f3ff6b51-b954-4435-9fc4-7267fab1aaf9
-  spotify: https://open.spotify.com/artist/6v8MdMs2ByHLXUdWonWFPK
+  musicbrainz: 'https://musicbrainz.org/artist/f3ff6b51-b954-4435-9fc4-7267fab1aaf9'
+  spotify: 'https://open.spotify.com/artist/6v8MdMs2ByHLXUdWonWFPK'
   wikipedia: ''
 genres:
-- flamenco
-- flamenco pop
-- flamenco urbano
+  - flamenco
+  - flamenco pop
+  - flamenco urbano
 image_path: 03_Resources/source_material/ArtistPortraits/los_rebujitos.jpg
 last_updated: '2026-03-01T02:02:50.654198'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 84c2d653-0317-4d87-bac1-564a6d85cb60
-  name: Yerai Blanco
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 84c2d653-0317-4d87-bac1-564a6d85cb60
+    name: Yerai Blanco
 musical_connections:
   collaborators:
-  - Zinkiyos
-  - La Húngara
-  - Marko Katier and Aitor García
+    - Zinkiyos
+    - La Húngara
+    - Marko Katier and Aitor García
   influenced: []
   mentors: []
 musicbrainz_id: f3ff6b51-b954-4435-9fc4-7267fab1aaf9
 network_extracted: true
-origin: Tarifa, Cádiz, Spain
+origin: 'Tarifa, Cádiz, Spain'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Los+Rebujitos/+wiki
-- https://www.famousbirthdays.com/bands/los-rebujitos.html
-- https://www.allmusic.com/artist/los-rebujitos-mn0002078795
-- https://www.viberate.com/artist/los-rebujitos/
-- https://www.iheart.com/artist/los-rebujitos-83796/
-- https://catavino.net/los-rebujitos-mixed-drinks-traditionally-savored-during-the-andalusian-festival-feria-del-caballo/
-- https://www.shazam.com/en-us/artist/los-rebujitos/286869411
-- http://sevillascope.blogspot.com/2014/02/flamenquito-whats-that.html
+  - 'https://www.last.fm/music/Los+Rebujitos/+wiki'
+  - 'https://www.famousbirthdays.com/bands/los-rebujitos.html'
+  - 'https://www.allmusic.com/artist/los-rebujitos-mn0002078795'
+  - 'https://www.viberate.com/artist/los-rebujitos/'
+  - 'https://www.iheart.com/artist/los-rebujitos-83796/'
+  - >-
+    https://catavino.net/los-rebujitos-mixed-drinks-traditionally-savored-during-the-andalusian-festival-feria-del-caballo/
+  - 'https://www.shazam.com/en-us/artist/los-rebujitos/286869411'
+  - 'http://sevillascope.blogspot.com/2014/02/flamenquito-whats-that.html'
 spotify_data:
   followers: 594996
   id: 6v8MdMs2ByHLXUdWonWFPK
   popularity: 54
-  url: https://open.spotify.com/artist/6v8MdMs2ByHLXUdWonWFPK
+  url: 'https://open.spotify.com/artist/6v8MdMs2ByHLXUdWonWFPK'
 status: active
-title: los rebujitos
+title: Los Rebujitos
 ---
 
 ![](los_rebujitos.jpg)

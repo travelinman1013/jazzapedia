@@ -1,44 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-06T01:12:01.082879'
-birth_place: Lake Charles, Louisiana, United States (birthplace); Fayetteville, Arkansas,
+birth_place: >-
+  Lake Charles, Louisiana, United States (birthplace); Fayetteville, Arkansas,
   United States (current residence)
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:12:01.082888'
 external_urls:
-  spotify: https://open.spotify.com/artist/1sm32z0weLp0tdr0T2wvUg
+  spotify: 'https://open.spotify.com/artist/1sm32z0weLp0tdr0T2wvUg'
   wikipedia: null
 genres:
-- americana
-- alt country
-- honky tonk
+  - americana
+  - alt country
+  - honky tonk
 image_path: 03_Resources/source_material/ArtistPortraits/dylan_earl.jpg
 last_updated: '2026-02-06T01:12:01.082890'
 musical_connections:
   collaborators:
-  - Kurt DeLashmet
-  - Nick Shoulders
-  - Willi Carlisle
+    - Kurt DeLashmet
+    - Nick Shoulders
+    - Willi Carlisle
   influenced: []
   mentors:
-  - Subiaco Abbey Monk (unnamed)
+    - Subiaco Abbey Monk (unnamed)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://garholerecords.com/collections/dylan-earl
-- https://www.pastemagazine.com/music/dylan-earl/dylan-earl-is-reclaiming-country-musics-working-class-heritage
-- https://thebluegrasssituation.com/read/outlaw-country-thatll-make-you-smile/
-- https://dylanearl.com/home
-- https://kxua.com/2025/10/03/inhaling-arkansas-dylan-earl-folk-heroes-of-the-common-mans-struggle-and-a-few-broken-toes/
-- https://cactusclubmilwaukee.com/artists/dylan-earl/
-- https://rootsymusic.se/en/artist/dylan-earl/
-- https://crystalbridges.org/calendar/july-31-forest-concert/
+  - 'https://garholerecords.com/collections/dylan-earl'
+  - >-
+    https://www.pastemagazine.com/music/dylan-earl/dylan-earl-is-reclaiming-country-musics-working-class-heritage
+  - 'https://thebluegrasssituation.com/read/outlaw-country-thatll-make-you-smile/'
+  - 'https://dylanearl.com/home'
+  - >-
+    https://kxua.com/2025/10/03/inhaling-arkansas-dylan-earl-folk-heroes-of-the-common-mans-struggle-and-a-few-broken-toes/
+  - 'https://cactusclubmilwaukee.com/artists/dylan-earl/'
+  - 'https://rootsymusic.se/en/artist/dylan-earl/'
+  - 'https://crystalbridges.org/calendar/july-31-forest-concert/'
 spotify_data:
   followers: 11871
   id: 1sm32z0weLp0tdr0T2wvUg
   popularity: 34
-  url: https://open.spotify.com/artist/1sm32z0weLp0tdr0T2wvUg
+  url: 'https://open.spotify.com/artist/1sm32z0weLp0tdr0T2wvUg'
 status: active
 title: Dylan Earl
+origin: 'Fayetteville, Arkansas, United States'
+artist_type: person
 ---
 
 ![](dylan_earl.jpg)

@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-13T01:28:08.574464'
-birth_place: Spanish Town, Jamaica
+birth_place: 'Spanish Town, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:28:08.574475'
 external_urls:
-  spotify: https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd
-  wikipedia: https://en.wikipedia.org/wiki/Grace_Jones
+  spotify: 'https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Grace_Jones'
 genres:
-- art pop
+  - art pop
 image_path: 03_Resources/source_material/ArtistPortraits/grace_jones.jpg
 last_updated: '2026-02-13T01:28:08.574477'
 musical_connections:
   collaborators:
-  - Jean-Paul Goude
-  - Sly & Robbie
-  - Trevor Horn
-  - Ivor Guest
+    - Jean-Paul Goude
+    - Sly & Robbie
+    - Trevor Horn
+    - Ivor Guest
   influenced:
-  - Beyoncé
-  - Gorillaz
-  - Janelle Monáe
+    - Beyoncé
+    - Gorillaz
+    - Janelle Monáe
   mentors:
-  - Andy Warhol
+    - Andy Warhol
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://gracejones.com
-- https://www.britannica.com/biography/Grace-Jones
-- https://en.wikipedia.org/wiki/Grace_Jones
-- https://www.youtube.com/watch?v=fwTdhNOqGJM
+  - 'https://gracejones.com'
+  - 'https://www.britannica.com/biography/Grace-Jones'
+  - 'https://en.wikipedia.org/wiki/Grace_Jones'
+  - 'https://www.youtube.com/watch?v=fwTdhNOqGJM'
 spotify_data:
   followers: 375726
   id: 2f9ZiYA2ic1r1voObUimdd
   popularity: 52
-  url: https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd
+  url: 'https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd'
 status: active
 title: Grace Jones
+birth_date: '1948-05-19'
+artist_type: person
 ---
 
 ![](grace_jones.jpg)

@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-02-04T01:20:42.179988'
-birth_place: London, England, UK (born); Oxfordshire, England, UK (raised)
+birth_place: 'London, England, UK (born); Oxfordshire, England, UK (raised)'
 enhancement_provider: perplexity
 entry_created: '2026-02-04T01:20:42.179998'
 external_urls:
-  spotify: https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB
+  spotify: 'https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB'
   wikipedia: ''
 genres:
-- retro soul
+  - retro soul
 image_path: 03_Resources/source_material/ArtistPortraits/common_saints.jpg
 last_updated: '2026-02-04T01:20:42.179999'
 musical_connections:
   collaborators:
-  - Winston Williams
-  - Josh Arcoleo
-  - Simon Beddoe
-  - Vancouver Sleep Clinic
-  - Mychelle
-  - Sam, Mike, Dan
+    - Winston Williams
+    - Josh Arcoleo
+    - Simon Beddoe
+    - Vancouver Sleep Clinic
+    - Mychelle
+    - 'Sam, Mike, Dan'
   influenced: []
   mentors:
-  - Pink Floyd
-  - Michael Jackson
-  - Roy Ayers
+    - Pink Floyd
+    - Michael Jackson
+    - Roy Ayers
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://banbantonton.com/2021/11/04/interview-common-saints/
-- https://www.viberate.com/artist/common-saints/
-- https://commonsaints.bandcamp.com
-- https://theindiegrid.co.uk/reviews/equinox-common-saints-finds-clarity-in-contrast/
+  - 'https://banbantonton.com/2021/11/04/interview-common-saints/'
+  - 'https://www.viberate.com/artist/common-saints/'
+  - 'https://commonsaints.bandcamp.com'
+  - >-
+    https://theindiegrid.co.uk/reviews/equinox-common-saints-finds-clarity-in-contrast/
 spotify_data:
   followers: 95708
   id: 5UA8O7xDhZ74ebRYT0XOxB
   popularity: 60
-  url: https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB
+  url: 'https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB'
 status: active
 title: Common Saints
+origin: 'South London, England, United Kingdom'
+artist_type: person
 ---
 
 ![](common_saints.jpg)

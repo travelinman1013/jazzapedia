@@ -1,147 +1,148 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-05T01:51:04.830052'
 birth_date: '1984'
 disambiguation: US alternative rock band
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:51:04.830060'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c0eee88b-47f2-4cd2-ac48-a045e902a432
-  spotify: https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu
-  wikipedia: https://en.wikipedia.org/wiki/Ween
+  musicbrainz: 'https://musicbrainz.org/artist/c0eee88b-47f2-4cd2-ac48-a045e902a432'
+  spotify: 'https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ween'
 genres:
-- neo-psychedelic
+  - neo-psychedelic
 image_path: 03_Resources/source_material/ArtistPortraits/ween.jpg
 instruments:
-- original
-- additional
-- drums (drum set)
-- keyboard
-- bass guitar
+  - original
+  - additional
+  - drums (drum set)
+  - keyboard
+  - bass guitar
 last_updated: '2026-02-05T01:51:04.830062'
 members:
-- begin: '1984'
-  end: '2012'
-  instruments:
-  - original
-  mbid: 526c5b19-e016-49bc-a8c3-5b196a0e47f4
-  name: Dean Ween
-- begin: '1984'
-  end: '2012'
-  instruments:
-  - original
-  mbid: 174ee388-0620-4665-aad6-af8282921c76
-  name: Gene Ween
-- begin: '1986'
-  end: '2000'
-  instruments:
-  - additional
-  mbid: 49033c44-be8d-494f-8b4b-065cab4c144e
-  name: Mean Ween
-- begin: '1987'
-  end: '2007'
-  instruments: []
-  mbid: afdb875c-cca9-4556-87c1-62f635688b13
-  name: Andrew Weiss
-- begin: '1991'
-  end: '1991'
-  instruments:
-  - additional
-  mbid: d898e082-70d1-4a86-ac8e-ecdf89892994
-  name: Kramer
-- begin: '1994'
-  end: '2012'
-  instruments:
-  - drums (drum set)
-  mbid: 75f6f50f-87bd-4f4c-905b-831f3488252f
-  name: Claude Coleman, Jr.
-- begin: '1996'
-  end: '1996'
-  instruments:
-  - additional
-  mbid: 21ca6f87-29e2-44d9-a888-7322e7ca1c05
-  name: Matt Kohut
-- begin: '1996'
-  end: '2012'
-  instruments:
-  - keyboard
-  mbid: ddfb1640-4f02-44af-89ff-da39bc8dc2bd
-  name: Glenn McClelland
-- begin: '1997'
-  end: '2012'
-  instruments:
-  - bass guitar
-  mbid: 2b239eb1-b706-4c9a-bda5-607385a25555
-  name: Dave Dreiwitz
-- begin: '2002'
-  end: '2002'
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: 1ba97964-8d70-4b33-a361-d1a4ed222672
-  name: Josh Freese
-- begin: '2016'
-  end: '2024-08-29'
-  instruments:
-  - drums (drum set)
-  mbid: 75f6f50f-87bd-4f4c-905b-831f3488252f
-  name: Claude Coleman, Jr.
-- begin: '2016'
-  end: '2024-08-29'
-  instruments:
-  - bass guitar
-  mbid: 2b239eb1-b706-4c9a-bda5-607385a25555
-  name: Dave Dreiwitz
-- begin: '2016'
-  end: '2024-08-29'
-  instruments:
-  - keyboard
-  mbid: ddfb1640-4f02-44af-89ff-da39bc8dc2bd
-  name: Glenn McClelland
-- begin: '2016'
-  end: '2024-08-29'
-  instruments:
-  - original
-  mbid: 526c5b19-e016-49bc-a8c3-5b196a0e47f4
-  name: Dean Ween
-- begin: '2016'
-  end: '2024-08-29'
-  instruments:
-  - original
-  mbid: 174ee388-0620-4665-aad6-af8282921c76
-  name: Gene Ween
+  - begin: '1984'
+    end: '2012'
+    instruments:
+      - original
+    mbid: 526c5b19-e016-49bc-a8c3-5b196a0e47f4
+    name: Dean Ween
+  - begin: '1984'
+    end: '2012'
+    instruments:
+      - original
+    mbid: 174ee388-0620-4665-aad6-af8282921c76
+    name: Gene Ween
+  - begin: '1986'
+    end: '2000'
+    instruments:
+      - additional
+    mbid: 49033c44-be8d-494f-8b4b-065cab4c144e
+    name: Mean Ween
+  - begin: '1987'
+    end: '2007'
+    instruments: []
+    mbid: afdb875c-cca9-4556-87c1-62f635688b13
+    name: Andrew Weiss
+  - begin: '1991'
+    end: '1991'
+    instruments:
+      - additional
+    mbid: d898e082-70d1-4a86-ac8e-ecdf89892994
+    name: Kramer
+  - begin: '1994'
+    end: '2012'
+    instruments:
+      - drums (drum set)
+    mbid: 75f6f50f-87bd-4f4c-905b-831f3488252f
+    name: 'Claude Coleman, Jr.'
+  - begin: '1996'
+    end: '1996'
+    instruments:
+      - additional
+    mbid: 21ca6f87-29e2-44d9-a888-7322e7ca1c05
+    name: Matt Kohut
+  - begin: '1996'
+    end: '2012'
+    instruments:
+      - keyboard
+    mbid: ddfb1640-4f02-44af-89ff-da39bc8dc2bd
+    name: Glenn McClelland
+  - begin: '1997'
+    end: '2012'
+    instruments:
+      - bass guitar
+    mbid: 2b239eb1-b706-4c9a-bda5-607385a25555
+    name: Dave Dreiwitz
+  - begin: '2002'
+    end: '2002'
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: 1ba97964-8d70-4b33-a361-d1a4ed222672
+    name: Josh Freese
+  - begin: '2016'
+    end: '2024-08-29'
+    instruments:
+      - drums (drum set)
+    mbid: 75f6f50f-87bd-4f4c-905b-831f3488252f
+    name: 'Claude Coleman, Jr.'
+  - begin: '2016'
+    end: '2024-08-29'
+    instruments:
+      - bass guitar
+    mbid: 2b239eb1-b706-4c9a-bda5-607385a25555
+    name: Dave Dreiwitz
+  - begin: '2016'
+    end: '2024-08-29'
+    instruments:
+      - keyboard
+    mbid: ddfb1640-4f02-44af-89ff-da39bc8dc2bd
+    name: Glenn McClelland
+  - begin: '2016'
+    end: '2024-08-29'
+    instruments:
+      - original
+    mbid: 526c5b19-e016-49bc-a8c3-5b196a0e47f4
+    name: Dean Ween
+  - begin: '2016'
+    end: '2024-08-29'
+    instruments:
+      - original
+    mbid: 174ee388-0620-4665-aad6-af8282921c76
+    name: Gene Ween
 musical_connections:
   collaborators:
-  - Claude Coleman Jr.
-  - Dave Dreiwitz
-  - Glenn McClelland
-  - Chris Williams (Mean Ween)
+    - Claude Coleman Jr.
+    - Dave Dreiwitz
+    - Glenn McClelland
+    - Chris Williams (Mean Ween)
   influenced: []
   mentors:
-  - Dave Ayers
-  - Andrew Weiss
+    - Dave Ayers
+    - Andrew Weiss
 musicbrainz_id: c0eee88b-47f2-4cd2-ac48-a045e902a432
 network_extracted: true
-origin: New Hope
+origin: 'New Hope, Pennsylvania, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ween
-- https://www.ween.wiki/wiki/Ween
-- https://www.youtube.com/watch?v=l5MzfqJstq8
-- https://www.youtube.com/watch?v=6ddWoTRt7ZA
-- https://www.wweek.com/portland/article-16763-ween-an-abbreviated-history.html
-- https://liveforlivemusic.com/news/history-of-ween-fan-video-series/
+  - 'https://en.wikipedia.org/wiki/Ween'
+  - 'https://www.ween.wiki/wiki/Ween'
+  - 'https://www.youtube.com/watch?v=l5MzfqJstq8'
+  - 'https://www.youtube.com/watch?v=6ddWoTRt7ZA'
+  - >-
+    https://www.wweek.com/portland/article-16763-ween-an-abbreviated-history.html
+  - 'https://liveforlivemusic.com/news/history-of-ween-fan-video-series/'
 spotify_data:
   followers: 523754
   id: 3u1ulLq00Y3bfmq9FfjsPu
   popularity: 62
-  url: https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu
+  url: 'https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu'
 status: active
 tags:
-- alternative rock
-- art rock
-- comedy
-title: ween
+  - alternative rock
+  - art rock
+  - comedy
+title: Ween
 ---
 
 ![](ween.jpg)

@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-31T01:10:50.582259'
-birth_place: Long Branch, Monmouth County, New Jersey, United States
+birth_place: 'Long Branch, Monmouth County, New Jersey, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:10:50.582275'
 external_urls:
-  spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
-  wikipedia: https://en.wikipedia.org/wiki/Bruce_Springsteen
+  spotify: 'https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bruce_Springsteen'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/springsteen.jpg
 last_updated: '2026-01-31T01:10:50.582277'
 musical_connections:
   collaborators:
-  - E Street Band
-  - Roy Bittan
-  - Max Weinberg
-  - Jimmy Iovine
+    - E Street Band
+    - Roy Bittan
+    - Max Weinberg
+    - Jimmy Iovine
   influenced:
-  - Bono (U2)
+    - Bono (U2)
   mentors:
-  - Jon Landau
-  - Mike Appel
+    - Jon Landau
+    - Mike Appel
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://faroutmagazine.co.uk/timeline-bruce-springsteen-way-to-success/
-- https://www.biography.com/musicians/bruce-springsteen
-- https://www.last.fm/music/Bruce+Springsteen/+wiki
-- https://www.thisdayinmusic.com/artists/bruce-springsteen/
-- https://en.wikipedia.org/wiki/Bruce_Springsteen
-- https://www.britannica.com/biography/Bruce-Springsteen
-- https://brucespringsteen.net/band/bruce-springsteen/
+  - 'https://faroutmagazine.co.uk/timeline-bruce-springsteen-way-to-success/'
+  - 'https://www.biography.com/musicians/bruce-springsteen'
+  - 'https://www.last.fm/music/Bruce+Springsteen/+wiki'
+  - 'https://www.thisdayinmusic.com/artists/bruce-springsteen/'
+  - 'https://en.wikipedia.org/wiki/Bruce_Springsteen'
+  - 'https://www.britannica.com/biography/Bruce-Springsteen'
+  - 'https://brucespringsteen.net/band/bruce-springsteen/'
 spotify_data:
   followers: 7542107
   id: 3eqjTLE0HfPfh78zjh6TqT
   popularity: 79
-  url: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+  url: 'https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT'
 status: active
-title: springsteen
+title: Springsteen
+birth_date: '1949-09-23'
+artist_type: person
 ---
 
 ![](springsteen.jpg)

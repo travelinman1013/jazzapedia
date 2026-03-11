@@ -1,47 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-02T01:46:17.596479'
-birth_place: Carrick-on-Suir, County Tipperary, Ireland
+birth_place: 'Carrick-on-Suir, County Tipperary, Ireland'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:46:17.596489'
 external_urls:
-  spotify: https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP
+  spotify: 'https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP'
   wikipedia: ''
 genres:
-- celtic
-- sea shanties
+  - celtic
+  - sea shanties
 image_path: 03_Resources/source_material/ArtistPortraits/liam_clancy.jpg
 last_updated: '2026-02-02T01:46:17.596491'
 musical_connections:
   collaborators:
-  - Paddy Clancy
-  - Tom Clancy
-  - Tommy Makem
-  - Robbie O'Connell
-  - Dónal Clancy
-  - Luke Kelly
+    - Paddy Clancy
+    - Tom Clancy
+    - Tommy Makem
+    - Robbie O'Connell
+    - Dónal Clancy
+    - Luke Kelly
   influenced:
-  - Luke Kelly
-  - Bob Dylan
+    - Luke Kelly
+    - Bob Dylan
   mentors:
-  - Diane Hamilton Guggenheim
+    - Diane Hamilton Guggenheim
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.dib.ie/biography/clancy-liam-a9858
-- https://group.irishecho.com/2011/02/liam-clancy-icon-of-irish-music-dies-at-age-74-2/
-- https://www.theballadeers.com/cbtm/lc_01.htm
-- https://www.irishcentral.com/roots/history/remembering-liam-clancy
-- https://www.irelandsown.ie/liam-clancy-the-great-balladeer/
-- https://www.goodreads.com/book/show/397160.The_Mountain_of_the_Women
-- https://www.rte.ie/archives/2019/1127/1095431-folk-singer-liam-clancy-dies/
-- https://www.allmusic.com/artist/liam-clancy-mn0000227463
+  - 'https://www.dib.ie/biography/clancy-liam-a9858'
+  - >-
+    https://group.irishecho.com/2011/02/liam-clancy-icon-of-irish-music-dies-at-age-74-2/
+  - 'https://www.theballadeers.com/cbtm/lc_01.htm'
+  - 'https://www.irishcentral.com/roots/history/remembering-liam-clancy'
+  - 'https://www.irelandsown.ie/liam-clancy-the-great-balladeer/'
+  - 'https://www.goodreads.com/book/show/397160.The_Mountain_of_the_Women'
+  - 'https://www.rte.ie/archives/2019/1127/1095431-folk-singer-liam-clancy-dies/'
+  - 'https://www.allmusic.com/artist/liam-clancy-mn0000227463'
 spotify_data:
   followers: 27554
   id: 1XjkajTCuInbWYxcxPvFtP
   popularity: 37
-  url: https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP
+  url: 'https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP'
 status: active
 title: Liam Clancy
+death_date: '2009-12-04'
+artist_type: person
 ---
 
 ![](liam_clancy.jpg)

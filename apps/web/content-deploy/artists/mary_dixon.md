@@ -4,10 +4,10 @@ birth_place: Unknown
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:00:06.915761'
 external_urls:
-  spotify: https://open.spotify.com/artist/4me9CiGgV6sBQHhJTimbRC
+  spotify: 'https://open.spotify.com/artist/4me9CiGgV6sBQHhJTimbRC'
   wikipedia: ''
 genres:
-- classic blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/mary_dixon.jpg
 last_updated: '2026-03-05T02:00:06.915762'
 musical_connections:
@@ -17,17 +17,18 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/mary-dixon-mn0000858834
-- https://www.iheart.com/artist/mary-dixon-165393/
-- https://www.youtube.com/watch?v=aAScMaNhWFc
-- http://www.harlem-fuss.com/pdf/singers/harlem_fuss_singers_dixon_mary.pdf
+  - 'https://www.allmusic.com/artist/mary-dixon-mn0000858834'
+  - 'https://www.iheart.com/artist/mary-dixon-165393/'
+  - 'https://www.youtube.com/watch?v=aAScMaNhWFc'
+  - 'http://www.harlem-fuss.com/pdf/singers/harlem_fuss_singers_dixon_mary.pdf'
 spotify_data:
   followers: 50
   id: 4me9CiGgV6sBQHhJTimbRC
   popularity: 0
-  url: https://open.spotify.com/artist/4me9CiGgV6sBQHhJTimbRC
+  url: 'https://open.spotify.com/artist/4me9CiGgV6sBQHhJTimbRC'
 status: active
-title: MARY DIXON
+title: Mary Dixon
+artist_type: person
 ---
 
 ![](mary_dixon.jpg)

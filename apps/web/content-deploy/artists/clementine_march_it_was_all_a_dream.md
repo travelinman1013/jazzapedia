@@ -3,34 +3,39 @@ biography_enhanced_at: '2026-03-02T01:16:51.839250'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:16:51.839259'
 external_urls:
-  spotify: https://open.spotify.com/artist/2DO3DBPvhlhP0h2QtHqKXH
+  spotify: 'https://open.spotify.com/artist/2DO3DBPvhlhP0h2QtHqKXH'
   wikipedia: ''
 genres:
-- baroque pop
-image_path: 03_Resources/source_material/ArtistPortraits/clementine_march_it_was_all_a_dream.jpg
+  - baroque pop
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/clementine_march_it_was_all_a_dream.jpg
 last_updated: '2026-03-02T01:16:51.839261'
 musical_connections:
   collaborators:
-  - Ollie Chapman
-  - Sophie Lowe
-  - Gavanksi
+    - Ollie Chapman
+    - Sophie Lowe
+    - Gavanksi
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.latimes.com/entertainment-arts/books/story/2022-05-10/the-world-that-made-and-unmade-the-notorious-b-i-g
-- https://www.mahoganybooks.com/9781419750311
-- https://bookmarks.reviews/reviews/it-was-all-a-dream-biggie-and-the-world-that-made-him/
-- https://books.google.com/books/about/It_Was_All_a_Dream.html?id=tuc7EAAAQBAJ
-- https://monolithcocktail.com/2026/01/05/perusal-75-geologist-clementine-march-sis-and-the-lower-wisdom/
+  - >-
+    https://www.latimes.com/entertainment-arts/books/story/2022-05-10/the-world-that-made-and-unmade-the-notorious-b-i-g
+  - 'https://www.mahoganybooks.com/9781419750311'
+  - >-
+    https://bookmarks.reviews/reviews/it-was-all-a-dream-biggie-and-the-world-that-made-him/
+  - 'https://books.google.com/books/about/It_Was_All_a_Dream.html?id=tuc7EAAAQBAJ'
+  - >-
+    https://monolithcocktail.com/2026/01/05/perusal-75-geologist-clementine-march-sis-and-the-lower-wisdom/
 spotify_data:
   followers: 1013
   id: 2DO3DBPvhlhP0h2QtHqKXH
   popularity: 11
-  url: https://open.spotify.com/artist/2DO3DBPvhlhP0h2QtHqKXH
+  url: 'https://open.spotify.com/artist/2DO3DBPvhlhP0h2QtHqKXH'
 status: active
-title: Clementine March, It Was All A Dream
+title: 'Clementine March, It Was All A Dream'
+artist_type: person
 ---
 
 ![](clementine_march_it_was_all_a_dream.jpg)

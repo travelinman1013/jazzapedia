@@ -1,43 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-10T01:55:47.198307'
-birth_place: Plymouth, Tobago, Trinidad and Tobago
+birth_place: 'Plymouth, Tobago, Trinidad and Tobago'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:55:47.198312'
 external_urls:
-  spotify: https://open.spotify.com/artist/0kN50LxxiS4i2Fc4jK9KCI
+  spotify: 'https://open.spotify.com/artist/0kN50LxxiS4i2Fc4jK9KCI'
   wikipedia: ''
 genres:
-- calypso
-- soca
+  - calypso
+  - soca
 image_path: 03_Resources/source_material/ArtistPortraits/lord_nelson.jpg
 last_updated: '2026-02-10T01:55:47.198313'
 musical_connections:
   collaborators:
-  - Jimmy Buffett
-  - Kassav
-  - West Indian steel bands
+    - Jimmy Buffett
+    - Kassav
+    - West Indian steel bands
   influenced:
-  - Mojah
-  - Subsequent soca artists
+    - Mojah
+    - Subsequent soca artists
   mentors:
-  - Mighty Duke
-  - Roaring Lion
-  - Lord Melody
+    - Mighty Duke
+    - Roaring Lion
+    - Lord Melody
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=haBXO5lFRzc
-- https://www.tripcast360.com/calypsonian-lord-nelson-a-melodic-journey-of-upliftment-and-empowerment/
-- https://music.apple.com/us/artist/lord-nelson/218172128
-- https://tobagoupdates.com/tobagos-calypso-icon-lord-nelson-celebrates-94-years-of-rhythm-and-revolution/
-- https://www.last.fm/music/Nelson/+wiki
+  - 'https://www.youtube.com/watch?v=haBXO5lFRzc'
+  - >-
+    https://www.tripcast360.com/calypsonian-lord-nelson-a-melodic-journey-of-upliftment-and-empowerment/
+  - 'https://music.apple.com/us/artist/lord-nelson/218172128'
+  - >-
+    https://tobagoupdates.com/tobagos-calypso-icon-lord-nelson-celebrates-94-years-of-rhythm-and-revolution/
+  - 'https://www.last.fm/music/Nelson/+wiki'
 spotify_data:
   followers: 4156
   id: 0kN50LxxiS4i2Fc4jK9KCI
   popularity: 15
-  url: https://open.spotify.com/artist/0kN50LxxiS4i2Fc4jK9KCI
+  url: 'https://open.spotify.com/artist/0kN50LxxiS4i2Fc4jK9KCI'
 status: active
 title: Lord Nelson
+birth_date: '1931-07-27'
+artist_type: person
 ---
 
 ![](lord_nelson.jpg)

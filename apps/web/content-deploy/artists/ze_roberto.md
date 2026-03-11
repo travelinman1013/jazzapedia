@@ -1,50 +1,55 @@
 ---
 biography_enhanced_at: '2026-02-25T02:01:49.690322'
-birth_place: Tatuí, São Paulo, Brazil
+birth_place: 'Tatuí, São Paulo, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:01:49.690331'
 external_urls:
-  spotify: https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ
-  wikipedia: https://fr.wikipedia.org/wiki/Jos%C3%A9_Roberto_Bertrami
+  spotify: 'https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ'
+  wikipedia: 'https://fr.wikipedia.org/wiki/Jos%C3%A9_Roberto_Bertrami'
 genres:
-- bossa nova
-- brazilian jazz
+  - bossa nova
+  - brazilian jazz
 image_path: 03_Resources/source_material/ArtistPortraits/ze_roberto.jpg
 last_updated: '2026-02-25T02:01:49.690333'
 musical_connections:
   collaborators:
-  - Claudio Henrique Bertrami
-  - Flora Purim
-  - Airto Moreira
-  - Ivan Conti (Mamão)
-  - Alex Malheiros
-  - Elis Regina
-  - Milton Nascimento
-  - Robertinho Silva
+    - Claudio Henrique Bertrami
+    - Flora Purim
+    - Airto Moreira
+    - Ivan Conti (Mamão)
+    - Alex Malheiros
+    - Elis Regina
+    - Milton Nascimento
+    - Robertinho Silva
   influenced: []
   mentors:
-  - Bill Evans
-  - Luiz Eça
-  - Miles Davis
+    - Bill Evans
+    - Luiz Eça
+    - Miles Davis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.forcedexposure.com/Artists/ROBERTO.TRIO.JOSE.html
-- https://concord.com/artist/jos-roberto-bertrami/
-- https://concord.com/artist/azymuth/
-- https://www.oreateai.com/blog/ze-roberto-the-musical-journey-of-a-brazilian-legend/b175d0f02bd03d63ee418e5c4083e916
-- https://theperlichpost.blogspot.com/2022/01/early-recordings-by-azymuths-jose.html
-- https://www.osotao.com/blog/jos-roberto-bertrami-os-tatus-1965-jos-roberto-trio-1966/2022/3/23
-- https://soundsoftheuniverse.com/sjr/product/os-tatus
-- https://www.muziker.com/jose-roberto-bertrami
-- https://fr.wikipedia.org/wiki/Jos%C3%A9_Roberto_Bertrami
+  - 'https://www.forcedexposure.com/Artists/ROBERTO.TRIO.JOSE.html'
+  - 'https://concord.com/artist/jos-roberto-bertrami/'
+  - 'https://concord.com/artist/azymuth/'
+  - >-
+    https://www.oreateai.com/blog/ze-roberto-the-musical-journey-of-a-brazilian-legend/b175d0f02bd03d63ee418e5c4083e916
+  - >-
+    https://theperlichpost.blogspot.com/2022/01/early-recordings-by-azymuths-jose.html
+  - >-
+    https://www.osotao.com/blog/jos-roberto-bertrami-os-tatus-1965-jos-roberto-trio-1966/2022/3/23
+  - 'https://soundsoftheuniverse.com/sjr/product/os-tatus'
+  - 'https://www.muziker.com/jose-roberto-bertrami'
+  - 'https://fr.wikipedia.org/wiki/Jos%C3%A9_Roberto_Bertrami'
 spotify_data:
   followers: 15262
   id: 18pOC3dikx4dLs5znHrZJZ
   popularity: 44
-  url: https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ
+  url: 'https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ'
 status: active
 title: Ze Roberto
+birth_date: '1946-02-21'
+artist_type: person
 ---
 
 ![](ze_roberto.jpg)

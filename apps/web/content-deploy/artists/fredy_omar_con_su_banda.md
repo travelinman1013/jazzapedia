@@ -1,80 +1,83 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-03T02:01:50.473623'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:01:50.473629'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5361500f-3433-41a3-b0fc-0a3a5528b3d5
-  spotify: https://open.spotify.com/artist/6MaxqkltAoJD0QlVexCt43
+  musicbrainz: 'https://musicbrainz.org/artist/5361500f-3433-41a3-b0fc-0a3a5528b3d5'
+  spotify: 'https://open.spotify.com/artist/6MaxqkltAoJD0QlVexCt43'
   wikipedia: ''
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/fredy_omar_con_su_banda.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-02-03T02:01:50.473630'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 33a0e606-eb07-4896-9c82-82c99aa7314c
-  name: Jose Coloma
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c77ead85-ddcf-4153-a711-50538cf851dd
-  name: Cristobal Cruzado
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9cbfb8b4-fba5-4f73-822f-a6c62d5da2bc
-  name: Ralph Gipson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6bb8bd1c-d421-4fdf-b07e-492ed8343de7
-  name: Humberto "Pupi" Menes
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 47aea83e-8af6-4b42-af4c-d2796ca256ff
-  name: Fredy Omar
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d24260c-2dfd-4cb3-bae0-fa057565573b
-  name: Matt Rhody
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7126025f-8ff2-4d9f-8aec-0c30efc67c20
-  name: Michael Skinkus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 33a0e606-eb07-4896-9c82-82c99aa7314c
+    name: Jose Coloma
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c77ead85-ddcf-4153-a711-50538cf851dd
+    name: Cristobal Cruzado
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9cbfb8b4-fba5-4f73-822f-a6c62d5da2bc
+    name: Ralph Gipson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6bb8bd1c-d421-4fdf-b07e-492ed8343de7
+    name: Humberto "Pupi" Menes
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 47aea83e-8af6-4b42-af4c-d2796ca256ff
+    name: Fredy Omar
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d24260c-2dfd-4cb3-bae0-fa057565573b
+    name: Matt Rhody
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7126025f-8ff2-4d9f-8aec-0c30efc67c20
+    name: Michael Skinkus
 musical_connections:
   collaborators:
-  - The Iguanas
+    - The Iguanas
   influenced: []
   mentors: []
 musicbrainz_id: 5361500f-3433-41a3-b0fc-0a3a5528b3d5
 network_extracted: true
-origin: Tegucigalpa, Honduras (birthplace); New Orleans, LA, USA (base)
+origin: 'Tegucigalpa, Honduras (birthplace); New Orleans, LA, USA (base)'
 primary_source: perplexity
 research_sources:
-- https://www.gigroster.com/listings/fredy-omar-con-su-banda
-- https://letsloop.com/artist-router/fredy-omar-con-su-banda
-- https://www.fredyomar.com/profiles.html
-- https://blogs.iu.edu/bfca/tag/fredy-omar-con-su-banda/
-- https://www.louisianamusicfactory.com/product/fredy-omar-con-su-banda-latin-party-in-new-orleans/
-- https://www.fredyomar.com/latinking.html
-- https://www.wwoz.org/events/61040
+  - 'https://www.gigroster.com/listings/fredy-omar-con-su-banda'
+  - 'https://letsloop.com/artist-router/fredy-omar-con-su-banda'
+  - 'https://www.fredyomar.com/profiles.html'
+  - 'https://blogs.iu.edu/bfca/tag/fredy-omar-con-su-banda/'
+  - >-
+    https://www.louisianamusicfactory.com/product/fredy-omar-con-su-banda-latin-party-in-new-orleans/
+  - 'https://www.fredyomar.com/latinking.html'
+  - 'https://www.wwoz.org/events/61040'
 spotify_data:
   followers: 71
   id: 6MaxqkltAoJD0QlVexCt43
   popularity: 3
-  url: https://open.spotify.com/artist/6MaxqkltAoJD0QlVexCt43
+  url: 'https://open.spotify.com/artist/6MaxqkltAoJD0QlVexCt43'
 status: active
 title: Fredy Omar Con Su Banda
+birth_place: 'Tegucigalpa, Honduras, Country'
+birth_date: '1970-04-15'
 ---
 
 ![](fredy_omar_con_su_banda.jpg)

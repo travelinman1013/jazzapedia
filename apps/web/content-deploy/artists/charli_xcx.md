@@ -1,43 +1,45 @@
 ---
 biography_enhanced_at: '2026-02-24T01:50:03.827512'
-birth_place: Cambridge, Cambridgeshire, United Kingdom
+birth_place: 'Cambridge, Cambridgeshire, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:50:03.827520'
 external_urls:
-  spotify: https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5
-  wikipedia: https://en.wikipedia.org/wiki/Charli_XCX
+  spotify: 'https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charli_XCX'
 genres:
-- hyperpop
-- art pop
+  - hyperpop
+  - art pop
 image_path: 03_Resources/source_material/ArtistPortraits/charli_xcx.jpg
 last_updated: '2026-02-24T01:50:03.827522'
 musical_connections:
   collaborators:
-  - Icona Pop
-  - Iggy Azalea
-  - Sophie
-  - Billie Eilish
-  - Ariana Grande, Lorde, Kesha
+    - Icona Pop
+    - Iggy Azalea
+    - Sophie
+    - Billie Eilish
+    - 'Ariana Grande, Lorde, Kesha'
   influenced:
-  - Musical influences (cited by Charli XCX)
+    - Musical influences (cited by Charli XCX)
   mentors:
-  - Ariel Rechtshaid
-  - Patrik Berger
+    - Ariel Rechtshaid
+    - Patrik Berger
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/a60735910/charli-xcx
-- https://www.britannica.com/biography/Charli-XCX
-- https://en.wikipedia.org/wiki/Charli_XCX
-- https://xcx-world.fandom.com/wiki/Charli_XCX
-- https://www.tvinsider.com/people/charli-xcx/
+  - 'https://www.biography.com/musicians/a60735910/charli-xcx'
+  - 'https://www.britannica.com/biography/Charli-XCX'
+  - 'https://en.wikipedia.org/wiki/Charli_XCX'
+  - 'https://xcx-world.fandom.com/wiki/Charli_XCX'
+  - 'https://www.tvinsider.com/people/charli-xcx/'
 spotify_data:
   followers: 6760929
   id: 25uiPmTg16RbhZWAqwLBy5
   popularity: 83
-  url: https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5
+  url: 'https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5'
 status: active
 title: Charli xcx
+birth_date: '1992-08-02'
+artist_type: person
 ---
 
 ![](charli_xcx.jpg)

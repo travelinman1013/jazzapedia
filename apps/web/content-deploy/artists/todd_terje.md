@@ -2,51 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2026-02-05T01:51:38.427284'
 birth_date: '1981-05-11'
-birth_place: Buskerud
+birth_place: 'Mjøndalen, Buskerud, Norway'
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:51:38.427293'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a0cded3a-4ca3-4ddb-8e46-ed9037f30aea
-  spotify: https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw
-  wikipedia: https://en.wikipedia.org/wiki/Todd_Terje
+  musicbrainz: 'https://musicbrainz.org/artist/a0cded3a-4ca3-4ddb-8e46-ed9037f30aea'
+  spotify: 'https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Todd_Terje'
 gender: Male
 genres:
-- nu disco
+  - nu disco
 image_path: 03_Resources/source_material/ArtistPortraits/todd_terje.jpg
 last_updated: '2026-02-05T01:51:38.427295'
 musical_connections:
   collaborators:
-  - Lindstrøm
-  - Bryan Ferry
-  - Franz Ferdinand
-  - Olaf Olsen
-  - Martin Windstad
-  - Robbie Williams
+    - Lindstrøm
+    - Bryan Ferry
+    - Franz Ferdinand
+    - Olaf Olsen
+    - Martin Windstad
+    - Robbie Williams
   influenced: []
   mentors:
-  - Todd Terry
+    - Todd Terry
 musicbrainz_id: a0cded3a-4ca3-4ddb-8e46-ed9037f30aea
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://seattletalentbuying.com/artists/todd-terje/
-- https://newretro.net/blogs/main/who-is-todd-terje
-- https://www.tuftsdaily.com/article/2014/04/todd-terje-dominates-indie-dance-music-with-debut-album
-- https://songstats.com/artist/x8ofwa0c/todd-terje
-- https://en.wikipedia.org/wiki/Todd_Terje
-- https://evvycology.wordpress.com/2014/05/04/todd-terje-its-album-time/
-- https://dangerousminds.net/comments/synth_wave_disco_todd_terje_remixes_the_units_classic_high_pressure_days/
-- https://www.redbull.com/us-en/guide-to-norwegian-space-disco-scene
+  - 'https://seattletalentbuying.com/artists/todd-terje/'
+  - 'https://newretro.net/blogs/main/who-is-todd-terje'
+  - >-
+    https://www.tuftsdaily.com/article/2014/04/todd-terje-dominates-indie-dance-music-with-debut-album
+  - 'https://songstats.com/artist/x8ofwa0c/todd-terje'
+  - 'https://en.wikipedia.org/wiki/Todd_Terje'
+  - 'https://evvycology.wordpress.com/2014/05/04/todd-terje-its-album-time/'
+  - >-
+    https://dangerousminds.net/comments/synth_wave_disco_todd_terje_remixes_the_units_classic_high_pressure_days/
+  - 'https://www.redbull.com/us-en/guide-to-norwegian-space-disco-scene'
 spotify_data:
   followers: 266812
   id: 49gaZqfow2v8EEQmjGyEIw
   popularity: 46
-  url: https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw
+  url: 'https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw'
 status: active
 tags:
-- disc jockey
-- disco
-- electronic dance music
+  - disc jockey
+  - disco
+  - electronic dance music
 title: Todd Terje
 ---
 

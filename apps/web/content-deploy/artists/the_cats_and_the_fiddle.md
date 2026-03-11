@@ -1,57 +1,58 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-26T01:18:01.343847'
 birth_date: '1937'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:18:01.343857'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e3c19060-a63a-49ec-9f45-2463c3c6700d
-  spotify: https://open.spotify.com/artist/1H0eEqQOLeg320MT3WnEWS
+  musicbrainz: 'https://musicbrainz.org/artist/e3c19060-a63a-49ec-9f45-2463c3c6700d'
+  spotify: 'https://open.spotify.com/artist/1H0eEqQOLeg320MT3WnEWS'
   wikipedia: ''
 genres:
-- swing music
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/the_cats_and_the_fiddle.jpg
 last_updated: '2026-02-26T01:18:01.343859'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 096d99c3-0b30-4a51-9e7b-ddda275f4216
-  name: Tiny Grimes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 03d6a68b-7a16-40b6-a1e9-577d1806f7ae
-  name: Austin Powell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 096d99c3-0b30-4a51-9e7b-ddda275f4216
+    name: Tiny Grimes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 03d6a68b-7a16-40b6-a1e9-577d1806f7ae
+    name: Austin Powell
 musical_connections:
   collaborators:
-  - Austin Powell
-  - Ernie Price
-  - Chuck Barksdale
-  - Jimmie Henderson
-  - Hank Hazlett
+    - Austin Powell
+    - Ernie Price
+    - Chuck Barksdale
+    - Jimmie Henderson
+    - Hank Hazlett
   influenced: []
   mentors:
-  - Mills Brothers
+    - Mills Brothers
 musicbrainz_id: e3c19060-a63a-49ec-9f45-2463c3c6700d
 network_extracted: true
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://www.swingornothing.com/the-cats-and-the-fiddle/
-- https://www.uncamarvy.com/CatsAndTheFiddle/catsandthefiddle.html
-- https://www.rovr.live/artists/cats%20and%20the%20fiddle
-- https://www.last.fm/music/The+Cats+&+The+Fiddle/+wiki
-- https://frankhudson.org/category/the-cats-and-the-fiddle/
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/111291/Cats_and_the_Fiddle?Matrix_page=100000
-- https://musicbrainz.org/artist/e3c19060-a63a-49ec-9f45-2463c3c6700d
+  - 'https://www.swingornothing.com/the-cats-and-the-fiddle/'
+  - 'https://www.uncamarvy.com/CatsAndTheFiddle/catsandthefiddle.html'
+  - 'https://www.rovr.live/artists/cats%20and%20the%20fiddle'
+  - 'https://www.last.fm/music/The+Cats+&+The+Fiddle/+wiki'
+  - 'https://frankhudson.org/category/the-cats-and-the-fiddle/'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/111291/Cats_and_the_Fiddle?Matrix_page=100000
+  - 'https://musicbrainz.org/artist/e3c19060-a63a-49ec-9f45-2463c3c6700d'
 spotify_data:
   followers: 7393
   id: 1H0eEqQOLeg320MT3WnEWS
   popularity: 17
-  url: https://open.spotify.com/artist/1H0eEqQOLeg320MT3WnEWS
+  url: 'https://open.spotify.com/artist/1H0eEqQOLeg320MT3WnEWS'
 status: active
-title: THE CATS AND THE FIDDLE
+title: The Cats and the Fiddle
 ---
 
 ![](the_cats_and_the_fiddle.jpg)

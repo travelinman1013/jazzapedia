@@ -1,41 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-27T01:53:10.949143'
-birth_place: Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:53:10.949150'
 external_urls:
-  spotify: https://open.spotify.com/artist/6VhRunDalpmwsgE6QKxgZY
-  wikipedia: https://en.wikipedia.org/wiki/Marisa_Monte
+  spotify: 'https://open.spotify.com/artist/6VhRunDalpmwsgE6QKxgZY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marisa_Monte'
 genres: []
 image_path: ''
 last_updated: '2026-01-27T01:53:10.949150'
 musical_connections:
   collaborators:
-  - David Byrne
-  - Philip Glass
-  - Carlinhos Brown
-  - Arnaldo Antunes
-  - Arto Lindsay
+    - David Byrne
+    - Philip Glass
+    - Carlinhos Brown
+    - Arnaldo Antunes
+    - Arto Lindsay
   influenced: []
   mentors:
-  - Nelson Motta
+    - Nelson Motta
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://mixdownmag.com.au/features/exploring-the-musical-collaborations-of-david-byrne/
-- https://www.popmatters.com/interview-marisa-monte-portas-2022
-- https://www.davidbyrne.com/explore/david-byrne-marisa-monte-statue-of-liberty/press/david-byrne-marisa-monte-statue-of-liberty
-- https://www.globalartslive.org/content/program-marisa-monte-english
-- https://brazilbeatblog.wordpress.com/2020/06/26/marisa-monte/
-- https://en.wikipedia.org/wiki/Marisa_Monte
-- https://www.iheart.com/artist/marisa-monte-david-byrne-31468554/
+  - >-
+    https://mixdownmag.com.au/features/exploring-the-musical-collaborations-of-david-byrne/
+  - 'https://www.popmatters.com/interview-marisa-monte-portas-2022'
+  - >-
+    https://www.davidbyrne.com/explore/david-byrne-marisa-monte-statue-of-liberty/press/david-byrne-marisa-monte-statue-of-liberty
+  - 'https://www.globalartslive.org/content/program-marisa-monte-english'
+  - 'https://brazilbeatblog.wordpress.com/2020/06/26/marisa-monte/'
+  - 'https://en.wikipedia.org/wiki/Marisa_Monte'
+  - 'https://www.iheart.com/artist/marisa-monte-david-byrne-31468554/'
 spotify_data:
   followers: 0
   id: 6VhRunDalpmwsgE6QKxgZY
   popularity: 7
-  url: https://open.spotify.com/artist/6VhRunDalpmwsgE6QKxgZY
+  url: 'https://open.spotify.com/artist/6VhRunDalpmwsgE6QKxgZY'
 status: active
 title: Marisa Monte w/David Byrne
+birth_date: '1967-07-01'
+artist_type: person
 ---
 
 ![]()

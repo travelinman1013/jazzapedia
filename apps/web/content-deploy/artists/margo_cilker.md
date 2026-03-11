@@ -2,51 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2026-02-16T01:04:08.500270'
 birth_date: '1993'
-birth_place: California
+birth_place: 'Santa Clara Valley, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:04:08.500280'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/91e07743-761b-40f4-b4cb-f3dd72b4c26c
-  spotify: https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7
-  wikipedia: https://en.wikipedia.org/wiki/Margo_Cilker
+  musicbrainz: 'https://musicbrainz.org/artist/91e07743-761b-40f4-b4cb-f3dd72b4c26c'
+  spotify: 'https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Margo_Cilker'
 gender: Female
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/margo_cilker.jpg
 last_updated: '2026-02-16T01:04:08.500282'
 musical_connections:
   collaborators:
-  - Sera Cahoone
-  - Jenny Conlee-Drizos
-  - Sarah Cilker
-  - Ben Walden
-  - Forrest VanTuyl
-  - Caleb Klauder
+    - Sera Cahoone
+    - Jenny Conlee-Drizos
+    - Sarah Cilker
+    - Ben Walden
+    - Forrest VanTuyl
+    - Caleb Klauder
   influenced: []
   mentors:
-  - Sera Cahoone
+    - Sera Cahoone
 musicbrainz_id: 91e07743-761b-40f4-b4cb-f3dd72b4c26c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.margocilkermusic.com/old-bio
-- https://en.wikipedia.org/wiki/Margo_Cilker
-- https://calgaryfolkfest.com/artists/margo-cilker
-- https://www.lonesomehighway.com/interviewsold/2021/12/2/margo-cilker-interview
-- https://www.margocilkermusic.com/bio
-- https://mokbpresents.com/artist/margo-cilker/
-- https://www.opb.org/article/2021/11/06/a-powerful-new-musical-voice-emerges-from-eastern-oregon/
-- https://fluffandgravy.com/press-kits/13872-2/
+  - 'https://www.margocilkermusic.com/old-bio'
+  - 'https://en.wikipedia.org/wiki/Margo_Cilker'
+  - 'https://calgaryfolkfest.com/artists/margo-cilker'
+  - >-
+    https://www.lonesomehighway.com/interviewsold/2021/12/2/margo-cilker-interview
+  - 'https://www.margocilkermusic.com/bio'
+  - 'https://mokbpresents.com/artist/margo-cilker/'
+  - >-
+    https://www.opb.org/article/2021/11/06/a-powerful-new-musical-voice-emerges-from-eastern-oregon/
+  - 'https://fluffandgravy.com/press-kits/13872-2/'
 spotify_data:
   followers: 16944
   id: 5E9q1sbVJ2MCiI8MMdPvj7
   popularity: 24
-  url: https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7
+  url: 'https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7'
 status: active
 tags:
-- alternative country
-- country folk
+  - alternative country
+  - country folk
 title: Margo Cilker
 ---
 

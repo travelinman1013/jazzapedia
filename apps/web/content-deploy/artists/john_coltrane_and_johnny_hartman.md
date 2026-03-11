@@ -3,48 +3,54 @@ biography_enhanced_at: '2026-03-05T02:02:38.581129'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:02:38.581139'
 external_urls:
-  spotify: https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf
-  wikipedia: https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman
+  spotify: 'https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman'
 genres:
-- jazz
-- hard bop
-- free jazz
-- bebop
-- jazz ballads
-- cool jazz
-image_path: 03_Resources/source_material/ArtistPortraits/john_coltrane_and_johnny_hartman.jpg
+  - jazz
+  - hard bop
+  - free jazz
+  - bebop
+  - jazz ballads
+  - cool jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/john_coltrane_and_johnny_hartman.jpg
 last_updated: '2026-03-05T02:02:38.581141'
 musical_connections:
   collaborators:
-  - Johnny Hartman
-  - McCoy Tyner
-  - Jimmy Garrison
-  - Elvin Jones
-  - Bob Thiele
+    - Johnny Hartman
+    - McCoy Tyner
+    - Jimmy Garrison
+    - Elvin Jones
+    - Bob Thiele
   influenced:
-  - Free jazz musicians
+    - Free jazz musicians
   mentors:
-  - Dizzy Gillespie
+    - Dizzy Gillespie
 network_extracted: true
-origin: 'Englewood Cliffs, New Jersey, USA (recording location); Coltrane birthplace:
-  Hamlet, North Carolina, USA; Hartman birthplace: Houma, Louisiana, USA'
+origin: >-
+  Englewood Cliffs, New Jersey, USA (recording location); Coltrane birthplace:
+  Hamlet, North Carolina, USA; Hartman birthplace: Houma, Louisiana, USA
 primary_source: perplexity
 research_sources:
-- https://www.jazzstandards.com/biographies/biography_2283.htm
-- https://jazztimes.com/features/johnny-hartman-one-and-only/
-- https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman
-- https://www.johncoltrane.com/biography
-- https://en.wikipedia.org/wiki/John_Coltrane
-- http://www.columbia.edu/itc/music/popular/washburne/v2016/client_edit/coltranebio.html
-- https://www.allaboutjazz.com/john-coltrane-and-johnny-hartman-john-coltrane
-- https://www.last.fm/music/John+Coltrane+&+Johnny+Hartman/+wiki
+  - 'https://www.jazzstandards.com/biographies/biography_2283.htm'
+  - 'https://jazztimes.com/features/johnny-hartman-one-and-only/'
+  - 'https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman'
+  - 'https://www.johncoltrane.com/biography'
+  - 'https://en.wikipedia.org/wiki/John_Coltrane'
+  - >-
+    http://www.columbia.edu/itc/music/popular/washburne/v2016/client_edit/coltranebio.html
+  - 'https://www.allaboutjazz.com/john-coltrane-and-johnny-hartman-john-coltrane'
+  - 'https://www.last.fm/music/John+Coltrane+&+Johnny+Hartman/+wiki'
 spotify_data:
   followers: 1880155
   id: 2hGh5VOeeqimQFxqXvfCUf
   popularity: 65
-  url: https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf
+  url: 'https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf'
 status: active
-title: john coltrane and johnny hartman
+title: John Coltrane and Johnny Hartman
+birth_place: 'Hamlet, North Carolina, United States'
+birth_date: '1926-09-23'
+artist_type: band
 ---
 
 ![](john_coltrane_and_johnny_hartman.jpg)

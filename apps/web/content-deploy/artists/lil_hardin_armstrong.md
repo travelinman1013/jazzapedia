@@ -1,122 +1,124 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1924'
-  end: '1925'
-  instruments: []
-  mbid: 8e062d48-0f1c-4226-8503-19a03fe9249a
-  name: Red Onion Jazz Babies
-- begin: '1925-11-12'
-  end: '1927'
-  instruments: []
-  mbid: cfedde14-91c5-46cb-b087-9f2da9bec194
-  name: Louis Armstrong and His Hot Five
-- begin: '1927'
-  end: '1928'
-  instruments:
-  - piano
-  mbid: 49905118-45d2-4b09-9643-a40b87d0ce42
-  name: Louis Armstrong and His Hot Seven
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cd05eca7-ad38-456c-94c7-f17c9b15c5d0
-  name: King Oliver and His Creole Jazz Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a160f2a6-4a00-4d70-934a-91a0f44c1ad7
-  name: Lil Hardin Armstrong and Her Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a47d679b-cf89-4442-8d10-52eb81d9c499
-  name: New Orleans Wanderers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a3d3360e-bf1f-42f0-82ef-02af16e38ab0
-  name: Johnny Dodds Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e191cc44-8681-41cd-84ad-8a2df6d16d95
-  name: The Riffers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 457e47ec-c962-4210-82e8-4b528f2118bf
-  name: Lil’s Hot Shots
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1b0007b2-facc-4b87-88ac-28e2b6dd7610
-  name: King Oliver’s Jazz Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 457e47ec-c962-4210-82e8-4b528f2118bf
-  name: Lil’s Hot Shots
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: a160f2a6-4a00-4d70-934a-91a0f44c1ad7
-  name: Lil Hardin Armstrong and Her Orchestra
+  - begin: '1924'
+    end: '1925'
+    instruments: []
+    mbid: 8e062d48-0f1c-4226-8503-19a03fe9249a
+    name: Red Onion Jazz Babies
+  - begin: '1925-11-12'
+    end: '1927'
+    instruments: []
+    mbid: cfedde14-91c5-46cb-b087-9f2da9bec194
+    name: Louis Armstrong and His Hot Five
+  - begin: '1927'
+    end: '1928'
+    instruments:
+      - piano
+    mbid: 49905118-45d2-4b09-9643-a40b87d0ce42
+    name: Louis Armstrong and His Hot Seven
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cd05eca7-ad38-456c-94c7-f17c9b15c5d0
+    name: King Oliver and His Creole Jazz Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a160f2a6-4a00-4d70-934a-91a0f44c1ad7
+    name: Lil Hardin Armstrong and Her Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a47d679b-cf89-4442-8d10-52eb81d9c499
+    name: New Orleans Wanderers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a3d3360e-bf1f-42f0-82ef-02af16e38ab0
+    name: Johnny Dodds Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e191cc44-8681-41cd-84ad-8a2df6d16d95
+    name: The Riffers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 457e47ec-c962-4210-82e8-4b528f2118bf
+    name: Lil’s Hot Shots
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1b0007b2-facc-4b87-88ac-28e2b6dd7610
+    name: King Oliver’s Jazz Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 457e47ec-c962-4210-82e8-4b528f2118bf
+    name: Lil’s Hot Shots
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: a160f2a6-4a00-4d70-934a-91a0f44c1ad7
+    name: Lil Hardin Armstrong and Her Orchestra
 biography_enhanced_at: '2026-01-29T02:01:12.917048'
 birth_date: '1898-02-03'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 death_date: '1971-08-27'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:01:12.917058'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2a6f6ee8-a9cd-4826-9749-d0fe48fb49f7
-  spotify: https://open.spotify.com/artist/5YBvQCeoo49EF0KVPYlFHj
+  musicbrainz: 'https://musicbrainz.org/artist/2a6f6ee8-a9cd-4826-9749-d0fe48fb49f7'
+  spotify: 'https://open.spotify.com/artist/5YBvQCeoo49EF0KVPYlFHj'
   wikipedia: ''
 gender: Female
 genres:
-- swing music
-- ragtime
+  - swing music
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/lil_hardin_armstrong.jpg
 instruments:
-- piano
-- eponymous
-- original
+  - piano
+  - eponymous
+  - original
 last_updated: '2026-01-29T02:01:12.917060'
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - King Oliver
-  - Lawrence Duhé
-  - Freddie Keppard
-  - Johnny Dodds
-  - Alberta Hunter
+    - Louis Armstrong
+    - King Oliver
+    - Lawrence Duhé
+    - Freddie Keppard
+    - Johnny Dodds
+    - Alberta Hunter
   influenced:
-  - Louis Armstrong
-  - Ray Charles
+    - Louis Armstrong
+    - Ray Charles
   mentors:
-  - King Oliver
+    - King Oliver
 musicbrainz_id: 2a6f6ee8-a9cd-4826-9749-d0fe48fb49f7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/lil-hardin-armstrong-profiles-in-jazz/
-- https://memphismusichalloffame.com/inductee/lilhardinarmstrong/
-- http://jazzhotbigstep.com/text/296.html
-- https://guides.loc.gov/louis-and-lil/music-by-lillian
+  - 'https://syncopatedtimes.com/lil-hardin-armstrong-profiles-in-jazz/'
+  - 'https://memphismusichalloffame.com/inductee/lilhardinarmstrong/'
+  - 'http://jazzhotbigstep.com/text/296.html'
+  - 'https://guides.loc.gov/louis-and-lil/music-by-lillian'
 spotify_data:
   followers: 3826
   id: 5YBvQCeoo49EF0KVPYlFHj
   popularity: 19
-  url: https://open.spotify.com/artist/5YBvQCeoo49EF0KVPYlFHj
+  url: 'https://open.spotify.com/artist/5YBvQCeoo49EF0KVPYlFHj'
 status: active
 tags:
-- blues
-- boogie-woogie
-- dixieland
-title: LIL HARDIN ARMSTRONG
+  - blues
+  - boogie-woogie
+  - dixieland
+title: Lil Hardin Armstrong
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](lil_hardin_armstrong.jpg)

@@ -3,13 +3,13 @@ biography_enhanced_at: '2026-02-15T01:49:59.031041'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:49:59.031057'
 external_urls:
-  spotify: https://open.spotify.com/artist/0z6LtJkiwFPeXzDMMoXewN
+  spotify: 'https://open.spotify.com/artist/0z6LtJkiwFPeXzDMMoXewN'
   wikipedia: ''
 genres:
-- son cubano
-- salsa
-- cha cha cha
-- mambo
+  - son cubano
+  - salsa
+  - cha cha cha
+  - mambo
 image_path: 03_Resources/source_material/ArtistPortraits/charanga_de_la_4.jpg
 last_updated: '2026-02-15T01:49:59.031059'
 musical_connections:
@@ -17,18 +17,19 @@ musical_connections:
   influenced: []
   mentors: []
 network_extracted: true
-origin: Havana, Cuba
+origin: 'Havana, Cuba'
 primary_source: perplexity
 research_sources:
-- https://www.jazzmusicarchives.com/artist/charanga-de-la-4
-- https://open.spotify.com/search/Charanga%20de%20La%204
+  - 'https://www.jazzmusicarchives.com/artist/charanga-de-la-4'
+  - 'https://open.spotify.com/search/Charanga%20de%20La%204'
 spotify_data:
   followers: 6080
   id: 0z6LtJkiwFPeXzDMMoXewN
   popularity: 20
-  url: https://open.spotify.com/artist/0z6LtJkiwFPeXzDMMoXewN
+  url: 'https://open.spotify.com/artist/0z6LtJkiwFPeXzDMMoXewN'
 status: active
 title: Charanga de La 4
+artist_type: band
 ---
 
 ![](charanga_de_la_4.jpg)

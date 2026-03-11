@@ -3,12 +3,12 @@ biography_enhanced_at: '2026-03-01T01:57:53.916334'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T01:57:53.916342'
 external_urls:
-  spotify: https://open.spotify.com/artist/3YixswSTOOGD9YJS2gGrBA
+  spotify: 'https://open.spotify.com/artist/3YixswSTOOGD9YJS2gGrBA'
   wikipedia: ''
 genres:
-- afro-cuban jazz
-- son cubano
-- latin jazz
+  - afro-cuban jazz
+  - son cubano
+  - latin jazz
 image_path: 03_Resources/source_material/ArtistPortraits/the_cuban_masters_ensemble.jpg
 last_updated: '2026-03-01T01:57:53.916343'
 musical_connections:
@@ -18,19 +18,22 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/chucho-valdes
-- https://news.umich.edu/the-beating-heart-of-cuba/
-- https://latinjazznet.com/featured/a-brief-history-of-the-cuban-style-conjunto/
-- https://ancienttofuture.com/2013/03/19/daniel-ponce-the-tragic-passing-of-a-cuban-master-drummer/
-- https://jazztimes.com/archives/cuban-masters-los-originales/
-- https://www.allmusic.com/album/cuban-masters-los-originales-mw0000592265
+  - 'https://www.arts.gov/honors/jazz/chucho-valdes'
+  - 'https://news.umich.edu/the-beating-heart-of-cuba/'
+  - >-
+    https://latinjazznet.com/featured/a-brief-history-of-the-cuban-style-conjunto/
+  - >-
+    https://ancienttofuture.com/2013/03/19/daniel-ponce-the-tragic-passing-of-a-cuban-master-drummer/
+  - 'https://jazztimes.com/archives/cuban-masters-los-originales/'
+  - 'https://www.allmusic.com/album/cuban-masters-los-originales-mw0000592265'
 spotify_data:
   followers: 120
   id: 3YixswSTOOGD9YJS2gGrBA
   popularity: 0
-  url: https://open.spotify.com/artist/3YixswSTOOGD9YJS2gGrBA
+  url: 'https://open.spotify.com/artist/3YixswSTOOGD9YJS2gGrBA'
 status: active
 title: The Cuban Masters Ensemble
+artist_type: band
 ---
 
 ![](the_cuban_masters_ensemble.jpg)

@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-03T02:08:18.410838'
-birth_place: Havana, Cuba
+birth_place: 'Havana, Cuba, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:08:18.410853'
 external_urls:
-  spotify: https://open.spotify.com/artist/7LmFexoaDaRfEaK8dnDB0x
-  wikipedia: https://en.wikipedia.org/wiki/Chico_O%27Farrill
+  spotify: 'https://open.spotify.com/artist/7LmFexoaDaRfEaK8dnDB0x'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chico_O%27Farrill'
 genres:
-- acid jazz
-- nu jazz
+  - acid jazz
+  - nu jazz
 image_path: ''
 last_updated: '2026-02-03T02:08:18.410857'
 musical_connections:
   collaborators:
-  - Clark Terry
-  - Charlie Parker
-  - Dizzy Gillespie
-  - Count Basie
-  - Wynton Marsalis
+    - Clark Terry
+    - Charlie Parker
+    - Dizzy Gillespie
+    - Count Basie
+    - Wynton Marsalis
   influenced:
-  - Arturo O'Farrill
+    - Arturo O'Farrill
   mentors:
-  - Benny Goodman
+    - Benny Goodman
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/chico-ofarrill/
-- https://en.wikipedia.org/wiki/Chico_O%27Farrill
-- https://en.wikipedia.org/wiki/Clark_Terry
-- https://salsagoogle.com/arturo-chico-ofarrill/
-- https://clarkterry.com/biography/
-- https://www.arts.gov/honors/jazz/clark-terry
-- https://havanamusicschool.com/the-genius-of-chico-ofarrill/
-- https://www.spaceagepop.com/ofarrill.htm
+  - 'https://www.allaboutjazz.com/musicians/chico-ofarrill/'
+  - 'https://en.wikipedia.org/wiki/Chico_O%27Farrill'
+  - 'https://en.wikipedia.org/wiki/Clark_Terry'
+  - 'https://salsagoogle.com/arturo-chico-ofarrill/'
+  - 'https://clarkterry.com/biography/'
+  - 'https://www.arts.gov/honors/jazz/clark-terry'
+  - 'https://havanamusicschool.com/the-genius-of-chico-ofarrill/'
+  - 'https://www.spaceagepop.com/ofarrill.htm'
 spotify_data:
   followers: 121
   id: 7LmFexoaDaRfEaK8dnDB0x
   popularity: 0
-  url: https://open.spotify.com/artist/7LmFexoaDaRfEaK8dnDB0x
+  url: 'https://open.spotify.com/artist/7LmFexoaDaRfEaK8dnDB0x'
 status: active
-title: CLARK TERRY & CHICO O'FARRILL
+title: Clark Terry & Chico O'Farrill
+death_date: '2001-06-27'
+artist_type: band
 ---
 
 ![]()

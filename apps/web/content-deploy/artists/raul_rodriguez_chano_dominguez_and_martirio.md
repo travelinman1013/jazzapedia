@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2026-03-01T02:02:00.137396'
-birth_place: Sevilla, Andalucía, Spain
+birth_place: 'Sevilla, Andalucía, Spain'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:02:00.137413'
 external_urls:
-  spotify: https://open.spotify.com/artist/6mcVRxA5RWGyt4O0uixoMn
+  spotify: 'https://open.spotify.com/artist/6mcVRxA5RWGyt4O0uixoMn'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/raul_rodriguez_chano_dominguez_and_martirio.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/raul_rodriguez_chano_dominguez_and_martirio.jpg
 last_updated: '2026-03-01T02:02:00.137416'
 musical_connections:
   collaborators:
-  - Martirio
-  - Chano Domínguez
-  - Paco de Amparo
-  - Pepe Torres
-  - Manuel Flores
-  - Moi de Morón
-  - Kiko Veneno
-  - José Loreto 'Charamusco'
+    - Martirio
+    - Chano Domínguez
+    - Paco de Amparo
+    - Pepe Torres
+    - Manuel Flores
+    - Moi de Morón
+    - Kiko Veneno
+    - José Loreto 'Charamusco'
   influenced: []
   mentors:
-  - Diego del Gastor
+    - Diego del Gastor
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.raul-rodriguez.net/biografia
-- https://www.raul-rodriguez.net/bioeningles
-- https://www.deflamenco.com/revista/entrevistas/interview-with-raul-rodriguez-razon-de-son-1.html
-- https://magazineampm.com/en/es-la-historia-de-un-amor/
-- https://www.jazzmusicarchives.com/artist/martirio
+  - 'https://www.raul-rodriguez.net/biografia'
+  - 'https://www.raul-rodriguez.net/bioeningles'
+  - >-
+    https://www.deflamenco.com/revista/entrevistas/interview-with-raul-rodriguez-razon-de-son-1.html
+  - 'https://magazineampm.com/en/es-la-historia-de-un-amor/'
+  - 'https://www.jazzmusicarchives.com/artist/martirio'
 spotify_data:
   followers: 3
   id: 6mcVRxA5RWGyt4O0uixoMn
   popularity: 2
-  url: https://open.spotify.com/artist/6mcVRxA5RWGyt4O0uixoMn
+  url: 'https://open.spotify.com/artist/6mcVRxA5RWGyt4O0uixoMn'
 status: active
-title: raul rodriguez, chano dominguez & martirio
+title: 'Raul Rodriguez, Chano Dominguez & Martirio'
+birth_date: '1974'
+artist_type: person
 ---
 
 ![](raul_rodriguez_chano_dominguez_and_martirio.jpg)

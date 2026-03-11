@@ -1,93 +1,97 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - trumpet
-  mbid: 10ab46b8-090d-414d-a9d6-363fe8a394c0
-  name: Eddie Henderson Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 28d91e80-2457-487e-ab3c-4244205d923a
-  name: Kenny Barron Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fe1cca40-60cc-49a1-8249-2fb0786ead16
-  name: Billy Harper Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9044bbac-14a0-42b6-bee3-136647146d29
-  name: The Herbie Hancock Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: ca26207e-fb68-4322-9ca4-308800e98693
-  name: Nublu Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 70035e0d-4a17-4b2d-9a1b-f899a561fde0
-  name: Jazz Brothers
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - trumpet
+    mbid: 10ab46b8-090d-414d-a9d6-363fe8a394c0
+    name: Eddie Henderson Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 28d91e80-2457-487e-ab3c-4244205d923a
+    name: Kenny Barron Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fe1cca40-60cc-49a1-8249-2fb0786ead16
+    name: Billy Harper Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9044bbac-14a0-42b6-bee3-136647146d29
+    name: The Herbie Hancock Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: ca26207e-fb68-4322-9ca4-308800e98693
+    name: Nublu Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 70035e0d-4a17-4b2d-9a1b-f899a561fde0
+    name: Jazz Brothers
 biography_enhanced_at: '2026-02-20T01:20:01.071669'
 birth_date: '1940-10-26'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:20:01.071681'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b07d5aa9-936d-4860-bb06-3a4b4e0205ed
-  spotify: https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF
+  musicbrainz: 'https://musicbrainz.org/artist/b07d5aa9-936d-4860-bb06-3a4b4e0205ed'
+  spotify: 'https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF'
   wikipedia: ''
 gender: Male
 genres:
-- jazz funk
-- jazz fusion
-- jazz
-- soul jazz
+  - jazz funk
+  - jazz fusion
+  - jazz
+  - soul jazz
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_henderson.jpg
 instruments:
-- original
-- trumpet
+  - original
+  - trumpet
 last_updated: '2026-02-20T01:20:01.071682'
 musical_connections:
   collaborators:
-  - Herbie Hancock
-  - Pharoah Sanders
-  - Art Blakey
-  - Norman Connors
+    - Herbie Hancock
+    - Pharoah Sanders
+    - Art Blakey
+    - Norman Connors
   influenced: []
   mentors:
-  - Louis Armstrong
-  - Miles Davis
+    - Louis Armstrong
+    - Miles Davis
 musicbrainz_id: b07d5aa9-936d-4860-bb06-3a4b4e0205ed
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://concord.com/artist/eddie-henderson/
-- https://artsandmedia.ucdenver.edu/college-of-arts-and-media/homepage-news-details/for-publication/the-incredibly-prolific-life-of-jazz-musician-eddie-henderson
-- https://www.oberlin.edu/eddie-henderson
-- https://blues.gr/profiles/blogs/q-a-with-eddie-henderson-is-one-of-today-s-top-and-most-original-
-- https://jazztimes.com/archives/eddie-henderson-dr-trumpet/
-- https://www.bluenote.com/artist/eddie-henderson/
-- https://www.namm.org/library/oral-history/eddie-henderson
-- https://www.music.org/data-services/professional-notices-by-email.html?catid=2&id=3521&view=article
+  - 'https://concord.com/artist/eddie-henderson/'
+  - >-
+    https://artsandmedia.ucdenver.edu/college-of-arts-and-media/homepage-news-details/for-publication/the-incredibly-prolific-life-of-jazz-musician-eddie-henderson
+  - 'https://www.oberlin.edu/eddie-henderson'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-eddie-henderson-is-one-of-today-s-top-and-most-original-
+  - 'https://jazztimes.com/archives/eddie-henderson-dr-trumpet/'
+  - 'https://www.bluenote.com/artist/eddie-henderson/'
+  - 'https://www.namm.org/library/oral-history/eddie-henderson'
+  - >-
+    https://www.music.org/data-services/professional-notices-by-email.html?catid=2&id=3521&view=article
 spotify_data:
   followers: 18633
   id: 4LMsUGCTzMsLYcL90zb8sF
   popularity: 31
-  url: https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF
+  url: 'https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF'
 status: active
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
+  - contemporary jazz
+  - jazz
+  - jazz fusion
 title: Eddie Henderson
+origin: 'San Francisco, California, United States'
 ---
 
 ![](eddie_henderson.jpg)

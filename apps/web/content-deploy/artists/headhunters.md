@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-03T02:01:02.395892'
-birth_place: Netherlands
+birth_place: 'Netherlands, Netherlands, Netherlands'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:01:02.395902'
 external_urls:
-  spotify: https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy
+  spotify: 'https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy'
   wikipedia: ''
 genres:
-- hardstyle
-- frenchcore
-- melbourne bounce
-- big room
-- hardcore
+  - hardstyle
+  - frenchcore
+  - melbourne bounce
+  - big room
+  - hardcore
 image_path: 03_Resources/source_material/ArtistPortraits/headhunters.jpg
 last_updated: '2026-02-03T02:01:02.395903'
 musical_connections:
   collaborators:
-  - Wildstylez
-  - Krewella
-  - W&W, Steve Aoki, R3hab
+    - Wildstylez
+    - Krewella
+    - 'W&W, Steve Aoki, R3hab'
   influenced: []
   mentors:
-  - The Prophet (Dov Elkabas)
+    - The Prophet (Dov Elkabas)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://artofcreation.com/artists/headhunterz/
-- https://hardstyle.com/en/artists/headhunterz
-- https://harderstyles.fandom.com/wiki/Headhunterz
-- https://kids.kiddle.co/Headhunterz
-- https://www.insomniac.com/music/artists/headhunterz/
-- https://headhunterz.com/about/
-- https://climaxplay.net/artist/headhunterz/
-- https://relentlessbeats.com/artists/headhunterz/
+  - 'https://artofcreation.com/artists/headhunterz/'
+  - 'https://hardstyle.com/en/artists/headhunterz'
+  - 'https://harderstyles.fandom.com/wiki/Headhunterz'
+  - 'https://kids.kiddle.co/Headhunterz'
+  - 'https://www.insomniac.com/music/artists/headhunterz/'
+  - 'https://headhunterz.com/about/'
+  - 'https://climaxplay.net/artist/headhunterz/'
+  - 'https://relentlessbeats.com/artists/headhunterz/'
 spotify_data:
   followers: 510932
   id: 6C0KWmCdqrLU2LzzWBPbOy
   popularity: 59
-  url: https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy
+  url: 'https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy'
 status: active
 title: Headhunters
+birth_date: '1985-09-12'
+artist_type: person
 ---
 
 ![](headhunters.jpg)

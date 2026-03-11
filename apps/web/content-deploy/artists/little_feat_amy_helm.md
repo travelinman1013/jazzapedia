@@ -3,44 +3,45 @@ biography_enhanced_at: '2026-02-09T01:21:58.741508'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:21:58.741515'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+  spotify: 'https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S'
   wikipedia: ''
 genres:
-- southern rock
-- jam band
-- country rock
+  - southern rock
+  - jam band
+  - country rock
 image_path: 03_Resources/source_material/ArtistPortraits/little_feat_amy_helm.jpg
 last_updated: '2026-02-09T01:21:58.741516'
 musical_connections:
   collaborators:
-  - Lowell George
-  - Bill Payne
-  - Richie Hayward
-  - Paul Barrere
-  - Kenny Gradney
-  - Sam Clayton
-  - Fred Tackett
-  - Scott Sharrard
-  - Tony Leone
+    - Lowell George
+    - Bill Payne
+    - Richie Hayward
+    - Paul Barrere
+    - Kenny Gradney
+    - Sam Clayton
+    - Fred Tackett
+    - Scott Sharrard
+    - Tony Leone
   influenced: []
   mentors:
-  - Frank Zappa
+    - Frank Zappa
 network_extracted: true
-origin: Los Angeles, California, USA
+origin: 'Los Angeles, California, USA'
 primary_source: perplexity
 research_sources:
-- https://www.littlefeat.net/band-bio
-- https://www.thefactorystl.com/artist/little-feat/
-- https://rhythmandroots.com/artists/little-feat-25/
-- https://www.youtube.com/watch?v=v8lXGrHKNZ4
-- https://www.sessiondays.com/2023/02/little-feat/
+  - 'https://www.littlefeat.net/band-bio'
+  - 'https://www.thefactorystl.com/artist/little-feat/'
+  - 'https://rhythmandroots.com/artists/little-feat-25/'
+  - 'https://www.youtube.com/watch?v=v8lXGrHKNZ4'
+  - 'https://www.sessiondays.com/2023/02/little-feat/'
 spotify_data:
   followers: 508200
   id: 0ZIwOAzDuGPspzK7yiTc4S
   popularity: 56
-  url: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+  url: 'https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S'
 status: active
-title: Little Feat, Amy Helm
+title: Little Feat
+artist_type: person
 ---
 
 ![](little_feat_amy_helm.jpg)

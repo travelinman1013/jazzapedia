@@ -1,45 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-20T01:20:47.332702'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:20:47.332709'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Rt9MwIwqyZUDjJMYe9sqw
+  spotify: 'https://open.spotify.com/artist/5Rt9MwIwqyZUDjJMYe9sqw'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/calvin_johnson_jr.jpg
 last_updated: '2026-02-20T01:20:47.332709'
 musical_connections:
   collaborators:
-  - Nathan Lambertson
-  - Courtney Bryan
-  - Joe Dyson
-  - Harry Connick Jr.
-  - Preservation Hall Jazz Band
-  - Dirty Dozen Brass Band
+    - Nathan Lambertson
+    - Courtney Bryan
+    - Joe Dyson
+    - Harry Connick Jr.
+    - Preservation Hall Jazz Band
+    - Dirty Dozen Brass Band
   influenced:
-  - Aspiring music students
-  - Youth in Trumpets Not Guns
+    - Aspiring music students
+    - Youth in Trumpets Not Guns
   mentors:
-  - Edward 'Kidd' Jordan
-  - George 'Son' Johnson
+    - Edward 'Kidd' Jordan
+    - George 'Son' Johnson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://arthurstavern.nyc/events/calvin-johnson-native-son/
-- https://jazztimes.com/features/profiles/calvin-johnson-jr-new-orleans-multi-talented-native-son/
-- https://redbeansanderic.com/calvin-johnson/
-- https://www.thedjangonyc.com/events/calvin-johnson-and-native-son-live-at-django/
-- https://musicbrainz.org/artist/33af20fa-6bb5-4f13-9ed7-d5c152d83306
-- https://www.offbeat.com/podcasts/look-ka-py-py-podcast-ep-69-calvin-johnson-jr-favorite-things/
-- https://lydialiebman.com/index.php/2021/12/15/new-release-calvin-johnsons-notes-of-a-native-son-is-out-february-18-2022/
+  - 'https://arthurstavern.nyc/events/calvin-johnson-native-son/'
+  - >-
+    https://jazztimes.com/features/profiles/calvin-johnson-jr-new-orleans-multi-talented-native-son/
+  - 'https://redbeansanderic.com/calvin-johnson/'
+  - >-
+    https://www.thedjangonyc.com/events/calvin-johnson-and-native-son-live-at-django/
+  - 'https://musicbrainz.org/artist/33af20fa-6bb5-4f13-9ed7-d5c152d83306'
+  - >-
+    https://www.offbeat.com/podcasts/look-ka-py-py-podcast-ep-69-calvin-johnson-jr-favorite-things/
+  - >-
+    https://lydialiebman.com/index.php/2021/12/15/new-release-calvin-johnsons-notes-of-a-native-son-is-out-february-18-2022/
 spotify_data:
   followers: 168
   id: 5Rt9MwIwqyZUDjJMYe9sqw
   popularity: 0
-  url: https://open.spotify.com/artist/5Rt9MwIwqyZUDjJMYe9sqw
+  url: 'https://open.spotify.com/artist/5Rt9MwIwqyZUDjJMYe9sqw'
 status: active
-title: Calvin Johnson, Jr.
+title: 'Calvin Johnson, Jr.'
+birth_date: '1985-11-21'
+artist_type: person
 ---
 
 ![](calvin_johnson_jr.jpg)

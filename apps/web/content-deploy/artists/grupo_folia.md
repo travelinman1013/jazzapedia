@@ -3,15 +3,15 @@ biography_enhanced_at: '2026-01-25T01:36:35.564655'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:36:35.564662'
 external_urls:
-  spotify: https://open.spotify.com/artist/29NLE1onOSUN21rerlSHy9
-  wikipedia: https://en.wikipedia.org/wiki/Folia
+  spotify: 'https://open.spotify.com/artist/29NLE1onOSUN21rerlSHy9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Folia'
 genres:
-- cumbia norteña
-- norteño
-- tejano
-- norteño-sax
-- cumbia
-- grupera
+  - cumbia norteña
+  - norteño
+  - tejano
+  - norteño-sax
+  - cumbia
+  - grupera
 image_path: 03_Resources/source_material/ArtistPortraits/grupo_folia.jpg
 last_updated: '2026-01-25T01:36:35.564663'
 musical_connections:
@@ -22,21 +22,23 @@ network_extracted: true
 origin: Unknown
 primary_source: perplexity
 research_sources:
-- https://telegrafi.com/en/la-folia-music-influence-in-history/
-- https://folias.nl/html5s.html
-- https://en.wikipedia.org/wiki/Folia
-- https://folias.nl/html5.html
-- https://www.lafolia.com/musica-mexicana-an-introduction/
-- https://essaysonmusic.com/the-folia/
-- https://thelistenersclub.com/2013/08/05/la-folia/
-- https://hemiola07.wordpress.com/2011/01/18/food-for-thoughtcorellis-la-folia/
+  - 'https://telegrafi.com/en/la-folia-music-influence-in-history/'
+  - 'https://folias.nl/html5s.html'
+  - 'https://en.wikipedia.org/wiki/Folia'
+  - 'https://folias.nl/html5.html'
+  - 'https://www.lafolia.com/musica-mexicana-an-introduction/'
+  - 'https://essaysonmusic.com/the-folia/'
+  - 'https://thelistenersclub.com/2013/08/05/la-folia/'
+  - >-
+    https://hemiola07.wordpress.com/2011/01/18/food-for-thoughtcorellis-la-folia/
 spotify_data:
   followers: 9300
   id: 29NLE1onOSUN21rerlSHy9
   popularity: 31
-  url: https://open.spotify.com/artist/29NLE1onOSUN21rerlSHy9
+  url: 'https://open.spotify.com/artist/29NLE1onOSUN21rerlSHy9'
 status: active
 title: Grupo Folia
+artist_type: band
 ---
 
 ![](grupo_folia.jpg)

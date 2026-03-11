@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-15T01:51:46.290448'
-birth_place: Osogbo, Osun State (Oyo State historically), Nigeria
+birth_place: 'Osogbo, Osun State (Oyo State historically), Nigeria'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:51:46.290458'
 external_urls:
-  spotify: https://open.spotify.com/artist/4JlARvQLGoU9Ri1RdZXWGm
-  wikipedia: https://en.wikipedia.org/wiki/Orlando_Owoh
+  spotify: 'https://open.spotify.com/artist/4JlARvQLGoU9Ri1RdZXWGm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Orlando_Owoh'
 genres:
-- fújì
-- highlife
+  - fújì
+  - highlife
 image_path: 03_Resources/source_material/ArtistPortraits/orlando_owoh.jpg
 last_updated: '2026-02-15T01:51:46.290459'
 musical_connections:
   collaborators:
-  - Kola Ogunmola Theatre Group
-  - Dele Jolly and His Chocolate Dandies
-  - Omimah Band / Young Kenneries / African Kenneries International
+    - Kola Ogunmola Theatre Group
+    - Dele Jolly and His Chocolate Dandies
+    - Omimah Band / Young Kenneries / African Kenneries International
   influenced:
-  - Dele Bravo
-  - King Sunny Ade
+    - Dele Bravo
+    - King Sunny Ade
   mentors:
-  - Fatai Rolling Dollar
-  - Father (unnamed carpenter-musician)
+    - Fatai Rolling Dollar
+    - Father (unnamed carpenter-musician)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fujinaija.ng/orlando-owoh-biography-age-networth-family/
-- https://en.wikipedia.org/wiki/Orlando_Owoh
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/owoh-orlando
-- https://bookartville.com/orlando-owoh-the-life-of-a-songbird/
-- https://evergreenmusic.com.ng/biographies/orlando-owoh/
-- https://www.last.fm/music/Dr.+Orlando+Owoh/+wiki
+  - 'https://fujinaija.ng/orlando-owoh-biography-age-networth-family/'
+  - 'https://en.wikipedia.org/wiki/Orlando_Owoh'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/owoh-orlando
+  - 'https://bookartville.com/orlando-owoh-the-life-of-a-songbird/'
+  - 'https://evergreenmusic.com.ng/biographies/orlando-owoh/'
+  - 'https://www.last.fm/music/Dr.+Orlando+Owoh/+wiki'
 spotify_data:
   followers: 55562
   id: 4JlARvQLGoU9Ri1RdZXWGm
   popularity: 37
-  url: https://open.spotify.com/artist/4JlARvQLGoU9Ri1RdZXWGm
+  url: 'https://open.spotify.com/artist/4JlARvQLGoU9Ri1RdZXWGm'
 status: active
-title: orlando owoh
+title: Orlando Owoh
+birth_date: '1932-02-14'
+artist_type: person
 ---
 
 ![](orlando_owoh.jpg)

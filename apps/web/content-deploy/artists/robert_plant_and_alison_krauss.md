@@ -1,61 +1,65 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-24T02:03:51.493859'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:03:51.493865'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/38eb4af8-2282-4b8f-8819-1c7f92640dde
-  spotify: https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG
+  musicbrainz: 'https://musicbrainz.org/artist/38eb4af8-2282-4b8f-8819-1c7f92640dde'
+  spotify: 'https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG'
   wikipedia: ''
 genres:
-- bluegrass
-- christian bluegrass
-- country christian
-- americana
-image_path: 03_Resources/source_material/ArtistPortraits/robert_plant_and_alison_krauss.jpg
+  - bluegrass
+  - christian bluegrass
+  - country christian
+  - americana
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/robert_plant_and_alison_krauss.jpg
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 last_updated: '2026-01-24T02:03:51.493865'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 6b064ead-91a4-4ac8-8076-b1febe4f4aac
-  name: Alison Krauss
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc
-  name: Robert Plant
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 6b064ead-91a4-4ac8-8076-b1febe4f4aac
+    name: Alison Krauss
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc
+    name: Robert Plant
 musical_connections:
   collaborators:
-  - T Bone Burnett
-  - John Bonham
+    - T Bone Burnett
+    - John Bonham
   influenced: []
   mentors:
-  - T Bone Burnett
+    - T Bone Burnett
 musicbrainz_id: 38eb4af8-2282-4b8f-8819-1c7f92640dde
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Robert-Plant
-- https://en.wikipedia.org/wiki/Robert_Plant
-- https://en.wikipedia.org/wiki/Alison_Krauss
-- https://highmarkmann.org/vault/plantandkrauss
-- https://www.latimes.com/entertainment-arts/music/story/2022-08-17/robert-plant-alison-krauss
-- https://concord.com/artist/robert-plant-alison-krauss/
+  - 'https://www.britannica.com/biography/Robert-Plant'
+  - 'https://en.wikipedia.org/wiki/Robert_Plant'
+  - 'https://en.wikipedia.org/wiki/Alison_Krauss'
+  - 'https://highmarkmann.org/vault/plantandkrauss'
+  - >-
+    https://www.latimes.com/entertainment-arts/music/story/2022-08-17/robert-plant-alison-krauss
+  - 'https://concord.com/artist/robert-plant-alison-krauss/'
 spotify_data:
   followers: 429185
   id: 5J6L7N6B4nI1M5cwa29mQG
   popularity: 63
-  url: https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG
+  url: 'https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG'
 status: active
-title: robert plant & alison krauss
+title: Robert Plant & Alison Krauss
+birth_place: 'West Bromwich, England, United Kingdom'
+birth_date: '1971-07-23'
 ---
 
 ![](robert_plant_and_alison_krauss.jpg)

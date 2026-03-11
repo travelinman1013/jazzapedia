@@ -1,49 +1,50 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-24T02:04:20.526165'
-birth_place: Bluff Dale, Texas, USA
+birth_place: 'Bluff Dale, Texas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:04:20.526170'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ba2a779e-fedf-4371-9290-481bac574804
-  spotify: https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ
+  musicbrainz: 'https://musicbrainz.org/artist/ba2a779e-fedf-4371-9290-481bac574804'
+  spotify: 'https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ'
   wikipedia: ''
 gender: Male
 genres:
-- red dirt
-- texas country
-- outlaw country
-- alt country
+  - red dirt
+  - texas country
+  - outlaw country
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/red_shahan.jpg
 last_updated: '2026-01-24T02:04:20.526171'
 musical_connections:
   collaborators:
-  - Elijah Ford
-  - Matthew “Paw Paw” Smith
-  - Parker Morrow
-  - Daniel Sproul
-  - Charlie Shafter
-  - Bonnie Bishop
+    - Elijah Ford
+    - Matthew “Paw Paw” Smith
+    - Parker Morrow
+    - Daniel Sproul
+    - Charlie Shafter
+    - Bonnie Bishop
   influenced: []
   mentors:
-  - Kim Smith
+    - Kim Smith
 musicbrainz_id: ba2a779e-fedf-4371-9290-481bac574804
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://billybobstexas.com/artists/red-shahan
-- https://www.countrythangdaily.com/red-shahan-facts/
-- https://turtleboxaudio.com/blogs/box-sessions/red-shahan
-- https://twangrila.com/2018/05/18/red-shahan-culberson-county-thirty-tigers/
-- https://www.iheart.com/artist/red-shahan-31014807/
-- https://www.bandsintown.com/e/107509658-red-shahan-at-house-of-blues-new-orleans?came_from=209
+  - 'https://billybobstexas.com/artists/red-shahan'
+  - 'https://www.countrythangdaily.com/red-shahan-facts/'
+  - 'https://turtleboxaudio.com/blogs/box-sessions/red-shahan'
+  - 'https://twangrila.com/2018/05/18/red-shahan-culberson-county-thirty-tigers/'
+  - 'https://www.iheart.com/artist/red-shahan-31014807/'
+  - >-
+    https://www.bandsintown.com/e/107509658-red-shahan-at-house-of-blues-new-orleans?came_from=209
 spotify_data:
   followers: 48095
   id: 5DPP8EALeVGnupgVjlWOwJ
   popularity: 44
-  url: https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ
+  url: 'https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ'
 status: active
-title: red shahan
+title: Red Shahan
 ---
 
 ![](red_shahan.jpg)

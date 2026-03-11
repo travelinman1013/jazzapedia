@@ -3,41 +3,42 @@ biography_enhanced_at: '2026-03-03T01:28:59.569297'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:28:59.569302'
 external_urls:
-  spotify: https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89
-  wikipedia: https://en.wikipedia.org/wiki/Irreversible_Entanglements
+  spotify: 'https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89'
+  wikipedia: 'https://en.wikipedia.org/wiki/Irreversible_Entanglements'
 genres:
-- free jazz
-- experimental jazz
-- spoken word
+  - free jazz
+  - experimental jazz
+  - spoken word
 image_path: 03_Resources/source_material/ArtistPortraits/irreversible_entanglements.jpg
 last_updated: '2026-03-03T01:28:59.569303'
 musical_connections:
   collaborators:
-  - Camae Ayewa (Moor Mother)
-  - Luke Stewart
-  - Keir Neuringer
-  - Aquiles Navarro
-  - Tcheser Holmes
+    - Camae Ayewa (Moor Mother)
+    - Luke Stewart
+    - Keir Neuringer
+    - Aquiles Navarro
+    - Tcheser Holmes
   influenced: []
   mentors: []
 network_extracted: true
-origin: Brooklyn, New York, USA (formation location)
+origin: 'Brooklyn, New York, USA (formation location)'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Irreversible_Entanglements
-- https://pioneerworks.org/residency/irreversible-entanglements
-- https://www.intlanthem.com/artists/irreversible-entanglements
-- https://www.cafeoto.co.uk/artists/irreversible-entanglements/
-- https://downbeat.com/news/detail/the-chemistry-of-irreversible-entanglements
-- https://www.allaboutjazz.com/musicians/irreversible-entanglements/
-- http://www.vilniusjazz.lt/2025/performer.php?id=1756027997
+  - 'https://en.wikipedia.org/wiki/Irreversible_Entanglements'
+  - 'https://pioneerworks.org/residency/irreversible-entanglements'
+  - 'https://www.intlanthem.com/artists/irreversible-entanglements'
+  - 'https://www.cafeoto.co.uk/artists/irreversible-entanglements/'
+  - 'https://downbeat.com/news/detail/the-chemistry-of-irreversible-entanglements'
+  - 'https://www.allaboutjazz.com/musicians/irreversible-entanglements/'
+  - 'http://www.vilniusjazz.lt/2025/performer.php?id=1756027997'
 spotify_data:
   followers: 20088
   id: 5XqyqoLZXA69lCNyBT3f89
   popularity: 16
-  url: https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89
+  url: 'https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89'
 status: active
 title: Irreversible Entanglements
+artist_type: band
 ---
 
 ![](irreversible_entanglements.jpg)

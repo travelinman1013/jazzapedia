@@ -1,40 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-23T03:08:27.995152'
-birth_place: Brooklyn, New York, United States (residence); Jamaica (family origin)
+birth_place: 'Brooklyn, New York, United States (residence); Jamaica (family origin)'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:08:27.995160'
 external_urls:
-  spotify: https://open.spotify.com/artist/0V5QjeSrcp3sxp7GaoCOie
+  spotify: 'https://open.spotify.com/artist/0V5QjeSrcp3sxp7GaoCOie'
   wikipedia: null
 genres:
-- reggae
-- roots reggae
-- ragga
-- dub
-- rocksteady
+  - reggae
+  - roots reggae
+  - ragga
+  - dub
+  - rocksteady
 image_path: 03_Resources/source_material/ArtistPortraits/nakeeba_amaniyea_sister_carol.jpg
 last_updated: '2026-02-23T03:08:27.995161'
 musical_connections:
   collaborators:
-  - Sister Carol
-  - Irie Still (backing band)
+    - Sister Carol
+    - Irie Still (backing band)
   influenced: []
   mentors:
-  - Sister Carol (Carol Theresa East)
+    - Sister Carol (Carol Theresa East)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jamaicans.com/sister-carol-the-legendary-black-cinderella-of-reggae-music/
-- https://en.wikipedia.org/wiki/Sister_Carol
-- http://jesterjaymusic.blogspot.com/2012/08/concert-review-sister-carol-and-nakeeba.html
-- https://wbssmedia.com/artists/detail/3470
+  - >-
+    https://jamaicans.com/sister-carol-the-legendary-black-cinderella-of-reggae-music/
+  - 'https://en.wikipedia.org/wiki/Sister_Carol'
+  - >-
+    http://jesterjaymusic.blogspot.com/2012/08/concert-review-sister-carol-and-nakeeba.html
+  - 'https://wbssmedia.com/artists/detail/3470'
 spotify_data:
   followers: 12434
   id: 0V5QjeSrcp3sxp7GaoCOie
   popularity: 18
-  url: https://open.spotify.com/artist/0V5QjeSrcp3sxp7GaoCOie
+  url: 'https://open.spotify.com/artist/0V5QjeSrcp3sxp7GaoCOie'
 status: active
-title: Nakeeba Amaniyea, Sister Carol
+title: 'Nakeeba Amaniyea, Sister Carol'
+origin: Jamaica
+artist_type: person
 ---
 
 ![](nakeeba_amaniyea_sister_carol.jpg)

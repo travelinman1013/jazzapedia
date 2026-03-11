@@ -2,52 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2026-02-15T01:51:10.915529'
 birth_date: '1975-05-05'
-birth_place: Cambridge Bay
+birth_place: 'Cambridge Bay, Nunavut, Canada'
 disambiguation: Inuk throat singer
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:51:10.915538'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/511b1817-5adc-49ea-96e7-41497fbf0b27
-  spotify: https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY
-  wikipedia: https://en.wikipedia.org/wiki/Tanya_Tagaq
+  musicbrainz: 'https://musicbrainz.org/artist/511b1817-5adc-49ea-96e7-41497fbf0b27'
+  spotify: 'https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tanya_Tagaq'
 gender: Female
 genres:
-- native american music
+  - native american music
 image_path: 03_Resources/source_material/ArtistPortraits/tanya_tagaq.jpg
 instruments:
-- background vocals
-- other vocals
+  - background vocals
+  - other vocals
 last_updated: '2026-02-15T01:51:10.915539'
 musical_connections:
   collaborators:
-  - Björk
-  - Kronos Quartet
-  - Mike Patton
-  - Shad
-  - Christine Duncan
-  - Jean Martin
-  - Paola Prestini
+    - Björk
+    - Kronos Quartet
+    - Mike Patton
+    - Shad
+    - Christine Duncan
+    - Jean Martin
+    - Paola Prestini
   influenced: []
   mentors:
-  - Mother (unnamed)
+    - Mother (unnamed)
 musicbrainz_id: 511b1817-5adc-49ea-96e7-41497fbf0b27
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allamericanspeakers.com/celebritytalentbios/Tanya+Tagaq/465479
-- https://www.redbullmusicacademy.com/lectures/tanya-tagaq-lecture/
-- https://www.artidea.org/blog/2019/01/3636
-- https://arts.brown.edu/ignite/artistic-innovators-residencies/tanya-tagaq
-- https://en.wikipedia.org/wiki/Tanya_Tagaq
-- https://www.andotherstories.org/authors/tanya-tagaq/
-- https://www.tanyatagaq.com/about
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Tanya+Tagaq/465479'
+  - 'https://www.redbullmusicacademy.com/lectures/tanya-tagaq-lecture/'
+  - 'https://www.artidea.org/blog/2019/01/3636'
+  - 'https://arts.brown.edu/ignite/artistic-innovators-residencies/tanya-tagaq'
+  - 'https://en.wikipedia.org/wiki/Tanya_Tagaq'
+  - 'https://www.andotherstories.org/authors/tanya-tagaq/'
+  - 'https://www.tanyatagaq.com/about'
 spotify_data:
   followers: 35533
   id: 2WIb75pwIt78VCAhAtPObY
   popularity: 29
-  url: https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY
+  url: 'https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY'
 status: active
-title: tanya tagaq
+title: Tanya Tagaq
+origin: 'Yellowknife, Northwest Territories, Canada'
 ---
 
 ![](tanya_tagaq.jpg)

@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-01-27T01:49:35.792020'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:49:35.792030'
 external_urls:
-  spotify: https://open.spotify.com/artist/4RvX0r7VC4jHdQLIjx1BwU
+  spotify: 'https://open.spotify.com/artist/4RvX0r7VC4jHdQLIjx1BwU'
   wikipedia: ''
 genres:
-- avant-garde
+  - avant-garde
 image_path: 03_Resources/source_material/ArtistPortraits/not_missing_drums_project.jpg
 last_updated: '2026-01-27T01:49:35.792032'
 musical_connections:
@@ -16,15 +16,17 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/album/offline-adventures-not-missing-drums-project
-- http://www.leorecords.com/?m=select&id=LeoLab_057
+  - >-
+    https://www.allaboutjazz.com/album/offline-adventures-not-missing-drums-project
+  - 'http://www.leorecords.com/?m=select&id=LeoLab_057'
 spotify_data:
   followers: 19
   id: 4RvX0r7VC4jHdQLIjx1BwU
   popularity: 0
-  url: https://open.spotify.com/artist/4RvX0r7VC4jHdQLIjx1BwU
+  url: 'https://open.spotify.com/artist/4RvX0r7VC4jHdQLIjx1BwU'
 status: active
 title: Not Missing Drums Project
+artist_type: band
 ---
 
 ![](not_missing_drums_project.jpg)

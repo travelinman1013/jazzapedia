@@ -1,59 +1,62 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-22T01:45:40.436688'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:45:40.436699'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e83e6522-78f5-4af4-8580-c9fbe21964c0
-  spotify: https://open.spotify.com/artist/77HJQ9uCpKGF42kDyiAICK
-  wikipedia: https://en.wikipedia.org/wiki/Gary_Brewer_and_the_Kentucky_Ramblers
+  musicbrainz: 'https://musicbrainz.org/artist/e83e6522-78f5-4af4-8580-c9fbe21964c0'
+  spotify: 'https://open.spotify.com/artist/77HJQ9uCpKGF42kDyiAICK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gary_Brewer_and_the_Kentucky_Ramblers'
 genres:
-- bluegrass
-- christian bluegrass
-- newgrass
-- americana
+  - bluegrass
+  - christian bluegrass
+  - newgrass
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/kentucky_ramblers.jpg
 last_updated: '2026-02-22T01:45:40.436701'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 76322262-2db7-4b94-bf3e-10c7c9f031a6
-  name: Happy Jack Taylor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 76322262-2db7-4b94-bf3e-10c7c9f031a6
+    name: Happy Jack Taylor
 musical_connections:
   collaborators:
-  - Wayne Brewer
-  - Mason Brewer
-  - Cody Pearman
-  - Jim Lauderdale
-  - Sam Bush
-  - The Travelin' McCourys
-  - EmiSunshine
+    - Wayne Brewer
+    - Mason Brewer
+    - Cody Pearman
+    - Jim Lauderdale
+    - Sam Bush
+    - The Travelin' McCourys
+    - EmiSunshine
   influenced: []
   mentors:
-  - Bill Monroe
-  - J.D. Crowe
-  - Doyle Lawson
-  - Larry Sparks
-  - Finley J. Brewer Jr.
-  - Finley J. 'Pap' Brewer Sr.
+    - Bill Monroe
+    - J.D. Crowe
+    - Doyle Lawson
+    - Larry Sparks
+    - Finley J. Brewer Jr.
+    - Finley J. 'Pap' Brewer Sr.
 musicbrainz_id: e83e6522-78f5-4af4-8580-c9fbe21964c0
 network_extracted: true
-origin: West Point, Kentucky, USA
+origin: 'West Point, Kentucky, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gary_Brewer_and_the_Kentucky_Ramblers
-- https://www.lexingtonlivingmagazine.com/people/gbkr
-- https://bluegrassunlimited.com/article/gary-brewer-the-kentucky-ramblers/
-- https://www.brewgrass.com/the-kentucky-ramblers
-- https://www.astate.edu/about/news/bluegrass-monday-to-feature-gary-brewer-and-the-kentucky-ramblers.html
-- https://www.allaboutjazz.com/musicians/gary-brewer-and-the-kentucky-ramblers/
-- https://www.lpm.org/music/2019-09-20/gary-brewer-brings-three-generations-of-kentucky-ramblers-to-live-lunch
+  - 'https://en.wikipedia.org/wiki/Gary_Brewer_and_the_Kentucky_Ramblers'
+  - 'https://www.lexingtonlivingmagazine.com/people/gbkr'
+  - 'https://bluegrassunlimited.com/article/gary-brewer-the-kentucky-ramblers/'
+  - 'https://www.brewgrass.com/the-kentucky-ramblers'
+  - >-
+    https://www.astate.edu/about/news/bluegrass-monday-to-feature-gary-brewer-and-the-kentucky-ramblers.html
+  - >-
+    https://www.allaboutjazz.com/musicians/gary-brewer-and-the-kentucky-ramblers/
+  - >-
+    https://www.lpm.org/music/2019-09-20/gary-brewer-brings-three-generations-of-kentucky-ramblers-to-live-lunch
 spotify_data:
   followers: 444
   id: 77HJQ9uCpKGF42kDyiAICK
   popularity: 5
-  url: https://open.spotify.com/artist/77HJQ9uCpKGF42kDyiAICK
+  url: 'https://open.spotify.com/artist/77HJQ9uCpKGF42kDyiAICK'
 status: active
 title: Kentucky Ramblers
 ---

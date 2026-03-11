@@ -4,43 +4,46 @@ birth_date: '2024'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:12:39.687043'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f9224f7f-02ce-421a-90a5-6febe56494b4
-  spotify: https://open.spotify.com/artist/42XIeRrKLiC60JkfeFM7ql
+  musicbrainz: 'https://musicbrainz.org/artist/f9224f7f-02ce-421a-90a5-6febe56494b4'
+  spotify: 'https://open.spotify.com/artist/42XIeRrKLiC60JkfeFM7ql'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sally_babys_silver_dollars.jpg
 last_updated: '2026-02-06T01:12:39.687044'
 musical_connections:
   collaborators:
-  - Zach Valentine
-  - Steve DeTroy
-  - Nathan Wolman
-  - Oliver Tuttle
-  - James Beaumont
+    - Zach Valentine
+    - Steve DeTroy
+    - Nathan Wolman
+    - Oliver Tuttle
+    - James Beaumont
   influenced: []
   mentors:
-  - Sweet Emma Barrett
-  - Preservation Hall Band
-  - Kid Ory
+    - Sweet Emma Barrett
+    - Preservation Hall Band
+    - Kid Ory
 musicbrainz_id: f9224f7f-02ce-421a-90a5-6febe56494b4
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://jaymazza.substack.com/p/sally-babys-silver-dollars-winning
-- https://baltimore.org/event/sally-babys-silver-dollars/
-- https://www.wrti.org/latest-jazz-from-npr-music/2026-01-26/sally-babys-silver-dollars-tiny-desk-concert
-- https://sallybaby.bandcamp.com
-- https://marigold.org/sallybaby/
-- https://publictheater.org/performances-jp/2026/s/sally-babys-silver-dollars/
-- https://www.offbeat.com/news/sally-baby-and-the-silver-dollars-the-onbeat-sessions/
+  - 'https://jaymazza.substack.com/p/sally-babys-silver-dollars-winning'
+  - 'https://baltimore.org/event/sally-babys-silver-dollars/'
+  - >-
+    https://www.wrti.org/latest-jazz-from-npr-music/2026-01-26/sally-babys-silver-dollars-tiny-desk-concert
+  - 'https://sallybaby.bandcamp.com'
+  - 'https://marigold.org/sallybaby/'
+  - 'https://publictheater.org/performances-jp/2026/s/sally-babys-silver-dollars/'
+  - >-
+    https://www.offbeat.com/news/sally-baby-and-the-silver-dollars-the-onbeat-sessions/
 spotify_data:
   followers: 638
   id: 42XIeRrKLiC60JkfeFM7ql
   popularity: 10
-  url: https://open.spotify.com/artist/42XIeRrKLiC60JkfeFM7ql
+  url: 'https://open.spotify.com/artist/42XIeRrKLiC60JkfeFM7ql'
 status: active
 title: Sally Baby's Silver Dollars
+artist_type: person
 ---
 
 ![](sally_babys_silver_dollars.jpg)

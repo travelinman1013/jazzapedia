@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-31T01:08:17.070908'
-birth_place: Rochester, NY, United States (birthplace)
+birth_place: 'Rochester, NY, United States (birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:08:17.070914'
 external_urls:
-  spotify: https://open.spotify.com/artist/3mbCsahelTDb9FavKb0qDN
+  spotify: 'https://open.spotify.com/artist/3mbCsahelTDb9FavKb0qDN'
   wikipedia: ''
 genres:
-- jazz ballads
-- ragtime
-- hard bop
+  - jazz ballads
+  - ragtime
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/james_suggs.jpg
 last_updated: '2026-01-31T01:08:17.070915'
 musical_connections:
   collaborators:
-  - Glenn Miller Orchestra (Larry O’Brien)
-  - Tommy Dorsey Orchestra (Buddy Morrow)
-  - Los Pericos
-  - Houston Person
+    - Glenn Miller Orchestra (Larry O’Brien)
+    - Tommy Dorsey Orchestra (Buddy Morrow)
+    - Los Pericos
+    - Houston Person
   influenced: []
   mentors:
-  - Wynton Marsalis
+    - Wynton Marsalis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/james-suggs/
-- https://www.usf.edu/arts/news-archive/2019/1204-trumpet-player-usf-alumnus-and-adjunct-professor-james-suggs-brings-global-performance-experience-to-his-students.aspx
-- https://suncoastjazzfestival.com/performer-profiles/james-suggs
-- https://gulfcoastsymphony.org/artists/james-suggs/
-- https://theartisanmagazine.com/st-petersburgs-musical-james-suggs/
-- https://www.usf.edu/arts/music/about-us/james-suggs.aspx
-- https://www.cltampa.com/music-2/st-petersburg-jazz-trumpeter-james-suggs-journey-to-a-debut-lp-12260961/
-- https://www.tcjazz.org/event-details-registration/james-suggs
-- https://mypalladium.org/james-suggs-hot-new-trumpter-town-brings-miles-tribute-side-door-thursday/
+  - 'https://www.allaboutjazz.com/musicians/james-suggs/'
+  - >-
+    https://www.usf.edu/arts/news-archive/2019/1204-trumpet-player-usf-alumnus-and-adjunct-professor-james-suggs-brings-global-performance-experience-to-his-students.aspx
+  - 'https://suncoastjazzfestival.com/performer-profiles/james-suggs'
+  - 'https://gulfcoastsymphony.org/artists/james-suggs/'
+  - 'https://theartisanmagazine.com/st-petersburgs-musical-james-suggs/'
+  - 'https://www.usf.edu/arts/music/about-us/james-suggs.aspx'
+  - >-
+    https://www.cltampa.com/music-2/st-petersburg-jazz-trumpeter-james-suggs-journey-to-a-debut-lp-12260961/
+  - 'https://www.tcjazz.org/event-details-registration/james-suggs'
+  - >-
+    https://mypalladium.org/james-suggs-hot-new-trumpter-town-brings-miles-tribute-side-door-thursday/
 spotify_data:
   followers: 294
   id: 3mbCsahelTDb9FavKb0qDN
   popularity: 7
-  url: https://open.spotify.com/artist/3mbCsahelTDb9FavKb0qDN
+  url: 'https://open.spotify.com/artist/3mbCsahelTDb9FavKb0qDN'
 status: active
 title: James Suggs
+artist_type: person
 ---
 
 ![](james_suggs.jpg)

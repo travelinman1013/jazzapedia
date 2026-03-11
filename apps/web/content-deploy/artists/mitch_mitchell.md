@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-03-08T03:05:54.742763'
-birth_place: Ealing, London, England
+birth_place: 'Ealing, London, England'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:05:54.742771'
 external_urls:
-  spotify: https://open.spotify.com/artist/1NV12VjKdW9mwR5EAGtte1
+  spotify: 'https://open.spotify.com/artist/1NV12VjKdW9mwR5EAGtte1'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mitch_mitchell.jpg
 last_updated: '2026-03-08T03:05:54.742773'
 musical_connections:
   collaborators:
-  - Jimi Hendrix
-  - Noel Redding
-  - Georgie Fame
-  - John Lennon, Eric Clapton, Keith Richards
-  - Jack Bruce
+    - Jimi Hendrix
+    - Noel Redding
+    - Georgie Fame
+    - 'John Lennon, Eric Clapton, Keith Richards'
+    - Jack Bruce
   influenced:
-  - Jazz-rock fusion drummers
+    - Jazz-rock fusion drummers
   mentors:
-  - Ronnie Stephenson
-  - Jim Marshall
+    - Ronnie Stephenson
+    - Jim Marshall
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://mikedolbear.com/groovers-and-shakers/groovers-and-shakers-mitch-mitchell/
-- https://drummagazine.com/mitch-mitchell-the-hendrix-years/
-- https://www.youtube.com/watch?v=8F0Dd3IwDgA
-- https://www.allaboutjazz.com/musicians/mitch-mitchell/
-- https://www.britannica.com/biography/Mitch-Mitchell
+  - >-
+    http://mikedolbear.com/groovers-and-shakers/groovers-and-shakers-mitch-mitchell/
+  - 'https://drummagazine.com/mitch-mitchell-the-hendrix-years/'
+  - 'https://www.youtube.com/watch?v=8F0Dd3IwDgA'
+  - 'https://www.allaboutjazz.com/musicians/mitch-mitchell/'
+  - 'https://www.britannica.com/biography/Mitch-Mitchell'
 spotify_data:
   followers: 4
   id: 1NV12VjKdW9mwR5EAGtte1
   popularity: 0
-  url: https://open.spotify.com/artist/1NV12VjKdW9mwR5EAGtte1
+  url: 'https://open.spotify.com/artist/1NV12VjKdW9mwR5EAGtte1'
 status: active
 title: Mitch Mitchell
+artist_type: person
 ---
 
 ![](mitch_mitchell.jpg)

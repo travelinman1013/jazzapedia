@@ -1,55 +1,57 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-02-21T01:35:46.292368'
-birth_place: Eagle Park, Illinois, USA
+birth_place: 'Eagle Park, Illinois, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:35:46.292378'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d4f61ffd-9425-4f9f-815e-5f9ce37ac96b
-  spotify: https://open.spotify.com/artist/3RfmiYH8O4MQeUuE2aGytK
+  musicbrainz: 'https://musicbrainz.org/artist/d4f61ffd-9425-4f9f-815e-5f9ce37ac96b'
+  spotify: 'https://open.spotify.com/artist/3RfmiYH8O4MQeUuE2aGytK'
   wikipedia: ''
 genres:
-- modern blues
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/eagle_park_slim.jpg
 last_updated: '2026-02-21T01:35:46.292380'
 musical_connections:
   collaborators:
-  - Johnnie Johnson
-  - Little Walter J.
-  - Chuck Berry
-  - James Brown
-  - Muddy Waters
-  - Jimmy Reed
-  - Sonny Boy Williamson
-  - Percy Mayfield
-  - Ike Turner
-  - Little Walter
-  - Joe Cocker
-  - Keb Mo
-  - The Red Hot Chili Peppers
-  - Steve Ibach
-  - The Mile High Blues Band
+    - Johnnie Johnson
+    - Little Walter J.
+    - Chuck Berry
+    - James Brown
+    - Muddy Waters
+    - Jimmy Reed
+    - Sonny Boy Williamson
+    - Percy Mayfield
+    - Ike Turner
+    - Little Walter
+    - Joe Cocker
+    - Keb Mo
+    - The Red Hot Chili Peppers
+    - Steve Ibach
+    - The Mile High Blues Band
   influenced:
-  - Andy Strange
+    - Andy Strange
   mentors:
-  - Harmonica Sam
+    - Harmonica Sam
 musicbrainz_id: d4f61ffd-9425-4f9f-815e-5f9ce37ac96b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://eugeneweekly.com/2016/08/25/farewell-eagle-park-slim/
-- https://336journal.com/aint-no-time-for-hate/
-- https://www.klcc.org/arts-culture/2016-08-21/eugene-loses-two-local-musicians
-- https://eugeneweekly.com/2013/08/01/eagle-park-slim-revisited/
-- https://www.allmusic.com/artist/eagle-park-slim-mn0002315494
-- https://kval.com/news/local/eugene-blues-musician-eagle-park-slim-dies-at-74
+  - 'https://eugeneweekly.com/2016/08/25/farewell-eagle-park-slim/'
+  - 'https://336journal.com/aint-no-time-for-hate/'
+  - >-
+    https://www.klcc.org/arts-culture/2016-08-21/eugene-loses-two-local-musicians
+  - 'https://eugeneweekly.com/2013/08/01/eagle-park-slim-revisited/'
+  - 'https://www.allmusic.com/artist/eagle-park-slim-mn0002315494'
+  - 'https://kval.com/news/local/eugene-blues-musician-eagle-park-slim-dies-at-74'
 spotify_data:
   followers: 58
   id: 3RfmiYH8O4MQeUuE2aGytK
   popularity: 0
-  url: https://open.spotify.com/artist/3RfmiYH8O4MQeUuE2aGytK
+  url: 'https://open.spotify.com/artist/3RfmiYH8O4MQeUuE2aGytK'
 status: active
-title: eagle park slim
+title: Eagle Park Slim
+birth_date: '1942-01-11'
 ---
 
 ![](eagle_park_slim.jpg)

@@ -1,12 +1,12 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:38:23.997205'
-birth_place: Fredericia, Denmark
+birth_place: 'Fredericia, Denmark, Denmark'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:38:23.997216'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/449816d5-28b9-4406-b71b-984cdd249ba4
-  spotify: https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd
+  musicbrainz: 'https://musicbrainz.org/artist/449816d5-28b9-4406-b71b-984cdd249ba4'
+  spotify: 'https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd'
   wikipedia: null
 gender: Male
 genres: []
@@ -14,31 +14,32 @@ image_path: 03_Resources/source_material/ArtistPortraits/galimatias.jpg
 last_updated: '2026-03-03T01:38:23.997218'
 musical_connections:
   collaborators:
-  - Alina Baraz
-  - Zeauxi
+    - Alina Baraz
+    - Zeauxi
   influenced: []
   mentors:
-  - Frank Ocean
-  - Michael Jackson
+    - Frank Ocean
+    - Michael Jackson
 musicbrainz_id: 449816d5-28b9-4406-b71b-984cdd249ba4
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kids.kiddle.co/Galimatias
-- https://djbooth.net/features/2020-08-25-galimatias-interview-renaissance-boy-solo-debut/
-- https://artist.degy.com/major-acts/galimatias
-- https://www.iheart.com/artist/galimatias-707401/
-- http://www.nts.live/artists/34703-galimatias
-- https://www.musicgateway.com/creative-professionals/songwriter/galimatias
+  - 'https://kids.kiddle.co/Galimatias'
+  - >-
+    https://djbooth.net/features/2020-08-25-galimatias-interview-renaissance-boy-solo-debut/
+  - 'https://artist.degy.com/major-acts/galimatias'
+  - 'https://www.iheart.com/artist/galimatias-707401/'
+  - 'http://www.nts.live/artists/34703-galimatias'
+  - 'https://www.musicgateway.com/creative-professionals/songwriter/galimatias'
 spotify_data:
   followers: 166663
   id: 0tOrKkXIn3VYyVHFEPG6Xd
   popularity: 50
-  url: https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd
+  url: 'https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd'
 status: active
 tags:
-- chillstep
-title: GALIMATIAS
+  - chillstep
+title: Galimatias
 ---
 
 ![](galimatias.jpg)

@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-23T01:46:14.754567'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:46:14.754575'
 external_urls:
-  spotify: https://open.spotify.com/artist/6BEaJOXZz1LEWPmqHSHXry
+  spotify: 'https://open.spotify.com/artist/6BEaJOXZz1LEWPmqHSHXry'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/j_blue.jpg
@@ -15,20 +15,22 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jeff_Blue
-- https://www.reggaeville.com/artist-details/joseph-blue-grant/about/
-- https://en.wikipedia.org/wiki/Jonas_Blue
-- https://canvasrebel.com/meet-jourdan-blue/
-- https://agt.fandom.com/wiki/Jourdan_Blue
-- https://www.famousbirthdays.com/people/jourdan-blue.html
-- https://www.offbeat.com/news/local-singer-jourdan-blue-to-appear-on-americas-got-talent/
+  - 'https://en.wikipedia.org/wiki/Jeff_Blue'
+  - 'https://www.reggaeville.com/artist-details/joseph-blue-grant/about/'
+  - 'https://en.wikipedia.org/wiki/Jonas_Blue'
+  - 'https://canvasrebel.com/meet-jourdan-blue/'
+  - 'https://agt.fandom.com/wiki/Jourdan_Blue'
+  - 'https://www.famousbirthdays.com/people/jourdan-blue.html'
+  - >-
+    https://www.offbeat.com/news/local-singer-jourdan-blue-to-appear-on-americas-got-talent/
 spotify_data:
   followers: 173
   id: 6BEaJOXZz1LEWPmqHSHXry
   popularity: 0
-  url: https://open.spotify.com/artist/6BEaJOXZz1LEWPmqHSHXry
+  url: 'https://open.spotify.com/artist/6BEaJOXZz1LEWPmqHSHXry'
 status: active
-title: j blue
+title: J Blue
+artist_type: person
 ---
 
 ![](j_blue.jpg)

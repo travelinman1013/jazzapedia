@@ -1,45 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-01T01:33:15.546560'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:33:15.546565'
 external_urls:
-  spotify: https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb
+  spotify: 'https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb'
   wikipedia: ''
 genres:
-- rocksteady
-- reggae
-- ska
-- roots reggae
+  - rocksteady
+  - reggae
+  - ska
+  - roots reggae
 image_path: 03_Resources/source_material/ArtistPortraits/hopeton_lewis.jpg
 last_updated: '2026-02-01T01:33:15.546566'
 musical_connections:
   collaborators:
-  - Lynn Taitt and the Jets
-  - U-Roy
-  - Phyllis Dillon
-  - Byron Lee and the Dragonaires
+    - Lynn Taitt and the Jets
+    - U-Roy
+    - Phyllis Dillon
+    - Byron Lee and the Dragonaires
   influenced:
-  - Reflection Eternal (Talib Kweli and Hi-Tek feat. Mos Def)
+    - Reflection Eternal (Talib Kweli and Hi-Tek feat. Mos Def)
   mentors:
-  - Lynn Taitt
-  - Duke Reid
+    - Lynn Taitt
+    - Duke Reid
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.largeup.com/2014/09/08/r-i-p-rocksteady-pioneer-hopeton-lewis-66/
-- https://unitedreggae.com/news/n1753/091014/r-i-p-hopeton-lewis
-- https://aowmusic.com/blog/let-me-come-on-home-hardships-of-life
-- https://www.jango.com/music/Hopeton+Lewis/_full_bio
-- https://vpreggae.com/hopeton-lewis/
-- https://www.crossrhythms.co.uk/articles/music/Hopeton_Lewis_The_late_pioneer_of_Jamaican_rocksteady_music/58778/p1/
+  - >-
+    https://www.largeup.com/2014/09/08/r-i-p-rocksteady-pioneer-hopeton-lewis-66/
+  - 'https://unitedreggae.com/news/n1753/091014/r-i-p-hopeton-lewis'
+  - 'https://aowmusic.com/blog/let-me-come-on-home-hardships-of-life'
+  - 'https://www.jango.com/music/Hopeton+Lewis/_full_bio'
+  - 'https://vpreggae.com/hopeton-lewis/'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Hopeton_Lewis_The_late_pioneer_of_Jamaican_rocksteady_music/58778/p1/
 spotify_data:
   followers: 22495
   id: 0mO8aKj6nYryzzlEdPYAPb
   popularity: 37
-  url: https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb
+  url: 'https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb'
 status: active
 title: Hopeton Lewis
+birth_date: '1947-10-03'
+death_date: '2014-09-04'
+artist_type: person
 ---
 
 ![](hopeton_lewis.jpg)

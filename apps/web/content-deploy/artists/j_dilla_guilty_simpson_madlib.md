@@ -3,42 +3,46 @@ biography_enhanced_at: '2026-02-24T01:49:24.152475'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:49:24.152483'
 external_urls:
-  spotify: https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp
-  wikipedia: https://en.wikipedia.org/wiki/Champion_Sound
+  spotify: 'https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Champion_Sound'
 genres:
-- plunderphonics
-- alternative hip hop
-- jazz rap
+  - plunderphonics
+  - alternative hip hop
+  - jazz rap
 image_path: 03_Resources/source_material/ArtistPortraits/j_dilla_guilty_simpson_madlib.jpg
 last_updated: '2026-02-24T01:49:24.152484'
 musical_connections:
   collaborators:
-  - J Dilla
-  - Madlib
-  - Guilty Simpson
+    - J Dilla
+    - Madlib
+    - Guilty Simpson
   influenced:
-  - Talib Kweli
-  - Guilty Simpson
+    - Talib Kweli
+    - Guilty Simpson
   mentors:
-  - J Dilla
+    - J Dilla
 network_extracted: true
-origin: Detroit, Michigan, USA (J Dilla & Guilty Simpson); Oxnard, California, USA
+origin: >-
+  Detroit, Michigan, USA (J Dilla & Guilty Simpson); Oxnard, California, USA
   (Madlib)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Champion_Sound
-- https://albumism.com/features/jaylib-champion-sound-album-anniversary
-- https://hip-hop-music.fandom.com/wiki/Guilty_Simpson
-- https://www.stonesthrow.com/news/guilty-simpson-talks-stress-and-dilla/
-- https://www.resources.uwa.edu.au/360-campus-tour/?pano=data%3Atext%5C%2Fxml%3Bbase64%2CPGtycGFubyBvbnN0YXJ0PSJsb2FkcGFubygnL1wvZG9vLnBpY3MvYi9kbWplbGVsbW13eCcpOyI+PC9rcnBhbm8+
-- https://articles.roland.com/listening-guide-madlib/
+  - 'https://en.wikipedia.org/wiki/Champion_Sound'
+  - 'https://albumism.com/features/jaylib-champion-sound-album-anniversary'
+  - 'https://hip-hop-music.fandom.com/wiki/Guilty_Simpson'
+  - 'https://www.stonesthrow.com/news/guilty-simpson-talks-stress-and-dilla/'
+  - >-
+    https://www.resources.uwa.edu.au/360-campus-tour/?pano=data%3Atext%5C%2Fxml%3Bbase64%2CPGtycGFubyBvbnN0YXJ0PSJsb2FkcGFubygnL1wvZG9vLnBpY3MvYi9kbWplbGVsbW13eCcpOyI+PC9rcnBhbm8+
+  - 'https://articles.roland.com/listening-guide-madlib/'
 spotify_data:
   followers: 780790
   id: 0IVcLMMbm05VIjnzPkGCyp
   popularity: 55
-  url: https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp
+  url: 'https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp'
 status: active
-title: J Dilla, Guilty Simpson, Madlib
+title: 'J Dilla, Guilty Simpson, Madlib'
+death_date: '2006'
+artist_type: band
 ---
 
 ![](j_dilla_guilty_simpson_madlib.jpg)

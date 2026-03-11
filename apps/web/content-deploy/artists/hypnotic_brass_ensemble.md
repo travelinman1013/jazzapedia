@@ -1,110 +1,110 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-28T01:56:36.808789'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:56:36.808799'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cc37d0c1-493d-487e-9694-3cf48ae6370d
-  spotify: https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH
+  musicbrainz: 'https://musicbrainz.org/artist/cc37d0c1-493d-487e-9694-3cf48ae6370d'
+  spotify: 'https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH'
   wikipedia: Not found in search results
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/hypnotic_brass_ensemble.jpg
 instruments:
-- drums (drum set)
-- bass
-- electric guitar
+  - drums (drum set)
+  - bass
+  - electric guitar
 last_updated: '2026-01-28T01:56:36.808800'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 5fa08665-4597-4258-831f-91e8d4fed005
-  name: Christopher Anderson
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 63571353-8d51-4f13-b0e1-3307c704541a
-  name: Hashim Bunch
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a8f31c15-0ffa-477f-b405-58c1f0a52339
-  name: Tycho Cohran
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b6c6380-f1a0-47d7-bf9e-13e82de8fc69
-  name: Jafar Graves
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dcbf2b94-adcd-4dba-88c0-f752e9cfbe60
-  name: Saiph Graves
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1ff18348-03cb-4d61-93f5-98d1f93a15c2
-  name: Seba Graves
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9fe9e850-2b69-428e-8f0f-417f5ac66130
-  name: Tarik Graves
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e306c13f-bc1f-40aa-bd04-5ed066b686d7
-  name: Amal Hubert
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 316196a7-fb33-430d-9d18-c3238cf0859d
-  name: Gabriel Hubert
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e460c61e-ea25-4b88-9553-bcbd96cccad2
-  name: Uttama Hubert
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: f9bd7481-4b87-4232-96ed-aea571602cab
-  name: Kevin Hunt
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 5fa08665-4597-4258-831f-91e8d4fed005
+    name: Christopher Anderson
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 63571353-8d51-4f13-b0e1-3307c704541a
+    name: Hashim Bunch
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a8f31c15-0ffa-477f-b405-58c1f0a52339
+    name: Tycho Cohran
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b6c6380-f1a0-47d7-bf9e-13e82de8fc69
+    name: Jafar Graves
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dcbf2b94-adcd-4dba-88c0-f752e9cfbe60
+    name: Saiph Graves
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1ff18348-03cb-4d61-93f5-98d1f93a15c2
+    name: Seba Graves
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9fe9e850-2b69-428e-8f0f-417f5ac66130
+    name: Tarik Graves
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e306c13f-bc1f-40aa-bd04-5ed066b686d7
+    name: Amal Hubert
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 316196a7-fb33-430d-9d18-c3238cf0859d
+    name: Gabriel Hubert
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e460c61e-ea25-4b88-9553-bcbd96cccad2
+    name: Uttama Hubert
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: f9bd7481-4b87-4232-96ed-aea571602cab
+    name: Kevin Hunt
 musical_connections:
   collaborators:
-  - Mos Def
-  - Erykah Badu
-  - Gorillaz
-  - Tony Allen
+    - Mos Def
+    - Erykah Badu
+    - Gorillaz
+    - Tony Allen
   influenced:
-  - Contemporary brass bands and street musicians
+    - Contemporary brass bands and street musicians
   mentors:
-  - Kelan Phil Cohran
-  - Sun Ra
-  - Earth, Wind & Fire
+    - Kelan Phil Cohran
+    - Sun Ra
+    - 'Earth, Wind & Fire'
 musicbrainz_id: cc37d0c1-493d-487e-9694-3cf48ae6370d
 network_extracted: true
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://www.indigits.net/music/hypnotic-brass-ensemble/
-- https://www.last.fm/music/Hypnotic+Brass+Ensemble/+wiki
-- https://www.thetrumpetblog.com/hypnotic-brass-ensemble/
-- https://www.ronniescotts.co.uk/find-a-show/hypnotic-brass-ensemble
-- https://www.hayfestival.com/p-2678-hypnotic-brass-ensemble.aspx?skinid=16
-- https://gorillaz.fandom.com/wiki/Hypnotic_Brass_Ensemble
+  - 'https://www.indigits.net/music/hypnotic-brass-ensemble/'
+  - 'https://www.last.fm/music/Hypnotic+Brass+Ensemble/+wiki'
+  - 'https://www.thetrumpetblog.com/hypnotic-brass-ensemble/'
+  - 'https://www.ronniescotts.co.uk/find-a-show/hypnotic-brass-ensemble'
+  - 'https://www.hayfestival.com/p-2678-hypnotic-brass-ensemble.aspx?skinid=16'
+  - 'https://gorillaz.fandom.com/wiki/Hypnotic_Brass_Ensemble'
 spotify_data:
   followers: 90594
   id: 4wvPcMJk7L9Rbw9Qh4kBeH
   popularity: 44
-  url: https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH
+  url: 'https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH'
 status: active
 tags:
-- jazz-funk
+  - jazz-funk
 title: Hypnotic Brass Ensemble
 ---
 

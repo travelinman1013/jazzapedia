@@ -3,42 +3,45 @@ biography_enhanced_at: '2026-01-28T01:53:44.843110'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:53:44.843119'
 external_urls:
-  spotify: https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn
-  wikipedia: https://en.wikipedia.org/wiki/Brenda_%26_the_Tabulations
+  spotify: 'https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brenda_%26_the_Tabulations'
 genres:
-- philly soul
-- classic soul
+  - philly soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/brenda_and_the_tabulations.jpg
 last_updated: '2026-01-28T01:53:44.843120'
 musical_connections:
   collaborators:
-  - Maurice Coates
-  - Eddie L. Jackson
-  - James Rucker
-  - Jerry Jones
-  - Pat Mercer
-  - Deborah Martin
+    - Maurice Coates
+    - Eddie L. Jackson
+    - James Rucker
+    - Jerry Jones
+    - Pat Mercer
+    - Deborah Martin
   influenced: []
   mentors:
-  - Gilda Woods
-  - Bob Finiz
-  - Van McCoy
+    - Gilda Woods
+    - Bob Finiz
+    - Van McCoy
 network_extracted: true
-origin: Philadelphia, Pennsylvania, United States
+origin: 'Philadelphia, Pennsylvania, United States'
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=ejoBq_tKHtU
-- http://www.soulwalking.co.uk/Brenda%20And%20The%20Tabulations.html
-- https://www.history-of-rock.com/brenda_and_the_tabulations.htm
-- https://wbssmedia.com/artists/detail/2657
-- https://en.wikipedia.org/wiki/Brenda_%26_the_Tabulations
+  - 'https://www.youtube.com/watch?v=ejoBq_tKHtU'
+  - 'http://www.soulwalking.co.uk/Brenda%20And%20The%20Tabulations.html'
+  - 'https://www.history-of-rock.com/brenda_and_the_tabulations.htm'
+  - 'https://wbssmedia.com/artists/detail/2657'
+  - 'https://en.wikipedia.org/wiki/Brenda_%26_the_Tabulations'
 spotify_data:
   followers: 16238
   id: 7knQlwjtPZ9VP98f5XXhhn
   popularity: 38
-  url: https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn
+  url: 'https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn'
 status: active
 title: Brenda and the Tabulations
+birth_date: '1945-10-24'
+death_date: '1992-06-14'
+artist_type: band
 ---
 
 ![](brenda_and_the_tabulations.jpg)

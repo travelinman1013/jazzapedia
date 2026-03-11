@@ -1,15 +1,15 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-28T01:55:48.471175'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:55:48.471190'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8fea514d-3a4c-4d5d-85b2-37114048ea64
-  spotify: https://open.spotify.com/artist/5waQO1ztN4uGzt7Hdjbhc2
+  musicbrainz: 'https://musicbrainz.org/artist/8fea514d-3a4c-4d5d-85b2-37114048ea64'
+  spotify: 'https://open.spotify.com/artist/5waQO1ztN4uGzt7Hdjbhc2'
   wikipedia: ''
 genres:
-- calypso
-- highlife
+  - calypso
+  - highlife
 image_path: ''
 last_updated: '2026-01-28T01:55:48.471194'
 musical_connections:
@@ -24,7 +24,7 @@ spotify_data:
   followers: 118
   id: 5waQO1ztN4uGzt7Hdjbhc2
   popularity: 1
-  url: https://open.spotify.com/artist/5waQO1ztN4uGzt7Hdjbhc2
+  url: 'https://open.spotify.com/artist/5waQO1ztN4uGzt7Hdjbhc2'
 status: active
 title: West African Swing Stars
 ---

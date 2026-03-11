@@ -3,30 +3,33 @@ biography_enhanced_at: '2026-03-08T01:59:34.254194'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T01:59:34.254202'
 external_urls:
-  spotify: https://open.spotify.com/artist/1f8TyCTHnmXBYXt0QyUwoB
+  spotify: 'https://open.spotify.com/artist/1f8TyCTHnmXBYXt0QyUwoB'
   wikipedia: ''
 genres:
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/international_novelty_orchestra.jpg
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/international_novelty_orchestra.jpg
 last_updated: '2026-03-08T01:59:34.254203'
 musical_connections:
   collaborators:
-  - Lewis James
+    - Lewis James
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/novelty-piano-ragtime-where-it-came-from-where-it-went/
-- https://en.wikipedia.org/wiki/Ragtime
-- https://www.youtube.com/watch?v=cQ80idGOHAU
+  - >-
+    https://syncopatedtimes.com/novelty-piano-ragtime-where-it-came-from-where-it-went/
+  - 'https://en.wikipedia.org/wiki/Ragtime'
+  - 'https://www.youtube.com/watch?v=cQ80idGOHAU'
 spotify_data:
   followers: 31
   id: 1f8TyCTHnmXBYXt0QyUwoB
   popularity: 0
-  url: https://open.spotify.com/artist/1f8TyCTHnmXBYXt0QyUwoB
+  url: 'https://open.spotify.com/artist/1f8TyCTHnmXBYXt0QyUwoB'
 status: active
 title: International Novelty Orchestra
+artist_type: band
 ---
 
 ![](international_novelty_orchestra.jpg)

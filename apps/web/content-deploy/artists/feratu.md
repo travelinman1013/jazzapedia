@@ -3,33 +3,34 @@ biography_enhanced_at: '2026-03-06T01:28:18.158679'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:28:18.158684'
 external_urls:
-  spotify: https://open.spotify.com/artist/6N8z4ISNHLrJ9RBqPifQiW
+  spotify: 'https://open.spotify.com/artist/6N8z4ISNHLrJ9RBqPifQiW'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/feratu.jpg
 last_updated: '2026-03-06T01:28:18.158685'
 musical_connections:
   collaborators:
-  - NickDave
-  - Niko J.
+    - NickDave
+    - Niko J.
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Limit_Club
-- https://en.wikipedia.org/wiki/Nosferatu_(band)
-- http://thenosferatu.com/band/biography.php
-- https://www.metal-archives.com/bands/Feratu/3540527512
-- https://kitchenwitch.substack.com/p/have-you-met-nnaus-feratu
-- https://www.vice.com/en/article/theres-nothing-more-goth-than-being-black/
+  - 'https://en.wikipedia.org/wiki/The_Limit_Club'
+  - 'https://en.wikipedia.org/wiki/Nosferatu_(band)'
+  - 'http://thenosferatu.com/band/biography.php'
+  - 'https://www.metal-archives.com/bands/Feratu/3540527512'
+  - 'https://kitchenwitch.substack.com/p/have-you-met-nnaus-feratu'
+  - 'https://www.vice.com/en/article/theres-nothing-more-goth-than-being-black/'
 spotify_data:
   followers: 57
   id: 6N8z4ISNHLrJ9RBqPifQiW
   popularity: 0
-  url: https://open.spotify.com/artist/6N8z4ISNHLrJ9RBqPifQiW
+  url: 'https://open.spotify.com/artist/6N8z4ISNHLrJ9RBqPifQiW'
 status: active
 title: Feratu
+origin: 'Phoenix, Arizona, United States (associated via The Limit Club)'
 ---
 
 ![](feratu.jpg)

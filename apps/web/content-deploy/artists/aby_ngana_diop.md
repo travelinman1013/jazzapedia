@@ -1,13 +1,13 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-25T01:39:31.866070'
-birth_place: Dakar
+birth_place: 'Dakar, Senegal, Africa'
 death_date: '1997'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:39:31.866076'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c7177b0b-5874-4a62-9111-1d423abe1050
-  spotify: https://open.spotify.com/artist/1IV8kbYTz79YaAB26uxPHf
+  musicbrainz: 'https://musicbrainz.org/artist/c7177b0b-5874-4a62-9111-1d423abe1050'
+  spotify: 'https://open.spotify.com/artist/1IV8kbYTz79YaAB26uxPHf'
   wikipedia: ''
 gender: Female
 genres: []
@@ -16,25 +16,27 @@ last_updated: '2026-01-25T01:39:31.866077'
 musical_connections:
   collaborators: []
   influenced:
-  - Youssou N'Dour
+    - Youssou N'Dour
   mentors: []
 musicbrainz_id: c7177b0b-5874-4a62-9111-1d423abe1050
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://bombmagazine.org/articles/2014/10/10/aby-ngana-diops-liital/
-- https://abynganadiop.bandcamp.com/album/liital
-- https://awesometapes.com/announcing-aby-ngana-diop-liital/
-- https://earcandymusic.biz/aby-ngana-diop-liital-cassette/
-- https://likembe.blogspot.com/2008/02/dakar-divas-pt-3-aby-ngana-diop.html
-- https://www.last.fm/music/Aby+Ngana+Diop/+wiki
+  - 'https://bombmagazine.org/articles/2014/10/10/aby-ngana-diops-liital/'
+  - 'https://abynganadiop.bandcamp.com/album/liital'
+  - 'https://awesometapes.com/announcing-aby-ngana-diop-liital/'
+  - 'https://earcandymusic.biz/aby-ngana-diop-liital-cassette/'
+  - 'https://likembe.blogspot.com/2008/02/dakar-divas-pt-3-aby-ngana-diop.html'
+  - 'https://www.last.fm/music/Aby+Ngana+Diop/+wiki'
 spotify_data:
   followers: 3391
   id: 1IV8kbYTz79YaAB26uxPHf
   popularity: 7
-  url: https://open.spotify.com/artist/1IV8kbYTz79YaAB26uxPHf
+  url: 'https://open.spotify.com/artist/1IV8kbYTz79YaAB26uxPHf'
 status: active
-title: aby ngana diop
+title: Aby Ngana Diop
+is_active: false
+origin: 'Dakar, Senegal, Africa'
 ---
 
 ![](aby_ngana_diop.jpg)

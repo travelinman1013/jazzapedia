@@ -3,35 +3,38 @@ biography_enhanced_at: '2026-02-09T01:19:29.525812'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:19:29.525830'
 external_urls:
-  spotify: https://open.spotify.com/artist/6AcOh2CfvPiI8jUnxFJpXD
+  spotify: 'https://open.spotify.com/artist/6AcOh2CfvPiI8jUnxFJpXD'
   wikipedia: ''
 genres:
-- jazz
-- big band
+  - jazz
+  - big band
 image_path: ''
 last_updated: '2026-02-09T01:19:29.525834'
 musical_connections:
   collaborators:
-  - Lester Young
-  - Lee Castle
-  - Count Basie Orchestra members
+    - Lester Young
+    - Lee Castle
+    - Count Basie Orchestra members
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jazzdisco.org/glenn-hardman/discography/
-- http://www.afana.org/jazzorgan.htm
-- https://open.spotify.com/intl-de/artist/6AcOh2CfvPiI8jUnxFJpXD
-- https://mywfpl.insigniails.com/Library/DoSearch?action=simple&l=All&t=Authors&k=Hardman%2C+Glenn&c=c
-- https://www.srorecords.com/artists/h/ha/glenn-hardman/index.php
+  - 'https://www.jazzdisco.org/glenn-hardman/discography/'
+  - 'http://www.afana.org/jazzorgan.htm'
+  - 'https://open.spotify.com/intl-de/artist/6AcOh2CfvPiI8jUnxFJpXD'
+  - >-
+    https://mywfpl.insigniails.com/Library/DoSearch?action=simple&l=All&t=Authors&k=Hardman%2C+Glenn&c=c
+  - 'https://www.srorecords.com/artists/h/ha/glenn-hardman/index.php'
 spotify_data:
   followers: 82
   id: 6AcOh2CfvPiI8jUnxFJpXD
   popularity: 2
-  url: https://open.spotify.com/artist/6AcOh2CfvPiI8jUnxFJpXD
+  url: 'https://open.spotify.com/artist/6AcOh2CfvPiI8jUnxFJpXD'
 status: active
 title: Glenn Hardman and his Hammond Five
+birth_date: '1910-06-27'
+artist_type: person
 ---
 
 ![]()

@@ -3,37 +3,38 @@ biography_enhanced_at: '2026-02-01T01:34:16.355100'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:34:16.355106'
 external_urls:
-  spotify: https://open.spotify.com/artist/5FC5k4qlq3vcergYbsCsTS
-  wikipedia: https://en.wikipedia.org/wiki/Sisters_Love
+  spotify: 'https://open.spotify.com/artist/5FC5k4qlq3vcergYbsCsTS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sisters_Love'
 genres:
-- northern soul
-- motown
+  - northern soul
+  - motown
 image_path: 03_Resources/source_material/ArtistPortraits/sisters_love.jpg
 last_updated: '2026-02-01T01:34:16.355107'
 musical_connections:
   collaborators:
-  - Merry Clayton
-  - Vermettya Royster
-  - Willie Hutch
-  - Gene Chandler
-  - Jackson 5
+    - Merry Clayton
+    - Vermettya Royster
+    - Willie Hutch
+    - Gene Chandler
+    - Jackson 5
   influenced: []
   mentors:
-  - Ray Charles
+    - Ray Charles
 network_extracted: true
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sisters_Love
-- https://www.barelybrothersrecords.com/793/sisters-love/
-- https://www.soulstrut.com/community/threads/sisters-love-biography.17176/
+  - 'https://en.wikipedia.org/wiki/Sisters_Love'
+  - 'https://www.barelybrothersrecords.com/793/sisters-love/'
+  - 'https://www.soulstrut.com/community/threads/sisters-love-biography.17176/'
 spotify_data:
   followers: 1938
   id: 5FC5k4qlq3vcergYbsCsTS
   popularity: 20
-  url: https://open.spotify.com/artist/5FC5k4qlq3vcergYbsCsTS
+  url: 'https://open.spotify.com/artist/5FC5k4qlq3vcergYbsCsTS'
 status: active
-title: Sisters Love
+title: The Sisters Love
+artist_type: band
 ---
 
 ![](sisters_love.jpg)

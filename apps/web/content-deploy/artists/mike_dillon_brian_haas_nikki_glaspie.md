@@ -3,49 +3,56 @@ biography_enhanced_at: '2026-01-31T01:06:11.619700'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:06:11.619709'
 external_urls:
-  spotify: https://open.spotify.com/artist/3FEbuYLFa9hOfrLvMzmVZ3
+  spotify: 'https://open.spotify.com/artist/3FEbuYLFa9hOfrLvMzmVZ3'
   wikipedia: ''
 genres:
-- jam band
-- indie jazz
-- cajun
-- proto-punk
-image_path: 03_Resources/source_material/ArtistPortraits/mike_dillon_brian_haas_nikki_glaspie.jpg
+  - jam band
+  - indie jazz
+  - cajun
+  - proto-punk
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/mike_dillon_brian_haas_nikki_glaspie.jpg
 last_updated: '2026-01-31T01:06:11.619710'
 musical_connections:
   collaborators:
-  - Rickie Lee Jones
-  - Ani DiFranco
-  - Les Claypool
-  - Ivan Neville
-  - Beyoncé
-  - Jacob Fred Jazz Odyssey members
+    - Rickie Lee Jones
+    - Ani DiFranco
+    - Les Claypool
+    - Ivan Neville
+    - Beyoncé
+    - Jacob Fred Jazz Odyssey members
   influenced: []
   mentors:
-  - Duke Ellington
-  - Milt Jackson
-  - Parliament-Funkadelic
+    - Duke Ellington
+    - Milt Jackson
+    - Parliament-Funkadelic
 network_extracted: true
-origin: Texas, USA (Mike Dillon birthplace); New Orleans to Kansas City, USA (Dillon
+origin: >-
+  Texas, USA (Mike Dillon birthplace); New Orleans to Kansas City, USA (Dillon
   base); general US touring origins
 primary_source: perplexity
 research_sources:
-- https://1900bldg.com/events/mikedillon
-- https://first-avenue.com/performer/mike-dillon-punkadelick-ft-brian-haas-nikki-glaspie/
-- https://buckrail.com/mike-dillon-brian-haas-step-into-unknown-at-knotty-pine/
-- https://www.jacklondonrevue.com/tm-event/mike-dillon-band-feat-brian-haas/
-- https://ragman.org/mike-dillon
-- https://www.goldminemag.com/columns/natural-funk-projekt/mike-dillon-punkadelick-continue-with-a-sound-that-is-hypnotic-groove-driven-and-bright/
-- https://royalpotatofamily.com/artist/mike-dillon/
-- https://www.mikedillonvibes.com
-- https://www.kalx.berkeley.edu/mike-dillon-interview/
+  - 'https://1900bldg.com/events/mikedillon'
+  - >-
+    https://first-avenue.com/performer/mike-dillon-punkadelick-ft-brian-haas-nikki-glaspie/
+  - >-
+    https://buckrail.com/mike-dillon-brian-haas-step-into-unknown-at-knotty-pine/
+  - 'https://www.jacklondonrevue.com/tm-event/mike-dillon-band-feat-brian-haas/'
+  - 'https://ragman.org/mike-dillon'
+  - >-
+    https://www.goldminemag.com/columns/natural-funk-projekt/mike-dillon-punkadelick-continue-with-a-sound-that-is-hypnotic-groove-driven-and-bright/
+  - 'https://royalpotatofamily.com/artist/mike-dillon/'
+  - 'https://www.mikedillonvibes.com'
+  - 'https://www.kalx.berkeley.edu/mike-dillon-interview/'
 spotify_data:
   followers: 1032
   id: 3FEbuYLFa9hOfrLvMzmVZ3
   popularity: 5
-  url: https://open.spotify.com/artist/3FEbuYLFa9hOfrLvMzmVZ3
+  url: 'https://open.spotify.com/artist/3FEbuYLFa9hOfrLvMzmVZ3'
 status: active
-title: Mike Dillon, Brian Haas, Nikki Glaspie
+title: 'Mike Dillon, Brian Haas, Nikki Glaspie'
+birth_place: 'Texas, United States'
+artist_type: person
 ---
 
 ![](mike_dillon_brian_haas_nikki_glaspie.jpg)

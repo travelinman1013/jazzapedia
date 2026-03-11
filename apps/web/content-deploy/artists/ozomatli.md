@@ -1,125 +1,126 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-10T01:57:04.249693'
-birth_date: '1996'
+birth_date: '1995'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:57:04.249704'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7e54639b-ee66-4452-a612-918d4c3c73c4
-  spotify: https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0
+  musicbrainz: 'https://musicbrainz.org/artist/7e54639b-ee66-4452-a612-918d4c3c73c4'
+  spotify: 'https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0'
   wikipedia: Not found in search results
 genres:
-- latin alternative
+  - latin alternative
 image_path: 03_Resources/source_material/ArtistPortraits/ozomatli.jpg
 instruments:
-- original
-- spoken vocals
-- background vocals
-last_updated: '2026-02-10T01:57:04.249706'
-members:
-- begin: '1995'
-  end: '2001'
-  instruments: []
-  mbid: fe4a03af-7a47-4909-999e-5c831382f792
-  name: William Marrufo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 67a5187f-4487-4bd4-bcdd-12c5d7ab7871
-  name: Wil‐Dog Abers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0f9579d3-ffab-4f25-986b-fa022659ab65
-  name: Ulises Bella
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e0975164-e68b-45d6-9854-d5d0ce84e671
-  name: Cut Chemist
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b54c25af-c9c6-4e2b-b6b0-ffa33ecf7124
-  name: Tylana Enomoto
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 22b6910c-4e38-4fba-9281-e28caa3aeacc
-  name: José Espinosa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 213c281e-ab12-4f53-b50e-4e29f953216c
-  name: Humberto Hernandez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 00ad5fb0-7d2f-4205-a7f7-a0281037d3f5
-  name: Kanetic Source
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 01367dde-4cad-4f24-baf7-24083055b1c3
-  name: Andy Mendoza
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eb9354e4-f1f2-4079-ae38-32145d70c2e3
-  name: Raul Pacheco
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: edfaab90-1970-41a6-89f8-faf8811f1887
-  name: Justin Porée
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 30536f20-cc2b-414b-a16a-120c5c3eba56
-  name: Asdru Sierra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e816bc3a-c64d-4351-89a7-e62ee68a1f8e
-  name: Jiro Yamaguchi
-- begin: ''
-  end: ''
-  instruments:
   - original
   - spoken vocals
-  mbid: 871c27c9-2121-4eb9-a072-e36a0e367642
-  name: Chali 2na
+  - background vocals
+last_updated: '2026-02-10T01:57:04.249706'
+members:
+  - begin: '1995'
+    end: '2001'
+    instruments: []
+    mbid: fe4a03af-7a47-4909-999e-5c831382f792
+    name: William Marrufo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 67a5187f-4487-4bd4-bcdd-12c5d7ab7871
+    name: Wil‐Dog Abers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0f9579d3-ffab-4f25-986b-fa022659ab65
+    name: Ulises Bella
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e0975164-e68b-45d6-9854-d5d0ce84e671
+    name: Cut Chemist
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b54c25af-c9c6-4e2b-b6b0-ffa33ecf7124
+    name: Tylana Enomoto
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 22b6910c-4e38-4fba-9281-e28caa3aeacc
+    name: José Espinosa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 213c281e-ab12-4f53-b50e-4e29f953216c
+    name: Humberto Hernandez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 00ad5fb0-7d2f-4205-a7f7-a0281037d3f5
+    name: Kanetic Source
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 01367dde-4cad-4f24-baf7-24083055b1c3
+    name: Andy Mendoza
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eb9354e4-f1f2-4079-ae38-32145d70c2e3
+    name: Raul Pacheco
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: edfaab90-1970-41a6-89f8-faf8811f1887
+    name: Justin Porée
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 30536f20-cc2b-414b-a16a-120c5c3eba56
+    name: Asdru Sierra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e816bc3a-c64d-4351-89a7-e62ee68a1f8e
+    name: Jiro Yamaguchi
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - spoken vocals
+    mbid: 871c27c9-2121-4eb9-a072-e36a0e367642
+    name: Chali 2na
 musical_connections:
   collaborators:
-  - Chali 2na
-  - Cut Chemist
-  - Kanetic Source
-  - Mana
-  - Boston Pops Orchestra and New York Pops Orchestra
+    - Chali 2na
+    - Cut Chemist
+    - Kanetic Source
+    - Mana
+    - Boston Pops Orchestra and New York Pops Orchestra
   influenced: []
   mentors:
-  - Carlos Santana
+    - Carlos Santana
 musicbrainz_id: 7e54639b-ee66-4452-a612-918d4c3c73c4
 network_extracted: true
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://www.citybeat.com/music/ozomatli-on-30-years-of-music-and-living-up-to-santanas-prophecy-20051302/
-- https://www.laphil.com/musicdb/artists/4043/ozomatli
-- https://lessthanjake.fandom.com/wiki/Ozomatli
-- https://www.youthonrecord.org/session/ozomatli
-- https://www.newmusicforoldfolks.com/single-post/2015/08/11/ozomatli
-- https://glidemagazine.com/18530/ozomatli-4/
+  - >-
+    https://www.citybeat.com/music/ozomatli-on-30-years-of-music-and-living-up-to-santanas-prophecy-20051302/
+  - 'https://www.laphil.com/musicdb/artists/4043/ozomatli'
+  - 'https://lessthanjake.fandom.com/wiki/Ozomatli'
+  - 'https://www.youthonrecord.org/session/ozomatli'
+  - 'https://www.newmusicforoldfolks.com/single-post/2015/08/11/ozomatli'
+  - 'https://glidemagazine.com/18530/ozomatli-4/'
 spotify_data:
   followers: 72478
   id: 1An0HCtDktvCBDdFEu7HC0
   popularity: 40
-  url: https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0
+  url: 'https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0'
 status: active
 tags:
-- latin pop
-- world
+  - latin pop
+  - world
 title: Ozomatli
 ---
 

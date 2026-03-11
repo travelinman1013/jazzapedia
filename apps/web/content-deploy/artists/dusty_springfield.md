@@ -1,68 +1,70 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1958'
-  end: '1960'
-  instruments: []
-  mbid: fdc42240-6d74-4506-958b-98420bb493e8
-  name: The Lana Sisters
-- begin: '1960'
-  end: '1963'
-  instruments:
-  - original
-  mbid: 0a9b3612-e074-4f23-af49-7314d6c28bf0
-  name: The Springfields
+  - begin: '1958'
+    end: '1960'
+    instruments: []
+    mbid: fdc42240-6d74-4506-958b-98420bb493e8
+    name: The Lana Sisters
+  - begin: '1960'
+    end: '1963'
+    instruments:
+      - original
+    mbid: 0a9b3612-e074-4f23-af49-7314d6c28bf0
+    name: The Springfields
 biography_enhanced_at: '2026-01-23T01:47:19.990310'
 birth_date: '1939-04-16'
-birth_place: West Hampstead
+birth_place: 'West Hampstead, London, England'
 death_date: '1999-03-02'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:47:19.990317'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b896aa8c-2761-40ce-b485-0e1fffd26167
-  spotify: https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l
-  wikipedia: https://en.wikipedia.org/wiki/Dusty_Springfield
+  musicbrainz: 'https://musicbrainz.org/artist/b896aa8c-2761-40ce-b485-0e1fffd26167'
+  spotify: 'https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dusty_Springfield'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/dusty_springfield.jpg
 instruments:
-- original
-- background vocals
-- choir vocals
-- lead vocals
+  - original
+  - background vocals
+  - choir vocals
+  - lead vocals
 last_updated: '2026-01-23T01:47:19.990318'
 musical_connections:
   collaborators:
-  - Tom Springfield (brother)
-  - Pet Shop Boys
-  - Arif Mardin
+    - Tom Springfield (brother)
+    - Pet Shop Boys
+    - Arif Mardin
   influenced:
-  - Led Zeppelin
+    - Led Zeppelin
   mentors:
-  - Jerry Wexler
-  - Aretha Franklin and Mavis Staples
+    - Jerry Wexler
+    - Aretha Franklin and Mavis Staples
 musicbrainz_id: b896aa8c-2761-40ce-b485-0e1fffd26167
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://top40weekly.com/dusty-springfield/
-- https://en.wikipedia.org/wiki/Dusty_Springfield
-- https://www.last.fm/music/Dusty+Springfield/+wiki
-- https://www.biography.com/musicians/dusty-springfield
-- https://www.irishpost.com/entertainment/dusty-springfield-the-road-to-stardom-that-rarely-brought-happiness-271184
-- https://www.britannica.com/biography/Dusty-Springfield
-- https://www.classicbands.com/dusty.html
+  - 'https://top40weekly.com/dusty-springfield/'
+  - 'https://en.wikipedia.org/wiki/Dusty_Springfield'
+  - 'https://www.last.fm/music/Dusty+Springfield/+wiki'
+  - 'https://www.biography.com/musicians/dusty-springfield'
+  - >-
+    https://www.irishpost.com/entertainment/dusty-springfield-the-road-to-stardom-that-rarely-brought-happiness-271184
+  - 'https://www.britannica.com/biography/Dusty-Springfield'
+  - 'https://www.classicbands.com/dusty.html'
 spotify_data:
   followers: 592571
   id: 5zaXYwewAXedKNCff45U5l
   popularity: 66
-  url: https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l
+  url: 'https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l'
 status: active
 tags:
-- baroque pop
-- blue-eyed soul
-- british
+  - baroque pop
+  - blue-eyed soul
+  - british
 title: Dusty Springfield
+is_active: false
 ---
 
 ![](dusty_springfield.jpg)

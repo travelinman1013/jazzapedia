@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-03-08T03:04:04.442190'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:04:04.442204'
 external_urls:
-  spotify: https://open.spotify.com/artist/3A23z7Qic4VGk7cRenV2SO
-  wikipedia: https://en.wikipedia.org/wiki/Captain_Sky
+  spotify: 'https://open.spotify.com/artist/3A23z7Qic4VGk7cRenV2SO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Captain_Sky'
 genres:
-- post-disco
+  - post-disco
 image_path: 03_Resources/source_material/ArtistPortraits/captain_sky.jpg
 last_updated: '2026-03-08T03:04:04.442208'
 musical_connections:
   collaborators:
-  - Dexter Griffin
-  - Vince Lawrence
-  - Elmer Brown
-  - Heaven & Earth
+    - Dexter Griffin
+    - Vince Lawrence
+    - Elmer Brown
+    - Heaven & Earth
   influenced:
-  - Public Enemy
-  - Boogie Down Productions
-  - Wu-Tang Clan
-  - Salt-N-Pepa
-  - De La Soul
+    - Public Enemy
+    - Boogie Down Productions
+    - Wu-Tang Clan
+    - Salt-N-Pepa
+    - De La Soul
   mentors:
-  - George Clinton
-  - Bootsy Collins
+    - George Clinton
+    - Bootsy Collins
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Captain_Sky
-- http://www.soulwalking.co.uk/Captain%20Sky.html
-- http://www.oldschoolhiphop.com/artists/emcees/captainsky.htm
+  - 'https://en.wikipedia.org/wiki/Captain_Sky'
+  - 'http://www.soulwalking.co.uk/Captain%20Sky.html'
+  - 'http://www.oldschoolhiphop.com/artists/emcees/captainsky.htm'
 spotify_data:
   followers: 1592
   id: 3A23z7Qic4VGk7cRenV2SO
   popularity: 13
-  url: https://open.spotify.com/artist/3A23z7Qic4VGk7cRenV2SO
+  url: 'https://open.spotify.com/artist/3A23z7Qic4VGk7cRenV2SO'
 status: active
 title: Captain Sky
+origin: 'Chicago, Illinois, United States'
+birth_date: '1957-07-10'
+artist_type: person
 ---
 
 ![](captain_sky.jpg)

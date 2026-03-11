@@ -1,44 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-02T01:41:54.524601'
-birth_place: Metamora, Illinois, United States
+birth_place: 'Metamora, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:41:54.524611'
 external_urls:
-  spotify: https://open.spotify.com/artist/2bY3IduGK03YI2vZpE1vJG
-  wikipedia: https://en.wikipedia.org/wiki/Glen_Gray
+  spotify: 'https://open.spotify.com/artist/2bY3IduGK03YI2vZpE1vJG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Glen_Gray'
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/glen_gray.jpg
 last_updated: '2026-02-02T01:41:54.524613'
 musical_connections:
   collaborators:
-  - Pee Wee Hunt
-  - Kenny Sargent
-  - Gene Gifford
-  - Bobby Hackett
-  - Herb Ellis
+    - Pee Wee Hunt
+    - Kenny Sargent
+    - Gene Gifford
+    - Bobby Hackett
+    - Herb Ellis
   influenced:
-  - Benny Goodman
-  - Dorsey Brothers
+    - Benny Goodman
+    - Dorsey Brothers
   mentors:
-  - Jean Goldkette
+    - Jean Goldkette
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jazzstandards.com/biographies/biography_161.htm
-- http://www.bigbandlibrary.com/glengray.html
-- https://swingandbeyond.com/2017/06/17/smoke-rings-1937-glen-gray-and-the-casa-loma-orchestra/
-- https://fromthevaults-boppinbob.blogspot.com/2020/06/glen-gray-born-7-june-1906.html
-- https://bandchirps.com/band/glen-gray/
-- https://en.wikipedia.org/wiki/Glen_Gray
+  - 'https://www.jazzstandards.com/biographies/biography_161.htm'
+  - 'http://www.bigbandlibrary.com/glengray.html'
+  - >-
+    https://swingandbeyond.com/2017/06/17/smoke-rings-1937-glen-gray-and-the-casa-loma-orchestra/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/06/glen-gray-born-7-june-1906.html
+  - 'https://bandchirps.com/band/glen-gray/'
+  - 'https://en.wikipedia.org/wiki/Glen_Gray'
 spotify_data:
   followers: 6271
   id: 2bY3IduGK03YI2vZpE1vJG
   popularity: 26
-  url: https://open.spotify.com/artist/2bY3IduGK03YI2vZpE1vJG
+  url: 'https://open.spotify.com/artist/2bY3IduGK03YI2vZpE1vJG'
 status: active
 title: Glen Gray
+birth_date: '1900-06-07'
+artist_type: person
 ---
 
 ![](glen_gray.jpg)

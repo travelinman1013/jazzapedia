@@ -1,176 +1,178 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-07T01:41:34.143323'
 birth_date: '1971'
 enhancement_provider: perplexity
 entry_created: '2026-03-07T01:41:34.143328'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36
-  spotify: https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK
-  wikipedia: https://en.wikipedia.org/wiki/Return_to_Forever
+  musicbrainz: 'https://musicbrainz.org/artist/5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36'
+  spotify: 'https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Return_to_Forever'
 genres:
-- jazz fusion
-- jazz
-- jazz funk
+  - jazz fusion
+  - jazz
+  - jazz funk
 image_path: 03_Resources/source_material/ArtistPortraits/return_to_forever.jpg
 instruments:
-- guitar
-- drums (drum set)
-- violin
-- double bass
-- original
-- piano
-- keyboard
-- flute
-- soprano saxophone
-- percussion
-- lead vocals
-last_updated: '2026-03-07T01:41:34.143329'
-members:
-- begin: '1973'
-  end: '1974'
-  instruments:
   - guitar
-  mbid: daad8dc0-936a-48ca-9c55-408392ccab4a
-  name: Bill Connors
-- &id001
-  begin: '1973'
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 296a6a56-033f-42cb-a170-188b532f6c14
-  name: Lenny White
-- &id002
-  begin: '1974'
-  end: ''
-  instruments:
-  - guitar
-  mbid: 09c0f334-f9de-4970-b9ee-ef799cd093be
-  name: Al Di Meola
-- &id003
-  begin: '2010'
-  end: ''
-  instruments: []
-  mbid: 31461356-7fee-400b-ae2c-d965b2c3a06d
-  name: Frank Gambale
-- &id004
-  begin: '2010'
-  end: ''
-  instruments:
   - violin
-  mbid: 44cd4e2e-0a6a-4cd1-a2a7-e23d9f33df78
-  name: Jean‐Luc Ponty
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: b6526fb3-7eae-48ed-a162-b0a239d06d69
-  name: Gerry Brown
-- begin: ''
-  end: ''
-  instruments:
   - double bass
   - original
-  mbid: 5ab6ca23-9e17-43f2-ad92-869d28bdbf11
-  name: Stanley Clarke
-- begin: ''
-  end: ''
-  instruments:
-  - original
   - piano
-  mbid: 8446fcca-109e-4c6d-a2ff-5a269b32b4c2
-  name: Chick Corea
-- begin: ''
-  end: ''
-  instruments:
   - keyboard
-  - original
-  mbid: 8446fcca-109e-4c6d-a2ff-5a269b32b4c2
-  name: Chick Corea
-- begin: ''
-  end: ''
-  instruments:
   - flute
-  - original
-  mbid: c84deb79-f49d-4f78-adcf-25424030d712
-  name: Joe Farrell
-- begin: ''
-  end: ''
-  instruments:
-  - original
   - soprano saxophone
-  mbid: c84deb79-f49d-4f78-adcf-25424030d712
-  name: Joe Farrell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7433918e-5c12-4a81-8875-06e3a54d2e00
-  name: Steve Gadd
-- begin: ''
-  end: ''
-  instruments:
-  - original
   - percussion
-  mbid: dd2abaa1-0b73-4ded-82ed-c80cce8d6378
-  name: Airto Moreira
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: dd2abaa1-0b73-4ded-82ed-c80cce8d6378
-  name: Airto Moreira
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  - original
-  mbid: b1091eee-4198-4e66-8b15-05ae12b03353
-  name: Flora Purim
+last_updated: '2026-03-07T01:41:34.143329'
+members:
+  - begin: '1973'
+    end: '1974'
+    instruments:
+      - guitar
+    mbid: daad8dc0-936a-48ca-9c55-408392ccab4a
+    name: Bill Connors
+  - &ref_0
+    begin: '1973'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 296a6a56-033f-42cb-a170-188b532f6c14
+    name: Lenny White
+  - &ref_1
+    begin: '1974'
+    end: ''
+    instruments:
+      - guitar
+    mbid: 09c0f334-f9de-4970-b9ee-ef799cd093be
+    name: Al Di Meola
+  - &ref_2
+    begin: '2010'
+    end: ''
+    instruments: []
+    mbid: 31461356-7fee-400b-ae2c-d965b2c3a06d
+    name: Frank Gambale
+  - &ref_3
+    begin: '2010'
+    end: ''
+    instruments:
+      - violin
+    mbid: 44cd4e2e-0a6a-4cd1-a2a7-e23d9f33df78
+    name: Jean‐Luc Ponty
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: b6526fb3-7eae-48ed-a162-b0a239d06d69
+    name: Gerry Brown
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+      - original
+    mbid: 5ab6ca23-9e17-43f2-ad92-869d28bdbf11
+    name: Stanley Clarke
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - piano
+    mbid: 8446fcca-109e-4c6d-a2ff-5a269b32b4c2
+    name: Chick Corea
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+      - original
+    mbid: 8446fcca-109e-4c6d-a2ff-5a269b32b4c2
+    name: Chick Corea
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+      - original
+    mbid: c84deb79-f49d-4f78-adcf-25424030d712
+    name: Joe Farrell
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - soprano saxophone
+    mbid: c84deb79-f49d-4f78-adcf-25424030d712
+    name: Joe Farrell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7433918e-5c12-4a81-8875-06e3a54d2e00
+    name: Steve Gadd
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - percussion
+    mbid: dd2abaa1-0b73-4ded-82ed-c80cce8d6378
+    name: Airto Moreira
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: dd2abaa1-0b73-4ded-82ed-c80cce8d6378
+    name: Airto Moreira
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: b1091eee-4198-4e66-8b15-05ae12b03353
+    name: Flora Purim
 musical_connections:
   collaborators:
-  - Stanley Clarke
-  - Lenny White
-  - Al Di Meola
-  - Flora Purim
-  - Airto Moreira
-  - Joe Farrell
-  - Bill Connors
+    - Stanley Clarke
+    - Lenny White
+    - Al Di Meola
+    - Flora Purim
+    - Airto Moreira
+    - Joe Farrell
+    - Bill Connors
   influenced:
-  - Modern jazz fusion and progressive fusion guitarists (e.g., Al Di Meola’s followers)
-  - Subsequent jazz fusion bands and projects
+    - >-
+      Modern jazz fusion and progressive fusion guitarists (e.g., Al Di Meola’s
+      followers)
+    - Subsequent jazz fusion bands and projects
   mentors:
-  - Miles Davis
-  - Stan Getz
+    - Miles Davis
+    - Stan Getz
 musicbrainz_id: 5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36
 network_extracted: true
-origin: New York
+origin: 'New York, New York, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
 primary_source: perplexity
 research_sources:
-- https://floatingworldrecords.co.uk/blogs/discover/return-to-forever
-- https://chickcorea.com/bio/1972-78/
-- https://www.allaboutjazz.com/musicians/return-to-forever/
-- https://jazzfuel.com/the-story-of-return-to-forever-1972-1978/
-- https://jazztimes.com/features/profiles/return-to-forever-fusion-evolution/
-- https://www.allmusic.com/artist/return-to-forever-mn0000463527
-- https://www.jango.com/music/Return+to+Forever/_full_bio
-- https://www.progarchives.com/artist.asp?id=1027
-- https://en.wikipedia.org/wiki/Return_to_Forever
+  - 'https://floatingworldrecords.co.uk/blogs/discover/return-to-forever'
+  - 'https://chickcorea.com/bio/1972-78/'
+  - 'https://www.allaboutjazz.com/musicians/return-to-forever/'
+  - 'https://jazzfuel.com/the-story-of-return-to-forever-1972-1978/'
+  - 'https://jazztimes.com/features/profiles/return-to-forever-fusion-evolution/'
+  - 'https://www.allmusic.com/artist/return-to-forever-mn0000463527'
+  - 'https://www.jango.com/music/Return+to+Forever/_full_bio'
+  - 'https://www.progarchives.com/artist.asp?id=1027'
+  - 'https://en.wikipedia.org/wiki/Return_to_Forever'
 spotify_data:
   followers: 119320
   id: 1txWOvvuItlRlkB4rM0cUK
   popularity: 38
-  url: https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK
+  url: 'https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK'
 status: active
 tags:
-- fusion
-- jazz fusion
-- jazz rock
+  - fusion
+  - jazz fusion
+  - jazz rock
 title: Return to Forever
 ---
 

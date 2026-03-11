@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-03-02T01:12:42.756768'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:12:42.756778'
 external_urls:
-  spotify: https://open.spotify.com/artist/4R6akoKtOPUS4YT7R7XXNH
+  spotify: 'https://open.spotify.com/artist/4R6akoKtOPUS4YT7R7XXNH'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/kelly_love_jones_deezle.jpg
 last_updated: '2026-03-02T01:12:42.756780'
 musical_connections:
   collaborators:
-  - Deezle (Darius Harrison)
-  - The Original Pinettes Brass Band
-  - Errol Moore
+    - Deezle (Darius Harrison)
+    - The Original Pinettes Brass Band
+    - Errol Moore
   influenced: []
   mentors:
-  - Sade
-  - Chaka Khan
-  - James Alsanders
-  - George Porter Jr.
+    - Sade
+    - Chaka Khan
+    - James Alsanders
+    - George Porter Jr.
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.roynet.com/roster/deezle/
-- https://boldjourney.com/meet-kelly-love-jones/
-- https://www.offbeat.com/articles/alchemist-of-people-kelly-love-jones-music-that-touches-people-janedit/
-- https://astudiointhewoods.org/artist/kelly-jones/
-- https://www.livingroomtour.net/summer-2014.html
+  - 'https://www.roynet.com/roster/deezle/'
+  - 'https://boldjourney.com/meet-kelly-love-jones/'
+  - >-
+    https://www.offbeat.com/articles/alchemist-of-people-kelly-love-jones-music-that-touches-people-janedit/
+  - 'https://astudiointhewoods.org/artist/kelly-jones/'
+  - 'https://www.livingroomtour.net/summer-2014.html'
 spotify_data:
   followers: 46
   id: 4R6akoKtOPUS4YT7R7XXNH
   popularity: 13
-  url: https://open.spotify.com/artist/4R6akoKtOPUS4YT7R7XXNH
+  url: 'https://open.spotify.com/artist/4R6akoKtOPUS4YT7R7XXNH'
 status: active
-title: Kelly Love Jones, Deezle
+title: 'Kelly Love Jones, Deezle'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](kelly_love_jones_deezle.jpg)

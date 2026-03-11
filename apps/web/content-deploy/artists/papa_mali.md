@@ -1,72 +1,74 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: d587501c-d298-4887-822a-20e0e875564e
-  name: Papa Mali Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1ed65f57-3259-4250-840b-b57a03853d79
-  name: Joe Krown Trio +1 featuring Papa Mali
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d587501c-d298-4887-822a-20e0e875564e
+    name: Papa Mali Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1ed65f57-3259-4250-840b-b57a03853d79
+    name: Joe Krown Trio +1 featuring Papa Mali
 biography_enhanced_at: '2026-01-24T02:03:06.423550'
 birth_date: '1957-05-06'
-birth_place: Vicksburg
+birth_place: 'Vicksburg, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:03:06.423556'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3d24e2fa-3978-4552-86f5-9290cef8e206
-  spotify: https://open.spotify.com/artist/6giamVJbCJBIPCBiHLAUJz
-  wikipedia: https://en.wikipedia.org/wiki/Papa_Mali
+  musicbrainz: 'https://musicbrainz.org/artist/3d24e2fa-3978-4552-86f5-9290cef8e206'
+  spotify: 'https://open.spotify.com/artist/6giamVJbCJBIPCBiHLAUJz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Papa_Mali'
 gender: Male
 genres:
-- southern gothic
+  - southern gothic
 image_path: 03_Resources/source_material/ArtistPortraits/papa_mali.jpg
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 last_updated: '2026-01-24T02:03:06.423556'
 musical_connections:
   collaborators:
-  - Dan Prothero
-  - Big Chief Monk Boudreaux and the Golden Eagles
-  - Kirk Joseph
-  - Henry Butler
-  - Victoria Williams
-  - Chuck Prophet
-  - Reverend Goat Carson
+    - Dan Prothero
+    - Big Chief Monk Boudreaux and the Golden Eagles
+    - Kirk Joseph
+    - Henry Butler
+    - Victoria Williams
+    - Chuck Prophet
+    - Reverend Goat Carson
   influenced:
-  - Ruthie Foster
-  - 7 Walkers
+    - Ruthie Foster
+    - 7 Walkers
   mentors:
-  - John Campbell
-  - Dr. John
-  - The Rolling Stones
-  - Cyril Neville
+    - John Campbell
+    - Dr. John
+    - The Rolling Stones
+    - Cyril Neville
 musicbrainz_id: 3d24e2fa-3978-4552-86f5-9290cef8e206
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://ragman.org/papa-mali
-- https://www.last.fm/music/Papa+Mali/+wiki
-- https://www.musicmetricsvault.com/artists/papa-mali/6giamVJbCJBIPCBiHLAUJz
-- https://liveforlivemusic.com/features/papa-mali-goes-in-depth-on-his-approach-to-music-new-orleans-and-crawfish-boils/
-- https://en.wikipedia.org/wiki/Papa_Mali
-- https://www.btdfoundation.org/papa-mali/
-- https://www.neworleans.com/listing/papa-mali/46513/
-- https://jazz.fm/papa-mali-interview-music-influences/
-- https://gatheringofthevibes.com/artist/papa-mali/
+  - 'https://ragman.org/papa-mali'
+  - 'https://www.last.fm/music/Papa+Mali/+wiki'
+  - 'https://www.musicmetricsvault.com/artists/papa-mali/6giamVJbCJBIPCBiHLAUJz'
+  - >-
+    https://liveforlivemusic.com/features/papa-mali-goes-in-depth-on-his-approach-to-music-new-orleans-and-crawfish-boils/
+  - 'https://en.wikipedia.org/wiki/Papa_Mali'
+  - 'https://www.btdfoundation.org/papa-mali/'
+  - 'https://www.neworleans.com/listing/papa-mali/46513/'
+  - 'https://jazz.fm/papa-mali-interview-music-influences/'
+  - 'https://gatheringofthevibes.com/artist/papa-mali/'
 spotify_data:
   followers: 3138
   id: 6giamVJbCJBIPCBiHLAUJz
   popularity: 13
-  url: https://open.spotify.com/artist/6giamVJbCJBIPCBiHLAUJz
+  url: 'https://open.spotify.com/artist/6giamVJbCJBIPCBiHLAUJz'
 status: active
-title: papa mali
+title: Papa Mali
+origin: 'Shreveport, Louisiana, United States'
 ---
 
 ![](papa_mali.jpg)

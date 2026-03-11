@@ -3,37 +3,38 @@ biography_enhanced_at: '2026-01-30T01:20:22.688003'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:20:22.688013'
 external_urls:
-  spotify: https://open.spotify.com/artist/13zIEf7jZircBMu3774fAb
+  spotify: 'https://open.spotify.com/artist/13zIEf7jZircBMu3774fAb'
   wikipedia: ''
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/the_devonnes.jpg
 last_updated: '2026-01-30T01:20:22.688023'
 musical_connections:
   collaborators:
-  - Khalyle Hagood
-  - Ari Lindo
-  - Khori Wilson
+    - Khalyle Hagood
+    - Ari Lindo
+    - Khori Wilson
   influenced: []
   mentors:
-  - Leroy Hutson
-  - Wilson Pickett
-  - The Flamingos
-  - Al Green
+    - Leroy Hutson
+    - Wilson Pickett
+    - The Flamingos
+    - Al Green
 network_extracted: true
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://www.popmatters.com/the-devonns-devonns-review-2645643162.html
-- https://recordkicks.com/artist/the-devonns/
-- https://www.tracklib.com/music/artists/the-devonns
+  - 'https://www.popmatters.com/the-devonns-devonns-review-2645643162.html'
+  - 'https://recordkicks.com/artist/the-devonns/'
+  - 'https://www.tracklib.com/music/artists/the-devonns'
 spotify_data:
   followers: 163
   id: 13zIEf7jZircBMu3774fAb
   popularity: 1
-  url: https://open.spotify.com/artist/13zIEf7jZircBMu3774fAb
+  url: 'https://open.spotify.com/artist/13zIEf7jZircBMu3774fAb'
 status: active
-title: the devonnes
+title: The Devonnes
+artist_type: band
 ---
 
 ![](the_devonnes.jpg)

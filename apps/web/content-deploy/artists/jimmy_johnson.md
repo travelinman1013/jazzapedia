@@ -1,55 +1,60 @@
 ---
 biography_enhanced_at: '2026-01-29T02:03:44.647305'
-birth_place: Enterprise, Alabama, United States (birthplace); Montgomery, Alabama,
-  United States (origin)
+birth_place: >-
+  Enterprise, Alabama, United States (birthplace); Montgomery, Alabama, United
+  States (origin)
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:03:44.647311'
 external_urls:
-  spotify: https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8
-  wikipedia: https://en.wikipedia.org/wiki/Jamey_Johnson
+  spotify: 'https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jamey_Johnson'
 genres:
-- outlaw country
-- country
-- red dirt
-- classic country
+  - outlaw country
+  - country
+  - red dirt
+  - classic country
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_johnson.jpg
 last_updated: '2026-01-29T02:03:44.647312'
 musical_connections:
   collaborators:
-  - Bill Anderson
-  - Buddy Cannon
-  - George Strait
-  - Merle Haggard
-  - Ray Price
-  - Willie Nelson
-  - Emmylou Harris
-  - Kris Kristofferson
+    - Bill Anderson
+    - Buddy Cannon
+    - George Strait
+    - Merle Haggard
+    - Ray Price
+    - Willie Nelson
+    - Emmylou Harris
+    - Kris Kristofferson
   influenced: []
   mentors:
-  - Waylon Jennings
-  - Willie Nelson
-  - Merle Haggard
-  - Hank Williams
-  - George Jones
-  - Vern Gosdin
-  - Billie Joe Shaver
-  - Cochran
+    - Waylon Jennings
+    - Willie Nelson
+    - Merle Haggard
+    - Hank Williams
+    - George Jones
+    - Vern Gosdin
+    - Billie Joe Shaver
+    - Cochran
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jamey_Johnson
-- https://www.toppermost.co.uk/johnson-jamey/
-- https://savingcountrymusic.com/jamey-johnson-real-deal-or-patsy/
-- https://www.nucountry.com.au/archive-old-site/public_html/articles/diary/december2011/131211_jameyjohnson.htm
-- https://www.allmusic.com/artist/jamey-johnson-mn0000627787
-- https://www.iheart.com/artist/jamey-johnson-41859/
+  - 'https://en.wikipedia.org/wiki/Jamey_Johnson'
+  - 'https://www.toppermost.co.uk/johnson-jamey/'
+  - 'https://savingcountrymusic.com/jamey-johnson-real-deal-or-patsy/'
+  - >-
+    https://www.nucountry.com.au/archive-old-site/public_html/articles/diary/december2011/131211_jameyjohnson.htm
+  - 'https://www.allmusic.com/artist/jamey-johnson-mn0000627787'
+  - 'https://www.iheart.com/artist/jamey-johnson-41859/'
 spotify_data:
   followers: 873750
   id: 5yhxqYI0JBwUKfXpSEjiM8
   popularity: 61
-  url: https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8
+  url: 'https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8'
 status: active
 title: Jimmy Johnson
+origin: 'Montgomery, Alabama, United States'
+birth_date: '1975-07-14'
+artist_type: person
 ---
 
 ![](jimmy_johnson.jpg)

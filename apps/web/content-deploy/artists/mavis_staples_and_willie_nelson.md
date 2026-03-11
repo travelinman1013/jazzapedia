@@ -1,44 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-28T01:52:40.391266'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:52:40.391275'
 external_urls:
-  spotify: https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0
+  spotify: 'https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0'
   wikipedia: ''
 genres:
-- soul
-image_path: 03_Resources/source_material/ArtistPortraits/mavis_staples_and_willie_nelson.jpg
+  - soul
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/mavis_staples_and_willie_nelson.jpg
 last_updated: '2026-02-28T01:52:40.391277'
 musical_connections:
   collaborators:
-  - Willie Nelson
-  - Jeff Tweedy
-  - Bob Dylan
-  - Prince
+    - Willie Nelson
+    - Jeff Tweedy
+    - Bob Dylan
+    - Prince
   influenced:
-  - Benjamin Booker
-  - Son Little
+    - Benjamin Booker
+    - Son Little
   mentors:
-  - Roebuck 'Pops' Staples
-  - Mahalia Jackson
+    - Roebuck 'Pops' Staples
+    - Mahalia Jackson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://convocations.purdue.edu/mavis-staples-has-crossed-musical-genres-for-60-years/
-- https://mavisstaples.com/about
-- https://www.sacurrent.com/music/how-mavis-staples-life-of-song-helped-shape-america-2510811/
-- https://www.rosebudus.com/staples/OneTrueVine.html
-- https://www.anti.com/videos/can-you-get-to-that
-- https://en.wikipedia.org/wiki/To_All_the_Girls...
-- https://thebluegrasssituation.com/read/despite-a-sad-and-beautiful-world-mavis-staples-still-transcends/
+  - >-
+    http://convocations.purdue.edu/mavis-staples-has-crossed-musical-genres-for-60-years/
+  - 'https://mavisstaples.com/about'
+  - >-
+    https://www.sacurrent.com/music/how-mavis-staples-life-of-song-helped-shape-america-2510811/
+  - 'https://www.rosebudus.com/staples/OneTrueVine.html'
+  - 'https://www.anti.com/videos/can-you-get-to-that'
+  - 'https://en.wikipedia.org/wiki/To_All_the_Girls...'
+  - >-
+    https://thebluegrasssituation.com/read/despite-a-sad-and-beautiful-world-mavis-staples-still-transcends/
 spotify_data:
   followers: 130610
   id: 0cTSCsVx04SSht9V6cpKN0
   popularity: 49
-  url: https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0
+  url: 'https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0'
 status: active
-title: mavis staples & willie nelson
+title: Mavis Staples & Willie Nelson
+artist_type: band
 ---
 
 ![](mavis_staples_and_willie_nelson.jpg)

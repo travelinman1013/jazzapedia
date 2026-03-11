@@ -1,35 +1,36 @@
 ---
 biography_enhanced_at: '2026-02-24T01:46:15.743300'
-birth_place: Fort Worth, Texas, USA
+birth_place: 'Fort Worth, Texas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:46:15.743309'
 external_urls:
-  spotify: https://open.spotify.com/artist/4yvdUw2r1kGvjH47Auza9J
+  spotify: 'https://open.spotify.com/artist/4yvdUw2r1kGvjH47Auza9J'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/little_danny.jpg
 last_updated: '2026-02-24T01:46:15.743311'
 musical_connections:
   collaborators:
-  - Lannie Flowers
-  - The Pengwins
-  - Emily Rogers
+    - Lannie Flowers
+    - The Pengwins
+    - Emily Rogers
   influenced: []
   mentors:
-  - The Beatles
-  - Rick Derringer
+    - The Beatles
+    - Rick Derringer
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.dannywilkerson.com/bio
-- https://open.spotify.com/artist/3K63A0UY40xeKJJL7Zads1
+  - 'https://www.dannywilkerson.com/bio'
+  - 'https://open.spotify.com/artist/3K63A0UY40xeKJJL7Zads1'
 spotify_data:
   followers: 753
   id: 4yvdUw2r1kGvjH47Auza9J
   popularity: 20
-  url: https://open.spotify.com/artist/4yvdUw2r1kGvjH47Auza9J
+  url: 'https://open.spotify.com/artist/4yvdUw2r1kGvjH47Auza9J'
 status: active
 title: Little Danny
+artist_type: person
 ---
 
 ![](little_danny.jpg)

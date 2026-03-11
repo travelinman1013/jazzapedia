@@ -1,52 +1,54 @@
 ---
 biography_enhanced_at: '2026-02-10T01:48:11.588790'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:48:11.588799'
 external_urls:
-  spotify: https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW
-  wikipedia: https://en.wikipedia.org/wiki/Herbie_Hancock
+  spotify: 'https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Herbie_Hancock'
 genres:
-- jazz
-- jazz fusion
-- jazz funk
-- hard bop
-- cool jazz
+  - jazz
+  - jazz fusion
+  - jazz funk
+  - hard bop
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/herbie_hancock_quintet.jpg
 last_updated: '2026-02-10T01:48:11.588801'
 musical_connections:
   collaborators:
-  - Wayne Shorter
-  - Ron Carter
-  - Tony Williams
-  - Bennie Maupin
-  - Paul Jackson
-  - Bill Summers
-  - Harvey Mason
-  - Wynton Marsalis
-  - Bill Laswell
+    - Wayne Shorter
+    - Ron Carter
+    - Tony Williams
+    - Bennie Maupin
+    - Paul Jackson
+    - Bill Summers
+    - Harvey Mason
+    - Wynton Marsalis
+    - Bill Laswell
   influenced:
-  - Wynton Marsalis
+    - Wynton Marsalis
   mentors:
-  - Donald Byrd
-  - Miles Davis
+    - Donald Byrd
+    - Miles Davis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Herbie_Hancock
-- https://www.herbiehancock.com/biography-full-page/
-- https://www.laphil.com/musicdb/artists/2272/herbie-hancock-quartet
-- https://www.thehistorymakers.org/biography/herbie-hancock
-- https://www.britannica.com/biography/Herbie-Hancock
-- https://ums.org/2025/10/01/herbie-through-the-years/
-- https://www.arts.gov/honors/jazz/herbie-hancock
+  - 'https://en.wikipedia.org/wiki/Herbie_Hancock'
+  - 'https://www.herbiehancock.com/biography-full-page/'
+  - 'https://www.laphil.com/musicdb/artists/2272/herbie-hancock-quartet'
+  - 'https://www.thehistorymakers.org/biography/herbie-hancock'
+  - 'https://www.britannica.com/biography/Herbie-Hancock'
+  - 'https://ums.org/2025/10/01/herbie-through-the-years/'
+  - 'https://www.arts.gov/honors/jazz/herbie-hancock'
 spotify_data:
   followers: 807958
   id: 2ZvrvbQNrHKwjT7qfGFFUW
   popularity: 57
-  url: https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW
+  url: 'https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW'
 status: active
 title: Herbie Hancock Quintet
+birth_date: '1940-04-12'
+artist_type: band
 ---
 
 ![](herbie_hancock_quintet.jpg)

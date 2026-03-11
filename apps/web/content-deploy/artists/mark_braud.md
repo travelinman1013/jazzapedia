@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-06T01:08:06.016758'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:08:06.016767'
 external_urls:
-  spotify: https://open.spotify.com/artist/54ZvSHAo9qDx6I6qVjfvtn
+  spotify: 'https://open.spotify.com/artist/54ZvSHAo9qDx6I6qVjfvtn'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mark_braud.jpg
 last_updated: '2026-02-06T01:08:06.016769'
 musical_connections:
   collaborators:
-  - Harry Connick Jr.
-  - Preservation Hall Jazz Band
-  - Nicholas Payton
-  - Dr. Michael White
-  - Marsalis family
+    - Harry Connick Jr.
+    - Preservation Hall Jazz Band
+    - Nicholas Payton
+    - Dr. Michael White
+    - Marsalis family
   influenced: []
   mentors:
-  - Wendell Brunious
-  - Ellis Marsalis Jr.
-  - John 'Picket' Brunious Sr.
+    - Wendell Brunious
+    - Ellis Marsalis Jr.
+    - John 'Picket' Brunious Sr.
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.markbraud.com/about
-- https://www.rsberkeley.com/mark-braud
-- https://musicrising.tulane.edu/discover/people/mark-braud/
-- https://www.larmstrongsoc.org/meet-the-band
-- https://www.nojc.org/events/nickel-a-dance-mark-braud-his-sunday-night-all-stars
-- https://www.neworleans.com/listing/mark-braud/46479/
+  - 'https://www.markbraud.com/about'
+  - 'https://www.rsberkeley.com/mark-braud'
+  - 'https://musicrising.tulane.edu/discover/people/mark-braud/'
+  - 'https://www.larmstrongsoc.org/meet-the-band'
+  - >-
+    https://www.nojc.org/events/nickel-a-dance-mark-braud-his-sunday-night-all-stars
+  - 'https://www.neworleans.com/listing/mark-braud/46479/'
 spotify_data:
   followers: 61
   id: 54ZvSHAo9qDx6I6qVjfvtn
   popularity: 1
-  url: https://open.spotify.com/artist/54ZvSHAo9qDx6I6qVjfvtn
+  url: 'https://open.spotify.com/artist/54ZvSHAo9qDx6I6qVjfvtn'
 status: active
 title: Mark Braud
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1973-06-21'
+artist_type: person
 ---
 
 ![](mark_braud.jpg)

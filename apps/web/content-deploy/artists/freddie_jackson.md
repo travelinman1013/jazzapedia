@@ -1,40 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-24T01:50:17.250906'
-birth_place: Harlem, New York City, USA
+birth_place: 'Harlem, New York City, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:50:17.250916'
 external_urls:
-  spotify: https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3
-  wikipedia: https://en.wikipedia.org/wiki/Freddie_Jackson
+  spotify: 'https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Freddie_Jackson'
 genres:
-- quiet storm
-- classic soul
+  - quiet storm
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/freddie_jackson.jpg
 last_updated: '2026-02-24T01:50:17.250917'
 musical_connections:
   collaborators:
-  - Paul Laurence
-  - Mystic Merlin
-  - Melba Moore
+    - Paul Laurence
+    - Mystic Merlin
+    - Melba Moore
   influenced: []
   mentors:
-  - Paul Laurence
+    - Paul Laurence
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Freddie_Jackson
-- https://www.heymanncenter.com/events/2021/freddie-jackson
-- https://uaagency.com/hip-hop-rb/freddie-jackson/
-- https://www.freddiejackson.net/legacy/
-- http://www.soulwalking.co.uk/Freddie%20Jackson.html
-- https://yoshis.com/events/sold-out/freddie-jackson/detail
+  - 'https://en.wikipedia.org/wiki/Freddie_Jackson'
+  - 'https://www.heymanncenter.com/events/2021/freddie-jackson'
+  - 'https://uaagency.com/hip-hop-rb/freddie-jackson/'
+  - 'https://www.freddiejackson.net/legacy/'
+  - 'http://www.soulwalking.co.uk/Freddie%20Jackson.html'
+  - 'https://yoshis.com/events/sold-out/freddie-jackson/detail'
 spotify_data:
   followers: 935058
   id: 2yaixhgm3yXxjhJAH8SZy3
   popularity: 48
-  url: https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3
+  url: 'https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3'
 status: active
 title: Freddie Jackson
+birth_date: '1956-10-02'
+artist_type: person
 ---
 
 ![](freddie_jackson.jpg)

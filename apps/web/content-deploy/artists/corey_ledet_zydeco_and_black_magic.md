@@ -1,56 +1,63 @@
 ---
 biography_enhanced_at: '2026-03-02T01:14:59.088735'
-birth_place: Houston, Texas, USA (birthplace); Parks, Louisiana, USA (Creole roots)
+birth_place: 'Houston, Texas, USA (birthplace); Parks, Louisiana, USA (Creole roots)'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:14:59.088743'
 external_urls:
-  spotify: https://open.spotify.com/artist/5G94r74bku0iOFxgQYJm4O
+  spotify: 'https://open.spotify.com/artist/5G94r74bku0iOFxgQYJm4O'
   wikipedia: ''
 genres:
-- zydeco
-image_path: 03_Resources/source_material/ArtistPortraits/corey_ledet_zydeco_and_black_magic.jpg
+  - zydeco
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/corey_ledet_zydeco_and_black_magic.jpg
 last_updated: '2026-03-02T01:14:59.088745'
 musical_connections:
   collaborators:
-  - Rosie Ledet
-  - Wilbert Thibodeaux and the Zydeco Rascals
-  - Cedric Watson
-  - Cecil Green
-  - James Adams
-  - Julian Primeaux
-  - Lucien Hayes
-  - Je’an-Paul Jolivette
-  - Gregg Potier
-  - Germaine Jack
-  - Anders Osborne
-  - Kermit Ruffins
-  - Grant Dermody
-  - Louis Michot
+    - Rosie Ledet
+    - Wilbert Thibodeaux and the Zydeco Rascals
+    - Cedric Watson
+    - Cecil Green
+    - James Adams
+    - Julian Primeaux
+    - Lucien Hayes
+    - Je’an-Paul Jolivette
+    - Gregg Potier
+    - Germaine Jack
+    - Anders Osborne
+    - Kermit Ruffins
+    - Grant Dermody
+    - Louis Michot
   influenced: []
   mentors:
-  - Buchanan “Tbu” Ledet
-  - Clifton Chenier
-  - John Delafose
-  - Boozoo Chavis
+    - Buchanan “Tbu” Ledet
+    - Clifton Chenier
+    - John Delafose
+    - Boozoo Chavis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.makingascene.org/corey-ledet-zydeco-black-magic-live-in-alaska/
-- https://www.howlinwuelf.com/clients/corey-ledet/
-- https://glidemagazine.com/320835/album-premiere-corey-ledet-zydeco-black-magic-bottle-energetic-louisiana-style-dance-party-performance-on-live-in-alaska/
-- https://www.kmuw.org/podcast/into-music/2026-01-14/into-music-corey-ledet
-- http://www.thealternateroot.com/all-reviews/corey-ledet-zydeco-black-magic-from-the-album-live-in-alaska
-- https://americanahighways.org/2025/12/29/review-corey-ledet-zydeco-black-magic-live-in-alaska/
-- https://americanahighways.org/2023/10/23/interview-corey-ledet-zydecos-medikamen-brings-creole-language-to-the-party/
-- https://ink19.com/2026/01/magazine/music-reviews/7mwmon-corey-ledet-zydeco-black-magic
-- https://coreyledet.com
+  - 'https://www.makingascene.org/corey-ledet-zydeco-black-magic-live-in-alaska/'
+  - 'https://www.howlinwuelf.com/clients/corey-ledet/'
+  - >-
+    https://glidemagazine.com/320835/album-premiere-corey-ledet-zydeco-black-magic-bottle-energetic-louisiana-style-dance-party-performance-on-live-in-alaska/
+  - 'https://www.kmuw.org/podcast/into-music/2026-01-14/into-music-corey-ledet'
+  - >-
+    http://www.thealternateroot.com/all-reviews/corey-ledet-zydeco-black-magic-from-the-album-live-in-alaska
+  - >-
+    https://americanahighways.org/2025/12/29/review-corey-ledet-zydeco-black-magic-live-in-alaska/
+  - >-
+    https://americanahighways.org/2023/10/23/interview-corey-ledet-zydecos-medikamen-brings-creole-language-to-the-party/
+  - >-
+    https://ink19.com/2026/01/magazine/music-reviews/7mwmon-corey-ledet-zydeco-black-magic
+  - 'https://coreyledet.com'
 spotify_data:
   followers: 3
   id: 5G94r74bku0iOFxgQYJm4O
   popularity: 0
-  url: https://open.spotify.com/artist/5G94r74bku0iOFxgQYJm4O
+  url: 'https://open.spotify.com/artist/5G94r74bku0iOFxgQYJm4O'
 status: active
 title: Corey Ledet Zydeco & Black Magic
+artist_type: person
 ---
 
 ![](corey_ledet_zydeco_and_black_magic.jpg)

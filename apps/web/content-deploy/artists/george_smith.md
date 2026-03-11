@@ -1,46 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-26T01:19:19.725600'
-birth_place: Helena, Arkansas, USA
+birth_place: 'Helena, Arkansas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:19:19.725610'
 external_urls:
-  spotify: https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF
-  wikipedia: https://en.wikipedia.org/wiki/George_%22Harmonica%22_Smith
+  spotify: 'https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_%22Harmonica%22_Smith'
 genres:
-- country
-- texas country
-- red dirt
-- acoustic country
-- country hip hop
+  - country
+  - texas country
+  - red dirt
+  - acoustic country
+  - country hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/george_smith.jpg
 last_updated: '2026-02-26T01:19:19.725612'
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Otis Rush
-  - Champion Jack Dupree
-  - Big Mama Thornton
-  - Rod Piazza
+    - Muddy Waters
+    - Otis Rush
+    - Champion Jack Dupree
+    - Big Mama Thornton
+    - Rod Piazza
   influenced:
-  - William Clarke
+    - William Clarke
   mentors:
-  - Jessie Smith
+    - Jessie Smith
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.celticguitarmusic.com/harmgeosmith.htm
-- https://en.wikipedia.org/wiki/George_%22Harmonica%22_Smith
-- https://themusicofgeorgesmith.com/bio
-- https://aadl.org/node/613238
-- https://blues.org/blues_hof_inductee/george-harmonica-smith/
-- https://www.allmusic.com/artist/george-harmonica-smith-mn0000200818
+  - 'https://www.celticguitarmusic.com/harmgeosmith.htm'
+  - 'https://en.wikipedia.org/wiki/George_%22Harmonica%22_Smith'
+  - 'https://themusicofgeorgesmith.com/bio'
+  - 'https://aadl.org/node/613238'
+  - 'https://blues.org/blues_hof_inductee/george-harmonica-smith/'
+  - 'https://www.allmusic.com/artist/george-harmonica-smith-mn0000200818'
 spotify_data:
   followers: 451019
   id: 4sTFGCigAQIUiEy8wSSQNF
   popularity: 47
-  url: https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF
+  url: 'https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF'
 status: active
-title: george smith
+title: George Smith
+birth_date: '1924-04-22'
+death_date: '1983-10-02'
+artist_type: person
 ---
 
 ![](george_smith.jpg)

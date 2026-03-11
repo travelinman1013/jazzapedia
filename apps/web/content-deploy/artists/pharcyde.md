@@ -3,43 +3,45 @@ biography_enhanced_at: '2026-02-10T02:00:02.650898'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T02:00:02.650907'
 external_urls:
-  spotify: https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w
-  wikipedia: https://en.wikipedia.org/wiki/The_Pharcyde
+  spotify: 'https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Pharcyde'
 genres:
-- jazz rap
-- west coast hip hop
-- old school hip hop
-- hip hop
+  - jazz rap
+  - west coast hip hop
+  - old school hip hop
+  - hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/pharcyde.jpg
 last_updated: '2026-02-10T02:00:02.650909'
 musical_connections:
   collaborators:
-  - DJ Mark Luv
-  - J-Swift
-  - J Dilla
-  - Brand New Heavies
+    - DJ Mark Luv
+    - J-Swift
+    - J Dilla
+    - Brand New Heavies
   influenced: []
   mentors:
-  - J-Swift
+    - J-Swift
 network_extracted: true
-origin: South Central Los Angeles, California, USA
+origin: 'South Central Los Angeles, California, USA'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/The+Pharcyde/+wiki
-- https://en.wikipedia.org/wiki/The_Pharcyde
-- https://www.youtube.com/watch?v=x7e6_MfccuA
-- https://www.hiphopscriptures.com/the-pharcyde
-- https://concord.com/artist/the-pharcyde/
-- https://www.allaboutjazz.com/musicians/the-pharcyde/
-- https://kcr.sdsu.edu/still-passin-me-by-the-pharcyde-celebrates-30-years-of-hip-hop-excellence/
-- https://www.aol.com/entertainment/pharcyde-led-west-coast-hip-140000210.html
+  - 'https://www.last.fm/music/The+Pharcyde/+wiki'
+  - 'https://en.wikipedia.org/wiki/The_Pharcyde'
+  - 'https://www.youtube.com/watch?v=x7e6_MfccuA'
+  - 'https://www.hiphopscriptures.com/the-pharcyde'
+  - 'https://concord.com/artist/the-pharcyde/'
+  - 'https://www.allaboutjazz.com/musicians/the-pharcyde/'
+  - >-
+    https://kcr.sdsu.edu/still-passin-me-by-the-pharcyde-celebrates-30-years-of-hip-hop-excellence/
+  - 'https://www.aol.com/entertainment/pharcyde-led-west-coast-hip-140000210.html'
 spotify_data:
   followers: 891186
   id: 7yk35uHNQclPXFGFoTU44w
   popularity: 60
-  url: https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w
+  url: 'https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w'
 status: active
-title: Pharcyde
+title: The Pharcyde
+artist_type: band
 ---
 
 ![](pharcyde.jpg)

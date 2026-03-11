@@ -1,44 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-23T03:10:41.799786'
-birth_place: Ukraine (birthplace)
+birth_place: 'Ukraine, Ukraine, Country'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:10:41.799795'
 external_urls:
-  spotify: https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP
+  spotify: 'https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP'
   wikipedia: ''
 genres:
-- choral
-image_path: 03_Resources/source_material/ArtistPortraits/anna_pidgorna_ludovico_ensemble.jpg
+  - choral
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/anna_pidgorna_ludovico_ensemble.jpg
 last_updated: '2026-02-23T03:10:41.799797'
 musical_connections:
   collaborators:
-  - Ludovico Ensemble
-  - Maria Reva
-  - So Percussion
-  - Gryphon Trio
-  - Thin Edge New Music Collective
+    - Ludovico Ensemble
+    - Maria Reva
+    - So Percussion
+    - Gryphon Trio
+    - Thin Edge New Music Collective
   influenced: []
   mentors:
-  - R. Murray Schafer
-  - Kaija Saariaho
-  - Gary Kulesha
+    - R. Murray Schafer
+    - Kaija Saariaho
+    - Gary Kulesha
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://myscena.org/john-gilks/cd-review-invented-folksongs-anna-pidgorna-ludovico-ensemble/
-- https://www.ludwig-van.com/toronto/2025/11/14/interview-ukrainian-canadian-composer-artist-anna-pidgorna-talks-upcoming-release-invented-folksongs/
-- https://ensembleparamirabo.com/en/music/repertoire/composers/anna-pidgorna
-- https://annapidgorna.com/bio/
-- https://smcq.qc.ca/smcq/en/artiste/pidgorna_an/biographie
-- https://annapidgorna.com/2018/05/
-- https://oxingalemusic.com/anna-pidgorna/
+  - >-
+    https://myscena.org/john-gilks/cd-review-invented-folksongs-anna-pidgorna-ludovico-ensemble/
+  - >-
+    https://www.ludwig-van.com/toronto/2025/11/14/interview-ukrainian-canadian-composer-artist-anna-pidgorna-talks-upcoming-release-invented-folksongs/
+  - 'https://ensembleparamirabo.com/en/music/repertoire/composers/anna-pidgorna'
+  - 'https://annapidgorna.com/bio/'
+  - 'https://smcq.qc.ca/smcq/en/artiste/pidgorna_an/biographie'
+  - 'https://annapidgorna.com/2018/05/'
+  - 'https://oxingalemusic.com/anna-pidgorna/'
 spotify_data:
   followers: 73558
   id: 0e2JUvil990IURjsq2PmqP
   popularity: 45
-  url: https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP
+  url: 'https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP'
 status: active
-title: Anna Pidgorna, Ludovico Ensemble
+title: 'Anna Pidgorna, Ludovico Ensemble'
+birth_date: '1985'
+artist_type: person
 ---
 
 ![](anna_pidgorna_ludovico_ensemble.jpg)

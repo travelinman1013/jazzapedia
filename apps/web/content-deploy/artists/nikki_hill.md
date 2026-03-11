@@ -1,58 +1,58 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-23T01:45:43.798758'
-birth_place: Durham
+birth_place: 'Durham, North Carolina, United States'
 disambiguation: US rock‘n’roll singer
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:45:43.798763'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1fcb2424-0691-4e26-b377-cc51441102a3
-  spotify: https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz
+  musicbrainz: 'https://musicbrainz.org/artist/1fcb2424-0691-4e26-b377-cc51441102a3'
+  spotify: 'https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz'
   wikipedia: Not found in search results
 gender: Female
 genres:
-- blues
-- blues rock
+  - blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/nikki_hill.jpg
 last_updated: '2026-01-23T01:45:43.798764'
 musical_connections:
   collaborators:
-  - Matt Hill
-  - Laura Chavez
-  - Nick Gaitan
-  - Marty Dodson
-  - Deke Dickerson
-  - Scott Bomar
-  - Ed
+    - Matt Hill
+    - Laura Chavez
+    - Nick Gaitan
+    - Marty Dodson
+    - Deke Dickerson
+    - Scott Bomar
+    - Ed
   influenced: []
   mentors:
-  - LaVern Baker
-  - Etta James
-  - Ruth Brown
-  - Otis Redding
-  - Solomon Burke
-  - Tina Turner
+    - LaVern Baker
+    - Etta James
+    - Ruth Brown
+    - Otis Redding
+    - Solomon Burke
+    - Tina Turner
 musicbrainz_id: 1fcb2424-0691-4e26-b377-cc51441102a3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://lancasterrootsandblues.com/artist/nikki-hill/
-- https://intrepidartists.com/artists/nikki-hill/
-- https://www.sixthman.net/today/view/artist/nikki-hill/event/335
-- https://www.pbsfm.org.au/news/heres-nikki-hill
-- https://www.moods.ch/en/program/nikki-hill-2025-04-05
-- https://bluesjunctionproductions.com/monthly_artist_spotlight_nikki_hill
-- https://www.roccitymag.com/music/nikki-hill-2251238/
-- https://nikkihillrocks.com/about
+  - 'https://lancasterrootsandblues.com/artist/nikki-hill/'
+  - 'https://intrepidartists.com/artists/nikki-hill/'
+  - 'https://www.sixthman.net/today/view/artist/nikki-hill/event/335'
+  - 'https://www.pbsfm.org.au/news/heres-nikki-hill'
+  - 'https://www.moods.ch/en/program/nikki-hill-2025-04-05'
+  - 'https://bluesjunctionproductions.com/monthly_artist_spotlight_nikki_hill'
+  - 'https://www.roccitymag.com/music/nikki-hill-2251238/'
+  - 'https://nikkihillrocks.com/about'
 spotify_data:
   followers: 14704
   id: 28Vn4HKpcOqzagc7tiAxNz
   popularity: 24
-  url: https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz
+  url: 'https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz'
 status: active
 tags:
-- rock
-title: nikki hill
+  - rock
+title: Nikki Hill
 ---
 
 ![](nikki_hill.jpg)

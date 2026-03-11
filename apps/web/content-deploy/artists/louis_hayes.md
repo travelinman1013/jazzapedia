@@ -1,58 +1,61 @@
 ---
 biography_enhanced_at: '2026-02-21T01:37:32.183855'
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:37:32.183867'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Ouogjg668pTmPkpgI8z0L
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Hayes
+  spotify: 'https://open.spotify.com/artist/5Ouogjg668pTmPkpgI8z0L'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Hayes'
 genres:
-- hard bop
-- jazz
-- bebop
+  - hard bop
+  - jazz
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/louis_hayes.jpg
 last_updated: '2026-02-21T01:37:32.183869'
 musical_connections:
   collaborators:
-  - Horace Silver
-  - Cannonball Adderley
-  - Oscar Peterson
-  - Sam Jones
-  - McCoy Tyner
-  - Yusef Lateef
-  - Curtis Fuller
-  - Kenny Burrell
-  - John Coltrane
-  - Freddie Hubbard
-  - Dexter Gordon
-  - Junior Cook
-  - Woody Shaw
-  - Vincent Herring
+    - Horace Silver
+    - Cannonball Adderley
+    - Oscar Peterson
+    - Sam Jones
+    - McCoy Tyner
+    - Yusef Lateef
+    - Curtis Fuller
+    - Kenny Burrell
+    - John Coltrane
+    - Freddie Hubbard
+    - Dexter Gordon
+    - Junior Cook
+    - Woody Shaw
+    - Vincent Herring
   influenced:
-  - Jeremy Pelt
-  - Dezron Douglas
+    - Jeremy Pelt
+    - Dezron Douglas
   mentors:
-  - Clarence Stamps
-  - Jo Jones
-  - Philly Joe Jones
+    - Clarence Stamps
+    - Jo Jones
+    - Philly Joe Jones
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/louis-hayes
-- https://www.wellplayedmusic.com/louishayes
-- https://en.wikipedia.org/wiki/Louis_Hayes
-- https://www.knkx.org/jazz/2024-04-16/louis-hayes-dynamic-drumming-brings-an-overwhelming-happiness-to-jazz
-- https://www.vinyl-magic.com/blog/louis-hayes-and-me
-- https://www.allaboutjazz.com/musicians/louis-hayes/
-- https://jazzfromdetroit.com/blog/the-cymbal-beat-goes-on
-- https://vtjazz.org/louis-hayes-is-all-about-sound-and-motion/
+  - 'https://www.arts.gov/honors/jazz/louis-hayes'
+  - 'https://www.wellplayedmusic.com/louishayes'
+  - 'https://en.wikipedia.org/wiki/Louis_Hayes'
+  - >-
+    https://www.knkx.org/jazz/2024-04-16/louis-hayes-dynamic-drumming-brings-an-overwhelming-happiness-to-jazz
+  - 'https://www.vinyl-magic.com/blog/louis-hayes-and-me'
+  - 'https://www.allaboutjazz.com/musicians/louis-hayes/'
+  - 'https://jazzfromdetroit.com/blog/the-cymbal-beat-goes-on'
+  - 'https://vtjazz.org/louis-hayes-is-all-about-sound-and-motion/'
 spotify_data:
   followers: 4057
   id: 5Ouogjg668pTmPkpgI8z0L
   popularity: 18
-  url: https://open.spotify.com/artist/5Ouogjg668pTmPkpgI8z0L
+  url: 'https://open.spotify.com/artist/5Ouogjg668pTmPkpgI8z0L'
 status: active
 title: Louis Hayes
+birth_date: '1937-05-31'
+artist_type: person
 ---
 
 ![](louis_hayes.jpg)

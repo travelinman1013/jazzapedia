@@ -1,39 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-25T02:00:02.890241'
-birth_place: Oakland, California, USA
+birth_place: 'Oakland, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:00:02.890250'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8f9a3a50-1b38-4fe9-8f0b-ba97baee5f6f
-  spotify: https://open.spotify.com/artist/7yUlwLhbOmjtsj4Uk5mviU
+  musicbrainz: 'https://musicbrainz.org/artist/8f9a3a50-1b38-4fe9-8f0b-ba97baee5f6f'
+  spotify: 'https://open.spotify.com/artist/7yUlwLhbOmjtsj4Uk5mviU'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/dick_stusso.jpg
 last_updated: '2026-02-25T02:00:02.890252'
 musical_connections:
   collaborators:
-  - Greg Ashley
+    - Greg Ashley
   influenced: []
   mentors:
-  - Sheldon Solomon
+    - Sheldon Solomon
 musicbrainz_id: 8f9a3a50-1b38-4fe9-8f0b-ba97baee5f6f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://riffmagazine.com/features/dick-stusso-ol2018/
-- https://www.vice.com/en/article/dick-stusso-is-a-modern-day-musical-raconteur/
-- https://www.roughtrade.com/artist/dick-stusso
-- https://www.vol1brooklyn.com/2018/05/23/cycles-distortion-and-the-cosmic-an-interview-with-dick-stusso/
-- https://www.allmusic.com/artist/dick-stusso-mn0003699142
-- https://www.iheart.com/artist/dick-stusso-31388322/
-- https://www.hardlyart.com/collections/dick-stusso
+  - 'https://riffmagazine.com/features/dick-stusso-ol2018/'
+  - >-
+    https://www.vice.com/en/article/dick-stusso-is-a-modern-day-musical-raconteur/
+  - 'https://www.roughtrade.com/artist/dick-stusso'
+  - >-
+    https://www.vol1brooklyn.com/2018/05/23/cycles-distortion-and-the-cosmic-an-interview-with-dick-stusso/
+  - 'https://www.allmusic.com/artist/dick-stusso-mn0003699142'
+  - 'https://www.iheart.com/artist/dick-stusso-31388322/'
+  - 'https://www.hardlyart.com/collections/dick-stusso'
 spotify_data:
   followers: 17281
   id: 7yUlwLhbOmjtsj4Uk5mviU
   popularity: 37
-  url: https://open.spotify.com/artist/7yUlwLhbOmjtsj4Uk5mviU
+  url: 'https://open.spotify.com/artist/7yUlwLhbOmjtsj4Uk5mviU'
 status: active
 title: Dick Stusso
+origin: 'Oakland, California, United States'
+artist_type: person
 ---
 
 ![](dick_stusso.jpg)

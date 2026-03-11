@@ -1,49 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-19T01:54:20.009682'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:54:20.009693'
 external_urls:
-  spotify: https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ
-  wikipedia: https://en.wikipedia.org/wiki/Danny_Grissett
+  spotify: 'https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Danny_Grissett'
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/danny_grissett.jpg
 last_updated: '2026-02-19T01:54:20.009695'
 musical_connections:
   collaborators:
-  - Tom Harrell
-  - Vincent Herring
-  - Nicholas Payton
-  - Jeremy Pelt
-  - Benny Golson
-  - Vicente Archer
+    - Tom Harrell
+    - Vincent Herring
+    - Nicholas Payton
+    - Jeremy Pelt
+    - Benny Golson
+    - Vicente Archer
   influenced: []
   mentors:
-  - Barry Harris
-  - Herbie Hancock
-  - Terence Blanchard
-  - Kenny Barron
-  - Roy Haynes
+    - Barry Harris
+    - Herbie Hancock
+    - Terence Blanchard
+    - Kenny Barron
+    - Roy Haynes
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://dannygrissett.com/bio
-- https://www.allaboutjazz.com/musicians/danny-grissett/
-- https://originarts.com/artists/artist.php?Artist_ID=444
-- https://www.teatrolafenice.it/en/event/danny-grissett-trio%E2%80%A8/
-- https://en.wikipedia.org/wiki/Danny_Grissett
-- https://www.smallslive.com/artists/620-danny-grissett/
-- https://www.jazzmusicarchives.com/artist/danny-grissett
-- https://marlbank.net/2025/06/05/hot-prospect-of-a-trio-record-from-danny-grissett/
-- https://www.ronniescotts.co.uk/find-a-show/danny-grissett-trio
+  - 'https://dannygrissett.com/bio'
+  - 'https://www.allaboutjazz.com/musicians/danny-grissett/'
+  - 'https://originarts.com/artists/artist.php?Artist_ID=444'
+  - 'https://www.teatrolafenice.it/en/event/danny-grissett-trio%E2%80%A8/'
+  - 'https://en.wikipedia.org/wiki/Danny_Grissett'
+  - 'https://www.smallslive.com/artists/620-danny-grissett/'
+  - 'https://www.jazzmusicarchives.com/artist/danny-grissett'
+  - >-
+    https://marlbank.net/2025/06/05/hot-prospect-of-a-trio-record-from-danny-grissett/
+  - 'https://www.ronniescotts.co.uk/find-a-show/danny-grissett-trio'
 spotify_data:
   followers: 4353
   id: 4cePuNhFNRCjCzpM1VierQ
   popularity: 35
-  url: https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ
+  url: 'https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ'
 status: active
 title: Danny Grissett
+artist_type: person
 ---
 
 ![](danny_grissett.jpg)

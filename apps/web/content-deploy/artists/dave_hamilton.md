@@ -1,45 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-23T01:48:21.847190'
-birth_place: Savannah, Georgia, United States (birthplace); Detroit, Michigan, United
+birth_place: >-
+  Savannah, Georgia, United States (birthplace); Detroit, Michigan, United
   States (primary career location)
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:48:21.847195'
 external_urls:
-  spotify: https://open.spotify.com/artist/7jOKLSyFFNekffU4kCIBeA
-  wikipedia: https://en.wikipedia.org/wiki/Dave_Hamilton_(musician)
+  spotify: 'https://open.spotify.com/artist/7jOKLSyFFNekffU4kCIBeA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_Hamilton_(musician)'
 genres:
-- northern soul
-- motown
-- jazz funk
+  - northern soul
+  - motown
+  - jazz funk
 image_path: 03_Resources/source_material/ArtistPortraits/dave_hamilton.jpg
 last_updated: '2026-01-23T01:48:21.847196'
 musical_connections:
   collaborators:
-  - Jackie Wilson
-  - Mary Wells
-  - Marvin Gaye
-  - Darrell Goolsby (Rony Darrell)
-  - The Funk Brothers
+    - Jackie Wilson
+    - Mary Wells
+    - Marvin Gaye
+    - Darrell Goolsby (Rony Darrell)
+    - The Funk Brothers
   influenced: []
   mentors:
-  - Milt Jackson
-  - Clarence Paul
+    - Milt Jackson
+    - Clarence Paul
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dave_Hamilton_(musician)
-- https://magazine.waxpoetics.com/rediscovery/dave-hamilton-soul-suite/
-- https://kids.kiddle.co/Dave_Hamilton_(musician)
-- https://motownjunkies.co.uk/artists/h/hamilton-dave/
-- https://www.nts.live/shows/in-focus/episodes/dave-hamilton-5th-august-2022
-- https://acerecords.co.uk/dave-hamilton
+  - 'https://en.wikipedia.org/wiki/Dave_Hamilton_(musician)'
+  - 'https://magazine.waxpoetics.com/rediscovery/dave-hamilton-soul-suite/'
+  - 'https://kids.kiddle.co/Dave_Hamilton_(musician)'
+  - 'https://motownjunkies.co.uk/artists/h/hamilton-dave/'
+  - 'https://www.nts.live/shows/in-focus/episodes/dave-hamilton-5th-august-2022'
+  - 'https://acerecords.co.uk/dave-hamilton'
 spotify_data:
   followers: 4536
   id: 7jOKLSyFFNekffU4kCIBeA
   popularity: 21
-  url: https://open.spotify.com/artist/7jOKLSyFFNekffU4kCIBeA
+  url: 'https://open.spotify.com/artist/7jOKLSyFFNekffU4kCIBeA'
 status: active
 title: Dave Hamilton
+origin: 'Detroit, Michigan, United States'
+birth_date: '1920-01-15'
+death_date: '1994-08-09'
+artist_type: person
 ---
 
 ![](dave_hamilton.jpg)

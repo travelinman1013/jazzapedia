@@ -1,61 +1,66 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-01T02:01:41.193139'
 birth_date: '1973'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:01:41.193149'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/863de8b5-4283-48f4-84fa-330cd073f84a
-  spotify: https://open.spotify.com/artist/698bm15EgCHVHJovNestUx
+  musicbrainz: 'https://musicbrainz.org/artist/863de8b5-4283-48f4-84fa-330cd073f84a'
+  spotify: 'https://open.spotify.com/artist/698bm15EgCHVHJovNestUx'
   wikipedia: ''
 genres:
-- flamenco
-- flamenco pop
+  - flamenco
+  - flamenco pop
 image_path: 03_Resources/source_material/ArtistPortraits/lole_y_manuel.jpg
 last_updated: '2026-03-01T02:01:41.193151'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: be600e96-9ce5-4fc7-8da4-a37acd57654d
-  name: Manuel Molina
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 50aa583a-3960-49dd-b1a8-67f62e4dea2c
-  name: Lole Montoya
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: be600e96-9ce5-4fc7-8da4-a37acd57654d
+    name: Manuel Molina
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 50aa583a-3960-49dd-b1a8-67f62e4dea2c
+    name: Lole Montoya
 musical_connections:
   collaborators:
-  - Alba Molina
-  - Farruquito
-  - Manuela Carrasco
+    - Alba Molina
+    - Farruquito
+    - Manuela Carrasco
   influenced:
-  - Paco de Lucía
-  - Camarón de la Isla
-  - Tomatito
+    - Paco de Lucía
+    - Camarón de la Isla
+    - Tomatito
   mentors:
-  - El Encajero
-  - Antonia La Negra
-  - Juan Montoya
+    - El Encajero
+    - Antonia La Negra
+    - Juan Montoya
 musicbrainz_id: 863de8b5-4283-48f4-84fa-330cd073f84a
 network_extracted: true
-origin: Seville (Triana), Andalusia, Spain
+origin: 'Seville (Triana), Andalusia, Spain'
 primary_source: perplexity
 research_sources:
-- https://fascinatingflamenco.wordpress.com/tag/lole-y-manuel/
-- https://classicalguitarmagazine.com/guitarist-singer-composer-flamenco-troubadour-freethinker-and-more-remembering-manuel-molina/
-- https://expoflamenco.com/archivo/en/estela-flamenca/lole-y-manuel-in-retrospect/
-- https://leguesswho.com/news/lole-montoya-2022
-- https://gnudb.org/artists/842295-lole-y-manuel
-- https://www.deflamenco.com/revista/entrevistas/interview-with-lole-montoya-1.html
-- http://www.nts.live/artists/65918-lole-y-manuel
+  - 'https://fascinatingflamenco.wordpress.com/tag/lole-y-manuel/'
+  - >-
+    https://classicalguitarmagazine.com/guitarist-singer-composer-flamenco-troubadour-freethinker-and-more-remembering-manuel-molina/
+  - >-
+    https://expoflamenco.com/archivo/en/estela-flamenca/lole-y-manuel-in-retrospect/
+  - 'https://leguesswho.com/news/lole-montoya-2022'
+  - 'https://gnudb.org/artists/842295-lole-y-manuel'
+  - >-
+    https://www.deflamenco.com/revista/entrevistas/interview-with-lole-montoya-1.html
+  - 'http://www.nts.live/artists/65918-lole-y-manuel'
 spotify_data:
   followers: 73072
   id: 698bm15EgCHVHJovNestUx
   popularity: 35
-  url: https://open.spotify.com/artist/698bm15EgCHVHJovNestUx
+  url: 'https://open.spotify.com/artist/698bm15EgCHVHJovNestUx'
 status: active
-title: lole y manuel
+title: Lole Y Manuel
+birth_place: 'Seville, Spain'
+death_date: '2015'
 ---
 
 ![](lole_y_manuel.jpg)

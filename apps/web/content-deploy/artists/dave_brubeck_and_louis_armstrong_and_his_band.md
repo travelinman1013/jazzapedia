@@ -3,40 +3,51 @@ biography_enhanced_at: '2026-01-29T02:05:34.539564'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:05:34.539574'
 external_urls:
-  spotify: https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7
-  wikipedia: https://en.wikipedia.org/wiki/The_Real_Ambassadors
+  spotify: 'https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Real_Ambassadors'
 genres:
-- jazz
-- cool jazz
-image_path: 03_Resources/source_material/ArtistPortraits/dave_brubeck_and_louis_armstrong_and_his_band.jpg
+  - jazz
+  - cool jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dave_brubeck_and_louis_armstrong_and_his_band.jpg
 last_updated: '2026-01-29T02:05:34.539576'
 musical_connections:
   collaborators:
-  - Carmen McRae
-  - Lambert, Hendricks & Ross
-  - Dave Brubeck Quartet (Gene Wright, Joe Morello)
-  - Louis Armstrong All Stars (Trummy Young, Danny Barcelona, Irving Manning, Joe
-    Darensbourg, Billy Kyle)
+    - Carmen McRae
+    - 'Lambert, Hendricks & Ross'
+    - 'Dave Brubeck Quartet (Gene Wright, Joe Morello)'
+    - >-
+      Louis Armstrong All Stars (Trummy Young, Danny Barcelona, Irving Manning,
+      Joe Darensbourg, Billy Kyle)
   influenced: []
   mentors:
-  - Iola Brubeck
+    - Iola Brubeck
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazzprofiles.blogspot.com/2017/08/pops-dave-and-iola-brubeck-real.html
-- https://en.wikipedia.org/wiki/The_Real_Ambassadors
-- https://www.kqed.org/arts/13916363/dave-and-iola-brubeck-louis-armstrong-and-the-civil-rights-musical-that-never-happened
-- https://www.hatschek.com/home/the-real-ambassadors
-- https://academic.oup.com/mississippi-scholarship-online/book/44238
-- https://www.pacific.edu/pacific-newsroom/professor-emeritus-book-sheds-light-brubeck-armstrong-allyship
-- https://www.wnyc.org/story/the-real-ambassadors--a-jazz-opera-for-louis-armstrong-by-dave--iola-brubeck/
+  - >-
+    https://jazzprofiles.blogspot.com/2017/08/pops-dave-and-iola-brubeck-real.html
+  - 'https://en.wikipedia.org/wiki/The_Real_Ambassadors'
+  - >-
+    https://www.kqed.org/arts/13916363/dave-and-iola-brubeck-louis-armstrong-and-the-civil-rights-musical-that-never-happened
+  - 'https://www.hatschek.com/home/the-real-ambassadors'
+  - 'https://academic.oup.com/mississippi-scholarship-online/book/44238'
+  - >-
+    https://www.pacific.edu/pacific-newsroom/professor-emeritus-book-sheds-light-brubeck-armstrong-allyship
+  - >-
+    https://www.wnyc.org/story/the-real-ambassadors--a-jazz-opera-for-louis-armstrong-by-dave--iola-brubeck/
 spotify_data:
   followers: 369917
   id: 4iRZAbYvBqnxrbs6K25aJ7
   popularity: 59
-  url: https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7
+  url: 'https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7'
 status: active
 title: Dave Brubeck & Louis Armstrong and His Band
+birth_place: 'New Orleans, Louisiana, United States'
+origin: >-
+  Concord, California, USA (Brubeck origin); New Orleans, Louisiana, USA
+  (Armstrong birthplace)
+artist_type: band
 ---
 
 ![](dave_brubeck_and_louis_armstrong_and_his_band.jpg)

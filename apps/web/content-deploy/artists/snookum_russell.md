@@ -1,54 +1,56 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 05366a7b-9c68-405c-b8de-b56d8957447e
-  name: Snookum Russell Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 05366a7b-9c68-405c-b8de-b56d8957447e
+    name: Snookum Russell Orchestra
 biography_enhanced_at: '2026-01-23T01:46:32.096861'
 birth_date: '1913-04-06'
-birth_place: Columbia
+birth_place: 'Columbia, South Carolina, United States'
 death_date: 1981-08
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:46:32.096867'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/543485f7-c875-4709-aa8d-1efafd8ef6db
-  spotify: https://open.spotify.com/artist/2EpG8IdNFw9VH2VWxrieL9
+  musicbrainz: 'https://musicbrainz.org/artist/543485f7-c875-4709-aa8d-1efafd8ef6db'
+  spotify: 'https://open.spotify.com/artist/2EpG8IdNFw9VH2VWxrieL9'
   wikipedia: Not found in search results
 gender: Male
 genres: []
 image_path: ''
 instruments:
-- eponymous
-- original
-- piano
+  - eponymous
+  - original
+  - piano
 last_updated: '2026-01-23T01:46:32.096868'
 musical_connections:
   collaborators:
-  - J.J. Johnson
+    - J.J. Johnson
   influenced:
-  - J.J. Johnson
+    - J.J. Johnson
   mentors: []
 musicbrainz_id: 543485f7-c875-4709-aa8d-1efafd8ef6db
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jazzmusicarchives.com/artist/russell-snookum
-- https://www.tracklib.com/music/artists/snookum-russell-band
-- https://afamwilsonnc.com/2020/03/30/snookum-russells-orchestra-is-coming-to-town/
-- https://indianahistory.org/blog/celebration-days-in-april-music-edition/
+  - 'https://www.jazzmusicarchives.com/artist/russell-snookum'
+  - 'https://www.tracklib.com/music/artists/snookum-russell-band'
+  - >-
+    https://afamwilsonnc.com/2020/03/30/snookum-russells-orchestra-is-coming-to-town/
+  - 'https://indianahistory.org/blog/celebration-days-in-april-music-edition/'
 spotify_data:
   followers: 29
   id: 2EpG8IdNFw9VH2VWxrieL9
   popularity: 0
-  url: https://open.spotify.com/artist/2EpG8IdNFw9VH2VWxrieL9
+  url: 'https://open.spotify.com/artist/2EpG8IdNFw9VH2VWxrieL9'
 status: active
 tags:
-- jazz
-title: snookum russell
+  - jazz
+title: Snookum Russell
+is_active: false
 ---
 
 ![]()

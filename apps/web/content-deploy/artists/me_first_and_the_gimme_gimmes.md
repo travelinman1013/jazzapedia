@@ -3,44 +3,47 @@ biography_enhanced_at: '2026-02-28T01:48:58.301251'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:48:58.301261'
 external_urls:
-  spotify: https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5
+  spotify: 'https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5'
   wikipedia: ''
 genres:
-- ska punk
-- punk
-- skate punk
-- ska
+  - ska punk
+  - punk
+  - skate punk
+  - ska
 image_path: 03_Resources/source_material/ArtistPortraits/me_first_and_the_gimme_gimmes.jpg
 last_updated: '2026-02-28T01:48:58.301262'
 musical_connections:
   collaborators:
-  - Spike Slawson
-  - Fat Mike (NOFX)
-  - Joey Cape (Lagwagon)
-  - Dave Raun (Lagwagon)
-  - Chris Shiflett (Foo Fighters)
-  - John Reis (Rocket from the Crypt)
-  - C.J. Ramone
+    - Spike Slawson
+    - Fat Mike (NOFX)
+    - Joey Cape (Lagwagon)
+    - Dave Raun (Lagwagon)
+    - Chris Shiflett (Foo Fighters)
+    - John Reis (Rocket from the Crypt)
+    - C.J. Ramone
   influenced: []
   mentors:
-  - Fat Mike
+    - Fat Mike
 network_extracted: true
-origin: San Francisco, California, United States
+origin: 'San Francisco, California, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/+wiki
-- https://creativeloafing.com/group-516166-me-first-and-the-gimme-gimmes---touring
-- https://americansongwriter.com/me-first-and-the-gimme-gimmes-know-how-to-party/
-- https://fatwreck.com/pages/me-first-and-the-gimme-gimmes-press-information
-- https://www.spirit-of-rock.com/en/band/Me_First_and_the_Gimme_Gimmes
-- https://musicbrainz.org/artist/9478e346-7c52-4780-9555-3d1577f0b905
+  - 'https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/+wiki'
+  - >-
+    https://creativeloafing.com/group-516166-me-first-and-the-gimme-gimmes---touring
+  - >-
+    https://americansongwriter.com/me-first-and-the-gimme-gimmes-know-how-to-party/
+  - 'https://fatwreck.com/pages/me-first-and-the-gimme-gimmes-press-information'
+  - 'https://www.spirit-of-rock.com/en/band/Me_First_and_the_Gimme_Gimmes'
+  - 'https://musicbrainz.org/artist/9478e346-7c52-4780-9555-3d1577f0b905'
 spotify_data:
   followers: 366671
   id: 0cOVRC8EOwDwXrs3JTrRN5
   popularity: 48
-  url: https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5
+  url: 'https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5'
 status: active
-title: me first & the gimme gimmes
+title: Me First & the Gimme Gimmes
+artist_type: band
 ---
 
 ![](me_first_and_the_gimme_gimmes.jpg)

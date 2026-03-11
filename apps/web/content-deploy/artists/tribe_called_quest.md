@@ -3,48 +3,53 @@ biography_enhanced_at: '2026-03-05T02:04:49.975714'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:04:49.975723'
 external_urls:
-  spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+  spotify: 'https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa'
   wikipedia: ''
 genres:
-- jazz rap
-- east coast hip hop
-- old school hip hop
-- hip hop
+  - jazz rap
+  - east coast hip hop
+  - old school hip hop
+  - hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/tribe_called_quest.jpg
 last_updated: '2026-03-05T02:04:49.975725'
 musical_connections:
   collaborators:
-  - Phife Dawg
-  - Ali Shaheed Muhammad
-  - Jarobi White
-  - De La Soul
-  - Busta Rhymes
+    - Phife Dawg
+    - Ali Shaheed Muhammad
+    - Jarobi White
+    - De La Soul
+    - Busta Rhymes
   influenced:
-  - D'Angelo
-  - Erykah Badu
-  - Kanye West
-  - Busta Rhymes
-  - J Dilla
+    - D'Angelo
+    - Erykah Badu
+    - Kanye West
+    - Busta Rhymes
+    - J Dilla
   mentors:
-  - Jungle Brothers
+    - Jungle Brothers
 network_extracted: true
-origin: St. Albans, Queens, New York, United States
+origin: 'St. Albans, Queens, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://www.allamericanspeakers.com/celebritytalentbios/A+Tribe+Called+Quest/406544
-- https://www.last.fm/music/A+Tribe+Called+Quest/+wiki
-- https://www.youtube.com/watch?v=kbbTE2jZmpI
-- https://www.hiphopscriptures.com/tribe-called-quest
-- https://www.diggitmagazine.com/articles/tribe-called-quests-we-got-it-here-thank-you-4-your-service-unity-power
-- https://blackpast.org/african-american-history/a-tribe-called-quest-1988-2017/
-- https://hiphopgoldenage.com/a-tribe-called-quest-innovators-of-jazz-rap-and-hip-hops-golden-age/
+  - >-
+    https://www.allamericanspeakers.com/celebritytalentbios/A+Tribe+Called+Quest/406544
+  - 'https://www.last.fm/music/A+Tribe+Called+Quest/+wiki'
+  - 'https://www.youtube.com/watch?v=kbbTE2jZmpI'
+  - 'https://www.hiphopscriptures.com/tribe-called-quest'
+  - >-
+    https://www.diggitmagazine.com/articles/tribe-called-quests-we-got-it-here-thank-you-4-your-service-unity-power
+  - >-
+    https://blackpast.org/african-american-history/a-tribe-called-quest-1988-2017/
+  - >-
+    https://hiphopgoldenage.com/a-tribe-called-quest-innovators-of-jazz-rap-and-hip-hops-golden-age/
 spotify_data:
   followers: 2473293
   id: 09hVIj6vWgoCDtT03h8ZCa
   popularity: 64
-  url: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+  url: 'https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa'
 status: active
-title: Tribe Called Quest
+title: The Tribe Called Quest
+artist_type: band
 ---
 
 ![](tribe_called_quest.jpg)

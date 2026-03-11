@@ -3,30 +3,32 @@ biography_enhanced_at: '2026-02-05T01:49:31.689190'
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:49:31.689205'
 external_urls:
-  spotify: https://open.spotify.com/artist/48svqYEf868y0l2Qp0oaNI
+  spotify: 'https://open.spotify.com/artist/48svqYEf868y0l2Qp0oaNI'
   wikipedia: null
 genres: []
 image_path: ''
 last_updated: '2026-02-05T01:49:31.689209'
 musical_connections:
   collaborators:
-  - Paul Whiteman Orchestra members
+    - Paul Whiteman Orchestra members
   influenced: []
   mentors:
-  - Paul Whiteman
+    - Paul Whiteman
 network_extracted: true
 origin: United States
 primary_source: perplexity
 research_sources:
-- https://the78rpmrecordspins.wordpress.com/tag/mason-dixon-orchestra/
-- https://the78rpmrecordspins.wordpress.com/2013/07/25/the-unrecognized-bix-beiderbecke-2-alabammy-snow/
+  - 'https://the78rpmrecordspins.wordpress.com/tag/mason-dixon-orchestra/'
+  - >-
+    https://the78rpmrecordspins.wordpress.com/2013/07/25/the-unrecognized-bix-beiderbecke-2-alabammy-snow/
 spotify_data:
   followers: 0
   id: 48svqYEf868y0l2Qp0oaNI
   popularity: 0
-  url: https://open.spotify.com/artist/48svqYEf868y0l2Qp0oaNI
+  url: 'https://open.spotify.com/artist/48svqYEf868y0l2Qp0oaNI'
 status: active
-title: THE MASON DIXON ORCHESTRA
+title: The Mason Dixon Orchestra
+artist_type: band
 ---
 
 ![]()

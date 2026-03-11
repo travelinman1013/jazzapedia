@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-03T02:09:08.323392'
-birth_place: North Miami Beach, Florida, United States
+birth_place: 'North Miami Beach, Florida, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:09:08.323402'
 external_urls:
-  spotify: https://open.spotify.com/artist/0RrDVgg5a8CuIshK0Wnpjv
-  wikipedia: https://en.wikipedia.org/wiki/Eugene_Wilde
+  spotify: 'https://open.spotify.com/artist/0RrDVgg5a8CuIshK0Wnpjv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eugene_Wilde'
 genres:
-- quiet storm
-- new jack swing
+  - quiet storm
+  - new jack swing
 image_path: 03_Resources/source_material/ArtistPortraits/eugene_wilde.jpg
 last_updated: '2026-02-03T02:09:08.323404'
 musical_connections:
   collaborators:
-  - McKinley Horton
-  - Sheena Easton
-  - Joanna Gardner
-  - Cool Million (Rob Hardt and Frank Ryle)
-  - Dee Dee Wilde
+    - McKinley Horton
+    - Sheena Easton
+    - Joanna Gardner
+    - Cool Million (Rob Hardt and Frank Ryle)
+    - Dee Dee Wilde
   influenced:
-  - Backstreet Boys
-  - Britney Spears
-  - Victoria Beckham
+    - Backstreet Boys
+    - Britney Spears
+    - Victoria Beckham
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eugene_Wilde
-- https://www.theaudiodb.com/artist/153899-Eugene-Wilde
-- https://app.soulyears.com/rnb-chart_position-artist-Eugene+Wilde.htm
+  - 'https://en.wikipedia.org/wiki/Eugene_Wilde'
+  - 'https://www.theaudiodb.com/artist/153899-Eugene-Wilde'
+  - 'https://app.soulyears.com/rnb-chart_position-artist-Eugene+Wilde.htm'
 spotify_data:
   followers: 53729
   id: 0RrDVgg5a8CuIshK0Wnpjv
   popularity: 36
-  url: https://open.spotify.com/artist/0RrDVgg5a8CuIshK0Wnpjv
+  url: 'https://open.spotify.com/artist/0RrDVgg5a8CuIshK0Wnpjv'
 status: active
 title: Eugene Wilde
+birth_date: '1961-12-06'
+artist_type: person
 ---
 
 ![](eugene_wilde.jpg)

@@ -1,49 +1,52 @@
 ---
 biography_enhanced_at: '2026-03-01T02:03:07.192798'
-birth_place: Cayo Hueso neighborhood, Old Havana, Cuba
+birth_place: 'Cayo Hueso neighborhood, Old Havana, Cuba'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:03:07.192808'
 external_urls:
-  spotify: https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh
-  wikipedia: https://en.wikipedia.org/wiki/Pedrito_Martinez
+  spotify: 'https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pedrito_Martinez'
 genres:
-- latin jazz
-- timba
-- afro-cuban jazz
-- son cubano
+  - latin jazz
+  - timba
+  - afro-cuban jazz
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/pedrito_martinez.jpg
 last_updated: '2026-03-01T02:03:07.192810'
 musical_connections:
   collaborators:
-  - Yerba Buena
-  - Wynton Marsalis
-  - Pedrito Martinez Group members (e.g., Edgar and Sebastian)
-  - Rubén Blades
-  - Angélique Kidjo
+    - Yerba Buena
+    - Wynton Marsalis
+    - 'Pedrito Martinez Group members (e.g., Edgar and Sebastian)'
+    - Rubén Blades
+    - Angélique Kidjo
   influenced: []
   mentors:
-  - Tata Güines
-  - Los Munequitos de Matanzas
-  - Jane Bunnett
+    - Tata Güines
+    - Los Munequitos de Matanzas
+    - Jane Bunnett
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pedrito_Martinez
-- https://www.pedritomartinezmusic.com/about
-- https://www.allaboutjazz.com/musicians/pedrito-martinez/
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=3894
-- https://summerfest.sanjosejazz.org/artists/pedrito-martinez
-- https://www.thekurlandagency.com/kurlandpress/wp-content/uploads/2022/07/PEDRITO-MARTINEZ-BIO-2022.pdf
-- https://latinjazznet.com/reviews/albums/the-pedrito-martinez-group/
-- https://theconrad.org/bio/pedrito-martinez/
-- https://www.richmondfolkfestival.org/2020-performers/pedrito-martinez
+  - 'https://en.wikipedia.org/wiki/Pedrito_Martinez'
+  - 'https://www.pedritomartinezmusic.com/about'
+  - 'https://www.allaboutjazz.com/musicians/pedrito-martinez/'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=3894'
+  - 'https://summerfest.sanjosejazz.org/artists/pedrito-martinez'
+  - >-
+    https://www.thekurlandagency.com/kurlandpress/wp-content/uploads/2022/07/PEDRITO-MARTINEZ-BIO-2022.pdf
+  - 'https://latinjazznet.com/reviews/albums/the-pedrito-martinez-group/'
+  - 'https://theconrad.org/bio/pedrito-martinez/'
+  - 'https://www.richmondfolkfestival.org/2020-performers/pedrito-martinez'
 spotify_data:
   followers: 30388
   id: 3Ik2TovwBiWawoShYwa4Hh
   popularity: 32
-  url: https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh
+  url: 'https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh'
 status: active
-title: pedrito martinez
+title: Pedrito Martinez
+birth_date: '1973-09-12'
+artist_type: person
 ---
 
 ![](pedrito_martinez.jpg)

@@ -1,86 +1,86 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-27T01:57:34.431505'
 birth_date: '2011'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:57:34.431523'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7d0e8067-10b9-4069-95dc-1110a0fbb877
-  spotify: https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6
+  musicbrainz: 'https://musicbrainz.org/artist/7d0e8067-10b9-4069-95dc-1110a0fbb877'
+  spotify: 'https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6'
   wikipedia: ''
 genres:
-- funk
-- funk rock
+  - funk
+  - funk rock
 image_path: 03_Resources/source_material/ArtistPortraits/vulfpeck.jpg
 instruments:
-- bass
-- keyboard
-- guitar family
-- membranophone
-last_updated: '2026-01-27T01:57:34.431524'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - bass
-  mbid: bd58edbc-c3d5-4a29-98ee-72c7d3090e1b
-  name: Joe Dart
-- begin: ''
-  end: ''
-  instruments:
   - keyboard
-  mbid: 39cdc388-675c-4513-b4ab-283c2cb1c832
-  name: Woody Goss
-- begin: ''
-  end: ''
-  instruments:
   - guitar family
   - membranophone
-  mbid: 909c065e-8b75-45c8-b22c-4ca4ca1a4a38
-  name: Theo Katzman
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  - membranophone
-  mbid: 7ddd8b8c-3075-4634-b1db-67b28f1adeb4
-  name: Jack Stratton
+last_updated: '2026-01-27T01:57:34.431524'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: bd58edbc-c3d5-4a29-98ee-72c7d3090e1b
+    name: Joe Dart
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 39cdc388-675c-4513-b4ab-283c2cb1c832
+    name: Woody Goss
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar family
+      - membranophone
+    mbid: 909c065e-8b75-45c8-b22c-4ca4ca1a4a38
+    name: Theo Katzman
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+      - membranophone
+    mbid: 7ddd8b8c-3075-4634-b1db-67b28f1adeb4
+    name: Jack Stratton
 musical_connections:
   collaborators:
-  - Jack Stratton
-  - Theo Katzman
-  - Woody Goss
-  - Joe Dart
-  - Antwaun Stanley
-  - Joey Dosik
-  - Cory Wong
+    - Jack Stratton
+    - Theo Katzman
+    - Woody Goss
+    - Joe Dart
+    - Antwaun Stanley
+    - Joey Dosik
+    - Cory Wong
   influenced:
-  - Younger funk and soul musicians
+    - Younger funk and soul musicians
   mentors:
-  - Funk Brothers
-  - Wrecking Crew
-  - Reinhold Mack
+    - Funk Brothers
+    - Wrecking Crew
+    - Reinhold Mack
 musicbrainz_id: 7d0e8067-10b9-4069-95dc-1110a0fbb877
 network_extracted: true
-origin: Ann Arbor
+origin: 'Ann Arbor, Michigan, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Vulfpeck/+wiki
-- https://holican.io/wiki/vulfpeck
-- https://tomorrowsverse.com/story/who-is-vulfpeck-27695.html
-- https://alumni.umich.edu/michigan-alum/no-label-no-problem/
-- https://www.adampknave.com/2023/02/08/digging-deeper-vulfpeck/
+  - 'https://www.last.fm/music/Vulfpeck/+wiki'
+  - 'https://holican.io/wiki/vulfpeck'
+  - 'https://tomorrowsverse.com/story/who-is-vulfpeck-27695.html'
+  - 'https://alumni.umich.edu/michigan-alum/no-label-no-problem/'
+  - 'https://www.adampknave.com/2023/02/08/digging-deeper-vulfpeck/'
 spotify_data:
   followers: 1063222
   id: 7pXu47GoqSYRajmBCjxdD6
   popularity: 60
-  url: https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6
+  url: 'https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6'
 status: active
 tags:
-- funk
-- indie
-- indie pop
-title: VULFPECK
+  - funk
+  - indie
+  - indie pop
+title: Vulfpeck
 ---
 
 ![](vulfpeck.jpg)

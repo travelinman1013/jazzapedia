@@ -3,44 +3,47 @@ biography_enhanced_at: '2026-02-17T01:21:41.555294'
 enhancement_provider: perplexity
 entry_created: '2026-02-17T01:21:41.555306'
 external_urls:
-  spotify: https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI
-  wikipedia: https://en.wikipedia.org/wiki/Big_Audio_Dynamite
+  spotify: 'https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Audio_Dynamite'
 genres:
-- new wave
-- alternative dance
+  - new wave
+  - alternative dance
 image_path: 03_Resources/source_material/ArtistPortraits/big_audio_dynamite_ii.jpg
 last_updated: '2026-02-17T01:21:41.555307'
 musical_connections:
   collaborators:
-  - Mick Jones
-  - Andre Shapps
-  - Nick Hawkins
-  - Don Letts
-  - Leo Williams
-  - Greg Roberts
+    - Mick Jones
+    - Andre Shapps
+    - Nick Hawkins
+    - Don Letts
+    - Leo Williams
+    - Greg Roberts
   influenced:
-  - Screaming Target
-  - Dreadzone
+    - Screaming Target
+    - Dreadzone
   mentors:
-  - The Clash
+    - The Clash
 network_extracted: true
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Big_Audio_Dynamite
-- https://www.last.fm/music/Big+Audio+Dynamite/+wiki
-- https://jaysmusicreviews.wordpress.com/2019/03/19/a-correspondence-with-andre-shapps-of-big-audio-dynamite-exclusive-interview/
-- https://tvtropes.org/pmwiki/pmwiki.php/Music/BigAudioDynamite
-- https://deangoodman.com/big-audio-dynamite/
-- https://stereogum.com/2268731/the-alternative-number-ones-big-audio-dynamite-iis-rush/columns
-- https://music.fandom.com/wiki/Big_Audio_Dynamite
+  - 'https://en.wikipedia.org/wiki/Big_Audio_Dynamite'
+  - 'https://www.last.fm/music/Big+Audio+Dynamite/+wiki'
+  - >-
+    https://jaysmusicreviews.wordpress.com/2019/03/19/a-correspondence-with-andre-shapps-of-big-audio-dynamite-exclusive-interview/
+  - 'https://tvtropes.org/pmwiki/pmwiki.php/Music/BigAudioDynamite'
+  - 'https://deangoodman.com/big-audio-dynamite/'
+  - >-
+    https://stereogum.com/2268731/the-alternative-number-ones-big-audio-dynamite-iis-rush/columns
+  - 'https://music.fandom.com/wiki/Big_Audio_Dynamite'
 spotify_data:
   followers: 155629
   id: 7hqZBHSgDs1odG9aupMzEI
   popularity: 38
-  url: https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI
+  url: 'https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI'
 status: active
 title: Big Audio Dynamite II
+artist_type: band
 ---
 
 ![](big_audio_dynamite_ii.jpg)

@@ -1,46 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-24T01:55:56.894925'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:55:56.894931'
 external_urls:
-  spotify: https://open.spotify.com/artist/1VU8MsUjeFa6uCkmgGD4rL
+  spotify: 'https://open.spotify.com/artist/1VU8MsUjeFa6uCkmgGD4rL'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
-- brass band
+  - cajun
+  - zydeco
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/bo_dollis.jpg
 last_updated: '2026-01-24T01:55:56.894932'
 musical_connections:
   collaborators:
-  - Monk Boudreaux
-  - Willie Tee
-  - Snooks Eaglin
-  - Allen Toussaint
-  - Earl King
-  - Quint Davis
-  - Gerard 'Bo Jr.' Dollis
+    - Monk Boudreaux
+    - Willie Tee
+    - Snooks Eaglin
+    - Allen Toussaint
+    - Earl King
+    - Quint Davis
+    - Gerard 'Bo Jr.' Dollis
   influenced:
-  - Gerard 'Bo Jr.' Dollis
+    - Gerard 'Bo Jr.' Dollis
   mentors:
-  - Fats Domino
+    - Fats Domino
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/heritage/bo-dollis
-- https://www.offbeat.com/news/theodore-emile-bo-dollis/
-- https://relix.com/articles/detail/big-chief-bo-dollis-jr-the-wild-magnolias-mardi-gras-indians-meet-memphis-soul-on-chip-off-the-old-block/
-- https://daily.redbullmusicacademy.com/2015/02/big-chief-bo-dollis-tribute/
-- https://jazztimes.com/features/tributes-and-obituaries/new-orleans-says-goodbye-to-bo-dollis/
-- https://www.offbeat.com/articles/obituary-big-chief-bo-dollis/
+  - 'https://www.arts.gov/honors/heritage/bo-dollis'
+  - 'https://www.offbeat.com/news/theodore-emile-bo-dollis/'
+  - >-
+    https://relix.com/articles/detail/big-chief-bo-dollis-jr-the-wild-magnolias-mardi-gras-indians-meet-memphis-soul-on-chip-off-the-old-block/
+  - 'https://daily.redbullmusicacademy.com/2015/02/big-chief-bo-dollis-tribute/'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/new-orleans-says-goodbye-to-bo-dollis/
+  - 'https://www.offbeat.com/articles/obituary-big-chief-bo-dollis/'
 spotify_data:
   followers: 1192
   id: 1VU8MsUjeFa6uCkmgGD4rL
   popularity: 13
-  url: https://open.spotify.com/artist/1VU8MsUjeFa6uCkmgGD4rL
+  url: 'https://open.spotify.com/artist/1VU8MsUjeFa6uCkmgGD4rL'
 status: active
 title: Bo Dollis
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1944-01-14'
+artist_type: person
 ---
 
 ![](bo_dollis.jpg)

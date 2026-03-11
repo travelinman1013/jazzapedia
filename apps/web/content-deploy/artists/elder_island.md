@@ -1,38 +1,39 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-25T01:58:35.938853'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T01:58:35.938863'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c1344d27-2eaf-43e0-a769-9e5285c58866
-  spotify: https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik
+  musicbrainz: 'https://musicbrainz.org/artist/c1344d27-2eaf-43e0-a769-9e5285c58866'
+  spotify: 'https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/elder_island.jpg
 last_updated: '2026-02-25T01:58:35.938865'
 musical_connections:
   collaborators:
-  - Luke Thornton
-  - David Havard
-  - Katy Sargent
+    - Luke Thornton
+    - David Havard
+    - Katy Sargent
   influenced: []
   mentors: []
 musicbrainz_id: c1344d27-2eaf-43e0-a769-9e5285c58866
 network_extracted: true
-origin: Bristol, England, United Kingdom
+origin: 'Bristol, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://www.reybee.com/elder-island/
-- https://www.wonderlandmagazine.com/2021/05/28/elder-island-interview-swimming-static/
-- https://www.reservoir-media.com/listing/elder-island/
-- https://lostinconcert.com/interview-elder-island/
-- https://www.prsformusic.com/m-magazine/features/interview-elder-island
-- https://crackmagazine.net/article/long-reads/selections-elder-island/
+  - 'https://www.reybee.com/elder-island/'
+  - >-
+    https://www.wonderlandmagazine.com/2021/05/28/elder-island-interview-swimming-static/
+  - 'https://www.reservoir-media.com/listing/elder-island/'
+  - 'https://lostinconcert.com/interview-elder-island/'
+  - 'https://www.prsformusic.com/m-magazine/features/interview-elder-island'
+  - 'https://crackmagazine.net/article/long-reads/selections-elder-island/'
 spotify_data:
   followers: 163226
   id: 3EnbnmqrrvApHJs6FMvYik
   popularity: 47
-  url: https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik
+  url: 'https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik'
 status: active
 title: Elder Island
 ---

@@ -1,41 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-03T02:08:49.440076'
-birth_place: Jamaica (born); Newport News, Virginia, USA (raised)
+birth_place: 'Jamaica (born); Newport News, Virginia, USA (raised)'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:08:49.440085'
 external_urls:
-  spotify: https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig
+  spotify: 'https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/masego_fkj.jpg
 last_updated: '2026-02-03T02:08:49.440087'
 musical_connections:
   collaborators:
-  - FKJ
-  - Medasin
-  - SiR
-  - Tiffany Gouché
-  - Kojoa Asamoah
+    - FKJ
+    - Medasin
+    - SiR
+    - Tiffany Gouché
+    - Kojoa Asamoah
   influenced: []
   mentors:
-  - DJ Jazzy Jeff
+    - DJ Jazzy Jeff
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kids.kiddle.co/Masego_(musician)
-- https://wbssmedia.com/artists/detail/4169
-- https://www.latimes.com/entertainment/music/la-et-ms-masego-profile-20181102-story.html
-- https://www.last.fm/music/Masego/+wiki
-- https://www.allamericanspeakers.com/speakers/463641/Masego
-- https://lsureveille.com/207378/entertainment/up-coming-jazz-fusion-artist-masego-brings-his-alluring-musical-talent-to-the-plate/
-- https://kysdc.com/4335161/masego/
+  - 'https://kids.kiddle.co/Masego_(musician)'
+  - 'https://wbssmedia.com/artists/detail/4169'
+  - >-
+    https://www.latimes.com/entertainment/music/la-et-ms-masego-profile-20181102-story.html
+  - 'https://www.last.fm/music/Masego/+wiki'
+  - 'https://www.allamericanspeakers.com/speakers/463641/Masego'
+  - >-
+    https://lsureveille.com/207378/entertainment/up-coming-jazz-fusion-artist-masego-brings-his-alluring-musical-talent-to-the-plate/
+  - 'https://kysdc.com/4335161/masego/'
 spotify_data:
   followers: 1661576
   id: 3ycxRkcZ67ALN3GQJ57Vig
   popularity: 72
-  url: https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig
+  url: 'https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig'
 status: active
-title: MASEGO/ FKJ
+title: Masego/ FKJ
+origin: 'Newport News, Virginia, United States'
+birth_date: '1993-06-08'
+artist_type: person
 ---
 
 ![](masego_fkj.jpg)

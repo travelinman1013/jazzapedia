@@ -3,50 +3,54 @@ biography_enhanced_at: '2026-01-31T01:08:01.032628'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:08:01.032645'
 external_urls:
-  spotify: https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5
-  wikipedia: https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band
+  spotify: 'https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band'
 genres:
-- brass band
-- swing music
-- ragtime
-- cajun
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/preservation_brass_and_the_preservation_hall_jazz_band.jpg
+  - brass band
+  - swing music
+  - ragtime
+  - cajun
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/preservation_brass_and_the_preservation_hall_jazz_band.jpg
 last_updated: '2026-01-31T01:08:01.032647'
 musical_connections:
   collaborators:
-  - Allan Jaffe
-  - Benjamin Jaffe
-  - Percy Humphrey
-  - Willie Humphrey
-  - Kid Thomas Valentine
-  - Clint Maedgen
+    - Allan Jaffe
+    - Benjamin Jaffe
+    - Percy Humphrey
+    - Willie Humphrey
+    - Kid Thomas Valentine
+    - Clint Maedgen
   influenced:
-  - Wendell Brunious
-  - Michael White
-  - Lars Edegran
+    - Wendell Brunious
+    - Michael White
+    - Lars Edegran
   mentors:
-  - Larry Borenstein
-  - George Lewis
-  - Sweet Emma Barrett
+    - Larry Borenstein
+    - George Lewis
+    - Sweet Emma Barrett
 network_extracted: true
-origin: French Quarter, New Orleans, Louisiana, USA
+origin: 'French Quarter, New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.telluridejazz.org/preservation-hall-jazz-band
-- https://musicrising.tulane.edu/discover/people/preservation-hall-jazz-band/
-- https://www.globalartslive.org/sites/default/files/Biographies_0.pdf
-- https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band
-- https://www.smithsonianmag.com/arts-culture/preservation-hall-new-orleans-iconic-jazz-180980770/
-- https://www.thejazzarts.org/blog/preserving-the-essence-of-a-jazz-culture-preservation-hall/
-- https://jazztimes.com/features/preservation-hall-jazz-band-at-50/
+  - 'https://www.telluridejazz.org/preservation-hall-jazz-band'
+  - 'https://musicrising.tulane.edu/discover/people/preservation-hall-jazz-band/'
+  - 'https://www.globalartslive.org/sites/default/files/Biographies_0.pdf'
+  - 'https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band'
+  - >-
+    https://www.smithsonianmag.com/arts-culture/preservation-hall-new-orleans-iconic-jazz-180980770/
+  - >-
+    https://www.thejazzarts.org/blog/preserving-the-essence-of-a-jazz-culture-preservation-hall/
+  - 'https://jazztimes.com/features/preservation-hall-jazz-band-at-50/'
 spotify_data:
   followers: 88041
   id: 2S0rCVs10P1Q0v51wmOrM5
   popularity: 45
-  url: https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5
+  url: 'https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5'
 status: active
 title: Preservation Brass & the Preservation Hall Jazz Band
+artist_type: band
 ---
 
 ![](preservation_brass_and_the_preservation_hall_jazz_band.jpg)

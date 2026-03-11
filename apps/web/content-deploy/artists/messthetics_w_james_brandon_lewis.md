@@ -1,52 +1,55 @@
 ---
 biography_enhanced_at: '2026-02-27T01:33:50.371742'
-birth_place: Buffalo, New York, USA
+birth_place: 'Buffalo, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:33:50.371752'
 external_urls:
-  spotify: https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm
-  wikipedia: https://en.wikipedia.org/wiki/James_Brandon_Lewis
+  spotify: 'https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Brandon_Lewis'
 genres:
-- jazz funk
-- experimental jazz
-image_path: 03_Resources/source_material/ArtistPortraits/messthetics_w_james_brandon_lewis.jpg
+  - jazz funk
+  - experimental jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/messthetics_w_james_brandon_lewis.jpg
 last_updated: '2026-02-27T01:33:50.371754'
 musical_connections:
   collaborators:
-  - Anthony Pirog
-  - Joe Lally
-  - Brendan Canty
-  - Chad Taylor
-  - Luke Stewart
-  - Warren Trae Crudup III
-  - Jaimie Branch
-  - Kirk Knuffke
-  - Chris Hoffman
+    - Anthony Pirog
+    - Joe Lally
+    - Brendan Canty
+    - Chad Taylor
+    - Luke Stewart
+    - Warren Trae Crudup III
+    - Jaimie Branch
+    - Kirk Knuffke
+    - Chris Hoffman
   influenced: []
   mentors:
-  - Geri Allen
-  - Benny Golson
-  - Bill Pierce
-  - Wallace Roney
-  - Joseph Schillinger
+    - Geri Allen
+    - Benny Golson
+    - Bill Pierce
+    - Wallace Roney
+    - Joseph Schillinger
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ragdale.org/residents/james-brandon-lewis
-- https://en.wikipedia.org/wiki/James_Brandon_Lewis
-- https://burningambulance.com/2025/06/06/james-brandon-lewis-2/
-- https://www.pointofdeparture.org/archives/PoD-76/PoD76Lewis.html
-- https://www.allaboutjazz.com/musicians/james-brandon-lewis/
-- https://jblewis.com/bio
-- https://www.anti.com/artists/james-brandon-lewis/
-- https://www.selmer.fr/en/blogs/artistes/james-brandon-lewis
+  - 'https://www.ragdale.org/residents/james-brandon-lewis'
+  - 'https://en.wikipedia.org/wiki/James_Brandon_Lewis'
+  - 'https://burningambulance.com/2025/06/06/james-brandon-lewis-2/'
+  - 'https://www.pointofdeparture.org/archives/PoD-76/PoD76Lewis.html'
+  - 'https://www.allaboutjazz.com/musicians/james-brandon-lewis/'
+  - 'https://jblewis.com/bio'
+  - 'https://www.anti.com/artists/james-brandon-lewis/'
+  - 'https://www.selmer.fr/en/blogs/artistes/james-brandon-lewis'
 spotify_data:
   followers: 16243
   id: 61wWE8w2nqaoNmKCOjJ4Hm
   popularity: 27
-  url: https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm
+  url: 'https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm'
 status: active
 title: Messthetics w/ James Brandon Lewis
+birth_date: '1983-08-13'
+artist_type: person
 ---
 
 ![](messthetics_w_james_brandon_lewis.jpg)

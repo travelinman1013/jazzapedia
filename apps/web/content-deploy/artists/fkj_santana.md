@@ -1,36 +1,40 @@
 ---
 biography_enhanced_at: '2026-03-03T01:37:44.288390'
-birth_place: Tours, Indre-et-Loire, Centre-Val de Loire, France
+birth_place: 'Tours, Indre-et-Loire, Centre-Val de Loire, France'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:37:44.288401'
 external_urls:
-  spotify: https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P
+  spotify: 'https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/fkj_santana.jpg
 last_updated: '2026-03-03T01:37:44.288403'
 musical_connections:
   collaborators:
-  - Masego
-  - June (((O)))
+    - Masego
+    - June (((O)))
   influenced: []
   mentors:
-  - Cookie Marenco
+    - Cookie Marenco
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/FKJ/+wiki
-- https://cdn.uc.assets.prezly.com/c7c6ec70-e1b9-44b2-80f2-bc4dac24891a/-/inline/no/vincent-fenton-story-in-magazine-format.pdf
-- https://www.youtube.com/watch?v=B7s2qT1uc6A
-- https://francetoday.com/culture/music-festivals/on-ecoute-french-kiwi-juice/
-- http://www.unit-production.com/wp-content/uploads/2016/07/FKJ-%C2%AD-BIOS-and-LINKS-Fr-Eng.pdf
+  - 'https://www.last.fm/music/FKJ/+wiki'
+  - >-
+    https://cdn.uc.assets.prezly.com/c7c6ec70-e1b9-44b2-80f2-bc4dac24891a/-/inline/no/vincent-fenton-story-in-magazine-format.pdf
+  - 'https://www.youtube.com/watch?v=B7s2qT1uc6A'
+  - 'https://francetoday.com/culture/music-festivals/on-ecoute-french-kiwi-juice/'
+  - >-
+    http://www.unit-production.com/wp-content/uploads/2016/07/FKJ-%C2%AD-BIOS-and-LINKS-Fr-Eng.pdf
 spotify_data:
   followers: 3930592
   id: 6GI52t8N5F02MxU0g5U69P
   popularity: 70
-  url: https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P
+  url: 'https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P'
 status: active
-title: FKJ, SANTANA
+title: 'FKJ, Santana'
+birth_date: '1991-03-27'
+artist_type: person
 ---
 
 ![](fkj_santana.jpg)

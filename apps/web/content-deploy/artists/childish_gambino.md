@@ -1,60 +1,62 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b8e28ad1-ae7b-48fd-8740-96120b85022b
-  name: The Gangbang
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 259ead91-1712-4606-9dcc-47b1acc76082
-  name: Upright Citizens Brigade
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b8e28ad1-ae7b-48fd-8740-96120b85022b
+    name: The Gangbang
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 259ead91-1712-4606-9dcc-47b1acc76082
+    name: Upright Citizens Brigade
 biography_enhanced_at: '2026-03-04T01:45:08.829702'
 birth_date: '1983-09-25'
-birth_place: Edwards Air Force Base
+birth_place: 'Edwards Air Force Base, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-04T01:45:08.829714'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7fb57fba-a6ef-44c2-abab-2fa3bdee607e
-  spotify: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL
-  wikipedia: https://en.wikipedia.org/wiki/Donald_Glover
+  musicbrainz: 'https://musicbrainz.org/artist/7fb57fba-a6ef-44c2-abab-2fa3bdee607e'
+  spotify: 'https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Donald_Glover'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/childish_gambino.jpg
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 last_updated: '2026-03-04T01:45:08.829716'
 musical_connections:
   collaborators:
-  - Ludwig Göransson
-  - Leona Lewis
+    - Ludwig Göransson
+    - Leona Lewis
   influenced: []
   mentors:
-  - Ludwig Göransson
+    - Ludwig Göransson
 musicbrainz_id: 7fb57fba-a6ef-44c2-abab-2fa3bdee607e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ohjeanrecords.com/blogs/news/childish-gambino-biography
-- https://www.britannica.com/biography/Donald-Glover
-- https://thissongissick.com/post/donald-glover-career-timeline/
-- https://en.wikipedia.org/wiki/Donald_Glover
-- https://www.last.fm/music/Childish+Gambino/+wiki
-- https://blackpast.org/african-american-history/childlish-gambino-donald-mckinley-glover-jr-1983/
+  - 'https://www.ohjeanrecords.com/blogs/news/childish-gambino-biography'
+  - 'https://www.britannica.com/biography/Donald-Glover'
+  - 'https://thissongissick.com/post/donald-glover-career-timeline/'
+  - 'https://en.wikipedia.org/wiki/Donald_Glover'
+  - 'https://www.last.fm/music/Childish+Gambino/+wiki'
+  - >-
+    https://blackpast.org/african-american-history/childlish-gambino-donald-mckinley-glover-jr-1983/
 spotify_data:
   followers: 15033563
   id: 73sIBHcqh3Z3NyqHKZ7FOL
   popularity: 79
-  url: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL
+  url: 'https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL'
 status: active
 tags:
-- contemporary r&b
-- hip hop
-- neo soul
+  - contemporary r&b
+  - hip hop
+  - neo soul
 title: Childish Gambino
+origin: 'Atlanta, Georgia, United States'
 ---
 
 ![](childish_gambino.jpg)

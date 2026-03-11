@@ -1,44 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-01T01:22:57.422259'
-birth_place: Los Angeles County, California, USA
+birth_place: 'Los Angeles County, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:22:57.422267'
 external_urls:
-  spotify: https://open.spotify.com/artist/7qoRspxAUzs8OvzEyGseJA
-  wikipedia: https://en.wikipedia.org/wiki/Dan_Levinson
+  spotify: 'https://open.spotify.com/artist/7qoRspxAUzs8OvzEyGseJA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dan_Levinson'
 genres:
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/dan_levinsons_roof_garden_jass_band.jpg
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dan_levinsons_roof_garden_jass_band.jpg
 last_updated: '2026-02-01T01:22:57.422269'
 musical_connections:
   collaborators:
-  - Vince Giordano
-  - Leon Redbone
-  - Dick Hyman
-  - Woody Allen & Eddy Davis
-  - Molly Ryan
+    - Vince Giordano
+    - Leon Redbone
+    - Dick Hyman
+    - Woody Allen & Eddy Davis
+    - Molly Ryan
   influenced: []
   mentors:
-  - James 'Rosy' McHargue
-  - Leon Russianoff
-  - Al Gallodoro
+    - James 'Rosy' McHargue
+    - Leon Russianoff
+    - Al Gallodoro
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dan_Levinson
-- https://www.allaboutjazz.com/musicians/dan-levinson/
-- https://www.danlevinson.com/about/
-- http://banilsson.blogspot.com/2022/10/dan-levinson-profile.html
-- https://www.danlevinson.com/wp-content/uploads/2020/01/Dan-Levinson-abridged-bio.pdf
-- https://syncopatedtimes.com/dan-levinson-the-indispensable-reedman/
-- https://www.danlevinson.com
+  - 'https://en.wikipedia.org/wiki/Dan_Levinson'
+  - 'https://www.allaboutjazz.com/musicians/dan-levinson/'
+  - 'https://www.danlevinson.com/about/'
+  - 'http://banilsson.blogspot.com/2022/10/dan-levinson-profile.html'
+  - >-
+    https://www.danlevinson.com/wp-content/uploads/2020/01/Dan-Levinson-abridged-bio.pdf
+  - 'https://syncopatedtimes.com/dan-levinson-the-indispensable-reedman/'
+  - 'https://www.danlevinson.com'
 spotify_data:
   followers: 83
   id: 7qoRspxAUzs8OvzEyGseJA
   popularity: 0
-  url: https://open.spotify.com/artist/7qoRspxAUzs8OvzEyGseJA
+  url: 'https://open.spotify.com/artist/7qoRspxAUzs8OvzEyGseJA'
 status: active
 title: Dan Levinson's Roof Garden Jass Band
+birth_date: '1965-07-08'
+artist_type: band
 ---
 
 ![](dan_levinsons_roof_garden_jass_band.jpg)

@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-27T01:54:24.307286'
-birth_place: Houma, Louisiana, United States
+birth_place: 'Houma, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:54:24.307291'
 external_urls:
-  spotify: https://open.spotify.com/artist/3BF6XjqC5d78zAgkPZQmuL
+  spotify: 'https://open.spotify.com/artist/3BF6XjqC5d78zAgkPZQmuL'
   wikipedia: null
 genres:
-- cajun
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/tyron_benoit.jpg
 last_updated: '2026-01-27T01:54:24.307292'
 musical_connections:
   collaborators:
-  - Tate Benoit
-  - Shane Theriot
-  - Doug Belote
-  - David Torkanowsky
-  - Kevin Scott
+    - Tate Benoit
+    - Shane Theriot
+    - Doug Belote
+    - David Torkanowsky
+    - Kevin Scott
   influenced: []
   mentors:
-  - Big Chief Monk Boudreaux
-  - Donald Markowitz
+    - Big Chief Monk Boudreaux
+    - Donald Markowitz
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://doussangarrettbenoit.com/tyron-benoit
-- https://www.onesquaremileroundtop.com/tyron-benoit
-- https://www.durangobluestrain.com/tyron-benoit-band
-- https://www.tyronbenoitband.com/about
-- https://www.americanbluesscene.com/2021/11/world-premiere-video-tyron-benoit-bayouside/
-- https://www.neworleans.com/listing/tyron-benoit/47646/
+  - 'https://doussangarrettbenoit.com/tyron-benoit'
+  - 'https://www.onesquaremileroundtop.com/tyron-benoit'
+  - 'https://www.durangobluestrain.com/tyron-benoit-band'
+  - 'https://www.tyronbenoitband.com/about'
+  - >-
+    https://www.americanbluesscene.com/2021/11/world-premiere-video-tyron-benoit-bayouside/
+  - 'https://www.neworleans.com/listing/tyron-benoit/47646/'
 spotify_data:
   followers: 606
   id: 3BF6XjqC5d78zAgkPZQmuL
   popularity: 14
-  url: https://open.spotify.com/artist/3BF6XjqC5d78zAgkPZQmuL
+  url: 'https://open.spotify.com/artist/3BF6XjqC5d78zAgkPZQmuL'
 status: active
 title: Tyron Benoit
+artist_type: person
 ---
 
 ![](tyron_benoit.jpg)

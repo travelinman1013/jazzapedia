@@ -3,43 +3,44 @@ biography_enhanced_at: '2026-02-28T01:49:40.974370'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:49:40.974376'
 external_urls:
-  spotify: https://open.spotify.com/artist/2L9iHIK8h5HvZe6VXb0aOI
+  spotify: 'https://open.spotify.com/artist/2L9iHIK8h5HvZe6VXb0aOI'
   wikipedia: Not found in search results
 genres:
-- new wave
+  - new wave
 image_path: 03_Resources/source_material/ArtistPortraits/flying_lizards.jpg
 last_updated: '2026-02-28T01:49:40.974377'
 musical_connections:
   collaborators:
-  - David Toop
-  - Steve Beresford
-  - Deborah Evans-Stickland
-  - Patti Palladin
-  - Vivien Goldman
-  - Robert Fripp
-  - Michael Nyman
-  - Julian Marshall
+    - David Toop
+    - Steve Beresford
+    - Deborah Evans-Stickland
+    - Patti Palladin
+    - Vivien Goldman
+    - Robert Fripp
+    - Michael Nyman
+    - Julian Marshall
   influenced: []
   mentors:
-  - Marcel Duchamp
+    - Marcel Duchamp
 network_extracted: true
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/The+Flying+Lizards/+wiki
-- https://jazzrocksoul.com/artists/the-flying-lizards/
-- http://www.markallencam.com/soundcollector2001.html
-- https://nostalgiacentral.com/music/artists-a-to-k/artists-f/flying-lizards/
-- https://insheepsclothinghifi.com/album/the-flying-lizards-s-t/
-- https://rock.fandom.com/wiki/The_Flying_Lizards
-- https://www.allmusic.com/artist/the-flying-lizards-mn0000057636
+  - 'https://www.last.fm/music/The+Flying+Lizards/+wiki'
+  - 'https://jazzrocksoul.com/artists/the-flying-lizards/'
+  - 'http://www.markallencam.com/soundcollector2001.html'
+  - 'https://nostalgiacentral.com/music/artists-a-to-k/artists-f/flying-lizards/'
+  - 'https://insheepsclothinghifi.com/album/the-flying-lizards-s-t/'
+  - 'https://rock.fandom.com/wiki/The_Flying_Lizards'
+  - 'https://www.allmusic.com/artist/the-flying-lizards-mn0000057636'
 spotify_data:
   followers: 22038
   id: 2L9iHIK8h5HvZe6VXb0aOI
   popularity: 30
-  url: https://open.spotify.com/artist/2L9iHIK8h5HvZe6VXb0aOI
+  url: 'https://open.spotify.com/artist/2L9iHIK8h5HvZe6VXb0aOI'
 status: active
-title: flying lizards
+title: The Flying Lizards
+artist_type: band
 ---
 
 ![](flying_lizards.jpg)

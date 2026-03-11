@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-02T01:40:28.032034'
-birth_place: Mechanicville, New York, USA
+birth_place: 'Mechanicville, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:40:28.032043'
 external_urls:
-  spotify: https://open.spotify.com/artist/5WvAl5KQB8DNlEuzeYGsHu
+  spotify: 'https://open.spotify.com/artist/5WvAl5KQB8DNlEuzeYGsHu'
   wikipedia: ''
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/bob_eberly.jpg
 last_updated: '2026-02-02T01:40:28.032044'
 musical_connections:
   collaborators:
-  - Jimmy Dorsey
-  - Helen O'Connell
-  - Wayne King
-  - Tutti Camarata
+    - Jimmy Dorsey
+    - Helen O'Connell
+    - Wayne King
+    - Tutti Camarata
   influenced:
-  - Up-and-coming crooners
+    - Up-and-coming crooners
   mentors:
-  - Fred Allen
+    - Fred Allen
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2019/07/bob-eberly-born-24-july-1918.html
-- https://bandchirps.com/artist/bob-eberly/
-- https://musiclinernotes.wordpress.com/2011/04/05/bob-ray-eberly-e/
-- https://www.jazzstandards.com/biographies/biography_149.htm
-- https://dvrbs.camdenhistory.com/swing/oldshowbiz-bobeberly.htm
-- https://www.swingstreetradio.org/performer/bob-eberly/
-- https://www.allmusic.com/artist/bob-eberly-mn0000762618
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2019/07/bob-eberly-born-24-july-1918.html
+  - 'https://bandchirps.com/artist/bob-eberly/'
+  - 'https://musiclinernotes.wordpress.com/2011/04/05/bob-ray-eberly-e/'
+  - 'https://www.jazzstandards.com/biographies/biography_149.htm'
+  - 'https://dvrbs.camdenhistory.com/swing/oldshowbiz-bobeberly.htm'
+  - 'https://www.swingstreetradio.org/performer/bob-eberly/'
+  - 'https://www.allmusic.com/artist/bob-eberly-mn0000762618'
 spotify_data:
   followers: 1566
   id: 5WvAl5KQB8DNlEuzeYGsHu
   popularity: 29
-  url: https://open.spotify.com/artist/5WvAl5KQB8DNlEuzeYGsHu
+  url: 'https://open.spotify.com/artist/5WvAl5KQB8DNlEuzeYGsHu'
 status: active
 title: Bob Eberly
+death_date: '1981-11-17'
+artist_type: person
 ---
 
 ![](bob_eberly.jpg)

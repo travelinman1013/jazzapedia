@@ -1,51 +1,54 @@
 ---
 biography_enhanced_at: '2026-02-20T01:18:39.842684'
-birth_place: Los Angeles, California, USA (primary base; Wilkes born Connecticut,
-  Gendel born Visalia, CA)
+birth_place: 'Connecticut, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:18:39.842694'
 external_urls:
-  spotify: https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW
-  wikipedia: https://en.wikipedia.org/wiki/Sam_Wilkes
+  spotify: 'https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sam_Wilkes'
 genres:
-- ambient jazz
-- nu jazz
-- indie jazz
-- experimental jazz
+  - ambient jazz
+  - nu jazz
+  - indie jazz
+  - experimental jazz
 image_path: 03_Resources/source_material/ArtistPortraits/sam_gendel_sam_wilkes.jpg
 last_updated: '2026-02-20T01:18:39.842696'
 musical_connections:
   collaborators:
-  - Louis Cole
-  - Genevieve Artadi
-  - Knower
-  - Vampire Weekend
-  - Blake Mills
-  - Pino Palladino
+    - Louis Cole
+    - Genevieve Artadi
+    - Knower
+    - Vampire Weekend
+    - Blake Mills
+    - Pino Palladino
   influenced: []
   mentors:
-  - Patrice Rushen
-  - Leon 'Ndugu' Chancler
-  - Phish and The Grateful Dead
+    - Patrice Rushen
+    - Leon 'Ndugu' Chancler
+    - Phish and The Grateful Dead
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sam_Wilkes
-- https://en.wikipedia.org/wiki/Sam_Gendel
-- https://www.allaboutjazz.com/musicians/sam-gendel/
-- https://www.latimes.com/entertainment-arts/music/story/2021-03-24/sam-gendel-alleged-clown-core-jazz
-- https://herbsundays.substack.com/p/herb-sundays-65-sam-gendel
-- https://www.nonesuch.com/artists/sam-gendel
-- https://www.rovr.live/artists/sam%20gendel,%20sam%20wilkes
-- https://www.outermostagency.com/sam-wilkes
-- https://www.thefader.com/2022/07/19/sam-gendel-treads-his-own-path
+  - 'https://en.wikipedia.org/wiki/Sam_Wilkes'
+  - 'https://en.wikipedia.org/wiki/Sam_Gendel'
+  - 'https://www.allaboutjazz.com/musicians/sam-gendel/'
+  - >-
+    https://www.latimes.com/entertainment-arts/music/story/2021-03-24/sam-gendel-alleged-clown-core-jazz
+  - 'https://herbsundays.substack.com/p/herb-sundays-65-sam-gendel'
+  - 'https://www.nonesuch.com/artists/sam-gendel'
+  - 'https://www.rovr.live/artists/sam%20gendel,%20sam%20wilkes'
+  - 'https://www.outermostagency.com/sam-wilkes'
+  - 'https://www.thefader.com/2022/07/19/sam-gendel-treads-his-own-path'
 spotify_data:
   followers: 34605
   id: 6Xo1vXFRCEJPgVqCyHlTPW
   popularity: 41
-  url: https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW
+  url: 'https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW'
 status: active
-title: Sam Gendel, Sam Wilkes
+title: 'Sam Gendel, Sam Wilkes'
+origin: 'Los Angeles, California, United States'
+birth_date: '1991-07-22'
+artist_type: band
 ---
 
 ![](sam_gendel_sam_wilkes.jpg)
