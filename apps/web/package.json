@@ -41,7 +41,11 @@
     "docker:build": "docker-compose build",
     "docker:up": "docker-compose up",
     "docker:down": "docker-compose down",
-    "docker:logs": "docker-compose logs -f"
+    "docker:logs": "docker-compose logs -f",
+    "audit": "tsx scripts/audit-data-integrity.ts",
+    "audit:fix": "tsx scripts/audit-data-integrity.ts --fix",
+    "audit:fix:dry-run": "tsx scripts/audit-data-integrity.ts --fix --dry-run",
+    "extract": "tsx scripts/extract-artist-metadata.ts"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.6.12",

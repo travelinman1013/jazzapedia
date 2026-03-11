@@ -232,10 +232,22 @@ const toSlug = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').
           </tr>
         )}
 
-        {/* Origin row - for bands */}
+        {/* Origin/birthplace row - shown when no birth date already displays it */}
+        {!artistIsBand && !birthDate && birthPlace && (
+          <tr>
+            <th>From</th>
+            <td>{birthPlace}</td>
+          </tr>
+        )}
         {artistIsBand && origin && (
           <tr>
             <th>Origin</th>
+            <td>{origin}</td>
+          </tr>
+        )}
+        {!artistIsBand && origin && origin !== birthPlace && (
+          <tr>
+            <th>Based in</th>
             <td>{origin}</td>
           </tr>
         )}
