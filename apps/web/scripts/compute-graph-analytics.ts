@@ -20,8 +20,8 @@ function main() {
   console.log('[graph-analytics] Connecting to SQLite:', dbPath);
 
   if (!fs.existsSync(dbPath)) {
-    console.warn('[graph-analytics] WARNING: Database not found:', dbPath);
-    process.exit(1);
+    console.warn('[graph-analytics] Database not found, skipping:', dbPath);
+    process.exit(0);
   }
 
   const db = new Database(dbPath);

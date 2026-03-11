@@ -224,6 +224,27 @@ else
 fi
 
 # ============================================================
+# STEP 1.75: Populate Artist Relationships Table
+# ============================================================
+# Reads musical_connections JSON from artists and inserts normalized rows
+# into artist_relationships table. Must run BEFORE connections index
+# regeneration since build-connections-static reads from this table.
+
+log_section "Step 1.75: Populate Artist Relationships"
+
+if [ "$DRY_RUN" = true ]; then
+  log "DRY RUN: Would populate artist relationships table"
+else
+  log "Populating artist relationships from musical_connections JSON..."
+  cd "$WEB_DIR"
+  if DATABASE_PATH="$SQLITE_DB" npx tsx "$SCRIPT_DIR/populate-artist-relationships.ts" 2>&1 | tee -a "$LOG_FILE"; then
+    log "Artist relationships: populated"
+  else
+    log "WARNING: Failed to populate artist relationships (non-fatal)"
+  fi
+fi
+
+# ============================================================
 # STEP 1.8: Regenerate Connections Index
 # ============================================================
 # The connections-index.json is a static file used by the ConnectionGraph
@@ -244,6 +265,36 @@ else
   else
     log "WARNING: Failed to regenerate connections index"
   fi
+fi
+
+# ============================================================
+# STEP 1.9: Export New Table Data for D1 Sync
+# ============================================================
+# Exports artist_relationships, artist_similarity, artist_graph_stats,
+# artist_locations, and WWOZ intelligence tables as SQL for GitHub Actions
+# to import into D1 alongside artist content and WWOZ data.
+
+log_section "Step 1.9: Export Table Data for D1"
+
+D1_EXPORT_DIR="$SCRIPT_DIR/.d1-export"
+
+if [ "$DRY_RUN" = true ]; then
+  log "DRY RUN: Would export table data for D1"
+else
+  mkdir -p "$D1_EXPORT_DIR"
+  log "Exporting table data for D1 sync..."
+
+  for table in artist_relationships artist_similarity artist_graph_stats artist_locations wwoz_genre_weekly wwoz_host_profiles wwoz_artist_cooccurrence wwoz_artist_first_seen; do
+    EXPORT_FILE="$D1_EXPORT_DIR/${table}.sql"
+    echo "DELETE FROM ${table};" > "$EXPORT_FILE"
+    sqlite3 "$SQLITE_DB" ".mode insert ${table}" ".output $EXPORT_FILE.tmp" "SELECT * FROM ${table};" ".output stdout"
+    cat "$EXPORT_FILE.tmp" >> "$EXPORT_FILE"
+    rm -f "$EXPORT_FILE.tmp"
+    ROW_COUNT=$(grep -c "^INSERT" "$EXPORT_FILE" 2>/dev/null || echo "0")
+    log "  $table: $ROW_COUNT rows"
+  done
+
+  log "D1 export: Complete"
 fi
 
 # ============================================================
@@ -389,7 +440,7 @@ else
   CONTENT_CHANGED=false
 
   # Check for changes (both tracked and untracked files)
-  [ -n "$(git status --porcelain "$CONTENT_DEPLOY" "$WWOZ_EXPORT_DIR" "$CONNECTIONS_INDEX" 2>/dev/null)" ] && CONTENT_CHANGED=true
+  [ -n "$(git status --porcelain "$CONTENT_DEPLOY" "$WWOZ_EXPORT_DIR" "$D1_EXPORT_DIR" "$CONNECTIONS_INDEX" 2>/dev/null)" ] && CONTENT_CHANGED=true
 
   if [ "$CONTENT_CHANGED" = false ]; then
     log "Git: No changes to commit"
@@ -410,7 +461,7 @@ else
     }
 
     log "Git: $ARTIST_COUNT artist changes, $PORTRAIT_COUNT portrait changes, WWOZ: $([ "$WWOZ_CHANGED" -gt 0 ] && echo "changed" || echo "unchanged"), connections: $([ "$CONNECTIONS_CHANGED" -gt 0 ] && echo "changed" || echo "unchanged")"
-    git add "$CONTENT_DEPLOY" "$WWOZ_EXPORT_DIR" "$CONNECTIONS_INDEX"
+    git add "$CONTENT_DEPLOY" "$WWOZ_EXPORT_DIR" "$D1_EXPORT_DIR" "$CONNECTIONS_INDEX"
 
     log "Git: Committing $COMMIT_PARTS..."
     git commit -m "Auto-sync: Update $COMMIT_PARTS [$(date '+%Y-%m-%d %H:%M')]" >> "$LOG_FILE" 2>&1

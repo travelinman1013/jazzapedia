@@ -50,8 +50,8 @@ async function populateRelationships() {
   console.log('[populate-relationships] Connecting to SQLite:', dbPath);
 
   if (!fs.existsSync(dbPath)) {
-    console.warn('[populate-relationships] WARNING: Database not found:', dbPath);
-    process.exit(1);
+    console.warn('[populate-relationships] Database not found, skipping:', dbPath);
+    process.exit(0);
   }
 
   const db = new Database(dbPath);
