@@ -79,7 +79,6 @@ jobs:
           PORTRAITS_DIR: ./content-deploy/portraits
 
       - name: Import WWOZ SQL to D1
-        if: ${{ github.event_name == 'schedule' }}
         working-directory: apps/web
         run: |
           if [ -f "scripts/.wwoz-export/wwoz-sync.sql" ]; then
