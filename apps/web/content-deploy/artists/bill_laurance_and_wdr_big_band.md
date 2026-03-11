@@ -1,41 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-31T01:06:25.888498'
-birth_place: North London, England
+birth_place: 'North London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:06:25.888505'
 external_urls:
-  spotify: https://open.spotify.com/artist/0kPj3UZCGmcOcPQ8soPmGD
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Laurance
+  spotify: 'https://open.spotify.com/artist/0kPj3UZCGmcOcPQ8soPmGD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Laurance'
 genres:
-- big band
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/bill_laurance_and_wdr_big_band.jpg
+  - big band
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bill_laurance_and_wdr_big_band.jpg
 last_updated: '2026-01-31T01:06:25.888506'
 musical_connections:
   collaborators:
-  - Michael League
-  - Bob Mintzer
-  - WDR Big Band
-  - Bodek Janke
+    - Michael League
+    - Bob Mintzer
+    - WDR Big Band
+    - Bodek Janke
   influenced: []
   mentors:
-  - Classical composition faculty at University of Leeds
+    - Classical composition faculty at University of Leeds
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazzline-leopard.de/index.php/en/16-english/jazzline-en/163-bill-laurance-en
-- https://en.wikipedia.org/wiki/Bill_Laurance
-- https://billlaurance.com/About
-- https://billlaurance.com/Site
-- https://www.berklee.edu/red-room-cafe-939/events/bill-lawrence
-- https://www.allaboutjazz.com/musicians/bill-laurance/
+  - >-
+    https://jazzline-leopard.de/index.php/en/16-english/jazzline-en/163-bill-laurance-en
+  - 'https://en.wikipedia.org/wiki/Bill_Laurance'
+  - 'https://billlaurance.com/About'
+  - 'https://billlaurance.com/Site'
+  - 'https://www.berklee.edu/red-room-cafe-939/events/bill-lawrence'
+  - 'https://www.allaboutjazz.com/musicians/bill-laurance/'
 spotify_data:
   followers: 992
   id: 0kPj3UZCGmcOcPQ8soPmGD
   popularity: 16
-  url: https://open.spotify.com/artist/0kPj3UZCGmcOcPQ8soPmGD
+  url: 'https://open.spotify.com/artist/0kPj3UZCGmcOcPQ8soPmGD'
 status: active
 title: Bill Laurance & WDR Big Band
+birth_date: '1981-04-02'
+artist_type: person
 ---
 
 ![](bill_laurance_and_wdr_big_band.jpg)

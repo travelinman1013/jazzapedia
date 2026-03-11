@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-08T02:02:34.789541'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:02:34.789550'
 external_urls:
-  spotify: https://open.spotify.com/artist/69vxxehSM3cmy1kLWJt8k7
-  wikipedia: https://en.wikipedia.org/wiki/Sasha_Masakowski
+  spotify: 'https://open.spotify.com/artist/69vxxehSM3cmy1kLWJt8k7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sasha_Masakowski'
 genres:
-- vocal jazz
-image_path: 03_Resources/source_material/ArtistPortraits/sasha_masakowski_and_musical_playground.jpg
+  - vocal jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/sasha_masakowski_and_musical_playground.jpg
 last_updated: '2026-02-08T02:02:34.789551'
 musical_connections:
   collaborators:
-  - Nicholas Payton
-  - Martin Masakowski
-  - Cliff Hines
-  - Aurora Nealand
-  - Jason Lindner
-  - Musical Playground band members
+    - Nicholas Payton
+    - Martin Masakowski
+    - Cliff Hines
+    - Aurora Nealand
+    - Jason Lindner
+    - Musical Playground band members
   influenced: []
   mentors:
-  - Steve Masakowski
-  - Ellis Marsalis Jr.
-  - James Westfall
+    - Steve Masakowski
+    - Ellis Marsalis Jr.
+    - James Westfall
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.whereyat.com/sasha-masakowski
-- https://sashamasakowski.com/about/
-- https://www.allaboutjazz.com/musicians/sasha-masakowski/
-- https://thevelvetnote.com/sasha-and-steve-masakowski/
-- https://en.wikipedia.org/wiki/Sasha_Masakowski
-- https://summerfest.sanjosejazz.org/artists/sasha-masakowski
-- http://www.mmmusicagency.com/sasha-masakowski.html
+  - 'https://www.whereyat.com/sasha-masakowski'
+  - 'https://sashamasakowski.com/about/'
+  - 'https://www.allaboutjazz.com/musicians/sasha-masakowski/'
+  - 'https://thevelvetnote.com/sasha-and-steve-masakowski/'
+  - 'https://en.wikipedia.org/wiki/Sasha_Masakowski'
+  - 'https://summerfest.sanjosejazz.org/artists/sasha-masakowski'
+  - 'http://www.mmmusicagency.com/sasha-masakowski.html'
 spotify_data:
   followers: 423
   id: 69vxxehSM3cmy1kLWJt8k7
   popularity: 0
-  url: https://open.spotify.com/artist/69vxxehSM3cmy1kLWJt8k7
+  url: 'https://open.spotify.com/artist/69vxxehSM3cmy1kLWJt8k7'
 status: active
 title: Sasha Masakowski & Musical Playground
+artist_type: person
 ---
 
 ![](sasha_masakowski_and_musical_playground.jpg)

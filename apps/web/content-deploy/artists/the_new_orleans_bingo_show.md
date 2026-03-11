@@ -1,39 +1,41 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-12T01:10:34.664864'
 enhancement_provider: perplexity
 entry_created: '2026-02-12T01:10:34.664872'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9b6f4081-a3c4-4c5d-8c47-745e34145197
-  spotify: https://open.spotify.com/artist/7tkS6GRQPW32A0AChlUXT7
+  musicbrainz: 'https://musicbrainz.org/artist/9b6f4081-a3c4-4c5d-8c47-745e34145197'
+  spotify: 'https://open.spotify.com/artist/7tkS6GRQPW32A0AChlUXT7'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_new_orleans_bingo_show.jpg
 last_updated: '2026-02-12T01:10:34.664873'
 musical_connections:
   collaborators:
-  - Ron “Ronnie Numbers” Rona
-  - Rickie Monie
-  - Clint Maedgen
+    - Ron “Ronnie Numbers” Rona
+    - Rickie Monie
+    - Clint Maedgen
   influenced: []
   mentors:
-  - Ben Jaffe
+    - Ben Jaffe
 musicbrainz_id: 9b6f4081-a3c4-4c5d-8c47-745e34145197
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://lsureveille.com/150355/entertainment/new-orleans-bingo-show-to-play-at-spanish-moon/
-- https://www.allaboutjazz.com/clint-maedgen-life-before-and-with-preservation-hall
-- https://www.offbeat.com/articles/new-orleans-bingo-show-a-new-game/
-- https://www.foxsoundi.com/artist/4266821/the-new-orleans-bingo-show
-- https://www.last.fm/music/The+New+Orleans+Bingo!+Show/+wiki
-- https://jazztimes.com/features/preservation-hall-jazz-band-at-50
+  - >-
+    https://lsureveille.com/150355/entertainment/new-orleans-bingo-show-to-play-at-spanish-moon/
+  - >-
+    https://www.allaboutjazz.com/clint-maedgen-life-before-and-with-preservation-hall
+  - 'https://www.offbeat.com/articles/new-orleans-bingo-show-a-new-game/'
+  - 'https://www.foxsoundi.com/artist/4266821/the-new-orleans-bingo-show'
+  - 'https://www.last.fm/music/The+New+Orleans+Bingo!+Show/+wiki'
+  - 'https://jazztimes.com/features/preservation-hall-jazz-band-at-50'
 spotify_data:
   followers: 608
   id: 7tkS6GRQPW32A0AChlUXT7
   popularity: 2
-  url: https://open.spotify.com/artist/7tkS6GRQPW32A0AChlUXT7
+  url: 'https://open.spotify.com/artist/7tkS6GRQPW32A0AChlUXT7'
 status: active
 title: The New Orleans BINGO! Show
 ---

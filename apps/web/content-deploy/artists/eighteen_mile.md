@@ -3,39 +3,40 @@ biography_enhanced_at: '2026-02-23T03:04:21.730304'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:04:21.730312'
 external_urls:
-  spotify: https://open.spotify.com/artist/1A4aTqCTibvs6uQrYyeiSp
+  spotify: 'https://open.spotify.com/artist/1A4aTqCTibvs6uQrYyeiSp'
   wikipedia: ''
 genres:
-- christian bluegrass
-- bluegrass
-- southern gospel
-- country christian
+  - christian bluegrass
+  - bluegrass
+  - southern gospel
+  - country christian
 image_path: 03_Resources/source_material/ArtistPortraits/eighteen_mile.jpg
 last_updated: '2026-02-23T03:04:21.730313'
 musical_connections:
   collaborators:
-  - Jack Ritter
-  - Emily
-  - Mountain Home Music Company
+    - Jack Ritter
+    - Emily
+    - Mountain Home Music Company
   influenced: []
   mentors:
-  - Joe Mullins
-  - Andy Leftwich
-  - Steve Pettit
+    - Joe Mullins
+    - Andy Leftwich
+    - Steve Pettit
 network_extracted: true
-origin: Upstate region, South Carolina, USA
+origin: 'Upstate region, South Carolina, USA'
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=tXKAx2_l0OQ
-- https://www.eighteenmilemusic.com
-- https://www.eighteenmilemusic.com/epk
+  - 'https://www.youtube.com/watch?v=tXKAx2_l0OQ'
+  - 'https://www.eighteenmilemusic.com'
+  - 'https://www.eighteenmilemusic.com/epk'
 spotify_data:
   followers: 371
   id: 1A4aTqCTibvs6uQrYyeiSp
   popularity: 6
-  url: https://open.spotify.com/artist/1A4aTqCTibvs6uQrYyeiSp
+  url: 'https://open.spotify.com/artist/1A4aTqCTibvs6uQrYyeiSp'
 status: active
 title: Eighteen Mile
+artist_type: band
 ---
 
 ![](eighteen_mile.jpg)

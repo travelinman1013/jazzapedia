@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-25T02:05:29.759122'
-birth_place: Halifax, Nova Scotia, Canada
+birth_place: 'Halifax, Nova Scotia, Canada'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:05:29.759130'
 external_urls:
-  spotify: https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX
-  wikipedia: https://en.wikipedia.org/wiki/Holly_Cole
+  spotify: 'https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Holly_Cole'
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/holly_cole.jpg
 last_updated: '2026-02-25T02:05:29.759132'
 musical_connections:
   collaborators:
-  - Aaron Davis
-  - David Piltch
+    - Aaron Davis
+    - David Piltch
   influenced: []
   mentors:
-  - Sarah Vaughan
-  - Nina Simone
-  - Betty Carter
+    - Sarah Vaughan
+    - Nina Simone
+    - Betty Carter
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.canadianjazzarchive.net/musicians/holly-cole.html
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/cole-holly
-- https://en.wikipedia.org/wiki/Holly_Cole
-- https://www.hollycole.com/bio/
-- https://www.vancouversymphony.ca/artist/holly-cole/
-- https://www.seniorlivingmag.com/articles/51913/
-- https://www.nativedsd.com/artist/holly-cole/
-- https://www.thehonesttalk.ca/podcast/canadian-jazz-singer-holly-cole-takes-us-behind-the-music/
+  - 'https://www.canadianjazzarchive.net/musicians/holly-cole.html'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/cole-holly
+  - 'https://en.wikipedia.org/wiki/Holly_Cole'
+  - 'https://www.hollycole.com/bio/'
+  - 'https://www.vancouversymphony.ca/artist/holly-cole/'
+  - 'https://www.seniorlivingmag.com/articles/51913/'
+  - 'https://www.nativedsd.com/artist/holly-cole/'
+  - >-
+    https://www.thehonesttalk.ca/podcast/canadian-jazz-singer-holly-cole-takes-us-behind-the-music/
 spotify_data:
   followers: 29999
   id: 1N3288tnOcOQQgfhpBqFsX
   popularity: 27
-  url: https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX
+  url: 'https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX'
 status: active
-title: HOLLY COLE
+title: Holly Cole
+birth_date: '1963-11-25'
+artist_type: person
 ---
 
 ![](holly_cole.jpg)

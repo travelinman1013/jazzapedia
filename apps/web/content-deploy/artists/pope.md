@@ -1,40 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-26T01:21:35.405819'
-birth_place: Marietta, Georgia, United States
+birth_place: 'Marietta, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:21:35.405829'
 external_urls:
-  spotify: https://open.spotify.com/artist/32W6yPRCDn9Tx8zhCiUtI9
-  wikipedia: https://en.wikipedia.org/wiki/Ron_Pope
+  spotify: 'https://open.spotify.com/artist/32W6yPRCDn9Tx8zhCiUtI9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ron_Pope'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/pope.jpg
 last_updated: '2026-02-26T01:21:35.405830'
 musical_connections:
   collaborators:
-  - Zach Berkman
-  - Paul Hammer
-  - Chris Kienel
-  - Will Frish
-  - Mike Clifford
-  - Blair Clark
+    - Zach Berkman
+    - Paul Hammer
+    - Chris Kienel
+    - Will Frish
+    - Mike Clifford
+    - Blair Clark
   influenced: []
   mentors:
-  - Zach Berkman
+    - Zach Berkman
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ron_Pope
-- https://pkrockandpop.wordpress.com/features/artist-bank/ron-pope/
-- https://qltyamericana.com/2025/05/28/ron-pope-im-not-the-devil-song-of-the-day-ep-73/
-- https://www.btdfoundation.org/ron-pope/
-- https://thebluegrasssituation.com/read/the-string-ron-pope/
+  - 'https://en.wikipedia.org/wiki/Ron_Pope'
+  - 'https://pkrockandpop.wordpress.com/features/artist-bank/ron-pope/'
+  - >-
+    https://qltyamericana.com/2025/05/28/ron-pope-im-not-the-devil-song-of-the-day-ep-73/
+  - 'https://www.btdfoundation.org/ron-pope/'
+  - 'https://thebluegrasssituation.com/read/the-string-ron-pope/'
 spotify_data:
   followers: 29
   id: 32W6yPRCDn9Tx8zhCiUtI9
   popularity: 0
-  url: https://open.spotify.com/artist/32W6yPRCDn9Tx8zhCiUtI9
+  url: 'https://open.spotify.com/artist/32W6yPRCDn9Tx8zhCiUtI9'
 status: active
 title: Pope
+artist_type: person
 ---
 
 ![](pope.jpg)

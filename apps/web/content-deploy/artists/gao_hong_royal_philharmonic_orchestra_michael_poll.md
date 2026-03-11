@@ -1,41 +1,45 @@
 ---
 biography_enhanced_at: '2026-03-02T01:16:01.410187'
-birth_place: Luoyang, Henan, China
+birth_place: 'Luoyang, Henan, China'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:16:01.410195'
 external_urls:
-  spotify: https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3
-  wikipedia: https://en.wikipedia.org/wiki/Gao_Hong_(composer)
+  spotify: 'https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gao_Hong_(composer)'
 genres:
-- classical
-- orchestral
-image_path: 03_Resources/source_material/ArtistPortraits/gao_hong_royal_philharmonic_orchestra_michael_poll.jpg
+  - classical
+  - orchestral
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/gao_hong_royal_philharmonic_orchestra_michael_poll.jpg
 last_updated: '2026-03-02T01:16:01.410197'
 musical_connections:
   collaborators:
-  - Royal Philharmonic Orchestra
-  - Michael Poll
-  - Minneapolis Pops Orchestra
-  - Minnesota Orchestra
+    - Royal Philharmonic Orchestra
+    - Michael Poll
+    - Minneapolis Pops Orchestra
+    - Minnesota Orchestra
   influenced: []
   mentors:
-  - Lin Shicheng
+    - Lin Shicheng
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://icareifyoulisten.com/2022/05/gao-hong-memories-journeys-pipa-composer/
-- https://www.carleton.edu/directory/ghong/
-- https://www.chinesepipa.com/bio.html
-- https://en.wikipedia.org/wiki/Gao_Hong_(composer)
-- https://mplspops.org/artist-spotlight-gao-hong/
-- https://www.yourclassical.org/episode/2024/03/23/composers-datebook-gao-hong
+  - >-
+    https://icareifyoulisten.com/2022/05/gao-hong-memories-journeys-pipa-composer/
+  - 'https://www.carleton.edu/directory/ghong/'
+  - 'https://www.chinesepipa.com/bio.html'
+  - 'https://en.wikipedia.org/wiki/Gao_Hong_(composer)'
+  - 'https://mplspops.org/artist-spotlight-gao-hong/'
+  - 'https://www.yourclassical.org/episode/2024/03/23/composers-datebook-gao-hong'
 spotify_data:
   followers: 18782
   id: 6I6fmQU7HGrUsCm4B5Nlk3
   popularity: 55
-  url: https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3
+  url: 'https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3'
 status: active
-title: Gao Hong, Royal Philharmonic Orchestra, Michael Poll
+title: 'Gao Hong, Royal Philharmonic Orchestra, Michael Poll'
+birth_date: '1964'
+artist_type: person
 ---
 
 ![](gao_hong_royal_philharmonic_orchestra_michael_poll.jpg)

@@ -1,44 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-23T03:10:56.404556'
-birth_place: Brčko, Bosnia and Herzegovina (born); Požega, Croatia (grew up); Berlin,
-  Germany (current)
+birth_place: 'Brčko, Bosnia and Herzegovina, Yugoslavia'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:10:56.404566'
 external_urls:
-  spotify: https://open.spotify.com/artist/7Gqc8wgIVSFkzuTqhLNwV6
-  wikipedia: https://en.wikipedia.org/wiki/Vesna_Pisarovi%C4%87
+  spotify: 'https://open.spotify.com/artist/7Gqc8wgIVSFkzuTqhLNwV6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vesna_Pisarovi%C4%87'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/vesna_pisarovic_noel_akchote_tony_buck_greg_cohen_axel_dorne.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/vesna_pisarovic_noel_akchote_tony_buck_greg_cohen_axel_dorne.jpg
 last_updated: '2026-02-23T03:10:56.404568'
 musical_connections:
   collaborators:
-  - Milana Vlaović
-  - Greg Cohen
-  - Tony Buck
-  - Noel Akchoté
-  - Axel Dörne
-  - Joe Fonda
-  - John Betsch
+    - Milana Vlaović
+    - Greg Cohen
+    - Tony Buck
+    - Noel Akchoté
+    - Axel Dörne
+    - Joe Fonda
+    - John Betsch
   influenced: []
   mentors:
-  - Peter Brötzmann
+    - Peter Brötzmann
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Vesna+Pisarovi%C4%87/+wiki
-- http://vesnapisarovic.me/petit-standard
-- https://en.wikipedia.org/wiki/Vesna_Pisarovi%C4%87
-- https://www.eurovisionuniverse.com/encyclopedia/vesna-pisarovic/
-- https://www.andvision.net/en/program/andvision-special-program/6720-vesna-pisarovic-vocal-lesson.html
-- https://foxydigitalis.zone/2025/06/05/between-breath-and-dissonance-with-vesna-pisarovic/
-- https://www.songlines.co.uk/review/poravna
+  - 'https://www.last.fm/music/Vesna+Pisarovi%C4%87/+wiki'
+  - 'http://vesnapisarovic.me/petit-standard'
+  - 'https://en.wikipedia.org/wiki/Vesna_Pisarovi%C4%87'
+  - 'https://www.eurovisionuniverse.com/encyclopedia/vesna-pisarovic/'
+  - >-
+    https://www.andvision.net/en/program/andvision-special-program/6720-vesna-pisarovic-vocal-lesson.html
+  - >-
+    https://foxydigitalis.zone/2025/06/05/between-breath-and-dissonance-with-vesna-pisarovic/
+  - 'https://www.songlines.co.uk/review/poravna'
 spotify_data:
   followers: 44955
   id: 7Gqc8wgIVSFkzuTqhLNwV6
   popularity: 38
-  url: https://open.spotify.com/artist/7Gqc8wgIVSFkzuTqhLNwV6
+  url: 'https://open.spotify.com/artist/7Gqc8wgIVSFkzuTqhLNwV6'
 status: active
-title: Vesna Pisarovic, Noel Akchote, Tony Buck, Greg Cohen, Axel Dorne
+title: 'Vesna Pisarovic, Noel Akchote, Tony Buck, Greg Cohen, Axel Dorne'
+birth_date: '1978-04-09'
+artist_type: band
 ---
 
 ![](vesna_pisarovic_noel_akchote_tony_buck_greg_cohen_axel_dorne.jpg)

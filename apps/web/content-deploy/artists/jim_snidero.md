@@ -1,66 +1,66 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63566f5e-a371-44a4-a50d-c2bab366c7a4
-  name: Mike LeDonne's Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63566f5e-a371-44a4-a50d-c2bab366c7a4
+    name: Mike LeDonne's Big Band
 biography_enhanced_at: '2026-01-29T01:58:41.121691'
 birth_date: '1958-05-29'
-birth_place: Redwood City
+birth_place: 'Redwood City, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T01:58:41.121701'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/20638241-3b98-461a-9677-8cb039489326
-  spotify: https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv
-  wikipedia: https://en.wikipedia.org/wiki/Jim_Snidero
+  musicbrainz: 'https://musicbrainz.org/artist/20638241-3b98-461a-9677-8cb039489326'
+  spotify: 'https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jim_Snidero'
 gender: Male
 genres:
-- jazz
-- smooth jazz
+  - jazz
+  - smooth jazz
 image_path: 03_Resources/source_material/ArtistPortraits/jim_snidero.jpg
 last_updated: '2026-01-29T01:58:41.121702'
 musical_connections:
   collaborators:
-  - Brother Jack McDuff
-  - Toshiko Akiyoshi
-  - Frank Sinatra
-  - Eddie Palmieri
-  - Mingus Big Band
-  - Brian Lynch
-  - Tom Harrell
-  - Benny Green
-  - Linda Oh
-  - Rudy Royston
+    - Brother Jack McDuff
+    - Toshiko Akiyoshi
+    - Frank Sinatra
+    - Eddie Palmieri
+    - Mingus Big Band
+    - Brian Lynch
+    - Tom Harrell
+    - Benny Green
+    - Linda Oh
+    - Rudy Royston
   influenced: []
   mentors:
-  - Phil Woods
-  - David Liebman
-  - Jim Murphy
-  - Ron Diehl
-  - Tim Eyerman
+    - Phil Woods
+    - David Liebman
+    - Jim Murphy
+    - Ron Diehl
+    - Tim Eyerman
 musicbrainz_id: 20638241-3b98-461a-9677-8cb039489326
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/jim-snidero/
-- https://en.wikipedia.org/wiki/Jim_Snidero
-- https://jazztimes.com/features/profiles/jim-snidero-explores-south-korea/
-- https://www.jimsnidero.com/jim-snidero-bio/
-- https://www.freshsoundrecords.com/12591-jim-snidero-albums
-- https://www.newschool.edu/jazz/faculty/jim-snidero/
-- https://www.jimsnidero.com
-- https://www.last.fm/music/Jim+Snidero/+wiki
-- https://www.allmusic.com/artist/jim-snidero-mn0000349095
+  - 'https://www.allaboutjazz.com/musicians/jim-snidero/'
+  - 'https://en.wikipedia.org/wiki/Jim_Snidero'
+  - 'https://jazztimes.com/features/profiles/jim-snidero-explores-south-korea/'
+  - 'https://www.jimsnidero.com/jim-snidero-bio/'
+  - 'https://www.freshsoundrecords.com/12591-jim-snidero-albums'
+  - 'https://www.newschool.edu/jazz/faculty/jim-snidero/'
+  - 'https://www.jimsnidero.com'
+  - 'https://www.last.fm/music/Jim+Snidero/+wiki'
+  - 'https://www.allmusic.com/artist/jim-snidero-mn0000349095'
 spotify_data:
   followers: 4795
   id: 210tC5HRo1NpbeqCvWlJuv
   popularity: 33
-  url: https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv
+  url: 'https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv'
 status: active
 tags:
-- jazz
+  - jazz
 title: Jim Snidero
 ---
 

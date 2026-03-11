@@ -3,42 +3,47 @@ biography_enhanced_at: '2026-02-15T01:50:54.038661'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:50:54.038667'
 external_urls:
-  spotify: https://open.spotify.com/artist/0AiTP5tWblVq8Eptq5qrCp
-  wikipedia: https://en.wikipedia.org/wiki/Irvin_Mayfield
+  spotify: 'https://open.spotify.com/artist/0AiTP5tWblVq8Eptq5qrCp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Irvin_Mayfield'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/bill_summers_irvin_mayfield_and_los_hombres_calientes.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bill_summers_irvin_mayfield_and_los_hombres_calientes.jpg
 last_updated: '2026-02-15T01:50:54.038668'
 musical_connections:
   collaborators:
-  - Irvin Mayfield
-  - Jason Marsalis
-  - Yvette Bostic-Summers
-  - Victor “Red” Atkins
-  - Edwin Livingston
-  - Herbie Hancock
+    - Irvin Mayfield
+    - Jason Marsalis
+    - Yvette Bostic-Summers
+    - Victor “Red” Atkins
+    - Edwin Livingston
+    - Herbie Hancock
   influenced:
-  - Kim Provost and Bill Solley
+    - Kim Provost and Bill Solley
   mentors:
-  - Mother of Bill Summers
-  - Wynton Marsalis
+    - Mother of Bill Summers
+    - Wynton Marsalis
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Irvin_Mayfield
-- https://astudiointhewoods.org/artist/bill-summers/
-- https://aaregistry.org/story/bill-summers-global-percussionist-born/
-- https://www.allaboutjazz.com/news/something-else-interview-percussionist-bill-summers-of-the-headhunters/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/los-hombres-calientes
-- https://jazztimes.com/features/profiles/irvin-mayfield-the-cultural-ambassador-of-new-orleans/
-- https://www.frenchquarter.com/marsalis-masters/
+  - 'https://en.wikipedia.org/wiki/Irvin_Mayfield'
+  - 'https://astudiointhewoods.org/artist/bill-summers/'
+  - 'https://aaregistry.org/story/bill-summers-global-percussionist-born/'
+  - >-
+    https://www.allaboutjazz.com/news/something-else-interview-percussionist-bill-summers-of-the-headhunters/
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/los-hombres-calientes
+  - >-
+    https://jazztimes.com/features/profiles/irvin-mayfield-the-cultural-ambassador-of-new-orleans/
+  - 'https://www.frenchquarter.com/marsalis-masters/'
 spotify_data:
   followers: 468
   id: 0AiTP5tWblVq8Eptq5qrCp
   popularity: 3
-  url: https://open.spotify.com/artist/0AiTP5tWblVq8Eptq5qrCp
+  url: 'https://open.spotify.com/artist/0AiTP5tWblVq8Eptq5qrCp'
 status: active
-title: Bill Summers, Irvin Mayfield & Los Hombres Calientes
+title: 'Bill Summers, Irvin Mayfield & Los Hombres Calientes'
+artist_type: person
 ---
 
 ![](bill_summers_irvin_mayfield_and_los_hombres_calientes.jpg)

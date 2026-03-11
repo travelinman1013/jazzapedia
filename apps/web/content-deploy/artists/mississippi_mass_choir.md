@@ -1,63 +1,66 @@
 ---
-artist_type: choir
+artist_type: band
 biography_enhanced_at: '2026-03-09T01:12:07.412143'
 birth_date: '1988'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:12:07.412150'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/59505426-4b66-467f-bcd5-ce0b0f3ef4d8
-  spotify: https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW
-  wikipedia: https://en.wikipedia.org/wiki/Mississippi_Mass_Choir
+  musicbrainz: 'https://musicbrainz.org/artist/59505426-4b66-467f-bcd5-ce0b0f3ef4d8'
+  spotify: 'https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mississippi_Mass_Choir'
 genres:
-- gospel
-- traditional gospel
-- worship
+  - gospel
+  - traditional gospel
+  - worship
 image_path: 03_Resources/source_material/ArtistPortraits/mississippi_mass_choir.jpg
 last_updated: '2026-03-09T01:12:07.412151'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8364fa77-99ef-4d50-969e-2bd2e66a1f44
-  name: Mosie Burks
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b21738b9-4ed7-45a4-8418-b1601d15e237
-  name: Frank Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8364fa77-99ef-4d50-969e-2bd2e66a1f44
+    name: Mosie Burks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b21738b9-4ed7-45a4-8418-b1601d15e237
+    name: Frank Williams
 musical_connections:
   collaborators:
-  - David R. Curry Jr.
-  - Dorcus Curry Thigpen
-  - Jerry Mannery
-  - Willie Neal Johnson
-  - James Moore
+    - David R. Curry Jr.
+    - Dorcus Curry Thigpen
+    - Jerry Mannery
+    - Willie Neal Johnson
+    - James Moore
   influenced: []
   mentors:
-  - Frank Williams
+    - Frank Williams
 musicbrainz_id: 59505426-4b66-467f-bcd5-ce0b0f3ef4d8
 network_extracted: true
-origin: Jackson
+origin: 'Jackson, Mississippi, United States'
 primary_source: perplexity
 research_sources:
-- https://www.mswritersandmusicians.com/mississippi-musicians/mississippi-mass-choir
-- https://journalofgospelmusic.com/gospel/mississippi-mass-choir-the-first-twenty-years-malaco-2008/
-- https://en.wikipedia.org/wiki/Mississippi_Mass_Choir
-- https://madeinmississippi.us/the-mississippi-mass-choir/
-- https://www.last.fm/music/Mississippi+Mass+Choir/+wiki
-- https://www.allamericanspeakers.com/speakers/392287/Mississippi-Mass-Choir
-- https://www.mississippimasschoir.org/frank-williams-sr
+  - >-
+    https://www.mswritersandmusicians.com/mississippi-musicians/mississippi-mass-choir
+  - >-
+    https://journalofgospelmusic.com/gospel/mississippi-mass-choir-the-first-twenty-years-malaco-2008/
+  - 'https://en.wikipedia.org/wiki/Mississippi_Mass_Choir'
+  - 'https://madeinmississippi.us/the-mississippi-mass-choir/'
+  - 'https://www.last.fm/music/Mississippi+Mass+Choir/+wiki'
+  - 'https://www.allamericanspeakers.com/speakers/392287/Mississippi-Mass-Choir'
+  - 'https://www.mississippimasschoir.org/frank-williams-sr'
 spotify_data:
   followers: 205278
   id: 30aMh21vdYVIjdVgIgHaqW
   popularity: 40
-  url: https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW
+  url: 'https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW'
 status: active
 tags:
-- contemporary gospel
-- gospel
-- religious
+  - contemporary gospel
+  - gospel
+  - religious
 title: Mississippi Mass Choir
+death_date: '1993'
 ---
 
 ![](mississippi_mass_choir.jpg)

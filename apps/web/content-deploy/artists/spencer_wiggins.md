@@ -1,60 +1,64 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2ae4dbdb-3ac2-4e9d-a5b8-f6e9b1b084d3
-  name: The Teen Town Singers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2ae4dbdb-3ac2-4e9d-a5b8-f6e9b1b084d3
+    name: The Teen Town Singers
 biography_enhanced_at: '2026-01-24T01:59:17.300501'
 birth_date: '1942-01-08'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 death_date: '2023-02-13'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:59:17.300507'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b125653d-5076-4d82-9d9c-30aa9f89a2d1
-  spotify: https://open.spotify.com/artist/6YXZ3RHXX4m4jMdmGjBlOx
+  musicbrainz: 'https://musicbrainz.org/artist/b125653d-5076-4d82-9d9c-30aa9f89a2d1'
+  spotify: 'https://open.spotify.com/artist/6YXZ3RHXX4m4jMdmGjBlOx'
   wikipedia: ''
 gender: Male
 genres:
-- northern soul
-- soul
-- classic soul
+  - northern soul
+  - soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/spencer_wiggins.jpg
 last_updated: '2026-01-24T01:59:17.300508'
 musical_connections:
   collaborators:
-  - Quinton Claunch
-  - Isaac Hayes
-  - Dan Penn and Spooner Oldham
-  - Al Green
-  - Gene “Bowlegs” Miller
-  - Howard Grimes
+    - Quinton Claunch
+    - Isaac Hayes
+    - Dan Penn and Spooner Oldham
+    - Al Green
+    - Gene “Bowlegs” Miller
+    - Howard Grimes
   influenced: []
   mentors:
-  - New Friendship Baptist Church
+    - New Friendship Baptist Church
 musicbrainz_id: b125653d-5076-4d82-9d9c-30aa9f89a2d1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blog.ponderosastomp.com/2013/08/6230/
-- https://dereksmusicblog.com/2019/06/17/the-spencer-wiggins-story/
-- https://www.musicmetricsvault.com/artists/spencer-wiggins/6YXZ3RHXX4m4jMdmGjBlOx
-- https://fromthevaults-boppinbob.blogspot.com/2024/01/spencer-wiggins-born-8-january-1942.html
-- https://www.soulexpress.net/spencerwiggins_interview.htm
-- https://www.bear-family.com/wiggins-spencer/
-- https://www.acerecords.co.uk/news/2023/spencer-wiggins
+  - 'https://blog.ponderosastomp.com/2013/08/6230/'
+  - 'https://dereksmusicblog.com/2019/06/17/the-spencer-wiggins-story/'
+  - >-
+    https://www.musicmetricsvault.com/artists/spencer-wiggins/6YXZ3RHXX4m4jMdmGjBlOx
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/01/spencer-wiggins-born-8-january-1942.html
+  - 'https://www.soulexpress.net/spencerwiggins_interview.htm'
+  - 'https://www.bear-family.com/wiggins-spencer/'
+  - 'https://www.acerecords.co.uk/news/2023/spencer-wiggins'
 spotify_data:
   followers: 5470
   id: 6YXZ3RHXX4m4jMdmGjBlOx
   popularity: 16
-  url: https://open.spotify.com/artist/6YXZ3RHXX4m4jMdmGjBlOx
+  url: 'https://open.spotify.com/artist/6YXZ3RHXX4m4jMdmGjBlOx'
 status: active
 tags:
-- r&b
-- soul
+  - r&b
+  - soul
 title: Spencer Wiggins
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](spencer_wiggins.jpg)

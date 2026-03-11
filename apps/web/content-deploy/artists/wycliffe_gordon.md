@@ -1,52 +1,55 @@
 ---
 biography_enhanced_at: '2026-01-27T01:48:41.522014'
-birth_place: Waynesboro, Georgia, United States
+birth_place: 'Waynesboro, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:48:41.522024'
 external_urls:
-  spotify: https://open.spotify.com/artist/3XpQZYLkyv9lwvnjL81dXg
-  wikipedia: https://en.wikipedia.org/wiki/Wycliffe_Gordon
+  spotify: 'https://open.spotify.com/artist/3XpQZYLkyv9lwvnjL81dXg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wycliffe_Gordon'
 genres:
-- christian jazz
-- jazz
-- big band
-- bebop
-- jazz ballads
+  - christian jazz
+  - jazz
+  - big band
+  - bebop
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/wycliffe_gordon.jpg
 last_updated: '2026-01-27T01:48:41.522025'
 musical_connections:
   collaborators:
-  - Wynton Marsalis
-  - Lincoln Center Jazz Orchestra
-  - Dizzy Gillespie
-  - Branford Marsalis
-  - Paul Simon
+    - Wynton Marsalis
+    - Lincoln Center Jazz Orchestra
+    - Dizzy Gillespie
+    - Branford Marsalis
+    - Paul Simon
   influenced:
-  - Young musicians worldwide
+    - Young musicians worldwide
   mentors:
-  - Lucius Gordon
-  - Wynton Marsalis
-  - Don Milford
-  - Marcus Roberts
-  - Louis Armstrong
+    - Lucius Gordon
+    - Wynton Marsalis
+    - Don Milford
+    - Marcus Roberts
+    - Louis Armstrong
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://usa.yamaha.com/artists/w/wycliffe_gordon_yq.html
-- https://wycliffegordon.com/bio/
-- https://en.wikipedia.org/wiki/Wycliffe_Gordon
-- https://www.augusta.edu/pamplin/music/wycliffe_gordon.php
-- https://jazztimes.com/features/profiles/wycliffe-gordon-the-beautiful-soul-of/
-- https://my.jazzstl.org/1925/1964
-- https://garciamusic.com/educator/articles/wycliffe.gordon.html
-- https://centrum.org/staff/name/wycliffe-gordon/
+  - 'https://usa.yamaha.com/artists/w/wycliffe_gordon_yq.html'
+  - 'https://wycliffegordon.com/bio/'
+  - 'https://en.wikipedia.org/wiki/Wycliffe_Gordon'
+  - 'https://www.augusta.edu/pamplin/music/wycliffe_gordon.php'
+  - >-
+    https://jazztimes.com/features/profiles/wycliffe-gordon-the-beautiful-soul-of/
+  - 'https://my.jazzstl.org/1925/1964'
+  - 'https://garciamusic.com/educator/articles/wycliffe.gordon.html'
+  - 'https://centrum.org/staff/name/wycliffe-gordon/'
 spotify_data:
   followers: 17022
   id: 3XpQZYLkyv9lwvnjL81dXg
   popularity: 29
-  url: https://open.spotify.com/artist/3XpQZYLkyv9lwvnjL81dXg
+  url: 'https://open.spotify.com/artist/3XpQZYLkyv9lwvnjL81dXg'
 status: active
 title: Wycliffe Gordon
+birth_date: '1967-05-29'
+artist_type: person
 ---
 
 ![](wycliffe_gordon.jpg)

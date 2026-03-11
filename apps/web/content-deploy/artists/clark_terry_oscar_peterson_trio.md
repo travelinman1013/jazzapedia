@@ -1,53 +1,59 @@
 ---
 biography_enhanced_at: '2026-01-24T01:56:11.263690'
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:56:11.263696'
 external_urls:
-  spotify: https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU
-  wikipedia: https://en.wikipedia.org/wiki/Clark_Terry
+  spotify: 'https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clark_Terry'
 genres:
-- hard bop
-- latin jazz
-- jazz
-- afro-cuban jazz
-- bebop
-- cool jazz
-- big band
-- jazz ballads
-image_path: 03_Resources/source_material/ArtistPortraits/clark_terry_oscar_peterson_trio.jpg
+  - hard bop
+  - latin jazz
+  - jazz
+  - afro-cuban jazz
+  - bebop
+  - cool jazz
+  - big band
+  - jazz ballads
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/clark_terry_oscar_peterson_trio.jpg
 last_updated: '2026-01-24T01:56:11.263697'
 musical_connections:
   collaborators:
-  - Oscar Peterson
-  - Bob Brookmeyer
-  - Quincy Jones
+    - Oscar Peterson
+    - Bob Brookmeyer
+    - Quincy Jones
   influenced:
-  - Miles Davis
-  - Quincy Jones
-  - Wynton Marsalis
+    - Miles Davis
+    - Quincy Jones
+    - Wynton Marsalis
   mentors:
-  - Count Basie
-  - Duke Ellington
+    - Count Basie
+    - Duke Ellington
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazztimes.com/features/tributes-and-obituaries/clark-terry-1920-2015/
-- https://en.wikipedia.org/wiki/Oscar_Peterson_Trio_+_One
-- https://livingjazzarchives.org/archives/clark-terry-archive/
-- https://en.wikipedia.org/wiki/Clark_Terry
-- https://clarkterry.com/biography/
-- https://www.kcrw.com/stories/how-jazz-trumpeter-clark-terry-kept-on
-- https://www.allmusic.com/album/jazz-biography-series-mw0000214256
-- https://downbeat.com/archives/detail/clark-terry-optimistic-pioneer
-- https://newmusicusa.org/nmbx/missing-the-gig-remembering-clark-terry-1920-2015/
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/clark-terry-1920-2015/
+  - 'https://en.wikipedia.org/wiki/Oscar_Peterson_Trio_+_One'
+  - 'https://livingjazzarchives.org/archives/clark-terry-archive/'
+  - 'https://en.wikipedia.org/wiki/Clark_Terry'
+  - 'https://clarkterry.com/biography/'
+  - 'https://www.kcrw.com/stories/how-jazz-trumpeter-clark-terry-kept-on'
+  - 'https://www.allmusic.com/album/jazz-biography-series-mw0000214256'
+  - 'https://downbeat.com/archives/detail/clark-terry-optimistic-pioneer'
+  - >-
+    https://newmusicusa.org/nmbx/missing-the-gig-remembering-clark-terry-1920-2015/
 spotify_data:
   followers: 30060
   id: 62xdwGEOLoGQxKUqoJusyU
   popularity: 39
-  url: https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU
+  url: 'https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU'
 status: active
-title: Clark Terry, Oscar Peterson Trio
+title: 'Clark Terry, Oscar Peterson Trio'
+birth_date: '1920'
+death_date: '2015'
+artist_type: person
 ---
 
 ![](clark_terry_oscar_peterson_trio.jpg)

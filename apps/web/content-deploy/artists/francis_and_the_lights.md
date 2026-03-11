@@ -1,69 +1,71 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-03T01:38:38.672722'
-birth_date: '2007'
+birth_date: '1981-06-14'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:38:38.672732'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d1073d49-539c-46b9-9b79-597b232a9a3c
-  spotify: https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI
-  wikipedia: https://en.wikipedia.org/wiki/Francis_and_the_Lights
+  musicbrainz: 'https://musicbrainz.org/artist/d1073d49-539c-46b9-9b79-597b232a9a3c'
+  spotify: 'https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Francis_and_the_Lights'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/francis_and_the_lights.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2026-03-03T01:38:38.672734'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cb8208e6-7ce1-485b-9293-e6471a68e4e9
-  name: Jeremy Most
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d8a8019b-49e3-4372-bc72-92781b417de5
-  name: Jake Schreier
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4c573ae1-ba05-4a38-bcf5-5ffa2abdacb4
-  name: Francis Starlite
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3734c549-5726-414a-a66c-72bb96c6bc2b
-  name: Max Tucker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cb8208e6-7ce1-485b-9293-e6471a68e4e9
+    name: Jeremy Most
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d8a8019b-49e3-4372-bc72-92781b417de5
+    name: Jake Schreier
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4c573ae1-ba05-4a38-bcf5-5ffa2abdacb4
+    name: Francis Starlite
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3734c549-5726-414a-a66c-72bb96c6bc2b
+    name: Max Tucker
 musical_connections:
   collaborators:
-  - Drake
-  - Kanye West
-  - Chance the Rapper
-  - Justin Vernon (Bon Iver)
-  - Jake Lodwick
-  - Cashmere Cat, Ariel Rechtshaid, Rostam Batmanglij, Benny Blanco, Nate Fox
+    - Drake
+    - Kanye West
+    - Chance the Rapper
+    - Justin Vernon (Bon Iver)
+    - Jake Lodwick
+    - 'Cashmere Cat, Ariel Rechtshaid, Rostam Batmanglij, Benny Blanco, Nate Fox'
   influenced: []
   mentors:
-  - Otis Redding
-  - Michael Jackson and Prince
+    - Otis Redding
+    - Michael Jackson and Prince
 musicbrainz_id: d1073d49-539c-46b9-9b79-597b232a9a3c
 network_extracted: true
-origin: Oakland
+origin: 'Oakland, California, United States'
 primary_source: perplexity
 research_sources:
-- https://diymag.com/feature/in-a-nutshell-francis-and-the-lights
-- https://en.wikipedia.org/wiki/Francis_and_the_Lights
-- https://www.thesnipenews.com/2010/07/francis-and-the-lights/
-- https://eastbayexpress.com/turning-on-francis-and-the-lights-1/
-- https://www.out.com/entertainment/interviews/2011/05/19/need-know-francis-and-lights
-- http://theartsstl.com/francis-and-the-lights-just-for-us-kttf/
+  - 'https://diymag.com/feature/in-a-nutshell-francis-and-the-lights'
+  - 'https://en.wikipedia.org/wiki/Francis_and_the_Lights'
+  - 'https://www.thesnipenews.com/2010/07/francis-and-the-lights/'
+  - 'https://eastbayexpress.com/turning-on-francis-and-the-lights-1/'
+  - >-
+    https://www.out.com/entertainment/interviews/2011/05/19/need-know-francis-and-lights
+  - 'http://theartsstl.com/francis-and-the-lights-just-for-us-kttf/'
 spotify_data:
   followers: 193909
   id: 23EA28263XvtIrXuySX6oI
   popularity: 50
-  url: https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI
+  url: 'https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI'
 status: active
-title: FRANCIS AND THE LIGHTS
+title: Francis and the Lights
+birth_place: 'Oakland, California, United States'
 ---
 
 ![](francis_and_the_lights.jpg)

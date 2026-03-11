@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-25T01:59:29.848360'
-birth_place: Detroit, Michigan, USA (fictional birthplace)
+birth_place: 'Detroit, Michigan, USA (fictional birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T01:59:29.848370'
 external_urls:
-  spotify: https://open.spotify.com/artist/7yR2fkvWz02Bkn0bEiJpDx
+  spotify: 'https://open.spotify.com/artist/7yR2fkvWz02Bkn0bEiJpDx'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/marvin_pontiac.jpg
 last_updated: '2026-02-25T01:59:29.848372'
 musical_connections:
   collaborators:
-  - John Lurie
-  - Marc Ribot
-  - Tony Scherr
-  - John Medeski
-  - Billy Martin
-  - G. Calvin Weston
+    - John Lurie
+    - Marc Ribot
+    - Tony Scherr
+    - John Medeski
+    - Billy Martin
+    - G. Calvin Weston
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://greilmarcus.substack.com/p/the-days-between-stations-columns-52f
-- https://www.last.fm/music/Marvin+Pontiac/+wiki
-- https://bombmagazine.org/articles/2000/07/01/the-legendary-marvin-pontiacs-greatest-hits/
-- https://stuckbetweenstations.org/2017/11/28/marvin-pontiac-the-asylum-tapes/
-- https://fakebands.com/wiki/index.php?title=Marvin_Pontiac
-- https://www.allmusic.com/artist/marvin-pontiac-mn0000860070
+  - 'https://greilmarcus.substack.com/p/the-days-between-stations-columns-52f'
+  - 'https://www.last.fm/music/Marvin+Pontiac/+wiki'
+  - >-
+    https://bombmagazine.org/articles/2000/07/01/the-legendary-marvin-pontiacs-greatest-hits/
+  - 'https://stuckbetweenstations.org/2017/11/28/marvin-pontiac-the-asylum-tapes/'
+  - 'https://fakebands.com/wiki/index.php?title=Marvin_Pontiac'
+  - 'https://www.allmusic.com/artist/marvin-pontiac-mn0000860070'
 spotify_data:
   followers: 20964
   id: 7yR2fkvWz02Bkn0bEiJpDx
   popularity: 22
-  url: https://open.spotify.com/artist/7yR2fkvWz02Bkn0bEiJpDx
+  url: 'https://open.spotify.com/artist/7yR2fkvWz02Bkn0bEiJpDx'
 status: active
 title: Marvin Pontiac
+death_date: '1977'
+artist_type: person
 ---
 
 ![](marvin_pontiac.jpg)

@@ -1,38 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-30T01:18:52.126558'
-birth_place: Bamberg, South Carolina, United States
+birth_place: 'Bamberg, South Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:18:52.126564'
 external_urls:
-  spotify: https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH
-  wikipedia: https://en.wikipedia.org/wiki/Baby_Washington
+  spotify: 'https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Baby_Washington'
 genres:
-- northern soul
-- doo-wop
+  - northern soul
+  - doo-wop
 image_path: 03_Resources/source_material/ArtistPortraits/baby_washington.jpg
 last_updated: '2026-01-30T01:18:52.126564'
 musical_connections:
   collaborators:
-  - The Hearts
-  - The Jaynetts
-  - Don Gardner
+    - The Hearts
+    - The Jaynetts
+    - Don Gardner
   influenced:
-  - Dusty Springfield
+    - Dusty Springfield
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Baby_Washington
-- https://fromthevaults-boppinbob.blogspot.com/2020/11/baby-washington-born-13-november-1940.html
-- https://www.last.fm/music/Baby+Washington/+wiki
-- https://popdose.com/soul-serenade-baby-washington-thats-how-heartaches-are-made/
+  - 'https://en.wikipedia.org/wiki/Baby_Washington'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/11/baby-washington-born-13-november-1940.html
+  - 'https://www.last.fm/music/Baby+Washington/+wiki'
+  - >-
+    https://popdose.com/soul-serenade-baby-washington-thats-how-heartaches-are-made/
 spotify_data:
   followers: 15323
   id: 29afta7TiMlvY1fkgaFJcH
   popularity: 24
-  url: https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH
+  url: 'https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH'
 status: active
-title: baby washington
+title: Baby Washington
+birth_date: '1940-11-13'
+artist_type: person
 ---
 
 ![](baby_washington.jpg)

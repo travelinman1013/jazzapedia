@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-03-04T01:45:59.591832'
-birth_place: Hawthorne, Los Angeles County, California, United States
+birth_place: 'Hawthorne, Los Angeles County, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-04T01:45:59.591843'
 external_urls:
-  spotify: https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF
+  spotify: 'https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/tyler_the_creator_brent_faiyaz_fana_hues.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/tyler_the_creator_brent_faiyaz_fana_hues.jpg
 last_updated: '2026-03-04T01:45:59.591845'
 musical_connections:
   collaborators:
-  - Hodgy
-  - Left Brain
-  - Casey Veggies
-  - Earl Sweatshirt
-  - Domo Genesis
-  - A$AP Rocky
+    - Hodgy
+    - Left Brain
+    - Casey Veggies
+    - Earl Sweatshirt
+    - Domo Genesis
+    - A$AP Rocky
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.hiphopscriptures.com/tyler-the-creator
-- https://kids.kiddle.co/Tyler,_the_Creator
-- https://www.last.fm/music/Tyler,+The+Creator/+wiki
-- https://tylerthecreator.fandom.com/wiki/Tyler,_the_Creator
-- https://teachrock.org/traceitback/tyler-the-creator/
-- https://www.britannica.com/biography/Tyler-the-Creator
+  - 'https://www.hiphopscriptures.com/tyler-the-creator'
+  - 'https://kids.kiddle.co/Tyler,_the_Creator'
+  - 'https://www.last.fm/music/Tyler,+The+Creator/+wiki'
+  - 'https://tylerthecreator.fandom.com/wiki/Tyler,_the_Creator'
+  - 'https://teachrock.org/traceitback/tyler-the-creator/'
+  - 'https://www.britannica.com/biography/Tyler-the-Creator'
 spotify_data:
   followers: 26032153
   id: 4V8LLVI7PbaPR0K2TGSxFF
   popularity: 84
-  url: https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF
+  url: 'https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF'
 status: active
-title: Tyler, The Creator, Brent Faiyaz, Fana Hues
+title: 'Tyler, The Creator'
+birth_date: '1991-03-06'
+artist_type: person
 ---
 
 ![](tyler_the_creator_brent_faiyaz_fana_hues.jpg)

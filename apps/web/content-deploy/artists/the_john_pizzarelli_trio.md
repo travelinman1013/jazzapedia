@@ -3,43 +3,46 @@ biography_enhanced_at: '2026-02-09T01:19:06.073461'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:19:06.073477'
 external_urls:
-  spotify: https://open.spotify.com/artist/4s4a42DFyQcFXKzUEWbcdv
-  wikipedia: https://en.wikipedia.org/wiki/John_Pizzarelli
+  spotify: 'https://open.spotify.com/artist/4s4a42DFyQcFXKzUEWbcdv'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Pizzarelli'
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: ''
 last_updated: '2026-02-09T01:19:06.073481'
 musical_connections:
   collaborators:
-  - Martin Pizzarelli
-  - Ray Kennedy
-  - Frank Sinatra
-  - George Shearing
+    - Martin Pizzarelli
+    - Ray Kennedy
+    - Frank Sinatra
+    - George Shearing
   influenced: []
   mentors:
-  - Bucky Pizzarelli
-  - Tony Monte
-  - João Gilberto
+    - Bucky Pizzarelli
+    - Tony Monte
+    - João Gilberto
 network_extracted: true
-origin: Paterson, New Jersey, United States
+origin: 'Paterson, New Jersey, United States'
 primary_source: perplexity
 research_sources:
-- http://pizzarellifanpage.com/biography/biography.html
-- https://www.laphil.com/musicdb/artists/4238/the-john-pizzarelli-trio
-- https://en.wikipedia.org/wiki/John_Pizzarelli
-- https://concord.com/artist/john-pizzarelli/
-- https://summerfest.sanjosejazz.org/artists/john-pizzarelli-trio
-- https://jazzalley.com/www-home/artist.jsp?shownum=6349
-- https://www.johnpizzarelli.com
-- https://www.allaboutjazz.com/musicians/john-pizzarelli/
-- https://www.thekurlandagency.com/artist/john-pizzarelli/
+  - 'http://pizzarellifanpage.com/biography/biography.html'
+  - 'https://www.laphil.com/musicdb/artists/4238/the-john-pizzarelli-trio'
+  - 'https://en.wikipedia.org/wiki/John_Pizzarelli'
+  - 'https://concord.com/artist/john-pizzarelli/'
+  - 'https://summerfest.sanjosejazz.org/artists/john-pizzarelli-trio'
+  - 'https://jazzalley.com/www-home/artist.jsp?shownum=6349'
+  - 'https://www.johnpizzarelli.com'
+  - 'https://www.allaboutjazz.com/musicians/john-pizzarelli/'
+  - 'https://www.thekurlandagency.com/artist/john-pizzarelli/'
 spotify_data:
   followers: 684
   id: 4s4a42DFyQcFXKzUEWbcdv
   popularity: 15
-  url: https://open.spotify.com/artist/4s4a42DFyQcFXKzUEWbcdv
+  url: 'https://open.spotify.com/artist/4s4a42DFyQcFXKzUEWbcdv'
 status: active
 title: The John Pizzarelli Trio
+birth_place: 'Paterson, New Jersey, United States'
+birth_date: '1960-04-06'
+artist_type: person
 ---
 
 ![]()

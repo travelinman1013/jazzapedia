@@ -3,40 +3,45 @@ biography_enhanced_at: '2026-01-28T01:50:07.284890'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:50:07.284902'
 external_urls:
-  spotify: https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf
-  wikipedia: https://en.wikipedia.org/wiki/Yukimi_Nagano
+  spotify: 'https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yukimi_Nagano'
 genres:
-- nu jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/yttling_jazz_and_yukimi.jpg
 last_updated: '2026-01-28T01:50:07.284904'
 musical_connections:
   collaborators:
-  - Björn Yttling
-  - Nils Berg
-  - Tobias Wiklund
-  - Erik Bodin
-  - Fredrik Wallin
-  - Håkan Wirenstrand
+    - Björn Yttling
+    - Nils Berg
+    - Tobias Wiklund
+    - Erik Bodin
+    - Fredrik Wallin
+    - Håkan Wirenstrand
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://yukimi-music.com/bio/
-- https://www.fasching.se/en/yukimi/
-- https://www.teamwass.com/music/yukimi/
-- https://en.wikipedia.org/wiki/Yukimi_Nagano
-- https://floodmagazine.com/215510/listen-yttling-jazz-yukimi-distant-star/
-- https://theneedledrop.com/news/yttling-jazz-recruits-little-dragons-yukimi-for-new-single/
-- https://earth-agency.com/artist/yttling-jazz/
-- https://index.year0001.com/article/yttling-jazz
+  - 'https://yukimi-music.com/bio/'
+  - 'https://www.fasching.se/en/yukimi/'
+  - 'https://www.teamwass.com/music/yukimi/'
+  - 'https://en.wikipedia.org/wiki/Yukimi_Nagano'
+  - 'https://floodmagazine.com/215510/listen-yttling-jazz-yukimi-distant-star/'
+  - >-
+    https://theneedledrop.com/news/yttling-jazz-recruits-little-dragons-yukimi-for-new-single/
+  - 'https://earth-agency.com/artist/yttling-jazz/'
+  - 'https://index.year0001.com/article/yttling-jazz'
 spotify_data:
   followers: 4365
   id: 34U611pEEfxLSRX3NIPcHf
   popularity: 33
-  url: https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf
+  url: 'https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf'
 status: active
 title: Yttling Jazz & Yukimi
+birth_place: 'Gothenburg, Sweden, Sweden'
+origin: 'Gothenburg, Sweden, Sweden'
+birth_date: '1982-01-31'
+artist_type: band
 ---
 
 ![](yttling_jazz_and_yukimi.jpg)

@@ -2,57 +2,60 @@
 artist_type: person
 biography_enhanced_at: '2026-02-10T01:53:09.923742'
 birth_date: '1917-02-09'
-birth_place: De Valls Bluff
+birth_place: 'De Valls Bluff, Arkansas, United States'
 death_date: '1988-04-26'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:53:09.923752'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b6510b28-4c48-4038-aa67-54ab4c8b98c3
-  spotify: https://open.spotify.com/artist/0OovTcKpzwV4WxuD9nDenN
-  wikipedia: https://en.wikipedia.org/wiki/Arbee_Stidham
+  musicbrainz: 'https://musicbrainz.org/artist/b6510b28-4c48-4038-aa67-54ab4c8b98c3'
+  spotify: 'https://open.spotify.com/artist/0OovTcKpzwV4WxuD9nDenN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Arbee_Stidham'
 gender: Male
 genres:
-- classic blues
-- blues
-- jazz ballads
+  - classic blues
+  - blues
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/arbee_stidham.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-02-10T01:53:09.923755'
 musical_connections:
   collaborators:
-  - Bessie Smith
-  - Lester Melrose
-  - King Curtis
-  - Leonard Gaskin
-  - Memphis Slim
-  - Willie Dixon
-  - Robert Lockwood Jr.
+    - Bessie Smith
+    - Lester Melrose
+    - King Curtis
+    - Leonard Gaskin
+    - Memphis Slim
+    - Willie Dixon
+    - Robert Lockwood Jr.
   influenced: []
   mentors:
-  - Big Bill Broonzy
+    - Big Bill Broonzy
 musicbrainz_id: b6510b28-4c48-4038-aa67-54ab4c8b98c3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Arbee_Stidham
-- https://fromthevaults-boppinbob.blogspot.com/2020/02/arbee-stidham-born-9-february-1917.html
-- https://concord.com/concord-albums/tired-of-wandering/
-- https://www.bmansbluesreport.com/2013/02/bluesman-arbee-stidham.html
-- https://www.allmusic.com/artist/arbee-stidham-mn0000928363
-- https://folkways.si.edu/arbee-stidham/arbees-blues/music/album/smithsonian
-- https://egrojworld.blogspot.com/2018/03/arbee-stidham-blues-of-arbee-stidham.html
+  - 'https://en.wikipedia.org/wiki/Arbee_Stidham'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/02/arbee-stidham-born-9-february-1917.html
+  - 'https://concord.com/concord-albums/tired-of-wandering/'
+  - 'https://www.bmansbluesreport.com/2013/02/bluesman-arbee-stidham.html'
+  - 'https://www.allmusic.com/artist/arbee-stidham-mn0000928363'
+  - 'https://folkways.si.edu/arbee-stidham/arbees-blues/music/album/smithsonian'
+  - >-
+    https://egrojworld.blogspot.com/2018/03/arbee-stidham-blues-of-arbee-stidham.html
 spotify_data:
   followers: 327
   id: 0OovTcKpzwV4WxuD9nDenN
   popularity: 2
-  url: https://open.spotify.com/artist/0OovTcKpzwV4WxuD9nDenN
+  url: 'https://open.spotify.com/artist/0OovTcKpzwV4WxuD9nDenN'
 status: active
 tags:
-- blues
-- chicago blues
-- electric blues
-title: ARBEE STIDHAM
+  - blues
+  - chicago blues
+  - electric blues
+title: Arbee Stidham
+is_active: false
 ---
 
 ![](arbee_stidham.jpg)

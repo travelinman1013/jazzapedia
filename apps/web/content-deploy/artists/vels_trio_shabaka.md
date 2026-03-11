@@ -1,50 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-06T01:07:38.025575'
-birth_place: London, England, United Kingdom
+birth_place: 'London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:07:38.025588'
 external_urls:
-  spotify: https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l
-  wikipedia: https://en.wikipedia.org/wiki/Shabaka_Hutchings
+  spotify: 'https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shabaka_Hutchings'
 genres:
-- nu jazz
-- indie jazz
-- jazz fusion
-- experimental jazz
+  - nu jazz
+  - indie jazz
+  - jazz fusion
+  - experimental jazz
 image_path: 03_Resources/source_material/ArtistPortraits/vels_trio_shabaka.jpg
 last_updated: '2026-02-06T01:07:38.025590'
 musical_connections:
   collaborators:
-  - Theon Cross
-  - Dan Leavers and Max Hallett
-  - Shabaka and the Ancestors members
-  - Mulatu Astatke
-  - Floating Points
-  - Sun Ra Arkestra
+    - Theon Cross
+    - Dan Leavers and Max Hallett
+    - Shabaka and the Ancestors members
+    - Mulatu Astatke
+    - Floating Points
+    - Sun Ra Arkestra
   influenced:
-  - Nubya Garcia
-  - Theon Cross
-  - Moses Boyd, Kokoroko, Nérija, Ezra Collective
+    - Nubya Garcia
+    - Theon Cross
+    - 'Moses Boyd, Kokoroko, Nérija, Ezra Collective'
   mentors:
-  - Gary Crosby and Janine Irons
-  - Abram Wilson
-  - Louis Moholo
-  - Steve Lacy
+    - Gary Crosby and Janine Irons
+    - Abram Wilson
+    - Louis Moholo
+    - Steve Lacy
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Shabaka_Hutchings
-- https://www.everythingjazz.com/story/shabaka-i-see-myself-as-a-producer/
-- https://jazztimes.com/features/lists/shabaka-hutchings-before-after/
-- https://daily.redbullmusicacademy.com/2016/04/shabaka-hutchings/
-- https://jazzmiddelheim.eu/artists/shabaka
+  - 'https://en.wikipedia.org/wiki/Shabaka_Hutchings'
+  - 'https://www.everythingjazz.com/story/shabaka-i-see-myself-as-a-producer/'
+  - 'https://jazztimes.com/features/lists/shabaka-hutchings-before-after/'
+  - 'https://daily.redbullmusicacademy.com/2016/04/shabaka-hutchings/'
+  - 'https://jazzmiddelheim.eu/artists/shabaka'
 spotify_data:
   followers: 30273
   id: 68ZVpxiS12BeN3EgBgXW0l
   popularity: 32
-  url: https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l
+  url: 'https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l'
 status: active
-title: Vels Trio, Shabaka
+title: 'Vels Trio, Shabaka'
+birth_date: '1984'
+artist_type: person
 ---
 
 ![](vels_trio_shabaka.jpg)

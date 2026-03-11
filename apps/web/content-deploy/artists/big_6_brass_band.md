@@ -1,50 +1,50 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-13T01:25:53.821198'
 birth_date: '2017'
-disambiguation: Brass Band from New Orelans, formed in 2017
+disambiguation: 'Brass Band from New Orelans, formed in 2017'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:25:53.821221'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/06222ada-46c8-4ce2-9745-2681a6701a11
-  spotify: https://open.spotify.com/artist/78gVxhVyYMqtcybf8B0Cwb
+  musicbrainz: 'https://musicbrainz.org/artist/06222ada-46c8-4ce2-9745-2681a6701a11'
+  spotify: 'https://open.spotify.com/artist/78gVxhVyYMqtcybf8B0Cwb'
   wikipedia: ''
 genres:
-- brass band
-- new orleans bounce
+  - brass band
+  - new orleans bounce
 image_path: 03_Resources/source_material/ArtistPortraits/big_6_brass_band.jpg
 last_updated: '2026-02-13T01:25:53.821222'
 musical_connections:
   collaborators:
-  - Eric Gordon
-  - Lamar Heard
-  - Clifton Smith
-  - Pierre Carter
-  - Thaddeus Ramsey
-  - Chris Tero
-  - Dwayne Finnie
-  - Chadrick Honore
-  - Chris Cotton
-  - Utopia Francis
+    - Eric Gordon
+    - Lamar Heard
+    - Clifton Smith
+    - Pierre Carter
+    - Thaddeus Ramsey
+    - Chris Tero
+    - Dwayne Finnie
+    - Chadrick Honore
+    - Chris Cotton
+    - Utopia Francis
   influenced: []
   mentors: []
 musicbrainz_id: 06222ada-46c8-4ce2-9745-2681a6701a11
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/news/378180/
-- https://bigsixbrassband.com
-- https://www.youtube.com/watch?v=SFJQ-4TtzXo
-- https://www.neworleans.com/listing/big-6-brass-band/46305/
-- https://music.youtube.com/channel/UCSevkTOyNqNbaSF-muiN-92Q
+  - 'https://www.offbeat.com/news/378180/'
+  - 'https://bigsixbrassband.com'
+  - 'https://www.youtube.com/watch?v=SFJQ-4TtzXo'
+  - 'https://www.neworleans.com/listing/big-6-brass-band/46305/'
+  - 'https://music.youtube.com/channel/UCSevkTOyNqNbaSF-muiN-92Q'
 spotify_data:
   followers: 1101
   id: 78gVxhVyYMqtcybf8B0Cwb
   popularity: 5
-  url: https://open.spotify.com/artist/78gVxhVyYMqtcybf8B0Cwb
+  url: 'https://open.spotify.com/artist/78gVxhVyYMqtcybf8B0Cwb'
 status: active
-title: big 6 brass band
+title: Big 6 Brass Band
 ---
 
 ![](big_6_brass_band.jpg)

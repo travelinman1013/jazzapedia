@@ -1,99 +1,100 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-20T01:18:24.690156'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:18:24.690165'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4fdddb48-b8a0-470d-9db4-e5fc77230d59
-  spotify: https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO
+  musicbrainz: 'https://musicbrainz.org/artist/4fdddb48-b8a0-470d-9db4-e5fc77230d59'
+  spotify: 'https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO'
   wikipedia: ''
 genres:
-- indie jazz
-- jazz rap
-- nu jazz
+  - indie jazz
+  - jazz rap
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/nubiyan_twist.jpg
 last_updated: '2026-02-20T01:18:24.690167'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 062eca50-f45d-4b43-8ba4-f27041cf05fb
-  name: Pilo Adami
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 061e2396-8453-4299-9ead-ed2c4a3f8c95
-  name: Finn Booth
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 54d8b781-3d47-4e45-bf87-39b12c515c06
-  name: Nubiya Brandon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c7ad35c4-a650-4184-9910-d4eeb3d529bc
-  name: Oliver Cadman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7c78b7b1-d950-4c1e-b086-7c47182adf5f
-  name: Jonny Enser
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b8f090b9-3a40-4c3f-b3e1-f7f3b6b37c95
-  name: Tom Excell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 08407617-ed37-44fc-9976-ef2d32235e63
-  name: Joe Henwood
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4aafbd21-5c30-4afd-be82-f6faf74f3373
-  name: Nick Richards
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b7aeacca-a7f1-4cb1-b167-5874fe3dbcea
-  name: Luke Wynter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 062eca50-f45d-4b43-8ba4-f27041cf05fb
+    name: Pilo Adami
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 061e2396-8453-4299-9ead-ed2c4a3f8c95
+    name: Finn Booth
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 54d8b781-3d47-4e45-bf87-39b12c515c06
+    name: Nubiya Brandon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c7ad35c4-a650-4184-9910-d4eeb3d529bc
+    name: Oliver Cadman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7c78b7b1-d950-4c1e-b086-7c47182adf5f
+    name: Jonny Enser
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b8f090b9-3a40-4c3f-b3e1-f7f3b6b37c95
+    name: Tom Excell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 08407617-ed37-44fc-9976-ef2d32235e63
+    name: Joe Henwood
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4aafbd21-5c30-4afd-be82-f6faf74f3373
+    name: Nick Richards
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b7aeacca-a7f1-4cb1-b167-5874fe3dbcea
+    name: Luke Wynter
 musical_connections:
   collaborators:
-  - Joe Henwood
-  - Finn Booth
-  - Pilo Adami
-  - Nubiya Brandon
-  - Aziza Jaye
-  - Tony Allen
-  - Mulatu Astatke
+    - Joe Henwood
+    - Finn Booth
+    - Pilo Adami
+    - Nubiya Brandon
+    - Aziza Jaye
+    - Tony Allen
+    - Mulatu Astatke
   influenced: []
   mentors:
-  - Fela Kuti
+    - Fela Kuti
 musicbrainz_id: 4fdddb48-b8a0-470d-9db4-e5fc77230d59
 network_extracted: true
-origin: Leeds
+origin: 'Leeds, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Nubiyan+Twist/+wiki
-- https://jazztimes.com/features/profiles/nubiyan-twist-real-life-stories/
-- https://www.grazia.co.in/lifestyle/how-nubiyan-twist-keeps-music-collective-in-the-age-of-self-branding-15161.html
-- https://k7.com/nubiyan-twistfind-your-flame/
-- https://prsfoundation.com/grantees/momentum-nubiyan-twist/
-- https://www.popmatters.com/nubiyan-twist-jungle-run-2630731282.html
-- https://ukjazznews.com/nubiyan-twist-freedom-fables/
-- https://holican.io/wiki/nubiyan-twist-
+  - 'https://www.last.fm/music/Nubiyan+Twist/+wiki'
+  - 'https://jazztimes.com/features/profiles/nubiyan-twist-real-life-stories/'
+  - >-
+    https://www.grazia.co.in/lifestyle/how-nubiyan-twist-keeps-music-collective-in-the-age-of-self-branding-15161.html
+  - 'https://k7.com/nubiyan-twistfind-your-flame/'
+  - 'https://prsfoundation.com/grantees/momentum-nubiyan-twist/'
+  - 'https://www.popmatters.com/nubiyan-twist-jungle-run-2630731282.html'
+  - 'https://ukjazznews.com/nubiyan-twist-freedom-fables/'
+  - 'https://holican.io/wiki/nubiyan-twist-'
 spotify_data:
   followers: 87155
   id: 5HNkGissAKlCv88sus7rVO
   popularity: 41
-  url: https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO
+  url: 'https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO'
 status: active
 tags:
-- afro-beat
-- afrobeat
-- hip hop
+  - afro-beat
+  - afrobeat
+  - hip hop
 title: Nubiyan Twist
 ---
 

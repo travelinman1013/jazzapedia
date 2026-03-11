@@ -1,47 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-07T01:25:34.838984'
-birth_place: Central City neighborhood, New Orleans, Louisiana, USA
+birth_place: 'Central City neighborhood, New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:25:34.838994'
 external_urls:
-  spotify: https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu
-  wikipedia: https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith
+  spotify: 'https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith'
 genres:
-- boogie-woogie
-- doo-wop
+  - boogie-woogie
+  - doo-wop
 image_path: 03_Resources/source_material/ArtistPortraits/huey_smith_and_the_clowns.jpg
 last_updated: '2026-02-07T01:25:34.838995'
 musical_connections:
   collaborators:
-  - Bobby Marchan
-  - Gerri Hall
-  - Scarface John Williams
-  - Frankie Ford
-  - Roosevelt Wright
-  - Curley Moore
+    - Bobby Marchan
+    - Gerri Hall
+    - Scarface John Williams
+    - Frankie Ford
+    - Roosevelt Wright
+    - Curley Moore
   influenced:
-  - Johnny Rivers
-  - Jerry Lee Lewis
-  - Dr. John
+    - Johnny Rivers
+    - Jerry Lee Lewis
+    - Dr. John
   mentors:
-  - Professor Longhair
-  - Guitar Slim (Eddie Jones)
+    - Professor Longhair
+    - Guitar Slim (Eddie Jones)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://rocky-52.net/chanteurss/smith_hp.htm
-- https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith
-- https://www.britannica.com/biography/Huey-Smith
-- https://robertchristgau.substack.com/p/the-big-lookback-huey-piano-smith
-- https://www.jango.com/music/Huey+Piano+Smith+The+Clowns/_full_bio
-- https://tims.blackcat.nl/messages/huey_piano_smith.htm
+  - 'http://rocky-52.net/chanteurss/smith_hp.htm'
+  - 'https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith'
+  - 'https://www.britannica.com/biography/Huey-Smith'
+  - 'https://robertchristgau.substack.com/p/the-big-lookback-huey-piano-smith'
+  - 'https://www.jango.com/music/Huey+Piano+Smith+The+Clowns/_full_bio'
+  - 'https://tims.blackcat.nl/messages/huey_piano_smith.htm'
 spotify_data:
   followers: 11173
   id: 06VZekh3wTqjHJbGCNBBLu
   popularity: 32
-  url: https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu
+  url: 'https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu'
 status: active
 title: Huey Smith and the Clowns
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1934-01-26'
+death_date: '2023-02-13'
+artist_type: band
 ---
 
 ![](huey_smith_and_the_clowns.jpg)

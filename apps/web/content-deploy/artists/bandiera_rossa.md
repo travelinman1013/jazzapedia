@@ -1,41 +1,42 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-31T01:05:09.954746'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:05:09.954760'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aa76905c-98b4-417a-839d-aaa1a30c6958
-  spotify: https://open.spotify.com/artist/2XuG4FMKoKBkXPvLStBhdg
-  wikipedia: https://en.wikipedia.org/wiki/Bandiera_Rossa
+  musicbrainz: 'https://musicbrainz.org/artist/aa76905c-98b4-417a-839d-aaa1a30c6958'
+  spotify: 'https://open.spotify.com/artist/2XuG4FMKoKBkXPvLStBhdg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bandiera_Rossa'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/bandiera_rossa.jpg
 last_updated: '2026-01-31T01:05:09.954762'
 musical_connections:
   collaborators:
-  - Corale Verdi Milano
-  - M. Corrado Zaccari and Brass Band of Conselice
-  - Tarneybackle
-  - Angelic Upstarts
+    - Corale Verdi Milano
+    - M. Corrado Zaccari and Brass Band of Conselice
+    - Tarneybackle
+    - Angelic Upstarts
   influenced: []
   mentors: []
 musicbrainz_id: aa76905c-98b4-417a-839d-aaa1a30c6958
 network_extracted: true
-origin: Lombardy, Italy
+origin: 'Lombardy, Italy'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bandiera_Rossa
-- https://www.youtube.com/watch?v=7EynovsXANk
-- https://www.last.fm/music/Bandiera+rossa
-- https://folkways.si.edu/brass-band-of-conselice/bandiera-rossa-the-red-flag/historical-song-struggle-protest-world/music/track/smithsonian
-- https://sslh.org.uk/2023/12/24/in-tune-bandiera-rossa/
-- https://rainbowfusionenterprises.com/bandiera-rossa/
-- http://www.bandierarossaband.com/history.html
-- https://anthems.fandom.com/wiki/Bandiera_rossa
+  - 'https://en.wikipedia.org/wiki/Bandiera_Rossa'
+  - 'https://www.youtube.com/watch?v=7EynovsXANk'
+  - 'https://www.last.fm/music/Bandiera+rossa'
+  - >-
+    https://folkways.si.edu/brass-band-of-conselice/bandiera-rossa-the-red-flag/historical-song-struggle-protest-world/music/track/smithsonian
+  - 'https://sslh.org.uk/2023/12/24/in-tune-bandiera-rossa/'
+  - 'https://rainbowfusionenterprises.com/bandiera-rossa/'
+  - 'http://www.bandierarossaband.com/history.html'
+  - 'https://anthems.fandom.com/wiki/Bandiera_rossa'
 spotify_data:
   followers: 8428
   id: 2XuG4FMKoKBkXPvLStBhdg
   popularity: 32
-  url: https://open.spotify.com/artist/2XuG4FMKoKBkXPvLStBhdg
+  url: 'https://open.spotify.com/artist/2XuG4FMKoKBkXPvLStBhdg'
 status: active
 title: Bandiera Rossa
 ---

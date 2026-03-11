@@ -1,41 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-28T01:51:21.626298'
-birth_place: Washington, D.C., United States (debut location; fictional swamp origin)
+birth_place: 'Washington, D.C., United States (debut location; fictional swamp origin)'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:51:21.626308'
 external_urls:
-  spotify: https://open.spotify.com/artist/1PGjAoXiKP1Hcx788WVFx9
-  wikipedia: https://en.wikipedia.org/wiki/Kermit_the_Frog
+  spotify: 'https://open.spotify.com/artist/1PGjAoXiKP1Hcx788WVFx9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kermit_the_Frog'
 genres:
-- children's music
+  - children's music
 image_path: 03_Resources/source_material/ArtistPortraits/kermit_the_frog.jpg
 last_updated: '2026-02-28T01:51:21.626310'
 musical_connections:
   collaborators:
-  - Miss Piggy
-  - Fozzie Bear
-  - Frank Oz
-  - Steve Whitmire
+    - Miss Piggy
+    - Fozzie Bear
+    - Frank Oz
+    - Steve Whitmire
   influenced: []
   mentors:
-  - Jim Henson
+    - Jim Henson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kermit_the_Frog
-- https://www.ebsco.com/research-starters/social-sciences-and-humanities/kermit-frog
-- https://muppet.fandom.com/wiki/Kermit_the_Frog
-- https://disney.fandom.com/wiki/Kermit_the_Frog
-- https://kids.kiddle.co/Kermit_the_Frog
-- https://www.britannica.com/topic/Kermit-the-Frog
-- https://www.si.edu/object/kermit-frog-puppet:nmah_765593
+  - 'https://en.wikipedia.org/wiki/Kermit_the_Frog'
+  - >-
+    https://www.ebsco.com/research-starters/social-sciences-and-humanities/kermit-frog
+  - 'https://muppet.fandom.com/wiki/Kermit_the_Frog'
+  - 'https://disney.fandom.com/wiki/Kermit_the_Frog'
+  - 'https://kids.kiddle.co/Kermit_the_Frog'
+  - 'https://www.britannica.com/topic/Kermit-the-Frog'
+  - 'https://www.si.edu/object/kermit-frog-puppet:nmah_765593'
 spotify_data:
   followers: 17290
   id: 1PGjAoXiKP1Hcx788WVFx9
   popularity: 30
-  url: https://open.spotify.com/artist/1PGjAoXiKP1Hcx788WVFx9
+  url: 'https://open.spotify.com/artist/1PGjAoXiKP1Hcx788WVFx9'
 status: active
-title: kermit the frog
+title: Kermit the Frog
+birth_date: '1955'
+artist_type: person
 ---
 
 ![](kermit_the_frog.jpg)

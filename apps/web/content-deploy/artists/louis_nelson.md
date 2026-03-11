@@ -1,39 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-20T01:21:00.140977'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:21:00.140986'
 external_urls:
-  spotify: https://open.spotify.com/artist/1UdP3fueeLvs7MASnJcaVR
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Nelson_(trombonist)
+  spotify: 'https://open.spotify.com/artist/1UdP3fueeLvs7MASnJcaVR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Nelson_(trombonist)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/louis_nelson.jpg
 last_updated: '2026-02-20T01:21:00.140988'
 musical_connections:
   collaborators:
-  - Kid Thomas Valentine
-  - George Lewis
-  - Percy Humphrey
-  - Big Eye Louis Nelson Delisle
-  - Preservation Hall Jazz Band
+    - Kid Thomas Valentine
+    - George Lewis
+    - Percy Humphrey
+    - Big Eye Louis Nelson Delisle
+    - Preservation Hall Jazz Band
   influenced: []
   mentors:
-  - Lawrence Johnson
+    - Lawrence Johnson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://64parishes.org/entry/louis-nelson
-- https://en.wikipedia.org/wiki/Louis_Nelson_(trombonist)
-- https://kids.kiddle.co/Louis_Nelson
-- https://veritenews.org/2025/02/28/bitd-big-eye-louis-nelson-delisle-jazz/
-- https://www.latimes.com/archives/la-xpm-1990-04-06-vw-994-story.html
+  - 'https://64parishes.org/entry/louis-nelson'
+  - 'https://en.wikipedia.org/wiki/Louis_Nelson_(trombonist)'
+  - 'https://kids.kiddle.co/Louis_Nelson'
+  - 'https://veritenews.org/2025/02/28/bitd-big-eye-louis-nelson-delisle-jazz/'
+  - 'https://www.latimes.com/archives/la-xpm-1990-04-06-vw-994-story.html'
 spotify_data:
   followers: 370
   id: 1UdP3fueeLvs7MASnJcaVR
   popularity: 9
-  url: https://open.spotify.com/artist/1UdP3fueeLvs7MASnJcaVR
+  url: 'https://open.spotify.com/artist/1UdP3fueeLvs7MASnJcaVR'
 status: active
 title: Louis Nelson
+birth_date: '1902-09-17'
+death_date: '1990-04-05'
+artist_type: person
 ---
 
 ![](louis_nelson.jpg)

@@ -3,38 +3,41 @@ biography_enhanced_at: '2026-03-05T02:00:23.061359'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:00:23.061376'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ceJesJTMQFYalVhYf4aed
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong
+  spotify: 'https://open.spotify.com/artist/0ceJesJTMQFYalVhYf4aed'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong'
 genres: []
 image_path: ''
 last_updated: '2026-03-05T02:00:23.061379'
 musical_connections:
   collaborators:
-  - Lionel Hampton
-  - Les Hite
-  - Lawrence Brown
+    - Lionel Hampton
+    - Les Hite
+    - Lawrence Brown
   influenced:
-  - Lionel Hampton
+    - Lionel Hampton
   mentors:
-  - Joe 'King' Oliver
-  - Peter Davis
+    - Joe 'King' Oliver
+    - Peter Davis
 network_extracted: true
-origin: Los Angeles, California, USA
+origin: 'Los Angeles, California, USA'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/louis-armstrong-and-his-sebastian-new-cotton-club-orchestra/
-- https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1012&context=music-faculty-publications
-- https://michaelminn.net/discographies/armstrong/stardom/index.html
-- https://en.wikipedia.org/wiki/Louis_Armstrong
-- https://www.louisarmstronghouse.org/biography/
-- https://louisarmstrongfoundation.org/louis-armstrong-biography/
+  - >-
+    https://syncopatedtimes.com/louis-armstrong-and-his-sebastian-new-cotton-club-orchestra/
+  - >-
+    https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1012&context=music-faculty-publications
+  - 'https://michaelminn.net/discographies/armstrong/stardom/index.html'
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+  - 'https://www.louisarmstronghouse.org/biography/'
+  - 'https://louisarmstrongfoundation.org/louis-armstrong-biography/'
 spotify_data:
   followers: 4554
   id: 0ceJesJTMQFYalVhYf4aed
   popularity: 8
-  url: https://open.spotify.com/artist/0ceJesJTMQFYalVhYf4aed
+  url: 'https://open.spotify.com/artist/0ceJesJTMQFYalVhYf4aed'
 status: active
-title: LOUIS ARMSTRONG AND HIS SEBASTIAN NEW COTTON CLUB ORCHESTRA
+title: Louis Armstrong and His Sebastian New Cotton Club Orchestra
+artist_type: band
 ---
 
 ![]()

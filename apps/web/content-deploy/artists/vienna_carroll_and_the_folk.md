@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-26T01:44:18.263724'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:44:18.263740'
 external_urls:
-  spotify: https://open.spotify.com/artist/4FmMSOvS1ojLi78o3p41e8
+  spotify: 'https://open.spotify.com/artist/4FmMSOvS1ojLi78o3p41e8'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/vienna_carroll_and_the_folk.jpg
@@ -12,26 +12,28 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Great Grandmother
+    - Great Grandmother
 network_extracted: true
-origin: New York, United States
+origin: 'New York, United States'
 primary_source: perplexity
 research_sources:
-- https://viennacarrollmusic.com/about
-- https://viennacarrollmusic.com
-- https://www.allaboutjazz.com/musicians/vienna-carroll/
-- https://viennacarroll.com/about/
-- https://viennacarroll.com/folk-first/
-- https://viennasherbalcompounds.com/pages/about-us
-- https://woodylewis.com/vienna-carroll-and-the-folk-9507d6d55910
-- https://www.star-revue.com/joy-survival-and-other-endless-pursuits-vienna-carrolls-throwback-blues-for-modern-times/
+  - 'https://viennacarrollmusic.com/about'
+  - 'https://viennacarrollmusic.com'
+  - 'https://www.allaboutjazz.com/musicians/vienna-carroll/'
+  - 'https://viennacarroll.com/about/'
+  - 'https://viennacarroll.com/folk-first/'
+  - 'https://viennasherbalcompounds.com/pages/about-us'
+  - 'https://woodylewis.com/vienna-carroll-and-the-folk-9507d6d55910'
+  - >-
+    https://www.star-revue.com/joy-survival-and-other-endless-pursuits-vienna-carrolls-throwback-blues-for-modern-times/
 spotify_data:
   followers: 137
   id: 4FmMSOvS1ojLi78o3p41e8
   popularity: 0
-  url: https://open.spotify.com/artist/4FmMSOvS1ojLi78o3p41e8
+  url: 'https://open.spotify.com/artist/4FmMSOvS1ojLi78o3p41e8'
 status: active
 title: Vienna Carroll & the Folk
+artist_type: band
 ---
 
 ![](vienna_carroll_and_the_folk.jpg)

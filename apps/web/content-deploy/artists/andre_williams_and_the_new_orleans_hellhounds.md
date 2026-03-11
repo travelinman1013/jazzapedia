@@ -3,46 +3,53 @@ biography_enhanced_at: '2026-02-12T01:10:56.466645'
 enhancement_provider: perplexity
 entry_created: '2026-02-12T01:10:56.466651'
 external_urls:
-  spotify: https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN
-  wikipedia: https://en.wikipedia.org/wiki/Andre_Williams_(musician)
+  spotify: 'https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Andre_Williams_(musician)'
 genres:
-- northern soul
-image_path: 03_Resources/source_material/ArtistPortraits/andre_williams_and_the_new_orleans_hellhounds.jpg
+  - northern soul
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/andre_williams_and_the_new_orleans_hellhounds.jpg
 last_updated: '2026-02-12T01:10:56.466652'
 musical_connections:
   collaborators:
-  - The New Orleans Hellhounds (Morning 40 Federation)
-  - Ike & Tina Turner
-  - The Sadies
-  - The Dirtbombs
-  - The Goldstars
+    - The New Orleans Hellhounds (Morning 40 Federation)
+    - Ike & Tina Turner
+    - The Sadies
+    - The Dirtbombs
+    - The Goldstars
   influenced:
-  - Stevie Wonder
-  - The Five Du-Tones
-  - Ike & Tina Turner
-  - Alvin Cash & the Crawlers
-  - The Contours
+    - Stevie Wonder
+    - The Five Du-Tones
+    - Ike & Tina Turner
+    - Alvin Cash & the Crawlers
+    - The Contours
   mentors:
-  - Devora Brown
-  - B.B. King
+    - Devora Brown
+    - B.B. King
 network_extracted: true
-origin: New Orleans, Louisiana, United States (band origin); Bessemer, Alabama, United
+origin: >-
+  New Orleans, Louisiana, United States (band origin); Bessemer, Alabama, United
   States (Andre Williams birthplace)
 primary_source: perplexity
 research_sources:
-- https://michiganrockandrolllegends.com/hall-of-fame/artists/295-andre-williams
-- https://www.sahmigo.com/details/a/andre_williams.htm
-- https://www.bhamwiki.com/w/Andre_Williams
-- https://top40weekly.com/andre-williams/
-- https://en.wikipedia.org/wiki/Andre_Williams_(musician)
-- https://www.popmatters.com/andre-williams-the-new-orleans-hellhounds-can-you-deal-with-it-2496134369.html
+  - >-
+    https://michiganrockandrolllegends.com/hall-of-fame/artists/295-andre-williams
+  - 'https://www.sahmigo.com/details/a/andre_williams.htm'
+  - 'https://www.bhamwiki.com/w/Andre_Williams'
+  - 'https://top40weekly.com/andre-williams/'
+  - 'https://en.wikipedia.org/wiki/Andre_Williams_(musician)'
+  - >-
+    https://www.popmatters.com/andre-williams-the-new-orleans-hellhounds-can-you-deal-with-it-2496134369.html
 spotify_data:
   followers: 8997
   id: 4mmEKUZZBwnzg4m6hizPyN
   popularity: 21
-  url: https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN
+  url: 'https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN'
 status: active
 title: Andre Williams and The New Orleans Hellhounds
+birth_place: 'Bessemer, Alabama, United States'
+birth_date: '1936-11-01'
+artist_type: band
 ---
 
 ![](andre_williams_and_the_new_orleans_hellhounds.jpg)

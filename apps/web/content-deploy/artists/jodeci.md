@@ -1,99 +1,100 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-28T01:51:46.351716'
 birth_date: '1990'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:51:46.351726'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ed7e12c4-0c08-477c-bd64-5eaa96b9f853
-  spotify: https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK
+  musicbrainz: 'https://musicbrainz.org/artist/ed7e12c4-0c08-477c-bd64-5eaa96b9f853'
+  spotify: 'https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK'
   wikipedia: ''
 genres:
-- new jack swing
-- quiet storm
-- r&b
+  - new jack swing
+  - quiet storm
+  - r&b
 image_path: 03_Resources/source_material/ArtistPortraits/jodeci.jpg
 instruments:
-- additional
-- drums (drum set)
-last_updated: '2026-01-28T01:51:46.351728'
-members:
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: a5f7f866-77ab-48bf-aa6e-90bfe2e64367
-  name: Darryl “Day” Pearson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fc67ac89-e0ae-4d98-b986-1ed208e0e629
-  name: Dalvin DeGrate
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: db69948e-c9e8-4289-939b-98f2534853b2
-  name: Joel “Jo‐Jo” Hailey
-- begin: ''
-  end: ''
-  instruments:
   - additional
   - drums (drum set)
-  mbid: 8cc025f1-a4d0-4bdd-a349-19a996d35035
-  name: Rischard Jenkins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d1b9399-3045-4d43-b753-b3af3d0696c4
-  name: K‐Ci
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: d693b6d9-f819-405a-be40-4b8dbf17b0dc
-  name: DJ Krazy T
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 758b32a7-796f-4d7b-999c-53999ad2f072
-  name: DeVante Swing
+last_updated: '2026-01-28T01:51:46.351728'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: a5f7f866-77ab-48bf-aa6e-90bfe2e64367
+    name: Darryl “Day” Pearson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fc67ac89-e0ae-4d98-b986-1ed208e0e629
+    name: Dalvin DeGrate
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: db69948e-c9e8-4289-939b-98f2534853b2
+    name: Joel “Jo‐Jo” Hailey
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: 8cc025f1-a4d0-4bdd-a349-19a996d35035
+    name: Rischard Jenkins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d1b9399-3045-4d43-b753-b3af3d0696c4
+    name: K‐Ci
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: d693b6d9-f819-405a-be40-4b8dbf17b0dc
+    name: DJ Krazy T
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 758b32a7-796f-4d7b-999c-53999ad2f072
+    name: DeVante Swing
 musical_connections:
   collaborators:
-  - DeVante Swing
-  - Mr. Dalvin
-  - K-Ci Hailey
-  - JoJo Hailey
-  - Father MC
+    - DeVante Swing
+    - Mr. Dalvin
+    - K-Ci Hailey
+    - JoJo Hailey
+    - Father MC
   influenced:
-  - Boyz II Men
-  - H-Town
-  - Shai
-  - Silk
+    - Boyz II Men
+    - H-Town
+    - Shai
+    - Silk
   mentors:
-  - Andre Harrell
-  - Heavy D
+    - Andre Harrell
+    - Heavy D
 musicbrainz_id: ed7e12c4-0c08-477c-bd64-5eaa96b9f853
 network_extracted: true
-origin: Charlotte
+origin: 'Charlotte, North Carolina, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Jodeci/+wiki
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/jodeci
-- https://wbssmedia.com/artists/detail/4168
-- https://www.pmusicgroup.com/client/jodeci/
-- https://www.youtube.com/watch?v=0wimkAetpAg
-- https://blackpast.org/african-american-history/jodeci-1989/
-- https://www.jango.com/music/Jodeci/_full_bio
+  - 'https://www.last.fm/music/Jodeci/+wiki'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/jodeci
+  - 'https://wbssmedia.com/artists/detail/4168'
+  - 'https://www.pmusicgroup.com/client/jodeci/'
+  - 'https://www.youtube.com/watch?v=0wimkAetpAg'
+  - 'https://blackpast.org/african-american-history/jodeci-1989/'
+  - 'https://www.jango.com/music/Jodeci/_full_bio'
 spotify_data:
   followers: 2181912
   id: 1eNkUXHPaXyuyC8NAgzykK
   popularity: 60
-  url: https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK
+  url: 'https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK'
 status: active
 tags:
-- 2008 universal fire victim
-- contemporary r&b
-- hip hop rnb and dance hall
+  - 2008 universal fire victim
+  - contemporary r&b
+  - hip hop rnb and dance hall
 title: Jodeci
 ---
 

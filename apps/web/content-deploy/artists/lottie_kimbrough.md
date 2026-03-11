@@ -2,49 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-02-20T01:24:10.738711'
 birth_date: '1900'
-birth_place: Kansas City
+birth_place: 'Kansas City, Missouri, United States'
 death_date: '1967'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:24:10.738721'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4755f603-215e-4add-aad0-5a8a85da8480
-  spotify: https://open.spotify.com/artist/34x3BPBKFmYML037CxIwCb
-  wikipedia: https://en.wikipedia.org/wiki/Lottie_Kimbrough
+  musicbrainz: 'https://musicbrainz.org/artist/4755f603-215e-4add-aad0-5a8a85da8480'
+  spotify: 'https://open.spotify.com/artist/34x3BPBKFmYML037CxIwCb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lottie_Kimbrough'
 gender: Male
 genres:
-- country blues
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/lottie_kimbrough.jpg
 last_updated: '2026-02-20T01:24:10.738723'
 musical_connections:
   collaborators:
-  - Winston Holmes
-  - Millus and Myles Pruitt
-  - Jimmy Blythe
-  - Sylvester Kimbrough
-  - Ma Rainey
+    - Winston Holmes
+    - Millus and Myles Pruitt
+    - Jimmy Blythe
+    - Sylvester Kimbrough
+    - Ma Rainey
   influenced: []
   mentors: []
 musicbrainz_id: 4755f603-215e-4add-aad0-5a8a85da8480
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lottie_Kimbrough
-- https://womeninoldtimemusic.com/bios/lottie-kimbrough/
-- https://kcstudio.org/the-lonesome-legacy-of-lottie-beaman-kansas-citys-forgotten-queen-of-the-blues/
-- https://travsd.wordpress.com/2019/02/10/lottie-kimbrough-the-kansas-city-butterball/
-- https://www.allmusic.com/artist/lottie-kimbrough-mn0000208722
-- https://sentirelblues.blogspot.com/2015/08/lottie-kimbrough.html
-- https://www.foxsoundi.com/artist/32133132/lottie-kimbrough-and-winston-holmes?tab=about
+  - 'https://en.wikipedia.org/wiki/Lottie_Kimbrough'
+  - 'https://womeninoldtimemusic.com/bios/lottie-kimbrough/'
+  - >-
+    https://kcstudio.org/the-lonesome-legacy-of-lottie-beaman-kansas-citys-forgotten-queen-of-the-blues/
+  - >-
+    https://travsd.wordpress.com/2019/02/10/lottie-kimbrough-the-kansas-city-butterball/
+  - 'https://www.allmusic.com/artist/lottie-kimbrough-mn0000208722'
+  - 'https://sentirelblues.blogspot.com/2015/08/lottie-kimbrough.html'
+  - >-
+    https://www.foxsoundi.com/artist/32133132/lottie-kimbrough-and-winston-holmes?tab=about
 spotify_data:
   followers: 361
   id: 34x3BPBKFmYML037CxIwCb
   popularity: 1
-  url: https://open.spotify.com/artist/34x3BPBKFmYML037CxIwCb
+  url: 'https://open.spotify.com/artist/34x3BPBKFmYML037CxIwCb'
 status: active
 tags:
-- blues
-- country blues
+  - blues
+  - country blues
 title: Lottie Kimbrough
+is_active: false
+origin: 'Kansas City, Missouri, United States'
 ---
 
 ![](lottie_kimbrough.jpg)

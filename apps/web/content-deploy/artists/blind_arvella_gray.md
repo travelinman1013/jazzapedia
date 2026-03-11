@@ -1,40 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-27T01:54:48.582391'
-birth_place: Somerville, Texas, United States
+birth_place: 'Somerville, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:54:48.582396'
 external_urls:
-  spotify: https://open.spotify.com/artist/64aCTqIY5D3Sxik97ykOxZ
-  wikipedia: https://en.wikipedia.org/wiki/Arvella_Gray
+  spotify: 'https://open.spotify.com/artist/64aCTqIY5D3Sxik97ykOxZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Arvella_Gray'
 genres:
-- country blues
-- blues
+  - country blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/blind_arvella_gray.jpg
 last_updated: '2026-01-27T01:54:48.582397'
 musical_connections:
   collaborators:
-  - Cary Baker
+    - Cary Baker
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Arvella_Gray
-- https://blinddogradio.blogspot.com/2018/01/blind-arvella-gray.html
-- https://jasobrecht.substack.com/p/blind-arvella-gray-chicagos-street
-- https://www.last.fm/music/Blind+Arvella+Gray/+wiki
-- https://faroutmagazine.co.uk/life-blues-legend-blind-arvella-gray/
-- https://www.americanbluesscene.com/2025/01/blind-arvella-gray-and-the-demise-of-maxwell-street-market/
-- https://www.allmusic.com/artist/blind-arvella-gray-mn0000861374
-- https://www.bmansbluesreport.com/2013/01/good-morning-blues-blind-arvella-gray.html
-- https://www.popmatters.com/grayblindarvella-singing-2495912114.html
+  - 'https://en.wikipedia.org/wiki/Arvella_Gray'
+  - 'https://blinddogradio.blogspot.com/2018/01/blind-arvella-gray.html'
+  - 'https://jasobrecht.substack.com/p/blind-arvella-gray-chicagos-street'
+  - 'https://www.last.fm/music/Blind+Arvella+Gray/+wiki'
+  - 'https://faroutmagazine.co.uk/life-blues-legend-blind-arvella-gray/'
+  - >-
+    https://www.americanbluesscene.com/2025/01/blind-arvella-gray-and-the-demise-of-maxwell-street-market/
+  - 'https://www.allmusic.com/artist/blind-arvella-gray-mn0000861374'
+  - >-
+    https://www.bmansbluesreport.com/2013/01/good-morning-blues-blind-arvella-gray.html
+  - 'https://www.popmatters.com/grayblindarvella-singing-2495912114.html'
 spotify_data:
   followers: 120
   id: 64aCTqIY5D3Sxik97ykOxZ
   popularity: 0
-  url: https://open.spotify.com/artist/64aCTqIY5D3Sxik97ykOxZ
+  url: 'https://open.spotify.com/artist/64aCTqIY5D3Sxik97ykOxZ'
 status: active
-title: BLIND ARVELLA GRAY
+title: Blind Arvella Gray
+birth_date: '1906-01-28'
+death_date: '1980-09-07'
+artist_type: person
 ---
 
 ![](blind_arvella_gray.jpg)

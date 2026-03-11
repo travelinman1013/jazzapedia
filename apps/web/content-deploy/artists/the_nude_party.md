@@ -1,121 +1,123 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-03T01:32:27.101982'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:32:27.101989'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3d36bd1f-a551-4b16-9cb5-3e4c68bc5f2a
-  spotify: https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK
+  musicbrainz: 'https://musicbrainz.org/artist/3d36bd1f-a551-4b16-9cb5-3e4c68bc5f2a'
+  spotify: 'https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_nude_party.jpg
 instruments:
-- percussion
-- bass
-- guitar
-- pedal steel guitar
-- lead vocals
-- harmonica
-- kazoo
-- electronic organ
-- drums (drum set)
+  - percussion
+  - bass
+  - guitar
+  - pedal steel guitar
+  - lead vocals
+  - harmonica
+  - kazoo
+  - electronic organ
+  - drums (drum set)
 last_updated: '2026-03-03T01:32:27.101990'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - percussion
-  mbid: 22217171-7459-41f7-aae3-c8e5748e09ca
-  name: Austin Brose
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 3d67b401-dee1-474c-9229-d4827983e4e6
-  name: Alec Castillo
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 9feb150f-3af2-4269-a14c-ec0a93eb043f
-  name: Shaun Couture
-- begin: ''
-  end: ''
-  instruments:
-  - pedal steel guitar
-  mbid: ae742e6a-f153-4f7f-9006-7292a4336a88
-  name: Jon “Catfish” DeLorme
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: a4548dfd-9a6d-4150-9dff-beeab86de091
-  name: Patton Magee
-- begin: ''
-  end: ''
-  instruments:
-  - harmonica
-  mbid: a4548dfd-9a6d-4150-9dff-beeab86de091
-  name: Patton Magee
-- begin: ''
-  end: ''
-  instruments:
-  - kazoo
-  mbid: a4548dfd-9a6d-4150-9dff-beeab86de091
-  name: Patton Magee
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: a4548dfd-9a6d-4150-9dff-beeab86de091
-  name: Patton Magee
-- begin: ''
-  end: ''
-  instruments:
-  - electronic organ
-  mbid: 6024e712-52fc-4cf6-a967-1d4a887f038b
-  name: Don Merrill
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 60df1989-a48d-4242-9fd5-9969859ae78a
-  name: Connor Mikita
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: 22217171-7459-41f7-aae3-c8e5748e09ca
+    name: Austin Brose
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 3d67b401-dee1-474c-9229-d4827983e4e6
+    name: Alec Castillo
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 9feb150f-3af2-4269-a14c-ec0a93eb043f
+    name: Shaun Couture
+  - begin: ''
+    end: ''
+    instruments:
+      - pedal steel guitar
+    mbid: ae742e6a-f153-4f7f-9006-7292a4336a88
+    name: Jon “Catfish” DeLorme
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: a4548dfd-9a6d-4150-9dff-beeab86de091
+    name: Patton Magee
+  - begin: ''
+    end: ''
+    instruments:
+      - harmonica
+    mbid: a4548dfd-9a6d-4150-9dff-beeab86de091
+    name: Patton Magee
+  - begin: ''
+    end: ''
+    instruments:
+      - kazoo
+    mbid: a4548dfd-9a6d-4150-9dff-beeab86de091
+    name: Patton Magee
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: a4548dfd-9a6d-4150-9dff-beeab86de091
+    name: Patton Magee
+  - begin: ''
+    end: ''
+    instruments:
+      - electronic organ
+    mbid: 6024e712-52fc-4cf6-a967-1d4a887f038b
+    name: Don Merrill
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 60df1989-a48d-4242-9fd5-9969859ae78a
+    name: Connor Mikita
 musical_connections:
   collaborators:
-  - Patton Magee
-  - Shaun Couture
-  - Don Merrill
-  - Alec Castillo
-  - Austin Brose
-  - Connor Mikita
-  - Michael Rault
-  - Matthew Horner
-  - The Growlers
-  - Shine Brothers
-  - Jack White
-  - Arctic Monkeys
+    - Patton Magee
+    - Shaun Couture
+    - Don Merrill
+    - Alec Castillo
+    - Austin Brose
+    - Connor Mikita
+    - Michael Rault
+    - Matthew Horner
+    - The Growlers
+    - Shine Brothers
+    - Jack White
+    - Arctic Monkeys
   influenced: []
   mentors:
-  - Oakley Munson
+    - Oakley Munson
 musicbrainz_id: 3d36bd1f-a551-4b16-9cb5-3e4c68bc5f2a
 network_extracted: true
-origin: Boone, North Carolina, USA
+origin: 'Boone, North Carolina, USA'
 primary_source: perplexity
 research_sources:
-- https://www.thenudepartymusic.com/bio
-- https://www.pastemagazine.com/music/the-nude-party/the-nude-party-have-moved-beyond-their-garage-rock-party-band-origins
-- https://creativeloafing.com/group-415252-the-nude-party---touring-band
-- https://www.chronogram.com/arts/the-nude-partys-rise-to-fame-3837226/
-- https://www.popmatters.com/nude-party-debut-review-2582946996.html
-- https://altcitizen.com/meet-the-nude-party-band/
-- https://www.allmusic.com/artist/the-nude-party-mn0003735200
-- https://nwr-press.squarespace.com/s/The-Nude-Party-22Rides-On22-Biography.pdf
+  - 'https://www.thenudepartymusic.com/bio'
+  - >-
+    https://www.pastemagazine.com/music/the-nude-party/the-nude-party-have-moved-beyond-their-garage-rock-party-band-origins
+  - 'https://creativeloafing.com/group-415252-the-nude-party---touring-band'
+  - 'https://www.chronogram.com/arts/the-nude-partys-rise-to-fame-3837226/'
+  - 'https://www.popmatters.com/nude-party-debut-review-2582946996.html'
+  - 'https://altcitizen.com/meet-the-nude-party-band/'
+  - 'https://www.allmusic.com/artist/the-nude-party-mn0003735200'
+  - >-
+    https://nwr-press.squarespace.com/s/The-Nude-Party-22Rides-On22-Biography.pdf
 spotify_data:
   followers: 69170
   id: 5BxtbtwwHXC3HA5kAn06sK
   popularity: 42
-  url: https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK
+  url: 'https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK'
 status: active
 title: The Nude Party
 ---

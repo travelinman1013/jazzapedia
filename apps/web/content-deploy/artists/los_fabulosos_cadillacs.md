@@ -1,153 +1,156 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-01T01:28:35.218614'
 birth_date: '1985-01-19'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:28:35.218619'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cfe85625-10af-46c1-99fb-765ed3a4f1ad
-  spotify: https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ
+  musicbrainz: 'https://musicbrainz.org/artist/cfe85625-10af-46c1-99fb-765ed3a4f1ad'
+  spotify: 'https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ'
   wikipedia: ''
 genres:
-- rock en español
-- latin rock
-- ska
-- argentine rock
-- latin alternative
-- mexican ska
-- murga
+  - rock en español
+  - latin rock
+  - ska
+  - argentine rock
+  - latin alternative
+  - mexican ska
+  - murga
 image_path: 03_Resources/source_material/ArtistPortraits/los_fabulosos_cadillacs.jpg
 instruments:
-- original
-- saxophone
-- tenor saxophone
-- trumpet
+  - original
+  - saxophone
+  - tenor saxophone
+  - trumpet
 last_updated: '2026-02-01T01:28:35.218620'
 members:
-- begin: '1991'
-  end: '2002'
-  instruments: []
-  mbid: 64326c94-a0c0-4073-974e-b1351edb52aa
-  name: Fernando Albareda
-- begin: '1991'
-  end: '2008-04-29'
-  instruments: []
-  mbid: ac6b0523-abbe-40e7-bb0e-0b2c9eb932c1
-  name: Gerardo Rotblat
-- &id001
-  begin: 1996-10
-  end: ''
-  instruments: []
-  mbid: 9542cf67-3a98-44c4-a21d-e7b1674525e0
-  name: Ariel Minimal
-- &id002
-  begin: '2008'
-  end: ''
-  instruments:
-  - original
-  - saxophone
-  mbid: 55f35a1f-2e52-47ee-b60f-05670fd4c339
-  name: Sergio Rotman
-- &id003
-  begin: '2016'
-  end: ''
-  instruments: []
-  mbid: fa130579-a9dc-49f6-a9bc-b6d40bef251d
-  name: FLORIAN
-- begin: ''
-  end: '1990'
-  instruments:
-  - original
-  mbid: 65e8873d-976a-46a3-a392-5bd143ffffff
-  name: Luciano Jr.
-- begin: ''
-  end: '1991'
-  instruments:
-  - tenor saxophone
-  mbid: bcb46da5-4a9d-4523-b90b-5c11b6dfe4ea
-  name: Naco Goldfinger
-- begin: ''
-  end: '1996'
-  instruments:
-  - original
-  mbid: f2b89b19-20c3-43a9-a17b-d78c914985af
-  name: Aníbal Rigozzi
-- begin: ''
-  end: '1997'
-  instruments:
-  - original
-  - saxophone
-  mbid: 55f35a1f-2e52-47ee-b60f-05670fd4c339
-  name: Sergio Rotman
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 0bcc57bc-3ec6-4c11-a03c-7eddc4923e26
-  name: Sr. Flavio
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: ced23e3b-6851-4fd7-a305-392490ec0aa9
-  name: Daniel Lozano
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5cafba7b-429d-4c2e-829d-dd6843b52606
-  name: Fernando Ricciardi
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: ec5a6687-b2e7-461b-83c2-1c4df36c7055
-  name: Mario Siperman
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: fcb476f9-d17f-4058-ab30-520e590df076
-  name: Vicentico
+  - begin: '1991'
+    end: '2002'
+    instruments: []
+    mbid: 64326c94-a0c0-4073-974e-b1351edb52aa
+    name: Fernando Albareda
+  - begin: '1991'
+    end: '2008-04-29'
+    instruments: []
+    mbid: ac6b0523-abbe-40e7-bb0e-0b2c9eb932c1
+    name: Gerardo Rotblat
+  - &ref_0
+    begin: 1996-10
+    end: ''
+    instruments: []
+    mbid: 9542cf67-3a98-44c4-a21d-e7b1674525e0
+    name: Ariel Minimal
+  - &ref_1
+    begin: '2008'
+    end: ''
+    instruments:
+      - original
+      - saxophone
+    mbid: 55f35a1f-2e52-47ee-b60f-05670fd4c339
+    name: Sergio Rotman
+  - &ref_2
+    begin: '2016'
+    end: ''
+    instruments: []
+    mbid: fa130579-a9dc-49f6-a9bc-b6d40bef251d
+    name: FLORIAN
+  - begin: ''
+    end: '1990'
+    instruments:
+      - original
+    mbid: 65e8873d-976a-46a3-a392-5bd143ffffff
+    name: Luciano Jr.
+  - begin: ''
+    end: '1991'
+    instruments:
+      - tenor saxophone
+    mbid: bcb46da5-4a9d-4523-b90b-5c11b6dfe4ea
+    name: Naco Goldfinger
+  - begin: ''
+    end: '1996'
+    instruments:
+      - original
+    mbid: f2b89b19-20c3-43a9-a17b-d78c914985af
+    name: Aníbal Rigozzi
+  - begin: ''
+    end: '1997'
+    instruments:
+      - original
+      - saxophone
+    mbid: 55f35a1f-2e52-47ee-b60f-05670fd4c339
+    name: Sergio Rotman
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 0bcc57bc-3ec6-4c11-a03c-7eddc4923e26
+    name: Sr. Flavio
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: ced23e3b-6851-4fd7-a305-392490ec0aa9
+    name: Daniel Lozano
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5cafba7b-429d-4c2e-829d-dd6843b52606
+    name: Fernando Ricciardi
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: ec5a6687-b2e7-461b-83c2-1c4df36c7055
+    name: Mario Siperman
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: fcb476f9-d17f-4058-ab30-520e590df076
+    name: Vicentico
 musical_connections:
   collaborators:
-  - Andrés Calamaro
-  - Celia Cruz
-  - Gustavo Santaolalla
-  - KC Porter
-  - Debbie Harry
-  - Mick Jones (The Clash)
-  - Rubén Blades
-  - Chris Frantz and Tina Weymouth (Talking Heads)
+    - Andrés Calamaro
+    - Celia Cruz
+    - Gustavo Santaolalla
+    - KC Porter
+    - Debbie Harry
+    - Mick Jones (The Clash)
+    - Rubén Blades
+    - Chris Frantz and Tina Weymouth (Talking Heads)
   influenced: []
   mentors: []
 musicbrainz_id: cfe85625-10af-46c1-99fb-765ed3a4f1ad
 network_extracted: true
-origin: Buenos Aires
+origin: 'Buenos Aires, Argentina'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- https://vocal.media/poets/the-journey-of-los-fabulosos-cadillacs-a-story-of-triumph-and-resilience
-- https://www.latinolife.co.uk/articles/fabulous-chameleons
-- https://www.hollywoodbowl.com/musicdb/artists/8897/los-fabulosos-cadillacs
-- https://www.theaudiodb.com/artist/116895-Los-Fabulosos-Cadillacs
-- https://www.miaminewtimes.com/music/los-fabulosos-cadillacs-6384352/
-- https://news.pollstar.com/1997/09/08/los-fabulosos-cadillacs/
-- https://www.calonews.com/featured-topics/culture/los-fabulosos-cadillacs-visit-la-bringing-a-sense-of-joy-to-a-city-that-needs/article_b50ae681-f432-4e8d-9719-57742392ad15.html
-- https://vault.nimc.gov.ng/blog/los-fabulosos-cadillacs-exploring-their-life-and-music-1767648691
+  - >-
+    https://vocal.media/poets/the-journey-of-los-fabulosos-cadillacs-a-story-of-triumph-and-resilience
+  - 'https://www.latinolife.co.uk/articles/fabulous-chameleons'
+  - 'https://www.hollywoodbowl.com/musicdb/artists/8897/los-fabulosos-cadillacs'
+  - 'https://www.theaudiodb.com/artist/116895-Los-Fabulosos-Cadillacs'
+  - 'https://www.miaminewtimes.com/music/los-fabulosos-cadillacs-6384352/'
+  - 'https://news.pollstar.com/1997/09/08/los-fabulosos-cadillacs/'
+  - >-
+    https://www.calonews.com/featured-topics/culture/los-fabulosos-cadillacs-visit-la-bringing-a-sense-of-joy-to-a-city-that-needs/article_b50ae681-f432-4e8d-9719-57742392ad15.html
+  - >-
+    https://vault.nimc.gov.ng/blog/los-fabulosos-cadillacs-exploring-their-life-and-music-1767648691
 spotify_data:
   followers: 3421450
   id: 2FS22haX3FYbyOsUAkuYqZ
   popularity: 69
-  url: https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ
+  url: 'https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ'
 status: active
 tags:
-- latin
-- latin rock
-- ska
-title: los fabulosos cadillacs
+  - latin
+  - latin rock
+  - ska
+title: Los Fabulosos Cadillacs
 ---
 
 ![](los_fabulosos_cadillacs.jpg)

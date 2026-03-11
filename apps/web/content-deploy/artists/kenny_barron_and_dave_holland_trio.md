@@ -3,50 +3,57 @@ biography_enhanced_at: '2026-02-01T01:25:50.074238'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:25:50.074244'
 external_urls:
-  spotify: https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP
-  wikipedia: https://en.wikipedia.org/wiki/Dave_Holland_(bassist)
+  spotify: 'https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_Holland_(bassist)'
 genres:
-- jazz
-- jazz ballads
-image_path: 03_Resources/source_material/ArtistPortraits/kenny_barron_and_dave_holland_trio.jpg
+  - jazz
+  - jazz ballads
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kenny_barron_and_dave_holland_trio.jpg
 last_updated: '2026-02-01T01:25:50.074245'
 musical_connections:
   collaborators:
-  - Stan Getz
-  - Buster Williams
-  - Ben Riley
-  - Charlie Rouse
-  - Johnathan Blake
-  - Steve Coleman
-  - Kenny Wheeler
+    - Stan Getz
+    - Buster Williams
+    - Ben Riley
+    - Charlie Rouse
+    - Johnathan Blake
+    - Steve Coleman
+    - Kenny Wheeler
   influenced:
-  - Kevin Eubanks
-  - Chris Potter
+    - Kevin Eubanks
+    - Chris Potter
   mentors:
-  - Dizzy Gillespie
-  - James Moody
-  - Miles Davis
+    - Dizzy Gillespie
+    - James Moody
+    - Miles Davis
 network_extracted: true
-origin: Philadelphia, Pennsylvania, USA (Kenny Barron birthplace); England, UK (Dave
+origin: >-
+  Philadelphia, Pennsylvania, USA (Kenny Barron birthplace); England, UK (Dave
   Holland birthplace)
 primary_source: perplexity
 research_sources:
-- https://novisadjazzfestival.rs/2014/en/ucesnici/kenny-barron-dave-holland-duo/
-- https://en.wikipedia.org/wiki/Dave_Holland_(bassist)
-- https://kennybarron.com/biography/
-- https://www.laphil.com/musicdb/artists/6023/kenny-barron
-- http://tbilisijazz.com/kenny-barron-trio/
-- https://www.michaelvalentinestudio.com/jazz_gallery/barron_holland/index.php
-- https://www.textura.org/archives/b/barron_driscoll_milne.htm
-- https://atljazzfest.com/artists/kenny-barron-quartet/
-- https://www.jazzspeaks.org/jazz-speaks/listening-in-the-space-kenny-barron-speaks
+  - >-
+    https://novisadjazzfestival.rs/2014/en/ucesnici/kenny-barron-dave-holland-duo/
+  - 'https://en.wikipedia.org/wiki/Dave_Holland_(bassist)'
+  - 'https://kennybarron.com/biography/'
+  - 'https://www.laphil.com/musicdb/artists/6023/kenny-barron'
+  - 'http://tbilisijazz.com/kenny-barron-trio/'
+  - 'https://www.michaelvalentinestudio.com/jazz_gallery/barron_holland/index.php'
+  - 'https://www.textura.org/archives/b/barron_driscoll_milne.htm'
+  - 'https://atljazzfest.com/artists/kenny-barron-quartet/'
+  - >-
+    https://www.jazzspeaks.org/jazz-speaks/listening-in-the-space-kenny-barron-speaks
 spotify_data:
   followers: 3125
   id: 7A2HZ5tabKcJjQFo959VgP
   popularity: 24
-  url: https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP
+  url: 'https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP'
 status: active
 title: Kenny Barron & Dave Holland Trio
+birth_place: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1946-10-01'
+artist_type: band
 ---
 
 ![](kenny_barron_and_dave_holland_trio.jpg)

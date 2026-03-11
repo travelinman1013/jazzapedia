@@ -3,44 +3,49 @@ biography_enhanced_at: '2026-02-20T01:19:06.021882'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:19:06.021891'
 external_urls:
-  spotify: https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq
-  wikipedia: https://en.wikipedia.org/wiki/Salah_Ragab
+  spotify: 'https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Salah_Ragab'
 genres:
-- ethiopian jazz
-- free jazz
-image_path: 03_Resources/source_material/ArtistPortraits/salah_ragab_and_the_cairo_jazz_band.jpg
+  - ethiopian jazz
+  - free jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/salah_ragab_and_the_cairo_jazz_band.jpg
 last_updated: '2026-02-20T01:19:06.021892'
 musical_connections:
   collaborators:
-  - Hartmut Geerken
-  - Eduard 'Edu' Vizvari
-  - Sun Ra
-  - Zaki Osman
-  - Saied Salama
-  - Khamis El-Kholy
-  - Ala Mostafa
+    - Hartmut Geerken
+    - Eduard 'Edu' Vizvari
+    - Sun Ra
+    - Zaki Osman
+    - Saied Salama
+    - Khamis El-Kholy
+    - Ala Mostafa
   influenced: []
   mentors:
-  - Osman Kareem
-  - Lionel Hampton
+    - Osman Kareem
+    - Lionel Hampton
 network_extracted: true
-origin: Cairo, Egypt
+origin: 'Cairo, Egypt'
 primary_source: perplexity
 research_sources:
-- https://strut-records.co.uk/products/salah-ragab-the-cairo-jazz-band-egyptian-jazz
-- https://artyardrecords.co.uk/salah-ragab-and-the-cairo-jazz-band-egyptian-jazz/
-- https://worldofjazz.org/salah-ragab/
-- https://spectrumculture.com/2024/05/08/rediscover-salah-ragab-the-cairo-jazz-band-egyptian-jazz/
-- https://csa-living.org/oasis-blog/salah-ragab-and-the-cairo-jazz-bandnbsp
-- https://daily.bandcamp.com/features/salah-ragab-feature
-- https://en.wikipedia.org/wiki/Salah_Ragab
+  - >-
+    https://strut-records.co.uk/products/salah-ragab-the-cairo-jazz-band-egyptian-jazz
+  - >-
+    https://artyardrecords.co.uk/salah-ragab-and-the-cairo-jazz-band-egyptian-jazz/
+  - 'https://worldofjazz.org/salah-ragab/'
+  - >-
+    https://spectrumculture.com/2024/05/08/rediscover-salah-ragab-the-cairo-jazz-band-egyptian-jazz/
+  - 'https://csa-living.org/oasis-blog/salah-ragab-and-the-cairo-jazz-bandnbsp'
+  - 'https://daily.bandcamp.com/features/salah-ragab-feature'
+  - 'https://en.wikipedia.org/wiki/Salah_Ragab'
 spotify_data:
   followers: 5981
   id: 4qczpAvtGm4OU2Jz2cXPWq
   popularity: 20
-  url: https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq
+  url: 'https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq'
 status: active
 title: Salah Ragab & The Cairo Jazz Band
+artist_type: band
 ---
 
 ![](salah_ragab_and_the_cairo_jazz_band.jpg)

@@ -1,52 +1,57 @@
 ---
 biography_enhanced_at: '2026-02-06T01:07:51.620086'
-birth_place: Dumfries, Scotland, United Kingdom (birthplace); Glasgow, Scotland, United
+birth_place: >-
+  Dumfries, Scotland, United Kingdom (birthplace); Glasgow, Scotland, United
   Kingdom (current base)
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:07:51.620094'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH
-  wikipedia: https://en.wikipedia.org/wiki/Corto.alto
+  spotify: 'https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Corto.alto'
 genres:
-- nu jazz
-- indie jazz
-- jazz fusion
-- experimental jazz
+  - nu jazz
+  - indie jazz
+  - jazz fusion
+  - experimental jazz
 image_path: 03_Resources/source_material/ArtistPortraits/corto_alto.jpg
 last_updated: '2026-02-06T01:07:51.620096'
 musical_connections:
   collaborators:
-  - Fergus McCreadie
-  - Graham Costello
-  - James Copus
-  - Anoushka Nanguy
-  - Harry Weir
-  - Mateusz Sobieski
+    - Fergus McCreadie
+    - Graham Costello
+    - James Copus
+    - Anoushka Nanguy
+    - Harry Weir
+    - Mateusz Sobieski
   influenced: []
   mentors:
-  - Frédéric Chopin
-  - Joe Pass
-  - Jaco Pastorius
-  - Nai Palm
+    - Frédéric Chopin
+    - Joe Pass
+    - Jaco Pastorius
+    - Nai Palm
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.supersonicjazz.nl/artist/corto-alto
-- https://ebbmusic.eu/artists/corto-alto/
-- https://www.outermostagency.com/corto-alto
-- https://en.wikipedia.org/wiki/Corto.alto
-- https://cortoalto.com/about
-- https://www.15questions.net/interview/cortoalto-about-montreux-jazz-festival-and-jazz-2024/
-- https://www.southbankcentre.co.uk/whats-on/corto-alto/
-- https://www.standard.co.uk/culture/music/corto-alto-interview-jazz-musician-b1236446.html
-- https://www.soundoflife.com/blogs/mixtape/corto-alto-interview
+  - 'https://www.supersonicjazz.nl/artist/corto-alto'
+  - 'https://ebbmusic.eu/artists/corto-alto/'
+  - 'https://www.outermostagency.com/corto-alto'
+  - 'https://en.wikipedia.org/wiki/Corto.alto'
+  - 'https://cortoalto.com/about'
+  - >-
+    https://www.15questions.net/interview/cortoalto-about-montreux-jazz-festival-and-jazz-2024/
+  - 'https://www.southbankcentre.co.uk/whats-on/corto-alto/'
+  - >-
+    https://www.standard.co.uk/culture/music/corto-alto-interview-jazz-musician-b1236446.html
+  - 'https://www.soundoflife.com/blogs/mixtape/corto-alto-interview'
 spotify_data:
   followers: 35150
   id: 5Kd7e5lauV4CDdTHm5uiJH
   popularity: 41
-  url: https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH
+  url: 'https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH'
 status: active
-title: corto alto
+title: Corto Alto
+origin: 'Glasgow, Scotland, United Kingdom'
+artist_type: person
 ---
 
 ![](corto_alto.jpg)

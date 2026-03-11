@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-02-16T01:04:57.813714'
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:04:57.813724'
 external_urls:
-  spotify: https://open.spotify.com/artist/7GDqN9j0FJYPEq6jpLCx3d
+  spotify: 'https://open.spotify.com/artist/7GDqN9j0FJYPEq6jpLCx3d'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/cara_harrison.jpg
@@ -15,18 +15,20 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kree_Harrison
-- https://taconicmusic.org/2025-young-artists
-- https://thecinejournal.com/artist-spotlight-cara-gee-and-the-art-of-thespian-intensity/
-- https://sisterswiki.org/Carl_Harrison
-- https://www.starnow.com/u/caraharrison/
+  - 'https://en.wikipedia.org/wiki/Kree_Harrison'
+  - 'https://taconicmusic.org/2025-young-artists'
+  - >-
+    https://thecinejournal.com/artist-spotlight-cara-gee-and-the-art-of-thespian-intensity/
+  - 'https://sisterswiki.org/Carl_Harrison'
+  - 'https://www.starnow.com/u/caraharrison/'
 spotify_data:
   followers: 2
   id: 7GDqN9j0FJYPEq6jpLCx3d
   popularity: 1
-  url: https://open.spotify.com/artist/7GDqN9j0FJYPEq6jpLCx3d
+  url: 'https://open.spotify.com/artist/7GDqN9j0FJYPEq6jpLCx3d'
 status: active
 title: Cara Harrison
+artist_type: person
 ---
 
 ![](cara_harrison.jpg)

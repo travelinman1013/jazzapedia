@@ -2,50 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2026-02-28T01:51:40.843474'
 birth_date: '1919-05-16'
-birth_place: West Allis
+birth_place: 'West Allis, Wisconsin, United States'
 death_date: '1987-02-04'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:51:40.843484'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0ee4b304-4e38-4e84-94d7-41a639ab5d8b
-  spotify: https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK
-  wikipedia: https://en.wikipedia.org/wiki/Liberace
+  musicbrainz: 'https://musicbrainz.org/artist/0ee4b304-4e38-4e84-94d7-41a639ab5d8b'
+  spotify: 'https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Liberace'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/liberace.jpg
 instruments:
-- piano
-- spoken vocals
+  - piano
+  - spoken vocals
 last_updated: '2026-02-28T01:51:40.843486'
 musical_connections:
   collaborators:
-  - George Liberace
-  - Nat King Cole and Sammy Davis Jr.
-  - Louis Snader
+    - George Liberace
+    - Nat King Cole and Sammy Davis Jr.
+    - Louis Snader
   influenced:
-  - Korla Pandit
+    - Korla Pandit
   mentors:
-  - Classical music competitions and teachers
+    - Classical music competitions and teachers
 musicbrainz_id: 0ee4b304-4e38-4e84-94d7-41a639ab5d8b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Liberace
-- https://www.wislgbthistory.com/blog/liberace
-- https://www.biography.com/musicians/liberace
-- https://www.britannica.com/biography/Liberace
-- https://www.youtube.com/watch?v=1sq3L-0BH70
-- http://www.stevegarey.com/liberace.html
-- https://knpr.org/podcast/nevada-yesterdays/2025-09-03/how-vegas-taught-liberace-to-wear-sequined-hot-pants
+  - 'https://en.wikipedia.org/wiki/Liberace'
+  - 'https://www.wislgbthistory.com/blog/liberace'
+  - 'https://www.biography.com/musicians/liberace'
+  - 'https://www.britannica.com/biography/Liberace'
+  - 'https://www.youtube.com/watch?v=1sq3L-0BH70'
+  - 'http://www.stevegarey.com/liberace.html'
+  - >-
+    https://knpr.org/podcast/nevada-yesterdays/2025-09-03/how-vegas-taught-liberace-to-wear-sequined-hot-pants
 spotify_data:
   followers: 25842
   id: 695gNCDVviH3s5ZYVs2VNK
   popularity: 29
-  url: https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK
+  url: 'https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK'
 status: active
 tags:
-- 2008 universal fire victim
-title: liberace
+  - 2008 universal fire victim
+title: Liberace
+is_active: false
+origin: 'West Milwaukee, Wisconsin, United States'
 ---
 
 ![](liberace.jpg)

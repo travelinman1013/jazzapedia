@@ -3,40 +3,41 @@ biography_enhanced_at: '2026-02-27T01:35:55.021155'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:35:55.021164'
 external_urls:
-  spotify: https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1
-  wikipedia: https://en.wikipedia.org/wiki/The_Deslondes
+  spotify: 'https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Deslondes'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/deslondes.jpg
 last_updated: '2026-02-27T01:35:55.021165'
 musical_connections:
   collaborators:
-  - Hurray for the Riff Raff (Alynda Lee Segarra)
-  - Cameron Snyder
-  - The Longtime Goners
+    - Hurray for the Riff Raff (Alynda Lee Segarra)
+    - Cameron Snyder
+    - The Longtime Goners
   influenced: []
   mentors:
-  - Woody Guthrie
+    - Woody Guthrie
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Deslondes
-- https://motherchurchpew.com/2015/11/30/interview-with-the-deslondes/
-- https://www.deslondes.com
-- https://www.deslondes.com/about
-- https://www.countrystandardtime.com/d/article.asp?xid=1191
-- https://thebluegrasssituation.com/read/the-show-on-the-road-the-deslondes/
-- https://www.whereyat.com/the-deslondes
-- https://www.allmusic.com/artist/the-deslondes-mn0003386612
+  - 'https://en.wikipedia.org/wiki/The_Deslondes'
+  - 'https://motherchurchpew.com/2015/11/30/interview-with-the-deslondes/'
+  - 'https://www.deslondes.com'
+  - 'https://www.deslondes.com/about'
+  - 'https://www.countrystandardtime.com/d/article.asp?xid=1191'
+  - 'https://thebluegrasssituation.com/read/the-show-on-the-road-the-deslondes/'
+  - 'https://www.whereyat.com/the-deslondes'
+  - 'https://www.allmusic.com/artist/the-deslondes-mn0003386612'
 spotify_data:
   followers: 42293
   id: 5nlQijI9hZ50keRqmLVov1
   popularity: 44
-  url: https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1
+  url: 'https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1'
 status: active
-title: DESLONDES
+title: The Deslondes
+artist_type: band
 ---
 
 ![](deslondes.jpg)

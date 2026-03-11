@@ -2,51 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-02-10T01:51:55.996346'
 birth_date: '1943-02-11'
-birth_place: Gregory
+birth_place: 'Gregory, Arkansas, United States'
 death_date: '2002-05-17'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:51:55.996358'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/34a64435-d0ac-46cb-8fe0-a0e624dd9c1a
-  spotify: https://open.spotify.com/artist/3amz8sGYUMDNb2wxf4PaTj
-  wikipedia: https://en.wikipedia.org/wiki/Little_Johnny_Taylor
+  musicbrainz: 'https://musicbrainz.org/artist/34a64435-d0ac-46cb-8fe0-a0e624dd9c1a'
+  spotify: 'https://open.spotify.com/artist/3amz8sGYUMDNb2wxf4PaTj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Johnny_Taylor'
 gender: Male
 genres:
-- soul blues
-- northern soul
+  - soul blues
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/little_johnny_taylor.jpg
 last_updated: '2026-02-10T01:51:55.996360'
 musical_connections:
   collaborators:
-  - Cliff Goldsmith
-  - Ray Shanklin
-  - Arthur Wright
-  - Ted Taylor
-  - Clay Hammond
+    - Cliff Goldsmith
+    - Ray Shanklin
+    - Arthur Wright
+    - Ted Taylor
+    - Clay Hammond
   influenced:
-  - Johnnie Taylor
+    - Johnnie Taylor
   mentors:
-  - Little Willie John
-  - Ted Taylor
-  - Bobby Bland
+    - Little Willie John
+    - Ted Taylor
+    - Bobby Bland
 musicbrainz_id: 34a64435-d0ac-46cb-8fe0-a0e624dd9c1a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://concord.com/artist/little-johnny-taylor/
-- https://fromthevaults-boppinbob.blogspot.com/2021/02/little-johnny-taylor-born-11february.html
-- https://www.allaboutjazz.com/musicians/little-johnny-taylor/
-- https://en.wikipedia.org/wiki/Little_Johnny_Taylor
-- https://blues.org/blues_hof_inductee/part-time-love-little-johnny-taylor-galaxy-1963/
+  - 'https://concord.com/artist/little-johnny-taylor/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/02/little-johnny-taylor-born-11february.html
+  - 'https://www.allaboutjazz.com/musicians/little-johnny-taylor/'
+  - 'https://en.wikipedia.org/wiki/Little_Johnny_Taylor'
+  - >-
+    https://blues.org/blues_hof_inductee/part-time-love-little-johnny-taylor-galaxy-1963/
 spotify_data:
   followers: 4209
   id: 3amz8sGYUMDNb2wxf4PaTj
   popularity: 12
-  url: https://open.spotify.com/artist/3amz8sGYUMDNb2wxf4PaTj
+  url: 'https://open.spotify.com/artist/3amz8sGYUMDNb2wxf4PaTj'
 status: active
 tags:
-- soul
-title: LITTLE JOHNNY TAYLOR
+  - soul
+title: Little Johnny Taylor
+is_active: false
 ---
 
 ![](little_johnny_taylor.jpg)

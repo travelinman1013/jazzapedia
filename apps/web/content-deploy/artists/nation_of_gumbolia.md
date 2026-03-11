@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-02-09T01:22:25.089021'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:22:25.089027'
 external_urls:
-  spotify: https://open.spotify.com/artist/08WviF7CqxsPZofrx9HD41
+  spotify: 'https://open.spotify.com/artist/08WviF7CqxsPZofrx9HD41'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/nation_of_gumbolia.jpg
@@ -13,18 +13,20 @@ musical_connections:
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.explorelouisiana.com/articles/famous-louisiana-cajun-musician-biographies
-- https://www.gumbolia.com
+  - >-
+    https://www.explorelouisiana.com/articles/famous-louisiana-cajun-musician-biographies
+  - 'https://www.gumbolia.com'
 spotify_data:
   followers: 32
   id: 08WviF7CqxsPZofrx9HD41
   popularity: 0
-  url: https://open.spotify.com/artist/08WviF7CqxsPZofrx9HD41
+  url: 'https://open.spotify.com/artist/08WviF7CqxsPZofrx9HD41'
 status: active
 title: Nation of Gumbolia
+artist_type: band
 ---
 
 ![](nation_of_gumbolia.jpg)

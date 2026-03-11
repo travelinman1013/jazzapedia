@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-25T01:37:56.489341'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:37:56.489350'
 external_urls:
-  spotify: https://open.spotify.com/artist/40fnZjZVf2VQBneRDM4R7X
+  spotify: 'https://open.spotify.com/artist/40fnZjZVf2VQBneRDM4R7X'
   wikipedia: ''
 genres: []
 image_path: ''
@@ -15,19 +15,20 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://brasilcalling.wordpress.com/2025/05/15/brasil-calling-volume-18/
-- https://www.allmusic.com/artist/raissa-fayet-mn0003323598
-- https://www.last.fm/music/Raissa+Fayet
-- https://www.shazam.com/artist/*/1268333227/highlights
-- https://www.youtube.com/watch?v=XQ7bKVU3IZs
-- https://wwoz.org/programs/playlists
+  - 'https://brasilcalling.wordpress.com/2025/05/15/brasil-calling-volume-18/'
+  - 'https://www.allmusic.com/artist/raissa-fayet-mn0003323598'
+  - 'https://www.last.fm/music/Raissa+Fayet'
+  - 'https://www.shazam.com/artist/*/1268333227/highlights'
+  - 'https://www.youtube.com/watch?v=XQ7bKVU3IZs'
+  - 'https://wwoz.org/programs/playlists'
 spotify_data:
   followers: 7
   id: 40fnZjZVf2VQBneRDM4R7X
   popularity: 1
-  url: https://open.spotify.com/artist/40fnZjZVf2VQBneRDM4R7X
+  url: 'https://open.spotify.com/artist/40fnZjZVf2VQBneRDM4R7X'
 status: active
 title: Raissa Fayet
+artist_type: person
 ---
 
 ![]()

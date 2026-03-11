@@ -3,45 +3,47 @@ biography_enhanced_at: '2026-01-24T02:01:18.407836'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:01:18.407842'
 external_urls:
-  spotify: https://open.spotify.com/artist/0EXe9ouWfiyPVWe5dhK04m
+  spotify: 'https://open.spotify.com/artist/0EXe9ouWfiyPVWe5dhK04m'
   wikipedia: ''
 genres:
-- smooth jazz
+  - smooth jazz
 image_path: 03_Resources/source_material/ArtistPortraits/beatlejazz.jpg
 last_updated: '2026-01-24T02:01:18.407843'
 musical_connections:
   collaborators:
-  - Brian Melvin
-  - Dave Kikoski
-  - Larry Grenadier
-  - Toots Thielemans
-  - Joe Lovano
-  - Richard Bona
-  - John Scofield
-  - Mike Stern
-  - Michael Brecker
-  - Randy Brecker
+    - Brian Melvin
+    - Dave Kikoski
+    - Larry Grenadier
+    - Toots Thielemans
+    - Joe Lovano
+    - Richard Bona
+    - John Scofield
+    - Mike Stern
+    - Michael Brecker
+    - Randy Brecker
   influenced: []
   mentors:
-  - Al Foster
+    - Al Foster
 network_extracted: true
-origin: San Francisco, California, USA (origin via Brian Melvin)
+origin: 'San Francisco, California, USA (origin via Brian Melvin)'
 primary_source: perplexity
 research_sources:
-- https://www.innerviews.org/inner/brian-melvin
-- https://www.brownbassmusic.com/david-kikoski
-- https://www.youtube.com/watch?v=QQrX2uL3DUw
-- https://www.allaboutjazz.com/musicians/beatlejazz/
-- https://suzahn.com/beat-lejazz
-- https://www.last.fm/music/Beatlejazz/+wiki
-- https://jazztimes.com/archives/beatlejazz-trio-another-bite-of-the-apple/
+  - 'https://www.innerviews.org/inner/brian-melvin'
+  - 'https://www.brownbassmusic.com/david-kikoski'
+  - 'https://www.youtube.com/watch?v=QQrX2uL3DUw'
+  - 'https://www.allaboutjazz.com/musicians/beatlejazz/'
+  - 'https://suzahn.com/beat-lejazz'
+  - 'https://www.last.fm/music/Beatlejazz/+wiki'
+  - 'https://jazztimes.com/archives/beatlejazz-trio-another-bite-of-the-apple/'
 spotify_data:
   followers: 920
   id: 0EXe9ouWfiyPVWe5dhK04m
   popularity: 5
-  url: https://open.spotify.com/artist/0EXe9ouWfiyPVWe5dhK04m
+  url: 'https://open.spotify.com/artist/0EXe9ouWfiyPVWe5dhK04m'
 status: active
 title: Beatlejazz
+birth_place: 'San Francisco, California, United States'
+artist_type: person
 ---
 
 ![](beatlejazz.jpg)

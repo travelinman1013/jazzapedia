@@ -1,224 +1,227 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e6f17b43-04b1-4a86-86ce-617a3747c987
-  name: Lonnie Smith Trio
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: c7092c54-2774-415b-81dd-792031999fce
-  name: John Abercrombie Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: d656d330-da6d-424b-80b7-985ea0e5024f
-  name: (Another) Nuttree Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: e1823fa7-95ab-4afc-a1c6-3f1886a12973
-  name: Atmospheres
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: cdb62259-7a97-4899-9abc-dc82e3773165
-  name: Bob Mover Trio
-- begin: ''
-  end: ''
-  instruments:
-  - guitar synthesizer
-  mbid: cdb62259-7a97-4899-9abc-dc82e3773165
-  name: Bob Mover Trio
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: c6f8a7f5-1a70-4376-8706-636d9fd5f398
-  name: Bruce Gertz Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  - eponymous
-  - original
-  mbid: 94f517d0-322e-407c-a012-ec5a3bf4a28f
-  name: John Abercrombie Trio
-- begin: ''
-  end: ''
-  instruments:
-  - acoustic guitar
-  mbid: 65bb51c0-1904-4f76-a90f-4b6de407c6f5
-  name: Lars Danielsson Trio
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: 65bb51c0-1904-4f76-a90f-4b6de407c6f5
-  name: Lars Danielsson Trio
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: b1a6b4c4-b0d4-4baa-9efa-486e3f8fd531
-  name: Olivier Le Goas Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: c2578fff-ef0a-43a8-8fa6-e540763be10d
-  name: Paolo Di Sabatino Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 9b1383bf-69a1-4e10-a2e0-6fdc138c10bc
-  name: Ron McClure Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 55e9f94d-be83-477c-9b0d-73238310a3e0
-  name: Stark Reality
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 31704df3-76b4-4e8d-aaa4-1b8a74e14717
-  name: The Don Thompson Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: dec7dfb4-e64c-48a5-9079-0256b2dbc2fa
-  name: The Nuttree Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: ae1082ab-a5b6-4b0f-b712-194cd36eb5ff
-  name: Three Guitars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 307f4b76-ecd6-47a0-93a0-7f7faac82bf7
-  name: Contact
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2bcad36b-fd68-49b1-826e-d16e404c7e1b
-  name: The Gil Evans Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: cd4db7d8-8503-46e7-9d83-0e70bbc5a605
-  name: Dreams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1a86d8ac-6dfa-40c6-ab11-cb4896ed8a4f
-  name: Gateway
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d3d70283-7566-4821-b326-34b689e559c2
-  name: Kenny Wheeler Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: f647d18f-0326-47c4-8a77-b5f26b1a8b7a
-  name: Jack DeJohnette New Directions
-- begin: ''
-  end: ''
-  instruments:
-  - mandolin
-  mbid: f647d18f-0326-47c4-8a77-b5f26b1a8b7a
-  name: Jack DeJohnette New Directions
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: 5025b18d-f457-46cb-992d-13c342586dba
-  name: Jack DeJohnette's Directions
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e6f17b43-04b1-4a86-86ce-617a3747c987
+    name: Lonnie Smith Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c7092c54-2774-415b-81dd-792031999fce
+    name: John Abercrombie Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: d656d330-da6d-424b-80b7-985ea0e5024f
+    name: (Another) Nuttree Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: e1823fa7-95ab-4afc-a1c6-3f1886a12973
+    name: Atmospheres
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: cdb62259-7a97-4899-9abc-dc82e3773165
+    name: Bob Mover Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar synthesizer
+    mbid: cdb62259-7a97-4899-9abc-dc82e3773165
+    name: Bob Mover Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: c6f8a7f5-1a70-4376-8706-636d9fd5f398
+    name: Bruce Gertz Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+      - eponymous
+      - original
+    mbid: 94f517d0-322e-407c-a012-ec5a3bf4a28f
+    name: John Abercrombie Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - acoustic guitar
+    mbid: 65bb51c0-1904-4f76-a90f-4b6de407c6f5
+    name: Lars Danielsson Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: 65bb51c0-1904-4f76-a90f-4b6de407c6f5
+    name: Lars Danielsson Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: b1a6b4c4-b0d4-4baa-9efa-486e3f8fd531
+    name: Olivier Le Goas Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: c2578fff-ef0a-43a8-8fa6-e540763be10d
+    name: Paolo Di Sabatino Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 9b1383bf-69a1-4e10-a2e0-6fdc138c10bc
+    name: Ron McClure Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 55e9f94d-be83-477c-9b0d-73238310a3e0
+    name: Stark Reality
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 31704df3-76b4-4e8d-aaa4-1b8a74e14717
+    name: The Don Thompson Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: dec7dfb4-e64c-48a5-9079-0256b2dbc2fa
+    name: The Nuttree Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: ae1082ab-a5b6-4b0f-b712-194cd36eb5ff
+    name: Three Guitars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 307f4b76-ecd6-47a0-93a0-7f7faac82bf7
+    name: Contact
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2bcad36b-fd68-49b1-826e-d16e404c7e1b
+    name: The Gil Evans Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: cd4db7d8-8503-46e7-9d83-0e70bbc5a605
+    name: Dreams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1a86d8ac-6dfa-40c6-ab11-cb4896ed8a4f
+    name: Gateway
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d3d70283-7566-4821-b326-34b689e559c2
+    name: Kenny Wheeler Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: f647d18f-0326-47c4-8a77-b5f26b1a8b7a
+    name: Jack DeJohnette New Directions
+  - begin: ''
+    end: ''
+    instruments:
+      - mandolin
+    mbid: f647d18f-0326-47c4-8a77-b5f26b1a8b7a
+    name: Jack DeJohnette New Directions
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: 5025b18d-f457-46cb-992d-13c342586dba
+    name: Jack DeJohnette's Directions
 biography_enhanced_at: '2026-01-29T01:59:10.443717'
 birth_date: '1944-12-16'
-birth_place: Port Chester
+birth_place: 'Port Chester, New York, United States'
 death_date: '2017-08-22'
 disambiguation: American jazz guitarist
 enhancement_provider: perplexity
 entry_created: '2026-01-29T01:59:10.443727'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/80c75300-9cf2-4daf-bb23-5fe15964e671
-  spotify: https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa
+  musicbrainz: 'https://musicbrainz.org/artist/80c75300-9cf2-4daf-bb23-5fe15964e671'
+  spotify: 'https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa'
   wikipedia: ''
 gender: Male
 genres:
-- jazz fusion
-- ambient jazz
-- jazz
+  - jazz fusion
+  - ambient jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/john_abercrombie.jpg
 instruments:
-- original
-- guitar
-- electric guitar
-- guitar synthesizer
-- eponymous
-- acoustic guitar
-- mandolin
-- guitar family
-- baritone guitar
+  - original
+  - guitar
+  - electric guitar
+  - guitar synthesizer
+  - eponymous
+  - acoustic guitar
+  - mandolin
+  - guitar family
+  - baritone guitar
 last_updated: '2026-01-29T01:59:10.443729'
 musical_connections:
   collaborators:
-  - Jack DeJohnette
-  - Dave Holland
-  - Ralph Towner
-  - Marc Johnson
-  - Peter Erskine
-  - Brecker Brothers (Michael and Randy)
-  - Billy Cobham
-  - Jan Hammer
-  - Richie Beirach
-  - Johnny 'Hammond' Smith
+    - Jack DeJohnette
+    - Dave Holland
+    - Ralph Towner
+    - Marc Johnson
+    - Peter Erskine
+    - Brecker Brothers (Michael and Randy)
+    - Billy Cobham
+    - Jan Hammer
+    - Richie Beirach
+    - Johnny 'Hammond' Smith
   influenced:
-  - Pat Metheny
-  - Bill Frisell
+    - Pat Metheny
+    - Bill Frisell
   mentors:
-  - Barney Kessel
-  - Jack Peterson
-  - Herb Pomeroy
-  - Jim Hall
+    - Barney Kessel
+    - Jack Peterson
+    - Herb Pomeroy
+    - Jim Hall
 musicbrainz_id: 80c75300-9cf2-4daf-bb23-5fe15964e671
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jazzguitarlessons.net/blog/john-abercrombie
-- https://jazzguitartoday.com/2021/03/three-gems-of-john-abercrombie-easily-overlooked/
-- https://www.vintageguitar.com/32849/john-abercrombie-2/
-- https://www.durhamjazzworkshop.org/john-abercrombie.html
-- https://jazztimes.com/artists/john-abercrombie/
-- https://www.mymusicmasterclass.com/artist/artists/john-abercrombie/
-- https://www.berklee.edu/berklee-today/fall-2018/remembering-guitar-giant
-- https://downbeat.com/archives/detail/the-moment-looks-for-you
+  - 'https://www.jazzguitarlessons.net/blog/john-abercrombie'
+  - >-
+    https://jazzguitartoday.com/2021/03/three-gems-of-john-abercrombie-easily-overlooked/
+  - 'https://www.vintageguitar.com/32849/john-abercrombie-2/'
+  - 'https://www.durhamjazzworkshop.org/john-abercrombie.html'
+  - 'https://jazztimes.com/artists/john-abercrombie/'
+  - 'https://www.mymusicmasterclass.com/artist/artists/john-abercrombie/'
+  - 'https://www.berklee.edu/berklee-today/fall-2018/remembering-guitar-giant'
+  - 'https://downbeat.com/archives/detail/the-moment-looks-for-you'
 spotify_data:
   followers: 42021
   id: 1OCdpTg8d7Ehpj8B9j4iqa
   popularity: 32
-  url: https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa
+  url: 'https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa'
 status: active
 tags:
-- avant-garde jazz
-- contemporary jazz
-- free jazz
+  - avant-garde jazz
+  - contemporary jazz
+  - free jazz
 title: John Abercrombie
+is_active: false
+origin: 'Greenwich, Connecticut, United States'
 ---
 
 ![](john_abercrombie.jpg)

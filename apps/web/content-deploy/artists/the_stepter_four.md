@@ -3,29 +3,31 @@ biography_enhanced_at: '2026-02-24T01:45:45.624679'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:45:45.624691'
 external_urls:
-  spotify: https://open.spotify.com/artist/6xdFsMFxXyWpySJOLE53xh
+  spotify: 'https://open.spotify.com/artist/6xdFsMFxXyWpySJOLE53xh'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-02-24T01:45:45.624692'
 musical_connections:
   collaborators:
-  - Stars of Faith
+    - Stars of Faith
   influenced: []
   mentors: []
 network_extracted: true
-origin: Senatobia, Mississippi, USA
+origin: 'Senatobia, Mississippi, USA'
 primary_source: perplexity
 research_sources:
-- https://glidemagazine.com/248072/song-premiere-70s-memphis-gospel-group-stars-of-faith-unleash-hard-grooving-soul-on-sitting-down/
-- https://www.youtube.com/watch?v=oEE4TNAzwQM
+  - >-
+    https://glidemagazine.com/248072/song-premiere-70s-memphis-gospel-group-stars-of-faith-unleash-hard-grooving-soul-on-sitting-down/
+  - 'https://www.youtube.com/watch?v=oEE4TNAzwQM'
 spotify_data:
   followers: 1
   id: 6xdFsMFxXyWpySJOLE53xh
   popularity: 0
-  url: https://open.spotify.com/artist/6xdFsMFxXyWpySJOLE53xh
+  url: 'https://open.spotify.com/artist/6xdFsMFxXyWpySJOLE53xh'
 status: active
 title: The Stepter Four
+artist_type: band
 ---
 
 ![]()

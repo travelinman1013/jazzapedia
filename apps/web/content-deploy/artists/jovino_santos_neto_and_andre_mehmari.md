@@ -3,44 +3,53 @@ biography_enhanced_at: '2026-02-08T02:02:20.310147'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:02:20.310159'
 external_urls:
-  spotify: https://open.spotify.com/artist/3J1tatCpxpvNf70KfLcdmc
+  spotify: 'https://open.spotify.com/artist/3J1tatCpxpvNf70KfLcdmc'
   wikipedia: Not found in search results
 genres:
-- trap funk
-image_path: 03_Resources/source_material/ArtistPortraits/jovino_santos_neto_and_andre_mehmari.jpg
+  - trap funk
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jovino_santos_neto_and_andre_mehmari.jpg
 last_updated: '2026-02-08T02:02:20.310162'
 musical_connections:
   collaborators:
-  - André Mehmari
-  - Hermeto Pascoal
-  - Airto Moreira and Flora Purim
-  - Bill Frisell, Paquito d'Rivera, João Donato, Joyce, Paula Morelenbaum, Monica
-    Salmaso, Ricardo Silveira, Gabriel Grossi
+    - André Mehmari
+    - Hermeto Pascoal
+    - Airto Moreira and Flora Purim
+    - >-
+      Bill Frisell, Paquito d'Rivera, João Donato, Joyce, Paula Morelenbaum,
+      Monica Salmaso, Ricardo Silveira, Gabriel Grossi
   influenced:
-  - Multiple generations of Brazilian musicians
+    - Multiple generations of Brazilian musicians
   mentors:
-  - Hermeto Pascoal
+    - Hermeto Pascoal
 network_extracted: true
-origin: Rio de Janeiro, Brazil (Jovino Santos Neto birthplace); São Paulo, Brazil
+origin: >-
+  Rio de Janeiro, Brazil (Jovino Santos Neto birthplace); São Paulo, Brazil
   (André Mehmari origin)
 primary_source: perplexity
 research_sources:
-- https://thebraziliansound.blogspot.com/2011/10/interview-with-jovino-santos-neto_21.html
-- https://worldmusicreport.com/reviews/albums/jovino-santos-neto-andre-mehmari-guris/
-- https://www.jovisan.net/bio.html
-- https://en.wikipedia.org/wiki/André_Mehmari
-- https://canvasrebel.com/meet-jovino-santos-neto/
-- https://musicabrasileira.org/artists/andre-mehmari/
-- https://jovino.substack.com/p/music-is-powerful
-- https://latinjazznet.com/reviews/albums/brasilian-report/andre-mehmari-canteiro/
-- https://jazztimes.com/archives/jovino-santos-neto-2/
+  - >-
+    https://thebraziliansound.blogspot.com/2011/10/interview-with-jovino-santos-neto_21.html
+  - >-
+    https://worldmusicreport.com/reviews/albums/jovino-santos-neto-andre-mehmari-guris/
+  - 'https://www.jovisan.net/bio.html'
+  - 'https://en.wikipedia.org/wiki/André_Mehmari'
+  - 'https://canvasrebel.com/meet-jovino-santos-neto/'
+  - 'https://musicabrasileira.org/artists/andre-mehmari/'
+  - 'https://jovino.substack.com/p/music-is-powerful'
+  - >-
+    https://latinjazznet.com/reviews/albums/brasilian-report/andre-mehmari-canteiro/
+  - 'https://jazztimes.com/archives/jovino-santos-neto-2/'
 spotify_data:
   followers: 209
   id: 3J1tatCpxpvNf70KfLcdmc
   popularity: 13
-  url: https://open.spotify.com/artist/3J1tatCpxpvNf70KfLcdmc
+  url: 'https://open.spotify.com/artist/3J1tatCpxpvNf70KfLcdmc'
 status: active
 title: Jovino Santos Neto & Andre Mehmari
+birth_place: 'Rio de Janeiro, Brazil'
+birth_date: '1977-04-22'
+artist_type: person
 ---
 
 ![](jovino_santos_neto_and_andre_mehmari.jpg)

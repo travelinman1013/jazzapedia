@@ -2,51 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:38:02.809631'
 birth_date: '1985-09-25'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:38:02.809641'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a7472b5e-9b6e-48a6-b910-37c940487086
-  spotify: https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J
-  wikipedia: https://en.wikipedia.org/wiki/Lucky_Daye
+  musicbrainz: 'https://musicbrainz.org/artist/a7472b5e-9b6e-48a6-b910-37c940487086'
+  spotify: 'https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lucky_Daye'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/lucky_daye.jpg
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 last_updated: '2026-03-03T01:38:02.809643'
 musical_connections:
   collaborators:
-  - D’Mile
-  - DJ Camper
-  - Mark Ronson
-  - Ella Mai
-  - Syd
-  - Yebba
-  - Victoria Monét
+    - D’Mile
+    - DJ Camper
+    - Mark Ronson
+    - Ella Mai
+    - Syd
+    - Yebba
+    - Victoria Monét
   influenced: []
   mentors:
-  - D’Mile (Dernst Emile)
+    - D’Mile (Dernst Emile)
 musicbrainz_id: a7472b5e-9b6e-48a6-b910-37c940487086
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.umusicpub.com/us/Artists/L/Lucky-Daye.aspx
-- https://en.wikipedia.org/wiki/Lucky_Daye
-- https://www.last.fm/music/Lucky+Daye/+wiki
-- https://www.vice.com/en/article/lucky-daye-painted-interview/
-- https://www.themodernlifemag.com/perspective/2019/9/11/from-cult-upringing-to-cult-following-lucky-daye-heads-towards-the-mainstream
-- https://notion.online/its-our-lucky-daye/
+  - 'https://www.umusicpub.com/us/Artists/L/Lucky-Daye.aspx'
+  - 'https://en.wikipedia.org/wiki/Lucky_Daye'
+  - 'https://www.last.fm/music/Lucky+Daye/+wiki'
+  - 'https://www.vice.com/en/article/lucky-daye-painted-interview/'
+  - >-
+    https://www.themodernlifemag.com/perspective/2019/9/11/from-cult-upringing-to-cult-following-lucky-daye-heads-towards-the-mainstream
+  - 'https://notion.online/its-our-lucky-daye/'
 spotify_data:
   followers: 933203
   id: 5Vuvs6Py2JRU7WiFDVsI7J
   popularity: 61
-  url: https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J
+  url: 'https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J'
 status: active
 tags:
-- alternative r&b
-title: LUCKY DAYE
+  - alternative r&b
+title: Lucky Daye
 ---
 
 ![](lucky_daye.jpg)

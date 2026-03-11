@@ -3,41 +3,44 @@ biography_enhanced_at: '2026-03-01T01:58:24.020127'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T01:58:24.020138'
 external_urls:
-  spotify: https://open.spotify.com/artist/4gd7YsxxyQgF1CKmnxS6Qg
-  wikipedia: https://en.wikipedia.org/wiki/Daniela_Mercury
+  spotify: 'https://open.spotify.com/artist/4gd7YsxxyQgF1CKmnxS6Qg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Daniela_Mercury'
 genres: []
 image_path: ''
 last_updated: '2026-03-01T01:58:24.020139'
 musical_connections:
   collaborators:
-  - Vânia Abreu
-  - Olodum
-  - Herbert Vianna
-  - Carlinhos Brown
-  - Margareth Menezes
+    - Vânia Abreu
+    - Olodum
+    - Herbert Vianna
+    - Carlinhos Brown
+    - Margareth Menezes
   influenced: []
   mentors:
-  - Elis Regina
+    - Elis Regina
 network_extracted: true
-origin: Salvador, Bahia, Brazil
+origin: 'Salvador, Bahia, Brazil'
 primary_source: perplexity
 research_sources:
-- https://simple.wikipedia.org/wiki/Daniela_Mercury
-- https://en.wikipedia.org/wiki/Daniela_Mercury
-- https://en.wikipedia.org/wiki/V%C3%A2nia_Abreu
-- https://www.slipcue.com/music/brazil/mercury.html
-- https://www.allmusic.com/artist/daniela-mercury-mn0000957520
-- https://bigzbossanovabeat.wordpress.com/2016/06/28/master-composers-daniela-mercury-has-lots-of-talent/
-- https://music.youtube.com/channel/UCmwDx-ch1UqjKpi8JlsE_9Q
-- https://www.viberate.com/artist/vania-abreu/
-- https://www.salon.com/2008/08/13/mercury_2/
+  - 'https://simple.wikipedia.org/wiki/Daniela_Mercury'
+  - 'https://en.wikipedia.org/wiki/Daniela_Mercury'
+  - 'https://en.wikipedia.org/wiki/V%C3%A2nia_Abreu'
+  - 'https://www.slipcue.com/music/brazil/mercury.html'
+  - 'https://www.allmusic.com/artist/daniela-mercury-mn0000957520'
+  - >-
+    https://bigzbossanovabeat.wordpress.com/2016/06/28/master-composers-daniela-mercury-has-lots-of-talent/
+  - 'https://music.youtube.com/channel/UCmwDx-ch1UqjKpi8JlsE_9Q'
+  - 'https://www.viberate.com/artist/vania-abreu/'
+  - 'https://www.salon.com/2008/08/13/mercury_2/'
 spotify_data:
   followers: 0
   id: 4gd7YsxxyQgF1CKmnxS6Qg
   popularity: 1
-  url: https://open.spotify.com/artist/4gd7YsxxyQgF1CKmnxS6Qg
+  url: 'https://open.spotify.com/artist/4gd7YsxxyQgF1CKmnxS6Qg'
 status: active
 title: Daniela Mercury & Vania Abreu
+birth_place: 'Salvador, Bahia, Brazil'
+artist_type: band
 ---
 
 ![]()

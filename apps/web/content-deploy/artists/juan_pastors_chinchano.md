@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-24T02:01:00.569585'
-birth_place: Lima, Peru
+birth_place: 'Lima, Peru, Peru'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:01:00.569591'
 external_urls:
-  spotify: https://open.spotify.com/artist/6tAWPcYXFqtDTsIb7g9r1j
+  spotify: 'https://open.spotify.com/artist/6tAWPcYXFqtDTsIb7g9r1j'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/juan_pastors_chinchano.jpg
 last_updated: '2026-01-24T02:01:00.569591'
 musical_connections:
   collaborators:
-  - Dustin Laurenzi
-  - Stu Mindeman
-  - Matt Ulery
-  - Makarito Nicasio
-  - Edu Campos
-  - Freddy “Huevito” Lobatón
+    - Dustin Laurenzi
+    - Stu Mindeman
+    - Matt Ulery
+    - Makarito Nicasio
+    - Edu Campos
+    - Freddy “Huevito” Lobatón
   influenced: []
   mentors:
-  - Eusebio Sirio “Pititi”
-  - Greg Beyer
-  - Dana Hall
+    - Eusebio Sirio “Pititi”
+    - Greg Beyer
+    - Dana Hall
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.northcentralcollege.edu/profile/jdpastor
-- https://www.allaboutjazz.com/musicians/juan-pastor/
-- https://news.wttw.com/2021/07/13/peruvian-percussionist-makes-modern-music-traditional-drum
-- https://artlitlab.org/artists/juan-pastor-0
-- https://andysjazzclub.com/events/late-night-concert-series-w-chinchano/
-- https://www.juan-pastor.com
-- https://www.chicagojazz.com/post/2015/12/22/juan-pastor-talks-chinchano
+  - 'https://www.northcentralcollege.edu/profile/jdpastor'
+  - 'https://www.allaboutjazz.com/musicians/juan-pastor/'
+  - >-
+    https://news.wttw.com/2021/07/13/peruvian-percussionist-makes-modern-music-traditional-drum
+  - 'https://artlitlab.org/artists/juan-pastor-0'
+  - 'https://andysjazzclub.com/events/late-night-concert-series-w-chinchano/'
+  - 'https://www.juan-pastor.com'
+  - 'https://www.chicagojazz.com/post/2015/12/22/juan-pastor-talks-chinchano'
 spotify_data:
   followers: 19
   id: 6tAWPcYXFqtDTsIb7g9r1j
   popularity: 1
-  url: https://open.spotify.com/artist/6tAWPcYXFqtDTsIb7g9r1j
+  url: 'https://open.spotify.com/artist/6tAWPcYXFqtDTsIb7g9r1j'
 status: active
 title: Juan Pastor's Chinchano
+artist_type: band
 ---
 
 ![](juan_pastors_chinchano.jpg)

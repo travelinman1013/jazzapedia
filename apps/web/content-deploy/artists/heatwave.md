@@ -1,111 +1,112 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-23T01:44:10.294998'
 birth_date: '1975'
 disambiguation: 70s/80s R&B/funk band
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:44:10.295004'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ce809639-0e34-40c4-86c9-90a162cb3d46
-  spotify: https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY
-  wikipedia: https://en.wikipedia.org/wiki/Heatwave_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/ce809639-0e34-40c4-86c9-90a162cb3d46'
+  spotify: 'https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Heatwave_(band)'
 genres:
-- disco
-- funk
+  - disco
+  - funk
 image_path: 03_Resources/source_material/ArtistPortraits/heatwave.jpg
 last_updated: '2026-01-23T01:44:10.295005'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 296950bc-deb3-49fb-a401-e52251cc96ed
-  name: Ernest Berger
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f87fa6e4-3e12-46d8-80a4-0efb3f659952
-  name: Derek Bramble
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f1eabb3a-6c7c-40b7-bc3c-938acd2442ea
-  name: Roy Carter
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d177a926-80ec-40b7-b1de-339d87a2013d
-  name: Calvin Duke
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eb47dbe7-04a8-409b-befe-951c2be99b5f
-  name: Keith Harrison
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5a98de0a-b4c6-4445-b04f-420999868f6c
-  name: Eric Johns
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 39d5a256-7ff6-4e52-a9d9-fce468f5326d
-  name: William Jones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e5cffc61-2d60-416f-838c-0d24c3415dd8
-  name: Mario Mantese
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b5860314-abf6-4455-9c20-aa85df789a70
-  name: J.D. Nicholas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ac6cc156-eb47-4c98-9b04-b57ece512950
-  name: Rod Temperton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4081489a-c7f2-406d-8aa3-1ff00595f433
-  name: Johnnie Wilder, Jr.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 762cab8e-cbee-4ea5-8cdf-01075ebc0c09
-  name: Keith Wilder
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 296950bc-deb3-49fb-a401-e52251cc96ed
+    name: Ernest Berger
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f87fa6e4-3e12-46d8-80a4-0efb3f659952
+    name: Derek Bramble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f1eabb3a-6c7c-40b7-bc3c-938acd2442ea
+    name: Roy Carter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d177a926-80ec-40b7-b1de-339d87a2013d
+    name: Calvin Duke
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eb47dbe7-04a8-409b-befe-951c2be99b5f
+    name: Keith Harrison
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5a98de0a-b4c6-4445-b04f-420999868f6c
+    name: Eric Johns
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 39d5a256-7ff6-4e52-a9d9-fce468f5326d
+    name: William Jones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e5cffc61-2d60-416f-838c-0d24c3415dd8
+    name: Mario Mantese
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b5860314-abf6-4455-9c20-aa85df789a70
+    name: J.D. Nicholas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ac6cc156-eb47-4c98-9b04-b57ece512950
+    name: Rod Temperton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4081489a-c7f2-406d-8aa3-1ff00595f433
+    name: 'Johnnie Wilder, Jr.'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 762cab8e-cbee-4ea5-8cdf-01075ebc0c09
+    name: Keith Wilder
 musical_connections:
   collaborators:
-  - Rod Temperton
-  - Keith Wilder
-  - Phil Ramone
-  - Derek Bramble
+    - Rod Temperton
+    - Keith Wilder
+    - Phil Ramone
+    - Derek Bramble
   influenced: []
   mentors:
-  - Barry Blue
+    - Barry Blue
 musicbrainz_id: ce809639-0e34-40c4-86c9-90a162cb3d46
 network_extracted: true
-origin: London, England, UK (formed)
+origin: 'London, England, UK (formed)'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Heatwave/+wiki
-- https://en.wikipedia.org/wiki/Heatwave_(band)
-- https://5mag.net/features/foundations/heatwave/
-- http://www.shalondainc.com/heatwave/biography.htm
-- https://thefunkcenter.org/heatwave/
-- https://thegroovedelivery.com/blog/exploring-the-legacy-of-heatwave-my-favorite-funk-band
+  - 'https://www.last.fm/music/Heatwave/+wiki'
+  - 'https://en.wikipedia.org/wiki/Heatwave_(band)'
+  - 'https://5mag.net/features/foundations/heatwave/'
+  - 'http://www.shalondainc.com/heatwave/biography.htm'
+  - 'https://thefunkcenter.org/heatwave/'
+  - >-
+    https://thegroovedelivery.com/blog/exploring-the-legacy-of-heatwave-my-favorite-funk-band
 spotify_data:
   followers: 495838
   id: 6D7h7R79IZjqJC2GM2wzyY
   popularity: 50
-  url: https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY
+  url: 'https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY'
 status: active
 tags:
-- classic pop and rock
-- disco
-- funk
-title: HEATWAVE
+  - classic pop and rock
+  - disco
+  - funk
+title: Heatwave
 ---
 
 ![](heatwave.jpg)

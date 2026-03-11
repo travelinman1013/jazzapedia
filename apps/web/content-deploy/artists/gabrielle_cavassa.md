@@ -1,46 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-13T01:24:13.277678'
-birth_place: Escondido, California, United States
+birth_place: 'Escondido, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:24:13.277687'
 external_urls:
-  spotify: https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk
-  wikipedia: https://en.wikipedia.org/wiki/Gabrielle_Cavassa
+  spotify: 'https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gabrielle_Cavassa'
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/gabrielle_cavassa.jpg
 last_updated: '2026-02-13T01:24:13.277689'
 musical_connections:
   collaborators:
-  - Jamison Ross
-  - Joshua Redman
-  - Adonis Rose
-  - Irvin Mayfield
-  - Cyrille Aimée
-  - Nicholas Payton
-  - Quiana Lynell
+    - Jamison Ross
+    - Joshua Redman
+    - Adonis Rose
+    - Irvin Mayfield
+    - Cyrille Aimée
+    - Nicholas Payton
+    - Quiana Lynell
   influenced: []
   mentors:
-  - Billie Holiday
-  - Phyllis Hyman
-  - Ornella Vanoni
-  - Jeff Buckley
+    - Billie Holiday
+    - Phyllis Hyman
+    - Ornella Vanoni
+    - Jeff Buckley
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/gabrielle-cavassa/
-- https://gabriellecavassa.com/about/
-- https://www.bluenote.com/artist/gabrielle-cavassa/
-- https://en.wikipedia.org/wiki/Gabrielle_Cavassa
-- https://gabriellecavassa.com/wp-content/uploads/2021/08/Full-bio-GC-2021.pdf
-- https://www.bluenote.com/gabrielle-cavassa-signs-with-blue-note/
+  - 'https://www.allaboutjazz.com/musicians/gabrielle-cavassa/'
+  - 'https://gabriellecavassa.com/about/'
+  - 'https://www.bluenote.com/artist/gabrielle-cavassa/'
+  - 'https://en.wikipedia.org/wiki/Gabrielle_Cavassa'
+  - 'https://gabriellecavassa.com/wp-content/uploads/2021/08/Full-bio-GC-2021.pdf'
+  - 'https://www.bluenote.com/gabrielle-cavassa-signs-with-blue-note/'
 spotify_data:
   followers: 6747
   id: 6V9mKint0pfZjIbeFF9vQk
   popularity: 31
-  url: https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk
+  url: 'https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk'
 status: active
 title: Gabrielle Cavassa
+birth_date: '1994-07-05'
+artist_type: person
 ---
 
 ![](gabrielle_cavassa.jpg)

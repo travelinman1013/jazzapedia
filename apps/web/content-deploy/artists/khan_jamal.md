@@ -1,46 +1,54 @@
 ---
 biography_enhanced_at: '2026-02-25T02:02:36.141624'
-birth_place: Jacksonville, Florida, USA
+birth_place: 'Jacksonville, Florida, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:02:36.141635'
 external_urls:
-  spotify: https://open.spotify.com/artist/5zLBhiKqAG2xGljDqTN5Up
+  spotify: 'https://open.spotify.com/artist/5zLBhiKqAG2xGljDqTN5Up'
   wikipedia: ''
 genres:
-- free jazz
+  - free jazz
 image_path: 03_Resources/source_material/ArtistPortraits/khan_jamal.jpg
 last_updated: '2026-02-25T02:02:36.141637'
 musical_connections:
   collaborators:
-  - Sun Ra Arkestra
-  - Sunny Murray
-  - Byard Lancaster
-  - Monnette Sudler
-  - Archie Shepp
-  - Grachan Moncur III
-  - Ronald Shannon Jackson
-  - Johnny Mbizo Dyani
+    - Sun Ra Arkestra
+    - Sunny Murray
+    - Byard Lancaster
+    - Monnette Sudler
+    - Archie Shepp
+    - Grachan Moncur III
+    - Ronald Shannon Jackson
+    - Johnny Mbizo Dyani
   influenced: []
   mentors:
-  - Bill Lewis
-  - Byard Lancaster
+    - Bill Lewis
+    - Byard Lancaster
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.wbgo.org/music/2022-01-11/khan-jamal-vibraphonist-who-merged-free-jazz-and-fusion-in-a-spiritual-vein-is-dead-at-75
-- https://jazztimes.com/features/tributes-and-obituaries/vibraphonist-and-bandleader-khan-jamal-dies-at-75/
-- https://kids.kiddle.co/Khan_Jamal
-- https://www.wrti.org/arts-desk/2022-01-14/vibraphonist-khan-jamal-has-died-at-75
-- https://www.allaboutjazz.com/musicians/khan-jamal/
-- https://www.roughtrade.com/artist/khan-jamal
-- https://www.nts.live/shows/in-focus/episodes/in-focus-khan-jamal-4th-october-2024
+  - >-
+    https://www.wbgo.org/music/2022-01-11/khan-jamal-vibraphonist-who-merged-free-jazz-and-fusion-in-a-spiritual-vein-is-dead-at-75
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/vibraphonist-and-bandleader-khan-jamal-dies-at-75/
+  - 'https://kids.kiddle.co/Khan_Jamal'
+  - >-
+    https://www.wrti.org/arts-desk/2022-01-14/vibraphonist-khan-jamal-has-died-at-75
+  - 'https://www.allaboutjazz.com/musicians/khan-jamal/'
+  - 'https://www.roughtrade.com/artist/khan-jamal'
+  - >-
+    https://www.nts.live/shows/in-focus/episodes/in-focus-khan-jamal-4th-october-2024
 spotify_data:
   followers: 1407
   id: 5zLBhiKqAG2xGljDqTN5Up
   popularity: 9
-  url: https://open.spotify.com/artist/5zLBhiKqAG2xGljDqTN5Up
+  url: 'https://open.spotify.com/artist/5zLBhiKqAG2xGljDqTN5Up'
 status: active
 title: Khan Jamal
+origin: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1946-07-23'
+death_date: '2022-01-10'
+artist_type: person
 ---
 
 ![](khan_jamal.jpg)

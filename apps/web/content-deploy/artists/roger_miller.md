@@ -2,58 +2,60 @@
 artist_type: person
 biography_enhanced_at: '2026-02-03T02:07:48.108330'
 birth_date: '1936-01-02'
-birth_place: Fort Worth
+birth_place: 'Fort Worth, Texas, United States'
 death_date: '1992-10-25'
-disambiguation: US singer/songwriter/actor, “King of the Road”
+disambiguation: 'US singer/songwriter/actor, “King of the Road”'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:07:48.108337'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/102045e3-577c-4b10-b01b-424b7e461094
-  spotify: https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8
-  wikipedia: https://en.wikipedia.org/wiki/Roger_Miller
+  musicbrainz: 'https://musicbrainz.org/artist/102045e3-577c-4b10-b01b-424b7e461094'
+  spotify: 'https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roger_Miller'
 gender: Male
 genres:
-- classic country
+  - classic country
 image_path: 03_Resources/source_material/ArtistPortraits/roger_miller.jpg
 instruments:
-- guitar
-- background vocals
-- choir vocals
-- lead vocals
+  - guitar
+  - background vocals
+  - choir vocals
+  - lead vocals
 last_updated: '2026-02-03T02:07:48.108338'
 musical_connections:
   collaborators:
-  - Bill Anderson
-  - Ray Price
-  - Willie Nelson
-  - Donny Little (Johnny Paycheck)
+    - Bill Anderson
+    - Ray Price
+    - Willie Nelson
+    - Donny Little (Johnny Paycheck)
   influenced:
-  - Alan Jackson
-  - Brooks & Dunn
+    - Alan Jackson
+    - Brooks & Dunn
   mentors:
-  - Ray Price
-  - Minnie Pearl
-  - Faron Young
+    - Ray Price
+    - Minnie Pearl
+    - Faron Young
 musicbrainz_id: 102045e3-577c-4b10-b01b-424b7e461094
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Roger_Miller
-- https://alancackett.com/roger-miller-biography
-- https://www.okhistory.org/publications/enc/entry?entry=MI031
-- https://rogermiller.com/biography/
-- https://www.countrymusichalloffame.org/artist/roger-miller
+  - 'https://en.wikipedia.org/wiki/Roger_Miller'
+  - 'https://alancackett.com/roger-miller-biography'
+  - 'https://www.okhistory.org/publications/enc/entry?entry=MI031'
+  - 'https://rogermiller.com/biography/'
+  - 'https://www.countrymusichalloffame.org/artist/roger-miller'
 spotify_data:
   followers: 302127
   id: 1RP2UpEaRzkF0Id3JigqD8
   popularity: 54
-  url: https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8
+  url: 'https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8'
 status: active
 tags:
-- 2008 universal fire victim
-- classic country
-- country
-title: ROGER MILLER
+  - 2008 universal fire victim
+  - classic country
+  - country
+title: Roger Miller
+is_active: false
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](roger_miller.jpg)

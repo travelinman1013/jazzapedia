@@ -1,72 +1,76 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 20d92853-affd-417a-8122-7ad7312a4ab2
-  name: Orchestra Harlow
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b61339a-4074-43a6-bf6b-7f9d0d5d530f
-  name: Fania All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 20d92853-affd-417a-8122-7ad7312a4ab2
+    name: Orchestra Harlow
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b61339a-4074-43a6-bf6b-7f9d0d5d530f
+    name: Fania All-Stars
 biography_enhanced_at: '2026-02-22T01:47:15.456809'
 birth_date: '1939-03-20'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 death_date: '2021-08-20'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:47:15.456819'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/da41db71-1e34-46c8-a74c-797811943c4c
-  spotify: https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J
+  musicbrainz: 'https://musicbrainz.org/artist/da41db71-1e34-46c8-a74c-797811943c4c'
+  spotify: 'https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J'
   wikipedia: ''
 gender: Male
 genres:
-- salsa
-- latin jazz
-- son cubano
+  - salsa
+  - latin jazz
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/larry_harlow.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-02-22T01:47:15.456820'
 musical_connections:
   collaborators:
-  - Johnny Pacheco
-  - Jerry Masucci
-  - Celia Cruz
-  - Ismael Miranda
-  - Ray Barretto
-  - Adalberto Santiago
-  - Yomo Toro
-  - Alfredo 'Chocolate' Armenteros
+    - Johnny Pacheco
+    - Jerry Masucci
+    - Celia Cruz
+    - Ismael Miranda
+    - Ray Barretto
+    - Adalberto Santiago
+    - Yomo Toro
+    - Alfredo 'Chocolate' Armenteros
   influenced:
-  - Eddie Palmieri
-  - Willie Colón
+    - Eddie Palmieri
+    - Willie Colón
   mentors:
-  - Arsenio Rodríguez
-  - Buddy Kahn
+    - Arsenio Rodríguez
+    - Buddy Kahn
 musicbrainz_id: da41db71-1e34-46c8-a74c-797811943c4c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://open.substack.com/pub/aurorafloreshostos/p/larry-harlow-el-judio-maravilloso?r=lcx8c
-- https://jazztimes.com/features/tributes-and-obituaries/larry-harlow-1939-2021/
-- https://edmorales.net/2021/12/19/larry-harlow-a-salsa-revolutionary/
-- https://aish.com/the-marvelous-jew-larry-harlow-and-the-unlikely-birth-of-salsa/
-- http://www.salsablvd.com/biographies/larry-harlow.htm
-- https://fania.com/artist/larry-harlow/
-- https://rebooting.com/article/remembering-larry-harlow/
+  - >-
+    https://open.substack.com/pub/aurorafloreshostos/p/larry-harlow-el-judio-maravilloso?r=lcx8c
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/larry-harlow-1939-2021/
+  - 'https://edmorales.net/2021/12/19/larry-harlow-a-salsa-revolutionary/'
+  - >-
+    https://aish.com/the-marvelous-jew-larry-harlow-and-the-unlikely-birth-of-salsa/
+  - 'http://www.salsablvd.com/biographies/larry-harlow.htm'
+  - 'https://fania.com/artist/larry-harlow/'
+  - 'https://rebooting.com/article/remembering-larry-harlow/'
 spotify_data:
   followers: 135121
   id: 2PGJmP6AvSCQ7pKBOjrg8J
   popularity: 37
-  url: https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J
+  url: 'https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J'
 status: active
 tags:
-- latin
-- salsa
+  - latin
+  - salsa
 title: Larry Harlow
+is_active: false
 ---
 
 ![](larry_harlow.jpg)

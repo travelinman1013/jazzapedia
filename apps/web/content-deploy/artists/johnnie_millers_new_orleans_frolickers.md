@@ -3,34 +3,37 @@ biography_enhanced_at: '2026-02-26T01:18:27.731417'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:18:27.731426'
 external_urls:
-  spotify: https://open.spotify.com/artist/5q4hZcLEuOgoGCYJa7nqF1
+  spotify: 'https://open.spotify.com/artist/5q4hZcLEuOgoGCYJa7nqF1'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-02-26T01:18:27.731428'
 musical_connections:
   collaborators:
-  - Leo Adde
-  - Chink Martin
-  - Tom Brown
+    - Leo Adde
+    - Chink Martin
+    - Tom Brown
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://musicrising.tulane.edu/wp-content/uploads/sites/3/2018/05/Albert-Artigues-Sr-1-3.pdf
-- https://folkways-media.si.edu/docs/folkways/artwork/FWRBF203.pdf
-- https://en.wikipedia.org/wiki/Leo_Adde
-- https://syncopatedtimes.com/panama-pt-1/
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/101863?Matrix_page=5
+  - >-
+    https://musicrising.tulane.edu/wp-content/uploads/sites/3/2018/05/Albert-Artigues-Sr-1-3.pdf
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/FWRBF203.pdf'
+  - 'https://en.wikipedia.org/wiki/Leo_Adde'
+  - 'https://syncopatedtimes.com/panama-pt-1/'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/101863?Matrix_page=5
 spotify_data:
   followers: 0
   id: 5q4hZcLEuOgoGCYJa7nqF1
   popularity: 0
-  url: https://open.spotify.com/artist/5q4hZcLEuOgoGCYJa7nqF1
+  url: 'https://open.spotify.com/artist/5q4hZcLEuOgoGCYJa7nqF1'
 status: active
-title: JOHNNIE MILLER'S NEW ORLEANS FROLICKERS
+title: Johnnie Miller's New Orleans Frolickers
+artist_type: person
 ---
 
 ![]()

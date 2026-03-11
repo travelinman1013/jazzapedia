@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-02-21T01:37:40.790546'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:37:40.790558'
 external_urls:
-  spotify: https://open.spotify.com/artist/7aiHdcOgqXoQoIyTvaDN7E
+  spotify: 'https://open.spotify.com/artist/7aiHdcOgqXoQoIyTvaDN7E'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_session.jpg
@@ -15,19 +15,21 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.rollinsmusic.com/bio
-- https://en.wikipedia.org/wiki/The_Sessions_Band
-- https://en.wikipedia.org/wiki/Session_musician
-- https://wepresent.wetransfer.com/stories/stuff-they-dont-tell-you-session-musicians
-- https://expandingdan.substack.com/p/session-musician-history-jim-gordon-book
-- https://www.chordblossom.com/interviews/behind-the-job-5-session-musician
+  - 'https://www.rollinsmusic.com/bio'
+  - 'https://en.wikipedia.org/wiki/The_Sessions_Band'
+  - 'https://en.wikipedia.org/wiki/Session_musician'
+  - >-
+    https://wepresent.wetransfer.com/stories/stuff-they-dont-tell-you-session-musicians
+  - 'https://expandingdan.substack.com/p/session-musician-history-jim-gordon-book'
+  - 'https://www.chordblossom.com/interviews/behind-the-job-5-session-musician'
 spotify_data:
   followers: 58
   id: 7aiHdcOgqXoQoIyTvaDN7E
   popularity: 2
-  url: https://open.spotify.com/artist/7aiHdcOgqXoQoIyTvaDN7E
+  url: 'https://open.spotify.com/artist/7aiHdcOgqXoQoIyTvaDN7E'
 status: active
 title: The Session
+artist_type: band
 ---
 
 ![](the_session.jpg)

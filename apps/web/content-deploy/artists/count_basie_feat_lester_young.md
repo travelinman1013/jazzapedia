@@ -1,46 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-10T01:54:10.696449'
-birth_place: Woodville, Mississippi, United States
+birth_place: 'Woodville, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:54:10.696455'
 external_urls:
-  spotify: https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA
-  wikipedia: https://en.wikipedia.org/wiki/Lester_Young
+  spotify: 'https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lester_Young'
 genres:
-- big band
-- swing music
-- jazz
-- vocal jazz
+  - big band
+  - swing music
+  - jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/count_basie_feat_lester_young.jpg
 last_updated: '2026-02-10T01:54:10.696456'
 musical_connections:
   collaborators:
-  - Count Basie
-  - Billie Holiday
-  - Buck Clayton
-  - Herschel Evans
+    - Count Basie
+    - Billie Holiday
+    - Buck Clayton
+    - Herschel Evans
   influenced:
-  - Bebop and Cool Jazz Musicians
+    - Bebop and Cool Jazz Musicians
   mentors:
-  - Frank Trumbauer
+    - Frank Trumbauer
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://newyorkjazzworkshop.com/lester-young/
-- https://www.jazzattackswings.com/post/jazz-greats-lester-young
-- https://en.wikipedia.org/wiki/Lester_Young
-- https://jazznightschool.org/pages/lester-young
-- https://swingandbeyond.com/2017/02/17/lady-be-good-1936-lester-young-and-count-basie/
-- https://jazztimes.com/features/profiles/count-basie-and-lester-young-so-now-well-find-out-what-happens/
-- https://countbasie.rutgers.edu/biography/
-- http://www.lesteryoung.dk/index.php
+  - 'https://newyorkjazzworkshop.com/lester-young/'
+  - 'https://www.jazzattackswings.com/post/jazz-greats-lester-young'
+  - 'https://en.wikipedia.org/wiki/Lester_Young'
+  - 'https://jazznightschool.org/pages/lester-young'
+  - >-
+    https://swingandbeyond.com/2017/02/17/lady-be-good-1936-lester-young-and-count-basie/
+  - >-
+    https://jazztimes.com/features/profiles/count-basie-and-lester-young-so-now-well-find-out-what-happens/
+  - 'https://countbasie.rutgers.edu/biography/'
+  - 'http://www.lesteryoung.dk/index.php'
 spotify_data:
   followers: 416767
   id: 2jFZlvIea42ZvcCw4OeEdA
   popularity: 62
-  url: https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA
+  url: 'https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA'
 status: active
-title: count basie feat lester young
+title: Count Basie Feat Lester Young
+birth_date: '1909-08-27'
+death_date: '1959-03-15'
+artist_type: band
 ---
 
 ![](count_basie_feat_lester_young.jpg)

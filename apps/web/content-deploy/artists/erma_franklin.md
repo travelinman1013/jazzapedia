@@ -1,63 +1,68 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e3ce2ad9-cdfd-4113-bb21-ae51b0699f08
-  name: The Franklin Sisters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e3ce2ad9-cdfd-4113-bb21-ae51b0699f08
+    name: The Franklin Sisters
 biography_enhanced_at: '2026-01-23T01:46:54.823391'
 birth_date: '1938-03-13'
-birth_place: Shelby
+birth_place: 'Shelby, Mississippi, United States'
 death_date: '2002-09-07'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:46:54.823396'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4ba12614-fcce-462b-8784-8dd1a92fbf2b
-  spotify: https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG
-  wikipedia: https://en.wikipedia.org/wiki/Erma_Franklin
+  musicbrainz: 'https://musicbrainz.org/artist/4ba12614-fcce-462b-8784-8dd1a92fbf2b'
+  spotify: 'https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Erma_Franklin'
 gender: Female
 genres:
-- classic soul
-- northern soul
-- soul
-- motown
+  - classic soul
+  - northern soul
+  - soul
+  - motown
 image_path: 03_Resources/source_material/ArtistPortraits/erma_franklin.jpg
 instruments:
-- background vocals
-- choir vocals
+  - background vocals
+  - choir vocals
 last_updated: '2026-01-23T01:46:54.823396'
 musical_connections:
   collaborators:
-  - Aretha Franklin (sister)
-  - Carolyn Franklin (sister)
-  - Lloyd Price
+    - Aretha Franklin (sister)
+    - Carolyn Franklin (sister)
+    - Lloyd Price
   influenced: []
   mentors:
-  - Reverend C.L. Franklin (father)
-  - Bert Berns
+    - Reverend C.L. Franklin (father)
+    - Bert Berns
 musicbrainz_id: 4ba12614-fcce-462b-8784-8dd1a92fbf2b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2020/03/erma-franklin-born-13-march-1938.html
-- https://neighborspaper.com/2023/10/01/unsung-heroes-of-soul-erma-franklin-and-mable-john/
-- https://ermafranklin.com
-- https://en.wikipedia.org/wiki/Erma_Franklin
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/316241/Franklin_Erma
-- https://www.jango.com/music/Erma+Franklin
-- https://www.soulfulkindamusic.net/efranklin.htm
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/03/erma-franklin-born-13-march-1938.html
+  - >-
+    https://neighborspaper.com/2023/10/01/unsung-heroes-of-soul-erma-franklin-and-mable-john/
+  - 'https://ermafranklin.com'
+  - 'https://en.wikipedia.org/wiki/Erma_Franklin'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/316241/Franklin_Erma
+  - 'https://www.jango.com/music/Erma+Franklin'
+  - 'https://www.soulfulkindamusic.net/efranklin.htm'
 spotify_data:
   followers: 28875
   id: 1CzJJJb6hnx84VNhgaJmFG
   popularity: 43
-  url: https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG
+  url: 'https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG'
 status: active
 tags:
-- deep soul
-- gospel
-- pop soul
-title: erma franklin
+  - deep soul
+  - gospel
+  - pop soul
+title: Erma Franklin
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](erma_franklin.jpg)

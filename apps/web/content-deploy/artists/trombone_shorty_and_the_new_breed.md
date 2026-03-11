@@ -1,49 +1,54 @@
 ---
 biography_enhanced_at: '2026-02-12T01:09:20.045325'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-12T01:09:20.045331'
 external_urls:
-  spotify: https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR
-  wikipedia: https://en.wikipedia.org/wiki/Trombone_Shorty
+  spotify: 'https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trombone_Shorty'
 genres:
-- brass band
-- jazz funk
-image_path: 03_Resources/source_material/ArtistPortraits/trombone_shorty_and_the_new_breed.jpg
+  - brass band
+  - jazz funk
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/trombone_shorty_and_the_new_breed.jpg
 last_updated: '2026-02-12T01:09:20.045332'
 musical_connections:
   collaborators:
-  - Lenny Kravitz
-  - The Meters
-  - Bo Diddley
-  - Orleans Avenue band members
-  - NOCCA Classmates
+    - Lenny Kravitz
+    - The Meters
+    - Bo Diddley
+    - Orleans Avenue band members
+    - NOCCA Classmates
   influenced:
-  - Trombone Shorty Music Academy Students
-  - Shorty Fest Participants
+    - Trombone Shorty Music Academy Students
+    - Shorty Fest Participants
   mentors:
-  - James Andrews
-  - Fred Wesley
-  - Tuba Fats (Anthony 'Tuba Fats' Lacen)
-  - Cyril Neville
-  - Rebirth Brass Band
-  - NOCCA Teachers
+    - James Andrews
+    - Fred Wesley
+    - Tuba Fats (Anthony 'Tuba Fats' Lacen)
+    - Cyril Neville
+    - Rebirth Brass Band
+    - NOCCA Teachers
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/troy-trombone-shorty-andrews/
-- https://64parishes.org/entry/trombone-shorty
-- https://www.heinzawards.org/pages/troy-andrews
-- https://wicn.org/troy-trombone-shorty-andrews/
-- https://sandiegotroubadour.com/trombone-shorty-what-is-the-meaning-of-being-a-new-orleans-musician/
-- https://en.wikipedia.org/wiki/Trombone_Shorty
+  - 'https://musicrising.tulane.edu/discover/people/troy-trombone-shorty-andrews/'
+  - 'https://64parishes.org/entry/trombone-shorty'
+  - 'https://www.heinzawards.org/pages/troy-andrews'
+  - 'https://wicn.org/troy-trombone-shorty-andrews/'
+  - >-
+    https://sandiegotroubadour.com/trombone-shorty-what-is-the-meaning-of-being-a-new-orleans-musician/
+  - 'https://en.wikipedia.org/wiki/Trombone_Shorty'
 spotify_data:
   followers: 211240
   id: 37ZvFp654tY74Z1D2TLOGR
   popularity: 46
-  url: https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR
+  url: 'https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR'
 status: active
 title: Trombone Shorty & The New Breed
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1986-01-02'
+artist_type: band
 ---
 
 ![](trombone_shorty_and_the_new_breed.jpg)

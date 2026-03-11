@@ -3,44 +3,48 @@ biography_enhanced_at: '2026-03-03T01:31:00.447242'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:31:00.447252'
 external_urls:
-  spotify: https://open.spotify.com/artist/6fY1SofsJHNKJ5wvfhJZco
-  wikipedia: https://en.wikipedia.org/wiki/Burnt_Sugar_(band)
+  spotify: 'https://open.spotify.com/artist/6fY1SofsJHNKJ5wvfhJZco'
+  wikipedia: 'https://en.wikipedia.org/wiki/Burnt_Sugar_(band)'
 genres:
-- indie jazz
+  - indie jazz
 image_path: 03_Resources/source_material/ArtistPortraits/burnt_sugar_arkestra_chamber.jpg
 last_updated: '2026-03-03T01:31:00.447253'
 musical_connections:
   collaborators:
-  - Jared Michael Nickerson
-  - Vijay Iyer
-  - Kirk Douglass
-  - Eisa Davis
-  - Gabri Christa
+    - Jared Michael Nickerson
+    - Vijay Iyer
+    - Kirk Douglass
+    - Eisa Davis
+    - Gabri Christa
   influenced: []
   mentors:
-  - Butch Morris
-  - Duke Ellington
-  - Sun Ra
+    - Butch Morris
+    - Duke Ellington
+    - Sun Ra
 network_extracted: true
-origin: New York, New York, United States
+origin: 'New York, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Burnt_Sugar_(band)
-- https://burntsugarindex.com/about-the-band/
-- http://archive.rockpaperscissors.biz/index.cfm/fuseaction/current.bio/project_id/402.cfm
-- https://www.allaboutjazz.com/musicians/burnt-sugar-the-arkestra-chamber/
-- https://www.hallwalls.org/music/4702.html
-- https://www.capitalbop.com/greg-tate-on-burnt-sugar-afrofuturism-and-the-maroon-spaces-that-music-allows/
-- https://burntsugarindex.com
-- https://hammer.ucla.edu/programs-events/2017/10/burnt-sugar-the-arkestra-chamber-we-insist-max-roachs-freedom-now-suite
-- https://walkerart.org/magazine/burnt-sugar-interview
+  - 'https://en.wikipedia.org/wiki/Burnt_Sugar_(band)'
+  - 'https://burntsugarindex.com/about-the-band/'
+  - >-
+    http://archive.rockpaperscissors.biz/index.cfm/fuseaction/current.bio/project_id/402.cfm
+  - 'https://www.allaboutjazz.com/musicians/burnt-sugar-the-arkestra-chamber/'
+  - 'https://www.hallwalls.org/music/4702.html'
+  - >-
+    https://www.capitalbop.com/greg-tate-on-burnt-sugar-afrofuturism-and-the-maroon-spaces-that-music-allows/
+  - 'https://burntsugarindex.com'
+  - >-
+    https://hammer.ucla.edu/programs-events/2017/10/burnt-sugar-the-arkestra-chamber-we-insist-max-roachs-freedom-now-suite
+  - 'https://walkerart.org/magazine/burnt-sugar-interview'
 spotify_data:
   followers: 1181
   id: 6fY1SofsJHNKJ5wvfhJZco
   popularity: 2
-  url: https://open.spotify.com/artist/6fY1SofsJHNKJ5wvfhJZco
+  url: 'https://open.spotify.com/artist/6fY1SofsJHNKJ5wvfhJZco'
 status: active
 title: Burnt Sugar Arkestra Chamber
+artist_type: person
 ---
 
 ![](burnt_sugar_arkestra_chamber.jpg)

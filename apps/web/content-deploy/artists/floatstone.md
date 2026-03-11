@@ -2,13 +2,13 @@
 artist_type: person
 biography_enhanced_at: '2026-02-03T02:02:49.829546'
 birth_date: '1961'
-birth_place: Antwerp, Belgium
+birth_place: 'Antwerp, Belgium, Europe'
 disambiguation: Belgian singer/songwriter Brick de Bois
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:02:49.829555'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/18fa904e-f8e6-4b1f-af75-cbfe17d3776f
-  spotify: https://open.spotify.com/artist/5BtyIjCfOpVAOIiUYVWqxn
+  musicbrainz: 'https://musicbrainz.org/artist/18fa904e-f8e6-4b1f-af75-cbfe17d3776f'
+  spotify: 'https://open.spotify.com/artist/5BtyIjCfOpVAOIiUYVWqxn'
   wikipedia: ''
 gender: Male
 genres: []
@@ -16,21 +16,21 @@ image_path: 03_Resources/source_material/ArtistPortraits/floatstone.jpg
 last_updated: '2026-02-03T02:02:49.829557'
 musical_connections:
   collaborators:
-  - Brick de Bois
+    - Brick de Bois
   influenced: []
   mentors: []
 musicbrainz_id: 18fa904e-f8e6-4b1f-af75-cbfe17d3776f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://frontview-magazine.be/nl/nieuws/brick-de-bois-meet-floatstone
-- https://www.reverbnation.com/page_object/page_object_blogs/artist_625127
-- https://www.youtube.com/watch?v=7MMeaEp_XOc
+  - 'https://frontview-magazine.be/nl/nieuws/brick-de-bois-meet-floatstone'
+  - 'https://www.reverbnation.com/page_object/page_object_blogs/artist_625127'
+  - 'https://www.youtube.com/watch?v=7MMeaEp_XOc'
 spotify_data:
   followers: 82
   id: 5BtyIjCfOpVAOIiUYVWqxn
   popularity: 0
-  url: https://open.spotify.com/artist/5BtyIjCfOpVAOIiUYVWqxn
+  url: 'https://open.spotify.com/artist/5BtyIjCfOpVAOIiUYVWqxn'
 status: active
 title: Floatstone
 ---

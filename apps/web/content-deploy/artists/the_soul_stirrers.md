@@ -1,121 +1,121 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-23T01:44:59.966601'
 birth_date: '1926'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:44:59.966607'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5aa8b4de-5e87-40c1-b230-e29e415578ec
-  spotify: https://open.spotify.com/artist/1bZKspL8h396R1WihOiPb5
-  wikipedia: https://en.wikipedia.org/wiki/The_Soul_Stirrers
+  musicbrainz: 'https://musicbrainz.org/artist/5aa8b4de-5e87-40c1-b230-e29e415578ec'
+  spotify: 'https://open.spotify.com/artist/1bZKspL8h396R1WihOiPb5'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Soul_Stirrers'
 genres:
-- traditional gospel
-- gospel
+  - traditional gospel
+  - gospel
 image_path: 03_Resources/source_material/ArtistPortraits/the_soul_stirrers.jpg
 last_updated: '2026-01-23T01:44:59.966608'
 members:
-- begin: '1950'
-  end: '1956'
-  instruments: []
-  mbid: 6c8fd0be-d961-454c-aee0-4366a6dbc993
-  name: Sam Cooke
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a1bf53e4-86f3-4d60-bb08-842a80ac96a1
-  name: Thomas L. Bruster
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7960f5d1-2f8c-4ba1-86db-0630501d0b74
-  name: Senior Roy Crain
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a844089-0bba-4318-8ffc-25ea2bbc6ef9
-  name: Arthur Crume
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7da5dc39-7d19-4d2c-8c97-b58745155e18
-  name: Dillard Crume
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9ad3eeaa-1114-45c6-89ee-83f9df20d14f
-  name: LeRoy Crume
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8659032f-61f3-4032-bb03-907099995d15
-  name: Rufus Crume
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3aaf0769-0f54-4282-9472-0592993d32cf
-  name: Jesse James Farley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bcc910b8-3aab-41bd-aa46-413faf341117
-  name: Paul Foster
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0104dd2c-0ab6-4254-8b4f-bb0c38afdff4
-  name: Bob King
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 91ab69c7-17f9-45e7-82a7-31e0e5f13662
-  name: R.B. Robinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7c83dbe6-097d-4d4c-9353-9f772a4f756c
-  name: Joe Louis Walker
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 141b1675-ee44-4c34-86a8-ace9a878bcda
-  name: Willie Rodgers
+  - begin: '1950'
+    end: '1956'
+    instruments: []
+    mbid: 6c8fd0be-d961-454c-aee0-4366a6dbc993
+    name: Sam Cooke
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a1bf53e4-86f3-4d60-bb08-842a80ac96a1
+    name: Thomas L. Bruster
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7960f5d1-2f8c-4ba1-86db-0630501d0b74
+    name: Senior Roy Crain
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a844089-0bba-4318-8ffc-25ea2bbc6ef9
+    name: Arthur Crume
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7da5dc39-7d19-4d2c-8c97-b58745155e18
+    name: Dillard Crume
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9ad3eeaa-1114-45c6-89ee-83f9df20d14f
+    name: LeRoy Crume
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8659032f-61f3-4032-bb03-907099995d15
+    name: Rufus Crume
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3aaf0769-0f54-4282-9472-0592993d32cf
+    name: Jesse James Farley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bcc910b8-3aab-41bd-aa46-413faf341117
+    name: Paul Foster
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0104dd2c-0ab6-4254-8b4f-bb0c38afdff4
+    name: Bob King
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 91ab69c7-17f9-45e7-82a7-31e0e5f13662
+    name: R.B. Robinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7c83dbe6-097d-4d4c-9353-9f772a4f756c
+    name: Joe Louis Walker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 141b1675-ee44-4c34-86a8-ace9a878bcda
+    name: Willie Rodgers
 musical_connections:
   collaborators:
-  - R.H. Harris
-  - Sam Cooke
-  - S.R. Crain
-  - Paul Foster
-  - LeRoy Crume
+    - R.H. Harris
+    - Sam Cooke
+    - S.R. Crain
+    - Paul Foster
+    - LeRoy Crume
   influenced:
-  - Sam Cooke
-  - Johnnie Taylor
+    - Sam Cooke
+    - Johnnie Taylor
   mentors:
-  - Mahalia Jackson
-  - Sister Rosetta Tharpe
+    - Mahalia Jackson
+    - Sister Rosetta Tharpe
 musicbrainz_id: 5aa8b4de-5e87-40c1-b230-e29e415578ec
 network_extracted: true
-origin: Trinity
+origin: 'Trinity, Texas, United States'
 primary_source: perplexity
 research_sources:
-- https://concord.com/artist/sam-cooke-the-soul-stirrers/
-- https://thesoulstirrers.tripod.com/id1.html
-- https://en.wikipedia.org/wiki/The_Soul_Stirrers
-- https://www.rhino.com/article/the-soul-stirrers
-- https://www.britannica.com/topic/the-Soul-Stirrers
-- http://michelle-silva.squarespace.com/soul-stirrers-by-by
-- https://brooklynrail.org/2005/10/music/the-soul-stirrer/
-- https://blackpast.org/african-american-history/the-soul-stirrers-1926-1990/
+  - 'https://concord.com/artist/sam-cooke-the-soul-stirrers/'
+  - 'https://thesoulstirrers.tripod.com/id1.html'
+  - 'https://en.wikipedia.org/wiki/The_Soul_Stirrers'
+  - 'https://www.rhino.com/article/the-soul-stirrers'
+  - 'https://www.britannica.com/topic/the-Soul-Stirrers'
+  - 'http://michelle-silva.squarespace.com/soul-stirrers-by-by'
+  - 'https://brooklynrail.org/2005/10/music/the-soul-stirrer/'
+  - 'https://blackpast.org/african-american-history/the-soul-stirrers-1926-1990/'
 spotify_data:
   followers: 25093
   id: 1bZKspL8h396R1WihOiPb5
   popularity: 44
-  url: https://open.spotify.com/artist/1bZKspL8h396R1WihOiPb5
+  url: 'https://open.spotify.com/artist/1bZKspL8h396R1WihOiPb5'
 status: active
 tags:
-- 2008 universal fire victim
-- gospel
-- soul
-title: the soul stirrers
+  - 2008 universal fire victim
+  - gospel
+  - soul
+title: The Soul Stirrers
 ---
 
 ![](the_soul_stirrers.jpg)

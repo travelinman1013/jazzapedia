@@ -3,42 +3,44 @@ biography_enhanced_at: '2026-01-26T01:40:53.492914'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:40:53.492920'
 external_urls:
-  spotify: https://open.spotify.com/artist/6PVybt9IzBGmVr8Md7EP08
+  spotify: 'https://open.spotify.com/artist/6PVybt9IzBGmVr8Md7EP08'
   wikipedia: Not found in search results
 genres:
-- glam metal
-- glam rock
-- aor
-- hard rock
+  - glam metal
+  - glam rock
+  - aor
+  - hard rock
 image_path: 03_Resources/source_material/ArtistPortraits/black_and_blue.jpg
 last_updated: '2026-01-26T01:40:53.492921'
 musical_connections:
   collaborators:
-  - Gene Simmons (Kiss)
-  - Dieter Dierks
-  - Bruce Fairbairn
+    - Gene Simmons (Kiss)
+    - Dieter Dierks
+    - Bruce Fairbairn
   influenced:
-  - Hard rock and metal bands of the 1980s-1990s
+    - Hard rock and metal bands of the 1980s-1990s
   mentors:
-  - Kiss
-  - Aerosmith
-  - Led Zeppelin
+    - Kiss
+    - Aerosmith
+    - Led Zeppelin
 network_extracted: true
-origin: Portland, Oregon, United States
+origin: 'Portland, Oregon, United States'
 primary_source: perplexity
 research_sources:
-- https://www.digmeoutpodcast.com/p/black-n-blue
-- https://xsrock.com/black-n-blue-where-are-they-now/
-- https://bravewords.com/news/a-look-back-at-black-n-blue-helped-shape-glam-metals-biggest-records-and-yet-never-got-the-credit/?amp=1
-- https://www.jango.com/music/Black+N+Blue
-- https://metal-temple.com/review/black-n-blue-hell-yeah/
+  - 'https://www.digmeoutpodcast.com/p/black-n-blue'
+  - 'https://xsrock.com/black-n-blue-where-are-they-now/'
+  - >-
+    https://bravewords.com/news/a-look-back-at-black-n-blue-helped-shape-glam-metals-biggest-records-and-yet-never-got-the-credit/?amp=1
+  - 'https://www.jango.com/music/Black+N+Blue'
+  - 'https://metal-temple.com/review/black-n-blue-hell-yeah/'
 spotify_data:
   followers: 97435
   id: 6PVybt9IzBGmVr8Md7EP08
   popularity: 29
-  url: https://open.spotify.com/artist/6PVybt9IzBGmVr8Md7EP08
+  url: 'https://open.spotify.com/artist/6PVybt9IzBGmVr8Md7EP08'
 status: active
 title: Black & Blue
+artist_type: band
 ---
 
 ![](black_and_blue.jpg)

@@ -3,45 +3,52 @@ biography_enhanced_at: '2026-01-26T01:43:50.718577'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:43:50.718589'
 external_urls:
-  spotify: https://open.spotify.com/artist/1OfWBgL1TQ3hQVnGvbM0uP
+  spotify: 'https://open.spotify.com/artist/1OfWBgL1TQ3hQVnGvbM0uP'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/secret_emchy_society.jpg
 last_updated: '2026-01-26T01:43:50.718592'
 musical_connections:
   collaborators:
-  - Tolan McNeil
-  - Grayson Walker
-  - Amythyst Kiah
-  - Shawna Virago
-  - Mya Byrne and Paisley Fields
-  - Delila Black
+    - Tolan McNeil
+    - Grayson Walker
+    - Amythyst Kiah
+    - Shawna Virago
+    - Mya Byrne and Paisley Fields
+    - Delila Black
   influenced:
-  - Kevin James Thornton (Indiana Queen)
+    - Kevin James Thornton (Indiana Queen)
   mentors:
-  - Carolyn Mark
-  - Karen Pittleman (Karen and the Sorrows)
-  - Patrick Haggerty (Lavender Country)
+    - Carolyn Mark
+    - Karen Pittleman (Karen and the Sorrows)
+    - Patrick Haggerty (Lavender Country)
 network_extracted: true
-origin: Michigan, USA (birthplace); Oakland, California, USA (base)
+origin: 'Michigan, USA (birthplace); Oakland, California, USA (base)'
 primary_source: perplexity
 research_sources:
-- https://waxwingmag.org/items/issue16/72_Fox-The-Secret-Emchy-Society-Queer-Country-Music-Is-Country-Music-For-All.php
-- https://thecountrynote.com/in-the-news/secret-emchy-society-releases-i-wish-i-was-in-texas-with-you/
-- https://1888media.wordpress.com/2017/04/27/secret-emchy-society-offers-mix-of-gritty-americana-rootsy-punk-rock/
-- https://www.sfiaf.org/2024_secret_emchy_society
-- https://rainbowrodeomag.com/interview-secret-emchy-society-rejects-envy-and-competition-on-end-of-pretty/
-- http://www.emchy.com/bio.html
-- http://www.emchy.com/about.html
-- https://americanahighways.org/2020/03/02/song-premiere-secret-emchy-societys-everything-was-fine/
-- https://eastbayexpress.com/secret-emchy-society-queer-country-music-from-oaklands-honky-tonk-heroes/
+  - >-
+    https://waxwingmag.org/items/issue16/72_Fox-The-Secret-Emchy-Society-Queer-Country-Music-Is-Country-Music-For-All.php
+  - >-
+    https://thecountrynote.com/in-the-news/secret-emchy-society-releases-i-wish-i-was-in-texas-with-you/
+  - >-
+    https://1888media.wordpress.com/2017/04/27/secret-emchy-society-offers-mix-of-gritty-americana-rootsy-punk-rock/
+  - 'https://www.sfiaf.org/2024_secret_emchy_society'
+  - >-
+    https://rainbowrodeomag.com/interview-secret-emchy-society-rejects-envy-and-competition-on-end-of-pretty/
+  - 'http://www.emchy.com/bio.html'
+  - 'http://www.emchy.com/about.html'
+  - >-
+    https://americanahighways.org/2020/03/02/song-premiere-secret-emchy-societys-everything-was-fine/
+  - >-
+    https://eastbayexpress.com/secret-emchy-society-queer-country-music-from-oaklands-honky-tonk-heroes/
 spotify_data:
   followers: 651
   id: 1OfWBgL1TQ3hQVnGvbM0uP
   popularity: 11
-  url: https://open.spotify.com/artist/1OfWBgL1TQ3hQVnGvbM0uP
+  url: 'https://open.spotify.com/artist/1OfWBgL1TQ3hQVnGvbM0uP'
 status: active
 title: Secret Emchy Society
+artist_type: band
 ---
 
 ![](secret_emchy_society.jpg)

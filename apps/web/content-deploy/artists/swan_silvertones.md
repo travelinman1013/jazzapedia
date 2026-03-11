@@ -3,44 +3,48 @@ biography_enhanced_at: '2026-02-25T02:02:54.664378'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:02:54.664388'
 external_urls:
-  spotify: https://open.spotify.com/artist/7kAG08GdBKiimEnBdgVQ1c
-  wikipedia: https://en.wikipedia.org/wiki/Swan_Silvertones
+  spotify: 'https://open.spotify.com/artist/7kAG08GdBKiimEnBdgVQ1c'
+  wikipedia: 'https://en.wikipedia.org/wiki/Swan_Silvertones'
 genres:
-- traditional gospel
-- funk gospel
-- gospel
+  - traditional gospel
+  - funk gospel
+  - gospel
 image_path: 03_Resources/source_material/ArtistPortraits/swan_silvertones.jpg
 last_updated: '2026-02-25T02:02:54.664389'
 musical_connections:
   collaborators:
-  - Solomon Womack
-  - Paul Owens
-  - Louis Johnson
-  - John H. Myles
-  - William "Pete" Connor
+    - Solomon Womack
+    - Paul Owens
+    - Louis Johnson
+    - John H. Myles
+    - William "Pete" Connor
   influenced:
-  - Sam Cooke
-  - Al Green
-  - Eddie Kendricks
-  - Curtis Mayfield
-  - Paul Simon
+    - Sam Cooke
+    - Al Green
+    - Eddie Kendricks
+    - Curtis Mayfield
+    - Paul Simon
   mentors: []
 network_extracted: true
-origin: Coalwood, West Virginia, United States
+origin: 'Coalwood, West Virginia, United States'
 primary_source: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/swan-silvertones
-- https://en.wikipedia.org/wiki/Swan_Silvertones
-- http://www.soulwalking.co.uk/Swan%20Silvertones.html
-- https://knoxvillehistoryproject.org/2023/02/24/the-ever-evolving-legend-of-claude-jeter-and-swan-silvertones/
-- https://www.nepm.org/jazz-world/2017-04-09/the-swan-silvertones-gospel-at-newport
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/swan-silvertones
+  - 'https://en.wikipedia.org/wiki/Swan_Silvertones'
+  - 'http://www.soulwalking.co.uk/Swan%20Silvertones.html'
+  - >-
+    https://knoxvillehistoryproject.org/2023/02/24/the-ever-evolving-legend-of-claude-jeter-and-swan-silvertones/
+  - >-
+    https://www.nepm.org/jazz-world/2017-04-09/the-swan-silvertones-gospel-at-newport
 spotify_data:
   followers: 8778
   id: 7kAG08GdBKiimEnBdgVQ1c
   popularity: 19
-  url: https://open.spotify.com/artist/7kAG08GdBKiimEnBdgVQ1c
+  url: 'https://open.spotify.com/artist/7kAG08GdBKiimEnBdgVQ1c'
 status: active
 title: Swan Silvertones
+artist_type: band
 ---
 
 ![](swan_silvertones.jpg)

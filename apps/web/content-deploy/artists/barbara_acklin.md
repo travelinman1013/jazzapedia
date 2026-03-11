@@ -2,49 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-02-06T01:09:02.954318'
 birth_date: '1943-02-28'
-birth_place: Oakland
+birth_place: 'Oakland, California, United States'
 death_date: '1998-11-27'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:09:02.954327'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/84e7608b-c16d-4395-9cc2-89f41854f5f9
-  spotify: https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A
+  musicbrainz: 'https://musicbrainz.org/artist/84e7608b-c16d-4395-9cc2-89f41854f5f9'
+  spotify: 'https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A'
   wikipedia: ''
 gender: Female
 genres:
-- northern soul
-- classic soul
+  - northern soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/barbara_acklin.jpg
 last_updated: '2026-02-06T01:09:02.954329'
 musical_connections:
   collaborators:
-  - Eugene Record
-  - Gene Chandler
-  - Jackie Wilson
-  - David Scott
+    - Eugene Record
+    - Gene Chandler
+    - Jackie Wilson
+    - David Scott
   influenced: []
   mentors:
-  - Monk Higgins
-  - Carl Davis
+    - Monk Higgins
+    - Carl Davis
 musicbrainz_id: 84e7608b-c16d-4395-9cc2-89f41854f5f9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/200
-- https://jointzoftheday.substack.com/p/barbara-acklin-february-28-1943-november-27-1998
-- https://app.soulyears.com/rnb-chart_position-artist-Barbara+Acklin.htm
-- https://www.youtube.com/watch?v=GdUDgRxHbok
-- https://app.soulyears.com/artist-Barbara+Acklin.htm
-- https://chicagocrusader.com/barbara-acklin-chicagos-empress-of-soul/
+  - 'https://wbssmedia.com/artists/detail/200'
+  - >-
+    https://jointzoftheday.substack.com/p/barbara-acklin-february-28-1943-november-27-1998
+  - 'https://app.soulyears.com/rnb-chart_position-artist-Barbara+Acklin.htm'
+  - 'https://www.youtube.com/watch?v=GdUDgRxHbok'
+  - 'https://app.soulyears.com/artist-Barbara+Acklin.htm'
+  - 'https://chicagocrusader.com/barbara-acklin-chicagos-empress-of-soul/'
 spotify_data:
   followers: 11329
   id: 5cIS9VdHDj2fozLl19Gg2A
   popularity: 31
-  url: https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A
+  url: 'https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A'
 status: active
 tags:
-- soul
-title: BARBARA ACKLIN
+  - soul
+title: Barbara Acklin
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](barbara_acklin.jpg)

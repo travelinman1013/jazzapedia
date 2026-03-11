@@ -1,49 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-23T01:47:40.440031'
-birth_place: Marshall, Missouri, United States
+birth_place: 'Marshall, Missouri, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:47:40.440037'
 external_urls:
-  spotify: https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ
-  wikipedia: https://en.wikipedia.org/wiki/Bob_James_(musician)
+  spotify: 'https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_James_(musician)'
 genres:
-- smooth jazz
-- jazz funk
-- jazz fusion
-- jazz
-- cool jazz
+  - smooth jazz
+  - jazz funk
+  - jazz fusion
+  - jazz
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/bob_james.jpg
 last_updated: '2026-01-23T01:47:40.440037'
 musical_connections:
   collaborators:
-  - Sarah Vaughan
-  - Earl Klugh
-  - David Sanborn
-  - Fourplay members (e.g., Larry Carlton, Nathan East, Harvey Mason, later Chuck
-    Loeb)
+    - Sarah Vaughan
+    - Earl Klugh
+    - David Sanborn
+    - >-
+      Fourplay members (e.g., Larry Carlton, Nathan East, Harvey Mason, later
+      Chuck Loeb)
   influenced:
-  - Grover Washington Jr.
-  - Hip-hop producers (general)
+    - Grover Washington Jr.
+    - Hip-hop producers (general)
   mentors:
-  - Quincy Jones
-  - Creed Taylor
+    - Quincy Jones
+    - Creed Taylor
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.minttalentgroup.com/bob-james
-- https://www.knkx.org/jazz/pianist-bob-james-always-hits-the-right-notes-naturally
-- https://jazztimes.com/features/profiles/bob-james-looks-back/
-- https://www.allaboutjazz.com/bob-james-piano-player-bob-james-by-rj-deluke
-- https://en.wikipedia.org/wiki/Bob_James_(musician)
-- https://middlecjazz.com/a-few-glimpses-into-the-musical-journey-of-bob-james/
-- https://www.youtube.com/watch?v=lLbQWlwQ1SQ
+  - 'https://www.minttalentgroup.com/bob-james'
+  - >-
+    https://www.knkx.org/jazz/pianist-bob-james-always-hits-the-right-notes-naturally
+  - 'https://jazztimes.com/features/profiles/bob-james-looks-back/'
+  - 'https://www.allaboutjazz.com/bob-james-piano-player-bob-james-by-rj-deluke'
+  - 'https://en.wikipedia.org/wiki/Bob_James_(musician)'
+  - >-
+    https://middlecjazz.com/a-few-glimpses-into-the-musical-journey-of-bob-james/
+  - 'https://www.youtube.com/watch?v=lLbQWlwQ1SQ'
 spotify_data:
   followers: 167432
   id: 6ryjbFyWBZho9KGXqKZdqQ
   popularity: 48
-  url: https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ
+  url: 'https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ'
 status: active
 title: Bob James
+artist_type: person
 ---
 
 ![](bob_james.jpg)

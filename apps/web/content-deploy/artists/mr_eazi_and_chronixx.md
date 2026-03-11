@@ -3,51 +3,55 @@ biography_enhanced_at: '2026-02-15T01:51:59.130101'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:51:59.130110'
 external_urls:
-  spotify: https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW
+  spotify: 'https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW'
   wikipedia: ''
 genres:
-- afrobeats
-- afrobeat
-- afropop
-- azonto
-- afroswing
-- hiplife
-- ghanaian hip hop
-- dancehall
+  - afrobeats
+  - afrobeat
+  - afropop
+  - azonto
+  - afroswing
+  - hiplife
+  - ghanaian hip hop
+  - dancehall
 image_path: 03_Resources/source_material/ArtistPortraits/mr_eazi_and_chronixx.jpg
 last_updated: '2026-02-15T01:51:59.130111'
 musical_connections:
   collaborators:
-  - Efya
-  - Major Lazer & Walshy Fire
-  - Zincfence Redemption Band
-  - Sault
+    - Efya
+    - Major Lazer & Walshy Fire
+    - Zincfence Redemption Band
+    - Sault
   influenced:
-  - Mr Eazi
+    - Mr Eazi
   mentors:
-  - Chronicle
-  - Danny Browne
-  - Romain 'Teflon' Arnett
-  - Alty 'J.O.E' Nunes
+    - Chronicle
+    - Danny Browne
+    - Romain 'Teflon' Arnett
+    - Alty 'J.O.E' Nunes
 network_extracted: true
-origin: Spanish Town, Jamaica (Chronixx birthplace); Port Harcourt, Nigeria (Mr Eazi
+origin: >-
+  Spanish Town, Jamaica (Chronixx birthplace); Port Harcourt, Nigeria (Mr Eazi
   birthplace)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chronixx
-- https://en.wikipedia.org/wiki/Mr_Eazi
-- https://www.reggaeville.com/artist-details/chronixx/about/
-- https://fomoblog.com/2019/02/05/mr-eazi-music-has-made-me-understand-investigate-what-it-means-to-be-african/
-- https://afropop.org/articles/chronology-by-chronixx
-- https://rootfire.net/chronixx/
-- https://www.mixtapemadness.com/blog/exclusives/mr-eazi-mm-exclusive
+  - 'https://en.wikipedia.org/wiki/Chronixx'
+  - 'https://en.wikipedia.org/wiki/Mr_Eazi'
+  - 'https://www.reggaeville.com/artist-details/chronixx/about/'
+  - >-
+    https://fomoblog.com/2019/02/05/mr-eazi-music-has-made-me-understand-investigate-what-it-means-to-be-african/
+  - 'https://afropop.org/articles/chronology-by-chronixx'
+  - 'https://rootfire.net/chronixx/'
+  - 'https://www.mixtapemadness.com/blog/exclusives/mr-eazi-mm-exclusive'
 spotify_data:
   followers: 1612373
   id: 4TAoP0f9OuWZUesao43xUW
   popularity: 62
-  url: https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW
+  url: 'https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW'
 status: active
-title: mr eazi & chronixx
+title: MR Eazi & Chronixx
+birth_place: 'Port Harcourt, Nigeria'
+artist_type: band
 ---
 
 ![](mr_eazi_and_chronixx.jpg)

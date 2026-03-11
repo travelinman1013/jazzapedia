@@ -1,52 +1,55 @@
 ---
 biography_enhanced_at: '2026-02-27T01:39:34.528275'
-birth_place: Los Angeles, California, USA
+birth_place: 'Los Angeles, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:39:34.528289'
 external_urls:
-  spotify: https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx
-  wikipedia: https://en.wikipedia.org/wiki/Ry_Cooder
+  spotify: 'https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ry_Cooder'
 genres:
-- blues
-- country blues
-- americana
-- country rock
+  - blues
+  - country blues
+  - americana
+  - country rock
 image_path: 03_Resources/source_material/ArtistPortraits/ry_cooder.jpg
 last_updated: '2026-02-27T01:39:34.528291'
 musical_connections:
   collaborators:
-  - Taj Mahal
-  - Ed Cassidy
-  - John Hiatt
-  - Nick Lowe
-  - Jim Keltner
-  - V.M. Bhatt
-  - Ali Farka Touré
-  - Joachim Cooder
-  - The Chieftains
+    - Taj Mahal
+    - Ed Cassidy
+    - John Hiatt
+    - Nick Lowe
+    - Jim Keltner
+    - V.M. Bhatt
+    - Ali Farka Touré
+    - Joachim Cooder
+    - The Chieftains
   influenced:
-  - Taj Mahal
+    - Taj Mahal
   mentors:
-  - Lead Belly
-  - Sleepy John Estes
-  - Blind Willie Johnson
+    - Lead Belly
+    - Sleepy John Estes
+    - Blind Willie Johnson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/ry-cooder/
-- https://jbonamassa.com/ry-cooder-the-master-of-many-genres/
-- https://en.wikipedia.org/wiki/Ry_Cooder
-- https://www.britannica.com/biography/Ry-Cooder
-- https://joesplace.online/ry-cooder-a-lifetime-of-digging-for-musical-treasures/
-- https://tonyscherman.substack.com/p/ry-cooder-in-four-episodes-1985-2023
-- https://loydster.com/ry_cooder.html
+  - 'https://www.allaboutjazz.com/musicians/ry-cooder/'
+  - 'https://jbonamassa.com/ry-cooder-the-master-of-many-genres/'
+  - 'https://en.wikipedia.org/wiki/Ry_Cooder'
+  - 'https://www.britannica.com/biography/Ry-Cooder'
+  - >-
+    https://joesplace.online/ry-cooder-a-lifetime-of-digging-for-musical-treasures/
+  - 'https://tonyscherman.substack.com/p/ry-cooder-in-four-episodes-1985-2023'
+  - 'https://loydster.com/ry_cooder.html'
 spotify_data:
   followers: 334832
   id: 1CPwHx5lgVxv0rfcp7UXLx
   popularity: 50
-  url: https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx
+  url: 'https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx'
 status: active
 title: RY COODER
+birth_date: '1947-03-15'
+artist_type: person
 ---
 
 ![](ry_cooder.jpg)

@@ -1,70 +1,72 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: faf3a637-73f1-4f74-b4f4-a145de7c6c40
-  name: The Sugarcanes
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: faf3a637-73f1-4f74-b4f4-a145de7c6c40
+    name: The Sugarcanes
 biography_enhanced_at: '2026-02-23T03:02:55.798234'
 birth_date: '1957-04-11'
-birth_place: Troutman
+birth_place: 'Due West, South Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:02:55.798239'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/563c84bf-b1e4-423e-b871-a46c68998d10
-  spotify: https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct
-  wikipedia: https://en.wikipedia.org/wiki/Jim_Lauderdale
+  musicbrainz: 'https://musicbrainz.org/artist/563c84bf-b1e4-423e-b871-a46c68998d10'
+  spotify: 'https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jim_Lauderdale'
 gender: Male
 genres:
-- bluegrass
-- americana
-- alt country
-- outlaw country
-- roots rock
+  - bluegrass
+  - americana
+  - alt country
+  - outlaw country
+  - roots rock
 image_path: 03_Resources/source_material/ArtistPortraits/jim_lauderdale.jpg
 instruments:
-- lead vocals
-- guitar
-- background vocals
-- other vocals
-- baritone vocals
-- bass vocals
+  - lead vocals
+  - guitar
+  - background vocals
+  - other vocals
+  - baritone vocals
+  - bass vocals
 last_updated: '2026-02-23T03:02:55.798240'
 musical_connections:
   collaborators:
-  - Buddy Miller
-  - Dr. Ralph Stanley
-  - Donna the Buffalo
-  - Elvis Costello
-  - Robert Hunter
+    - Buddy Miller
+    - Dr. Ralph Stanley
+    - Donna the Buffalo
+    - Elvis Costello
+    - Robert Hunter
   influenced: []
   mentors:
-  - Ralph Stanley
-  - Roland White
+    - Ralph Stanley
+    - Roland White
 musicbrainz_id: 563c84bf-b1e4-423e-b871-a46c68998d10
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jim_Lauderdale
-- https://northcarolinamusichalloffame.org/inductee-item/jim-lauderdale/
-- https://www.jimlauderdalemusic.com/about
-- https://www.cowboysindians.com/2018/08/qa-legendary-singer-songwriter-jim-lauderdale/
-- https://waltermagazine.com/current-issue/mr-north-carolina-musician-jim-lauderdale/
-- https://pinecone.org/artists/jim-lauderdale/
-- https://bluegrassunlimited.com/article/jim-lauderdale-2/
-- https://www.songwritersonprocess.com/blog/2016/2/21/jim-lauderdale
+  - 'https://en.wikipedia.org/wiki/Jim_Lauderdale'
+  - 'https://northcarolinamusichalloffame.org/inductee-item/jim-lauderdale/'
+  - 'https://www.jimlauderdalemusic.com/about'
+  - >-
+    https://www.cowboysindians.com/2018/08/qa-legendary-singer-songwriter-jim-lauderdale/
+  - >-
+    https://waltermagazine.com/current-issue/mr-north-carolina-musician-jim-lauderdale/
+  - 'https://pinecone.org/artists/jim-lauderdale/'
+  - 'https://bluegrassunlimited.com/article/jim-lauderdale-2/'
+  - 'https://www.songwritersonprocess.com/blog/2016/2/21/jim-lauderdale'
 spotify_data:
   followers: 12729
   id: 0C6MCOqzlXMdX8Ij0mR6ct
   popularity: 23
-  url: https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct
+  url: 'https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct'
 status: active
 tags:
-- americana
-- bluegrass
-- country
+  - americana
+  - bluegrass
+  - country
 title: Jim Lauderdale
 ---
 

@@ -1,63 +1,68 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 03da46cb-2eb2-49f1-8fc3-6a8b3a165f23
-  name: Roddie Romero & the Hub‐City All‐Stars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 22beb86c-d56d-4e6f-8f43-eef37cb085d3
-  name: Roddie Romero Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 03da46cb-2eb2-49f1-8fc3-6a8b3a165f23
+    name: Roddie Romero & the Hub‐City All‐Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 22beb86c-d56d-4e6f-8f43-eef37cb085d3
+    name: Roddie Romero Trio
 biography_enhanced_at: '2026-02-09T01:20:15.663863'
-birth_place: Lafayette
+birth_place: 'Lafayette, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:20:15.663875'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9beecc3c-5ce8-43a3-86d5-0e1dbd68a238
-  spotify: https://open.spotify.com/artist/6J30U7IvWMYykDJMJEpBRH
+  musicbrainz: 'https://musicbrainz.org/artist/9beecc3c-5ce8-43a3-86d5-0e1dbd68a238'
+  spotify: 'https://open.spotify.com/artist/6J30U7IvWMYykDJMJEpBRH'
   wikipedia: ''
 gender: Male
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/roddie_romero.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-02-09T01:20:15.663877'
 musical_connections:
   collaborators:
-  - Eric Adcock
-  - Hub City All Stars
+    - Eric Adcock
+    - Hub City All Stars
   influenced:
-  - Billy McDonald (Zydeco Radio)
+    - Billy McDonald (Zydeco Radio)
   mentors:
-  - Grandfather (unnamed)
-  - Sonny Landreth
-  - Buckwheat Zydeco
+    - Grandfather (unnamed)
+    - Sonny Landreth
+    - Buckwheat Zydeco
 musicbrainz_id: 9beecc3c-5ce8-43a3-86d5-0e1dbd68a238
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.womex.com/virtual/ritmo_artists/roddie_romero_and_the
-- https://www.lafayettetravel.com/things-to-do/arts-culture/music/music-artists/roddie-romero/
-- https://joesplace.online/roddie-romero-the-hub-city-all-stars/
-- https://acadianaprofile.com/meet-zydeco-radio/
-- https://www.wwoz.org/acts/roddie-romero-hub-city-all-stars
-- https://rhythmandroots.com/artists/roddie-romero-the-hub-city-all-stars/
-- https://festivalsacadiens.com/artists/roddie-romero-and-the-hub-city-all-stars/
-- https://musicjunkiepress.com/interview/roddie-romero-eric-adcok-heart-notorious-louisiana-roots-rocker-band-hub-city-stars/
-- https://www.broadwayworld.com/bwwmusic/article/Roddie-Romero-the-Hub-City-All-Stars-Distill-the-Spirit-of-Louisiana-in-GULFSTREAM-20160824
+  - 'https://www.womex.com/virtual/ritmo_artists/roddie_romero_and_the'
+  - >-
+    https://www.lafayettetravel.com/things-to-do/arts-culture/music/music-artists/roddie-romero/
+  - 'https://joesplace.online/roddie-romero-the-hub-city-all-stars/'
+  - 'https://acadianaprofile.com/meet-zydeco-radio/'
+  - 'https://www.wwoz.org/acts/roddie-romero-hub-city-all-stars'
+  - 'https://rhythmandroots.com/artists/roddie-romero-the-hub-city-all-stars/'
+  - >-
+    https://festivalsacadiens.com/artists/roddie-romero-and-the-hub-city-all-stars/
+  - >-
+    https://musicjunkiepress.com/interview/roddie-romero-eric-adcok-heart-notorious-louisiana-roots-rocker-band-hub-city-stars/
+  - >-
+    https://www.broadwayworld.com/bwwmusic/article/Roddie-Romero-the-Hub-City-All-Stars-Distill-the-Spirit-of-Louisiana-in-GULFSTREAM-20160824
 spotify_data:
   followers: 589
   id: 6J30U7IvWMYykDJMJEpBRH
   popularity: 3
-  url: https://open.spotify.com/artist/6J30U7IvWMYykDJMJEpBRH
+  url: 'https://open.spotify.com/artist/6J30U7IvWMYykDJMJEpBRH'
 status: active
 title: Roddie Romero
+origin: 'Lafayette, Louisiana, United States'
 ---
 
 ![](roddie_romero.jpg)

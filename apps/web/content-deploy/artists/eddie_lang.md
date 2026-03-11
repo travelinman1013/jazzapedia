@@ -1,52 +1,55 @@
 ---
 biography_enhanced_at: '2026-02-26T01:17:14.849426'
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:17:14.849440'
 external_urls:
-  spotify: https://open.spotify.com/artist/0vjo776QYu8Kp1iFaIQVtF
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Lang
+  spotify: 'https://open.spotify.com/artist/0vjo776QYu8Kp1iFaIQVtF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Lang'
 genres:
-- ragtime
-- swing music
+  - ragtime
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_lang.jpg
 last_updated: '2026-02-26T01:17:14.849444'
 musical_connections:
   collaborators:
-  - Joe Venuti
-  - Frank Trumbauer
-  - Bix Beiderbecke
-  - Lonnie Johnson
-  - King Oliver
-  - Bing Crosby
-  - Paul Whiteman Orchestra
-  - Carl Kress
-  - Bessie Smith
-  - Louis Armstrong
+    - Joe Venuti
+    - Frank Trumbauer
+    - Bix Beiderbecke
+    - Lonnie Johnson
+    - King Oliver
+    - Bing Crosby
+    - Paul Whiteman Orchestra
+    - Carl Kress
+    - Bessie Smith
+    - Louis Armstrong
   influenced:
-  - Carl Kress
-  - Dick McDonough
-  - Django Reinhardt
+    - Carl Kress
+    - Dick McDonough
+    - Django Reinhardt
   mentors:
-  - Lang's Father (instrument maker)
+    - Lang's Father (instrument maker)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Eddie-Lang
-- https://syncopatedtimes.com/eddie-lang-profiles-in-jazz/
-- https://www.vjm.biz/167-eddie-lang-web-layout-1.pdf
-- https://courses.dcs.wisc.edu/wp/musicalperformers/eddie-lang/
-- https://travsd.wordpress.com/2021/10/25/eddie-lang-father-of-jazz-guitar/
-- https://en.wikipedia.org/wiki/Eddie_Lang
-- https://jazzlives.wordpress.com/2010/10/24/dont-forget-eddie-lang-please/
-- https://syncopatedtimes.com/eddie-lang-1902-1933/
+  - 'https://www.britannica.com/biography/Eddie-Lang'
+  - 'https://syncopatedtimes.com/eddie-lang-profiles-in-jazz/'
+  - 'https://www.vjm.biz/167-eddie-lang-web-layout-1.pdf'
+  - 'https://courses.dcs.wisc.edu/wp/musicalperformers/eddie-lang/'
+  - 'https://travsd.wordpress.com/2021/10/25/eddie-lang-father-of-jazz-guitar/'
+  - 'https://en.wikipedia.org/wiki/Eddie_Lang'
+  - 'https://jazzlives.wordpress.com/2010/10/24/dont-forget-eddie-lang-please/'
+  - 'https://syncopatedtimes.com/eddie-lang-1902-1933/'
 spotify_data:
   followers: 7730
   id: 0vjo776QYu8Kp1iFaIQVtF
   popularity: 17
-  url: https://open.spotify.com/artist/0vjo776QYu8Kp1iFaIQVtF
+  url: 'https://open.spotify.com/artist/0vjo776QYu8Kp1iFaIQVtF'
 status: active
-title: EDDIE LANG
+title: Eddie Lang
+birth_date: '1902-10-25'
+death_date: '1933-03-26'
+artist_type: person
 ---
 
 ![](eddie_lang.jpg)

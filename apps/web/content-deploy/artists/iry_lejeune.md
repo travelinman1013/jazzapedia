@@ -1,46 +1,50 @@
 ---
 biography_enhanced_at: '2026-03-02T01:10:45.722957'
-birth_place: Pointe Noire near Church Point, Louisiana, USA
+birth_place: 'Pointe Noire near Church Point, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:10:45.722964'
 external_urls:
-  spotify: https://open.spotify.com/artist/0yFMVtQxs902O0eHkAH0YM
-  wikipedia: https://en.wikipedia.org/wiki/Iry_LeJeune
+  spotify: 'https://open.spotify.com/artist/0yFMVtQxs902O0eHkAH0YM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Iry_LeJeune'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/iry_lejeune.jpg
 last_updated: '2026-03-02T01:10:45.722965'
 musical_connections:
   collaborators:
-  - Floyd LeBlanc
-  - J.B. Fuselier
-  - Virgil Bozman
-  - Eddie Shuler
-  - Lacassine Playboys
-  - Oklahoma Tornados
+    - Floyd LeBlanc
+    - J.B. Fuselier
+    - Virgil Bozman
+    - Eddie Shuler
+    - Lacassine Playboys
+    - Oklahoma Tornados
   influenced:
-  - Lawrence Walker
-  - Aldus Roger
-  - Nathan Abshire
+    - Lawrence Walker
+    - Aldus Roger
+    - Nathan Abshire
   mentors:
-  - Angeles LeJeune
-  - Amédé Ardoin
+    - Angeles LeJeune
+    - Amédé Ardoin
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://64parishes.org/entry/iry-lejeune
-- https://kids.kiddle.co/Iry_LeJeune
-- https://legacyarttour.org/2011/04/iry-lejeune-cajun-accordion-player.html
-- https://1063radiolafayette.com/the-legacy-of-iry-lejeune-at-feed-seed/
-- https://en.wikipedia.org/wiki/Iry_LeJeune
+  - 'https://64parishes.org/entry/iry-lejeune'
+  - 'https://kids.kiddle.co/Iry_LeJeune'
+  - 'https://legacyarttour.org/2011/04/iry-lejeune-cajun-accordion-player.html'
+  - 'https://1063radiolafayette.com/the-legacy-of-iry-lejeune-at-feed-seed/'
+  - 'https://en.wikipedia.org/wiki/Iry_LeJeune'
 spotify_data:
   followers: 1169
   id: 0yFMVtQxs902O0eHkAH0YM
   popularity: 4
-  url: https://open.spotify.com/artist/0yFMVtQxs902O0eHkAH0YM
+  url: 'https://open.spotify.com/artist/0yFMVtQxs902O0eHkAH0YM'
 status: active
 title: Iry LeJeune
+origin: 'Church Point, Louisiana, United States'
+birth_date: '1928-10-27'
+death_date: '1955-10-08'
+artist_type: person
 ---
 
 ![](iry_lejeune.jpg)

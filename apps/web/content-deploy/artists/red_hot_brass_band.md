@@ -3,35 +3,39 @@ biography_enhanced_at: '2026-01-30T01:16:07.621721'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:16:07.621730'
 external_urls:
-  spotify: https://open.spotify.com/artist/53sfuiTeRDrInxqeoJRGSc
+  spotify: 'https://open.spotify.com/artist/53sfuiTeRDrInxqeoJRGSc'
   wikipedia: ''
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/red_hot_brass_band.jpg
 last_updated: '2026-01-30T01:16:07.621731'
 musical_connections:
   collaborators: []
   influenced:
-  - Young traditional brass players
+    - Young traditional brass players
   mentors:
-  - Storyville Stompers
-  - Treme Brass Band
+    - Storyville Stompers
+    - Treme Brass Band
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.neworleans.com/listing/red-hot-brass-band/47767/
-- https://syncopatedtimes.com/talk-that-music-talk-passing-on-brass-band-music-in-new-orleans/
-- https://en.wikipedia.org/wiki/Rebirth_Brass_Band
-- https://msmokemusic.com/blogs/mind-smoke-blog/posts/6508022/a-brief-history-of-new-orleans-brass-bands
-- https://reverb.com/news/second-line-blues-a-brief-history-of-new-orleans-brass-bands
+  - 'https://www.neworleans.com/listing/red-hot-brass-band/47767/'
+  - >-
+    https://syncopatedtimes.com/talk-that-music-talk-passing-on-brass-band-music-in-new-orleans/
+  - 'https://en.wikipedia.org/wiki/Rebirth_Brass_Band'
+  - >-
+    https://msmokemusic.com/blogs/mind-smoke-blog/posts/6508022/a-brief-history-of-new-orleans-brass-bands
+  - >-
+    https://reverb.com/news/second-line-blues-a-brief-history-of-new-orleans-brass-bands
 spotify_data:
   followers: 109
   id: 53sfuiTeRDrInxqeoJRGSc
   popularity: 0
-  url: https://open.spotify.com/artist/53sfuiTeRDrInxqeoJRGSc
+  url: 'https://open.spotify.com/artist/53sfuiTeRDrInxqeoJRGSc'
 status: active
 title: Red Hot Brass Band
+artist_type: band
 ---
 
 ![](red_hot_brass_band.jpg)

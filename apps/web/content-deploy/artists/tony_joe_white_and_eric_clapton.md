@@ -1,49 +1,56 @@
 ---
 biography_enhanced_at: '2026-01-24T02:02:05.179738'
-birth_place: Marianna, Mississippi, USA
+birth_place: 'Marianna, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:02:05.179744'
 external_urls:
-  spotify: https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P
-  wikipedia: https://en.wikipedia.org/wiki/Tony_Joe_White
+  spotify: 'https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tony_Joe_White'
 genres:
-- blues
-- blues rock
-image_path: 03_Resources/source_material/ArtistPortraits/tony_joe_white_and_eric_clapton.jpg
+  - blues
+  - blues rock
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/tony_joe_white_and_eric_clapton.jpg
 last_updated: '2026-01-24T02:02:05.179745'
 musical_connections:
   collaborators:
-  - Eric Clapton
-  - Mark Knopfler
-  - Tina Turner
-  - Joe Cocker
-  - J.J. Cale
+    - Eric Clapton
+    - Mark Knopfler
+    - Tina Turner
+    - Joe Cocker
+    - J.J. Cale
   influenced:
-  - Elvis Presley
-  - Tom Jones
+    - Elvis Presley
+    - Tom Jones
   mentors:
-  - Bobbie Gentry
-  - Elvis Presley
-  - John Lee Hooker
+    - Bobbie Gentry
+    - Elvis Presley
+    - John Lee Hooker
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=I3MkD0Amokc
-- http://rocky-52.net/chanteursw/white_tony_joe.htm
-- https://en.wikipedia.org/wiki/Tony_Joe_White
-- https://www.classicrockhereandnow.com/2014/01/
-- https://coloradomusic.org/in-memoriam-tony-joe-white-writer-of-polk-salad-annie/
-- http://www.classicrockmusicwriter.com/2014/01/if-elvis-presley-played-swamp-rock-hed_24.html
-- https://fromthevaults-boppinbob.blogspot.com/2022/07/tony-joe-white-born-23-july-1943.html
-- https://www.noise11.com/news/tony-joe-white-bad-mouthin-some-classics-20180608
-- https://americansongwriter.com/tony-joe-white-king-of-funk-country/
+  - 'https://www.youtube.com/watch?v=I3MkD0Amokc'
+  - 'http://rocky-52.net/chanteursw/white_tony_joe.htm'
+  - 'https://en.wikipedia.org/wiki/Tony_Joe_White'
+  - 'https://www.classicrockhereandnow.com/2014/01/'
+  - >-
+    https://coloradomusic.org/in-memoriam-tony-joe-white-writer-of-polk-salad-annie/
+  - >-
+    http://www.classicrockmusicwriter.com/2014/01/if-elvis-presley-played-swamp-rock-hed_24.html
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/07/tony-joe-white-born-23-july-1943.html
+  - >-
+    https://www.noise11.com/news/tony-joe-white-bad-mouthin-some-classics-20180608
+  - 'https://americansongwriter.com/tony-joe-white-king-of-funk-country/'
 spotify_data:
   followers: 160220
   id: 6QvgWa4x3Ij4tvBpFMo11P
   popularity: 55
-  url: https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P
+  url: 'https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P'
 status: active
-title: tony joe white & eric clapton
+title: Tony Joe White & Eric Clapton
+birth_date: '1943-07-23'
+artist_type: band
 ---
 
 ![](tony_joe_white_and_eric_clapton.jpg)

@@ -3,44 +3,48 @@ biography_enhanced_at: '2026-01-26T01:36:37.371496'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:36:37.371507'
 external_urls:
-  spotify: https://open.spotify.com/artist/4wBuQ6xkvZJYyViB1z2Duk
+  spotify: 'https://open.spotify.com/artist/4wBuQ6xkvZJYyViB1z2Duk'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/sweet_cecilia.jpg
 last_updated: '2026-01-26T01:36:37.371509'
 musical_connections:
   collaborators:
-  - Tony Daigle
-  - Sonny Landreth
-  - Adrian Huval
-  - Bonsoir Catin
-  - Caleb Elliot
+    - Tony Daigle
+    - Sonny Landreth
+    - Adrian Huval
+    - Bonsoir Catin
+    - Caleb Elliot
   influenced:
-  - Chynna Huval
-  - Claudia Rankin
-  - High school musicians in St. Martin Parish
+    - Chynna Huval
+    - Claudia Rankin
+    - High school musicians in St. Martin Parish
   mentors:
-  - Al Berard
+    - Al Berard
 network_extracted: true
-origin: Cecilia, Louisiana, USA
+origin: 'Cecilia, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://sweetceciliagirls.com/bio
-- https://louisianais.com/en/culture/music/2024/01/26/sweet-cecilia-a-unique-family-phenomenon-of-the-louisiana-music-scene/
-- https://americansongwriter.com/a-tribute-to-al-berard-sweet-cecilia-album-interview/
-- https://sweetceciliagirls.com/press
-- https://www.katc.com/st-martin-parish/womens-history-month-a-highlight-of-the-grammy-nominee-girl-group-based-out-of-cecilia
-- https://sweetceciliagirls.com/al-berard-memorial-music-fund
-- https://www.sweetceciliagirls.com
+  - 'https://sweetceciliagirls.com/bio'
+  - >-
+    https://louisianais.com/en/culture/music/2024/01/26/sweet-cecilia-a-unique-family-phenomenon-of-the-louisiana-music-scene/
+  - >-
+    https://americansongwriter.com/a-tribute-to-al-berard-sweet-cecilia-album-interview/
+  - 'https://sweetceciliagirls.com/press'
+  - >-
+    https://www.katc.com/st-martin-parish/womens-history-month-a-highlight-of-the-grammy-nominee-girl-group-based-out-of-cecilia
+  - 'https://sweetceciliagirls.com/al-berard-memorial-music-fund'
+  - 'https://www.sweetceciliagirls.com'
 spotify_data:
   followers: 462
   id: 4wBuQ6xkvZJYyViB1z2Duk
   popularity: 1
-  url: https://open.spotify.com/artist/4wBuQ6xkvZJYyViB1z2Duk
+  url: 'https://open.spotify.com/artist/4wBuQ6xkvZJYyViB1z2Duk'
 status: active
 title: Sweet Cecilia
+artist_type: band
 ---
 
 ![](sweet_cecilia.jpg)

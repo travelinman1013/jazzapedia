@@ -3,44 +3,49 @@ biography_enhanced_at: '2026-02-16T01:04:48.038522'
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:04:48.038532'
 external_urls:
-  spotify: https://open.spotify.com/artist/6NDr2gA5QqojyrcCQzKTaM
+  spotify: 'https://open.spotify.com/artist/6NDr2gA5QqojyrcCQzKTaM'
   wikipedia: ''
 genres:
-- zydeco
-- cajun
-image_path: 03_Resources/source_material/ArtistPortraits/sunipie_and_the_louisiana_sunspots.jpg
+  - zydeco
+  - cajun
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/sunipie_and_the_louisiana_sunspots.jpg
 last_updated: '2026-02-16T01:04:48.038534'
 musical_connections:
   collaborators:
-  - Paul Simon
-  - Sting
-  - Louisiana Sunspots
-  - Northside Skull and Bones Gang
-  - Black Men of Labor Social Aid and Pleasure Club
+    - Paul Simon
+    - Sting
+    - Louisiana Sunspots
+    - Northside Skull and Bones Gang
+    - Black Men of Labor Social Aid and Pleasure Club
   influenced: []
   mentors:
-  - Willie Barnes Sr.
-  - Fernest Arceneaux
-  - John Delafose
-  - Clayton Sampy
+    - Willie Barnes Sr.
+    - Fernest Arceneaux
+    - John Delafose
+    - Clayton Sampy
 network_extracted: true
-origin: Benton, Saline County, Arkansas, USA
+origin: 'Benton, Saline County, Arkansas, USA'
 primary_source: perplexity
 research_sources:
-- https://encyclopediaofarkansas.net/entries/bruce-sunpie-barnes-8139/
-- https://www.nwf.org/Magazines/National-Wildlife/2024/Fall/Conservation/Bruce-Sunpie-Barnes
-- https://rhythmandroots.com/artists/sunpie-the-louisiana-sunspots/
-- https://southwritlarge.com/bios/bruce-sunpie-barnes/
-- https://whiteoakproductions.com/sunpie-and-the-louisiana-sunspots/
-- https://apeaceofmymind.org/2025/10/09/bruce-sunpie-barnes/
-- https://www.sunpiebarnes.live/about
+  - 'https://encyclopediaofarkansas.net/entries/bruce-sunpie-barnes-8139/'
+  - >-
+    https://www.nwf.org/Magazines/National-Wildlife/2024/Fall/Conservation/Bruce-Sunpie-Barnes
+  - 'https://rhythmandroots.com/artists/sunpie-the-louisiana-sunspots/'
+  - 'https://southwritlarge.com/bios/bruce-sunpie-barnes/'
+  - 'https://whiteoakproductions.com/sunpie-and-the-louisiana-sunspots/'
+  - 'https://apeaceofmymind.org/2025/10/09/bruce-sunpie-barnes/'
+  - 'https://www.sunpiebarnes.live/about'
 spotify_data:
   followers: 379
   id: 6NDr2gA5QqojyrcCQzKTaM
   popularity: 0
-  url: https://open.spotify.com/artist/6NDr2gA5QqojyrcCQzKTaM
+  url: 'https://open.spotify.com/artist/6NDr2gA5QqojyrcCQzKTaM'
 status: active
 title: Sunipie and the Louisiana Sunspots
+birth_place: 'Benton, Arkansas, United States'
+birth_date: '1963-05-18'
+artist_type: band
 ---
 
 ![](sunipie_and_the_louisiana_sunspots.jpg)

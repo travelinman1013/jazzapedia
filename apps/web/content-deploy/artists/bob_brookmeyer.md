@@ -1,51 +1,59 @@
 ---
 biography_enhanced_at: '2026-03-09T01:14:06.776685'
-birth_place: Kansas City, Missouri, United States
+birth_place: 'Kansas City, Missouri, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:14:06.776693'
 external_urls:
-  spotify: https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN
+  spotify: 'https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN'
   wikipedia: Not found in search results
 genres:
-- jazz
-- cool jazz
-- jazz ballads
+  - jazz
+  - cool jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/bob_brookmeyer.jpg
 last_updated: '2026-03-09T01:14:06.776695'
 musical_connections:
   collaborators:
-  - Gerry Mulligan
-  - Clark Terry
-  - Thad Jones and Mel Lewis
-  - Jimmy Giuffre
-  - Stan Getz
-  - Bill Evans
-  - Coleman Hawkins, Pee Wee Russell, Ben Webster, Charles Mingus
+    - Gerry Mulligan
+    - Clark Terry
+    - Thad Jones and Mel Lewis
+    - Jimmy Giuffre
+    - Stan Getz
+    - Bill Evans
+    - 'Coleman Hawkins, Pee Wee Russell, Ben Webster, Charles Mingus'
   influenced:
-  - Students at Manhattan School of Music and New England Conservatory
-  - Participants in BMI Composers Workshop and Rhythmic Conservatory Composition Workshop
+    - Students at Manhattan School of Music and New England Conservatory
+    - >-
+      Participants in BMI Composers Workshop and Rhythmic Conservatory
+      Composition Workshop
   mentors:
-  - Count Basie
-  - Kansas City Conservatory of Music
-  - Claude Thornhill
+    - Count Basie
+    - Kansas City Conservatory of Music
+    - Claude Thornhill
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/bob-brookmeyer-jack-of-all-trades-master-of-valves-bob-brookmeyer-by-jack-bowers
-- https://www.arts.gov/honors/jazz/bob-brookmeyer
-- https://www.bobbrookmeyer.com/about
-- https://nationaljazzarchive.org.uk/explore/interviews/1620912-bob-brookmeyer
-- https://fromthevaults-boppinbob.blogspot.com/2023/12/bob-brookmeyer-born-19-december-1929.html
-- https://jazztimes.com/features/tributes-and-obituaries/bob-brookmeyer-dies-at-81/
-- https://ww1.namm.org/library/oral-history/bob-brookmeyer
-- https://isjac.org/hall-of-fame-new/bob-brookmeyer
+  - >-
+    https://www.allaboutjazz.com/bob-brookmeyer-jack-of-all-trades-master-of-valves-bob-brookmeyer-by-jack-bowers
+  - 'https://www.arts.gov/honors/jazz/bob-brookmeyer'
+  - 'https://www.bobbrookmeyer.com/about'
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1620912-bob-brookmeyer'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/12/bob-brookmeyer-born-19-december-1929.html
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/bob-brookmeyer-dies-at-81/
+  - 'https://ww1.namm.org/library/oral-history/bob-brookmeyer'
+  - 'https://isjac.org/hall-of-fame-new/bob-brookmeyer'
 spotify_data:
   followers: 14260
   id: 3aM9H4QBnPUo6mnNVufAtN
   popularity: 40
-  url: https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN
+  url: 'https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN'
 status: active
-title: BOB BROOKMEYER
+title: Bob Brookmeyer
+birth_date: '1929-12-19'
+death_date: '2011-12-15'
+artist_type: person
 ---
 
 ![](bob_brookmeyer.jpg)

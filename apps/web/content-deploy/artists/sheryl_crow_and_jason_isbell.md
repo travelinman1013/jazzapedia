@@ -1,41 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-31T01:10:09.398584'
-birth_place: Kennett, Missouri, USA
+birth_place: 'Kennett, Missouri, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:10:09.398595'
 external_urls:
-  spotify: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
-  wikipedia: https://en.wikipedia.org/wiki/Threads_(Sheryl_Crow_album)
+  spotify: 'https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Threads_(Sheryl_Crow_album)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sheryl_crow_and_jason_isbell.jpg
 last_updated: '2026-01-31T01:10:09.398596'
 musical_connections:
   collaborators:
-  - Jason Isbell
-  - Johnny Cash
-  - Stevie Nicks
-  - Chris Stapleton
+    - Jason Isbell
+    - Johnny Cash
+    - Stevie Nicks
+    - Chris Stapleton
   influenced:
-  - Jason Isbell
+    - Jason Isbell
   mentors:
-  - Jeff Trott
-  - Tchad Blake
+    - Jeff Trott
+    - Tchad Blake
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=4mwOLxgokbM
-- https://en.wikipedia.org/wiki/Threads_(Sheryl_Crow_album)
-- https://www.rmpbs.org/shows/the-art-of-music/episodes/sheryl-crow-and-jason-isbell-uyr1hp
-- https://www.countryschatter.com/2024/07/the-art-of-music-sheryl-crow-with-jason-isbell-debuts-on-public-television/
-- https://umusic.co.nz/moments/classic-pop/sheryl-crows-roots-rock-legacy/
-- https://fayettevilleflyer.com/2019/08/31/sheryl-crow-and-jason-isbell-link-up-for-music-first-night-of-songs-and-collaborative-spirit/
+  - 'https://www.youtube.com/watch?v=4mwOLxgokbM'
+  - 'https://en.wikipedia.org/wiki/Threads_(Sheryl_Crow_album)'
+  - >-
+    https://www.rmpbs.org/shows/the-art-of-music/episodes/sheryl-crow-and-jason-isbell-uyr1hp
+  - >-
+    https://www.countryschatter.com/2024/07/the-art-of-music-sheryl-crow-with-jason-isbell-debuts-on-public-television/
+  - 'https://umusic.co.nz/moments/classic-pop/sheryl-crows-roots-rock-legacy/'
+  - >-
+    https://fayettevilleflyer.com/2019/08/31/sheryl-crow-and-jason-isbell-link-up-for-music-first-night-of-songs-and-collaborative-spirit/
 spotify_data:
   followers: 1368774
   id: 4TKTii6gnOnUXQHyuo9JaD
   popularity: 68
-  url: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
+  url: 'https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD'
 status: active
-title: sheryl crow & jason isbell
+title: Sheryl Crow & Jason Isbell
+birth_date: '1962-02-11'
+artist_type: band
 ---
 
 ![](sheryl_crow_and_jason_isbell.jpg)

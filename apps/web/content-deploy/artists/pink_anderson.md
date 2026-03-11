@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-10T01:51:20.331114'
-birth_place: Laurens, South Carolina, USA
+birth_place: 'Laurens, South Carolina, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:51:20.331123'
 external_urls:
-  spotify: https://open.spotify.com/artist/43YDeIUqhR3Y5rRPSH6AOt
-  wikipedia: https://en.wikipedia.org/wiki/Pink_Anderson
+  spotify: 'https://open.spotify.com/artist/43YDeIUqhR3Y5rRPSH6AOt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pink_Anderson'
 genres:
-- country blues
-- blues
-- classic blues
-- ragtime
+  - country blues
+  - blues
+  - classic blues
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/pink_anderson.jpg
 last_updated: '2026-02-10T01:51:20.331125'
 musical_connections:
   collaborators:
-  - Simmie Dooley
-  - Arthur 'Peg Leg Sam' Jackson
-  - Leo 'Chief Thundercloud' Kahdot
+    - Simmie Dooley
+    - Arthur 'Peg Leg Sam' Jackson
+    - Leo 'Chief Thundercloud' Kahdot
   influenced:
-  - Pink Floyd
-  - Johnny Cash
+    - Pink Floyd
+    - Johnny Cash
   mentors:
-  - Simmie Dooley
+    - Simmie Dooley
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.blueskc.org/pink-anderson/
-- https://soozebluesjazz.weebly.com/pink-anderson.html
-- https://www.spartanburgmusictrail.com/music-makers/pink-anderson
-- https://bigtrainblues.com/pink-anderson/
-- https://concord.com/artist/pink-anderson/
-- https://en.wikipedia.org/wiki/Pink_Anderson
+  - 'https://www.blueskc.org/pink-anderson/'
+  - 'https://soozebluesjazz.weebly.com/pink-anderson.html'
+  - 'https://www.spartanburgmusictrail.com/music-makers/pink-anderson'
+  - 'https://bigtrainblues.com/pink-anderson/'
+  - 'https://concord.com/artist/pink-anderson/'
+  - 'https://en.wikipedia.org/wiki/Pink_Anderson'
 spotify_data:
   followers: 15898
   id: 43YDeIUqhR3Y5rRPSH6AOt
   popularity: 21
-  url: https://open.spotify.com/artist/43YDeIUqhR3Y5rRPSH6AOt
+  url: 'https://open.spotify.com/artist/43YDeIUqhR3Y5rRPSH6AOt'
 status: active
-title: PINK ANDERSON
+title: Pink Anderson
+birth_date: '1900-02-12'
+death_date: '1974-10-12'
+artist_type: person
 ---
 
 ![](pink_anderson.jpg)

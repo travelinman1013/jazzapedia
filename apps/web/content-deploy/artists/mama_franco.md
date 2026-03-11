@@ -1,40 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-30T01:21:59.576160'
-birth_place: Sona-Bata, Bas-Zaire, Democratic Republic of Congo
+birth_place: 'Sona-Bata, Bas-Zaire, Democratic Republic of Congo'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:21:59.576177'
 external_urls:
-  spotify: https://open.spotify.com/artist/09WgYO0lAySu1DqYX9XiJt
-  wikipedia: https://en.wikipedia.org/wiki/Franco_Luambo
+  spotify: 'https://open.spotify.com/artist/09WgYO0lAySu1DqYX9XiJt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Franco_Luambo'
 genres: []
 image_path: ''
 last_updated: '2026-01-30T01:21:59.576180'
 musical_connections:
   collaborators:
-  - Jean Serge Essous
-  - Josky Kiambukuta
-  - Madilu System
+    - Jean Serge Essous
+    - Josky Kiambukuta
+    - Madilu System
   influenced:
-  - Sam Mangwana
-  - Madilu System
-  - Josky Kiambukuta
+    - Sam Mangwana
+    - Madilu System
+    - Josky Kiambukuta
   mentors:
-  - Paul Ebengo Dewayon
+    - Paul Ebengo Dewayon
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://panafricannews.blogspot.com/2008/04/francois-luambo-makiadi-1938-1989.html
-- https://kenyapage.net/franco/bio.html
-- https://www.jabulaniradio.com/artists/francois-luambo-luanzo-makiadi-20
-- https://en.wikipedia.org/wiki/Franco_Luambo
-- https://www.afropop.org/articles/francos-last-concert
+  - >-
+    http://panafricannews.blogspot.com/2008/04/francois-luambo-makiadi-1938-1989.html
+  - 'https://kenyapage.net/franco/bio.html'
+  - 'https://www.jabulaniradio.com/artists/francois-luambo-luanzo-makiadi-20'
+  - 'https://en.wikipedia.org/wiki/Franco_Luambo'
+  - 'https://www.afropop.org/articles/francos-last-concert'
 spotify_data:
   followers: 93
   id: 09WgYO0lAySu1DqYX9XiJt
   popularity: 1
-  url: https://open.spotify.com/artist/09WgYO0lAySu1DqYX9XiJt
+  url: 'https://open.spotify.com/artist/09WgYO0lAySu1DqYX9XiJt'
 status: active
 title: Mama Franco
+birth_date: '1938-07-06'
+death_date: '1989-10-12'
+artist_type: person
 ---
 
 ![]()

@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-30T01:20:59.912954'
-birth_place: Archibald, Louisiana, United States
+birth_place: 'Archibald, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:20:59.912960'
 external_urls:
-  spotify: https://open.spotify.com/artist/0s3L3Ab5oWGQq3r5yOj9v6
+  spotify: 'https://open.spotify.com/artist/0s3L3Ab5oWGQq3r5yOj9v6'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/marie_queenie_lyons.jpg
 last_updated: '2026-01-30T01:20:59.912965'
 musical_connections:
   collaborators:
-  - King Curtis
-  - Henry Glover
-  - Don Pullen
-  - Jackie Wilson
-  - Fats Domino
-  - The Coasters
+    - King Curtis
+    - Henry Glover
+    - Don Pullen
+    - Jackie Wilson
+    - Fats Domino
+    - The Coasters
   influenced: []
   mentors:
-  - James Brown
+    - James Brown
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.zeroto180.org/marie-queenie-lyons-soul-fever/
-- https://www.elsewhere.co.nz/music/1588/marie-queenie-lyons-soul-fever-vampi-southbound/
-- https://ukvibe.org/album_reviews/marie-queenie-lyons/
-- https://www.thecrimson.com/column/catch-you-on-the-b-side/article/2013/2/26/Soul_Fever_Queenie_Lyons/
-- https://www.forcedexposure.com/Artists/LYONS.MARIE.QUEENIE.html
-- https://jazzrocksoul.com/artists/marie-queenie-lyons/
-- https://www.last.fm/music/Marie+%22Queenie%22+Lyons/+wiki
-- https://funky16corners.com/?p=6988
+  - 'https://www.zeroto180.org/marie-queenie-lyons-soul-fever/'
+  - >-
+    https://www.elsewhere.co.nz/music/1588/marie-queenie-lyons-soul-fever-vampi-southbound/
+  - 'https://ukvibe.org/album_reviews/marie-queenie-lyons/'
+  - >-
+    https://www.thecrimson.com/column/catch-you-on-the-b-side/article/2013/2/26/Soul_Fever_Queenie_Lyons/
+  - 'https://www.forcedexposure.com/Artists/LYONS.MARIE.QUEENIE.html'
+  - 'https://jazzrocksoul.com/artists/marie-queenie-lyons/'
+  - 'https://www.last.fm/music/Marie+%22Queenie%22+Lyons/+wiki'
+  - 'https://funky16corners.com/?p=6988'
 spotify_data:
   followers: 3149
   id: 0s3L3Ab5oWGQq3r5yOj9v6
   popularity: 20
-  url: https://open.spotify.com/artist/0s3L3Ab5oWGQq3r5yOj9v6
+  url: 'https://open.spotify.com/artist/0s3L3Ab5oWGQq3r5yOj9v6'
 status: active
-title: marie queenie lyons
+title: Marie Queenie Lyons
+artist_type: person
 ---
 
 ![](marie_queenie_lyons.jpg)

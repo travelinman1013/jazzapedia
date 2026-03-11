@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-26T01:40:17.195374'
-birth_place: Abeokuta, Ogun State, Nigeria
+birth_place: 'Abeokuta, Ogun State, Nigeria'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:40:17.195384'
 external_urls:
-  spotify: https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR
-  wikipedia: https://en.wikipedia.org/wiki/Fela_Kuti
+  spotify: 'https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fela_Kuti'
 genres:
-- afrobeat
-- highlife
-- afropop
+  - afrobeat
+  - highlife
+  - afropop
 image_path: 03_Resources/source_material/ArtistPortraits/fela_anikulapo_kuti.jpg
 last_updated: '2026-01-26T01:40:17.195387'
 musical_connections:
   collaborators:
-  - Africa '70
-  - Egypt 80
+    - Africa '70
+    - Egypt 80
   influenced:
-  - Femi Kuti
-  - Various modern artists
+    - Femi Kuti
+    - Various modern artists
   mentors:
-  - Funmilayo Ransome-Kuti
-  - Highlife and jazz musicians
+    - Funmilayo Ransome-Kuti
+    - Highlife and jazz musicians
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fela_Kuti
-- https://www.britannica.com/biography/Fela-Kuti
-- https://www.biography.com/musicians/fela-kuti
+  - 'https://en.wikipedia.org/wiki/Fela_Kuti'
+  - 'https://www.britannica.com/biography/Fela-Kuti'
+  - 'https://www.biography.com/musicians/fela-kuti'
 spotify_data:
   followers: 705586
   id: 5CG9X521RDFWCuAhlo6QoR
   popularity: 52
-  url: https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR
+  url: 'https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR'
 status: active
 title: Fela Anikulapo Kuti
+birth_date: '1938-10-15'
+death_date: '1997-08-02'
+artist_type: person
 ---
 
 ![](fela_anikulapo_kuti.jpg)

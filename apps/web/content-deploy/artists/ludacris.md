@@ -1,62 +1,63 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8b3d6c5d-5be2-4cbc-be3b-23c839570b1c
-  name: Disturbing tha Peace
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8b3d6c5d-5be2-4cbc-be3b-23c839570b1c
+    name: Disturbing tha Peace
 biography_enhanced_at: '2026-02-24T01:49:42.883555'
 birth_date: '1977-09-11'
-birth_place: Champaign
+birth_place: 'Champaign, Illinois, United States'
 disambiguation: US rapper & actor
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:49:42.883564'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0638ba22-040f-438d-83a5-9b670c4adaf5
-  spotify: https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi
+  musicbrainz: 'https://musicbrainz.org/artist/0638ba22-040f-438d-83a5-9b670c4adaf5'
+  spotify: 'https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi'
   wikipedia: ''
 gender: Male
 genres:
-- southern hip hop
+  - southern hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/ludacris.jpg
 instruments:
-- lead vocals
-- spoken vocals
+  - lead vocals
+  - spoken vocals
 last_updated: '2026-02-24T01:49:42.883565'
 musical_connections:
   collaborators:
-  - Timbaland
-  - Jermaine Dupri
-  - Dallas Austin
-  - Organized Noize
-  - Bangladesh
+    - Timbaland
+    - Jermaine Dupri
+    - Dallas Austin
+    - Organized Noize
+    - Bangladesh
   influenced: []
   mentors:
-  - Timbaland
-  - Jermaine Dupri
+    - Timbaland
+    - Jermaine Dupri
 musicbrainz_id: 0638ba22-040f-438d-83a5-9b670c4adaf5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/ludacris
-- https://www.vedantu.com/biography/ludacris
-- https://www.insomniac.com/music/artists/ludacris/
-- https://www.youtube.com/watch?v=aSWDjAOOQWw
-- https://www.britannica.com/biography/Ludacris
-- https://www.famousbirthdays.com/people/ludacris.html
-- https://www.georgiaencyclopedia.org/articles/arts-culture/ludacris-b-1977/
+  - 'https://www.biography.com/musicians/ludacris'
+  - 'https://www.vedantu.com/biography/ludacris'
+  - 'https://www.insomniac.com/music/artists/ludacris/'
+  - 'https://www.youtube.com/watch?v=aSWDjAOOQWw'
+  - 'https://www.britannica.com/biography/Ludacris'
+  - 'https://www.famousbirthdays.com/people/ludacris.html'
+  - 'https://www.georgiaencyclopedia.org/articles/arts-culture/ludacris-b-1977/'
 spotify_data:
   followers: 3536447
   id: 3ipn9JLAPI5GUEo4y4jcoi
   popularity: 77
-  url: https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi
+  url: 'https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi'
 status: active
 tags:
-- dirty south
-- hip hop
-- pop rap
+  - dirty south
+  - hip hop
+  - pop rap
 title: Ludacris
+origin: 'Atlanta, Georgia, United States'
 ---
 
 ![](ludacris.jpg)

@@ -1,116 +1,116 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1965'
-  end: 1968-09
-  instruments: []
-  mbid: 2819834e-4e08-47b0-a2c4-b7672318e8f0
-  name: The Byrds
-- begin: 1968-09
-  end: '1972'
-  instruments: []
-  mbid: b4375768-3c8b-46e7-b578-c920ccfe725f
-  name: The Flying Burrito Brothers
-- begin: '1971'
-  end: '1973'
-  instruments: []
-  mbid: 6964478b-5f5d-48a4-839a-dfc3886c0843
-  name: Manassas
-- begin: '1977'
-  end: ''
-  instruments:
-  - original
-  mbid: 29436873-d5cb-49ac-b60e-b68e38593c1d
-  name: McGuinn, Clark & Hillman
-- begin: '1985'
-  end: 1994-02
-  instruments: []
-  mbid: 2efcc0a3-8224-40e2-8d08-ade603ea8c0b
-  name: Desert Rose Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9ee14ffa-02fb-4fd0-a3f6-d67864cd441a
-  name: The Souther, Hillman, Furay Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 511450e9-9054-42c8-8f2e-7fb915247b05
-  name: The Scottsville Squirrel Barkers
-- begin: ''
-  end: ''
-  instruments:
-  - mandolin
-  - original
-  mbid: 33d375b1-bee6-4b69-8b01-a4fb2a854285
-  name: The Hillmen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b46f4dbf-0fb1-442f-ac42-5e72550b6aad
-  name: Flyte
+  - begin: '1965'
+    end: 1968-09
+    instruments: []
+    mbid: 2819834e-4e08-47b0-a2c4-b7672318e8f0
+    name: The Byrds
+  - begin: 1968-09
+    end: '1972'
+    instruments: []
+    mbid: b4375768-3c8b-46e7-b578-c920ccfe725f
+    name: The Flying Burrito Brothers
+  - begin: '1971'
+    end: '1973'
+    instruments: []
+    mbid: 6964478b-5f5d-48a4-839a-dfc3886c0843
+    name: Manassas
+  - begin: '1977'
+    end: ''
+    instruments:
+      - original
+    mbid: 29436873-d5cb-49ac-b60e-b68e38593c1d
+    name: 'McGuinn, Clark & Hillman'
+  - begin: '1985'
+    end: 1994-02
+    instruments: []
+    mbid: 2efcc0a3-8224-40e2-8d08-ade603ea8c0b
+    name: Desert Rose Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9ee14ffa-02fb-4fd0-a3f6-d67864cd441a
+    name: 'The Souther, Hillman, Furay Band'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 511450e9-9054-42c8-8f2e-7fb915247b05
+    name: The Scottsville Squirrel Barkers
+  - begin: ''
+    end: ''
+    instruments:
+      - mandolin
+      - original
+    mbid: 33d375b1-bee6-4b69-8b01-a4fb2a854285
+    name: The Hillmen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b46f4dbf-0fb1-442f-ac42-5e72550b6aad
+    name: Flyte
 biography_enhanced_at: '2026-03-02T01:10:19.114403'
 birth_date: '1944-12-04'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:10:19.114408'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/068e411c-fa59-49b6-b3cb-6cd090812dcc
-  spotify: https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs
+  musicbrainz: 'https://musicbrainz.org/artist/068e411c-fa59-49b6-b3cb-6cd090812dcc'
+  spotify: 'https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs'
   wikipedia: ''
 gender: Male
 genres:
-- country rock
-- americana
-- bluegrass
+  - country rock
+  - americana
+  - bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/chris_hillman.jpg
 instruments:
-- original
-- mandolin
-- bass guitar
-- guitar
-- acoustic guitar
-- pedal steel guitar
-- background vocals
-- lead vocals
-- tenor vocals
-- other vocals
+  - original
+  - mandolin
+  - bass guitar
+  - guitar
+  - acoustic guitar
+  - pedal steel guitar
+  - background vocals
+  - lead vocals
+  - tenor vocals
+  - other vocals
 last_updated: '2026-03-02T01:10:19.114409'
 musical_connections:
   collaborators:
-  - Gram Parsons
-  - Herb Pedersen
-  - Stephen Stills
-  - Richie Furay
-  - John Jorgenson
-  - Larry Rice and Tony Rice
+    - Gram Parsons
+    - Herb Pedersen
+    - Stephen Stills
+    - Richie Furay
+    - John Jorgenson
+    - Larry Rice and Tony Rice
   influenced:
-  - Brad Paisley
-  - Emmylou Harris
-  - Dwight Yoakam
+    - Brad Paisley
+    - Emmylou Harris
+    - Dwight Yoakam
   mentors:
-  - Vern Gosdin
+    - Vern Gosdin
 musicbrainz_id: 068e411c-fa59-49b6-b3cb-6cd090812dcc
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://bluegrassunlimited.com/article/chris-hillman-returns-to-his-roots/
-- https://chrishillman.com/pages/about
-- https://acousticlivenytsa.com/chris-hillman/
-- https://sandiegotroubadour.com/9412/
-- https://www.guitarmasters.org/cartist/chris-hillman/
-- https://tapeop.com/interviews/140/chris-hillman
+  - 'https://bluegrassunlimited.com/article/chris-hillman-returns-to-his-roots/'
+  - 'https://chrishillman.com/pages/about'
+  - 'https://acousticlivenytsa.com/chris-hillman/'
+  - 'https://sandiegotroubadour.com/9412/'
+  - 'https://www.guitarmasters.org/cartist/chris-hillman/'
+  - 'https://tapeop.com/interviews/140/chris-hillman'
 spotify_data:
   followers: 21455
   id: 70FybmH2MMz9fHewhnLvjs
   popularity: 29
-  url: https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs
+  url: 'https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs'
 status: active
 tags:
-- american
-- folk
-- rock
-title: CHRIS HILLMAN
+  - american
+  - folk
+  - rock
+title: Chris Hillman
 ---
 
 ![](chris_hillman.jpg)

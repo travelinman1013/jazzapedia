@@ -1,46 +1,48 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-02-11T01:58:19.825858'
-birth_place: Brooklyn (East New York), New York, USA
+birth_place: 'Brooklyn (East New York), New York, USA'
 disambiguation: Brooklyn rapper
 enhancement_provider: perplexity
 entry_created: '2026-02-11T01:58:19.825868'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7a6bc9ab-3f0f-4b41-be06-fe51de6bf556
-  spotify: https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD
+  musicbrainz: 'https://musicbrainz.org/artist/7a6bc9ab-3f0f-4b41-be06-fe51de6bf556'
+  spotify: 'https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD'
   wikipedia: ''
 gender: Female
 genres:
-- experimental hip hop
+  - experimental hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/salimata.jpg
 last_updated: '2026-02-11T01:58:19.825870'
 musical_connections:
   collaborators:
-  - MIKE
-  - Pink Siifu
-  - Niontay
-  - Hailee
+    - MIKE
+    - Pink Siifu
+    - Niontay
+    - Hailee
   influenced: []
   mentors:
-  - MIKE
+    - MIKE
 musicbrainz_id: 7a6bc9ab-3f0f-4b41-be06-fe51de6bf556
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://patta.co/blogs/news/get-familiar-salimata
-- https://www.rovr.live/artists/salimata
-- https://wonderfruit.co/directory/salimata
-- https://www.cabbageshiphop.com/salimata-interview-the-happening-10k/
-- https://grownmag.com/culture/interviews/salimata-says-its-time-for-black-women-to-embrace-being-the-nice-bully/
-- https://doubleamagazine.com/friendbook-22-salimata/
-- https://www.ninaprotocol.com/posts/salimata-sweetthang
+  - 'https://patta.co/blogs/news/get-familiar-salimata'
+  - 'https://www.rovr.live/artists/salimata'
+  - 'https://wonderfruit.co/directory/salimata'
+  - 'https://www.cabbageshiphop.com/salimata-interview-the-happening-10k/'
+  - >-
+    https://grownmag.com/culture/interviews/salimata-says-its-time-for-black-women-to-embrace-being-the-nice-bully/
+  - 'https://doubleamagazine.com/friendbook-22-salimata/'
+  - 'https://www.ninaprotocol.com/posts/salimata-sweetthang'
 spotify_data:
   followers: 8997
   id: 7jS2ex4JC0DiFtMfh417jD
   popularity: 37
-  url: https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD
+  url: 'https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD'
 status: active
-title: SALIMATA
+title: Salimata
+origin: 'Marseille, France'
 ---
 
 ![](salimata.jpg)

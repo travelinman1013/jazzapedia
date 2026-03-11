@@ -1,49 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-02T01:44:57.340466'
-birth_place: Powell, Tennessee, United States (birthplace)
+birth_place: 'Powell, Tennessee, United States (birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:44:57.340498'
 external_urls:
-  spotify: https://open.spotify.com/artist/4DyCDtW5UVLrAs0IBD4cMI
+  spotify: 'https://open.spotify.com/artist/4DyCDtW5UVLrAs0IBD4cMI'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/holly_norman.jpg
 last_updated: '2026-02-02T01:44:57.340500'
 musical_connections:
   collaborators:
-  - James Burton
-  - Terry Blackwood & The Imperials
-  - Mike Johnson
-  - Kevin Grantt
-  - Danny Parks
-  - Robert Simone
-  - Vashti Sivell
-  - Claire Cross
-  - West Australian Symphony Orchestra
-  - The Cat Empire
-  - Australian String Quartet
-  - The Panics
+    - James Burton
+    - Terry Blackwood & The Imperials
+    - Mike Johnson
+    - Kevin Grantt
+    - Danny Parks
+    - Robert Simone
+    - Vashti Sivell
+    - Claire Cross
+    - West Australian Symphony Orchestra
+    - The Cat Empire
+    - Australian String Quartet
+    - The Panics
   influenced: []
   mentors:
-  - Dolly Parton
-  - Roy Acuff
-  - Ernie Rowell
+    - Dolly Parton
+    - Roy Acuff
+    - Ernie Rowell
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://melbourne-musicteachers.com/holly-norman/
-- https://www.americanamusicmagazine.com/americana-music-profiles/holly-norman/
-- https://bluegrasstoday.com/appalachian-angel-holly-norman/
-- https://australianjazz.net/2018/09/holly-norman-drummer/
-- https://frontiernet.net/~tnchalets/holly/me.htm
-- https://elmoremagazine.com/2016/12/reviews/albums/holly-norman
+  - 'https://melbourne-musicteachers.com/holly-norman/'
+  - >-
+    https://www.americanamusicmagazine.com/americana-music-profiles/holly-norman/
+  - 'https://bluegrasstoday.com/appalachian-angel-holly-norman/'
+  - 'https://australianjazz.net/2018/09/holly-norman-drummer/'
+  - 'https://frontiernet.net/~tnchalets/holly/me.htm'
+  - 'https://elmoremagazine.com/2016/12/reviews/albums/holly-norman'
 spotify_data:
   followers: 26
   id: 4DyCDtW5UVLrAs0IBD4cMI
   popularity: 0
-  url: https://open.spotify.com/artist/4DyCDtW5UVLrAs0IBD4cMI
+  url: 'https://open.spotify.com/artist/4DyCDtW5UVLrAs0IBD4cMI'
 status: active
-title: HOLLY NORMAN
+title: Holly Norman
+artist_type: person
 ---
 
 ![](holly_norman.jpg)

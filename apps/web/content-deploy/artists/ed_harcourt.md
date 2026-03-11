@@ -1,75 +1,77 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e60f3390-1bac-4b72-8e57-df45f39bae70
-  name: Snug
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 993971d5-4fab-4289-8b53-1c92d121ab6f
-  name: Loup GarouX
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e60f3390-1bac-4b72-8e57-df45f39bae70
+    name: Snug
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 993971d5-4fab-4289-8b53-1c92d121ab6f
+    name: Loup GarouX
 biography_enhanced_at: '2026-02-24T01:39:00.040761'
 birth_date: '1977-08-14'
-birth_place: Wimbledon
+birth_place: 'Wimbledon, England, United Kingdom'
 disambiguation: English singer‐songwriter
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:39:00.040769'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0cda9358-1def-49aa-a0ff-10320f40522f
-  spotify: https://open.spotify.com/artist/5EOPLr73C9nIPYwVEAsiOY
+  musicbrainz: 'https://musicbrainz.org/artist/0cda9358-1def-49aa-a0ff-10320f40522f'
+  spotify: 'https://open.spotify.com/artist/5EOPLr73C9nIPYwVEAsiOY'
   wikipedia: ''
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ed_harcourt.jpg
 instruments:
-- piano
-- baritone guitar
-- Wurlitzer electric piano
-- Rhodes piano
-- bass guitar
-- guitar
-- background vocals
-- lead vocals
+  - piano
+  - baritone guitar
+  - Wurlitzer electric piano
+  - Rhodes piano
+  - bass guitar
+  - guitar
+  - background vocals
+  - lead vocals
 last_updated: '2026-02-24T01:39:00.040770'
 musical_connections:
   collaborators:
-  - Tim Holmes (Death in Vegas)
-  - Tchad Blake
-  - Jari Haapalainen
-  - Hadrian Garrard
-  - Pete Hutchings
-  - Paloma Faith
-  - Sophie Ellis-Bextor
-  - Marianne Faithfull
-  - Patti Smith
-  - Lisa Marie Presley
+    - Tim Holmes (Death in Vegas)
+    - Tchad Blake
+    - Jari Haapalainen
+    - Hadrian Garrard
+    - Pete Hutchings
+    - Paloma Faith
+    - Sophie Ellis-Bextor
+    - Marianne Faithfull
+    - Patti Smith
+    - Lisa Marie Presley
   influenced: []
   mentors:
-  - Tom Waits
+    - Tom Waits
 musicbrainz_id: 0cda9358-1def-49aa-a0ff-10320f40522f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://edharcourtmusic.com/biography/
-- https://paladinartists.com/our_roster/ed-harcourt/
-- https://www.davegott.com/music/artist/ed_harcourt/index.html
-- https://www.newmusicsocial.com/home/an-artist-in-lockdown-ed-harcourt
-- https://www.songsommelier.com/art-of-longevity-ed-harcourt
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/harcourt-ed
+  - 'https://edharcourtmusic.com/biography/'
+  - 'https://paladinartists.com/our_roster/ed-harcourt/'
+  - 'https://www.davegott.com/music/artist/ed_harcourt/index.html'
+  - 'https://www.newmusicsocial.com/home/an-artist-in-lockdown-ed-harcourt'
+  - 'https://www.songsommelier.com/art-of-longevity-ed-harcourt'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/harcourt-ed
 spotify_data:
   followers: 36499
   id: 5EOPLr73C9nIPYwVEAsiOY
   popularity: 33
-  url: https://open.spotify.com/artist/5EOPLr73C9nIPYwVEAsiOY
+  url: 'https://open.spotify.com/artist/5EOPLr73C9nIPYwVEAsiOY'
 status: active
 tags:
-- alternative rock
-- indie rock
-- rock and indie
+  - alternative rock
+  - indie rock
+  - rock and indie
 title: Ed Harcourt
+origin: 'Sussex, England, United Kingdom'
 ---
 
 ![](ed_harcourt.jpg)

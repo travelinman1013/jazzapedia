@@ -1,72 +1,76 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1967'
-  end: '1976'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 8c90ad8c-9150-4c51-a1eb-342232e99d06
-  name: The Band
+  - begin: '1967'
+    end: '1976'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 8c90ad8c-9150-4c51-a1eb-342232e99d06
+    name: The Band
 biography_enhanced_at: '2026-02-07T01:28:36.565048'
 birth_date: '1943-07-05'
-birth_place: Toronto
+birth_place: 'Toronto, Ontario, Canada'
 death_date: '2023-08-09'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:28:36.565059'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a0920ae6-2968-4f92-ac14-67448452bd18
-  spotify: https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf
-  wikipedia: https://en.wikipedia.org/wiki/Robbie_Robertson
+  musicbrainz: 'https://musicbrainz.org/artist/a0920ae6-2968-4f92-ac14-67448452bd18'
+  spotify: 'https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robbie_Robertson'
 gender: Male
 genres:
-- native american music
+  - native american music
 image_path: 03_Resources/source_material/ArtistPortraits/robbie_robertson.jpg
 instruments:
-- guitar
-- lead vocals
-- original
-- electric guitar
-- acoustic guitar
-- piano
-- harp guitar
-- classical guitar
-- background vocals
-- spoken vocals
+  - guitar
+  - lead vocals
+  - original
+  - electric guitar
+  - acoustic guitar
+  - piano
+  - harp guitar
+  - classical guitar
+  - background vocals
+  - spoken vocals
 last_updated: '2026-02-07T01:28:36.565061'
 musical_connections:
   collaborators:
-  - The Band (Levon Helm, Rick Danko, Richard Manuel, Garth Hudson)
-  - Bob Dylan
-  - Red Road Ensemble (Ulali, Verdell Primeaux, Johnny Mike)
-  - Martin Scorsese
+    - 'The Band (Levon Helm, Rick Danko, Richard Manuel, Garth Hudson)'
+    - Bob Dylan
+    - 'Red Road Ensemble (Ulali, Verdell Primeaux, Johnny Mike)'
+    - Martin Scorsese
   influenced:
-  - Americana genre artists
+    - Americana genre artists
   mentors:
-  - Ronnie Hawkins
-  - Six Nations Elders and relatives
+    - Ronnie Hawkins
+    - Six Nations Elders and relatives
 musicbrainz_id: a0920ae6-2968-4f92-ac14-67448452bd18
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robbie_Robertson
-- https://www.journaloftheplagueyears.ink/blog/native-son-robbie-robertson
-- https://www.thenation.com/article/culture/americana-indigenous-roots-robbie-robertson/
-- https://pages.stolaf.edu/americanmusic/tag/robbie-robertson/
-- https://thescl.com/in-memoriam/robbie-robertson/
-- https://blackbirdpresents.com/robbie-robertson-one-of-the-most-important-and-influential-artists-of-all-time/
+  - 'https://en.wikipedia.org/wiki/Robbie_Robertson'
+  - 'https://www.journaloftheplagueyears.ink/blog/native-son-robbie-robertson'
+  - >-
+    https://www.thenation.com/article/culture/americana-indigenous-roots-robbie-robertson/
+  - 'https://pages.stolaf.edu/americanmusic/tag/robbie-robertson/'
+  - 'https://thescl.com/in-memoriam/robbie-robertson/'
+  - >-
+    https://blackbirdpresents.com/robbie-robertson-one-of-the-most-important-and-influential-artists-of-all-time/
 spotify_data:
   followers: 72620
   id: 5R6GD31ZP8YPGIlt73Madf
   popularity: 43
-  url: https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf
+  url: 'https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf'
 status: active
 tags:
-- folk rock
-- heartland rock
-- rock
-title: robbie robertson
+  - folk rock
+  - heartland rock
+  - rock
+title: Robbie Robertson
+is_active: false
+origin: 'Woodstock, New York, United States'
 ---
 
 ![](robbie_robertson.jpg)

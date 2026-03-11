@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-01T01:24:05.175223'
-birth_place: Kings Cross area, London, England
+birth_place: 'Kings Cross area, London, England'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:24:05.175228'
 external_urls:
-  spotify: https://open.spotify.com/artist/076C4XViEVd9z9Fb0EbE5Q
-  wikipedia: https://en.wikipedia.org/wiki/Nat_Gonella
+  spotify: 'https://open.spotify.com/artist/076C4XViEVd9z9Fb0EbE5Q'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nat_Gonella'
 genres:
-- swing music
-- ragtime
-- big band
+  - swing music
+  - ragtime
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/nat_gonella.jpg
 last_updated: '2026-02-01T01:24:05.175229'
 musical_connections:
   collaborators:
-  - Al Bowlly
-  - Billy Cotton
-  - Lew Stone
-  - Roy Fox
-  - Ted Easton
-  - Bruts Gonella
-  - John Kirby
+    - Al Bowlly
+    - Billy Cotton
+    - Lew Stone
+    - Roy Fox
+    - Ted Easton
+    - Bruts Gonella
+    - John Kirby
   influenced: []
   mentors:
-  - Louis Armstrong
+    - Louis Armstrong
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.cultureoncall.com/nat-gonella/
-- https://en.wikipedia.org/wiki/Nat_Gonella
-- https://jazzjournal.co.uk/2019/03/21/nat-gonella-the-collection-1930-62/
-- https://jazznorthwest.co.uk/nat.htm
-- http://www.mygosport.org/sons_nat.htm
+  - 'https://www.cultureoncall.com/nat-gonella/'
+  - 'https://en.wikipedia.org/wiki/Nat_Gonella'
+  - 'https://jazzjournal.co.uk/2019/03/21/nat-gonella-the-collection-1930-62/'
+  - 'https://jazznorthwest.co.uk/nat.htm'
+  - 'http://www.mygosport.org/sons_nat.htm'
 spotify_data:
   followers: 1165
   id: 076C4XViEVd9z9Fb0EbE5Q
   popularity: 29
-  url: https://open.spotify.com/artist/076C4XViEVd9z9Fb0EbE5Q
+  url: 'https://open.spotify.com/artist/076C4XViEVd9z9Fb0EbE5Q'
 status: active
 title: Nat Gonella
+birth_date: '1908-03-07'
+death_date: '1998-08-06'
+artist_type: person
 ---
 
 ![](nat_gonella.jpg)

@@ -1,36 +1,38 @@
 ---
 biography_enhanced_at: '2026-03-02T01:10:30.297478'
-birth_place: Blacksburg, Virginia, United States
+birth_place: 'Blacksburg, Virginia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:10:30.297487'
 external_urls:
-  spotify: https://open.spotify.com/artist/5tbRbQ5IzSppvudr15t317
+  spotify: 'https://open.spotify.com/artist/5tbRbQ5IzSppvudr15t317'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/lp_kelly.jpg
 last_updated: '2026-03-02T01:10:30.297489'
 musical_connections:
   collaborators:
-  - The Jugbusters
-  - The Don’t Tell Darlings
-  - The Streetsweepers
+    - The Jugbusters
+    - The Don’t Tell Darlings
+    - The Streetsweepers
   influenced: []
   mentors:
-  - Buddy Charleton
+    - Buddy Charleton
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://lpkelly.com/index.php/bio/
-- https://lpkelly.com
-- https://lpkelly.bandcamp.com/album/off-my-lawn
-- https://www.youtube.com/channel/UCzZzvBzPKFzMX_ToZO_WLOg
+  - 'https://lpkelly.com/index.php/bio/'
+  - 'https://lpkelly.com'
+  - 'https://lpkelly.bandcamp.com/album/off-my-lawn'
+  - 'https://www.youtube.com/channel/UCzZzvBzPKFzMX_ToZO_WLOg'
 spotify_data:
   followers: 30
   id: 5tbRbQ5IzSppvudr15t317
   popularity: 0
-  url: https://open.spotify.com/artist/5tbRbQ5IzSppvudr15t317
+  url: 'https://open.spotify.com/artist/5tbRbQ5IzSppvudr15t317'
 status: active
-title: LP KELLY
+title: LP Kelly
+origin: 'Blacksburg, Virginia, United States'
+artist_type: person
 ---
 
 ![](lp_kelly.jpg)

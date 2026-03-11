@@ -1,83 +1,85 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 736d0927-6eff-4b74-a26c-4b077c3f9cb9
-  name: The Gospelaires
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b3354b29-ef7f-4d96-847f-1be6d43a7d89
-  name: The Drinkard Singers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
-  name: We Are Family Collective
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63fd6e9b-33d2-478a-a2a5-51d347902d44
-  name: Dionne & Friends
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9be3c606-16e6-4907-8388-b55fd49e19f7
-  name: Burt and The Backbeats
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 736d0927-6eff-4b74-a26c-4b077c3f9cb9
+    name: The Gospelaires
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b3354b29-ef7f-4d96-847f-1be6d43a7d89
+    name: The Drinkard Singers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
+    name: We Are Family Collective
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63fd6e9b-33d2-478a-a2a5-51d347902d44
+    name: Dionne & Friends
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9be3c606-16e6-4907-8388-b55fd49e19f7
+    name: Burt and The Backbeats
 biography_enhanced_at: '2026-02-01T01:25:18.559100'
 birth_date: '1940-12-12'
-birth_place: East Orange
+birth_place: 'East Orange, New Jersey, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:25:18.559106'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6784ee31-6d79-4a37-9e1f-01d6ef31940e
-  spotify: https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp
+  musicbrainz: 'https://musicbrainz.org/artist/6784ee31-6d79-4a37-9e1f-01d6ef31940e'
+  spotify: 'https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp'
   wikipedia: Not provided in search results
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/dionne_warwick.jpg
 instruments:
-- original
-- background vocals
-- lead vocals
-- spoken vocals
-- choir vocals
+  - original
+  - background vocals
+  - lead vocals
+  - spoken vocals
+  - choir vocals
 last_updated: '2026-02-01T01:25:18.559107'
 musical_connections:
   collaborators:
-  - Barry Manilow
-  - The Spinners
-  - Isaac Hayes
-  - Phil Ramone
+    - Barry Manilow
+    - The Spinners
+    - Isaac Hayes
+    - Phil Ramone
   influenced: []
   mentors:
-  - Burt Bacharach
-  - Hal David
+    - Burt Bacharach
+    - Hal David
 musicbrainz_id: 6784ee31-6d79-4a37-9e1f-01d6ef31940e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Dionne-Warwick
-- https://www.sopacnow.org/app/uploads/2019/01/Gala-Bio-DWarwick.pdf
-- https://www.thehistorymakers.org/biography/dionne-warwick-39
-- https://wers.org/the-vault-of-soul-dionne-warwick/
-- https://www.nashvillesymphony.org/tickets/concert/2024-2025-season/dionne-warwick/dionne-warwick-bio/
-- https://www.edsullivan.com/artists/dionne-warwick/
-- https://www.ebsco.com/research-starters/women-s-studies-and-feminism/dionne-warwick
-- https://www.songhall.org/profiles/dionne-warwick
+  - 'https://www.britannica.com/biography/Dionne-Warwick'
+  - 'https://www.sopacnow.org/app/uploads/2019/01/Gala-Bio-DWarwick.pdf'
+  - 'https://www.thehistorymakers.org/biography/dionne-warwick-39'
+  - 'https://wers.org/the-vault-of-soul-dionne-warwick/'
+  - >-
+    https://www.nashvillesymphony.org/tickets/concert/2024-2025-season/dionne-warwick/dionne-warwick-bio/
+  - 'https://www.edsullivan.com/artists/dionne-warwick/'
+  - >-
+    https://www.ebsco.com/research-starters/women-s-studies-and-feminism/dionne-warwick
+  - 'https://www.songhall.org/profiles/dionne-warwick'
 spotify_data:
   followers: 1074286
   id: 2JSjCHK79gdaiPWdKiNUNp
   popularity: 62
-  url: https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp
+  url: 'https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp'
 status: active
 tags:
-- adult contemporary
-- easy listening
-- pop
+  - adult contemporary
+  - easy listening
+  - pop
 title: Dionne Warwick
 ---
 

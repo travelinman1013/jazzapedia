@@ -1,48 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-11T01:59:53.545281'
-birth_place: Del City, Oklahoma, USA
+birth_place: 'Del City, Oklahoma, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-11T01:59:53.545291'
 external_urls:
-  spotify: https://open.spotify.com/artist/4XxTlZVIJxhBnoMygqZIqw
+  spotify: 'https://open.spotify.com/artist/4XxTlZVIJxhBnoMygqZIqw'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ben_redwine.jpg
 last_updated: '2026-02-11T01:59:53.545294'
 musical_connections:
   collaborators:
-  - Dukes of Dixieland
-  - Redwine Jazz Band
-  - Louisiana Philharmonic Orchestra
-  - Baton Rouge Symphony Orchestra
-  - Crescent City Chamber Society
-  - Samba Jazz Project
+    - Dukes of Dixieland
+    - Redwine Jazz Band
+    - Louisiana Philharmonic Orchestra
+    - Baton Rouge Symphony Orchestra
+    - Crescent City Chamber Society
+    - Samba Jazz Project
   influenced: []
   mentors:
-  - Loris Wiles
-  - David Etheridge
-  - Steve Girko
-  - Steve Cohen
-  - Ignatius Gennusa
-  - Ben Armato
+    - Loris Wiles
+    - David Etheridge
+    - Steve Girko
+    - Steve Cohen
+    - Ignatius Gennusa
+    - Ben Armato
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.redwinejazz.com/bio.html
-- https://www.retirethere.com/guests/ben-redwine/
-- https://www.redwinejazz.com/ensembles.html
-- https://drbenredwine.bandcamp.com
-- http://www.redwinejazz.com/uploads/1/7/9/2/17922749/bio_-_long.pdf
-- https://www.baltimorejazz.com/2015/01/ben-redwine-band-at-germanos/
-- https://www.groupmuse.com/musicians/6459-benjamin-s-redwine
-- http://test.woodwind.org/clarinet/BBoard/read.html?f=1&t=359414&a=2
+  - 'https://www.redwinejazz.com/bio.html'
+  - 'https://www.retirethere.com/guests/ben-redwine/'
+  - 'https://www.redwinejazz.com/ensembles.html'
+  - 'https://drbenredwine.bandcamp.com'
+  - 'http://www.redwinejazz.com/uploads/1/7/9/2/17922749/bio_-_long.pdf'
+  - 'https://www.baltimorejazz.com/2015/01/ben-redwine-band-at-germanos/'
+  - 'https://www.groupmuse.com/musicians/6459-benjamin-s-redwine'
+  - 'http://test.woodwind.org/clarinet/BBoard/read.html?f=1&t=359414&a=2'
 spotify_data:
   followers: 29
   id: 4XxTlZVIJxhBnoMygqZIqw
   popularity: 0
-  url: https://open.spotify.com/artist/4XxTlZVIJxhBnoMygqZIqw
+  url: 'https://open.spotify.com/artist/4XxTlZVIJxhBnoMygqZIqw'
 status: active
 title: Ben Redwine
+artist_type: person
 ---
 
 ![](ben_redwine.jpg)

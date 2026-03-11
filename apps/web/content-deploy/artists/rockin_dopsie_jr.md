@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-14T01:34:53.552190'
-birth_place: Lafayette, Louisiana, USA
+birth_place: 'Lafayette, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-14T01:34:53.552207'
 external_urls:
-  spotify: https://open.spotify.com/artist/72iADHTfbYiwjTmW4AcuL4
-  wikipedia: https://en.wikipedia.org/wiki/Rockin'_Dopsie
+  spotify: 'https://open.spotify.com/artist/72iADHTfbYiwjTmW4AcuL4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rockin''_Dopsie'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/rockin_dopsie_jr.jpg
 last_updated: '2026-02-14T01:34:53.552209'
 musical_connections:
   collaborators:
-  - Tiger Dopsie (Alton Rubin Jr.)
-  - Anthony Dopsie (Anthony Rubin)
-  - Paul Simon
-  - Harry Connick Jr.
-  - B.B. King
+    - Tiger Dopsie (Alton Rubin Jr.)
+    - Anthony Dopsie (Anthony Rubin)
+    - Paul Simon
+    - Harry Connick Jr.
+    - B.B. King
   influenced:
-  - Dwayne Dopsie
+    - Dwayne Dopsie
   mentors:
-  - Rockin' Dopsie Sr. (Alton Jay Rubin)
+    - Rockin' Dopsie Sr. (Alton Jay Rubin)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://rockindopsiejr.com/biography
-- https://musicrising.tulane.edu/discover/people/rockin-dopsie-jr/
-- https://en.wikipedia.org/wiki/Rockin'_Dopsie
-- https://kreolmagazine.com/the-dopsie-brothers-a-zydeco-dynasty-keeping-creole-culture-alive/
-- https://www.churchofneworleans.com/church-of-new-orleans-blog/2021/2/10/celebrating-the-birthday-of-rockin-dopsie
-- https://www.afropop.org/articles/more-fun-with-rockin-dopsie-jr
-- https://www.neworleans.com/listing/rockin-dopsie-jr/48135/
-- https://www.iheart.com/artist/rockin-dopsie-jr-30030435/
+  - 'https://rockindopsiejr.com/biography'
+  - 'https://musicrising.tulane.edu/discover/people/rockin-dopsie-jr/'
+  - 'https://en.wikipedia.org/wiki/Rockin''_Dopsie'
+  - >-
+    https://kreolmagazine.com/the-dopsie-brothers-a-zydeco-dynasty-keeping-creole-culture-alive/
+  - >-
+    https://www.churchofneworleans.com/church-of-new-orleans-blog/2021/2/10/celebrating-the-birthday-of-rockin-dopsie
+  - 'https://www.afropop.org/articles/more-fun-with-rockin-dopsie-jr'
+  - 'https://www.neworleans.com/listing/rockin-dopsie-jr/48135/'
+  - 'https://www.iheart.com/artist/rockin-dopsie-jr-30030435/'
 spotify_data:
   followers: 1059
   id: 72iADHTfbYiwjTmW4AcuL4
   popularity: 19
-  url: https://open.spotify.com/artist/72iADHTfbYiwjTmW4AcuL4
+  url: 'https://open.spotify.com/artist/72iADHTfbYiwjTmW4AcuL4'
 status: active
-title: Rockin' Dopsie, Jr.
+title: 'Rockin'' Dopsie, Jr.'
+origin: 'Lafayette, Louisiana, United States'
+artist_type: person
 ---
 
 ![](rockin_dopsie_jr.jpg)

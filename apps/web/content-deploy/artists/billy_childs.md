@@ -1,65 +1,66 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 91f1af1c-fec1-49c8-9e62-21304e4aa3af
-  name: Gerry Gibbs Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 91f1af1c-fec1-49c8-9e62-21304e4aa3af
+    name: Gerry Gibbs Sextet
 biography_enhanced_at: '2026-02-05T01:47:59.500716'
 birth_date: '1957-03-08'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 disambiguation: US composer/jazz pianist
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:47:59.500730'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aebcefdb-3faa-426d-9539-114ab4255ab1
-  spotify: https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Childs
+  musicbrainz: 'https://musicbrainz.org/artist/aebcefdb-3faa-426d-9539-114ab4255ab1'
+  spotify: 'https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Childs'
 gender: Male
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/billy_childs.jpg
 instruments:
-- piano
-- Wurlitzer electric piano
-- Rhodes piano
-- electric piano
+  - piano
+  - Wurlitzer electric piano
+  - Rhodes piano
+  - electric piano
 last_updated: '2026-02-05T01:47:59.500733'
 musical_connections:
   collaborators:
-  - Dianne Reeves
-  - Renée Fleming and Yo-Yo Ma
-  - Regina Carter
-  - Sting
-  - Wynton Marsalis
+    - Dianne Reeves
+    - Renée Fleming and Yo-Yo Ma
+    - Regina Carter
+    - Sting
+    - Wynton Marsalis
   influenced: []
   mentors:
-  - Freddie Hubbard
-  - J.J. Johnson
+    - Freddie Hubbard
+    - J.J. Johnson
 musicbrainz_id: aebcefdb-3faa-426d-9539-114ab4255ab1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://billychilds.com/bio
-- https://lamasterchorale.org/artist-details/2/billy-childs
-- https://www.sfcv.org/articles/artist-spotlight/billy-childs-fiendishly-busy-and-loving-it
-- https://en.wikipedia.org/wiki/Billy_Childs
-- https://www.yamaha.com/artists/artistdetailb.html?CNTID=6510959&CTID=5070010
-- https://www.laphil.com/musicdb/artists/1092/billy-childs
-- https://www.hollywoodbowl.com/musicdb/artists/1093/billy-childs-quartet
-- https://my.jazzstl.org/1930/2024
-- https://newmancenterpresents.com/content/billy-childs-quartet
+  - 'https://billychilds.com/bio'
+  - 'https://lamasterchorale.org/artist-details/2/billy-childs'
+  - >-
+    https://www.sfcv.org/articles/artist-spotlight/billy-childs-fiendishly-busy-and-loving-it
+  - 'https://en.wikipedia.org/wiki/Billy_Childs'
+  - 'https://www.yamaha.com/artists/artistdetailb.html?CNTID=6510959&CTID=5070010'
+  - 'https://www.laphil.com/musicdb/artists/1092/billy-childs'
+  - 'https://www.hollywoodbowl.com/musicdb/artists/1093/billy-childs-quartet'
+  - 'https://my.jazzstl.org/1930/2024'
+  - 'https://newmancenterpresents.com/content/billy-childs-quartet'
 spotify_data:
   followers: 7574
   id: 2DalOaFXdbHCB4cyMJhQtR
   popularity: 23
-  url: https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR
+  url: 'https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR'
 status: active
 tags:
-- jazz
-- jazz fusion
-- post-bop
+  - jazz
+  - jazz fusion
+  - post-bop
 title: Billy Childs
 ---
 

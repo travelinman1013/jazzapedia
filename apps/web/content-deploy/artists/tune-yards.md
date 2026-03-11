@@ -2,48 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-03-08T03:06:59.577570'
 birth_date: '1979'
-birth_place: Oakland, California, USA
+birth_place: 'Oakland, California, USA'
 disambiguation: US experimental project
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:06:59.577580'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fac3ff34-6ba4-425a-8f01-b181ef4a908a
-  spotify: https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi
+  musicbrainz: 'https://musicbrainz.org/artist/fac3ff34-6ba4-425a-8f01-b181ef4a908a'
+  spotify: 'https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi'
   wikipedia: ''
 gender: Female
 genres:
-- art pop
+  - art pop
 image_path: 03_Resources/source_material/ArtistPortraits/tune-yards.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2026-03-08T03:06:59.577582'
 musical_connections:
   collaborators:
-  - Nate Brenner
-  - Lisa Schonberg, Heather Treadway, Lindsay Schief
+    - Nate Brenner
+    - 'Lisa Schonberg, Heather Treadway, Lindsay Schief'
   influenced: []
   mentors:
-  - Parents (Father and Mother)
+    - Parents (Father and Mother)
 musicbrainz_id: fac3ff34-6ba4-425a-8f01-b181ef4a908a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://tomtommag.com/2011/03/interview-merrill-garbus-a-k-a-tune-yards/
-- https://daily.redbullmusicacademy.com/2015/08/tune-yards-feature/
-- https://www.thesantaclara.org/blog/tune-yards-music-tunes-into-race-sexuality
-- https://tapeop.com/interviews/88/merrill-garbus
-- https://www.kcrw.com/shows/press-play-with-madeleine-brand/stories/merrill-garbus-better-dreaming
-- https://undertheradarmag.com/interviews/tune-yards_-_merrill_garbus_on_puppetry_her_sheltered_suburban_childhood_an
+  - 'https://tomtommag.com/2011/03/interview-merrill-garbus-a-k-a-tune-yards/'
+  - 'https://daily.redbullmusicacademy.com/2015/08/tune-yards-feature/'
+  - >-
+    https://www.thesantaclara.org/blog/tune-yards-music-tunes-into-race-sexuality
+  - 'https://tapeop.com/interviews/88/merrill-garbus'
+  - >-
+    https://www.kcrw.com/shows/press-play-with-madeleine-brand/stories/merrill-garbus-better-dreaming
+  - >-
+    https://undertheradarmag.com/interviews/tune-yards_-_merrill_garbus_on_puppetry_her_sheltered_suburban_childhood_an
 spotify_data:
   followers: 232488
   id: 0asVlqTLu3TimnYVyY5Jxi
   popularity: 39
-  url: https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi
+  url: 'https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi'
 status: active
 tags:
-- art pop
-- lo-fi
+  - art pop
+  - lo-fi
 title: Tune-Yards
+origin: 'Oakland, California, USA'
 ---
 
 ![](tune-yards.jpg)

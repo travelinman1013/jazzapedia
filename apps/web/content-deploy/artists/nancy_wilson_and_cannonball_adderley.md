@@ -3,40 +3,45 @@ biography_enhanced_at: '2026-02-23T03:05:53.349105'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:05:53.349113'
 external_urls:
-  spotify: https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb
-  wikipedia: https://en.wikipedia.org/wiki/Nancy_Wilson/Cannonball_Adderley
+  spotify: 'https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nancy_Wilson/Cannonball_Adderley'
 genres:
-- vocal jazz
-- jazz
-- jazz ballads
-image_path: 03_Resources/source_material/ArtistPortraits/nancy_wilson_and_cannonball_adderley.jpg
+  - vocal jazz
+  - jazz
+  - jazz ballads
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/nancy_wilson_and_cannonball_adderley.jpg
 last_updated: '2026-02-23T03:05:53.349115'
 musical_connections:
   collaborators:
-  - Cannonball Adderley
-  - Nat Adderley
-  - Joe Zawinul
-  - George Shearing
+    - Cannonball Adderley
+    - Nat Adderley
+    - Joe Zawinul
+    - George Shearing
   influenced: []
   mentors:
-  - Cannonball Adderley
-  - John Levy
+    - Cannonball Adderley
+    - John Levy
 network_extracted: true
-origin: Chillicothe, Ohio, USA
+origin: 'Chillicothe, Ohio, USA'
 primary_source: perplexity
 research_sources:
-- https://www.thequietone.net/post/when-elegance-met-jazz-nancy-wilson-cannonball-adderley
-- https://ontherecord.co/2021/05/15/nancy-wilson-nancy-wilson-cannonball-adderley/
-- https://en.wikipedia.org/wiki/Nancy_Wilson/Cannonball_Adderley
-- https://wers.org/the-vault-of-soul-nancy-wilson/
-- https://www.seacoastjazz.org/nancy-wilson.html
+  - >-
+    https://www.thequietone.net/post/when-elegance-met-jazz-nancy-wilson-cannonball-adderley
+  - >-
+    https://ontherecord.co/2021/05/15/nancy-wilson-nancy-wilson-cannonball-adderley/
+  - 'https://en.wikipedia.org/wiki/Nancy_Wilson/Cannonball_Adderley'
+  - 'https://wers.org/the-vault-of-soul-nancy-wilson/'
+  - 'https://www.seacoastjazz.org/nancy-wilson.html'
 spotify_data:
   followers: 243609
   id: 2JfVCMa3FlvQRlLT5uH9zb
   popularity: 49
-  url: https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb
+  url: 'https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb'
 status: active
-title: NANCY WILSON AND CANNONBALL ADDERLEY
+title: Nancy Wilson and Cannonball Adderley
+birth_place: 'Chillicothe, Ohio, United States'
+artist_type: band
 ---
 
 ![](nancy_wilson_and_cannonball_adderley.jpg)

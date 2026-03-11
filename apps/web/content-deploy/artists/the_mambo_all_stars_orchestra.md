@@ -3,38 +3,40 @@ biography_enhanced_at: '2026-02-01T01:24:51.608383'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:24:51.608388'
 external_urls:
-  spotify: https://open.spotify.com/artist/5IYdPdMb5JdNnzaUCdOO7M
+  spotify: 'https://open.spotify.com/artist/5IYdPdMb5JdNnzaUCdOO7M'
   wikipedia: ''
 genres:
-- cha cha cha
-- mambo
-- latin jazz
+  - cha cha cha
+  - mambo
+  - latin jazz
 image_path: 03_Resources/source_material/ArtistPortraits/the_mambo_all_stars_orchestra.jpg
 last_updated: '2026-02-01T01:24:51.608389'
 musical_connections:
   collaborators:
-  - John 'Dandy' Rodriguez
-  - Jose Madera
-  - Mitch Frohman
-  - Tito Rodriguez
-  - Ray Barretto
+    - John 'Dandy' Rodriguez
+    - Jose Madera
+    - Mitch Frohman
+    - Tito Rodriguez
+    - Ray Barretto
   influenced: []
   mentors:
-  - Tito Puente
-  - Jose 'Pin' Madera
+    - Tito Puente
+    - Jose 'Pin' Madera
 network_extracted: true
-origin: New York City, New York, USA
+origin: 'New York City, New York, USA'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Mambo+Legends+Orchestra/+wiki
-- https://www.kveller.com/the-jewish-musician-who-toured-the-world-with-tito-puente/
+  - 'https://www.last.fm/music/Mambo+Legends+Orchestra/+wiki'
+  - >-
+    https://www.kveller.com/the-jewish-musician-who-toured-the-world-with-tito-puente/
 spotify_data:
   followers: 405
   id: 5IYdPdMb5JdNnzaUCdOO7M
   popularity: 13
-  url: https://open.spotify.com/artist/5IYdPdMb5JdNnzaUCdOO7M
+  url: 'https://open.spotify.com/artist/5IYdPdMb5JdNnzaUCdOO7M'
 status: active
 title: The Mambo All Stars Orchestra
+artist_type: band
 ---
 
 ![](the_mambo_all_stars_orchestra.jpg)

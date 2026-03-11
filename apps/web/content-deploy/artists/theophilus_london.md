@@ -1,58 +1,60 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 155d194f-5f33-41e9-b5d2-1de6dac9396a
-  name: Chauffeur
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 155d194f-5f33-41e9-b5d2-1de6dac9396a
+    name: Chauffeur
 biography_enhanced_at: '2026-01-28T01:48:44.094746'
 birth_date: '1987-02-23'
-birth_place: Trinidad
+birth_place: 'Port of Spain, Trinidad and Tobago, Trinidad and Tobago'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:48:44.094756'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/806df23f-ad74-45c1-9c07-f3d1a20748d6
-  spotify: https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE
+  musicbrainz: 'https://musicbrainz.org/artist/806df23f-ad74-45c1-9c07-f3d1a20748d6'
+  spotify: 'https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE'
   wikipedia: ''
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/theophilus_london.jpg
 instruments:
-- other vocals
+  - other vocals
 last_updated: '2026-01-28T01:48:44.094758'
 musical_connections:
   collaborators:
-  - Kanye West
-  - Solange Knowles
-  - Devonté Hynes
-  - Tame Impala
-  - Azealia Banks
-  - Dave Sitek
-  - Sara Quin
+    - Kanye West
+    - Solange Knowles
+    - Devonté Hynes
+    - Tame Impala
+    - Azealia Banks
+    - Dave Sitek
+    - Sara Quin
   influenced: []
   mentors:
-  - Mark Ronson
+    - Mark Ronson
 musicbrainz_id: 806df23f-ad74-45c1-9c07-f3d1a20748d6
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://artist.degy.com/major-acts/theophilus-london
-- https://kids.kiddle.co/Theophilus_London
-- https://www.esquire.com/entertainment/interviews/a8177/theophilus-london-bio-081310/
-- http://www.nts.live/artists/3559-theophilus-london
-- https://vgost.fandom.com/wiki/Theophilus_London
+  - 'https://artist.degy.com/major-acts/theophilus-london'
+  - 'https://kids.kiddle.co/Theophilus_London'
+  - >-
+    https://www.esquire.com/entertainment/interviews/a8177/theophilus-london-bio-081310/
+  - 'http://www.nts.live/artists/3559-theophilus-london'
+  - 'https://vgost.fandom.com/wiki/Theophilus_London'
 spotify_data:
   followers: 167216
   id: 4EMtGVFvfCSrEmWaGV0roE
   popularity: 55
-  url: https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE
+  url: 'https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE'
 status: active
 tags:
-- alternative hip hop
-- electropop
-- r&b alternative
+  - alternative hip hop
+  - electropop
+  - r&b alternative
 title: Theophilus London
+origin: 'Brooklyn, New York City, United States'
 ---
 
 ![](theophilus_london.jpg)

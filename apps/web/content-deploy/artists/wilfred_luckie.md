@@ -1,36 +1,36 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-03-08T03:09:23.058608'
-birth_place: Trinidad & Tobago
+birth_place: 'Trinidad & Tobago, Trinidad and Tobago, Unknown'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:09:23.058624'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/63863897-dbee-440e-9c2d-a21dbb4e94b9
-  spotify: https://open.spotify.com/artist/1DOptLNwDd7yKYCUlnS1tJ
+  musicbrainz: 'https://musicbrainz.org/artist/63863897-dbee-440e-9c2d-a21dbb4e94b9'
+  spotify: 'https://open.spotify.com/artist/1DOptLNwDd7yKYCUlnS1tJ'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/wilfred_luckie.jpg
 last_updated: '2026-03-08T03:09:23.058628'
 musical_connections:
   collaborators:
-  - Numero Group
-  - Semp Music / Hamilton Brothers / Frank Penn
+    - Numero Group
+    - Semp Music / Hamilton Brothers / Frank Penn
   influenced: []
   mentors: []
 musicbrainz_id: 63863897-dbee-440e-9c2d-a21dbb4e94b9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.foxfiremountainhouse.com/sound-1
-- https://www.last.fm/music/Wilfred+Luckie
-- https://www.allmusic.com/artist/wilfred-luckie-mn0004631988
-- https://numerogroup.com/products/my-thing-b-w-wait-for-me
-- https://www.youtube.com/watch?v=uu8CbjBtSQg
+  - 'https://www.foxfiremountainhouse.com/sound-1'
+  - 'https://www.last.fm/music/Wilfred+Luckie'
+  - 'https://www.allmusic.com/artist/wilfred-luckie-mn0004631988'
+  - 'https://numerogroup.com/products/my-thing-b-w-wait-for-me'
+  - 'https://www.youtube.com/watch?v=uu8CbjBtSQg'
 spotify_data:
   followers: 2056
   id: 1DOptLNwDd7yKYCUlnS1tJ
   popularity: 21
-  url: https://open.spotify.com/artist/1DOptLNwDd7yKYCUlnS1tJ
+  url: 'https://open.spotify.com/artist/1DOptLNwDd7yKYCUlnS1tJ'
 status: active
 title: Wilfred Luckie
 ---

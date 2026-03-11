@@ -1,42 +1,43 @@
 ---
-artist_type: choir
+artist_type: band
 biography_enhanced_at: '2026-02-01T01:30:53.431698'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:30:53.431703'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a4160ff3-2793-40f7-aff1-850c86599bfb
-  spotify: https://open.spotify.com/artist/3f0Ng7RnsiXJOyrgIIa06F
+  musicbrainz: 'https://musicbrainz.org/artist/a4160ff3-2793-40f7-aff1-850c86599bfb'
+  spotify: 'https://open.spotify.com/artist/3f0Ng7RnsiXJOyrgIIa06F'
   wikipedia: ''
 genres:
-- traditional gospel
+  - traditional gospel
 image_path: 03_Resources/source_material/ArtistPortraits/southeast_inspirational_choir.jpg
 last_updated: '2026-02-01T01:30:53.431703'
 musical_connections:
   collaborators:
-  - Donald Lawrence
-  - Yolanda Adams
-  - Thomas Whitfield
+    - Donald Lawrence
+    - Yolanda Adams
+    - Thomas Whitfield
   influenced:
-  - Yolanda Adams
+    - Yolanda Adams
   mentors:
-  - Brenda Waters
-  - Shirley Joiner
-  - Carl Preacher
+    - Brenda Waters
+    - Shirley Joiner
+    - Carl Preacher
 musicbrainz_id: a4160ff3-2793-40f7-aff1-850c86599bfb
 network_extracted: true
-origin: Houston
+origin: 'Houston, Texas, United States'
 primary_source: perplexity
 research_sources:
-- https://www.southeastinspirationalchoir.com/history
-- https://www.southeastinspirationalchoir.com
-- https://www.youtube.com/watch?v=Ka9TpJ5EEfQ
-- https://en.wikipedia.org/wiki/Yolanda_Adams
-- https://www.crossrhythms.co.uk/articles/music/Yolanda_Adams_The_critically_acclaimed_Houston_Texasbased_gospel_singer/40439/p1/
+  - 'https://www.southeastinspirationalchoir.com/history'
+  - 'https://www.southeastinspirationalchoir.com'
+  - 'https://www.youtube.com/watch?v=Ka9TpJ5EEfQ'
+  - 'https://en.wikipedia.org/wiki/Yolanda_Adams'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Yolanda_Adams_The_critically_acclaimed_Houston_Texasbased_gospel_singer/40439/p1/
 spotify_data:
   followers: 378
   id: 3f0Ng7RnsiXJOyrgIIa06F
   popularity: 9
-  url: https://open.spotify.com/artist/3f0Ng7RnsiXJOyrgIIa06F
+  url: 'https://open.spotify.com/artist/3f0Ng7RnsiXJOyrgIIa06F'
 status: active
 title: Southeast Inspirational Choir
 ---

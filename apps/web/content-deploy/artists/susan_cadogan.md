@@ -2,54 +2,56 @@
 artist_type: person
 biography_enhanced_at: '2026-03-08T03:08:59.088957'
 birth_date: '1951-11-02'
-birth_place: Kingston
+birth_place: 'St. Andrew, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:08:59.088971'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3d9a0ce6-ad97-44c9-beb1-f6f47f1c8f3e
-  spotify: https://open.spotify.com/artist/02CDSrcHflWRx5Wj7RMoB3
-  wikipedia: https://en.wikipedia.org/wiki/Susan_Cadogan
+  musicbrainz: 'https://musicbrainz.org/artist/3d9a0ce6-ad97-44c9-beb1-f6f47f1c8f3e'
+  spotify: 'https://open.spotify.com/artist/02CDSrcHflWRx5Wj7RMoB3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Susan_Cadogan'
 gender: Female
 genres:
-- lovers rock
-- rocksteady
-- reggae
-- ska
-- dub
-- roots reggae
+  - lovers rock
+  - rocksteady
+  - reggae
+  - ska
+  - dub
+  - roots reggae
 image_path: 03_Resources/source_material/ArtistPortraits/susan_cadogan.jpg
 last_updated: '2026-03-08T03:08:59.088975'
 musical_connections:
   collaborators:
-  - Ruddy Thomas
-  - Mad Professor
-  - Mitch Girio
-  - Ken Boothe
-  - Boris Gardiner and Zap Pow
+    - Ruddy Thomas
+    - Mad Professor
+    - Mitch Girio
+    - Ken Boothe
+    - Boris Gardiner and Zap Pow
   influenced: []
   mentors:
-  - Lee 'Scratch' Perry
-  - Jerry Lewis
+    - Lee 'Scratch' Perry
+    - Jerry Lewis
 musicbrainz_id: 3d9a0ce6-ad97-44c9-beb1-f6f47f1c8f3e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Susan_Cadogan
-- https://www.blackhistorymonth.org.uk/article/listings/region/brixton/susan-cadogan-3/
-- https://www.youtube.com/watch?v=U2Fe__U79ds
-- https://unitedreggae.com/articles/n247/121208/susan-cadogan-two-sides-of-susan-cadogan
-- https://www.allmusic.com/artist/susan-cadogan-mn0000040114
-- https://www.pizzaexpresslive.com/whats-on/susan-cadogan
+  - 'https://en.wikipedia.org/wiki/Susan_Cadogan'
+  - >-
+    https://www.blackhistorymonth.org.uk/article/listings/region/brixton/susan-cadogan-3/
+  - 'https://www.youtube.com/watch?v=U2Fe__U79ds'
+  - >-
+    https://unitedreggae.com/articles/n247/121208/susan-cadogan-two-sides-of-susan-cadogan
+  - 'https://www.allmusic.com/artist/susan-cadogan-mn0000040114'
+  - 'https://www.pizzaexpresslive.com/whats-on/susan-cadogan'
 spotify_data:
   followers: 20560
   id: 02CDSrcHflWRx5Wj7RMoB3
   popularity: 31
-  url: https://open.spotify.com/artist/02CDSrcHflWRx5Wj7RMoB3
+  url: 'https://open.spotify.com/artist/02CDSrcHflWRx5Wj7RMoB3'
 status: active
 tags:
-- lovers rock
-- reggae
-- rock and indie
+  - lovers rock
+  - reggae
+  - rock and indie
 title: Susan Cadogan
 ---
 

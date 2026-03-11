@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-27T01:57:07.413972'
-birth_place: Alor Setar, Kedah, Malaysia
+birth_place: 'Alor Setar, Kedah, Malaysia'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:57:07.413977'
 external_urls:
-  spotify: https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1
-  wikipedia: https://en.wikipedia.org/wiki/Yuna_(Malaysian_singer)
+  spotify: 'https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yuna_(Malaysian_singer)'
 genres:
-- malay
-- malaysian pop
+  - malay
+  - malaysian pop
 image_path: 03_Resources/source_material/ArtistPortraits/yuna.jpg
 last_updated: '2026-01-27T01:57:07.413977'
 musical_connections:
   collaborators:
-  - Usher
-  - Pa’an
-  - Efry Arwis
-  - Adib Azfar
+    - Usher
+    - Pa’an
+    - Efry Arwis
+    - Adib Azfar
   influenced: []
   mentors:
-  - Pharrell Williams
-  - DJ Premier
+    - Pharrell Williams
+    - DJ Premier
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Yuna_(Malaysian_singer)
-- https://www.theotherfestival.co/yuna-bio
-- https://asianamericanmusics17.wordpress.com/2017/05/29/yuna-guided-by-the-invisible-hand-of-neoliberal-multiculturalism/
-- https://www.scribd.com/document/88566940/Yuna
-- https://artist.degy.com/major-acts/yuna
-- https://vogue.sg/yuna-next-chapter/
-- https://mypop.fandom.com/wiki/Yuna
+  - 'https://en.wikipedia.org/wiki/Yuna_(Malaysian_singer)'
+  - 'https://www.theotherfestival.co/yuna-bio'
+  - >-
+    https://asianamericanmusics17.wordpress.com/2017/05/29/yuna-guided-by-the-invisible-hand-of-neoliberal-multiculturalism/
+  - 'https://www.scribd.com/document/88566940/Yuna'
+  - 'https://artist.degy.com/major-acts/yuna'
+  - 'https://vogue.sg/yuna-next-chapter/'
+  - 'https://mypop.fandom.com/wiki/Yuna'
 spotify_data:
   followers: 461700
   id: 3kHVioJpVxlazAAKQ64pC1
   popularity: 64
-  url: https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1
+  url: 'https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1'
 status: active
-title: YUNA
+title: Yuna
+birth_date: '1986-11-14'
+artist_type: person
 ---
 
 ![](yuna.jpg)

@@ -1,62 +1,63 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-28T01:50:26.658700'
 birth_date: '2008'
 disambiguation: English dubstep duo
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:50:26.658710'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4a3a5fc0-af4b-4990-957b-8d94f7bfe706
-  spotify: https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl
-  wikipedia: https://en.wikipedia.org/wiki/Mount_Kimbie
+  musicbrainz: 'https://musicbrainz.org/artist/4a3a5fc0-af4b-4990-957b-8d94f7bfe706'
+  spotify: 'https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mount_Kimbie'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mount_kimbie.jpg
 last_updated: '2026-01-28T01:50:26.658712'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f4863945-8194-4340-a402-3d3b1e730b8c
-  name: Kai Campos
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bd7fae12-4abe-4e67-b541-3eb1c9ced1db
-  name: Dominic Maker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f4863945-8194-4340-a402-3d3b1e730b8c
+    name: Kai Campos
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bd7fae12-4abe-4e67-b541-3eb1c9ced1db
+    name: Dominic Maker
 musical_connections:
   collaborators:
-  - James Blake
-  - King Krule
-  - Micachu (Mica Levi)
-  - Andrea Balency-Béarn
-  - Marc Pell
+    - James Blake
+    - King Krule
+    - Micachu (Mica Levi)
+    - Andrea Balency-Béarn
+    - Marc Pell
   influenced:
-  - Post-punk bands in London
+    - Post-punk bands in London
   mentors:
-  - Music teacher (unnamed)
-  - Gilles Peterson, John Peel, Benji B
+    - Music teacher (unnamed)
+    - 'Gilles Peterson, John Peel, Benji B'
 musicbrainz_id: 4a3a5fc0-af4b-4990-957b-8d94f7bfe706
 network_extracted: true
-origin: London
+origin: 'London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mount_Kimbie
-- https://www.giantartistmanagement.com/mountkimbie
-- https://toneglow.substack.com/p/tone-glow-134-mount-kimbie
-- https://www.vice.com/en/article/mount-kimbie-2017-interview-love-what-survives/
-- https://www.boogiedrugstore.net/en/artistes/mount-kimbie-2/
-- https://dmy.co/features/mount-kimbie-interview-life-lessons
-- https://www.last.fm/music/Mount+Kimbie/+wiki
+  - 'https://en.wikipedia.org/wiki/Mount_Kimbie'
+  - 'https://www.giantartistmanagement.com/mountkimbie'
+  - 'https://toneglow.substack.com/p/tone-glow-134-mount-kimbie'
+  - >-
+    https://www.vice.com/en/article/mount-kimbie-2017-interview-love-what-survives/
+  - 'https://www.boogiedrugstore.net/en/artistes/mount-kimbie-2/'
+  - 'https://dmy.co/features/mount-kimbie-interview-life-lessons'
+  - 'https://www.last.fm/music/Mount+Kimbie/+wiki'
 spotify_data:
   followers: 356988
   id: 3NUtpWpGDoffm3RCGhSHtl
   popularity: 51
-  url: https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl
+  url: 'https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl'
 status: active
 tags:
-- dubstep
-- electronic
-- minimal techno
+  - dubstep
+  - electronic
+  - minimal techno
 title: Mount Kimbie
 ---
 

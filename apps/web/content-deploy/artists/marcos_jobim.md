@@ -1,34 +1,36 @@
 ---
 biography_enhanced_at: '2026-02-08T02:02:49.087506'
-birth_place: Porto Alegre, Rio Grande do Sul, Brazil
+birth_place: 'Porto Alegre, Rio Grande do Sul, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:02:49.087517'
 external_urls:
-  spotify: https://open.spotify.com/artist/54SvpH9pFR2J9eWachAwM7
+  spotify: 'https://open.spotify.com/artist/54SvpH9pFR2J9eWachAwM7'
   wikipedia: Not found in search results
 genres:
-- acoustic pop
+  - acoustic pop
 image_path: 03_Resources/source_material/ArtistPortraits/marcos_jobim.jpg
 last_updated: '2026-02-08T02:02:49.087519'
 musical_connections:
   collaborators:
-  - Cruz & Jobim
+    - Cruz & Jobim
   influenced: []
   mentors:
-  - Brazilian Musical Tradition
+    - Brazilian Musical Tradition
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://elasticstage.com/marcosjobim
-- https://brasilcalling.wordpress.com/2025/09/18/marcos-jobim-singelinha/
-- https://latinjazznet.com/reviews/albums/brasilian-report/marcos-amorim-trio-portraits/
+  - 'https://elasticstage.com/marcosjobim'
+  - 'https://brasilcalling.wordpress.com/2025/09/18/marcos-jobim-singelinha/'
+  - >-
+    https://latinjazznet.com/reviews/albums/brasilian-report/marcos-amorim-trio-portraits/
 spotify_data:
   followers: 544
   id: 54SvpH9pFR2J9eWachAwM7
   popularity: 6
-  url: https://open.spotify.com/artist/54SvpH9pFR2J9eWachAwM7
+  url: 'https://open.spotify.com/artist/54SvpH9pFR2J9eWachAwM7'
 status: active
 title: Marcos Jobim
+artist_type: person
 ---
 
 ![](marcos_jobim.jpg)

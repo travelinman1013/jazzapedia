@@ -1,41 +1,47 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-31T01:07:30.269809'
 birth_date: '2010'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:07:30.269820'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f63323a4-9009-46de-94bf-8d5d905f9d1a
-  spotify: https://open.spotify.com/artist/6KIwpVNZB4PhkKWJ4C4H7F
+  musicbrainz: 'https://musicbrainz.org/artist/f63323a4-9009-46de-94bf-8d5d905f9d1a'
+  spotify: 'https://open.spotify.com/artist/6KIwpVNZB4PhkKWJ4C4H7F'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/daria_and_the_hip_drops.jpg
 last_updated: '2026-01-31T01:07:30.269822'
 musical_connections:
   collaborators:
-  - Graham Robinson
+    - Graham Robinson
   influenced: []
   mentors: []
 musicbrainz_id: f63323a4-9009-46de-94bf-8d5d905f9d1a
 network_extracted: true
-origin: New Orleans, Louisiana, USA (Tallahassee, Florida, USA birthplace of frontwoman)
+origin: >-
+  New Orleans, Louisiana, USA (Tallahassee, Florida, USA birthplace of
+  frontwoman)
 primary_source: perplexity
 research_sources:
-- https://www.dariaandthehipdrops.com/about/
-- https://www.zonymashbeer.com/calendar/daria-amp-the-hip-drops-and-magnolia-brass-band
-- https://www.neworleans.com/listing/daria-&-the-hip-drops/47365/
-- https://www.dariaandthehipdrops.com
-- https://kreolmagazine.com/daria-the-musical-multi-tasker-hip-drops-draw-on-a-diverse-mix-of-influences/
-- https://www.positivevibrations.org/single-post/daria-dzurik-graham-robinson
-- https://www.offbeat.com/articles/daria-dzurik-and-the-hip-drops-bring-caribbean-flavored-indie-pop-to-new-orleans/
-- https://www.thesexismproject.com/daria-dzurik
+  - 'https://www.dariaandthehipdrops.com/about/'
+  - >-
+    https://www.zonymashbeer.com/calendar/daria-amp-the-hip-drops-and-magnolia-brass-band
+  - 'https://www.neworleans.com/listing/daria-&-the-hip-drops/47365/'
+  - 'https://www.dariaandthehipdrops.com'
+  - >-
+    https://kreolmagazine.com/daria-the-musical-multi-tasker-hip-drops-draw-on-a-diverse-mix-of-influences/
+  - 'https://www.positivevibrations.org/single-post/daria-dzurik-graham-robinson'
+  - >-
+    https://www.offbeat.com/articles/daria-dzurik-and-the-hip-drops-bring-caribbean-flavored-indie-pop-to-new-orleans/
+  - 'https://www.thesexismproject.com/daria-dzurik'
 spotify_data:
   followers: 186
   id: 6KIwpVNZB4PhkKWJ4C4H7F
   popularity: 0
-  url: https://open.spotify.com/artist/6KIwpVNZB4PhkKWJ4C4H7F
+  url: 'https://open.spotify.com/artist/6KIwpVNZB4PhkKWJ4C4H7F'
 status: active
 title: Daria & the Hip Drops
+birth_place: 'Tallahassee, Florida, United States'
 ---
 
 ![](daria_and_the_hip_drops.jpg)

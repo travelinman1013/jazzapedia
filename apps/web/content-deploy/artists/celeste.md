@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-11T01:59:00.856310'
-birth_place: Los Angeles, California, USA
+birth_place: 'Los Angeles, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-11T01:59:00.856317'
 external_urls:
-  spotify: https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc
+  spotify: 'https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/celeste.jpg
 last_updated: '2026-02-11T01:59:00.856319'
 musical_connections:
   collaborators:
-  - Avicii
-  - Tieks
-  - Lily Allen
-  - Janelle Monáe
-  - Michael Kiwanuka
+    - Avicii
+    - Tieks
+    - Lily Allen
+    - Janelle Monáe
+    - Michael Kiwanuka
   influenced: []
   mentors:
-  - Aretha Franklin
-  - Thelonious Monk
-  - Billie Holiday
-  - Amy Winehouse
+    - Aretha Franklin
+    - Thelonious Monk
+    - Billie Holiday
+    - Amy Winehouse
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Celeste/+wiki
-- https://kids.kiddle.co/Celeste_(singer)
-- https://www.apartamentomagazine.com/stories/celeste-interview-issue34/
-- https://www.port-magazine.com/issue-36/celeste/
-- https://wbssmedia.com/artists/detail/4043
-- https://www.flaunt.com/blog/celeste
-- https://hellorayo.co.uk/the-wave/entertainment/music/celeste
-- https://thomas-and-friends-tales-from-the-track.fandom.com/wiki/Celeste_(singer)
+  - 'https://www.last.fm/music/Celeste/+wiki'
+  - 'https://kids.kiddle.co/Celeste_(singer)'
+  - 'https://www.apartamentomagazine.com/stories/celeste-interview-issue34/'
+  - 'https://www.port-magazine.com/issue-36/celeste/'
+  - 'https://wbssmedia.com/artists/detail/4043'
+  - 'https://www.flaunt.com/blog/celeste'
+  - 'https://hellorayo.co.uk/the-wave/entertainment/music/celeste'
+  - >-
+    https://thomas-and-friends-tales-from-the-track.fandom.com/wiki/Celeste_(singer)
 spotify_data:
   followers: 749237
   id: 49HlOY4gkHqsYG9GCuhkcc
   popularity: 65
-  url: https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc
+  url: 'https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc'
 status: active
 title: Celeste
+birth_date: '1994-05-05'
+artist_type: person
 ---
 
 ![](celeste.jpg)

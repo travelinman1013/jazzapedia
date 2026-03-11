@@ -1,45 +1,45 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-26T01:43:38.909594'
-birth_place: Iran
+birth_place: 'Iran, Iran, Asia'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:43:38.909603'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/61489e73-b397-48d2-ba35-5e8a0c619df0
-  spotify: https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK
-  wikipedia: https://en.wikipedia.org/wiki/Armik
+  musicbrainz: 'https://musicbrainz.org/artist/61489e73-b397-48d2-ba35-5e8a0c619df0'
+  spotify: 'https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Armik'
 gender: Male
 genres:
-- flamenco
+  - flamenco
 image_path: 03_Resources/source_material/ArtistPortraits/armik.jpg
 last_updated: '2026-01-26T01:43:38.909605'
 musical_connections:
   collaborators:
-  - Googoosh
-  - Dariush
-  - Pedro Maldonado
+    - Googoosh
+    - Dariush
+    - Pedro Maldonado
   influenced: []
   mentors:
-  - Paco de Lucía
+    - Paco de Lucía
 musicbrainz_id: 61489e73-b397-48d2-ba35-5e8a0c619df0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Armik
-- https://armik.com/about
-- https://jorgealiagacacho.blogspot.com/2014/08/armik.html
-- https://www.famousbirthdays.com/people/armik.html
-- https://musicianguide.com/biographies/1608003546/Armik.html
-- https://www.viberate.com/artist/armik/
-- https://www.iheart.com/artist/armik-611/
+  - 'https://en.wikipedia.org/wiki/Armik'
+  - 'https://armik.com/about'
+  - 'https://jorgealiagacacho.blogspot.com/2014/08/armik.html'
+  - 'https://www.famousbirthdays.com/people/armik.html'
+  - 'https://musicianguide.com/biographies/1608003546/Armik.html'
+  - 'https://www.viberate.com/artist/armik/'
+  - 'https://www.iheart.com/artist/armik-611/'
 spotify_data:
   followers: 47828
   id: 2Z8XcWdgy5dSaiQR3d7tHK
   popularity: 43
-  url: https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK
+  url: 'https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK'
 status: active
 tags:
-- flamenco
+  - flamenco
 title: Armik
 ---
 

@@ -3,44 +3,47 @@ biography_enhanced_at: '2026-02-06T01:11:39.621719'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:11:39.621727'
 external_urls:
-  spotify: https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs
-  wikipedia: https://en.wikipedia.org/wiki/The_Sadies
+  spotify: 'https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Sadies'
 genres:
-- alt country
-- americana
+  - alt country
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/the_sadies.jpg
 last_updated: '2026-02-06T01:11:39.621729'
 musical_connections:
   collaborators:
-  - Neko Case
-  - Andre Williams
-  - Jon Langford
-  - Neil Young
-  - Mike Belitsky
-  - Sean Dean
+    - Neko Case
+    - Andre Williams
+    - Jon Langford
+    - Neil Young
+    - Mike Belitsky
+    - Sean Dean
   influenced: []
   mentors:
-  - The Good Brothers (Bruce, Larry, Brian Good)
-  - Ennio Morricone
+    - 'The Good Brothers (Bruce, Larry, Brian Good)'
+    - Ennio Morricone
 network_extracted: true
-origin: Toronto, Ontario, Canada
+origin: 'Toronto, Ontario, Canada'
 primary_source: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/sadies
-- https://dinealonerecords.com/artists/the-sadies/
-- https://www.socanmagazine.ca/features/the-sadies-both-transcend-and-celebrate-their-heritage/
-- https://daily.bandcamp.com/lists/dallas-good-sadies-discography
-- https://www.star-revue.com/song-of-the-sadies-an-interview-with-the-band/
-- https://www.thesadies.net/about
-- https://en.wikipedia.org/wiki/The_Sadies
-- https://kileylarsen.substack.com/p/alt-country-is-king-this-week-featuring
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/sadies
+  - 'https://dinealonerecords.com/artists/the-sadies/'
+  - >-
+    https://www.socanmagazine.ca/features/the-sadies-both-transcend-and-celebrate-their-heritage/
+  - 'https://daily.bandcamp.com/lists/dallas-good-sadies-discography'
+  - 'https://www.star-revue.com/song-of-the-sadies-an-interview-with-the-band/'
+  - 'https://www.thesadies.net/about'
+  - 'https://en.wikipedia.org/wiki/The_Sadies'
+  - 'https://kileylarsen.substack.com/p/alt-country-is-king-this-week-featuring'
 spotify_data:
   followers: 29315
   id: 3x0LgZSPgNh91O6NBMtqTs
   popularity: 33
-  url: https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs
+  url: 'https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs'
 status: active
 title: The Sadies
+artist_type: band
 ---
 
 ![](the_sadies.jpg)

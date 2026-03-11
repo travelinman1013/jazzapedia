@@ -1,46 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-06T01:07:05.716139'
-birth_place: Oak Park, IL, USA (Clearfield birthplace); Chicago, IL, USA (Kirchner
+birth_place: >-
+  Oak Park, IL, USA (Clearfield birthplace); Chicago, IL, USA (Kirchner
   birthplace)
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:07:05.716147'
 external_urls:
-  spotify: https://open.spotify.com/artist/4t1FVNgd6EpnkWxgASQAgh
-  wikipedia: https://de.wikipedia.org/wiki/Rob_Clearfield
+  spotify: 'https://open.spotify.com/artist/4t1FVNgd6EpnkWxgASQAgh'
+  wikipedia: 'https://de.wikipedia.org/wiki/Rob_Clearfield'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/rob_clearfield_quin_kirchner.jpg
 last_updated: '2026-02-06T01:07:05.716147'
 musical_connections:
   collaborators:
-  - Quin Kirchner
-  - Matt Ulery
-  - Patricia Barber
-  - Howard Levy
-  - Greg Ward
+    - Quin Kirchner
+    - Matt Ulery
+    - Patricia Barber
+    - Howard Levy
+    - Greg Ward
   influenced: []
   mentors:
-  - Ralph Towner
-  - Don Skoog
-  - Ellis Marsalis
-  - John Riley
+    - Ralph Towner
+    - Don Skoog
+    - Ellis Marsalis
+    - John Riley
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.originsjazz.org/shows/rob-clearfield-quartet
-- https://www.allaboutjazz.com/musicians/rob-clearfield/
-- https://www.quinkirchner.com/about
-- https://www.squidco.com/miva/merchant.mvc?Screen=PROD&Store_Code=S&Product_Code=31987&Category_Code=RECENTLY
-- https://www.hhv.de/en/records/item/quin-kirchner-and-rob-clearfield-concentric-orbits-909289
-- https://www.allaboutjazz.com/news/review-meet-rob-clearfield/
-- https://de.wikipedia.org/wiki/Rob_Clearfield
-- https://www.brownpapertickets.com/event/5390813
+  - 'https://www.originsjazz.org/shows/rob-clearfield-quartet'
+  - 'https://www.allaboutjazz.com/musicians/rob-clearfield/'
+  - 'https://www.quinkirchner.com/about'
+  - >-
+    https://www.squidco.com/miva/merchant.mvc?Screen=PROD&Store_Code=S&Product_Code=31987&Category_Code=RECENTLY
+  - >-
+    https://www.hhv.de/en/records/item/quin-kirchner-and-rob-clearfield-concentric-orbits-909289
+  - 'https://www.allaboutjazz.com/news/review-meet-rob-clearfield/'
+  - 'https://de.wikipedia.org/wiki/Rob_Clearfield'
+  - 'https://www.brownpapertickets.com/event/5390813'
 spotify_data:
   followers: 424
   id: 4t1FVNgd6EpnkWxgASQAgh
   popularity: 9
-  url: https://open.spotify.com/artist/4t1FVNgd6EpnkWxgASQAgh
+  url: 'https://open.spotify.com/artist/4t1FVNgd6EpnkWxgASQAgh'
 status: active
 title: Rob Clearfield/ Quin Kirchner
+origin: 'Chicago, Illinois, United States'
+birth_date: '1984-11-12'
+artist_type: person
 ---
 
 ![](rob_clearfield_quin_kirchner.jpg)

@@ -1,31 +1,32 @@
 ---
 biography_enhanced_at: '2026-02-01T01:29:14.785952'
-birth_place: Bahia, Brazil
+birth_place: 'Bahia, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:29:14.785958'
 external_urls:
-  spotify: https://open.spotify.com/artist/0sdbbKuMFoUNHJzkMIP9Y7
+  spotify: 'https://open.spotify.com/artist/0sdbbKuMFoUNHJzkMIP9Y7'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/omon_engoma.jpg
 last_updated: '2026-02-01T01:29:14.785959'
 musical_connections:
   collaborators:
-  - Bira Monteiro
+    - Bira Monteiro
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wwoz.org/programs/playlists
-- https://www.youtube.com/watch?v=f78wq3-fl3w
+  - 'https://wwoz.org/programs/playlists'
+  - 'https://www.youtube.com/watch?v=f78wq3-fl3w'
 spotify_data:
   followers: 130
   id: 0sdbbKuMFoUNHJzkMIP9Y7
   popularity: 1
-  url: https://open.spotify.com/artist/0sdbbKuMFoUNHJzkMIP9Y7
+  url: 'https://open.spotify.com/artist/0sdbbKuMFoUNHJzkMIP9Y7'
 status: active
-title: omon engoma
+title: Omon Engoma
+artist_type: person
 ---
 
 ![](omon_engoma.jpg)

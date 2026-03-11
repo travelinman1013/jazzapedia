@@ -1,48 +1,53 @@
 ---
 biography_enhanced_at: '2026-02-24T01:39:58.273113'
-birth_place: Kansas City, Kansas, United States
+birth_place: 'Kansas City, Kansas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:39:58.273124'
 external_urls:
-  spotify: https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs
+  spotify: 'https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs'
   wikipedia: ''
 genres:
-- bebop
-- jazz
-- hard bop
-image_path: 03_Resources/source_material/ArtistPortraits/charlie_parker_wal_haig_kenny_dorham_max_roach_tommy_potter.jpg
+  - bebop
+  - jazz
+  - hard bop
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/charlie_parker_wal_haig_kenny_dorham_max_roach_tommy_potter.jpg
 last_updated: '2026-02-24T01:39:58.273126'
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Jay McShann
-  - Earl Hines
-  - Max Roach
-  - Miles Davis
-  - Kenny Clarke
+    - Dizzy Gillespie
+    - Jay McShann
+    - Earl Hines
+    - Max Roach
+    - Miles Davis
+    - Kenny Clarke
   influenced:
-  - Miles Davis
-  - Horace Silver
-  - Cannonball Adderley
-  - Art Blakey
+    - Miles Davis
+    - Horace Silver
+    - Cannonball Adderley
+    - Art Blakey
   mentors:
-  - Buster Smith
+    - Buster Smith
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://historicmissourians.shsmo.org/charlie-parker/
-- https://www.ebsco.com/research-starters/history/parkers-playing-epitomizes-bebop
-- https://www.britannica.com/biography/Charlie-Parker
-- https://www.seattleoperablog.com/2020/02/quick-history-lesson-charlie-parker-and.html
-- https://charlieparkermusic.com
-- https://mgleatherwork.com/blogs/news/charlie-parker-biography
+  - 'https://historicmissourians.shsmo.org/charlie-parker/'
+  - >-
+    https://www.ebsco.com/research-starters/history/parkers-playing-epitomizes-bebop
+  - 'https://www.britannica.com/biography/Charlie-Parker'
+  - >-
+    https://www.seattleoperablog.com/2020/02/quick-history-lesson-charlie-parker-and.html
+  - 'https://charlieparkermusic.com'
+  - 'https://mgleatherwork.com/blogs/news/charlie-parker-biography'
 spotify_data:
   followers: 65107
   id: 5GBe2GMfPm3IFagD5XuKKs
   popularity: 32
-  url: https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs
+  url: 'https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs'
 status: active
-title: Charlie Parker w/Al Haig, Kenny Dorham, Max Roach, Tommy Potter
+title: 'Charlie Parker w/Al Haig, Kenny Dorham, Max Roach, Tommy Potter'
+birth_date: '1920-08-29'
+artist_type: person
 ---
 
 ![](charlie_parker_wal_haig_kenny_dorham_max_roach_tommy_potter.jpg)

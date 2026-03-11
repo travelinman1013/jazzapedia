@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-11T01:57:45.342468'
-birth_place: London, England
+birth_place: 'London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-02-11T01:57:45.342473'
 external_urls:
-  spotify: https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2
-  wikipedia: https://en.wikipedia.org/wiki/Andreya_Triana
+  spotify: 'https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Andreya_Triana'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/maribou_state_and_andreya_triana.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/maribou_state_and_andreya_triana.jpg
 last_updated: '2026-02-11T01:57:45.342474'
 musical_connections:
   collaborators:
-  - Bonobo (Simon Green)
-  - Breach
-  - Flying Lotus
-  - Mr Scruff
-  - Dimitri Tikovoï
-  - Jungle
+    - Bonobo (Simon Green)
+    - Breach
+    - Flying Lotus
+    - Mr Scruff
+    - Dimitri Tikovoï
+    - Jungle
   influenced: []
   mentors:
-  - Red Bull Music Academy
+    - Red Bull Music Academy
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Andreya_Triana
-- https://mutinyrecordings.com/artist_bios/andreya-triana/
-- https://kids.kiddle.co/Andreya_Triana
-- https://earthackney.co.uk/performers/andreya-triana/
-- https://www.prsformusic.com/m-magazine/features/andreya-triana
-- https://www.stereofox.com/artists/andreya-triana/
-- https://pan-african-music.com/en/andreya-triana-colourful-soul/
+  - 'https://en.wikipedia.org/wiki/Andreya_Triana'
+  - 'https://mutinyrecordings.com/artist_bios/andreya-triana/'
+  - 'https://kids.kiddle.co/Andreya_Triana'
+  - 'https://earthackney.co.uk/performers/andreya-triana/'
+  - 'https://www.prsformusic.com/m-magazine/features/andreya-triana'
+  - 'https://www.stereofox.com/artists/andreya-triana/'
+  - 'https://pan-african-music.com/en/andreya-triana-colourful-soul/'
 spotify_data:
   followers: 77877
   id: 6SKEuFZYhaTytrhtJjgnO2
   popularity: 52
-  url: https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2
+  url: 'https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2'
 status: active
 title: Maribou State & Andreya Triana
+artist_type: person
 ---
 
 ![](maribou_state_and_andreya_triana.jpg)

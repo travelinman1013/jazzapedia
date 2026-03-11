@@ -3,34 +3,39 @@ biography_enhanced_at: '2026-02-01T01:26:04.448386'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:26:04.448391'
 external_urls:
-  spotify: https://open.spotify.com/artist/6rKvdKWX9yzrTzY1IUZwML
-  wikipedia: https://pt.wikipedia.org/wiki/Mel_Duarte
+  spotify: 'https://open.spotify.com/artist/6rKvdKWX9yzrTzY1IUZwML'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Mel_Duarte'
 genres:
-- new mpb
+  - new mpb
 image_path: 03_Resources/source_material/ArtistPortraits/preta_raraand_mel_duarte.jpg
 last_updated: '2026-02-01T01:26:04.448392'
 musical_connections:
   collaborators:
-  - Bia Ferreira
-  - Nina Oliveira
-  - Amiri
-  - Negra Jack
+    - Bia Ferreira
+    - Nina Oliveira
+    - Amiri
+    - Negra Jack
   influenced: []
   mentors: []
 network_extracted: true
-origin: São Paulo, Brazil
+origin: 'São Paulo, Brazil'
 primary_source: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Mel_Duarte
-- https://tede.pucsp.br/bitstream/handle/24071/1/Luciana%20de%20Oliveira%20Miranda%20da%20Cruz.pdf
-- https://www.bocadaforte.com.br/materias/entrevistas/poeta-mel-duarte-e-a-entrevistada-do-programa-freestyle
+  - 'https://pt.wikipedia.org/wiki/Mel_Duarte'
+  - >-
+    https://tede.pucsp.br/bitstream/handle/24071/1/Luciana%20de%20Oliveira%20Miranda%20da%20Cruz.pdf
+  - >-
+    https://www.bocadaforte.com.br/materias/entrevistas/poeta-mel-duarte-e-a-entrevistada-do-programa-freestyle
 spotify_data:
   followers: 648
   id: 6rKvdKWX9yzrTzY1IUZwML
   popularity: 10
-  url: https://open.spotify.com/artist/6rKvdKWX9yzrTzY1IUZwML
+  url: 'https://open.spotify.com/artist/6rKvdKWX9yzrTzY1IUZwML'
 status: active
-title: Preta Rara& Mel Duarte
+title: Preta Rara & Mel Duarte
+birth_place: 'São Paulo, Brazil'
+birth_date: '1988-11-19'
+artist_type: person
 ---
 
 ![](preta_raraand_mel_duarte.jpg)

@@ -3,28 +3,31 @@ biography_enhanced_at: '2026-01-28T01:48:54.680078'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:48:54.680088'
 external_urls:
-  spotify: https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg
-  wikipedia: https://en.wikipedia.org/wiki/Drama_(American_duo)
+  spotify: 'https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Drama_(American_duo)'
 genres:
-- indie soul
+  - indie soul
 image_path: 03_Resources/source_material/ArtistPortraits/drama.jpg
 last_updated: '2026-01-28T01:48:54.680089'
 musical_connections:
   collaborators:
-  - THEMPeople
+    - THEMPeople
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Drama_(American_duo)
+  - 'https://en.wikipedia.org/wiki/Drama_(American_duo)'
 spotify_data:
   followers: 167938
   id: 7LvvNoUPwTZpgXDWBRrfHg
   popularity: 59
-  url: https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg
+  url: 'https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg'
 status: active
 title: DRAMA
+birth_place: 'Austin, Texas, United States'
+origin: 'Chicago, Illinois, USA'
+artist_type: person
 ---
 
 ![](drama.jpg)

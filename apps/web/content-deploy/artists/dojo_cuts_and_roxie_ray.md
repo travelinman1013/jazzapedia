@@ -3,49 +3,51 @@ biography_enhanced_at: '2026-02-13T01:28:21.831989'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:28:21.831994'
 external_urls:
-  spotify: https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL
+  spotify: 'https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL'
   wikipedia: ''
 genres:
-- retro soul
+  - retro soul
 image_path: 03_Resources/source_material/ArtistPortraits/dojo_cuts_and_roxie_ray.jpg
 last_updated: '2026-02-13T01:28:21.831995'
 musical_connections:
   collaborators:
-  - Sarsha Simone (Roxie Ray)
-  - Nate Goldentone
-  - Andrew Samuel
-  - Matt Lamb
-  - Mike Gordon
-  - Andrew Symons
-  - Milano Jazz-Dance Combo
-  - Lack Of Afro
-  - Ray Lugo's L.E.S Express
-  - The Underbelly
-  - The Liberators
+    - Sarsha Simone (Roxie Ray)
+    - Nate Goldentone
+    - Andrew Samuel
+    - Matt Lamb
+    - Mike Gordon
+    - Andrew Symons
+    - Milano Jazz-Dance Combo
+    - Lack Of Afro
+    - Ray Lugo's L.E.S Express
+    - The Underbelly
+    - The Liberators
   influenced: []
   mentors:
-  - Gabriel Roth
-  - Neal Sugarman
+    - Gabriel Roth
+    - Neal Sugarman
 network_extracted: true
-origin: Sydney, Australia
+origin: 'Sydney, Australia'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Dojo+Cuts+feat.+Roxie+Ray/+wiki
-- https://www.marmosetmusic.com/artists/dojo-cuts
-- https://recordkicks.com/artist/dojo-cuts/
-- https://www.viberate.com/artist/dojo-cuts/
-- https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL
-- https://www.musicmetricsvault.com/artists/dojo-cuts/0Vd8YQz8TYk2vSKEYVvIgL
-- https://suitcaserecords.com.au/pages/artists/dojo-cuts
-- https://www.dogsonacid.com/threads/my-band-dojo-cuts-heavy-soul-band-debut-album.626013/
-- https://www.reverbnation.com/roxieray/song/4571929-i-dont-think-so
+  - 'https://www.last.fm/music/Dojo+Cuts+feat.+Roxie+Ray/+wiki'
+  - 'https://www.marmosetmusic.com/artists/dojo-cuts'
+  - 'https://recordkicks.com/artist/dojo-cuts/'
+  - 'https://www.viberate.com/artist/dojo-cuts/'
+  - 'https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL'
+  - 'https://www.musicmetricsvault.com/artists/dojo-cuts/0Vd8YQz8TYk2vSKEYVvIgL'
+  - 'https://suitcaserecords.com.au/pages/artists/dojo-cuts'
+  - >-
+    https://www.dogsonacid.com/threads/my-band-dojo-cuts-heavy-soul-band-debut-album.626013/
+  - 'https://www.reverbnation.com/roxieray/song/4571929-i-dont-think-so'
 spotify_data:
   followers: 97529
   id: 0Vd8YQz8TYk2vSKEYVvIgL
   popularity: 55
-  url: https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL
+  url: 'https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL'
 status: active
 title: Dojo Cuts & Roxie Ray
+artist_type: band
 ---
 
 ![](dojo_cuts_and_roxie_ray.jpg)

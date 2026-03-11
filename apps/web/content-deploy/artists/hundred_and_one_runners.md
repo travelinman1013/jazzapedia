@@ -4,35 +4,37 @@ disambiguation: New Orleans Mardi Gras Indians
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:05:10.616763'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/03737296-3171-4b96-992f-05a3095d24fc
-  spotify: https://open.spotify.com/artist/1zRXkzU8uhUMu15HDbbF20
+  musicbrainz: 'https://musicbrainz.org/artist/03737296-3171-4b96-992f-05a3095d24fc'
+  spotify: 'https://open.spotify.com/artist/1zRXkzU8uhUMu15HDbbF20'
   wikipedia: ''
 genres:
-- brass band
-- cajun
-- zydeco
+  - brass band
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/hundred_and_one_runners.jpg
 last_updated: '2026-02-16T01:05:10.616765'
 musical_connections:
   collaborators:
-  - Jay Sanders
-  - Woody Wood
+    - Jay Sanders
+    - Woody Wood
   influenced: []
   mentors: []
 musicbrainz_id: 03737296-3171-4b96-992f-05a3095d24fc
 network_extracted: true
-origin: Asheville, North Carolina, USA
+origin: 'Asheville, North Carolina, USA'
 primary_source: perplexity
 research_sources:
-- https://www.gallery.fm/artist/78323/hundred-one-runners
-- https://blog.musoscribe.com/index.php/2014/09/27/bonus-weekend-feature-101-runners/
+  - 'https://www.gallery.fm/artist/78323/hundred-one-runners'
+  - >-
+    https://blog.musoscribe.com/index.php/2014/09/27/bonus-weekend-feature-101-runners/
 spotify_data:
   followers: 194
   id: 1zRXkzU8uhUMu15HDbbF20
   popularity: 3
-  url: https://open.spotify.com/artist/1zRXkzU8uhUMu15HDbbF20
+  url: 'https://open.spotify.com/artist/1zRXkzU8uhUMu15HDbbF20'
 status: active
 title: Hundred & One Runners
+artist_type: band
 ---
 
 ![](hundred_and_one_runners.jpg)

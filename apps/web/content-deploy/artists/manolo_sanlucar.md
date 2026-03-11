@@ -1,49 +1,54 @@
 ---
 biography_enhanced_at: '2026-03-01T02:01:18.384150'
-birth_place: Sanlúcar de Barrameda, Cádiz, Spain
+birth_place: 'Sanlúcar de Barrameda, Cádiz, Spain'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:01:18.384160'
 external_urls:
-  spotify: https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi
-  wikipedia: https://en.wikipedia.org/wiki/Manolo_Sanl%C3%BAcar
+  spotify: 'https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Manolo_Sanl%C3%BAcar'
 genres:
-- flamenco
+  - flamenco
 image_path: 03_Resources/source_material/ArtistPortraits/manolo_sanlucar.jpg
 last_updated: '2026-03-01T02:01:18.384162'
 musical_connections:
   collaborators:
-  - Pepe Marchena
-  - Pepe Pinto
-  - La Paquera de Jerez
-  - La Niña de los Peines
-  - Melchor de Marchena
-  - El Lebrijano
-  - Rocío Jurado
+    - Pepe Marchena
+    - Pepe Pinto
+    - La Paquera de Jerez
+    - La Niña de los Peines
+    - Melchor de Marchena
+    - El Lebrijano
+    - Rocío Jurado
   influenced:
-  - Vicente Amigo
-  - Juan Carlos Romero
-  - David Carmona
+    - Vicente Amigo
+    - Juan Carlos Romero
+    - David Carmona
   mentors:
-  - Javier Molina
-  - Ramón Montoya
-  - Isidro Muñoz (father)
-  - Enrique Morente
+    - Javier Molina
+    - Ramón Montoya
+    - Isidro Muñoz (father)
+    - Enrique Morente
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Manolo_Sanl%C3%BAcar
-- https://palabrasflamencas.com/2018/11/10/manolo-sanlucar-guitarist-composer/
-- https://classicalguitarmagazine.com/modern-masters-of-flamenco-guitar-part-1-manolo-sanlucar/
-- https://worldmusiccentral.org/artist-profiles-manolo-sanlucar/
-- https://expoflamenco.com/archivo/en/actualidad-en/farewell-to-manolo-sanlucar-our-greatest-flamenco-artist/
-- https://en.andalucia.org/listing/manolo-sanl%C3%BAcar/20796101/
+  - 'https://en.wikipedia.org/wiki/Manolo_Sanl%C3%BAcar'
+  - 'https://palabrasflamencas.com/2018/11/10/manolo-sanlucar-guitarist-composer/'
+  - >-
+    https://classicalguitarmagazine.com/modern-masters-of-flamenco-guitar-part-1-manolo-sanlucar/
+  - 'https://worldmusiccentral.org/artist-profiles-manolo-sanlucar/'
+  - >-
+    https://expoflamenco.com/archivo/en/actualidad-en/farewell-to-manolo-sanlucar-our-greatest-flamenco-artist/
+  - 'https://en.andalucia.org/listing/manolo-sanl%C3%BAcar/20796101/'
 spotify_data:
   followers: 25997
   id: 64CGnwp39uOxZSq2BfqWsi
   popularity: 31
-  url: https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi
+  url: 'https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi'
 status: active
-title: manolo sanlucar
+title: Manolo Sanlucar
+birth_date: '1943-11-24'
+death_date: '2022-08-27'
+artist_type: person
 ---
 
 ![](manolo_sanlucar.jpg)

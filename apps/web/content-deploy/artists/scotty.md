@@ -1,44 +1,46 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-03-08T03:07:14.965080'
-birth_place: Garner, North Carolina, USA
+birth_place: 'Garner, North Carolina, USA'
 disambiguation: German house/trance artist
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:07:14.965089'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/638b280a-76b5-4519-b503-fdfa58f8df7a
-  spotify: https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29
+  musicbrainz: 'https://musicbrainz.org/artist/638b280a-76b5-4519-b503-fdfa58f8df7a'
+  spotify: 'https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29'
   wikipedia: ''
 gender: Male
 genres:
-- country
-- acoustic country
+  - country
+  - acoustic country
 image_path: 03_Resources/source_material/ArtistPortraits/scotty.jpg
 last_updated: '2026-03-08T03:07:14.965091'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Elvis Presley
-  - Garth Brooks
-  - George Strait
+    - Elvis Presley
+    - Garth Brooks
+    - George Strait
 musicbrainz_id: 638b280a-76b5-4519-b503-fdfa58f8df7a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://holler.country/artists/scotty-mccreery/
-- https://northcarolinamusichalloffame.org/inductee-item/scotty-mccreery/
-- https://www.ncpedia.org/mccreery-scotty
-- https://resources.finalsite.net/images/v1699387691/mesquiteisdorg/m19tikigt1enyqkokfdd/ScottyMcCreeryBio1.pdf
-- https://www.umusicpub.com/nashville/Artists/S/Scotty-McCreery.aspx
-- https://www.youtube.com/watch?v=UwgNq9vDC6A
+  - 'https://holler.country/artists/scotty-mccreery/'
+  - 'https://northcarolinamusichalloffame.org/inductee-item/scotty-mccreery/'
+  - 'https://www.ncpedia.org/mccreery-scotty'
+  - >-
+    https://resources.finalsite.net/images/v1699387691/mesquiteisdorg/m19tikigt1enyqkokfdd/ScottyMcCreeryBio1.pdf
+  - 'https://www.umusicpub.com/nashville/Artists/S/Scotty-McCreery.aspx'
+  - 'https://www.youtube.com/watch?v=UwgNq9vDC6A'
 spotify_data:
   followers: 1190109
   id: 6ZV6lGY0prbqpTD0Md8i29
   popularity: 60
-  url: https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29
+  url: 'https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29'
 status: active
-title: Scotty
+title: Scotty McCreery
+birth_date: '1993-10-09'
 ---
 
 ![](scotty.jpg)

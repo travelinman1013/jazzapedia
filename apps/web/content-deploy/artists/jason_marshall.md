@@ -1,49 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-19T01:53:42.337730'
-birth_place: Washington, D.C., USA (birthplace); raised in Silver Spring, MD, USA
+birth_place: 'Washington, D.C., USA (birthplace); raised in Silver Spring, MD, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:53:42.337740'
 external_urls:
-  spotify: https://open.spotify.com/artist/708QSifUgODmuMSE8pJCqZ
+  spotify: 'https://open.spotify.com/artist/708QSifUgODmuMSE8pJCqZ'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jason_marshall.jpg
 last_updated: '2026-02-19T01:53:42.337742'
 musical_connections:
   collaborators:
-  - Roy Hargrove
-  - Thad Wilson
-  - Roy Gaines
-  - Aretha Franklin
-  - Beyoncé
-  - The Roots
+    - Roy Hargrove
+    - Thad Wilson
+    - Roy Gaines
+    - Aretha Franklin
+    - Beyoncé
+    - The Roots
   influenced: []
   mentors:
-  - Hamiett Bluiett
-  - Ronnie Cuber
-  - Gary Smulyan
-  - Lorenz Wheatley
-  - Paul Carr
-  - Holly Pasquale
-  - Fred Foss
+    - Hamiett Bluiett
+    - Ronnie Cuber
+    - Gary Smulyan
+    - Lorenz Wheatley
+    - Paul Carr
+    - Holly Pasquale
+    - Fred Foss
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jodyjazz.com/endorser/jason-marshall/
-- https://www.charlesmingus.com/jason-marshall
-- https://www.jazzempowers.org/jason-marshall
-- https://www.allaboutjazz.com/musicians/jason-w-marshall/
-- https://www.thedjangonyc.com/events/jason-marshall-20/
-- https://gentlemenstandard.com/2013/12/10/man-of-substance-jason-marshall-the-love-of-jazz/
-- https://jasonmarshalljazz.com
-- https://bestsaxophonewebsiteever.com/bari-sax-master-jason-marshall-players-dont/
+  - 'https://jodyjazz.com/endorser/jason-marshall/'
+  - 'https://www.charlesmingus.com/jason-marshall'
+  - 'https://www.jazzempowers.org/jason-marshall'
+  - 'https://www.allaboutjazz.com/musicians/jason-w-marshall/'
+  - 'https://www.thedjangonyc.com/events/jason-marshall-20/'
+  - >-
+    https://gentlemenstandard.com/2013/12/10/man-of-substance-jason-marshall-the-love-of-jazz/
+  - 'https://jasonmarshalljazz.com'
+  - >-
+    https://bestsaxophonewebsiteever.com/bari-sax-master-jason-marshall-players-dont/
 spotify_data:
   followers: 1447
   id: 708QSifUgODmuMSE8pJCqZ
   popularity: 5
-  url: https://open.spotify.com/artist/708QSifUgODmuMSE8pJCqZ
+  url: 'https://open.spotify.com/artist/708QSifUgODmuMSE8pJCqZ'
 status: active
 title: Jason Marshall
+artist_type: person
 ---
 
 ![](jason_marshall.jpg)

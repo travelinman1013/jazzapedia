@@ -1,46 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-26T01:16:41.547657'
-birth_place: Gert Town, New Orleans, Louisiana, USA
+birth_place: 'Gert Town, New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:16:41.547667'
 external_urls:
-  spotify: https://open.spotify.com/artist/5GnRL4k80AIZTK18MRkfDI
-  wikipedia: https://en.wikipedia.org/wiki/Allen_Toussaint
+  spotify: 'https://open.spotify.com/artist/5GnRL4k80AIZTK18MRkfDI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Allen_Toussaint'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/allen_toussaints_jazzity_project.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/allen_toussaints_jazzity_project.jpg
 last_updated: '2026-02-26T01:16:41.547669'
 musical_connections:
   collaborators:
-  - Marshall Sehorn
-  - Lee Dorsey
-  - Ernie K-Doe
-  - Dr. John
-  - LaBelle
-  - The Band
-  - Aaron Neville
+    - Marshall Sehorn
+    - Lee Dorsey
+    - Ernie K-Doe
+    - Dr. John
+    - LaBelle
+    - The Band
+    - Aaron Neville
   influenced:
-  - Glen Campbell
-  - The Pointer Sisters
+    - Glen Campbell
+    - The Pointer Sisters
   mentors:
-  - Huey “Piano” Smith
-  - Dave Bartholomew
+    - Huey “Piano” Smith
+    - Dave Bartholomew
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/allen-toussaint/
-- https://en.wikipedia.org/wiki/Allen_Toussaint
-- https://daily.redbullmusicacademy.com/2014/04/allen-toussaint-interview/
-- https://www.explorelouisiana.com/music/allen-toussaint
-- https://concord.com/artist/allen-toussaint-c11139/
-- https://www.namm.org/library/oral-history/allen-toussaint
-- https://www.offbeat.com/music/allen-toussaints-jazzity-project-going-places-crt/
+  - 'https://musicrising.tulane.edu/discover/people/allen-toussaint/'
+  - 'https://en.wikipedia.org/wiki/Allen_Toussaint'
+  - 'https://daily.redbullmusicacademy.com/2014/04/allen-toussaint-interview/'
+  - 'https://www.explorelouisiana.com/music/allen-toussaint'
+  - 'https://concord.com/artist/allen-toussaint-c11139/'
+  - 'https://www.namm.org/library/oral-history/allen-toussaint'
+  - >-
+    https://www.offbeat.com/music/allen-toussaints-jazzity-project-going-places-crt/
 spotify_data:
   followers: 128
   id: 5GnRL4k80AIZTK18MRkfDI
   popularity: 0
-  url: https://open.spotify.com/artist/5GnRL4k80AIZTK18MRkfDI
+  url: 'https://open.spotify.com/artist/5GnRL4k80AIZTK18MRkfDI'
 status: active
 title: Allen Toussaint's Jazzity Project
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1938-01-14'
+artist_type: person
 ---
 
 ![](allen_toussaints_jazzity_project.jpg)

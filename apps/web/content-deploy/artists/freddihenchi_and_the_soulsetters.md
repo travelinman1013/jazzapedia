@@ -3,42 +3,47 @@ biography_enhanced_at: '2026-03-07T01:42:28.839378'
 enhancement_provider: perplexity
 entry_created: '2026-03-07T01:42:28.839386'
 external_urls:
-  spotify: https://open.spotify.com/artist/1OILliipprsMBK7UyQFM8g
+  spotify: 'https://open.spotify.com/artist/1OILliipprsMBK7UyQFM8g'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/freddihenchi_and_the_soulsetters.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/freddihenchi_and_the_soulsetters.jpg
 last_updated: '2026-03-07T01:42:28.839388'
 musical_connections:
   collaborators:
-  - Marvin “Henchi” Graves
-  - Bob Yeazel
-  - Chris Daniels
-  - Larry Wilkins, Jerry Krenzer, Harold Lee, Chuck Reeder, Rich Guess and other band
-    members
+    - Marvin “Henchi” Graves
+    - Bob Yeazel
+    - Chris Daniels
+    - >-
+      Larry Wilkins, Jerry Krenzer, Harold Lee, Chuck Reeder, Rich Guess and
+      other band members
   influenced:
-  - Earth, Wind & Fire (stylistic parallel, as described by Hall of Fame)
-  - Chris Daniels
+    - 'Earth, Wind & Fire (stylistic parallel, as described by Hall of Fame)'
+    - Chris Daniels
   mentors:
-  - Hadley Murrell
-  - Mrs. Light
+    - Hadley Murrell
+    - Mrs. Light
 network_extracted: true
-origin: Phoenix, Arizona, United States
+origin: 'Phoenix, Arizona, United States'
 primary_source: perplexity
 research_sources:
-- https://cmhof.org/inductees/freddi-henchi/
-- https://www.marmosetmusic.com/artists/freddi-henchi-and-the-soulsetters
-- https://cmhof.org/music-news/celebrating-black-history-month-an-interview-with-freddi-gowdy/
-- https://kimsloans.wordpress.com/freddi-henchi-soulsetters/
-- http://listenheredenver.com/35421/freddi-gowdy-and-chris-daniels-the-birth-of-cool-in-colorado/
-- https://www.jazzmusicarchives.com/artist/the-freddi-henchi-band
-- https://www.last.fm/music/Freddi+Henchi+&+Soul+Setters/+wiki
+  - 'https://cmhof.org/inductees/freddi-henchi/'
+  - 'https://www.marmosetmusic.com/artists/freddi-henchi-and-the-soulsetters'
+  - >-
+    https://cmhof.org/music-news/celebrating-black-history-month-an-interview-with-freddi-gowdy/
+  - 'https://kimsloans.wordpress.com/freddi-henchi-soulsetters/'
+  - >-
+    http://listenheredenver.com/35421/freddi-gowdy-and-chris-daniels-the-birth-of-cool-in-colorado/
+  - 'https://www.jazzmusicarchives.com/artist/the-freddi-henchi-band'
+  - 'https://www.last.fm/music/Freddi+Henchi+&+Soul+Setters/+wiki'
 spotify_data:
   followers: 599
   id: 1OILliipprsMBK7UyQFM8g
   popularity: 5
-  url: https://open.spotify.com/artist/1OILliipprsMBK7UyQFM8g
+  url: 'https://open.spotify.com/artist/1OILliipprsMBK7UyQFM8g'
 status: active
-title: freddi/henchi and the soulsetters
+title: Freddi/henchi and the Soulsetters
+artist_type: band
 ---
 
 ![](freddihenchi_and_the_soulsetters.jpg)

@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-03-08T03:09:07.061703'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:09:07.061816'
 external_urls:
-  spotify: https://open.spotify.com/artist/0e6zd8iJplfoCCQ8TmZ8Bb
+  spotify: 'https://open.spotify.com/artist/0e6zd8iJplfoCCQ8TmZ8Bb'
   wikipedia: ''
 genres: []
 image_path: ''
@@ -15,18 +15,20 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/J._Long
-- https://folkzone.ca/lynne-hanson-long-bio/
-- https://www.lynndeshazo.com/about-lynn-deshazo/
-- http://www.vvoice.org/?module=displaystory&story_id=3728&format=print&edition_id=577
-- https://www.youtube.com/watch?v=U2wdS-iG3ns
+  - 'https://en.wikipedia.org/wiki/J._Long'
+  - 'https://folkzone.ca/lynne-hanson-long-bio/'
+  - 'https://www.lynndeshazo.com/about-lynn-deshazo/'
+  - >-
+    http://www.vvoice.org/?module=displaystory&story_id=3728&format=print&edition_id=577
+  - 'https://www.youtube.com/watch?v=U2wdS-iG3ns'
 spotify_data:
   followers: 34
   id: 0e6zd8iJplfoCCQ8TmZ8Bb
   popularity: 0
-  url: https://open.spotify.com/artist/0e6zd8iJplfoCCQ8TmZ8Bb
+  url: 'https://open.spotify.com/artist/0e6zd8iJplfoCCQ8TmZ8Bb'
 status: active
 title: Lynn Long
+artist_type: person
 ---
 
 ![]()

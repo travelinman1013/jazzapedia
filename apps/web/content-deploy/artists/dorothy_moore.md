@@ -1,46 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-13T01:24:28.505370'
-birth_place: Jackson, Mississippi, USA
+birth_place: 'Jackson, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:24:28.505377'
 external_urls:
-  spotify: https://open.spotify.com/artist/3KQOgtRIeQVHdYFcNHKavs
-  wikipedia: https://en.wikipedia.org/wiki/Dorothy_Moore
+  spotify: 'https://open.spotify.com/artist/3KQOgtRIeQVHdYFcNHKavs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dorothy_Moore'
 genres:
-- classic soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/dorothy_moore.jpg
 last_updated: '2026-02-13T01:24:28.505378'
 musical_connections:
   collaborators:
-  - Petsye McCune
-  - Rosemary Taylor
-  - The Four Tops
-  - Wilson Pickett
-  - Ben E. King
-  - Eddie Floyd
+    - Petsye McCune
+    - Rosemary Taylor
+    - The Four Tops
+    - Wilson Pickett
+    - Ben E. King
+    - Eddie Floyd
   influenced: []
   mentors:
-  - Billy Sherrill
-  - L.C. Ulmer
-  - Bob McRee
+    - Billy Sherrill
+    - L.C. Ulmer
+    - Bob McRee
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.soulwalking.co.uk/Dorothy%20Moore.html
-- https://www.hittheroadentertainment.com/dorothy-moore
-- https://msbluestrail.org/blues-trail-markers/dorothy-moore
-- https://russmisc.wordpress.com/2015/07/09/dorothy-moore-misty-blue/
-- https://malaco.com/artist/blues-rb/dorothy-moore/
-- https://concord.com/artist/dorothy-moore/
-- https://en.wikipedia.org/wiki/Dorothy_Moore
-- https://www.msdeltablues.com/dorothymoore
+  - 'http://www.soulwalking.co.uk/Dorothy%20Moore.html'
+  - 'https://www.hittheroadentertainment.com/dorothy-moore'
+  - 'https://msbluestrail.org/blues-trail-markers/dorothy-moore'
+  - 'https://russmisc.wordpress.com/2015/07/09/dorothy-moore-misty-blue/'
+  - 'https://malaco.com/artist/blues-rb/dorothy-moore/'
+  - 'https://concord.com/artist/dorothy-moore/'
+  - 'https://en.wikipedia.org/wiki/Dorothy_Moore'
+  - 'https://www.msdeltablues.com/dorothymoore'
 spotify_data:
   followers: 62551
   id: 3KQOgtRIeQVHdYFcNHKavs
   popularity: 44
-  url: https://open.spotify.com/artist/3KQOgtRIeQVHdYFcNHKavs
+  url: 'https://open.spotify.com/artist/3KQOgtRIeQVHdYFcNHKavs'
 status: active
 title: Dorothy Moore
+birth_date: '1946-10-13'
+artist_type: person
 ---
 
 ![](dorothy_moore.jpg)

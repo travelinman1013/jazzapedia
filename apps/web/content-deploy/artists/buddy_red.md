@@ -1,41 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-28T01:47:17.311766'
-birth_place: Atlanta, Georgia, USA
+birth_place: 'Atlanta, Georgia, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:47:17.311776'
 external_urls:
-  spotify: https://open.spotify.com/artist/3rpx3cpG9YFQxEgbYjK2JX
+  spotify: 'https://open.spotify.com/artist/3rpx3cpG9YFQxEgbYjK2JX'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_red.jpg
 last_updated: '2026-02-28T01:47:17.311777'
 musical_connections:
   collaborators:
-  - ilypticasso
-  - Omar’s Hat (Black Buttafly, Max Hoenig, Joseph Cephas, Keyanna Hutchinson)
+    - ilypticasso
+    - 'Omar’s Hat (Black Buttafly, Max Hoenig, Joseph Cephas, Keyanna Hutchinson)'
   influenced: []
   mentors:
-  - Freddie Mercury
-  - Jimi Hendrix
-  - Pink Floyd
+    - Freddie Mercury
+    - Jimi Hendrix
+    - Pink Floyd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thehypemagazine.com/2025/09/14/buddy-red-redefining-blues-rock-with-soul-and-authenticity/
-- https://www.spin.com/2025/10/buddy-red-gets-the-blues/
-- https://www.artsatl.org/atlanta-musician-buddy-reds-11-good-things/
-- https://americansongwriter.com/5-questions-how-buddy-red-sold-his-soul-for-music-and-entered-another-era/
-- https://www.youtube.com/watch?v=JMTEHjOGSwI
-- https://xpn.org/buddy-red-interview/
-- https://www.youtube.com/watch?v=FP6GQPhSyYw
-- https://www.revolt.tv/article/ti-son-buddy-red-is-charting-his-own-rock-and-blues-legacy
+  - >-
+    https://www.thehypemagazine.com/2025/09/14/buddy-red-redefining-blues-rock-with-soul-and-authenticity/
+  - 'https://www.spin.com/2025/10/buddy-red-gets-the-blues/'
+  - 'https://www.artsatl.org/atlanta-musician-buddy-reds-11-good-things/'
+  - >-
+    https://americansongwriter.com/5-questions-how-buddy-red-sold-his-soul-for-music-and-entered-another-era/
+  - 'https://www.youtube.com/watch?v=JMTEHjOGSwI'
+  - 'https://xpn.org/buddy-red-interview/'
+  - 'https://www.youtube.com/watch?v=FP6GQPhSyYw'
+  - >-
+    https://www.revolt.tv/article/ti-son-buddy-red-is-charting-his-own-rock-and-blues-legacy
 spotify_data:
   followers: 3280
   id: 3rpx3cpG9YFQxEgbYjK2JX
   popularity: 3
-  url: https://open.spotify.com/artist/3rpx3cpG9YFQxEgbYjK2JX
+  url: 'https://open.spotify.com/artist/3rpx3cpG9YFQxEgbYjK2JX'
 status: active
 title: Buddy Red
+origin: 'Atlanta, Georgia, United States'
+artist_type: person
 ---
 
 ![](buddy_red.jpg)

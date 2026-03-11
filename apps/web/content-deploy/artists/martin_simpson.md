@@ -1,48 +1,53 @@
 ---
 biography_enhanced_at: '2026-02-03T02:02:35.662385'
-birth_place: Scunthorpe, Lincolnshire, England
+birth_place: 'Scunthorpe, Lincolnshire, England'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:02:35.662395'
 external_urls:
-  spotify: https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ
-  wikipedia: https://en.wikipedia.org/wiki/Martin_Simpson
+  spotify: 'https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Martin_Simpson'
 genres:
-- folk
-- traditional folk
-- celtic
+  - folk
+  - traditional folk
+  - celtic
 image_path: 03_Resources/source_material/ArtistPortraits/martin_simpson.jpg
 last_updated: '2026-02-03T02:02:35.662397'
 musical_connections:
   collaborators:
-  - June Tabor
-  - Ashley Hutchings
-  - Wu Man
-  - David Hidalgo
-  - Rick Kemp
-  - Jessica Radcliffe
+    - June Tabor
+    - Ashley Hutchings
+    - Wu Man
+    - David Hidalgo
+    - Rick Kemp
+    - Jessica Radcliffe
   influenced: []
   mentors:
-  - Big Joe Williams
-  - Stefan Grossman
+    - Big Joe Williams
+    - Stefan Grossman
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.topicrecords.co.uk/artists/martin-simpson/
-- https://en.wikipedia.org/wiki/Martin_Simpson
-- https://stgeorgesarts.co.uk/artist/martin-simpson/
-- https://redhouserecords.com/artists/martin-simpson/
-- https://tradfolk.co/music/music-interviews/simpson-at-70-a-new-interview/
-- https://alanbearmanmusic.com/artists/martin-simpson/
-- https://www.kingsplace.co.uk/magazine/qa/martin-simpson-all-of-it-is-joyous-and-all-of-it-informs/
-- https://michaelwattsguitar.com/blogs/blog/posts/7636378/life-on-the-fretboard-martin-simpson
-- https://www.liverpoolphil.com/whats-on/contemporary-music/martin-simpson/3646
+  - 'https://www.topicrecords.co.uk/artists/martin-simpson/'
+  - 'https://en.wikipedia.org/wiki/Martin_Simpson'
+  - 'https://stgeorgesarts.co.uk/artist/martin-simpson/'
+  - 'https://redhouserecords.com/artists/martin-simpson/'
+  - 'https://tradfolk.co/music/music-interviews/simpson-at-70-a-new-interview/'
+  - 'https://alanbearmanmusic.com/artists/martin-simpson/'
+  - >-
+    https://www.kingsplace.co.uk/magazine/qa/martin-simpson-all-of-it-is-joyous-and-all-of-it-informs/
+  - >-
+    https://michaelwattsguitar.com/blogs/blog/posts/7636378/life-on-the-fretboard-martin-simpson
+  - >-
+    https://www.liverpoolphil.com/whats-on/contemporary-music/martin-simpson/3646
 spotify_data:
   followers: 15869
   id: 5nUScDmyGIvoX7ol79YnBQ
   popularity: 29
-  url: https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ
+  url: 'https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ'
 status: active
 title: Martin Simpson
+birth_date: '1953-05-05'
+artist_type: person
 ---
 
 ![](martin_simpson.jpg)

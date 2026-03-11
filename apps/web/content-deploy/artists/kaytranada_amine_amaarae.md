@@ -1,41 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-28T01:49:20.817881'
-birth_place: Port-au-Prince, Haiti (born); Montreal, Quebec, Canada (raised)
+birth_place: 'Port-au-Prince, Haiti, Haiti'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:49:20.817889'
 external_urls:
-  spotify: https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu
+  spotify: 'https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/kaytranada_amine_amaarae.jpg
 last_updated: '2026-01-28T01:49:20.817891'
 musical_connections:
   collaborators:
-  - Lou Phelps
-  - Anderson .Paak
-  - Phonte, Craig David, Vic Mensa, Little Dragon, Syd, GoldLink
-  - Pharrell, Kali Uchis, Masego
-  - Kendrick Lamar, Chance the Rapper, Robert Glasper, Mick Jenkins, Snoop Dogg, Freddie
-    Gibbs, Alicia Keys
+    - Lou Phelps
+    - Anderson .Paak
+    - 'Phonte, Craig David, Vic Mensa, Little Dragon, Syd, GoldLink'
+    - 'Pharrell, Kali Uchis, Masego'
+    - >-
+      Kendrick Lamar, Chance the Rapper, Robert Glasper, Mick Jenkins, Snoop
+      Dogg, Freddie Gibbs, Alicia Keys
   influenced: []
   mentors:
-  - J Dilla
-  - KenLo, High Klassified, Da-P
+    - J Dilla
+    - 'KenLo, High Klassified, Da-P'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/KAYTRANADA/+wiki
-- https://thecbma.com/artists/kaytranada/
-- https://www.insomniac.com/music/artists/kaytranada/
-- https://sing.fandom.com/wiki/KAYTRANADA
-- https://www.redbullmusicacademy.com/lectures/kaytranada-lecture/
+  - 'https://www.last.fm/music/KAYTRANADA/+wiki'
+  - 'https://thecbma.com/artists/kaytranada/'
+  - 'https://www.insomniac.com/music/artists/kaytranada/'
+  - 'https://sing.fandom.com/wiki/KAYTRANADA'
+  - 'https://www.redbullmusicacademy.com/lectures/kaytranada-lecture/'
 spotify_data:
   followers: 1877496
   id: 6qgnBH6iDM91ipVXv28OMu
   popularity: 73
-  url: https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu
+  url: 'https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu'
 status: active
-title: Kaytranada, Amine, Amaarae
+title: Kaytranada
+origin: 'Montreal, Quebec, Canada'
+birth_date: '1992-08-25'
+artist_type: person
 ---
 
 ![](kaytranada_amine_amaarae.jpg)

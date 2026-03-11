@@ -1,66 +1,67 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-09T01:24:00.127392'
 birth_date: '2016'
 disambiguation: Canadian afro-cuban duo
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:24:00.127402'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e8e91be7-d2b4-469b-ae70-2415a0d0b602
-  spotify: https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt
-  wikipedia: https://en.wikipedia.org/wiki/Okan_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/e8e91be7-d2b4-469b-ae70-2415a0d0b602'
+  spotify: 'https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Okan_(band)'
 genres:
-- afro-cuban jazz
+  - afro-cuban jazz
 image_path: 03_Resources/source_material/ArtistPortraits/okan.jpg
 instruments:
-- lead vocals
-- violin
+  - lead vocals
+  - violin
 last_updated: '2026-02-09T01:24:00.127403'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: b2227947-a4d4-4634-9a6c-3be7b615684d
-  name: Elizabeth Rodriguez
-- begin: ''
-  end: ''
-  instruments:
-  - violin
-  mbid: b2227947-a4d4-4634-9a6c-3be7b615684d
-  name: Elizabeth Rodriguez
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: b2227947-a4d4-4634-9a6c-3be7b615684d
+    name: Elizabeth Rodriguez
+  - begin: ''
+    end: ''
+    instruments:
+      - violin
+    mbid: b2227947-a4d4-4634-9a6c-3be7b615684d
+    name: Elizabeth Rodriguez
 musical_connections:
   collaborators:
-  - Jane Bunnett
-  - Daymé Arocena
-  - Miguel de Armas
-  - Roberto Riveron
-  - Jeremy Ledbetter
-  - Alexis Baro
+    - Jane Bunnett
+    - Daymé Arocena
+    - Miguel de Armas
+    - Roberto Riveron
+    - Jeremy Ledbetter
+    - Alexis Baro
   influenced: []
   mentors:
-  - Jane Bunnett
+    - Jane Bunnett
 musicbrainz_id: e8e91be7-d2b4-469b-ae70-2415a0d0b602
 network_extracted: true
-origin: Toronto
+origin: 'Toronto, Ontario, Canada'
 primary_source: perplexity
 research_sources:
-- https://calperformances.org/artists/okan-2/
-- https://www.highroadtouring.com/artists/okan/
-- https://atljazzfest.com/artists/okan/
-- https://www.passim.org/artists/okan/
-- https://en.wikipedia.org/wiki/Okan_(band)
-- https://www.bam.org/music/2026/bfm-okan
-- https://www.agencedlefebvre.com/okan-en
-- https://afropop.org/articles/okan-doing-whatever-we-want
-- https://www.okanmusica.com
+  - 'https://calperformances.org/artists/okan-2/'
+  - 'https://www.highroadtouring.com/artists/okan/'
+  - 'https://atljazzfest.com/artists/okan/'
+  - 'https://www.passim.org/artists/okan/'
+  - 'https://en.wikipedia.org/wiki/Okan_(band)'
+  - 'https://www.bam.org/music/2026/bfm-okan'
+  - 'https://www.agencedlefebvre.com/okan-en'
+  - 'https://afropop.org/articles/okan-doing-whatever-we-want'
+  - 'https://www.okanmusica.com'
 spotify_data:
   followers: 12424
   id: 3lzMXGRYV6IqjfU16Igakt
   popularity: 16
-  url: https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt
+  url: 'https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt'
 status: active
-title: Okan
+title: OKAN
+birth_place: 'Havana, Cuba, Country'
 ---
 
 ![](okan.jpg)

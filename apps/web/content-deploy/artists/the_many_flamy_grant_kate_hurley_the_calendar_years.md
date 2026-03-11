@@ -3,37 +3,40 @@ biography_enhanced_at: '2026-02-09T01:24:45.936946'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:24:45.936956'
 external_urls:
-  spotify: https://open.spotify.com/artist/4n6CBxrrU6uk2w7fqARWYI
+  spotify: 'https://open.spotify.com/artist/4n6CBxrrU6uk2w7fqARWYI'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/the_many_flamy_grant_kate_hurley_the_calendar_years.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/the_many_flamy_grant_kate_hurley_the_calendar_years.jpg
 last_updated: '2026-02-09T01:24:45.936959'
 musical_connections:
   collaborators:
-  - The Many
-  - Flamy Grant
-  - Kate Hurley
-  - The Calendar Years
+    - The Many
+    - Flamy Grant
+    - Kate Hurley
+    - The Calendar Years
   influenced: []
   mentors: []
 network_extracted: true
 origin: 'Multiple: Colorado (Kate Hurley), Western North Carolina (Flamy Grant), USA'
 primary_source: perplexity
 research_sources:
-- https://music.apple.com/us/album/the-whole-world-is-waiting-single/1716696065
-- https://www.katehurley.com/kates-story
-- https://theministrylab.libguides.com/c.php?g=1471418&p=10952157
-- https://theark.org/event/flamy-grant-250529/
-- https://www.countryeverywhere.com/profiles/flamy-grant
-- https://www.shazam.com/en-us/artist/kate-hurley/1504606519
-- https://www.newreleasetoday.com/artistdetail.php?artist_id=1499
+  - >-
+    https://music.apple.com/us/album/the-whole-world-is-waiting-single/1716696065
+  - 'https://www.katehurley.com/kates-story'
+  - 'https://theministrylab.libguides.com/c.php?g=1471418&p=10952157'
+  - 'https://theark.org/event/flamy-grant-250529/'
+  - 'https://www.countryeverywhere.com/profiles/flamy-grant'
+  - 'https://www.shazam.com/en-us/artist/kate-hurley/1504606519'
+  - 'https://www.newreleasetoday.com/artistdetail.php?artist_id=1499'
 spotify_data:
   followers: 1028
   id: 4n6CBxrrU6uk2w7fqARWYI
   popularity: 3
-  url: https://open.spotify.com/artist/4n6CBxrrU6uk2w7fqARWYI
+  url: 'https://open.spotify.com/artist/4n6CBxrrU6uk2w7fqARWYI'
 status: active
-title: The Many, Flamy Grant, Kate Hurley, The Calendar Years
+title: 'The Many, Flamy Grant, Kate Hurley, The Calendar Years'
+artist_type: band
 ---
 
 ![](the_many_flamy_grant_kate_hurley_the_calendar_years.jpg)

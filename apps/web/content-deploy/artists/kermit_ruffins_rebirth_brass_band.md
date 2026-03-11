@@ -1,48 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-16T01:05:22.941684'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:05:22.941694'
 external_urls:
-  spotify: https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk
-  wikipedia: https://en.wikipedia.org/wiki/Kermit_Ruffins
+  spotify: 'https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kermit_Ruffins'
 genres:
-- brass band
-- cajun
-image_path: 03_Resources/source_material/ArtistPortraits/kermit_ruffins_rebirth_brass_band.jpg
+  - brass band
+  - cajun
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kermit_ruffins_rebirth_brass_band.jpg
 last_updated: '2026-02-16T01:05:22.941695'
 musical_connections:
   collaborators:
-  - Philip Frazier
-  - Keith Frazier
-  - Barbecue Swingers
+    - Philip Frazier
+    - Keith Frazier
+    - Barbecue Swingers
   influenced:
-  - Dozens of young New Orleans musicians and bands
-  - New brass bands in his 20s
+    - Dozens of young New Orleans musicians and bands
+    - New brass bands in his 20s
   mentors:
-  - Donald Richardson
-  - Louis Armstrong
-  - Louis Jordan
-  - Dirty Dozen Brass Band
-  - Olympia Brass Band
+    - Donald Richardson
+    - Louis Armstrong
+    - Louis Jordan
+    - Dirty Dozen Brass Band
+    - Olympia Brass Band
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bluenilelive.com/bn-celebrates/bhm-kermit-rebirth
-- https://en.wikipedia.org/wiki/Kermit_Ruffins
-- https://www.allaboutjazz.com/musicians/kermit-ruffins/
-- https://tipitinas.com/biographytime-rebirthbrassband/
-- https://rebirthbrassband.com/about/
-- https://jazztimes.com/features/lists/before-after-with-kermit-ruffins/
-- https://jaymazza.substack.com/p/great-story-on-kermit-ruffins-by
-- https://www.satchmo.com/nolavl/kermit.html
+  - 'https://www.bluenilelive.com/bn-celebrates/bhm-kermit-rebirth'
+  - 'https://en.wikipedia.org/wiki/Kermit_Ruffins'
+  - 'https://www.allaboutjazz.com/musicians/kermit-ruffins/'
+  - 'https://tipitinas.com/biographytime-rebirthbrassband/'
+  - 'https://rebirthbrassband.com/about/'
+  - 'https://jazztimes.com/features/lists/before-after-with-kermit-ruffins/'
+  - 'https://jaymazza.substack.com/p/great-story-on-kermit-ruffins-by'
+  - 'https://www.satchmo.com/nolavl/kermit.html'
 spotify_data:
   followers: 25817
   id: 31jfl8olSWuzzR8ABt6Bdk
   popularity: 34
-  url: https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk
+  url: 'https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk'
 status: active
-title: Kermit Ruffins, Rebirth Brass Band
+title: 'Kermit Ruffins, Rebirth Brass Band'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1964-12-19'
+artist_type: person
 ---
 
 ![](kermit_ruffins_rebirth_brass_band.jpg)

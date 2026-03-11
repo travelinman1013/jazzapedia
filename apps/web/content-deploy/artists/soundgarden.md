@@ -1,110 +1,110 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-10T01:59:25.276951'
 birth_date: '1984'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:59:25.276959'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/153c9281-268f-4cf3-8938-f5a4593e5df4
-  spotify: https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK
+  musicbrainz: 'https://musicbrainz.org/artist/153c9281-268f-4cf3-8938-f5a4593e5df4'
+  spotify: 'https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK'
   wikipedia: ''
 genres:
-- grunge
-- post-grunge
-- hard rock
+  - grunge
+  - post-grunge
+  - hard rock
 image_path: 03_Resources/source_material/ArtistPortraits/soundgarden.jpg
 instruments:
-- electric bass guitar
-- original
-- lead vocals
-- guitar
-- drums (drum set)
+  - electric bass guitar
+  - original
+  - lead vocals
+  - guitar
+  - drums (drum set)
 last_updated: '2026-02-10T01:59:25.276961'
 members:
-- begin: '1984'
-  end: '1989'
-  instruments:
-  - electric bass guitar
-  - original
-  mbid: fb7687e9-067d-4b5b-ac66-0d7a184c6034
-  name: Hiro Yamamoto
-- begin: '1984'
-  end: '2017-05-18'
-  instruments:
-  - lead vocals
-  - original
-  mbid: cbf9738d-8f81-4a92-bc64-ede09341652d
-  name: Chris Cornell
-- begin: '1984'
-  end: '2017-05-18'
-  instruments:
-  - guitar
-  - original
-  mbid: cbf9738d-8f81-4a92-bc64-ede09341652d
-  name: Chris Cornell
-- &id001
-  begin: '1984'
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: dd676aae-658e-42f3-b3d9-8660ea29198d
-  name: Kim Thayil
-- &id002
-  begin: '1986'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 07e93890-46a1-4ebd-9a70-3988a2135d87
-  name: Matt Cameron
-- begin: '1989'
-  end: '1990'
-  instruments: []
-  mbid: 797dc323-fc39-4597-98cc-d10493f67326
-  name: Jason Everman
-- &id003
-  begin: '1990'
-  end: ''
-  instruments:
-  - electric bass guitar
-  mbid: 0bd73a25-9156-4c0a-aa17-90d06b9275ad
-  name: Ben Shepherd
+  - begin: '1984'
+    end: '1989'
+    instruments:
+      - electric bass guitar
+      - original
+    mbid: fb7687e9-067d-4b5b-ac66-0d7a184c6034
+    name: Hiro Yamamoto
+  - begin: '1984'
+    end: '2017-05-18'
+    instruments:
+      - lead vocals
+      - original
+    mbid: cbf9738d-8f81-4a92-bc64-ede09341652d
+    name: Chris Cornell
+  - begin: '1984'
+    end: '2017-05-18'
+    instruments:
+      - guitar
+      - original
+    mbid: cbf9738d-8f81-4a92-bc64-ede09341652d
+    name: Chris Cornell
+  - &ref_0
+    begin: '1984'
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: dd676aae-658e-42f3-b3d9-8660ea29198d
+    name: Kim Thayil
+  - &ref_1
+    begin: '1986'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 07e93890-46a1-4ebd-9a70-3988a2135d87
+    name: Matt Cameron
+  - begin: '1989'
+    end: '1990'
+    instruments: []
+    mbid: 797dc323-fc39-4597-98cc-d10493f67326
+    name: Jason Everman
+  - &ref_2
+    begin: '1990'
+    end: ''
+    instruments:
+      - electric bass guitar
+    mbid: 0bd73a25-9156-4c0a-aa17-90d06b9275ad
+    name: Ben Shepherd
 musical_connections:
   collaborators:
-  - Chris Cornell
-  - Kim Thayil
-  - Hiro Yamamoto
-  - Matt Cameron
-  - Ben Shepherd
-  - Eddie Vedder
+    - Chris Cornell
+    - Kim Thayil
+    - Hiro Yamamoto
+    - Matt Cameron
+    - Ben Shepherd
+    - Eddie Vedder
   influenced:
-  - Pearl Jam
+    - Pearl Jam
   mentors:
-  - Jack Endino
+    - Jack Endino
 musicbrainz_id: 153c9281-268f-4cf3-8938-f5a4593e5df4
 network_extracted: true
-origin: Seattle
+origin: 'Seattle, Washington, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- https://www.loudersound.com/features/soundgarden-band-history-chris-cornell
-- https://chriscornell.com/history/soundgarden/
-- https://www.britannica.com/topic/Soundgarden
-- https://www.redlightmanagement.com/artists/soundgarden/
-- https://calendar.songfacts.com/timeline/soundgarden/
+  - 'https://www.loudersound.com/features/soundgarden-band-history-chris-cornell'
+  - 'https://chriscornell.com/history/soundgarden/'
+  - 'https://www.britannica.com/topic/Soundgarden'
+  - 'https://www.redlightmanagement.com/artists/soundgarden/'
+  - 'https://calendar.songfacts.com/timeline/soundgarden/'
 spotify_data:
   followers: 5266909
   id: 5xUf6j4upBrXZPg6AI4MRK
   popularity: 71
-  url: https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK
+  url: 'https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK'
 status: active
 tags:
-- 2008 universal fire victim
-- 90s
-- alternative metal
+  - 2008 universal fire victim
+  - 90s
+  - alternative metal
 title: Soundgarden
 ---
 

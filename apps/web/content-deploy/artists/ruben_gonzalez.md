@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-22T01:46:15.326255'
-birth_place: Santa Clara, Villa Clara, Cuba
+birth_place: 'Santa Clara, Villa Clara, Cuba'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:46:15.326265'
 external_urls:
-  spotify: https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh
-  wikipedia: https://en.wikipedia.org/wiki/Rub%C3%A9n_Gonz%C3%A1lez_(pianist)
+  spotify: 'https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rub%C3%A9n_Gonz%C3%A1lez_(pianist)'
 genres:
-- son cubano
-- latin jazz
-- afro-cuban jazz
-- cha cha cha
+  - son cubano
+  - latin jazz
+  - afro-cuban jazz
+  - cha cha cha
 image_path: 03_Resources/source_material/ArtistPortraits/ruben_gonzalez.jpg
 last_updated: '2026-02-22T01:46:15.326267'
 musical_connections:
   collaborators:
-  - Enrique Jorrín
-  - Lilí Martínez
-  - Peruchín
-  - Juan de Marcos Gonzalez
-  - Paulina Álvarez
+    - Enrique Jorrín
+    - Lilí Martínez
+    - Peruchín
+    - Juan de Marcos Gonzalez
+    - Paulina Álvarez
   influenced: []
   mentors:
-  - Arsenio Rodríguez
+    - Arsenio Rodríguez
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.latimes.com/archives/la-xpm-2003-dec-09-me-gonzalez9-story.html
-- https://www.allaboutjazz.com/musicians/ruben-gonzalez/
-- https://en.wikipedia.org/wiki/Rub%C3%A9n_Gonz%C3%A1lez_(pianist)
-- https://kids.kiddle.co/Rub%C3%A9n_Gonz%C3%A1lez_(pianist)
-- https://wbssmedia.com/artists/detail/1065
+  - 'https://www.latimes.com/archives/la-xpm-2003-dec-09-me-gonzalez9-story.html'
+  - 'https://www.allaboutjazz.com/musicians/ruben-gonzalez/'
+  - 'https://en.wikipedia.org/wiki/Rub%C3%A9n_Gonz%C3%A1lez_(pianist)'
+  - 'https://kids.kiddle.co/Rub%C3%A9n_Gonz%C3%A1lez_(pianist)'
+  - 'https://wbssmedia.com/artists/detail/1065'
 spotify_data:
   followers: 81771
   id: 00n4Vljc6N9pvJ26SKPphh
   popularity: 47
-  url: https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh
+  url: 'https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh'
 status: active
 title: Ruben Gonzalez
+birth_date: '1919-05-26'
+death_date: '2003-12-08'
+artist_type: person
 ---
 
 ![](ruben_gonzalez.jpg)

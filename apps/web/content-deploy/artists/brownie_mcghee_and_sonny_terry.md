@@ -3,46 +3,54 @@ biography_enhanced_at: '2026-02-26T01:20:05.862319'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:20:05.862331'
 external_urls:
-  spotify: https://open.spotify.com/artist/3Z1HcZFpzCwlURj4BG8WpB
-  wikipedia: https://en.wikipedia.org/wiki/Sonny_Terry
+  spotify: 'https://open.spotify.com/artist/3Z1HcZFpzCwlURj4BG8WpB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonny_Terry'
 genres:
-- blues
-image_path: 03_Resources/source_material/ArtistPortraits/brownie_mcghee_and_sonny_terry.jpg
+  - blues
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/brownie_mcghee_and_sonny_terry.jpg
 last_updated: '2026-02-26T01:20:05.862333'
 musical_connections:
   collaborators:
-  - Woody Guthrie
-  - Leadbelly (Huddie Leadbetter)
-  - Pete Seeger
-  - Big Bill Broonzy
-  - Blind Gary Davis
-  - Mississippi John Hurt
-  - Moe Asch
+    - Woody Guthrie
+    - Leadbelly (Huddie Leadbetter)
+    - Pete Seeger
+    - Big Bill Broonzy
+    - Blind Gary Davis
+    - Mississippi John Hurt
+    - Moe Asch
   influenced:
-  - British blues musicians and audiences
+    - British blues musicians and audiences
   mentors:
-  - Blind Boy Fuller
-  - John Hammond
+    - Blind Boy Fuller
+    - John Hammond
 network_extracted: true
-origin: Greensboro, Georgia, United States (Sonny Terry birthplace) / Tennessee, United
-  States (Brownie McGhee birthplace)
+origin: >-
+  Greensboro, Georgia, United States (Sonny Terry birthplace) / Tennessee,
+  United States (Brownie McGhee birthplace)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sonny_Terry
-- https://www.culturalequity.org/alan-lomax/friends/terry
-- https://www.britannica.com/biography/Sonny-Terry
-- https://en.wikipedia.org/wiki/Brownie_McGhee
-- https://www.allaboutjazz.com/musicians/sonny-terry-and-brownie-mcghee/
-- https://franklycurious.com/wp/2017/12/27/brownie-mcghee-sonny-terry/
-- https://earlyblues.org/british-blues-articles-and-essays-sonny-terry-brownie-mcghee/
-- https://studsterkel.wfmt.com/programs/brownie-mcghee-and-sonny-terry-discuss-their-careers-blues-musicians-0
+  - 'https://en.wikipedia.org/wiki/Sonny_Terry'
+  - 'https://www.culturalequity.org/alan-lomax/friends/terry'
+  - 'https://www.britannica.com/biography/Sonny-Terry'
+  - 'https://en.wikipedia.org/wiki/Brownie_McGhee'
+  - 'https://www.allaboutjazz.com/musicians/sonny-terry-and-brownie-mcghee/'
+  - 'https://franklycurious.com/wp/2017/12/27/brownie-mcghee-sonny-terry/'
+  - >-
+    https://earlyblues.org/british-blues-articles-and-essays-sonny-terry-brownie-mcghee/
+  - >-
+    https://studsterkel.wfmt.com/programs/brownie-mcghee-and-sonny-terry-discuss-their-careers-blues-musicians-0
 spotify_data:
   followers: 446
   id: 3Z1HcZFpzCwlURj4BG8WpB
   popularity: 1
-  url: https://open.spotify.com/artist/3Z1HcZFpzCwlURj4BG8WpB
+  url: 'https://open.spotify.com/artist/3Z1HcZFpzCwlURj4BG8WpB'
 status: active
-title: brownie mcghee & sonny terry
+title: Brownie McGhee & Sonny Terry
+birth_place: 'Greensboro, Georgia, United States'
+birth_date: '1915'
+death_date: '1996'
+artist_type: band
 ---
 
 ![](brownie_mcghee_and_sonny_terry.jpg)

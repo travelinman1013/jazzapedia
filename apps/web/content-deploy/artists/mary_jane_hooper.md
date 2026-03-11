@@ -1,12 +1,12 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-30T01:18:38.362128'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:18:38.362136'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6d728c14-60be-41ca-8dc8-37a2b75ec644
-  spotify: https://open.spotify.com/artist/3I44vrVBXPqMTiY0Z5SkQm
+  musicbrainz: 'https://musicbrainz.org/artist/6d728c14-60be-41ca-8dc8-37a2b75ec644'
+  spotify: 'https://open.spotify.com/artist/3I44vrVBXPqMTiY0Z5SkQm'
   wikipedia: ''
 gender: Female
 genres: []
@@ -14,35 +14,39 @@ image_path: 03_Resources/source_material/ArtistPortraits/mary_jane_hooper.jpg
 last_updated: '2026-01-30T01:18:38.362137'
 musical_connections:
   collaborators:
-  - Inez Cheatham
-  - Mercedes Morris
-  - James Black
-  - Eddie Bo
+    - Inez Cheatham
+    - Mercedes Morris
+    - James Black
+    - Eddie Bo
   influenced: []
   mentors:
-  - Allen Toussaint
-  - Eddie Bo
+    - Allen Toussaint
+    - Eddie Bo
 musicbrainz_id: 6d728c14-60be-41ca-8dc8-37a2b75ec644
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/mary-jane-hooper-mn0000208070
-- https://homeofthegroove.blogspot.com/2008/12/mary-jane-by-any-other-name.html
-- http://dereksdaily45.blogspot.com/2009/01/mary-jane-hooper-ive-got-reasons.html
-- https://www.soundsvisualradio.com/podcast/episode-175-sena-fletcher-mary-jane-hooper/
-- https://shows.acast.com/trick-bag/episodes/011-maryjanehooper
-- https://www.osirispod.com/podcasts/trick-bag-with-neil-the-night-howler/trick-bag-with-neil-the-night-howler-011-mary-jane-hooper/
+  - 'https://www.allmusic.com/artist/mary-jane-hooper-mn0000208070'
+  - >-
+    https://homeofthegroove.blogspot.com/2008/12/mary-jane-by-any-other-name.html
+  - >-
+    http://dereksdaily45.blogspot.com/2009/01/mary-jane-hooper-ive-got-reasons.html
+  - >-
+    https://www.soundsvisualradio.com/podcast/episode-175-sena-fletcher-mary-jane-hooper/
+  - 'https://shows.acast.com/trick-bag/episodes/011-maryjanehooper'
+  - >-
+    https://www.osirispod.com/podcasts/trick-bag-with-neil-the-night-howler/trick-bag-with-neil-the-night-howler-011-mary-jane-hooper/
 spotify_data:
   followers: 3502
   id: 3I44vrVBXPqMTiY0Z5SkQm
   popularity: 17
-  url: https://open.spotify.com/artist/3I44vrVBXPqMTiY0Z5SkQm
+  url: 'https://open.spotify.com/artist/3I44vrVBXPqMTiY0Z5SkQm'
 status: active
 tags:
-- funk
-- r&b
-- soul
-title: mary jane hooper
+  - funk
+  - r&b
+  - soul
+title: Mary Jane Hooper
 ---
 
 ![](mary_jane_hooper.jpg)

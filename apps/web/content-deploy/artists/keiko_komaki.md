@@ -1,18 +1,18 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0fc783d7-cbbe-4929-825f-d284ce6c1a8b
-  name: Playing For Change Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0fc783d7-cbbe-4929-825f-d284ce6c1a8b
+    name: Playing For Change Band
 biography_enhanced_at: '2026-02-15T01:55:34.548260'
-birth_place: Kagoshima
+birth_place: 'Kagoshima, Kagoshima Prefecture, Japan'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:55:34.548266'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/160f9948-0de4-4866-9e07-72cc8d5a2041
-  spotify: https://open.spotify.com/artist/0RIuUgMp8GDvjbdODDMcOi
+  musicbrainz: 'https://musicbrainz.org/artist/160f9948-0de4-4866-9e07-72cc8d5a2041'
+  spotify: 'https://open.spotify.com/artist/0RIuUgMp8GDvjbdODDMcOi'
   wikipedia: ''
 gender: Female
 genres: []
@@ -20,35 +20,36 @@ image_path: 03_Resources/source_material/ArtistPortraits/keiko_komaki.jpg
 last_updated: '2026-02-15T01:55:34.548266'
 musical_connections:
   collaborators:
-  - Marva Wright
-  - Benny Turner
-  - Vasti Jackson
-  - Charlie Wooton
-  - George Porter Jr.
-  - Playing for Change Band
-  - Marc Stone
-  - June Yamagishi and Donald MaGee
+    - Marva Wright
+    - Benny Turner
+    - Vasti Jackson
+    - Charlie Wooton
+    - George Porter Jr.
+    - Playing for Change Band
+    - Marc Stone
+    - June Yamagishi and Donald MaGee
   influenced: []
   mentors:
-  - Aunt (unnamed)
-  - Benny Turner
-  - Marva Wright
+    - Aunt (unnamed)
+    - Benny Turner
+    - Marva Wright
 musicbrainz_id: 160f9948-0de4-4866-9e07-72cc8d5a2041
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.keikokomakimusic.com/biography
-- https://legacy.playingforchange.com/musicians/keiko-komaki/
-- https://www.keikokomakimusic.com
-- https://www.gigsalad.com/keiko_komaki_music_new_orlean
-- https://www.nps.gov/planyourvisit/event-details.htm?id=50149E00-DCA3-EF6A-ECEBBBA313C8C0DC
-- https://www.neworleans.com/listing/keiko-komaki/46447/
-- https://www.offbeat.com/articles/my-music-keiko-komaki/
+  - 'https://www.keikokomakimusic.com/biography'
+  - 'https://legacy.playingforchange.com/musicians/keiko-komaki/'
+  - 'https://www.keikokomakimusic.com'
+  - 'https://www.gigsalad.com/keiko_komaki_music_new_orlean'
+  - >-
+    https://www.nps.gov/planyourvisit/event-details.htm?id=50149E00-DCA3-EF6A-ECEBBBA313C8C0DC
+  - 'https://www.neworleans.com/listing/keiko-komaki/46447/'
+  - 'https://www.offbeat.com/articles/my-music-keiko-komaki/'
 spotify_data:
   followers: 90
   id: 0RIuUgMp8GDvjbdODDMcOi
   popularity: 0
-  url: https://open.spotify.com/artist/0RIuUgMp8GDvjbdODDMcOi
+  url: 'https://open.spotify.com/artist/0RIuUgMp8GDvjbdODDMcOi'
 status: active
 title: Keiko Komaki
 ---

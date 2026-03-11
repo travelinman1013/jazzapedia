@@ -1,81 +1,84 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1967'
-  end: ''
-  instruments:
+  - begin: '1967'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - guitar
+      - lead vocals
+      - mandolin
+      - original
+    mbid: 8c90ad8c-9150-4c51-a1eb-342232e99d06
+    name: The Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 48466d05-11b8-4b8e-b33b-8d9755c35493
+    name: Levon Helm & The Hawks
+biography_enhanced_at: '2026-02-01T01:32:45.026057'
+birth_date: '1940-05-26'
+birth_place: 'Elaine, Phillips County, Arkansas, United States'
+death_date: '2012-04-19'
+enhancement_provider: perplexity
+entry_created: '2026-02-01T01:32:45.026063'
+external_urls:
+  musicbrainz: 'https://musicbrainz.org/artist/392baa89-ea47-4de6-8dc0-fdac3ec85509'
+  spotify: 'https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Levon_Helm'
+gender: Male
+genres:
+  - americana
+  - roots rock
+  - folk
+  - alt country
+image_path: 03_Resources/source_material/ArtistPortraits/levon_helm.jpg
+instruments:
   - drums (drum set)
   - guitar
   - lead vocals
   - mandolin
   - original
-  mbid: 8c90ad8c-9150-4c51-a1eb-342232e99d06
-  name: The Band
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 48466d05-11b8-4b8e-b33b-8d9755c35493
-  name: Levon Helm & The Hawks
-biography_enhanced_at: '2026-02-01T01:32:45.026057'
-birth_date: '1940-05-26'
-birth_place: Elaine
-death_date: '2012-04-19'
-enhancement_provider: perplexity
-entry_created: '2026-02-01T01:32:45.026063'
-external_urls:
-  musicbrainz: https://musicbrainz.org/artist/392baa89-ea47-4de6-8dc0-fdac3ec85509
-  spotify: https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9
-  wikipedia: https://en.wikipedia.org/wiki/Levon_Helm
-gender: Male
-genres:
-- americana
-- roots rock
-- folk
-- alt country
-image_path: 03_Resources/source_material/ArtistPortraits/levon_helm.jpg
-instruments:
-- drums (drum set)
-- guitar
-- lead vocals
-- mandolin
-- original
-- eponymous
-- electric guitar
-- acoustic guitar
-- 12 string guitar
-- background vocals
+  - electric guitar
+  - acoustic guitar
+  - 12 string guitar
+  - background vocals
 last_updated: '2026-02-01T01:32:45.026063'
 musical_connections:
   collaborators:
-  - Ronnie Hawkins
-  - The Band members (Robbie Robertson, Garth Hudson, Richard Manuel, Rick Danko)
-  - Bob Dylan
-  - Garth Hudson, Elvis Costello, Emmylou Harris
+    - Ronnie Hawkins
+    - >-
+      The Band members (Robbie Robertson, Garth Hudson, Richard Manuel, Rick
+      Danko)
+    - Bob Dylan
+    - 'Garth Hudson, Elvis Costello, Emmylou Harris'
   influenced:
-  - Midnight Ramble participants (e.g., Dr. John, Mavis Staples)
+    - 'Midnight Ramble participants (e.g., Dr. John, Mavis Staples)'
   mentors:
-  - Bill Monroe
-  - Sonny Boy Williamson
-  - F.S. Walcott traveling tent show drummers
+    - Bill Monroe
+    - Sonny Boy Williamson
+    - F.S. Walcott traveling tent show drummers
 musicbrainz_id: 392baa89-ea47-4de6-8dc0-fdac3ec85509
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arkansasheritage.com/arkansas-register/levon-helm-boyhood-home
-- https://levonhelm.com/about
-- https://en.wikipedia.org/wiki/Levon_Helm
-- https://www.arkansas.com/articles/arkansas-musical-legends-levon-helm
+  - 'https://www.arkansasheritage.com/arkansas-register/levon-helm-boyhood-home'
+  - 'https://levonhelm.com/about'
+  - 'https://en.wikipedia.org/wiki/Levon_Helm'
+  - 'https://www.arkansas.com/articles/arkansas-musical-legends-levon-helm'
 spotify_data:
   followers: 152630
   id: 1PWHsS9haruM3AEebZuGs9
   popularity: 41
-  url: https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9
+  url: 'https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9'
 status: active
 tags:
-- folk
-- rock
+  - folk
+  - rock
 title: Levon Helm
+is_active: false
 ---
 
 ![](levon_helm.jpg)

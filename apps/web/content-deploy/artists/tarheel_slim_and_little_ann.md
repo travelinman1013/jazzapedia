@@ -3,39 +3,43 @@ biography_enhanced_at: '2026-02-24T01:46:00.649825'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:46:00.649835'
 external_urls:
-  spotify: https://open.spotify.com/artist/5VPg31thCEx2JnSTLi7N3f
-  wikipedia: https://en.wikipedia.org/wiki/Tarheel_Slim
+  spotify: 'https://open.spotify.com/artist/5VPg31thCEx2JnSTLi7N3f'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tarheel_Slim'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/tarheel_slim_and_little_ann.jpg
 last_updated: '2026-02-24T01:46:00.649837'
 musical_connections:
   collaborators:
-  - Anna Lee 'Little Ann' Sandford
-  - Jimmy Spruill
-  - The Larks (group members including Thermon Ruth)
+    - Anna Lee 'Little Ann' Sandford
+    - Jimmy Spruill
+    - The Larks (group members including Thermon Ruth)
   influenced: []
   mentors:
-  - Thermon Ruth
+    - Thermon Ruth
 network_extracted: true
-origin: Bailey, North Carolina, USA
+origin: 'Bailey, North Carolina, USA'
 primary_source: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2017/09/tarheel-slim-born-24-september-1923.html
-- https://en.wikipedia.org/wiki/Tarheel_Slim
-- https://kids.kiddle.co/Tarheel_Slim
-- https://seven45rpm.com/2015/03/05/tarheel-slim-number-9-train-wildcat-tamer/
-- https://www.thecurrent.org/feature/2025/09/26/classic-americana-tarheel-slim
-- https://sundayblues.org/wp-content/uploads/2018/09/BR286-Tarheel-Slim-1.pdf
-- https://www.iheart.com/artist/tarheel-slim-and-little-ann-102724/
-- https://peterblowry.com/2015/05/26/trix-3310-tarheel-slim-no-time-at-all/
-- https://thehoundnyc.com/2010/04/25/tarheel-slim-allen-bunn/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2017/09/tarheel-slim-born-24-september-1923.html
+  - 'https://en.wikipedia.org/wiki/Tarheel_Slim'
+  - 'https://kids.kiddle.co/Tarheel_Slim'
+  - 'https://seven45rpm.com/2015/03/05/tarheel-slim-number-9-train-wildcat-tamer/'
+  - 'https://www.thecurrent.org/feature/2025/09/26/classic-americana-tarheel-slim'
+  - 'https://sundayblues.org/wp-content/uploads/2018/09/BR286-Tarheel-Slim-1.pdf'
+  - 'https://www.iheart.com/artist/tarheel-slim-and-little-ann-102724/'
+  - 'https://peterblowry.com/2015/05/26/trix-3310-tarheel-slim-no-time-at-all/'
+  - 'https://thehoundnyc.com/2010/04/25/tarheel-slim-allen-bunn/'
 spotify_data:
   followers: 87
   id: 5VPg31thCEx2JnSTLi7N3f
   popularity: 0
-  url: https://open.spotify.com/artist/5VPg31thCEx2JnSTLi7N3f
+  url: 'https://open.spotify.com/artist/5VPg31thCEx2JnSTLi7N3f'
 status: active
 title: Tarheel Slim and Little Ann
+birth_place: 'Bailey, North Carolina, United States'
+birth_date: '1923-09-24'
+artist_type: band
 ---
 
 ![](tarheel_slim_and_little_ann.jpg)

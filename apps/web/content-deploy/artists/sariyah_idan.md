@@ -1,42 +1,45 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-27T01:48:54.426253'
-birth_place: New York
+birth_place: 'New York, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:48:54.426263'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8132c104-cd6a-4df6-aa7a-137e66751f92
-  spotify: https://open.spotify.com/artist/2Mlll4B8pr2pmZXmy1S5P0
+  musicbrainz: 'https://musicbrainz.org/artist/8132c104-cd6a-4df6-aa7a-137e66751f92'
+  spotify: 'https://open.spotify.com/artist/2Mlll4B8pr2pmZXmy1S5P0'
   wikipedia: ''
 gender: Female
 genres:
-- native american music
-- indie jazz
+  - native american music
+  - indie jazz
 image_path: 03_Resources/source_material/ArtistPortraits/sariyah_idan.jpg
 last_updated: '2026-01-27T01:48:54.426265'
 musical_connections:
   collaborators:
-  - Pete Seeger
-  - Lee “Scratch” Perry
-  - Yusef Lateef
+    - Pete Seeger
+    - Lee “Scratch” Perry
+    - Yusef Lateef
   influenced: []
   mentors: []
 musicbrainz_id: 8132c104-cd6a-4df6-aa7a-137e66751f92
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.musicmetricsvault.com/artists/sariyah-idan/2Mlll4B8pr2pmZXmy1S5P0
-- https://www.sariyahidan.com/epk
-- https://www.louisianalife.com/local-events/?_evDiscoveryPath=%2Fevent%2F107182567n-sariyah-idan
-- https://www.eastportlandblog.com/2019/10/13/sariyah-idan-breaking-shadows/
-- https://www.broadwayworld.com/bwwmusic/article/Songstress-Sariyah-Idan-Unveils-Breaking-Shadows-20191023
-- https://www.sariyahidan.com/video
-- https://crescentcitysounds.org/artists/sariyah-idan
+  - >-
+    https://www.musicmetricsvault.com/artists/sariyah-idan/2Mlll4B8pr2pmZXmy1S5P0
+  - 'https://www.sariyahidan.com/epk'
+  - >-
+    https://www.louisianalife.com/local-events/?_evDiscoveryPath=%2Fevent%2F107182567n-sariyah-idan
+  - 'https://www.eastportlandblog.com/2019/10/13/sariyah-idan-breaking-shadows/'
+  - >-
+    https://www.broadwayworld.com/bwwmusic/article/Songstress-Sariyah-Idan-Unveils-Breaking-Shadows-20191023
+  - 'https://www.sariyahidan.com/video'
+  - 'https://crescentcitysounds.org/artists/sariyah-idan'
 spotify_data:
   followers: 790
   id: 2Mlll4B8pr2pmZXmy1S5P0
   popularity: 12
-  url: https://open.spotify.com/artist/2Mlll4B8pr2pmZXmy1S5P0
+  url: 'https://open.spotify.com/artist/2Mlll4B8pr2pmZXmy1S5P0'
 status: active
 title: Sariyah Idan
 ---

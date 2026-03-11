@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-09T01:23:30.666689'
-birth_place: Essex (born), Devon (raised), England
+birth_place: 'Essex, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:23:30.666698'
 external_urls:
-  spotify: https://open.spotify.com/artist/2aNSLswil0DmMEtpKyAQV9
+  spotify: 'https://open.spotify.com/artist/2aNSLswil0DmMEtpKyAQV9'
   wikipedia: ''
 genres:
-- spoken word
-image_path: 03_Resources/source_material/ArtistPortraits/john_smith_lisa_hannigan_the_staves.jpg
+  - spoken word
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/john_smith_lisa_hannigan_the_staves.jpg
 last_updated: '2026-02-09T01:23:30.666700'
 musical_connections:
   collaborators:
-  - Lisa Hannigan
-  - The Staves (Jessica Staveley-Taylor)
-  - Sarah Jarosz
-  - Sam Lakeman
-  - Bill Frisell
+    - Lisa Hannigan
+    - The Staves (Jessica Staveley-Taylor)
+    - Sarah Jarosz
+    - Sam Lakeman
+    - Bill Frisell
   influenced: []
   mentors:
-  - John Martyn
-  - Richard Thompson
+    - John Martyn
+    - Richard Thompson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.iowasource.com/2023/06/08/john-smith/
-- https://americana-uk.com/john-smith-gatherings
-- https://klofmag.com/2025/10/john-smith-gatherings/
-- https://theglasshouseicm.org/whats-on/john-smith-2024/
-- https://www.kingsplace.co.uk/whats-on/folk/john-smith/
-- https://folkalley.com/basic-folk-podcast-eps-271-john-smith/
-- https://listeningthroughthelens.com/2021/03/21/john-smith-new-release-2/
-- https://www.youtube.com/watch?v=PEgDpgWpaOM
+  - 'https://www.iowasource.com/2023/06/08/john-smith/'
+  - 'https://americana-uk.com/john-smith-gatherings'
+  - 'https://klofmag.com/2025/10/john-smith-gatherings/'
+  - 'https://theglasshouseicm.org/whats-on/john-smith-2024/'
+  - 'https://www.kingsplace.co.uk/whats-on/folk/john-smith/'
+  - 'https://folkalley.com/basic-folk-podcast-eps-271-john-smith/'
+  - 'https://listeningthroughthelens.com/2021/03/21/john-smith-new-release-2/'
+  - 'https://www.youtube.com/watch?v=PEgDpgWpaOM'
 spotify_data:
   followers: 591
   id: 2aNSLswil0DmMEtpKyAQV9
   popularity: 17
-  url: https://open.spotify.com/artist/2aNSLswil0DmMEtpKyAQV9
+  url: 'https://open.spotify.com/artist/2aNSLswil0DmMEtpKyAQV9'
 status: active
-title: John Smith, Lisa Hannigan, The Staves
+title: John Smith
+artist_type: person
 ---
 
 ![](john_smith_lisa_hannigan_the_staves.jpg)

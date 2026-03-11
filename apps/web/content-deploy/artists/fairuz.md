@@ -1,41 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-25T02:05:18.725689'
-birth_place: Beirut, Lebanon
+birth_place: 'Beirut, Lebanon, Lebanon'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:05:18.725698'
 external_urls:
-  spotify: https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV
+  spotify: 'https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/fairuz.jpg
 last_updated: '2026-02-25T02:05:18.725699'
 musical_connections:
   collaborators:
-  - Assi Rahbani
-  - Mansour Rahbani
-  - Rima Al Rahbani
+    - Assi Rahbani
+    - Mansour Rahbani
+    - Rima Al Rahbani
   influenced:
-  - Ziad Rahbani
+    - Ziad Rahbani
   mentors:
-  - Muhammad Fleifel
-  - Halim El-Roumi
+    - Muhammad Fleifel
+    - Halim El-Roumi
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Fairuz
-- https://www.aub.edu.lb/doctorates/recipients/Pages/fairuz-profile.aspx
-- https://www.vintagebeirut.com/lebanese-entertainers/fairuz-nouhad-haddad/
-- https://salamlab.pl/fairuz-the-lebanese-voice-of-hope/
-- https://aljadid.com/content/fairouz-voice-star-mystery
-- https://www.fairuzonline.com/alegend.htm
-- https://goldenthread.org/posts/fairuz/
+  - 'https://www.britannica.com/biography/Fairuz'
+  - 'https://www.aub.edu.lb/doctorates/recipients/Pages/fairuz-profile.aspx'
+  - 'https://www.vintagebeirut.com/lebanese-entertainers/fairuz-nouhad-haddad/'
+  - 'https://salamlab.pl/fairuz-the-lebanese-voice-of-hope/'
+  - 'https://aljadid.com/content/fairouz-voice-star-mystery'
+  - 'https://www.fairuzonline.com/alegend.htm'
+  - 'https://goldenthread.org/posts/fairuz/'
 spotify_data:
   followers: 3550275
   id: 0dwFxqYkvZLSA6U6XfQcDV
   popularity: 62
-  url: https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV
+  url: 'https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV'
 status: active
-title: FAIRUZ
+title: Fairuz
+artist_type: person
 ---
 
 ![](fairuz.jpg)

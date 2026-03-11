@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-28T01:57:26.448867'
-birth_place: Metairie, Louisiana, United States
+birth_place: 'Metairie, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:57:26.448875'
 external_urls:
-  spotify: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
-  wikipedia: https://en.wikipedia.org/wiki/Jon_Batiste
+  spotify: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jon_Batiste'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jonathan_batiste.jpg
 last_updated: '2026-01-28T01:57:26.448877'
 musical_connections:
   collaborators:
-  - Phil Kuehn
-  - Joe Saylor
-  - Eddie Barbash
-  - Batiste Brothers Band (family including father)
-  - Stephen Colbert
+    - Phil Kuehn
+    - Joe Saylor
+    - Eddie Barbash
+    - Batiste Brothers Band (family including father)
+    - Stephen Colbert
   influenced: []
   mentors:
-  - Shirley Herstein
-  - William Daghlian
+    - Shirley Herstein
+    - William Daghlian
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Jon-Batiste
-- https://en.wikipedia.org/wiki/Jon_Batiste
-- https://www.allaboutjazz.com/musicians/jon-batiste/
-- https://www.bso.org/profiles/jon-batiste
-- https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/jon-batiste
+  - 'https://www.britannica.com/biography/Jon-Batiste'
+  - 'https://en.wikipedia.org/wiki/Jon_Batiste'
+  - 'https://www.allaboutjazz.com/musicians/jon-batiste/'
+  - 'https://www.bso.org/profiles/jon-batiste'
+  - >-
+    https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/jon-batiste
 spotify_data:
   followers: 635712
   id: 0eRbECAGCLLiTyVXPBRexU
   popularity: 60
-  url: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
+  url: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
 status: active
 title: Jonathan Batiste
+birth_date: '1986-11-11'
+artist_type: person
 ---
 
 ![](jonathan_batiste.jpg)

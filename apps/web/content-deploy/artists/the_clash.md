@@ -1,108 +1,109 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-30T01:16:48.255106'
 birth_date: '1976'
 disambiguation: 70s–80s British punk rock band
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:16:48.255116'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8f92558c-2baa-4758-8c38-615519e9deda
-  spotify: https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS
+  musicbrainz: 'https://musicbrainz.org/artist/8f92558c-2baa-4758-8c38-615519e9deda'
+  spotify: 'https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS'
   wikipedia: Not provided in search results
 genres:
-- punk
+  - punk
 image_path: 03_Resources/source_material/ArtistPortraits/the_clash.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-01-30T01:16:48.255117'
 members:
-- begin: '1976'
-  end: '1977'
-  instruments: []
-  mbid: 899a92fe-7ee5-4bc4-9628-0eff26df09e5
-  name: Terry Chimes
-- begin: '1976'
-  end: '1983'
-  instruments: []
-  mbid: 01f8343c-06e2-4f05-a137-f8ea7efa85c4
-  name: Mick Jones
-- begin: '1976'
-  end: '1986'
-  instruments: []
-  mbid: 64c43453-f396-42b1-bff5-01644d710d94
-  name: Paul Simonon
-- begin: '1976'
-  end: '1986'
-  instruments: []
-  mbid: af4ea2a3-c54d-40b4-8120-a1f0b838ad54
-  name: Joe Strummer
-- begin: '1977'
-  end: '1982'
-  instruments: []
-  mbid: 19237b9f-2457-4eec-99f5-3166fc73fb4d
-  name: Topper Headon
-- begin: '1982'
-  end: '1983'
-  instruments: []
-  mbid: 899a92fe-7ee5-4bc4-9628-0eff26df09e5
-  name: Terry Chimes
-- begin: '1983'
-  end: '1985'
-  instruments: []
-  mbid: 2d2d9c00-2e78-4ead-857a-ecbb9e765d6e
-  name: Pete Howard
-- begin: '1983'
-  end: '1986'
-  instruments:
-  - guitar
-  mbid: 0af4c74b-ed09-4845-bb84-293695130bbf
-  name: Nick Sheppard
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 23076ae4-ac76-4468-95fc-d8bae9e70f0a
-  name: Keith Levene
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eecb415e-ac2a-4f86-b060-d47727277b21
-  name: Vince White
+  - begin: '1976'
+    end: '1977'
+    instruments: []
+    mbid: 899a92fe-7ee5-4bc4-9628-0eff26df09e5
+    name: Terry Chimes
+  - begin: '1976'
+    end: '1983'
+    instruments: []
+    mbid: 01f8343c-06e2-4f05-a137-f8ea7efa85c4
+    name: Mick Jones
+  - begin: '1976'
+    end: '1986'
+    instruments: []
+    mbid: 64c43453-f396-42b1-bff5-01644d710d94
+    name: Paul Simonon
+  - begin: '1976'
+    end: '1986'
+    instruments: []
+    mbid: af4ea2a3-c54d-40b4-8120-a1f0b838ad54
+    name: Joe Strummer
+  - begin: '1977'
+    end: '1982'
+    instruments: []
+    mbid: 19237b9f-2457-4eec-99f5-3166fc73fb4d
+    name: Topper Headon
+  - begin: '1982'
+    end: '1983'
+    instruments: []
+    mbid: 899a92fe-7ee5-4bc4-9628-0eff26df09e5
+    name: Terry Chimes
+  - begin: '1983'
+    end: '1985'
+    instruments: []
+    mbid: 2d2d9c00-2e78-4ead-857a-ecbb9e765d6e
+    name: Pete Howard
+  - begin: '1983'
+    end: '1986'
+    instruments:
+      - guitar
+    mbid: 0af4c74b-ed09-4845-bb84-293695130bbf
+    name: Nick Sheppard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 23076ae4-ac76-4468-95fc-d8bae9e70f0a
+    name: Keith Levene
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eecb415e-ac2a-4f86-b060-d47727277b21
+    name: Vince White
 musical_connections:
   collaborators:
-  - Joe Strummer
-  - Mick Jones
-  - Paul Simonon
-  - Topper Headon
+    - Joe Strummer
+    - Mick Jones
+    - Paul Simonon
+    - Topper Headon
   influenced:
-  - Sex Pistols
-  - The Ramones
-  - The Damned
-  - Modern alternative music artists
+    - Sex Pistols
+    - The Ramones
+    - The Damned
+    - Modern alternative music artists
   mentors:
-  - Bernie Rhodes
-  - Junior Murvin
+    - Bernie Rhodes
+    - Junior Murvin
 musicbrainz_id: 8f92558c-2baa-4758-8c38-615519e9deda
 network_extracted: true
-origin: London
+origin: 'London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://www.ohjeanrecords.com/blogs/news/the-clash-biography
-- https://www.youtube.com/watch?v=rxXLB3cDob8
-- https://teachrock.org/people/clash/
-- https://www.theclash.com/biography/
-- https://www.britannica.com/topic/the-Clash-British-rock-group
-- https://rockhall.com/inductees/clash/
+  - 'https://www.ohjeanrecords.com/blogs/news/the-clash-biography'
+  - 'https://www.youtube.com/watch?v=rxXLB3cDob8'
+  - 'https://teachrock.org/people/clash/'
+  - 'https://www.theclash.com/biography/'
+  - 'https://www.britannica.com/topic/the-Clash-British-rock-group'
+  - 'https://rockhall.com/inductees/clash/'
 spotify_data:
   followers: 3312038
   id: 3RGLhK1IP9jnYFH4BRFJBS
   popularity: 74
-  url: https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS
+  url: 'https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS'
 status: active
 tags:
-- british
-- dance-punk
-- new wave
-title: the clash
+  - british
+  - dance-punk
+  - new wave
+title: The Clash
+death_date: 2002-12
 ---
 
 ![](the_clash.jpg)

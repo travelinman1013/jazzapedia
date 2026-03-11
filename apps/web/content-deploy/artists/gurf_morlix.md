@@ -2,65 +2,67 @@
 artist_type: person
 biography_enhanced_at: '2026-02-23T03:04:10.780218'
 birth_date: '1951'
-birth_place: Lackawanna
+birth_place: 'Lackawanna, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:04:10.780227'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6ae9e9cc-e60f-48d3-9d0e-e0391952fa12
-  spotify: https://open.spotify.com/artist/6ojLnwwSb9VwXV4b1iAw5X
+  musicbrainz: 'https://musicbrainz.org/artist/6ae9e9cc-e60f-48d3-9d0e-e0391952fa12'
+  spotify: 'https://open.spotify.com/artist/6ojLnwwSb9VwXV4b1iAw5X'
   wikipedia: ''
 gender: Male
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/gurf_morlix.jpg
 instruments:
-- acoustic guitar
-- bass guitar
-- electric guitar
-- lap steel guitar
-- pedal steel guitar
-- resonator guitar
-- guitar
-- slide guitar
-- 12 string guitar
-- electric bass guitar
-- background vocals
+  - acoustic guitar
+  - bass guitar
+  - electric guitar
+  - lap steel guitar
+  - pedal steel guitar
+  - resonator guitar
+  - guitar
+  - slide guitar
+  - 12 string guitar
+  - electric bass guitar
+  - background vocals
 last_updated: '2026-02-23T03:04:10.780229'
 musical_connections:
   collaborators:
-  - Lucinda Williams
-  - Ray Wylie Hubbard
-  - Mary Gauthier
-  - Slaid Cleaves
-  - Robert Earl Keen
-  - Ian McLagan
-  - Warren Zevon
+    - Lucinda Williams
+    - Ray Wylie Hubbard
+    - Mary Gauthier
+    - Slaid Cleaves
+    - Robert Earl Keen
+    - Ian McLagan
+    - Warren Zevon
   influenced: []
   mentors:
-  - Blaze Foley
-  - Townes Van Zandt
-  - Guy Clark
+    - Blaze Foley
+    - Townes Van Zandt
+    - Guy Clark
 musicbrainz_id: 6ae9e9cc-e60f-48d3-9d0e-e0391952fa12
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.gurfmorlix.com/bio/
-- https://www.sportsmensamf.org/gurf-morlix-is-a-caveman/
-- https://twangville.com/2026/01/14/gurf-morlix-crafting-songs-that-outlast-time/
-- https://tapeop.com/interviews/76/gurf-morlix
-- https://www.flemingartists.com/gm.html
-- https://nodepression.org/gurf-morlix-get-to-know-him/
-- https://www.robertchristgau.com/get_artist.php?name=Gurf+Morlix
+  - 'https://www.gurfmorlix.com/bio/'
+  - 'https://www.sportsmensamf.org/gurf-morlix-is-a-caveman/'
+  - >-
+    https://twangville.com/2026/01/14/gurf-morlix-crafting-songs-that-outlast-time/
+  - 'https://tapeop.com/interviews/76/gurf-morlix'
+  - 'https://www.flemingartists.com/gm.html'
+  - 'https://nodepression.org/gurf-morlix-get-to-know-him/'
+  - 'https://www.robertchristgau.com/get_artist.php?name=Gurf+Morlix'
 spotify_data:
   followers: 10114
   id: 6ojLnwwSb9VwXV4b1iAw5X
   popularity: 18
-  url: https://open.spotify.com/artist/6ojLnwwSb9VwXV4b1iAw5X
+  url: 'https://open.spotify.com/artist/6ojLnwwSb9VwXV4b1iAw5X'
 status: active
 tags:
-- roots
+  - roots
 title: Gurf Morlix
+origin: 'Austin, Texas, United States'
 ---
 
 ![](gurf_morlix.jpg)

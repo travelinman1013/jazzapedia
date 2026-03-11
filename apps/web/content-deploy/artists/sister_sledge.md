@@ -1,77 +1,80 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-10T01:58:49.649699'
-birth_date: '1971'
+birth_date: '1959-01-06'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:58:49.649705'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1ed00158-c6a3-45cd-819c-2f91997fc480
-  spotify: https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays
-  wikipedia: https://en.wikipedia.org/wiki/Sister_Sledge
+  musicbrainz: 'https://musicbrainz.org/artist/1ed00158-c6a3-45cd-819c-2f91997fc480'
+  spotify: 'https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sister_Sledge'
 genres:
-- disco
-- philly soul
+  - disco
+  - philly soul
 image_path: 03_Resources/source_material/ArtistPortraits/sister_sledge.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2026-02-10T01:58:49.649706'
 members:
-- begin: '1971'
-  end: '1989'
-  instruments: []
-  mbid: dda57f15-56af-45bb-9a63-bbb07055ece2
-  name: Kathy Sledge
-- begin: '1971'
-  end: '2017'
-  instruments: []
-  mbid: e558caff-0498-48bd-896d-36ab71dc4faf
-  name: Joni Sledge
-- &id001
-  begin: '1971'
-  end: ''
-  instruments: []
-  mbid: f3987b73-27b2-4a08-8ac7-baaba9c69a29
-  name: Debbie Sledge
-- &id002
-  begin: '1971'
-  end: ''
-  instruments: []
-  mbid: 4f36f37a-4330-42bc-a403-5bb44e208cfa
-  name: Kim Sledge
+  - begin: '1971'
+    end: '1989'
+    instruments: []
+    mbid: dda57f15-56af-45bb-9a63-bbb07055ece2
+    name: Kathy Sledge
+  - begin: '1971'
+    end: '2017'
+    instruments: []
+    mbid: e558caff-0498-48bd-896d-36ab71dc4faf
+    name: Joni Sledge
+  - &ref_0
+    begin: '1971'
+    end: ''
+    instruments: []
+    mbid: f3987b73-27b2-4a08-8ac7-baaba9c69a29
+    name: Debbie Sledge
+  - &ref_1
+    begin: '1971'
+    end: ''
+    instruments: []
+    mbid: 4f36f37a-4330-42bc-a403-5bb44e208cfa
+    name: Kim Sledge
 musical_connections:
   collaborators:
-  - Nile Rodgers and Bernard Edwards (Chic)
-  - George Duke and Narada Michael Walden
+    - Nile Rodgers and Bernard Edwards (Chic)
+    - George Duke and Narada Michael Walden
   influenced:
-  - Whitney Houston
+    - Whitney Houston
   mentors:
-  - Viola Williams
-  - Florez Sledge
+    - Viola Williams
+    - Florez Sledge
 musicbrainz_id: 1ed00158-c6a3-45cd-819c-2f91997fc480
 network_extracted: true
-origin: Philadelphia
+origin: 'Philadelphia, Pennsylvania, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sister_Sledge
-- https://www.sistersledgelive.com/about/
-- https://sistersledge.com/about/
-- https://www.britannica.com/topic/Sister-Sledge
-- https://djrobblog.com/archives/4355
-- https://jointzoftheday.substack.com/p/kathy-sledge-born-january-6-1959-sister-sledge
+  - 'https://en.wikipedia.org/wiki/Sister_Sledge'
+  - 'https://www.sistersledgelive.com/about/'
+  - 'https://sistersledge.com/about/'
+  - 'https://www.britannica.com/topic/Sister-Sledge'
+  - 'https://djrobblog.com/archives/4355'
+  - >-
+    https://jointzoftheday.substack.com/p/kathy-sledge-born-january-6-1959-sister-sledge
 spotify_data:
   followers: 745385
   id: 6gkWznnJkdkwRPVcmnrays
   popularity: 60
-  url: https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays
+  url: 'https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays'
 status: active
 tags:
-- alliteration
-- boogie
-- dance-pop
+  - alliteration
+  - boogie
+  - dance-pop
 title: Sister Sledge
+death_date: '2017-11-24'
+birth_place: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](sister_sledge.jpg)

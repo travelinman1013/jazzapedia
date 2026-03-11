@@ -3,41 +3,45 @@ biography_enhanced_at: '2026-02-07T01:26:57.146101'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:26:57.146109'
 external_urls:
-  spotify: https://open.spotify.com/artist/3qi1dgPdQKcemqBqK5xrWh
+  spotify: 'https://open.spotify.com/artist/3qi1dgPdQKcemqBqK5xrWh'
   wikipedia: ''
 genres:
-- ragtime
-- country blues
-- traditional country
-image_path: 03_Resources/source_material/ArtistPortraits/jack_kelly_and_his_memphis_jug_band.jpg
+  - ragtime
+  - country blues
+  - traditional country
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jack_kelly_and_his_memphis_jug_band.jpg
 last_updated: '2026-02-07T01:26:57.146111'
 musical_connections:
   collaborators:
-  - Dan Sane
-  - Will Batts
-  - D.M. Higgs
-  - Frank Stokes
-  - Walter Horton
-  - Little Son Joe
-  - Joe Hill Louis
+    - Dan Sane
+    - Will Batts
+    - D.M. Higgs
+    - Frank Stokes
+    - Walter Horton
+    - Little Son Joe
+    - Joe Hill Louis
   influenced: []
   mentors: []
 network_extracted: true
-origin: Northern Mississippi (birth), Memphis, Tennessee, USA
+origin: 'Northern Mississippi (birth), Memphis, Tennessee, USA'
 primary_source: perplexity
 research_sources:
-- https://thedocumentrecordsstore.com/product/bdcd-6005/
-- https://sundayblues.org/?tag=jack-kelly-his-south-memphis-jug-band
-- https://blinddogradio.blogspot.com/2017/10/jack-kelly-his-south-memphis-jug-band.html
-- https://en.wikipedia.org/wiki/Memphis_Jug_Band
-- https://www.wirz.de/music/kellyjac.htm
+  - 'https://thedocumentrecordsstore.com/product/bdcd-6005/'
+  - 'https://sundayblues.org/?tag=jack-kelly-his-south-memphis-jug-band'
+  - >-
+    https://blinddogradio.blogspot.com/2017/10/jack-kelly-his-south-memphis-jug-band.html
+  - 'https://en.wikipedia.org/wiki/Memphis_Jug_Band'
+  - 'https://www.wirz.de/music/kellyjac.htm'
 spotify_data:
   followers: 185
   id: 3qi1dgPdQKcemqBqK5xrWh
   popularity: 0
-  url: https://open.spotify.com/artist/3qi1dgPdQKcemqBqK5xrWh
+  url: 'https://open.spotify.com/artist/3qi1dgPdQKcemqBqK5xrWh'
 status: active
-title: jack kelly & his memphis jug band
+title: Jack Kelly & His Memphis Jug Band
+birth_place: 'Northern Mississippi, United States'
+artist_type: band
 ---
 
 ![](jack_kelly_and_his_memphis_jug_band.jpg)

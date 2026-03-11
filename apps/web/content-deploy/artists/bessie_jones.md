@@ -1,44 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-10T01:52:35.953164'
-birth_place: Smithville, Georgia, USA
+birth_place: 'Smithville, Georgia, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:52:35.953172'
 external_urls:
-  spotify: https://open.spotify.com/artist/1BUnRZrkCS0NoTiXefkW6U
-  wikipedia: https://en.wikipedia.org/wiki/Bessie_Jones_(American_singer)
+  spotify: 'https://open.spotify.com/artist/1BUnRZrkCS0NoTiXefkW6U'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bessie_Jones_(American_singer)'
 genres:
-- country blues
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/bessie_jones.jpg
 last_updated: '2026-02-10T01:52:35.953173'
 musical_connections:
   collaborators:
-  - Alan Lomax
-  - Georgia Sea Island Singers
-  - Lydia Parish
-  - Big John Davis
+    - Alan Lomax
+    - Georgia Sea Island Singers
+    - Lydia Parish
+    - Big John Davis
   influenced:
-  - Georgia Sea Island Singers members and community children
+    - Georgia Sea Island Singers members and community children
   mentors:
-  - Jet Sampson
+    - Jet Sampson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.troessexmusic.com/1/writers/jones_bessie
-- https://en.wikipedia.org/wiki/Bessie_Jones_(American_singer)
-- https://www.arts.gov/honors/heritage/bessie-jones
-- https://folkalley.com/womens-history-month-spotlight-on-bessie-jones-2/
-- https://www.wkyufm.org/2022-02-18/the-african-american-folklorist-bessie-jones
-- https://daily.bandcamp.com/album-of-the-day/bessie-jones-and-the-georgia-sea-island-singers-get-in-union-review
-- https://www.pastemagazine.com/music/bessie-jones/bessie-jones-georgia-sea-island-singers
-- https://web.library.yale.edu/news/2020/03/online-exhibit-struggles-and-triumphs-bessie-jones-big-mama
-- https://www.culturalequity.org/alan-lomax/friends/jones-0
+  - 'https://www.troessexmusic.com/1/writers/jones_bessie'
+  - 'https://en.wikipedia.org/wiki/Bessie_Jones_(American_singer)'
+  - 'https://www.arts.gov/honors/heritage/bessie-jones'
+  - 'https://folkalley.com/womens-history-month-spotlight-on-bessie-jones-2/'
+  - >-
+    https://www.wkyufm.org/2022-02-18/the-african-american-folklorist-bessie-jones
+  - >-
+    https://daily.bandcamp.com/album-of-the-day/bessie-jones-and-the-georgia-sea-island-singers-get-in-union-review
+  - >-
+    https://www.pastemagazine.com/music/bessie-jones/bessie-jones-georgia-sea-island-singers
+  - >-
+    https://web.library.yale.edu/news/2020/03/online-exhibit-struggles-and-triumphs-bessie-jones-big-mama
+  - 'https://www.culturalequity.org/alan-lomax/friends/jones-0'
 spotify_data:
   followers: 7638
   id: 1BUnRZrkCS0NoTiXefkW6U
   popularity: 22
-  url: https://open.spotify.com/artist/1BUnRZrkCS0NoTiXefkW6U
+  url: 'https://open.spotify.com/artist/1BUnRZrkCS0NoTiXefkW6U'
 status: active
-title: BESSIE JONES
+title: Bessie Jones
+artist_type: person
 ---
 
 ![](bessie_jones.jpg)

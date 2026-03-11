@@ -3,45 +3,49 @@ biography_enhanced_at: '2026-02-23T03:07:21.294681'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:07:21.294689'
 external_urls:
-  spotify: https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP
+  spotify: 'https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP'
   wikipedia: ''
 genres:
-- roots reggae
-- reggae
-- rocksteady
-- dub
-- ragga
+  - roots reggae
+  - reggae
+  - rocksteady
+  - dub
+  - ragga
 image_path: 03_Resources/source_material/ArtistPortraits/gladiators.jpg
 last_updated: '2026-02-23T03:07:21.294691'
 musical_connections:
   collaborators:
-  - Clinton Fearon
-  - Gallimore Sutherland
-  - U-Roy
-  - Vivian 'Yabby U' Jackson
-  - Lee 'Scratch' Perry
+    - Clinton Fearon
+    - Gallimore Sutherland
+    - U-Roy
+    - Vivian 'Yabby U' Jackson
+    - Lee 'Scratch' Perry
   influenced:
-  - Albert Griffiths' sons (Al Jr., Anthony)
+    - 'Albert Griffiths'' sons (Al Jr., Anthony)'
   mentors:
-  - Coxone Dodd
+    - Coxone Dodd
 network_extracted: true
-origin: Kingston, Jamaica
+origin: 'Kingston, Jamaica, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/The+Gladiators/+wiki
-- https://www.youtube.com/watch?v=2aJbfP_og_I
-- https://peel.fandom.com/wiki/Gladiators
-- https://www.reggaeville.com/artist-details/the-gladiators/about/
-- https://musicbar.cz/en/novinky/legendarni-jamajska-kapela-the-gladiators-vystoupi-poprve-v-cr/
-- https://www.theaudiodb.com/artist/128301-The-Gladiators
-- https://www.jackrussellmusic.net/writers-artists/the-gladiators/
+  - 'https://www.last.fm/music/The+Gladiators/+wiki'
+  - 'https://www.youtube.com/watch?v=2aJbfP_og_I'
+  - 'https://peel.fandom.com/wiki/Gladiators'
+  - 'https://www.reggaeville.com/artist-details/the-gladiators/about/'
+  - >-
+    https://musicbar.cz/en/novinky/legendarni-jamajska-kapela-the-gladiators-vystoupi-poprve-v-cr/
+  - 'https://www.theaudiodb.com/artist/128301-The-Gladiators'
+  - 'https://www.jackrussellmusic.net/writers-artists/the-gladiators/'
 spotify_data:
   followers: 205097
   id: 3L5iYAziSDnuaHsSgbkcIP
   popularity: 45
-  url: https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP
+  url: 'https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP'
 status: active
-title: Gladiators
+title: The Gladiators
+birth_place: 'St. Elizabeth parish, Jamaica, United States'
+death_date: '2020-12-15'
+artist_type: band
 ---
 
 ![](gladiators.jpg)

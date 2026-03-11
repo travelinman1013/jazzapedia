@@ -1,44 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-22T01:48:26.437188'
-birth_place: Natick, Massachusetts, USA
+birth_place: 'Natick, Massachusetts, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:48:26.437198'
 external_urls:
-  spotify: https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz
-  wikipedia: https://en.wikipedia.org/wiki/Jonathan_Richman
+  spotify: 'https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jonathan_Richman'
 genres:
-- proto-punk
-image_path: 03_Resources/source_material/ArtistPortraits/jonathan_richman_and_the_modern_lovers.jpg
+  - proto-punk
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jonathan_richman_and_the_modern_lovers.jpg
 last_updated: '2026-02-22T01:48:26.437200'
 musical_connections:
   collaborators:
-  - Jerry Harrison
-  - David Robinson
-  - Greg 'Curly' Keranen
-  - Leroy Radcliffe
-  - Asa Brebner
+    - Jerry Harrison
+    - David Robinson
+    - Greg 'Curly' Keranen
+    - Leroy Radcliffe
+    - Asa Brebner
   influenced:
-  - Talking Heads
-  - The Cars
+    - Talking Heads
+    - The Cars
   mentors:
-  - The Velvet Underground
-  - John Cale
-  - Kim Fowley
+    - The Velvet Underground
+    - John Cale
+    - Kim Fowley
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jonathan_Richman
-- https://www.forcedexposure.com/Artists/RICHMAN.AND.THE.MODERN.LOVERS.JONATHAN.html
-- https://www.mmone.org/jonathan-richman/
-- https://thepointmag.com/criticism/no-going-back-jonathan-richman-modern-lover/
-- https://www.natickhistoricalsociety.org/jonathan-richman
+  - 'https://en.wikipedia.org/wiki/Jonathan_Richman'
+  - >-
+    https://www.forcedexposure.com/Artists/RICHMAN.AND.THE.MODERN.LOVERS.JONATHAN.html
+  - 'https://www.mmone.org/jonathan-richman/'
+  - >-
+    https://thepointmag.com/criticism/no-going-back-jonathan-richman-modern-lover/
+  - 'https://www.natickhistoricalsociety.org/jonathan-richman'
 spotify_data:
   followers: 186546
   id: 2eRdPaLHWAL4d1WcNUO9Vz
   popularity: 39
-  url: https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz
+  url: 'https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz'
 status: active
 title: Jonathan Richman and the Modern Lovers
+origin: 'Boston, Massachusetts, United States'
+birth_date: '1951-05-16'
+artist_type: band
 ---
 
 ![](jonathan_richman_and_the_modern_lovers.jpg)

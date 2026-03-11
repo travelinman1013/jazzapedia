@@ -1,48 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-27T01:37:20.505916'
-birth_place: Cleveland, Ohio, USA
+birth_place: 'Cleveland, Ohio, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:37:20.505927'
 external_urls:
-  spotify: https://open.spotify.com/artist/0v6JkAzkEJ6lCw6hAVs5VP
-  wikipedia: https://en.wikipedia.org/wiki/Wynona_Carr
+  spotify: 'https://open.spotify.com/artist/0v6JkAzkEJ6lCw6hAVs5VP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wynona_Carr'
 genres:
-- boogie-woogie
-- rockabilly
+  - boogie-woogie
+  - rockabilly
 image_path: 03_Resources/source_material/ArtistPortraits/wynona_carr.jpg
 last_updated: '2026-02-27T01:37:20.505929'
 musical_connections:
   collaborators:
-  - Brother Joe May
-  - Austin McCoy
-  - Rosetta Tharpe
-  - Marie Knight
-  - Sally Martin Singers
-  - Steve Gibson's Red Caps
-  - Art Foxhall band
+    - Brother Joe May
+    - Austin McCoy
+    - Rosetta Tharpe
+    - Marie Knight
+    - Sally Martin Singers
+    - Steve Gibson's Red Caps
+    - Art Foxhall band
   influenced:
-  - Aretha Franklin
-  - Original Five Blind Boys of Mississippi
+    - Aretha Franklin
+    - Original Five Blind Boys of Mississippi
   mentors:
-  - Sister Rosetta Tharpe
-  - Rev. C.L. Franklin
+    - Sister Rosetta Tharpe
+    - Rev. C.L. Franklin
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/wynona-carr-an-early-crossover-artist/
-- https://en.wikipedia.org/wiki/Wynona_Carr
-- https://www.buckeyebeat.com/wynonacarr.html
-- https://concord.com/artist/wynona-carr/
-- https://www.crossrhythms.co.uk/articles/music/Sister_Wynona_Carr_Gospel_Roots__The_composer_of_Operator_and_The_Ball_Game_/37124/p1/
-- https://www.musicmetricsvault.com/artists/wynona-carr/0v6JkAzkEJ6lCw6hAVs5VP
-- https://www.hilobrow.com/2015/08/23/wynona-carr/
+  - 'https://aaregistry.org/story/wynona-carr-an-early-crossover-artist/'
+  - 'https://en.wikipedia.org/wiki/Wynona_Carr'
+  - 'https://www.buckeyebeat.com/wynonacarr.html'
+  - 'https://concord.com/artist/wynona-carr/'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Sister_Wynona_Carr_Gospel_Roots__The_composer_of_Operator_and_The_Ball_Game_/37124/p1/
+  - 'https://www.musicmetricsvault.com/artists/wynona-carr/0v6JkAzkEJ6lCw6hAVs5VP'
+  - 'https://www.hilobrow.com/2015/08/23/wynona-carr/'
 spotify_data:
   followers: 7852
   id: 0v6JkAzkEJ6lCw6hAVs5VP
   popularity: 30
-  url: https://open.spotify.com/artist/0v6JkAzkEJ6lCw6hAVs5VP
+  url: 'https://open.spotify.com/artist/0v6JkAzkEJ6lCw6hAVs5VP'
 status: active
-title: wynona carr
+title: Wynona Carr
+birth_date: '1923-08-23'
+death_date: '1976-05-11'
+artist_type: person
 ---
 
 ![](wynona_carr.jpg)

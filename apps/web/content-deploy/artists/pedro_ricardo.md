@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-23T01:51:57.057780'
-birth_place: Porto, Portugal
+birth_place: 'Porto, Portugal, Europe'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:51:57.057786'
 external_urls:
-  spotify: https://open.spotify.com/artist/3uZc1Er5d61JLxm5EaO567
+  spotify: 'https://open.spotify.com/artist/3uZc1Er5d61JLxm5EaO567'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/pedro_ricardo.jpg
 last_updated: '2026-01-23T01:51:57.057787'
 musical_connections:
   collaborators:
-  - Cláudio Tavares
-  - Luís Neto
-  - António Zambujo
-  - Ana Margarida Prado
-  - Carolina Viana
-  - Gil Silva
-  - Edu Moreno
+    - Cláudio Tavares
+    - Luís Neto
+    - António Zambujo
+    - Ana Margarida Prado
+    - Carolina Viana
+    - Gil Silva
+    - Edu Moreno
   influenced: []
   mentors:
-  - Gato Barbieri
+    - Gato Barbieri
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.rovr.live/artists/pedro%20ricardo
-- https://www.theclubmap.com/2024/06/04/pedro-ricardo-pedro002/
-- https://beatcaffeine.com/pedro-ricardo-fuses-jazz-electronic-and-traditional-portuguese-folk-on-debut-album/
-- https://worldmusiccentral.org/pedro-ricardo-connects-brazil-and-portugal-on-new-double-7-inch/
-- https://panm360.com/en/records/pedro-ricardo-soprem-bons-ventos/
-- https://www.last.fm/music/Pedro+Ricardo+Mi%C3%B1o/+wiki
-- https://hoer.live/artist/pedro-ricardo/
+  - 'https://www.rovr.live/artists/pedro%20ricardo'
+  - 'https://www.theclubmap.com/2024/06/04/pedro-ricardo-pedro002/'
+  - >-
+    https://beatcaffeine.com/pedro-ricardo-fuses-jazz-electronic-and-traditional-portuguese-folk-on-debut-album/
+  - >-
+    https://worldmusiccentral.org/pedro-ricardo-connects-brazil-and-portugal-on-new-double-7-inch/
+  - 'https://panm360.com/en/records/pedro-ricardo-soprem-bons-ventos/'
+  - 'https://www.last.fm/music/Pedro+Ricardo+Mi%C3%B1o/+wiki'
+  - 'https://hoer.live/artist/pedro-ricardo/'
 spotify_data:
   followers: 4701
   id: 3uZc1Er5d61JLxm5EaO567
   popularity: 28
-  url: https://open.spotify.com/artist/3uZc1Er5d61JLxm5EaO567
+  url: 'https://open.spotify.com/artist/3uZc1Er5d61JLxm5EaO567'
 status: active
 title: Pedro Ricardo
+artist_type: person
 ---
 
 ![](pedro_ricardo.jpg)

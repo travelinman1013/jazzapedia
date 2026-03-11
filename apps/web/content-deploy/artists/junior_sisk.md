@@ -1,73 +1,75 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d939e46-60f3-49af-81a4-8875add2dfa4
-  name: BlueRidge
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d49cbcc2-df7a-4463-aa5b-6fd5729d2dc6
-  name: Junior Sisk & Ramblers Choice
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d939e46-60f3-49af-81a4-8875add2dfa4
+    name: BlueRidge
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d49cbcc2-df7a-4463-aa5b-6fd5729d2dc6
+    name: Junior Sisk & Ramblers Choice
 biography_enhanced_at: '2026-02-02T01:43:39.485834'
 birth_date: '1964-11-06'
-birth_place: Ferrum, Virginia, United States (raised; born in Arlington, Virginia)
+birth_place: 'Ferrum, Virginia, United States (raised; born in Arlington, Virginia)'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:43:39.485843'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fcb75f15-6c59-4d5d-bb24-1dba35630ff4
-  spotify: https://open.spotify.com/artist/2MgBNWdCITP6PKZirrJslp
+  musicbrainz: 'https://musicbrainz.org/artist/fcb75f15-6c59-4d5d-bb24-1dba35630ff4'
+  spotify: 'https://open.spotify.com/artist/2MgBNWdCITP6PKZirrJslp'
   wikipedia: null
 gender: Male
 genres:
-- bluegrass
-- christian bluegrass
-- newgrass
+  - bluegrass
+  - christian bluegrass
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/junior_sisk.jpg
 instruments:
-- guitar
-- lead vocals
-- background vocals
-- tenor vocals
-- baritone vocals
+  - guitar
+  - lead vocals
+  - background vocals
+  - tenor vocals
+  - baritone vocals
 last_updated: '2026-02-02T01:43:39.485845'
 musical_connections:
   collaborators:
-  - Lonesome River Band
-  - Wyatt Rice & Santa Cruz
-  - Blueridge
-  - Ronnie Bowman
-  - Tony Mabe
-  - Heather Berry Mabe
-  - Johnathan Dillon
-  - Curt Love
+    - Lonesome River Band
+    - Wyatt Rice & Santa Cruz
+    - Blueridge
+    - Ronnie Bowman
+    - Tony Mabe
+    - Heather Berry Mabe
+    - Johnathan Dillon
+    - Curt Love
   influenced: []
   mentors:
-  - The Stanley Brothers
-  - Larry Sparks
-  - Dave Evans
-  - Johnson Mountain Boys
+    - The Stanley Brothers
+    - Larry Sparks
+    - Dave Evans
+    - Johnson Mountain Boys
 musicbrainz_id: fcb75f15-6c59-4d5d-bb24-1dba35630ff4
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.juniorsisk.com/team/full-name-01
-- https://www.juniorsisk.com/blank-3
-- https://californiabluegrass.org/band/junior-sisk-band/
-- https://www.thebash.com/bluegrass-band/junior-sisk-and-ramblers-choice
-- https://www.richmondfolkfestival.org/2024-performers/2024/5/6/the-junior-sisk-band
-- https://bluegrassunlimited.com/article/junior-sisk/
+  - 'https://www.juniorsisk.com/team/full-name-01'
+  - 'https://www.juniorsisk.com/blank-3'
+  - 'https://californiabluegrass.org/band/junior-sisk-band/'
+  - 'https://www.thebash.com/bluegrass-band/junior-sisk-and-ramblers-choice'
+  - >-
+    https://www.richmondfolkfestival.org/2024-performers/2024/5/6/the-junior-sisk-band
+  - 'https://bluegrassunlimited.com/article/junior-sisk/'
 spotify_data:
   followers: 5997
   id: 2MgBNWdCITP6PKZirrJslp
   popularity: 36
-  url: https://open.spotify.com/artist/2MgBNWdCITP6PKZirrJslp
+  url: 'https://open.spotify.com/artist/2MgBNWdCITP6PKZirrJslp'
 status: active
 tags:
-- bluegrass
-title: JUNIOR SISK
+  - bluegrass
+title: Junior Sisk
+origin: 'Ferrum, Virginia, United States'
 ---
 
 ![](junior_sisk.jpg)

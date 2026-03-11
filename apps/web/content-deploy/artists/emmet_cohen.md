@@ -1,66 +1,68 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 2de85791-6773-4d72-ad05-7facafc4b8d3
-  name: Emmet Cohen Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2de85791-6773-4d72-ad05-7facafc4b8d3
+    name: Emmet Cohen Trio
 biography_enhanced_at: '2026-01-30T01:17:08.331407'
-birth_place: New York
+birth_place: 'Miami, Florida, United States'
 disambiguation: US jazz pianist
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:17:08.331416'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5aa14aa3-a36a-4b2e-b4c3-3c85d6964a5c
-  spotify: https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT
-  wikipedia: https://en.wikipedia.org/wiki/Emmet_Cohen
+  musicbrainz: 'https://musicbrainz.org/artist/5aa14aa3-a36a-4b2e-b4c3-3c85d6964a5c'
+  spotify: 'https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Emmet_Cohen'
 gender: Male
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/emmet_cohen.jpg
 instruments:
-- eponymous
-- original
-- piano
+  - eponymous
+  - original
+  - piano
 last_updated: '2026-01-30T01:17:08.331418'
 musical_connections:
   collaborators:
-  - Russell Hall
-  - Joe Farnsworth
-  - Christian McBride
-  - Jimmy Cobb
-  - Lea DeLaria
+    - Russell Hall
+    - Joe Farnsworth
+    - Christian McBride
+    - Jimmy Cobb
+    - Lea DeLaria
   influenced:
-  - Bryan Carter
-  - Benny Benack III
+    - Bryan Carter
+    - Benny Benack III
   mentors:
-  - Cecil Brooks III
-  - Bruce Williams
+    - Cecil Brooks III
+    - Bruce Williams
 musicbrainz_id: 5aa14aa3-a36a-4b2e-b4c3-3c85d6964a5c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://emmetcohen.com/s/Emmet-Cohen-Short-Bio-2021.pdf
-- https://en.wikipedia.org/wiki/Emmet_Cohen
-- https://emmet-cohen.squarespace.com/s/Emmet-Cohen-Long-Bio.pdf
-- https://blujazzakron.com/show/emmet-cohen-04-01-2017/
-- https://www.efperformances.com/emmet-cohen
-- https://www.emmetcohen.com/bio
-- https://www.bso.org/profiles/emmet-cohen
-- https://www.yamaha.com/artists/artistdetailb.html?CNTID=7084389&CTID=5070010
+  - 'https://emmetcohen.com/s/Emmet-Cohen-Short-Bio-2021.pdf'
+  - 'https://en.wikipedia.org/wiki/Emmet_Cohen'
+  - 'https://emmet-cohen.squarespace.com/s/Emmet-Cohen-Long-Bio.pdf'
+  - 'https://blujazzakron.com/show/emmet-cohen-04-01-2017/'
+  - 'https://www.efperformances.com/emmet-cohen'
+  - 'https://www.emmetcohen.com/bio'
+  - 'https://www.bso.org/profiles/emmet-cohen'
+  - 'https://www.yamaha.com/artists/artistdetailb.html?CNTID=7084389&CTID=5070010'
 spotify_data:
   followers: 29650
   id: 3kyGmsyTEpjopA521SSlLT
   popularity: 33
-  url: https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT
+  url: 'https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT'
 status: active
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
 title: Emmet Cohen
+birth_date: '1990-05-25'
+origin: 'Montclair, New Jersey, United States'
 ---
 
 ![](emmet_cohen.jpg)

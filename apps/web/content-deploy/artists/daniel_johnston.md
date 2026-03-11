@@ -1,73 +1,77 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9efd2668-b491-4366-af38-a100fdc3c1b8
-  name: Danny & the Nightmares
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1bd75c91-762e-43ef-80d8-dfad6fa11b46
-  name: Hyperjinx Tricycle
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ecb14482-dee4-4185-b70b-b00eff9d5e48
-  name: The Electric Ghosts
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9efd2668-b491-4366-af38-a100fdc3c1b8
+    name: Danny & the Nightmares
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1bd75c91-762e-43ef-80d8-dfad6fa11b46
+    name: Hyperjinx Tricycle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ecb14482-dee4-4185-b70b-b00eff9d5e48
+    name: The Electric Ghosts
 biography_enhanced_at: '2026-02-03T02:04:15.194866'
 birth_date: '1961-01-22'
-birth_place: Sacramento
+birth_place: 'Sacramento, California, United States'
 death_date: '2019-09-11'
 disambiguation: US singer‐songwriter
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:04:15.194875'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8a7ca8b0-d23c-4eff-8fe9-6220ba5c9c76
-  spotify: https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w
-  wikipedia: https://en.wikipedia.org/wiki/Daniel_Johnston
+  musicbrainz: 'https://musicbrainz.org/artist/8a7ca8b0-d23c-4eff-8fe9-6220ba5c9c76'
+  spotify: 'https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w'
+  wikipedia: 'https://en.wikipedia.org/wiki/Daniel_Johnston'
 gender: Male
 genres:
-- anti-folk
+  - anti-folk
 image_path: 03_Resources/source_material/ArtistPortraits/daniel_johnston.jpg
 instruments:
-- piano
-- acoustic guitar
-- lead vocals
+  - piano
+  - acoustic guitar
+  - lead vocals
 last_updated: '2026-02-03T02:04:15.194876'
 musical_connections:
   collaborators:
-  - Jad Fair
-  - B.E.A.M. Orchestra
+    - Jad Fair
+    - B.E.A.M. Orchestra
   influenced:
-  - Kurt Cobain
-  - Jeff Tweedy
+    - Kurt Cobain
+    - Jeff Tweedy
   mentors:
-  - Mark Kramer
-  - Paul Leary
+    - Mark Kramer
+    - Paul Leary
 musicbrainz_id: 8a7ca8b0-d23c-4eff-8fe9-6220ba5c9c76
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wvpublic.org/us-them-daniel-johnston-the-troubled-life-and-artistic-genius-of-west-virginia-music-hall-of-fame-inductee/
-- https://en.wikipedia.org/wiki/Daniel_Johnston
-- https://www.wkco919.org/music-for-dummies/2023/4/6/daniel-johnston-for-dummies
-- https://bornandbredmusic.com/2025/03/06/heritage-legacy-daniel-johnston/
-- https://hihowareyou.com/pages/about-daniel-johnston
-- https://www.tshaonline.org/handbook/entries/johnston-daniel-dale
-- https://www.lambiek.net/artists/j/johnston_daniel.htm
+  - >-
+    https://wvpublic.org/us-them-daniel-johnston-the-troubled-life-and-artistic-genius-of-west-virginia-music-hall-of-fame-inductee/
+  - 'https://en.wikipedia.org/wiki/Daniel_Johnston'
+  - >-
+    https://www.wkco919.org/music-for-dummies/2023/4/6/daniel-johnston-for-dummies
+  - 'https://bornandbredmusic.com/2025/03/06/heritage-legacy-daniel-johnston/'
+  - 'https://hihowareyou.com/pages/about-daniel-johnston'
+  - 'https://www.tshaonline.org/handbook/entries/johnston-daniel-dale'
+  - 'https://www.lambiek.net/artists/j/johnston_daniel.htm'
 spotify_data:
   followers: 342870
   id: 1jeYbk5eqo6wgsQPjLeU5w
   popularity: 46
-  url: https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w
+  url: 'https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w'
 status: active
 tags:
-- folk
-- indie pop
-- indie rock
+  - folk
+  - indie pop
+  - indie rock
 title: Daniel Johnston
+is_active: false
+origin: 'Austin, Texas, United States'
 ---
 
 ![](daniel_johnston.jpg)

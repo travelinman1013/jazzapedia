@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2026-03-08T03:08:25.249926'
-birth_place: Birmingham, England (birthplace); also Carriacou, Caribbean
+birth_place: 'Birmingham, England (birthplace); also Carriacou, Caribbean'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:08:25.249934'
 external_urls:
-  spotify: https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ
+  spotify: 'https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ben_marc.jpg
 last_updated: '2026-03-08T03:08:25.249936'
 musical_connections:
   collaborators:
-  - Shabaka Hutchings
-  - Tom Skinner
-  - Mulatu Astatke
-  - Jonny Greenwood
-  - Kay Young
+    - Shabaka Hutchings
+    - Tom Skinner
+    - Mulatu Astatke
+    - Jonny Greenwood
+    - Kay Young
   influenced: []
   mentors:
-  - Chi-chi Nwanoku
-  - Gary Crosby
-  - Guitar teacher from New Orleans
+    - Chi-chi Nwanoku
+    - Gary Crosby
+    - Guitar teacher from New Orleans
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Ben+Marc/+wiki
-- https://innovativeleisure.net/collections/ben-marc
-- https://www.thetonearm.com/from-jazz-roots-to-hip-hop-freedom-ben-marc-genre-of-one/
-- https://articles.roland.com/a-few-minutes-with-ben-marc/
-- http://www.truthandliesmusic.com/magazine/music-that-speaks-toben-marc
-- https://www.15questions.net/interview/fifteen-questions-interview-ben-marc/
-- https://stereogum.com/2172799/ben-marc-mustard/music
-- https://www.iheart.com/artist/ben-marc-31707109/
-- https://innovativeleisure.net/blogs/news/ben-marc-x-who-cares-wins
+  - 'https://www.last.fm/music/Ben+Marc/+wiki'
+  - 'https://innovativeleisure.net/collections/ben-marc'
+  - >-
+    https://www.thetonearm.com/from-jazz-roots-to-hip-hop-freedom-ben-marc-genre-of-one/
+  - 'https://articles.roland.com/a-few-minutes-with-ben-marc/'
+  - 'http://www.truthandliesmusic.com/magazine/music-that-speaks-toben-marc'
+  - 'https://www.15questions.net/interview/fifteen-questions-interview-ben-marc/'
+  - 'https://stereogum.com/2172799/ben-marc-mustard/music'
+  - 'https://www.iheart.com/artist/ben-marc-31707109/'
+  - 'https://innovativeleisure.net/blogs/news/ben-marc-x-who-cares-wins'
 spotify_data:
   followers: 4681
   id: 4sxl9xjKCAmzbtkEHf5lkJ
   popularity: 19
-  url: https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ
+  url: 'https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ'
 status: active
 title: Ben Marc
+artist_type: person
 ---
 
 ![](ben_marc.jpg)

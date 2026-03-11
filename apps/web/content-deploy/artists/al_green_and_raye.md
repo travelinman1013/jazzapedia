@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-03T02:00:19.518397'
-birth_place: Forrest City, Arkansas, US
+birth_place: 'Forrest City, Arkansas, US'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:00:19.518407'
 external_urls:
-  spotify: https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93
-  wikipedia: https://en.wikipedia.org/wiki/Al_Green
+  spotify: 'https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93'
+  wikipedia: 'https://en.wikipedia.org/wiki/Al_Green'
 genres:
-- soul
-- classic soul
-- motown
-- soul blues
+  - soul
+  - classic soul
+  - motown
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/al_green_and_raye.jpg
 last_updated: '2026-02-03T02:00:19.518409'
 musical_connections:
   collaborators:
-  - Hi Rhythm Section
-  - Ahmir 'Questlove' Thompson and James Poyser
-  - John Legend
-  - Anthony Hamilton and Corinne Bailey Rae
+    - Hi Rhythm Section
+    - Ahmir 'Questlove' Thompson and James Poyser
+    - John Legend
+    - Anthony Hamilton and Corinne Bailey Rae
   influenced:
-  - Talking Heads
-  - Syl Johnson
+    - Talking Heads
+    - Syl Johnson
   mentors:
-  - Willie Mitchell
-  - Sam Cooke
+    - Willie Mitchell
+    - Sam Cooke
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Al_Green
-- https://www.britannica.com/biography/Al-Green
-- https://performingsongwriter.com/al-green-birthday/
-- https://www.youtube.com/c/AlGreen/about
+  - 'https://en.wikipedia.org/wiki/Al_Green'
+  - 'https://www.britannica.com/biography/Al-Green'
+  - 'https://performingsongwriter.com/al-green-birthday/'
+  - 'https://www.youtube.com/c/AlGreen/about'
 spotify_data:
   followers: 2356021
   id: 3dkbV4qihUeMsqN4vBGg93
   popularity: 69
-  url: https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93
+  url: 'https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93'
 status: active
 title: Al Green & RAYE
+birth_date: '1946-04-13'
+artist_type: person
 ---
 
 ![](al_green_and_raye.jpg)

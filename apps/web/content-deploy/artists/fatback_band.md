@@ -3,43 +3,46 @@ biography_enhanced_at: '2026-02-22T01:49:11.493336'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:49:11.493346'
 external_urls:
-  spotify: https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6
+  spotify: 'https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6'
   wikipedia: ''
 genres:
-- funk
-- post-disco
-- jazz funk
+  - funk
+  - post-disco
+  - jazz funk
 image_path: 03_Resources/source_material/ArtistPortraits/fatback_band.jpg
 last_updated: '2026-02-22T01:49:11.493348'
 musical_connections:
   collaborators:
-  - Gerry Thomas
-  - Johnny King
-  - Johnny Flippin
-  - Wild Sugar
+    - Gerry Thomas
+    - Johnny King
+    - Johnny Flippin
+    - Wild Sugar
   influenced:
-  - Beastie Boys
+    - Beastie Boys
   mentors:
-  - Bill Doggett
-  - King Curtis
-  - Clyde McPhatter
-  - Eric Gale
+    - Bill Doggett
+    - King Curtis
+    - Clyde McPhatter
+    - Eric Gale
 network_extracted: true
-origin: New York City, New York, USA (formed; Bill Curtis born Fayetteville, North
+origin: >-
+  New York City, New York, USA (formed; Bill Curtis born Fayetteville, North
   Carolina, USA)
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Fatback+Band/+wiki
-- https://northcarolinamusichalloffame.org/inductee-item/bill-fatback-curtis/
-- http://www.fatbackband.com/band.html
-- https://acerecords.co.uk/features/artist-profiles/fatback
+  - 'https://www.last.fm/music/Fatback+Band/+wiki'
+  - 'https://northcarolinamusichalloffame.org/inductee-item/bill-fatback-curtis/'
+  - 'http://www.fatbackband.com/band.html'
+  - 'https://acerecords.co.uk/features/artist-profiles/fatback'
 spotify_data:
   followers: 149629
   id: 6PWU6JQvvYv5sz5FOODHg6
   popularity: 41
-  url: https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6
+  url: 'https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6'
 status: active
 title: Fatback Band
+birth_place: 'Fayetteville, North Carolina, United States'
+artist_type: band
 ---
 
 ![](fatback_band.jpg)

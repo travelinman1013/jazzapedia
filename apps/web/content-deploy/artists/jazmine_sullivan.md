@@ -2,51 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-01-28T01:48:28.491413'
 birth_date: '1987-04-09'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:48:28.491419'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6f92929a-6381-48ac-b348-83b43b9cf646
-  spotify: https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq
+  musicbrainz: 'https://musicbrainz.org/artist/6f92929a-6381-48ac-b348-83b43b9cf646'
+  spotify: 'https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq'
   wikipedia: ''
 gender: Female
 genres:
-- r&b
+  - r&b
 image_path: 03_Resources/source_material/ArtistPortraits/jazmine_sullivan.jpg
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-28T01:48:28.491421'
 musical_connections:
   collaborators:
-  - Missy Elliott
-  - Stargate
-  - Wyclef Jean
-  - Kindred the Family Soul
-  - Sandy 'Pepa' Denton
+    - Missy Elliott
+    - Stargate
+    - Wyclef Jean
+    - Kindred the Family Soul
+    - Sandy 'Pepa' Denton
   influenced: []
   mentors:
-  - Missy Elliott
+    - Missy Elliott
 musicbrainz_id: 6f92929a-6381-48ac-b348-83b43b9cf646
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.aceshowbiz.com/celebrity/jazmine_sullivan/biography.html
-- https://kids.kiddle.co/Jazmine_Sullivan
-- https://wbssmedia.com/artists/detail/566
-- https://teksteshqip.com/jazmine-sullivan
-- https://www.last.fm/music/Jazmine+Sullivan/+wiki
-- https://www.allamericanspeakers.com/celebritytalentbios/Jazmine+Sullivan/405975
+  - 'https://www.aceshowbiz.com/celebrity/jazmine_sullivan/biography.html'
+  - 'https://kids.kiddle.co/Jazmine_Sullivan'
+  - 'https://wbssmedia.com/artists/detail/566'
+  - 'https://teksteshqip.com/jazmine-sullivan'
+  - 'https://www.last.fm/music/Jazmine+Sullivan/+wiki'
+  - >-
+    https://www.allamericanspeakers.com/celebritytalentbios/Jazmine+Sullivan/405975
 spotify_data:
   followers: 2216384
   id: 7gSjFKpVmDgC2MMsnN8CYq
   popularity: 63
-  url: https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq
+  url: 'https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq'
 status: active
 tags:
-- contemporary r&b
-- hip hop rnb and dance hall
-- soul
+  - contemporary r&b
+  - hip hop rnb and dance hall
+  - soul
 title: Jazmine Sullivan
 ---
 

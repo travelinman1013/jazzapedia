@@ -1,167 +1,170 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2014'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 3eb0b426-d975-4647-927c-846eb0a12e33
-  name: From Wolves to Whales
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fab3d5d2-c3ba-457e-b785-832d6e50b4cd
-  name: Dream/Aktion Unit
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 6d2ef380-c54e-4a70-9252-b93df54609c7
-  name: Chikamorachi
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - percussion
-  mbid: 7535a3d6-3c07-414c-a826-8664b12dbcf1
-  name: SYCH
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff1da653-a251-4a8f-b8a7-bd70b21d2043
-  name: MALUS
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: 7121e7ac-408b-4293-b59c-130414bb9207
-  name: Cold Bleak Heat
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 83423c78-1c29-4cad-a6de-47306fdff4ac
-  name: The Braces
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ecb2fcae-e779-445c-bac9-ef8330cb4620
-  name: Comida Deluxe
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d979a44f-3e6a-42aa-9ebb-bf828638d7fe
-  name: The Puke Eaters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bf3fb198-3928-4e86-a6c6-1c6a874862be
-  name: Icepick
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e39787b2-70a6-426a-b16b-4d85b709163d
-  name: The Clandestine Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c5429796-2640-4c7e-aaae-451a8ba1b5c0
-  name: Travisano Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 43262e08-2e2d-421e-888f-de972bc5e34c
-  name: Saccata Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 8f069650-4a06-4f38-beb3-475e123c9431
-  name: Klatzker-Corsano Duo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 31799cec-b069-4081-9d91-22ccedc98f9f
-  name: Corsano Baiza Watt Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ce2a27f2-dc77-4df0-bde7-2c1f7238b9de
-  name: Dimension X
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3deb8bd9-1bc8-4716-bfbb-fc80c387bfc5
-  name: Jailbreak
+  - begin: '2014'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 3eb0b426-d975-4647-927c-846eb0a12e33
+    name: From Wolves to Whales
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fab3d5d2-c3ba-457e-b785-832d6e50b4cd
+    name: Dream/Aktion Unit
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6d2ef380-c54e-4a70-9252-b93df54609c7
+    name: Chikamorachi
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - percussion
+    mbid: 7535a3d6-3c07-414c-a826-8664b12dbcf1
+    name: SYCH
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff1da653-a251-4a8f-b8a7-bd70b21d2043
+    name: MALUS
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: 7121e7ac-408b-4293-b59c-130414bb9207
+    name: Cold Bleak Heat
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 83423c78-1c29-4cad-a6de-47306fdff4ac
+    name: The Braces
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ecb2fcae-e779-445c-bac9-ef8330cb4620
+    name: Comida Deluxe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d979a44f-3e6a-42aa-9ebb-bf828638d7fe
+    name: The Puke Eaters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bf3fb198-3928-4e86-a6c6-1c6a874862be
+    name: Icepick
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e39787b2-70a6-426a-b16b-4d85b709163d
+    name: The Clandestine Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c5429796-2640-4c7e-aaae-451a8ba1b5c0
+    name: Travisano Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 43262e08-2e2d-421e-888f-de972bc5e34c
+    name: Saccata Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 8f069650-4a06-4f38-beb3-475e123c9431
+    name: Klatzker-Corsano Duo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 31799cec-b069-4081-9d91-22ccedc98f9f
+    name: Corsano Baiza Watt Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ce2a27f2-dc77-4df0-bde7-2c1f7238b9de
+    name: Dimension X
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3deb8bd9-1bc8-4716-bfbb-fc80c387bfc5
+    name: Jailbreak
 biography_enhanced_at: '2026-01-30T01:15:35.917921'
 birth_date: '1975'
-birth_place: Englewood
+birth_place: 'Englewood, New Jersey, United States'
 disambiguation: drummer
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:15:35.917931'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b3cd1260-ab5d-4f24-ba9c-d58d54edbb4d
-  spotify: https://open.spotify.com/artist/6eozRDXAMzUv0aXz74fE50
-  wikipedia: https://en.wikipedia.org/wiki/Chris_Corsano
+  musicbrainz: 'https://musicbrainz.org/artist/b3cd1260-ab5d-4f24-ba9c-d58d54edbb4d'
+  spotify: 'https://open.spotify.com/artist/6eozRDXAMzUv0aXz74fE50'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chris_Corsano'
 gender: Male
 genres:
-- free jazz
-- experimental jazz
-- avant-garde
-- experimental
-- noise rock
+  - free jazz
+  - experimental jazz
+  - avant-garde
+  - experimental
+  - noise rock
 image_path: 03_Resources/source_material/ArtistPortraits/chris_corsano.jpg
 instruments:
-- drums (drum set)
-- original
-- percussion
-- membranophone
+  - drums (drum set)
+  - original
+  - percussion
+  - membranophone
 last_updated: '2026-01-30T01:15:35.917932'
 musical_connections:
   collaborators:
-  - Paul Flaherty
-  - Joe McPhee
-  - Bill Orcutt
-  - Sir Richard Bishop
-  - Ben Chasny
-  - Michael Flower
-  - Björk
-  - Mette Rasmussen
-  - Zoh Amba
-  - Jim O'Rourke
-  - Okkyung Lee
-  - Bill Nace
+    - Paul Flaherty
+    - Joe McPhee
+    - Bill Orcutt
+    - Sir Richard Bishop
+    - Ben Chasny
+    - Michael Flower
+    - Björk
+    - Mette Rasmussen
+    - Zoh Amba
+    - Jim O'Rourke
+    - Okkyung Lee
+    - Bill Nace
   influenced: []
   mentors:
-  - Ornette Coleman
-  - John Coltrane
-  - Sun Ra
-  - The Minutemen
-  - Bad Brains
-  - Black Flag
-  - MC5
-  - The Stooges
+    - Ornette Coleman
+    - John Coltrane
+    - Sun Ra
+    - The Minutemen
+    - Bad Brains
+    - Black Flag
+    - MC5
+    - The Stooges
 musicbrainz_id: b3cd1260-ab5d-4f24-ba9c-d58d54edbb4d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.foundationforcontemporaryarts.org/recipients/chris-corsano/
-- https://www.lilypadinman.com/home/2023/11/21/chris-corsano-solo-corsanokelleymcbride
-- https://www.radiopanik.org/emissions/moacrealsloa/chris-corsano/
-- https://www.cafeoto.co.uk/artists/chris-corsano/
-- https://sun-13.com/2024/06/27/chris-corsano-interview-collaboration-is-essential-for-me/
-- https://www.cor-sano.com/bio.html
-- https://theloove.com/pages/artist/chris-corsano
-- https://en.wikipedia.org/wiki/Chris_Corsano
+  - 'https://www.foundationforcontemporaryarts.org/recipients/chris-corsano/'
+  - >-
+    https://www.lilypadinman.com/home/2023/11/21/chris-corsano-solo-corsanokelleymcbride
+  - 'https://www.radiopanik.org/emissions/moacrealsloa/chris-corsano/'
+  - 'https://www.cafeoto.co.uk/artists/chris-corsano/'
+  - >-
+    https://sun-13.com/2024/06/27/chris-corsano-interview-collaboration-is-essential-for-me/
+  - 'https://www.cor-sano.com/bio.html'
+  - 'https://theloove.com/pages/artist/chris-corsano'
+  - 'https://en.wikipedia.org/wiki/Chris_Corsano'
 spotify_data:
   followers: 5608
   id: 6eozRDXAMzUv0aXz74fE50
   popularity: 11
-  url: https://open.spotify.com/artist/6eozRDXAMzUv0aXz74fE50
+  url: 'https://open.spotify.com/artist/6eozRDXAMzUv0aXz74fE50'
 status: active
 tags:
-- free improvisation
+  - free improvisation
 title: Chris Corsano
+origin: 'Western Massachusetts, United States'
 ---
 
 ![](chris_corsano.jpg)

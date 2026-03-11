@@ -3,47 +3,55 @@ biography_enhanced_at: '2026-01-31T01:08:31.796065'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:08:31.796077'
 external_urls:
-  spotify: https://open.spotify.com/artist/7AHRERYdeR9vlgQJ8tprno
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_%22Lockjaw%22_Davis
+  spotify: 'https://open.spotify.com/artist/7AHRERYdeR9vlgQJ8tprno'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_%22Lockjaw%22_Davis'
 genres:
-- hard bop
-- bebop
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/johnny_griffin_and_eddie_lockjaw_davis.jpg
+  - hard bop
+  - bebop
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/johnny_griffin_and_eddie_lockjaw_davis.jpg
 last_updated: '2026-01-31T01:08:31.796078'
 musical_connections:
   collaborators:
-  - Shirley Scott
-  - Junior Mance
-  - Count Basie
-  - Kenny Clarke/Francy Boland Big Band
-  - Thelonious Monk
-  - Art Blakey
+    - Shirley Scott
+    - Junior Mance
+    - Count Basie
+    - Kenny Clarke/Francy Boland Big Band
+    - Thelonious Monk
+    - Art Blakey
   influenced:
-  - Next generation of sax men
+    - Next generation of sax men
   mentors:
-  - Teddy Hill
-  - Texas tenors
+    - Teddy Hill
+    - Texas tenors
 network_extracted: true
-origin: New York City, New York, USA (Davis birthplace); Chicago, Illinois, USA (Griffin
-  origin)
+origin: >-
+  New York City, New York, USA (Davis birthplace); Chicago, Illinois, USA
+  (Griffin origin)
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/eddie-lockjaw-davis/
-- https://en.wikipedia.org/wiki/Eddie_%22Lockjaw%22_Davis
-- https://aaregistry.org/story/eddie-lockjaw-davis-musician-born/
-- https://en.wikipedia.org/wiki/Johnny_Griffin
-- https://burningambulance.com/2023/08/02/lockjaw/
-- https://www.wamc.org/2020-01-13/new-reissue-from-eddie-lockjaw-davis-and-johnny-griffin-is-a-love-letter-to-fans
-- https://jazztimes.com/archives/eddie-lockjaw-davisjohnny-griffin-quintet-blues-up-and-down/
-- https://www.allaboutjazz.com/musicians/johnny-griffin-eddie-lockjaw-davis/
+  - 'https://www.allaboutjazz.com/musicians/eddie-lockjaw-davis/'
+  - 'https://en.wikipedia.org/wiki/Eddie_%22Lockjaw%22_Davis'
+  - 'https://aaregistry.org/story/eddie-lockjaw-davis-musician-born/'
+  - 'https://en.wikipedia.org/wiki/Johnny_Griffin'
+  - 'https://burningambulance.com/2023/08/02/lockjaw/'
+  - >-
+    https://www.wamc.org/2020-01-13/new-reissue-from-eddie-lockjaw-davis-and-johnny-griffin-is-a-love-letter-to-fans
+  - >-
+    https://jazztimes.com/archives/eddie-lockjaw-davisjohnny-griffin-quintet-blues-up-and-down/
+  - 'https://www.allaboutjazz.com/musicians/johnny-griffin-eddie-lockjaw-davis/'
 spotify_data:
   followers: 68
   id: 7AHRERYdeR9vlgQJ8tprno
   popularity: 1
-  url: https://open.spotify.com/artist/7AHRERYdeR9vlgQJ8tprno
+  url: 'https://open.spotify.com/artist/7AHRERYdeR9vlgQJ8tprno'
 status: active
 title: Johnny Griffin & Eddie Lockjaw Davis
+birth_place: 'New York City, New York, United States'
+birth_date: '1922-03-02'
+death_date: '1986-11-03'
+artist_type: band
 ---
 
 ![](johnny_griffin_and_eddie_lockjaw_davis.jpg)

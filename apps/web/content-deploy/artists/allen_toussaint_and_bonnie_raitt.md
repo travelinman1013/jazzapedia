@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-31T01:11:33.578979'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:11:33.578994'
 external_urls:
-  spotify: https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy
-  wikipedia: https://en.wikipedia.org/wiki/Allen_Toussaint
+  spotify: 'https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Allen_Toussaint'
 genres:
-- cajun
-image_path: 03_Resources/source_material/ArtistPortraits/allen_toussaint_and_bonnie_raitt.jpg
+  - cajun
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/allen_toussaint_and_bonnie_raitt.jpg
 last_updated: '2026-01-31T01:11:33.578995'
 musical_connections:
   collaborators:
-  - Lee Dorsey
-  - Marshall Sehorn
-  - Ernie K-Doe
-  - Irma Thomas
-  - The Meters
-  - Paul McCartney
-  - Aaron Neville
+    - Lee Dorsey
+    - Marshall Sehorn
+    - Ernie K-Doe
+    - Irma Thomas
+    - The Meters
+    - Paul McCartney
+    - Aaron Neville
   influenced:
-  - The Who
-  - The Rolling Stones
-  - Glen Campbell
+    - The Who
+    - The Rolling Stones
+    - Glen Campbell
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.televisionacademy.com/bios/allen-toussaint
-- https://www.arts.gov/honors/medals/allen-toussaint
-- https://www.explorelouisiana.com/music/allen-toussaint
-- https://en.wikipedia.org/wiki/Allen_Toussaint
-- https://concord.com/artist/allen-toussaint-c11139/
-- https://www.namm.org/library/oral-history/allen-toussaint
+  - 'https://www.televisionacademy.com/bios/allen-toussaint'
+  - 'https://www.arts.gov/honors/medals/allen-toussaint'
+  - 'https://www.explorelouisiana.com/music/allen-toussaint'
+  - 'https://en.wikipedia.org/wiki/Allen_Toussaint'
+  - 'https://concord.com/artist/allen-toussaint-c11139/'
+  - 'https://www.namm.org/library/oral-history/allen-toussaint'
 spotify_data:
   followers: 103454
   id: 63aP18bg2ABSOqSNQcAMNy
   popularity: 47
-  url: https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy
+  url: 'https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy'
 status: active
-title: allen toussaint & bonnie raitt
+title: Allen Toussaint & Bonnie Raitt
+artist_type: band
 ---
 
 ![](allen_toussaint_and_bonnie_raitt.jpg)

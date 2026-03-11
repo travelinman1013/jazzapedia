@@ -3,43 +3,47 @@ biography_enhanced_at: '2026-03-01T02:03:36.276221'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:03:36.276230'
 external_urls:
-  spotify: https://open.spotify.com/artist/29xsL0d0Vbt6yF0Yn8meiO
-  wikipedia: https://en.wikipedia.org/wiki/Hamilton_de_Holanda
+  spotify: 'https://open.spotify.com/artist/29xsL0d0Vbt6yF0Yn8meiO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hamilton_de_Holanda'
 genres:
-- flamenco
-- latin jazz
-image_path: 03_Resources/source_material/ArtistPortraits/chano_dominguez_rubem_dantas_and_hamilton_de_holanda.jpg
+  - flamenco
+  - latin jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/chano_dominguez_rubem_dantas_and_hamilton_de_holanda.jpg
 last_updated: '2026-03-01T02:03:36.276231'
 musical_connections:
   collaborators:
-  - Paquito D’Rivera
-  - Wynton Marsalis
-  - Paco de Lucía
-  - Fernando César
-  - Yamandu Costa
-  - Chano Domínguez
-  - Hamilton de Holanda
-  - Rubem Dantas
+    - Paquito D’Rivera
+    - Wynton Marsalis
+    - Paco de Lucía
+    - Fernando César
+    - Yamandu Costa
+    - Chano Domínguez
+    - Hamilton de Holanda
+    - Rubem Dantas
   influenced: []
   mentors:
-  - Vadinho do Gantois
-  - Raphael Rabello
+    - Vadinho do Gantois
+    - Raphael Rabello
 network_extracted: true
-origin: Cádiz, Spain (Chano Domínguez); Rio de Janeiro, Brazil (Hamilton de Holanda);
+origin: >-
+  Cádiz, Spain (Chano Domínguez); Rio de Janeiro, Brazil (Hamilton de Holanda);
   Bahia, Brazil (Rubem Dantas)
 primary_source: perplexity
 research_sources:
-- https://www.barganews.com/2023/08/barga-jazz-festival-2023-chabem/
-- https://en.wikipedia.org/wiki/Hamilton_de_Holanda
-- https://chanodominguez.com/english
-- https://www.soapboxgallery.org/events/chano-dominguez-and-alexis-cuadrado
+  - 'https://www.barganews.com/2023/08/barga-jazz-festival-2023-chabem/'
+  - 'https://en.wikipedia.org/wiki/Hamilton_de_Holanda'
+  - 'https://chanodominguez.com/english'
+  - 'https://www.soapboxgallery.org/events/chano-dominguez-and-alexis-cuadrado'
 spotify_data:
   followers: 40
   id: 29xsL0d0Vbt6yF0Yn8meiO
   popularity: 7
-  url: https://open.spotify.com/artist/29xsL0d0Vbt6yF0Yn8meiO
+  url: 'https://open.spotify.com/artist/29xsL0d0Vbt6yF0Yn8meiO'
 status: active
-title: chano dominguez, rubem dantas & hamilton de holanda
+title: 'Chano Dominguez, Rubem Dantas & Hamilton de Holanda'
+birth_place: 'Cádiz, Spain'
+artist_type: band
 ---
 
 ![](chano_dominguez_rubem_dantas_and_hamilton_de_holanda.jpg)

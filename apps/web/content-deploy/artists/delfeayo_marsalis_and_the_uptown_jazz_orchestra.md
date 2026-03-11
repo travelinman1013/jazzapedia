@@ -3,46 +3,50 @@ biography_enhanced_at: '2026-02-14T01:35:10.873134'
 enhancement_provider: perplexity
 entry_created: '2026-02-14T01:35:10.873146'
 external_urls:
-  spotify: https://open.spotify.com/artist/7387cq9vzbbTmhaoezH79f
-  wikipedia: https://en.wikipedia.org/wiki/Delfeayo_Marsalis
+  spotify: 'https://open.spotify.com/artist/7387cq9vzbbTmhaoezH79f'
+  wikipedia: 'https://en.wikipedia.org/wiki/Delfeayo_Marsalis'
 genres:
-- big band
-image_path: 03_Resources/source_material/ArtistPortraits/delfeayo_marsalis_and_the_uptown_jazz_orchestra.jpg
+  - big band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/delfeayo_marsalis_and_the_uptown_jazz_orchestra.jpg
 last_updated: '2026-02-14T01:35:10.873148'
 musical_connections:
   collaborators:
-  - Ray Charles
-  - Art Blakey
-  - Harry Connick, Jr.
-  - Terence Blanchard
-  - Uptown Jazz Orchestra members (e.g., Jon Faddis, Oscar Hernandez)
+    - Ray Charles
+    - Art Blakey
+    - 'Harry Connick, Jr.'
+    - Terence Blanchard
+    - 'Uptown Jazz Orchestra members (e.g., Jon Faddis, Oscar Hernandez)'
   influenced:
-  - Wynton Marsalis
-  - Marcus Roberts
-  - Nicholas Payton
+    - Wynton Marsalis
+    - Marcus Roberts
+    - Nicholas Payton
   mentors:
-  - J.J. Johnson
-  - Slide Hampton
-  - Ellis Marsalis Jr.
+    - J.J. Johnson
+    - Slide Hampton
+    - Ellis Marsalis Jr.
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.dmarsalis.com/biography/
-- https://thesoraya.org/whats-on/en/delfeayo-marsalis-and-the-uptown-jazz-orchestra/
-- https://montereyjazz.org/artist/delfeayo-marsalis-uptown-jazz-orchestra/
-- https://scjazzfestival.com/delfeayo-marsalis/
-- https://amistad-finding-aids.tulane.edu/agents/people/173
-- https://downbeat.com/news/detail/delfeayo-marsalis-soooo-new-orleans
-- https://www.efperformances.com/delfeayo-marsalis
-- https://en.wikipedia.org/wiki/Delfeayo_Marsalis
+  - 'https://www.dmarsalis.com/biography/'
+  - >-
+    https://thesoraya.org/whats-on/en/delfeayo-marsalis-and-the-uptown-jazz-orchestra/
+  - 'https://montereyjazz.org/artist/delfeayo-marsalis-uptown-jazz-orchestra/'
+  - 'https://scjazzfestival.com/delfeayo-marsalis/'
+  - 'https://amistad-finding-aids.tulane.edu/agents/people/173'
+  - 'https://downbeat.com/news/detail/delfeayo-marsalis-soooo-new-orleans'
+  - 'https://www.efperformances.com/delfeayo-marsalis'
+  - 'https://en.wikipedia.org/wiki/Delfeayo_Marsalis'
 spotify_data:
   followers: 936
   id: 7387cq9vzbbTmhaoezH79f
   popularity: 4
-  url: https://open.spotify.com/artist/7387cq9vzbbTmhaoezH79f
+  url: 'https://open.spotify.com/artist/7387cq9vzbbTmhaoezH79f'
 status: active
 title: Delfeayo Marsalis & The Uptown Jazz Orchestra
+birth_place: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](delfeayo_marsalis_and_the_uptown_jazz_orchestra.jpg)

@@ -1,35 +1,38 @@
 ---
 biography_enhanced_at: '2026-03-05T02:01:35.341096'
-birth_place: Memphis, Tennessee, USA
+birth_place: 'Memphis, Tennessee, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:01:35.341108'
 external_urls:
-  spotify: https://open.spotify.com/artist/2c6fgXybIeMmPLPfIg7Xhx
+  spotify: 'https://open.spotify.com/artist/2c6fgXybIeMmPLPfIg7Xhx'
   wikipedia: ''
 genres:
-- classic blues
-- blues
-- psychobilly
+  - classic blues
+  - blues
+  - psychobilly
 image_path: ''
 last_updated: '2026-03-05T02:01:35.341110'
 musical_connections:
   collaborators:
-  - Sun Records (Sam Phillips)
+    - Sun Records (Sam Phillips)
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/2176
-- https://sentirelblues.blogspot.com/2016/02/coy-hot-shot-love.html?m=1
-- https://www.youtube.com/watch?v=tXXZQqGX_0A
+  - 'https://wbssmedia.com/artists/detail/2176'
+  - 'https://sentirelblues.blogspot.com/2016/02/coy-hot-shot-love.html?m=1'
+  - 'https://www.youtube.com/watch?v=tXXZQqGX_0A'
 spotify_data:
   followers: 55
   id: 2c6fgXybIeMmPLPfIg7Xhx
   popularity: 0
-  url: https://open.spotify.com/artist/2c6fgXybIeMmPLPfIg7Xhx
+  url: 'https://open.spotify.com/artist/2c6fgXybIeMmPLPfIg7Xhx'
 status: active
-title: coy hot shot love
+title: Coy Hot Shot Love
+origin: 'Memphis, Tennessee, United States'
+birth_date: '1914-09-08'
+artist_type: person
 ---
 
 ![]()

@@ -1,65 +1,66 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-20T01:17:44.241074'
-birth_date: '2007'
+birth_date: '1978-04-05'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:17:44.241084'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0ec3c9dc-45e7-4bc1-9813-a866acaae772
-  spotify: https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Glasper
+  musicbrainz: 'https://musicbrainz.org/artist/0ec3c9dc-45e7-4bc1-9813-a866acaae772'
+  spotify: 'https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Glasper'
 genres:
-- neo soul
-- jazz rap
+  - neo soul
+  - jazz rap
 image_path: 03_Resources/source_material/ArtistPortraits/robert_glasper_experiment.jpg
 instruments:
-- eponymous
-- original
-last_updated: '2026-02-20T01:17:44.241086'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 6e8f82ea-9e6d-4fdd-9b32-32feef13186b
-  name: Robert Glasper
+last_updated: '2026-02-20T01:17:44.241086'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 6e8f82ea-9e6d-4fdd-9b32-32feef13186b
+    name: Robert Glasper
 musical_connections:
   collaborators:
-  - Chris Dave
-  - Casey Benjamin
-  - Derrick Hodge
-  - Bilal
-  - Yasiin Bey (Mos Def)
-  - Kendrick Lamar
+    - Chris Dave
+    - Casey Benjamin
+    - Derrick Hodge
+    - Bilal
+    - Yasiin Bey (Mos Def)
+    - Kendrick Lamar
   influenced:
-  - R+R=NOW members
-  - August Greene members
+    - R+R=NOW members
+    - August Greene members
   mentors:
-  - Roy Hargrove
-  - Christian McBride
-  - Herbie Hancock
+    - Roy Hargrove
+    - Christian McBride
+    - Herbie Hancock
 musicbrainz_id: 0ec3c9dc-45e7-4bc1-9813-a866acaae772
 network_extracted: true
-origin: Houston, Texas, United States
+origin: 'Houston, Texas, United States'
 primary_source: perplexity
 research_sources:
-- https://www.fandango.com/people/robert-glasper-949311/biography
-- https://en.wikipedia.org/wiki/Robert_Glasper
-- https://kpfa.org/area941/episode/in-conversation-with-robert-glasper/
-- https://jazztimes.com/features/profiles/meet-robert-glasper/
-- https://www.scribd.com/document/464268975/Robert-Glasper-biography
-- https://www.northseajazz.com/en/2019/artist-in-residence-robert-glasper
-- https://www.udiscovermusic.com/artist/robert-glasper/
+  - 'https://www.fandango.com/people/robert-glasper-949311/biography'
+  - 'https://en.wikipedia.org/wiki/Robert_Glasper'
+  - 'https://kpfa.org/area941/episode/in-conversation-with-robert-glasper/'
+  - 'https://jazztimes.com/features/profiles/meet-robert-glasper/'
+  - 'https://www.scribd.com/document/464268975/Robert-Glasper-biography'
+  - 'https://www.northseajazz.com/en/2019/artist-in-residence-robert-glasper'
+  - 'https://www.udiscovermusic.com/artist/robert-glasper/'
 spotify_data:
   followers: 523737
   id: 5cM1PvItlR21WUyBnsdMcn
   popularity: 56
-  url: https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn
+  url: 'https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn'
 status: active
 tags:
-- nu jazz
+  - nu jazz
 title: Robert Glasper Experiment
+birth_place: 'Houston, Texas, United States'
 ---
 
 ![](robert_glasper_experiment.jpg)

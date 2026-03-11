@@ -1,61 +1,64 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-03T02:03:49.482669'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:03:49.482679'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/62c3ecf0-7f61-4f3c-9cd8-2215ca8e0105
-  spotify: https://open.spotify.com/artist/7fVgbXuPoC8EgtcHelTWcA
-  wikipedia: https://en.wikipedia.org/wiki/Tom_Rainey
+  musicbrainz: 'https://musicbrainz.org/artist/62c3ecf0-7f61-4f3c-9cd8-2215ca8e0105'
+  spotify: 'https://open.spotify.com/artist/7fVgbXuPoC8EgtcHelTWcA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tom_Rainey'
 genres:
-- free jazz
-- avant-garde
-- experimental jazz
+  - free jazz
+  - avant-garde
+  - experimental jazz
 image_path: 03_Resources/source_material/ArtistPortraits/tom_rainey_trio.jpg
 last_updated: '2026-02-03T02:03:49.482681'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5b79b380-0167-4f6e-b707-28c065053353
-  name: Mary Halvorson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3f437693-4f12-4500-9859-55b1deebbf8b
-  name: Ingrid Laubrock
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5b79b380-0167-4f6e-b707-28c065053353
+    name: Mary Halvorson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3f437693-4f12-4500-9859-55b1deebbf8b
+    name: Ingrid Laubrock
 musical_connections:
   collaborators:
-  - Tim Berne
-  - Ingrid Laubrock
-  - Mary Halvorson
-  - Kenny Werner
-  - Drew Gress
+    - Tim Berne
+    - Ingrid Laubrock
+    - Mary Halvorson
+    - Kenny Werner
+    - Drew Gress
   influenced: []
   mentors:
-  - Father (name not specified)
-  - Gene Krupa
-  - Buddy Rich
+    - Father (name not specified)
+    - Gene Krupa
+    - Buddy Rich
 musicbrainz_id: 62c3ecf0-7f61-4f3c-9cd8-2215ca8e0105
 network_extracted: true
-origin: Los Angeles, California, USA (birthplace)
+origin: 'Los Angeles, California, USA (birthplace)'
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/tom-rainey/
-- https://www.pointofdeparture.org/archives/PoD-60/PoD60Rainey.html
-- https://jazztimes.com/features/profiles/tom-rainey-the-reluctant-leader/
-- https://kerrytownconcerthouse.com/tom-rainey/
-- https://en.wikipedia.org/wiki/Tom_Rainey
-- https://creativemusicguild.org/ingrid-laubrock-and-tom-rainey/
-- https://www.audeze.com/blogs/audeze-artists/audeze-speaks-to-drummer-tom-rainey
-- https://www.artsforart.org/tom-rainey/
+  - 'https://www.allaboutjazz.com/musicians/tom-rainey/'
+  - 'https://www.pointofdeparture.org/archives/PoD-60/PoD60Rainey.html'
+  - 'https://jazztimes.com/features/profiles/tom-rainey-the-reluctant-leader/'
+  - 'https://kerrytownconcerthouse.com/tom-rainey/'
+  - 'https://en.wikipedia.org/wiki/Tom_Rainey'
+  - 'https://creativemusicguild.org/ingrid-laubrock-and-tom-rainey/'
+  - >-
+    https://www.audeze.com/blogs/audeze-artists/audeze-speaks-to-drummer-tom-rainey
+  - 'https://www.artsforart.org/tom-rainey/'
 spotify_data:
   followers: 596
   id: 7fVgbXuPoC8EgtcHelTWcA
   popularity: 1
-  url: https://open.spotify.com/artist/7fVgbXuPoC8EgtcHelTWcA
+  url: 'https://open.spotify.com/artist/7fVgbXuPoC8EgtcHelTWcA'
 status: active
 title: Tom Rainey Trio
+birth_place: 'Los Angeles, California, United States'
+birth_date: '1957-09-17'
 ---
 
 ![](tom_rainey_trio.jpg)

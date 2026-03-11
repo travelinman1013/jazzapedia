@@ -3,41 +3,44 @@ biography_enhanced_at: '2026-02-08T01:58:52.140256'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T01:58:52.140262'
 external_urls:
-  spotify: https://open.spotify.com/artist/6vU0TrPHYEs5RmKKfxFnsv
+  spotify: 'https://open.spotify.com/artist/6vU0TrPHYEs5RmKKfxFnsv'
   wikipedia: null
 genres:
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/john_gills_novelty_orchestra_of_new_orleans.jpg
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/john_gills_novelty_orchestra_of_new_orleans.jpg
 last_updated: '2026-02-08T01:58:52.140263'
 musical_connections:
   collaborators:
-  - Woody Allen
-  - Leon Redbone
-  - Chris Tyle
-  - Eddie Bayard
-  - Ray Skjelbred
-  - Lew Green
+    - Woody Allen
+    - Leon Redbone
+    - Chris Tyle
+    - Eddie Bayard
+    - Ray Skjelbred
+    - Lew Green
   influenced: []
   mentors:
-  - Freddie Moore
-  - Turk Murphy
+    - Freddie Moore
+    - Turk Murphy
 network_extracted: true
-origin: New Orleans, Louisiana, United States (primary base; also performed extensively
-  in San Francisco, New York, and Austin)
+origin: >-
+  New Orleans, Louisiana, United States (primary base; also performed
+  extensively in San Francisco, New York, and Austin)
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/john-gill-traditional-jazzs-stomper-in-chief/
-- https://www.thepaulleslie.com/episode-423-john-gill/
-- https://www.scottjoplin.org/festival-artists
-- https://secondhandsongs.com/artist/111488/all
-- https://www.youtube.com/watch?v=kgwTTaxiP7I
+  - 'https://syncopatedtimes.com/john-gill-traditional-jazzs-stomper-in-chief/'
+  - 'https://www.thepaulleslie.com/episode-423-john-gill/'
+  - 'https://www.scottjoplin.org/festival-artists'
+  - 'https://secondhandsongs.com/artist/111488/all'
+  - 'https://www.youtube.com/watch?v=kgwTTaxiP7I'
 spotify_data:
   followers: 92
   id: 6vU0TrPHYEs5RmKKfxFnsv
   popularity: 2
-  url: https://open.spotify.com/artist/6vU0TrPHYEs5RmKKfxFnsv
+  url: 'https://open.spotify.com/artist/6vU0TrPHYEs5RmKKfxFnsv'
 status: active
 title: John Gill's Novelty Orchestra of New Orleans
+artist_type: person
 ---
 
 ![](john_gills_novelty_orchestra_of_new_orleans.jpg)

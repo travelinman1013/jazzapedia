@@ -1,40 +1,41 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-02-15T01:50:24.468784'
-birth_place: Sergipe, Brazil
+birth_place: 'Sergipe, Brazil'
 disambiguation: Brazilian DJ
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:50:24.468794'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/45cc86b1-d09f-42ea-aab3-a30cfd0683b3
-  spotify: https://open.spotify.com/artist/5navBlBpHVm8AhBmRgJCN1
-  wikipedia: https://en.wikipedia.org/wiki/DJ_Dolores
+  musicbrainz: 'https://musicbrainz.org/artist/45cc86b1-d09f-42ea-aab3-a30cfd0683b3'
+  spotify: 'https://open.spotify.com/artist/5navBlBpHVm8AhBmRgJCN1'
+  wikipedia: 'https://en.wikipedia.org/wiki/DJ_Dolores'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/dj_dolores.jpg
 last_updated: '2026-02-15T01:50:24.468796'
 musical_connections:
   collaborators:
-  - Orchestra Santa Massa
+    - Orchestra Santa Massa
   influenced: []
   mentors: []
 musicbrainz_id: 45cc86b1-d09f-42ea-aab3-a30cfd0683b3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/DJ_Dolores
-- https://www.allmusic.com/artist/dj-dolores-mn0000661864
-- https://streetsmartbrazil.com/brazilian-music-dj-dolores/
-- https://www.esdmusic.com/2008/06/06/dj-dolores-1-real/
+  - 'https://en.wikipedia.org/wiki/DJ_Dolores'
+  - 'https://www.allmusic.com/artist/dj-dolores-mn0000661864'
+  - 'https://streetsmartbrazil.com/brazilian-music-dj-dolores/'
+  - 'https://www.esdmusic.com/2008/06/06/dj-dolores-1-real/'
 spotify_data:
   followers: 12196
   id: 5navBlBpHVm8AhBmRgJCN1
   popularity: 16
-  url: https://open.spotify.com/artist/5navBlBpHVm8AhBmRgJCN1
+  url: 'https://open.spotify.com/artist/5navBlBpHVm8AhBmRgJCN1'
 status: active
 tags:
-- world
+  - world
 title: DJ Dolores
+origin: 'Recife, Pernambuco, Brazil'
 ---
 
 ![](dj_dolores.jpg)

@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-02T01:42:25.268263'
-birth_place: Lafayette, Louisiana, USA
+birth_place: 'Lafayette, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:42:25.268275'
 external_urls:
-  spotify: https://open.spotify.com/artist/0cEVa3IBa2Bp5wwE98JFR1
+  spotify: 'https://open.spotify.com/artist/0cEVa3IBa2Bp5wwE98JFR1'
   wikipedia: ''
 genres:
-- bluegrass
-- newgrass
-- christian bluegrass
+  - bluegrass
+  - newgrass
+  - christian bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/billy_droze.jpg
 last_updated: '2026-02-02T01:42:25.268305'
 musical_connections:
   collaborators:
-  - Shenandoah
-  - Rhonda Vincent
-  - Darryl Worley
-  - The Grascals
-  - Randy Kohrs
+    - Shenandoah
+    - Rhonda Vincent
+    - Darryl Worley
+    - The Grascals
+    - Randy Kohrs
   influenced: []
   mentors:
-  - Bob Droze
+    - Bob Droze
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.wayfarerappalachia.com/whispering-wayfarer/meet-billy-droze-bluegrasss-next-big-thing-with-a-nashville-twist
-- https://rbrentertainment.com/billy-droze
-- https://billydroze.com/about
-- https://bluegrassunlimited.com/article/billy-droze/
-- https://bluegrasstoday.com/billy-the-kid-billy-droze/
+  - >-
+    https://www.wayfarerappalachia.com/whispering-wayfarer/meet-billy-droze-bluegrasss-next-big-thing-with-a-nashville-twist
+  - 'https://rbrentertainment.com/billy-droze'
+  - 'https://billydroze.com/about'
+  - 'https://bluegrassunlimited.com/article/billy-droze/'
+  - 'https://bluegrasstoday.com/billy-the-kid-billy-droze/'
 spotify_data:
   followers: 1238
   id: 0cEVa3IBa2Bp5wwE98JFR1
   popularity: 8
-  url: https://open.spotify.com/artist/0cEVa3IBa2Bp5wwE98JFR1
+  url: 'https://open.spotify.com/artist/0cEVa3IBa2Bp5wwE98JFR1'
 status: active
-title: BILLY DROZE
+title: Billy Droze
+artist_type: person
 ---
 
 ![](billy_droze.jpg)

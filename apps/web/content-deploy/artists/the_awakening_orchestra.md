@@ -1,44 +1,45 @@
 ---
-artist_type: orchestra
+artist_type: person
 biography_enhanced_at: '2026-01-30T01:15:12.439455'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:15:12.439463'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7d87392b-586f-4a12-9b1f-0375519b2e1b
-  spotify: https://open.spotify.com/artist/5JNXBEww0VkYtjKFLbHxWC
+  musicbrainz: 'https://musicbrainz.org/artist/7d87392b-586f-4a12-9b1f-0375519b2e1b'
+  spotify: 'https://open.spotify.com/artist/5JNXBEww0VkYtjKFLbHxWC'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_awakening_orchestra.jpg
 last_updated: '2026-01-30T01:15:12.439463'
 musical_connections:
   collaborators:
-  - Sam Burtis
-  - Michael MacAllister
-  - Joshua Paris
-  - Brooke Quiggins Saulnier
-  - Jesse Lewis
+    - Sam Burtis
+    - Michael MacAllister
+    - Joshua Paris
+    - Brooke Quiggins Saulnier
+    - Jesse Lewis
   influenced: []
   mentors:
-  - Sam Burtis
+    - Sam Burtis
 musicbrainz_id: 7d87392b-586f-4a12-9b1f-0375519b2e1b
 network_extracted: true
-origin: Bronx, New York, USA (base; leader born Connecticut)
+origin: 'Bronx, New York, USA (base; leader born Connecticut)'
 primary_source: perplexity
 research_sources:
-- https://www.awakeningorchestra.com
-- https://www.youtube.com/watch?v=XX1ICN2FIsk
-- https://www.allaboutjazz.com/musicians/awakening-orchestra/
-- https://www.youtube.com/watch?v=99GEkgLiKE0
-- https://burningambulance.com/2020/11/10/awakening-orchestra/
-- https://biophiliarecords.com/artist/?id=1000000713345266
-- https://www.youtube.com/watch?v=K0niek0VUjc
-- https://www.awakeningorchestra.com/cadence-magazine-july-2015
-- https://www.allaboutjazz.com/volume-ii-to-call-her-to-a-higher-plan-awakening-orchestra-biophilia-records
+  - 'https://www.awakeningorchestra.com'
+  - 'https://www.youtube.com/watch?v=XX1ICN2FIsk'
+  - 'https://www.allaboutjazz.com/musicians/awakening-orchestra/'
+  - 'https://www.youtube.com/watch?v=99GEkgLiKE0'
+  - 'https://burningambulance.com/2020/11/10/awakening-orchestra/'
+  - 'https://biophiliarecords.com/artist/?id=1000000713345266'
+  - 'https://www.youtube.com/watch?v=K0niek0VUjc'
+  - 'https://www.awakeningorchestra.com/cadence-magazine-july-2015'
+  - >-
+    https://www.allaboutjazz.com/volume-ii-to-call-her-to-a-higher-plan-awakening-orchestra-biophilia-records
 spotify_data:
   followers: 384
   id: 5JNXBEww0VkYtjKFLbHxWC
   popularity: 3
-  url: https://open.spotify.com/artist/5JNXBEww0VkYtjKFLbHxWC
+  url: 'https://open.spotify.com/artist/5JNXBEww0VkYtjKFLbHxWC'
 status: active
 title: The Awakening Orchestra
 ---

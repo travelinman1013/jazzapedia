@@ -2,57 +2,59 @@
 artist_type: person
 biography_enhanced_at: '2026-01-29T02:07:18.926731'
 birth_date: '1946'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 death_date: '1984-11-14'
 disambiguation: Jamaican reggae singer
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:07:18.926742'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4be50b22-988c-4b87-9191-44605190b562
-  spotify: https://open.spotify.com/artist/7a6In9UVdQx5TpBGLZT2RZ
-  wikipedia: https://en.wikipedia.org/wiki/Keith_Hudson
+  musicbrainz: 'https://musicbrainz.org/artist/4be50b22-988c-4b87-9191-44605190b562'
+  spotify: 'https://open.spotify.com/artist/7a6In9UVdQx5TpBGLZT2RZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Keith_Hudson'
 gender: Male
 genres:
-- dub
-- roots reggae
-- rocksteady
-- reggae
+  - dub
+  - roots reggae
+  - rocksteady
+  - reggae
 image_path: 03_Resources/source_material/ArtistPortraits/keith_hudson.jpg
 last_updated: '2026-01-29T02:07:18.926744'
 musical_connections:
   collaborators:
-  - Soul Syndicate (George ‘Fully’ Fullwood, Carlton ‘Santa’ Davis, Earl ‘Chinna’
-    Smith, Tony Chin)
-  - Big Youth
-  - Dennis Alcapone
-  - Ken Boothe
-  - Augustus Pablo
-  - Barrett brothers (Aston and Carlton)
-  - Otis Waygood Band
-  - U-Roy
+    - >-
+      Soul Syndicate (George ‘Fully’ Fullwood, Carlton ‘Santa’ Davis, Earl
+      ‘Chinna’ Smith, Tony Chin)
+    - Big Youth
+    - Dennis Alcapone
+    - Ken Boothe
+    - Augustus Pablo
+    - Barrett brothers (Aston and Carlton)
+    - Otis Waygood Band
+    - U-Roy
   influenced: []
   mentors:
-  - Sir Coxsone (Clement Dodd)
+    - Sir Coxsone (Clement Dodd)
 musicbrainz_id: 4be50b22-988c-4b87-9191-44605190b562
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://bassculture.substack.com/p/keith-hudson-the-dark-prince-of-reggae
-- https://en.wikipedia.org/wiki/Keith_Hudson
-- https://keithhudsonmusic.com/tuff-gong-encounter
-- https://daily.redbullmusicacademy.com/2013/04/keith-hudson-feature/
-- https://soundsystemculture.org/keith-hudson-pick-up-a-dub/
-- https://www.yardie-reggae.com/ARTIST%20PAGES/KEITH%20HUDSON.htm
-- https://www.roughtrade.com/artist/keith-hudson
+  - 'https://bassculture.substack.com/p/keith-hudson-the-dark-prince-of-reggae'
+  - 'https://en.wikipedia.org/wiki/Keith_Hudson'
+  - 'https://keithhudsonmusic.com/tuff-gong-encounter'
+  - 'https://daily.redbullmusicacademy.com/2013/04/keith-hudson-feature/'
+  - 'https://soundsystemculture.org/keith-hudson-pick-up-a-dub/'
+  - 'https://www.yardie-reggae.com/ARTIST%20PAGES/KEITH%20HUDSON.htm'
+  - 'https://www.roughtrade.com/artist/keith-hudson'
 spotify_data:
   followers: 23450
   id: 7a6In9UVdQx5TpBGLZT2RZ
   popularity: 33
-  url: https://open.spotify.com/artist/7a6In9UVdQx5TpBGLZT2RZ
+  url: 'https://open.spotify.com/artist/7a6In9UVdQx5TpBGLZT2RZ'
 status: active
 tags:
-- jamaican
+  - jamaican
 title: Keith Hudson
+is_active: false
 ---
 
 ![](keith_hudson.jpg)

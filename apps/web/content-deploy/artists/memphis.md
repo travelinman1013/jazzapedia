@@ -3,39 +3,41 @@ biography_enhanced_at: '2026-01-24T02:00:22.826711'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:00:22.826716'
 external_urls:
-  spotify: https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf
-  wikipedia: https://en.wikipedia.org/wiki/Memphis_May_Fire
+  spotify: 'https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Memphis_May_Fire'
 genres:
-- metalcore
-- post-hardcore
-- screamo
+  - metalcore
+  - post-hardcore
+  - screamo
 image_path: 03_Resources/source_material/ArtistPortraits/memphis.jpg
 last_updated: '2026-01-24T02:00:22.826717'
 musical_connections:
   collaborators:
-  - Kellen McGregor
-  - Matty Mullins
-  - Rise Records
+    - Kellen McGregor
+    - Matty Mullins
+    - Rise Records
   influenced:
-  - Ten Crowns
+    - Ten Crowns
   mentors:
-  - Josh Grabelle
-  - Cameron Mizell
+    - Josh Grabelle
+    - Cameron Mizell
 network_extracted: true
-origin: Denton, Texas, United States
+origin: 'Denton, Texas, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Memphis_May_Fire
-- https://www.last.fm/music/Memphis+May+Fire/+wiki
-- https://metalshell.net/memphis-may-fire-return-to-their-southern-metalcore-roots-with-blood-water-matty-mullins-rise-records/
-- https://wearememphis.com/play/music/meet-memphis-screamo-band-ten-crowns/
+  - 'https://en.wikipedia.org/wiki/Memphis_May_Fire'
+  - 'https://www.last.fm/music/Memphis+May+Fire/+wiki'
+  - >-
+    https://metalshell.net/memphis-may-fire-return-to-their-southern-metalcore-roots-with-blood-water-matty-mullins-rise-records/
+  - 'https://wearememphis.com/play/music/meet-memphis-screamo-band-ten-crowns/'
 spotify_data:
   followers: 957977
   id: 7cNNNhdJDrt3vgQjwSavNf
   popularity: 60
-  url: https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf
+  url: 'https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf'
 status: active
-title: Memphis
+title: Memphis May Fire
+artist_type: band
 ---
 
 ![](memphis.jpg)

@@ -2,53 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2026-03-01T02:02:35.137211'
 birth_date: '1970-06-04'
-birth_place: Cádiz
+birth_place: 'Santa María, Cádiz, Spain'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:02:35.137219'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b6d756a2-bb87-4c7f-9c26-e12ae0e56b8d
-  spotify: https://open.spotify.com/artist/0fM3rWsshliRFUmJlBP6QZ
-  wikipedia: https://es.wikipedia.org/wiki/El_Barrio_(cantautor)
+  musicbrainz: 'https://musicbrainz.org/artist/b6d756a2-bb87-4c7f-9c26-e12ae0e56b8d'
+  spotify: 'https://open.spotify.com/artist/0fM3rWsshliRFUmJlBP6QZ'
+  wikipedia: 'https://es.wikipedia.org/wiki/El_Barrio_(cantautor)'
 gender: Male
 genres:
-- flamenco
-- flamenco pop
+  - flamenco
+  - flamenco pop
 image_path: 03_Resources/source_material/ArtistPortraits/el_barrio.jpg
 instruments:
-- flamenco guitar
-- acoustic guitar
+  - flamenco guitar
+  - acoustic guitar
 last_updated: '2026-03-01T02:02:35.137221'
 musical_connections:
   collaborators:
-  - Juana la del Revuelo
-  - Antonio Canales
-  - Sara Baras
+    - Juana la del Revuelo
+    - Antonio Canales
+    - Sara Baras
   influenced: []
   mentors:
-  - Paco de Lucía
-  - Manolo Caracol
-  - Peña Flamenca La Perla de Cádiz
+    - Paco de Lucía
+    - Manolo Caracol
+    - Peña Flamenca La Perla de Cádiz
 musicbrainz_id: b6d756a2-bb87-4c7f-9c26-e12ae0e56b8d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://es.slideshare.net/slideshow/el-barrio-1342935/1342935
-- https://es.wikipedia.org/wiki/El_Barrio_(cantautor)
-- https://www.fnac.es/El-Barrio/ia10530/biografia
-- https://en.wikipedia.org/wiki/El_Barrio_(singer)
-- https://www.lahiguera.net/musicalia/artistas/el_barrio/biografia.php
-- https://musicbrainz.org/artist/b6d756a2-bb87-4c7f-9c26-e12ae0e56b8d
-- https://www.allmusic.com/artist/el-barrio-mn0001926276
+  - 'https://es.slideshare.net/slideshow/el-barrio-1342935/1342935'
+  - 'https://es.wikipedia.org/wiki/El_Barrio_(cantautor)'
+  - 'https://www.fnac.es/El-Barrio/ia10530/biografia'
+  - 'https://en.wikipedia.org/wiki/El_Barrio_(singer)'
+  - 'https://www.lahiguera.net/musicalia/artistas/el_barrio/biografia.php'
+  - 'https://musicbrainz.org/artist/b6d756a2-bb87-4c7f-9c26-e12ae0e56b8d'
+  - 'https://www.allmusic.com/artist/el-barrio-mn0001926276'
 spotify_data:
   followers: 1379224
   id: 0fM3rWsshliRFUmJlBP6QZ
   popularity: 60
-  url: https://open.spotify.com/artist/0fM3rWsshliRFUmJlBP6QZ
+  url: 'https://open.spotify.com/artist/0fM3rWsshliRFUmJlBP6QZ'
 status: active
 tags:
-- flamenco
-- new flamenco
-title: el barrio
+  - flamenco
+  - new flamenco
+title: El Barrio
 ---
 
 ![](el_barrio.jpg)

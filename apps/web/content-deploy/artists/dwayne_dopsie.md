@@ -1,46 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-15T01:54:38.972084'
-birth_place: Lafayette, Louisiana, United States
+birth_place: 'Lafayette, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:54:38.972091'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9b7b7351-f69f-43ab-9ee9-36666e2368e5
-  spotify: https://open.spotify.com/artist/2DiIlpeHuF47bznkkgD3oQ
-  wikipedia: https://en.wikipedia.org/wiki/Dwayne_Dopsie
+  musicbrainz: 'https://musicbrainz.org/artist/9b7b7351-f69f-43ab-9ee9-36666e2368e5'
+  spotify: 'https://open.spotify.com/artist/2DiIlpeHuF47bznkkgD3oQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dwayne_Dopsie'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/dwayne_dopsie.jpg
 last_updated: '2026-02-15T01:54:38.972091'
 musical_connections:
   collaborators:
-  - Zydeco Hellraisers
-  - Harry Connick Jr. and Randy Jackson
-  - Blues Traveler (John Popper)
+    - Zydeco Hellraisers
+    - Harry Connick Jr. and Randy Jackson
+    - Blues Traveler (John Popper)
   influenced: []
   mentors:
-  - Rockin' Dopsie Sr.
-  - Clifton Chenier
+    - Rockin' Dopsie Sr.
+    - Clifton Chenier
 musicbrainz_id: 9b7b7351-f69f-43ab-9ee9-36666e2368e5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://winthropbluesfestival.com/dwayne-dopsie/
-- http://www.blog.levitt.org/2019/07/spotlight-dwayne-dopsie/
-- https://en.wikipedia.org/wiki/Dwayne_Dopsie
-- https://dwaynedopsie.com/biography
-- https://blues.gr/profiles/blogs/interview-with-zydeco-accordionist-dwayne-dopsie-plays-a-unique
-- https://yourtahoeguide.com/2013/07/dwayne-dopsie-and-the-zydeco-hellraisers/
-- https://bigeasycruise.com/artists/dwayne-dopsie-and-the-zydeco-hellraisers/
-- https://bigbluesbender.com/artists/dwayne-dopsie/
-- https://www.durangobluestrain.com/dwayne-dopsie-and-the-zydeco-hellraisers
+  - 'https://winthropbluesfestival.com/dwayne-dopsie/'
+  - 'http://www.blog.levitt.org/2019/07/spotlight-dwayne-dopsie/'
+  - 'https://en.wikipedia.org/wiki/Dwayne_Dopsie'
+  - 'https://dwaynedopsie.com/biography'
+  - >-
+    https://blues.gr/profiles/blogs/interview-with-zydeco-accordionist-dwayne-dopsie-plays-a-unique
+  - 'https://yourtahoeguide.com/2013/07/dwayne-dopsie-and-the-zydeco-hellraisers/'
+  - 'https://bigeasycruise.com/artists/dwayne-dopsie-and-the-zydeco-hellraisers/'
+  - 'https://bigbluesbender.com/artists/dwayne-dopsie/'
+  - 'https://www.durangobluestrain.com/dwayne-dopsie-and-the-zydeco-hellraisers'
 spotify_data:
   followers: 2224
   id: 2DiIlpeHuF47bznkkgD3oQ
   popularity: 8
-  url: https://open.spotify.com/artist/2DiIlpeHuF47bznkkgD3oQ
+  url: 'https://open.spotify.com/artist/2DiIlpeHuF47bznkkgD3oQ'
 status: active
 title: Dwayne Dopsie
+birth_date: '1979-03-03'
+artist_type: person
 ---
 
 ![](dwayne_dopsie.jpg)

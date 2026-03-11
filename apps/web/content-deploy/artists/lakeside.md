@@ -1,56 +1,57 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-03-06T01:30:51.646713'
 birth_date: '1969'
 disambiguation: US funk band
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:30:51.646721'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4e2dc6e4-1808-4850-8e97-df7ea8007f39
-  spotify: https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72
-  wikipedia: https://en.wikipedia.org/wiki/Lakeside_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/4e2dc6e4-1808-4850-8e97-df7ea8007f39'
+  spotify: 'https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lakeside_(band)'
 genres:
-- funk
-- post-disco
+  - funk
+  - post-disco
 image_path: 03_Resources/source_material/ArtistPortraits/lakeside.jpg
 last_updated: '2026-03-06T01:30:51.646722'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 96ebc6d5-e41d-4688-aa7f-2170e71491ab
-  name: Stephen Shockley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 96ebc6d5-e41d-4688-aa7f-2170e71491ab
+    name: Stephen Shockley
 musical_connections:
   collaborators:
-  - Leon Sylvers III
-  - Stephen Shockley
-  - Mark Woods
-  - Fred Alexander, Jr.
-  - Otis Stokes
+    - Leon Sylvers III
+    - Stephen Shockley
+    - Mark Woods
+    - 'Fred Alexander, Jr.'
+    - Otis Stokes
   influenced:
-  - Ty Dolla Sign (Tyrone Griffin, Jr.)
+    - 'Ty Dolla Sign (Tyrone Griffin, Jr.)'
   mentors:
-  - Dick Griffey
-  - Frank Wilson
+    - Dick Griffey
+    - Frank Wilson
 musicbrainz_id: 4e2dc6e4-1808-4850-8e97-df7ea8007f39
 network_extracted: true
-origin: Dayton
+origin: 'Dayton, Ohio, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Lakeside/+wiki
-- https://en.wikipedia.org/wiki/Lakeside_(band)
-- http://philcbrown.com/?page_id=4941
-- https://music.fandom.com/wiki/Lakeside
-- https://therecoup.com/2018/06/05/lakeside-shot-of-love-rough-riders-fantastic-voyage-robinsongs/
+  - 'https://www.last.fm/music/Lakeside/+wiki'
+  - 'https://en.wikipedia.org/wiki/Lakeside_(band)'
+  - 'http://philcbrown.com/?page_id=4941'
+  - 'https://music.fandom.com/wiki/Lakeside'
+  - >-
+    https://therecoup.com/2018/06/05/lakeside-shot-of-love-rough-riders-fantastic-voyage-robinsongs/
 spotify_data:
   followers: 370320
   id: 74lTWE4DqbFU3Vn8z4uH72
   popularity: 44
-  url: https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72
+  url: 'https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72'
 status: active
 tags:
-- funk
-- r&b
+  - funk
+  - r&b
 title: LAKESIDE
 ---
 

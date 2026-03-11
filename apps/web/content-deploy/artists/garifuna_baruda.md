@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-02-01T01:29:22.351821'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:29:22.351828'
 external_urls:
-  spotify: https://open.spotify.com/artist/3xLO3JbFDBncnBNgDhi121
+  spotify: 'https://open.spotify.com/artist/3xLO3JbFDBncnBNgDhi121'
   wikipedia: null
 genres: []
 image_path: ''
@@ -19,9 +19,11 @@ spotify_data:
   followers: 2
   id: 3xLO3JbFDBncnBNgDhi121
   popularity: 0
-  url: https://open.spotify.com/artist/3xLO3JbFDBncnBNgDhi121
+  url: 'https://open.spotify.com/artist/3xLO3JbFDBncnBNgDhi121'
 status: active
-title: garifuna baruda
+title: Garifuna Baruda
+origin: Unknown
+artist_type: band
 ---
 
 ![]()

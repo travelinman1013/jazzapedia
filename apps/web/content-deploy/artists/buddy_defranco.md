@@ -1,92 +1,95 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 4faea927-3ee0-4b96-a8e3-981e94e0a089
-  name: The Art Tatum/Buddy DeFranco Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  - eponymous
-  mbid: 813a50c1-a378-42ec-8f52-fc3e3115fa23
-  name: Buddy DeFranco Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  - eponymous
-  - original
-  mbid: 50fad55f-acde-44d7-b907-3e11bfff0f07
-  name: Buddy DeFranco Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 173d0832-0da6-40ef-b80f-7fab9d38c1d1
-  name: The Charlie Shavers Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 4faea927-3ee0-4b96-a8e3-981e94e0a089
+    name: The Art Tatum/Buddy DeFranco Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - eponymous
+    mbid: 813a50c1-a378-42ec-8f52-fc3e3115fa23
+    name: Buddy DeFranco Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - eponymous
+      - original
+    mbid: 50fad55f-acde-44d7-b907-3e11bfff0f07
+    name: Buddy DeFranco Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 173d0832-0da6-40ef-b80f-7fab9d38c1d1
+    name: The Charlie Shavers Quintet
 biography_enhanced_at: '2026-02-23T03:06:13.460832'
 birth_date: '1923-02-17'
-birth_place: Camden
+birth_place: 'Camden, New Jersey, United States'
 death_date: '2014-12-24'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:06:13.460840'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/31b265d7-e092-4649-b813-4ddac0adac02
-  spotify: https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y
-  wikipedia: https://en.wikipedia.org/wiki/Buddy_DeFranco
+  musicbrainz: 'https://musicbrainz.org/artist/31b265d7-e092-4649-b813-4ddac0adac02'
+  spotify: 'https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buddy_DeFranco'
 gender: Male
 genres:
-- bebop
-- jazz
-- hard bop
-- cool jazz
+  - bebop
+  - jazz
+  - hard bop
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_defranco.jpg
 instruments:
-- clarinet
-- eponymous
-- original
+  - clarinet
+  - eponymous
+  - original
 last_updated: '2026-02-23T03:06:13.460842'
 musical_connections:
   collaborators:
-  - Count Basie
-  - Art Blakey
-  - Sonny Clark
-  - Tal Farlow
-  - Tommy Gumina
-  - Terry Gibbs
-  - Glenn Miller Orchestra
+    - Count Basie
+    - Art Blakey
+    - Sonny Clark
+    - Tal Farlow
+    - Tommy Gumina
+    - Terry Gibbs
+    - Glenn Miller Orchestra
   influenced:
-  - Eddie Daniels
+    - Eddie Daniels
   mentors:
-  - Virgil 'Happy' Cotrill
-  - Benny Goodman
-  - Artie Shaw
-  - Charlie Parker
-  - Dizzy Gillespie
+    - Virgil 'Happy' Cotrill
+    - Benny Goodman
+    - Artie Shaw
+    - Charlie Parker
+    - Dizzy Gillespie
 musicbrainz_id: 31b265d7-e092-4649-b813-4ddac0adac02
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.buddydefranco.com/bio.html
-- https://en.wikipedia.org/wiki/Buddy_DeFranco
-- https://www.cc-seas.columbia.edu/wkcr/story/jazz-profiles-21923-buddy-defranco
-- https://www.arts.gov/honors/jazz/buddy-defranco
-- https://www.joffewoodwinds.com/woodlinks/biography-of-buddy-defranco/
-- https://amhistory.si.edu/jazz/DeFranco-Buddy/Buddy_DeFranco_Transcript.pdf
+  - 'http://www.buddydefranco.com/bio.html'
+  - 'https://en.wikipedia.org/wiki/Buddy_DeFranco'
+  - >-
+    https://www.cc-seas.columbia.edu/wkcr/story/jazz-profiles-21923-buddy-defranco
+  - 'https://www.arts.gov/honors/jazz/buddy-defranco'
+  - 'https://www.joffewoodwinds.com/woodlinks/biography-of-buddy-defranco/'
+  - 'https://amhistory.si.edu/jazz/DeFranco-Buddy/Buddy_DeFranco_Transcript.pdf'
 spotify_data:
   followers: 7065
   id: 4PGmuM1NRpb2AynvthlC6y
   popularity: 19
-  url: https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y
+  url: 'https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y'
 status: active
 tags:
-- bebop
-- jazz
-- post-bop
-title: BUDDY DEFRANCO
+  - bebop
+  - jazz
+  - post-bop
+title: Buddy Defranco
+is_active: false
+origin: 'South Philadelphia, Pennsylvania, United States'
 ---
 
 ![](buddy_defranco.jpg)

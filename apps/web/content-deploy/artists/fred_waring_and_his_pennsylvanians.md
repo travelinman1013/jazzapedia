@@ -1,95 +1,99 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-25T01:36:10.321063'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:36:10.321070'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4a903390-4381-4c32-90d0-803bd4f9ce34
-  spotify: https://open.spotify.com/artist/56KTGgSkXENl57LeuSR2oQ
-  wikipedia: https://en.wikipedia.org/wiki/Fred_Waring
+  musicbrainz: 'https://musicbrainz.org/artist/4a903390-4381-4c32-90d0-803bd4f9ce34'
+  spotify: 'https://open.spotify.com/artist/56KTGgSkXENl57LeuSR2oQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fred_Waring'
 genres:
-- big band
-image_path: 03_Resources/source_material/ArtistPortraits/fred_waring_and_his_pennsylvanians.jpg
+  - big band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/fred_waring_and_his_pennsylvanians.jpg
 last_updated: '2026-01-25T01:36:10.321071'
 members:
-- &id001
-  begin: '1935'
-  end: ''
-  instruments: []
-  mbid: 8817cf01-f8eb-49d2-b2e7-d0431a90fa5a
-  name: Ernie Newton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0bc4dd48-5df6-48e5-b540-787aabd28a24
-  name: Gordon Berger
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d04578e9-63c3-47d0-a550-aade31101e84
-  name: Jack Best
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eef7ccb6-c65c-4d59-bfce-801ee28b223c
-  name: Stuart Churchill
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0e4aae5b-54cd-4052-b0ce-a27a7e5f93a2
-  name: Don Craig
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 58387c51-1d06-4e03-b720-ebe537904cee
-  name: Frank Cunkle
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b3955203-e999-4f1b-b3e9-0c2e63f7d888
-  name: Fred Waring
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7a79bc0e-cced-4952-9d52-12b4c0b97f47
-  name: Jack Wilson
+  - &ref_0
+    begin: '1935'
+    end: ''
+    instruments: []
+    mbid: 8817cf01-f8eb-49d2-b2e7-d0431a90fa5a
+    name: Ernie Newton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0bc4dd48-5df6-48e5-b540-787aabd28a24
+    name: Gordon Berger
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d04578e9-63c3-47d0-a550-aade31101e84
+    name: Jack Best
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eef7ccb6-c65c-4d59-bfce-801ee28b223c
+    name: Stuart Churchill
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0e4aae5b-54cd-4052-b0ce-a27a7e5f93a2
+    name: Don Craig
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 58387c51-1d06-4e03-b720-ebe537904cee
+    name: Frank Cunkle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b3955203-e999-4f1b-b3e9-0c2e63f7d888
+    name: Fred Waring
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7a79bc0e-cced-4952-9d52-12b4c0b97f47
+    name: Jack Wilson
 musical_connections:
   collaborators:
-  - Tom Waring
-  - Freddy Buck
-  - Poley McClintock
-  - Robert Shaw
-  - Pembroke Davenport
-  - Bing Crosby
+    - Tom Waring
+    - Freddy Buck
+    - Poley McClintock
+    - Robert Shaw
+    - Pembroke Davenport
+    - Bing Crosby
   influenced:
-  - Robert Shaw
+    - Robert Shaw
   mentors:
-  - Dr. Clarence Robinson
+    - Dr. Clarence Robinson
 musicbrainz_id: 4a903390-4381-4c32-90d0-803bd4f9ce34
 network_extracted: true
-origin: Tyrone, Pennsylvania, USA
+origin: 'Tyrone, Pennsylvania, USA'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://walkoffame.com/fred-waring/
-- https://thelambs.club/club_member/waring-fred/
-- https://en.wikipedia.org/wiki/Waring's_Pennsylvanians
-- https://en.wikipedia.org/wiki/Fred_Waring
-- https://www.press.uillinois.edu/books/?id=p074448
-- https://www.palmspringslife.com/history/psl-and-villager/fred-waring-glory-glory-hallelujah/
-- https://syncopatedtimes.com/fred-warings-pennsylvanians/
+  - 'https://walkoffame.com/fred-waring/'
+  - 'https://thelambs.club/club_member/waring-fred/'
+  - 'https://en.wikipedia.org/wiki/Waring''s_Pennsylvanians'
+  - 'https://en.wikipedia.org/wiki/Fred_Waring'
+  - 'https://www.press.uillinois.edu/books/?id=p074448'
+  - >-
+    https://www.palmspringslife.com/history/psl-and-villager/fred-waring-glory-glory-hallelujah/
+  - 'https://syncopatedtimes.com/fred-warings-pennsylvanians/'
 spotify_data:
   followers: 911
   id: 56KTGgSkXENl57LeuSR2oQ
   popularity: 48
-  url: https://open.spotify.com/artist/56KTGgSkXENl57LeuSR2oQ
+  url: 'https://open.spotify.com/artist/56KTGgSkXENl57LeuSR2oQ'
 status: active
 tags:
-- big band
-- easy listening
-- jazz
+  - big band
+  - easy listening
+  - jazz
 title: Fred Waring & His Pennsylvanians
+birth_place: 'Tyrone, Pennsylvania, United States'
+death_date: '1984-07-29'
 ---
 
 ![](fred_waring_and_his_pennsylvanians.jpg)

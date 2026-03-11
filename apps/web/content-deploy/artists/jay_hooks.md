@@ -1,51 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-31T01:10:38.604000'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:10:38.604005'
 external_urls:
-  spotify: https://open.spotify.com/artist/2h80JXUAmnVTLtGiyerovo
+  spotify: 'https://open.spotify.com/artist/2h80JXUAmnVTLtGiyerovo'
   wikipedia: ''
 genres:
-- blues rock
-- roots rock
+  - blues rock
+  - roots rock
 image_path: 03_Resources/source_material/ArtistPortraits/jay_hooks.jpg
 last_updated: '2026-01-31T01:10:38.604006'
 musical_connections:
   collaborators:
-  - Lavelle White
-  - Matthew R. Johnson
-  - Jorge Castillo
-  - Barry Seelen
-  - Myron “Big Jack” Jackson
-  - Brock Proctor
-  - Dennis Chenault
-  - Mark May
-  - Dan Workman
-  - Ben Elliot
-  - Hadden Sayers
+    - Lavelle White
+    - Matthew R. Johnson
+    - Jorge Castillo
+    - Barry Seelen
+    - Myron “Big Jack” Jackson
+    - Brock Proctor
+    - Dennis Chenault
+    - Mark May
+    - Dan Workman
+    - Ben Elliot
+    - Hadden Sayers
   influenced: []
   mentors:
-  - Albert Collins
-  - Billy Gibbons
-  - Stevie Ray Vaughan
+    - Albert Collins
+    - Billy Gibbons
+    - Stevie Ray Vaughan
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blues.gr/profiles/blogs/q-a-with-texas-blues-rock-guitarist-and-singer-jay-hooks
-- https://jayhooksband.net/bio
-- https://www.makingascene.org/jay-hooks-tequila-and-bullets/
-- https://www.iheart.com/artist/jay-hooks-33439137/
-- https://www.allmusic.com/artist/jay-hooks-mn0000219574
-- https://knac.com/jayhooksband-tequilaandbullets/
-- https://www.houstonpress.com/music/jay-hooks-6594283/
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-texas-blues-rock-guitarist-and-singer-jay-hooks
+  - 'https://jayhooksband.net/bio'
+  - 'https://www.makingascene.org/jay-hooks-tequila-and-bullets/'
+  - 'https://www.iheart.com/artist/jay-hooks-33439137/'
+  - 'https://www.allmusic.com/artist/jay-hooks-mn0000219574'
+  - 'https://knac.com/jayhooksband-tequilaandbullets/'
+  - 'https://www.houstonpress.com/music/jay-hooks-6594283/'
 spotify_data:
   followers: 134
   id: 2h80JXUAmnVTLtGiyerovo
   popularity: 6
-  url: https://open.spotify.com/artist/2h80JXUAmnVTLtGiyerovo
+  url: 'https://open.spotify.com/artist/2h80JXUAmnVTLtGiyerovo'
 status: active
-title: jay hooks
+title: Jay Hooks
+artist_type: person
 ---
 
 ![](jay_hooks.jpg)

@@ -2,45 +2,47 @@
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:34:06.359350'
 birth_date: '1933-03-04'
-birth_place: Tuscaloosa
+birth_place: 'Pratts, Alabama, United States'
 death_date: '1989-05-17'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:34:06.359364'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c8d322ff-3b02-49cd-8596-1758fbdaf093
-  spotify: https://open.spotify.com/artist/0RVvc29Nt39V4pjvMab6Y8
+  musicbrainz: 'https://musicbrainz.org/artist/c8d322ff-3b02-49cd-8596-1758fbdaf093'
+  spotify: 'https://open.spotify.com/artist/0RVvc29Nt39V4pjvMab6Y8'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 image_path: ''
 last_updated: '2026-03-03T01:34:06.359366'
 musical_connections:
   collaborators:
-  - Johnny Young
-  - '''Smokey'' Smothers'
-  - Jimmy
+    - Johnny Young
+    - '''Smokey'' Smothers'
+    - Jimmy
   influenced: []
   mentors: []
 musicbrainz_id: c8d322ff-3b02-49cd-8596-1758fbdaf093
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://musicbrainz.org/artist/c8d322ff-3b02-49cd-8596-1758fbdaf093
-- https://www.allmusic.com/artist/good-rockin-charles-mn0000663556
-- https://www.allaboutbluesmusic.com/good-rockin-charles/
+  - 'https://musicbrainz.org/artist/c8d322ff-3b02-49cd-8596-1758fbdaf093'
+  - 'https://www.allmusic.com/artist/good-rockin-charles-mn0000663556'
+  - 'https://www.allaboutbluesmusic.com/good-rockin-charles/'
 spotify_data:
   followers: 266
   id: 0RVvc29Nt39V4pjvMab6Y8
   popularity: 10
-  url: https://open.spotify.com/artist/0RVvc29Nt39V4pjvMab6Y8
+  url: 'https://open.spotify.com/artist/0RVvc29Nt39V4pjvMab6Y8'
 status: active
 tags:
-- blues
-- chicago blues
-- electric blues
-title: GOOD ROCKIN' CHARLES
+  - blues
+  - chicago blues
+  - electric blues
+title: Good Rockin' Charles
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![]()

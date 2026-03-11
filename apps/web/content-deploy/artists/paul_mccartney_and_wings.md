@@ -3,38 +3,40 @@ biography_enhanced_at: '2026-03-03T01:30:37.717720'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:30:37.717729'
 external_urls:
-  spotify: https://open.spotify.com/artist/7fOftTo5pbCKKb6AjaJ9OY
-  wikipedia: https://en.wikipedia.org/wiki/Paul_McCartney_and_Wings
+  spotify: 'https://open.spotify.com/artist/7fOftTo5pbCKKb6AjaJ9OY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_McCartney_and_Wings'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/paul_mccartney_and_wings.jpg
 last_updated: '2026-03-03T01:30:37.717730'
 musical_connections:
   collaborators:
-  - Linda McCartney
-  - Denny Laine
-  - Denny Seiwell
-  - Henry McCullough
-  - Jimmy McCulloch
-  - Laurence Juber
-  - Steve Holley
-  - Dave Mason
+    - Linda McCartney
+    - Denny Laine
+    - Denny Seiwell
+    - Henry McCullough
+    - Jimmy McCulloch
+    - Laurence Juber
+    - Steve Holley
+    - Dave Mason
   influenced: []
   mentors: []
 network_extracted: true
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Paul_McCartney_and_Wings
-- https://americansongwriter.com/paul-mccartney-reflects-on-the-madness-of-launching-his-solo-band-wings-following-the-beatles-breakup-i-had-to-grow-up/
-- https://parnassusbooks.net/book/9781324096306
-- https://sterlewine.substack.com/p/paul-mccartney-wings-the-story-of
+  - 'https://en.wikipedia.org/wiki/Paul_McCartney_and_Wings'
+  - >-
+    https://americansongwriter.com/paul-mccartney-reflects-on-the-madness-of-launching-his-solo-band-wings-following-the-beatles-breakup-i-had-to-grow-up/
+  - 'https://parnassusbooks.net/book/9781324096306'
+  - 'https://sterlewine.substack.com/p/paul-mccartney-wings-the-story-of'
 spotify_data:
   followers: 108
   id: 7fOftTo5pbCKKb6AjaJ9OY
   popularity: 20
-  url: https://open.spotify.com/artist/7fOftTo5pbCKKb6AjaJ9OY
+  url: 'https://open.spotify.com/artist/7fOftTo5pbCKKb6AjaJ9OY'
 status: active
 title: Paul McCartney & Wings
+artist_type: band
 ---
 
 ![](paul_mccartney_and_wings.jpg)

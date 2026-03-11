@@ -3,37 +3,39 @@ biography_enhanced_at: '2026-02-15T01:53:21.269747'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:53:21.269757'
 external_urls:
-  spotify: https://open.spotify.com/artist/2T0dqf3B0Zherqy0LzK67c
+  spotify: 'https://open.spotify.com/artist/2T0dqf3B0Zherqy0LzK67c'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-02-15T01:53:21.269759'
 musical_connections:
   collaborators:
-  - Louis 'June' Clark
-  - Paul Boudreaux
-  - Inez Cheatham
+    - Louis 'June' Clark
+    - Paul Boudreaux
+    - Inez Cheatham
   influenced: []
   mentors:
-  - Eddie Bo
+    - Eddie Bo
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- http://brucebase.wikidot.com/relation:the-big-bad-bobby-williams-band
-- https://bobbywilliamsmusic.com/bio
-- https://homeofthegroove.blogspot.com/2009/01/mardi-gras-music-missing-link-bobbys.html?m=0
-- http://brucebase.wikidot.com/relation:bobby-williams
-- https://greenvilleandbeyond.wordpress.com/artists/bobby-williams/
-- https://www.soulstrut.com/Archive/bobby-williams-funky-super-fly
-- https://www.allmusic.com/artist/bobby-williams-mn0001901343
+  - 'http://brucebase.wikidot.com/relation:the-big-bad-bobby-williams-band'
+  - 'https://bobbywilliamsmusic.com/bio'
+  - >-
+    https://homeofthegroove.blogspot.com/2009/01/mardi-gras-music-missing-link-bobbys.html?m=0
+  - 'http://brucebase.wikidot.com/relation:bobby-williams'
+  - 'https://greenvilleandbeyond.wordpress.com/artists/bobby-williams/'
+  - 'https://www.soulstrut.com/Archive/bobby-williams-funky-super-fly'
+  - 'https://www.allmusic.com/artist/bobby-williams-mn0001901343'
 spotify_data:
   followers: 5
   id: 2T0dqf3B0Zherqy0LzK67c
   popularity: 0
-  url: https://open.spotify.com/artist/2T0dqf3B0Zherqy0LzK67c
+  url: 'https://open.spotify.com/artist/2T0dqf3B0Zherqy0LzK67c'
 status: active
 title: Bobby Williams Group
+artist_type: band
 ---
 
 ![]()

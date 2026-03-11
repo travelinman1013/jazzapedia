@@ -1,45 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-25T01:58:02.763121'
-birth_place: Kassala, Sudan
+birth_place: 'Kassala, Sudan, Sudan'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T01:58:02.763130'
 external_urls:
-  spotify: https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB
+  spotify: 'https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB'
   wikipedia: ''
 genres:
-- alternative r&b
+  - alternative r&b
 image_path: 03_Resources/source_material/ArtistPortraits/dua_saleh.jpg
 last_updated: '2026-02-25T01:58:02.763131'
 musical_connections:
   collaborators:
-  - Psymun
-  - Gallant
-  - serpentwithfeet
-  - Sid Sriram
-  - Travis Scott
+    - Psymun
+    - Gallant
+    - serpentwithfeet
+    - Sid Sriram
+    - Travis Scott
   influenced: []
   mentors:
-  - Sudanese family and traditions
-  - Button Poetry
+    - Sudanese family and traditions
+    - Button Poetry
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://idioteq.com/how-dua-saleh-is-bringing-rb-metal-and-fashion-together/
-- https://www.passionweiss.com/2025/03/18/an-interview-with-dua-saleh/
-- https://communitiesthatcarecoalition.com/black-history-365-dua-saleh/
-- https://www.dazed.me/dazed-mena-100/dua-saleh-the-genre-and-gender-aha-agnostic-visionary
-- https://www.iowapublicradio.org/studioone/news/2025-04-17/dua-saleh-i-should-call-them-sapphic-love-and-pioneering-black-r-b
-- https://theface.com/music/dua-saleh-wales-sex-education-netflix-minnesota-music
-- https://secretlystore.com/pages/dua-saleh
-- https://www.behindtheblinds.be/love/words-of-wisdom
-- https://www.rovr.live/artists/dua%20saleh
+  - 'https://idioteq.com/how-dua-saleh-is-bringing-rb-metal-and-fashion-together/'
+  - 'https://www.passionweiss.com/2025/03/18/an-interview-with-dua-saleh/'
+  - 'https://communitiesthatcarecoalition.com/black-history-365-dua-saleh/'
+  - >-
+    https://www.dazed.me/dazed-mena-100/dua-saleh-the-genre-and-gender-aha-agnostic-visionary
+  - >-
+    https://www.iowapublicradio.org/studioone/news/2025-04-17/dua-saleh-i-should-call-them-sapphic-love-and-pioneering-black-r-b
+  - >-
+    https://theface.com/music/dua-saleh-wales-sex-education-netflix-minnesota-music
+  - 'https://secretlystore.com/pages/dua-saleh'
+  - 'https://www.behindtheblinds.be/love/words-of-wisdom'
+  - 'https://www.rovr.live/artists/dua%20saleh'
 spotify_data:
   followers: 118694
   id: 2DGBzoOLcKLK3eWxFyugdB
   popularity: 48
-  url: https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB
+  url: 'https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB'
 status: active
 title: Dua Saleh
+origin: 'Saint Paul, Minnesota, United States'
+artist_type: person
 ---
 
 ![](dua_saleh.jpg)

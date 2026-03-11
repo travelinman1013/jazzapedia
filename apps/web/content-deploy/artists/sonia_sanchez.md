@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-03-10T01:14:56.510606'
-birth_place: Birmingham, Alabama, USA
+birth_place: 'Birmingham, Alabama, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-10T01:14:56.510615'
 external_urls:
-  spotify: https://open.spotify.com/artist/0hvH9P1nlB5xrNdlXwZ22P
-  wikipedia: https://en.wikipedia.org/wiki/Sonia_Sanchez
+  spotify: 'https://open.spotify.com/artist/0hvH9P1nlB5xrNdlXwZ22P'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonia_Sanchez'
 genres:
-- spoken word
+  - spoken word
 image_path: 03_Resources/source_material/ArtistPortraits/sonia_sanchez.jpg
 last_updated: '2026-03-10T01:14:56.510617'
 musical_connections:
   collaborators:
-  - Haki Madhubuti
-  - Nikki Giovanni
-  - Etheridge Knight
-  - Diana Ross
+    - Haki Madhubuti
+    - Nikki Giovanni
+    - Etheridge Knight
+    - Diana Ross
   influenced:
-  - Amiri Baraka
+    - Amiri Baraka
   mentors:
-  - Louise Bogan
-  - Dudley Randall
+    - Louise Bogan
+    - Dudley Randall
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sonia_Sanchez
-- https://stamma.org/features/sonia-sanchez
-- https://www.wrti.org/arts-desk/2021-04-09/jazz-philadelphias-hometown-heroes-spotlight-on-poet-sonia-sanchez
-- https://www.womenshistory.org/education-resources/biographies/sonia-sanchez
-- https://www.apbspeakers.com/speaker/sonia-sanchez/
-- https://poets.org/poet/sonia-sanchez
-- https://www.britannica.com/biography/Sonia-Sanchez
-- https://soniasanchez.net/bio/
-- https://www.smith.edu/people/sonia-sanchez
+  - 'https://en.wikipedia.org/wiki/Sonia_Sanchez'
+  - 'https://stamma.org/features/sonia-sanchez'
+  - >-
+    https://www.wrti.org/arts-desk/2021-04-09/jazz-philadelphias-hometown-heroes-spotlight-on-poet-sonia-sanchez
+  - 'https://www.womenshistory.org/education-resources/biographies/sonia-sanchez'
+  - 'https://www.apbspeakers.com/speaker/sonia-sanchez/'
+  - 'https://poets.org/poet/sonia-sanchez'
+  - 'https://www.britannica.com/biography/Sonia-Sanchez'
+  - 'https://soniasanchez.net/bio/'
+  - 'https://www.smith.edu/people/sonia-sanchez'
 spotify_data:
   followers: 3304
   id: 0hvH9P1nlB5xrNdlXwZ22P
   popularity: 5
-  url: https://open.spotify.com/artist/0hvH9P1nlB5xrNdlXwZ22P
+  url: 'https://open.spotify.com/artist/0hvH9P1nlB5xrNdlXwZ22P'
 status: active
 title: Sonia Sanchez
+birth_date: '1934-09-09'
+artist_type: person
 ---
 
 ![](sonia_sanchez.jpg)

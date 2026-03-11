@@ -1,73 +1,76 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-08T03:01:22.468322'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:01:22.468332'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/66f8317e-eb08-4878-91e3-e3573a787b31
-  spotify: https://open.spotify.com/artist/3z35e7jv1Z1ZuE8sRJ75ym
+  musicbrainz: 'https://musicbrainz.org/artist/66f8317e-eb08-4878-91e3-e3573a787b31'
+  spotify: 'https://open.spotify.com/artist/3z35e7jv1Z1ZuE8sRJ75ym'
   wikipedia: ''
 genres:
-- cool jazz
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/roger_davidson_trio.jpg
 instruments:
-- piano
-- bass
-- drums (drum set)
+  - piano
+  - bass
+  - drums (drum set)
 last_updated: '2026-03-08T03:01:22.468335'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 608cdcfa-862d-4cac-9f57-ee9ef6c6139f
-  name: Roger Davidson
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: ca5c703d-02c3-4caf-9df9-fa26310d90a0
-  name: David Finck
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 6b4804fa-9a98-4557-a327-a97dbad9ae93
-  name: Lewis Nash
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 608cdcfa-862d-4cac-9f57-ee9ef6c6139f
+    name: Roger Davidson
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: ca5c703d-02c3-4caf-9df9-fa26310d90a0
+    name: David Finck
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 6b4804fa-9a98-4557-a327-a97dbad9ae93
+    name: Lewis Nash
 musical_connections:
   collaborators:
-  - David Finck
-  - Dave Ratajczak
-  - Adriano Santos
-  - Pablo Aslan
-  - Raúl Jaurena
-  - Frank London
-  - Lewis Nash
+    - David Finck
+    - Dave Ratajczak
+    - Adriano Santos
+    - Pablo Aslan
+    - Raúl Jaurena
+    - Frank London
+    - Lewis Nash
   influenced: []
   mentors:
-  - Helen Keane
-  - Stan Getz
-  - Dizzy Gillespie
-  - Jim McNeely
+    - Helen Keane
+    - Stan Getz
+    - Dizzy Gillespie
+    - Jim McNeely
 musicbrainz_id: 66f8317e-eb08-4878-91e3-e3573a787b31
 network_extracted: true
-origin: Paris, France (birthplace)
+origin: 'Paris, France (birthplace)'
 primary_source: perplexity
 research_sources:
-- https://rogerdavidsonmusic.com/jazz-works/
-- https://rogerdavidsonmusic.com/about/
-- https://worldmusicreport.com/reviews/albums/roger-davidson-trio-live-at-caffe-vivaldi-volume-2/
-- https://www.allaboutjazz.com/musicians/roger-davidson-22317/
-- https://meettheartist.online/2021/01/14/roger-davidson-composer-pianist/
-- https://jazztimes.com/archives/roger-davidson-ten-to-twelve/
-- https://www.jazzmusicarchives.com/artist/roger-davidson
+  - 'https://rogerdavidsonmusic.com/jazz-works/'
+  - 'https://rogerdavidsonmusic.com/about/'
+  - >-
+    https://worldmusicreport.com/reviews/albums/roger-davidson-trio-live-at-caffe-vivaldi-volume-2/
+  - 'https://www.allaboutjazz.com/musicians/roger-davidson-22317/'
+  - 'https://meettheartist.online/2021/01/14/roger-davidson-composer-pianist/'
+  - 'https://jazztimes.com/archives/roger-davidson-ten-to-twelve/'
+  - 'https://www.jazzmusicarchives.com/artist/roger-davidson'
 spotify_data:
   followers: 56
   id: 3z35e7jv1Z1ZuE8sRJ75ym
   popularity: 4
-  url: https://open.spotify.com/artist/3z35e7jv1Z1ZuE8sRJ75ym
+  url: 'https://open.spotify.com/artist/3z35e7jv1Z1ZuE8sRJ75ym'
 status: active
 title: Roger Davidson Trio
+birth_place: 'Paris, France, France'
+birth_date: '1952'
 ---
 
 ![](roger_davidson_trio.jpg)

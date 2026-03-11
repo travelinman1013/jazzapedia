@@ -3,44 +3,52 @@ biography_enhanced_at: '2026-03-02T01:14:43.308582'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:14:43.308592'
 external_urls:
-  spotify: https://open.spotify.com/artist/7jlqf7cobqW3slCrn6mUDW
-  wikipedia: https://en.wikipedia.org/wiki/Howard_Rumsey
+  spotify: 'https://open.spotify.com/artist/7jlqf7cobqW3slCrn6mUDW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Howard_Rumsey'
 genres:
-- cool jazz
-- hard bop
-image_path: 03_Resources/source_material/ArtistPortraits/howard_rumseys_lighthouse_all_stars.jpg
+  - cool jazz
+  - hard bop
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/howard_rumseys_lighthouse_all_stars.jpg
 last_updated: '2026-03-02T01:14:43.308594'
 musical_connections:
   collaborators:
-  - Hampton Hawes
-  - Teddy Edwards
-  - Sonny Criss
-  - Jimmy Giuffre
-  - Shorty Rogers
-  - Shelly Manne
-  - Bud Shank
-  - Max Roach
+    - Hampton Hawes
+    - Teddy Edwards
+    - Sonny Criss
+    - Jimmy Giuffre
+    - Shorty Rogers
+    - Shelly Manne
+    - Bud Shank
+    - Max Roach
   influenced: []
   mentors:
-  - Stan Kenton
+    - Stan Kenton
 network_extracted: true
-origin: Hermosa Beach, California, USA
+origin: 'Hermosa Beach, California, USA'
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/howard-rumsey-mn0000277201
-- https://sunra.substack.com/p/the-lighthouse-all-stars
-- https://jazztimes.com/features/tributes-and-obituaries/howard-rumsey-west-coast-bassist-and-entrepreneur-dies-at-97/
-- https://en.wikipedia.org/wiki/Howard_Rumsey
-- https://londonjazzcollector.wordpress.com/2015/05/11/howard-rumseys-lighthouse-all-stars-1956-stereo-records/
-- https://concord.com/artist/lighthouse-all-stars/
-- https://www.allaboutjazz.com/howard-rumsey-the-lighthouse-all-star-howard-rumsey-by-rex-butters__3876
+  - 'https://www.allmusic.com/artist/howard-rumsey-mn0000277201'
+  - 'https://sunra.substack.com/p/the-lighthouse-all-stars'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/howard-rumsey-west-coast-bassist-and-entrepreneur-dies-at-97/
+  - 'https://en.wikipedia.org/wiki/Howard_Rumsey'
+  - >-
+    https://londonjazzcollector.wordpress.com/2015/05/11/howard-rumseys-lighthouse-all-stars-1956-stereo-records/
+  - 'https://concord.com/artist/lighthouse-all-stars/'
+  - >-
+    https://www.allaboutjazz.com/howard-rumsey-the-lighthouse-all-star-howard-rumsey-by-rex-butters__3876
 spotify_data:
   followers: 439
   id: 7jlqf7cobqW3slCrn6mUDW
   popularity: 2
-  url: https://open.spotify.com/artist/7jlqf7cobqW3slCrn6mUDW
+  url: 'https://open.spotify.com/artist/7jlqf7cobqW3slCrn6mUDW'
 status: active
-title: HOWARD RUMSEY'S LIGHTHOUSE ALL STARS
+title: Howard Rumsey's Lighthouse All Stars
+birth_place: 'Brawley, California, United States'
+birth_date: '1917-11-07'
+death_date: '2015-07-15'
+artist_type: band
 ---
 
 ![](howard_rumseys_lighthouse_all_stars.jpg)

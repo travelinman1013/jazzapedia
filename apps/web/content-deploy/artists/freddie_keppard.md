@@ -1,73 +1,78 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 9c686c53-c549-4081-b993-e1babe0b2207
-  name: Olympia Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: e758234e-2635-4e1c-bed0-6c932e1e5d8a
-  name: Freddie Keppard’s Jazz Cardinals
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 9c686c53-c549-4081-b993-e1babe0b2207
+    name: Olympia Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: e758234e-2635-4e1c-bed0-6c932e1e5d8a
+    name: Freddie Keppard’s Jazz Cardinals
 biography_enhanced_at: '2026-02-28T01:46:24.358770'
 birth_date: '1889-02-27'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1933-07-15'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:46:24.358780'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/71fdf6e9-8296-460d-869c-f9f7e95434d3
-  spotify: https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ
-  wikipedia: https://en.wikipedia.org/wiki/Freddie_Keppard
+  musicbrainz: 'https://musicbrainz.org/artist/71fdf6e9-8296-460d-869c-f9f7e95434d3'
+  spotify: 'https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Freddie_Keppard'
 gender: Male
 genres:
-- ragtime
-- jazz
+  - ragtime
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/freddie_keppard.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-02-28T01:46:24.358782'
 musical_connections:
   collaborators:
-  - Bill Johnson
-  - Johnny Dodds
-  - Jimmie Noone
-  - Doc Cook
-  - Erskine Tate
-  - Alphonse Picou
-  - Sidney Bechet
-  - Louis Keppard
-  - King Oliver
+    - Bill Johnson
+    - Johnny Dodds
+    - Jimmie Noone
+    - Doc Cook
+    - Erskine Tate
+    - Alphonse Picou
+    - Sidney Bechet
+    - Louis Keppard
+    - King Oliver
   influenced:
-  - Louis Armstrong
+    - Louis Armstrong
   mentors:
-  - Buddy Bolden
+    - Buddy Bolden
 musicbrainz_id: 71fdf6e9-8296-460d-869c-f9f7e95434d3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Freddie_Keppard
-- https://rediscoveringjazz.wordpress.com/2022/02/26/king-freddie-keppard/
-- https://syncopatedtimes.com/new-orleans-trumpet-freddie-keppard-chris-kelly-buddy-petit/
-- https://goldenmysticsofoldtimemusic.com/gallery/freddie-keppard/
-- https://www.cc-seas.columbia.edu/wkcr/story/musicians-show-freddie-keppard-discographical-symposium
-- https://blackpast.org/african-american-history/keppard-freddie-1890-1933/
-- https://www.52cues.com/thoughts-and-events/a-little-chat-shannon-passing-on-notes-freddie-keppard
-- https://veritenews.org/2025/10/20/bitd-eddie-keppard-cornetist/
+  - 'https://en.wikipedia.org/wiki/Freddie_Keppard'
+  - 'https://rediscoveringjazz.wordpress.com/2022/02/26/king-freddie-keppard/'
+  - >-
+    https://syncopatedtimes.com/new-orleans-trumpet-freddie-keppard-chris-kelly-buddy-petit/
+  - 'https://goldenmysticsofoldtimemusic.com/gallery/freddie-keppard/'
+  - >-
+    https://www.cc-seas.columbia.edu/wkcr/story/musicians-show-freddie-keppard-discographical-symposium
+  - 'https://blackpast.org/african-american-history/keppard-freddie-1890-1933/'
+  - >-
+    https://www.52cues.com/thoughts-and-events/a-little-chat-shannon-passing-on-notes-freddie-keppard
+  - 'https://veritenews.org/2025/10/20/bitd-eddie-keppard-cornetist/'
 spotify_data:
   followers: 2166
   id: 0y247K7t0JULOQuGx17ZFJ
   popularity: 4
-  url: https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ
+  url: 'https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ'
 status: active
 tags:
-- dixieland
-- jazz
+  - dixieland
+  - jazz
 title: Freddie Keppard
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](freddie_keppard.jpg)

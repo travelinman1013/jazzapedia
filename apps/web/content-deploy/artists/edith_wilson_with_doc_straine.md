@@ -1,37 +1,41 @@
 ---
 biography_enhanced_at: '2026-01-30T01:17:51.585759'
-birth_place: Unknown, USA
+birth_place: 'Unknown, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:17:51.585770'
 external_urls:
-  spotify: https://open.spotify.com/artist/27pcuPspkTFWFU6y8ZNWDD
+  spotify: 'https://open.spotify.com/artist/27pcuPspkTFWFU6y8ZNWDD'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-30T01:17:51.585771'
 musical_connections:
   collaborators:
-  - Doc Straine
-  - Johnny Dunn
-  - Fats Waller
-  - Danny Wilson
-  - Eubie Blake
+    - Doc Straine
+    - Johnny Dunn
+    - Fats Waller
+    - Danny Wilson
+    - Eubie Blake
   influenced: []
   mentors:
-  - Joe Clark
-  - Charlie Barnet
+    - Joe Clark
+    - Charlie Barnet
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/wilson-edith-1896-1981
-- https://wbssmedia.com/artists/detail/2108
+  - >-
+    https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/wilson-edith-1896-1981
+  - 'https://wbssmedia.com/artists/detail/2108'
 spotify_data:
   followers: 3
   id: 27pcuPspkTFWFU6y8ZNWDD
   popularity: 0
-  url: https://open.spotify.com/artist/27pcuPspkTFWFU6y8ZNWDD
+  url: 'https://open.spotify.com/artist/27pcuPspkTFWFU6y8ZNWDD'
 status: active
-title: edith wilson with doc straine
+title: Edith Wilson With Doc Straine
+birth_date: '1896-09-02'
+death_date: '1981-03-30'
+artist_type: person
 ---
 
 ![]()

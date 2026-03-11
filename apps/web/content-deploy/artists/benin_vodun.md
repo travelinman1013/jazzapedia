@@ -3,39 +3,45 @@ biography_enhanced_at: '2026-01-30T01:21:14.745776'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:21:14.745792'
 external_urls:
-  spotify: https://open.spotify.com/artist/0s37MmZHpR7HYPsR5mCVdn
-  wikipedia: https://en.wikipedia.org/wiki/Music_of_Benin
+  spotify: 'https://open.spotify.com/artist/0s37MmZHpR7HYPsR5mCVdn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Music_of_Benin'
 genres:
-- riddim
+  - riddim
 image_path: 03_Resources/source_material/ArtistPortraits/benin_vodun.jpg
 last_updated: '2026-01-30T01:21:14.745794'
 musical_connections:
   collaborators:
-  - Orchestre Poly-Rythmo
-  - Gangbé Brass Band
+    - Orchestre Poly-Rythmo
+    - Gangbé Brass Band
   influenced:
-  - Angélique Kidjo
-  - Sagbohan Danialou
+    - Angélique Kidjo
+    - Sagbohan Danialou
   mentors:
-  - E.T. Mensah
-  - Louis Armstrong
+    - E.T. Mensah
+    - Louis Armstrong
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://library.oapen.org/bitstream/handle/20.500.12657/64041/9780472903283.pdf?sequence=1&isAllowed=y
-- https://en.wikipedia.org/wiki/Music_of_Benin
-- https://theworld.org/stories/2014/02/12/nicolas-moncadas-orogod-vodun-and-sagbohan-danialou
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/angelique-kidjo
-- https://www.britannica.com/biography/Angelique-Kidjo
-- https://www.francerocks.com/artist/benin-international-musical/
-- https://worldmusic.net/blogs/guide-to-world-music/voodoo-from-vodou-to-the-blues
+  - >-
+    https://library.oapen.org/bitstream/handle/20.500.12657/64041/9780472903283.pdf?sequence=1&isAllowed=y
+  - 'https://en.wikipedia.org/wiki/Music_of_Benin'
+  - >-
+    https://theworld.org/stories/2014/02/12/nicolas-moncadas-orogod-vodun-and-sagbohan-danialou
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/angelique-kidjo
+  - 'https://www.britannica.com/biography/Angelique-Kidjo'
+  - 'https://www.francerocks.com/artist/benin-international-musical/'
+  - >-
+    https://worldmusic.net/blogs/guide-to-world-music/voodoo-from-vodou-to-the-blues
 spotify_data:
   followers: 279
   id: 0s37MmZHpR7HYPsR5mCVdn
   popularity: 2
-  url: https://open.spotify.com/artist/0s37MmZHpR7HYPsR5mCVdn
+  url: 'https://open.spotify.com/artist/0s37MmZHpR7HYPsR5mCVdn'
 status: active
 title: Benin Vodun
+origin: 'Cotonou, Benin (primary hub); Ouidah, Benin (historical vòdún center)'
+artist_type: band
 ---
 
 ![](benin_vodun.jpg)

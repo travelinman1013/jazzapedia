@@ -1,35 +1,37 @@
 ---
 biography_enhanced_at: '2026-02-05T01:50:27.673110'
-birth_place: Massachusetts, USA (birthplace); New Orleans, Louisiana, USA (base)
+birth_place: 'Massachusetts, USA (birthplace); New Orleans, Louisiana, USA (base)'
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:50:27.673122'
 external_urls:
-  spotify: https://open.spotify.com/artist/6diSawT5XJdYq5XqCFOuPN
+  spotify: 'https://open.spotify.com/artist/6diSawT5XJdYq5XqCFOuPN'
   wikipedia: ''
 genres:
-- retro soul
+  - retro soul
 image_path: 03_Resources/source_material/ArtistPortraits/richard_rourke.jpg
 last_updated: '2026-02-05T01:50:27.673205'
 musical_connections:
   collaborators:
-  - Hans Williams
+    - Hans Williams
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.richardrourke.com/about
-- https://soundbetter.com/profiles/627724-richard-rourke
-- https://www.youtube.com/@richardrourke
-- https://www.wherethemusicmeets.com/2025/03/26/richard-rourke-some-days/
-- https://www.australianworldorchestra.com.au/1341-richard-rourke/
+  - 'https://www.richardrourke.com/about'
+  - 'https://soundbetter.com/profiles/627724-richard-rourke'
+  - 'https://www.youtube.com/@richardrourke'
+  - 'https://www.wherethemusicmeets.com/2025/03/26/richard-rourke-some-days/'
+  - 'https://www.australianworldorchestra.com.au/1341-richard-rourke/'
 spotify_data:
   followers: 1413
   id: 6diSawT5XJdYq5XqCFOuPN
   popularity: 37
-  url: https://open.spotify.com/artist/6diSawT5XJdYq5XqCFOuPN
+  url: 'https://open.spotify.com/artist/6diSawT5XJdYq5XqCFOuPN'
 status: active
-title: richard rourke
+title: Richard Rourke
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](richard_rourke.jpg)

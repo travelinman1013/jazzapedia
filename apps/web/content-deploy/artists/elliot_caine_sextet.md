@@ -3,44 +3,48 @@ biography_enhanced_at: '2026-01-27T01:49:27.592044'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:49:27.592054'
 external_urls:
-  spotify: https://open.spotify.com/artist/3ef8WFnn2ywmJF2ltPtJqH
+  spotify: 'https://open.spotify.com/artist/3ef8WFnn2ywmJF2ltPtJqH'
   wikipedia: Not found
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/elliot_caine_sextet.jpg
 last_updated: '2026-01-27T01:49:27.592055'
 musical_connections:
   collaborators:
-  - Teddy Edwards
-  - Ernie Andrews
-  - The Machito Orchestra
-  - DJ Bonebrake
-  - Beck
-  - The Beastie Boys
-  - Wyclef Jean
-  - Filter
-  - Tierra
-  - La Sonora Dinamita
-  - Poncho Sanchez
+    - Teddy Edwards
+    - Ernie Andrews
+    - The Machito Orchestra
+    - DJ Bonebrake
+    - Beck
+    - The Beastie Boys
+    - Wyclef Jean
+    - Filter
+    - Tierra
+    - La Sonora Dinamita
+    - Poncho Sanchez
   influenced: []
   mentors:
-  - David Baker
+    - David Baker
 network_extracted: true
-origin: Indianapolis, Indiana, United States (birthplace); Los Angeles, California,
+origin: >-
+  Indianapolis, Indiana, United States (birthplace); Los Angeles, California,
   United States (primary performance base)
 primary_source: perplexity
 research_sources:
-- https://www.elliottcaine.com/the-band
-- https://www.drecaine.com/jazz-optometrist.html
-- https://www.tsahara.com/elliottcaine
-- https://wondercaprecords.com/cainebio.html
-- https://www.latimes.com/socal/glendale-news-press/tn-gnp-et-0709-elliott-caine-20160708-story.html
+  - 'https://www.elliottcaine.com/the-band'
+  - 'https://www.drecaine.com/jazz-optometrist.html'
+  - 'https://www.tsahara.com/elliottcaine'
+  - 'https://wondercaprecords.com/cainebio.html'
+  - >-
+    https://www.latimes.com/socal/glendale-news-press/tn-gnp-et-0709-elliott-caine-20160708-story.html
 spotify_data:
   followers: 11
   id: 3ef8WFnn2ywmJF2ltPtJqH
   popularity: 0
-  url: https://open.spotify.com/artist/3ef8WFnn2ywmJF2ltPtJqH
+  url: 'https://open.spotify.com/artist/3ef8WFnn2ywmJF2ltPtJqH'
 status: active
 title: Elliot Caine Sextet
+birth_place: 'Indianapolis, Indiana, United States'
+artist_type: person
 ---
 
 ![](elliot_caine_sextet.jpg)

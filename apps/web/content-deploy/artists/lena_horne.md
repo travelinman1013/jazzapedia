@@ -2,51 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-02-10T01:47:42.985705'
 birth_date: '1917-06-30'
-birth_place: Bedford–Stuyvesant
+birth_place: 'Bedford–Stuyvesant, New York City, United States'
 death_date: '2010-05-09'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:47:42.985717'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0031bc7a-1b6f-4620-99db-5202405b0749
-  spotify: https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe
-  wikipedia: https://en.wikipedia.org/wiki/Lena_Horne
+  musicbrainz: 'https://musicbrainz.org/artist/0031bc7a-1b6f-4620-99db-5202405b0749'
+  spotify: 'https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lena_Horne'
 gender: Female
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/lena_horne.jpg
 instruments:
-- vocal
-- lead vocals
+  - vocal
+  - lead vocals
 last_updated: '2026-02-10T01:47:42.985719'
 musical_connections:
   collaborators:
-  - Noble Sissle
-  - Charlie Barnet
-  - Henry Levine and Paul Laval
+    - Noble Sissle
+    - Charlie Barnet
+    - Henry Levine and Paul Laval
   influenced: []
   mentors:
-  - Adelaide Hall
+    - Adelaide Hall
 musicbrainz_id: 0031bc7a-1b6f-4620-99db-5202405b0749
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/lena-horne/
-- https://www.bluenote.com/artist/lena-horne/
-- https://jazztimes.com/features/tributes-and-obituaries/lena-horne-dies-at-92/
-- https://en.wikipedia.org/wiki/Lena_Horne
-- https://www.biography.com/musicians/lena-horne
-- https://www.jerryjazzmusician.com/a-womens-history-month-profile-lena-horne/
+  - 'https://www.allaboutjazz.com/musicians/lena-horne/'
+  - 'https://www.bluenote.com/artist/lena-horne/'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/lena-horne-dies-at-92/
+  - 'https://en.wikipedia.org/wiki/Lena_Horne'
+  - 'https://www.biography.com/musicians/lena-horne'
+  - 'https://www.jerryjazzmusician.com/a-womens-history-month-profile-lena-horne/'
 spotify_data:
   followers: 65371
   id: 2I6nP70ltmOHi6xjJUXHMe
   popularity: 37
-  url: https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe
+  url: 'https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe'
 status: active
 tags:
-- american
-- broadway
-- cotm candidate
+  - american
+  - broadway
+  - cotm candidate
 title: Lena Horne
+is_active: false
+origin: 'Brooklyn, New York, United States'
 ---
 
 ![](lena_horne.jpg)

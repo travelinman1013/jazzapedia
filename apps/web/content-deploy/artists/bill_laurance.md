@@ -1,98 +1,100 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: fe85367e-4036-43c1-874b-b91af81cb4f3
-  name: Snarky Puppy
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - principal
-  - synthesizer
-  mbid: 64899b10-483c-4e78-bdb7-cbcff5336492
-  name: Bill Laurance Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - piano
-  - principal
-  mbid: 64899b10-483c-4e78-bdb7-cbcff5336492
-  name: Bill Laurance Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - principal
-  - Rhodes piano
-  mbid: 64899b10-483c-4e78-bdb7-cbcff5336492
-  name: Bill Laurance Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: fe85367e-4036-43c1-874b-b91af81cb4f3
+    name: Snarky Puppy
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - principal
+      - synthesizer
+    mbid: 64899b10-483c-4e78-bdb7-cbcff5336492
+    name: Bill Laurance Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - piano
+      - principal
+    mbid: 64899b10-483c-4e78-bdb7-cbcff5336492
+    name: Bill Laurance Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - principal
+      - Rhodes piano
+    mbid: 64899b10-483c-4e78-bdb7-cbcff5336492
+    name: Bill Laurance Trio
 biography_enhanced_at: '2026-03-05T01:59:20.180713'
 birth_date: '1981-04-02'
-birth_place: London
+birth_place: 'North London, England, United Kingdom'
 disambiguation: English composer & multi-instrumentalist
 enhancement_provider: perplexity
 entry_created: '2026-03-05T01:59:20.180722'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f30eb720-5cb6-4b44-a289-07ced7971041
-  spotify: https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Laurance
+  musicbrainz: 'https://musicbrainz.org/artist/f30eb720-5cb6-4b44-a289-07ced7971041'
+  spotify: 'https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Laurance'
 gender: Male
 genres:
-- jazz fusion
-- nu jazz
-- jazz
-- ambient jazz
+  - jazz fusion
+  - nu jazz
+  - jazz
+  - ambient jazz
 image_path: 03_Resources/source_material/ArtistPortraits/bill_laurance.jpg
 instruments:
-- keyboard
-- eponymous
-- principal
-- synthesizer
-- piano
-- Rhodes piano
-- grand piano
-- Wurlitzer electric piano
+  - keyboard
+  - eponymous
+  - principal
+  - synthesizer
+  - piano
+  - Rhodes piano
+  - grand piano
+  - Wurlitzer electric piano
 last_updated: '2026-03-05T01:59:20.180723'
 musical_connections:
   collaborators:
-  - Michael League
-  - Snarky Puppy
-  - The Untold Orchestra
-  - David Crosby, Morcheeba, Salif Keita, Bobby McFerrin, Susana Baca, Lalah Hathaway,
-    Laura Mvula, Jacob Collier, Musiq Soul Child, Chris
-  - WDR Big Band
+    - Michael League
+    - Snarky Puppy
+    - The Untold Orchestra
+    - >-
+      David Crosby, Morcheeba, Salif Keita, Bobby McFerrin, Susana Baca, Lalah
+      Hathaway, Laura Mvula, Jacob Collier, Musiq Soul Child, Chris
+    - WDR Big Band
   influenced: []
   mentors:
-  - Classical music education at University of Leeds
+    - Classical music education at University of Leeds
 musicbrainz_id: f30eb720-5cb6-4b44-a289-07ced7971041
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://classical.music.apple.com/in/artist/1153045485
-- https://en.wikipedia.org/wiki/Bill_Laurance
-- https://actmusic.com/en/artists-a-z/bill-laurance/
-- https://ragman.org/bill-laurance
-- https://billlaurance.com/About
-- https://www.allaboutjazz.com/musicians/bill-laurance/
-- https://billlaurance.com
-- https://www.musicnetwork.ie/whats-on/bill-laurance
-- https://www.allmusic.com/artist/bill-laurance-mn0002561496
+  - 'https://classical.music.apple.com/in/artist/1153045485'
+  - 'https://en.wikipedia.org/wiki/Bill_Laurance'
+  - 'https://actmusic.com/en/artists-a-z/bill-laurance/'
+  - 'https://ragman.org/bill-laurance'
+  - 'https://billlaurance.com/About'
+  - 'https://www.allaboutjazz.com/musicians/bill-laurance/'
+  - 'https://billlaurance.com'
+  - 'https://www.musicnetwork.ie/whats-on/bill-laurance'
+  - 'https://www.allmusic.com/artist/bill-laurance-mn0002561496'
 spotify_data:
   followers: 63489
   id: 2QjVv1gkLn8XkQxVndgLHF
   popularity: 41
-  url: https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF
+  url: 'https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF'
 status: active
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
+  - contemporary jazz
+  - jazz
+  - jazz fusion
 title: Bill Laurance
+origin: 'London, England, United Kingdom'
 ---
 
 ![](bill_laurance.jpg)

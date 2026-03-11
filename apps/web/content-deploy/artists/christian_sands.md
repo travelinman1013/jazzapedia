@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-19T01:54:41.711560'
-birth_place: New Haven, Connecticut, United States
+birth_place: 'New Haven, Connecticut, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:54:41.711571'
 external_urls:
-  spotify: https://open.spotify.com/artist/1OVmnAhTevnwsr902sVIjU
-  wikipedia: https://en.wikipedia.org/wiki/Christian_Sands
+  spotify: 'https://open.spotify.com/artist/1OVmnAhTevnwsr902sVIjU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Christian_Sands'
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/christian_sands.jpg
 last_updated: '2026-02-19T01:54:41.711573'
 musical_connections:
   collaborators:
-  - Christian McBride
-  - Russell Hall
-  - Jerome Jennings
+    - Christian McBride
+    - Russell Hall
+    - Jerome Jennings
   influenced: []
   mentors:
-  - Dr. Billy Taylor
-  - Dave Brubeck
-  - Christian McBride
+    - Dr. Billy Taylor
+    - Dave Brubeck
+    - Christian McBride
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.christiansandsjazz.com/bio
-- https://www.dso.org/events-and-tickets/artists/christian-sands
-- https://www.backstagebayarea.com/interviews/a-word-with-jazz-pianist-christian-sands
-- https://www.christiansandsjazz.com/home
-- https://jazzforumarts.org/christian-sands-trio-2/
-- https://www.newhavenarts.org/arts-paper/articles/like-home
-- https://www.telluridejazz.org/christian-sands
-- https://bnatural.nyc/artists/christian-sands/
-- https://en.wikipedia.org/wiki/Christian_Sands
+  - 'https://www.christiansandsjazz.com/bio'
+  - 'https://www.dso.org/events-and-tickets/artists/christian-sands'
+  - >-
+    https://www.backstagebayarea.com/interviews/a-word-with-jazz-pianist-christian-sands
+  - 'https://www.christiansandsjazz.com/home'
+  - 'https://jazzforumarts.org/christian-sands-trio-2/'
+  - 'https://www.newhavenarts.org/arts-paper/articles/like-home'
+  - 'https://www.telluridejazz.org/christian-sands'
+  - 'https://bnatural.nyc/artists/christian-sands/'
+  - 'https://en.wikipedia.org/wiki/Christian_Sands'
 spotify_data:
   followers: 14898
   id: 1OVmnAhTevnwsr902sVIjU
   popularity: 21
-  url: https://open.spotify.com/artist/1OVmnAhTevnwsr902sVIjU
+  url: 'https://open.spotify.com/artist/1OVmnAhTevnwsr902sVIjU'
 status: active
 title: Christian Sands
+birth_date: '1989-05-22'
+artist_type: person
 ---
 
 ![](christian_sands.jpg)

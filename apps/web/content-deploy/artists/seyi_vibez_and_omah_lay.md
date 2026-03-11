@@ -3,38 +3,41 @@ biography_enhanced_at: '2026-01-25T01:39:59.503502'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:39:59.503508'
 external_urls:
-  spotify: https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx
+  spotify: 'https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx'
   wikipedia: ''
 genres:
-- afro adura
-- afrobeats
-- afrobeat
-- afropiano
-- afropop
+  - afro adura
+  - afrobeats
+  - afrobeat
+  - afropiano
+  - afropop
 image_path: 03_Resources/source_material/ArtistPortraits/seyi_vibez_and_omah_lay.jpg
 last_updated: '2026-01-25T01:39:59.503509'
 musical_connections:
   collaborators:
-  - Omah Lay
-  - Burna Boy
-  - Olamide
+    - Omah Lay
+    - Burna Boy
+    - Olamide
   influenced: []
   mentors: []
 network_extracted: true
-origin: Lagos State & Port Harcourt, Rivers State, Nigeria
+origin: 'Lagos State & Port Harcourt, Rivers State, Nigeria'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Seyi_Vibez
-- https://en.wikipedia.org/wiki/Omah_Lay
-- https://www.turntablecharts.com/news/2047
-- https://afrobeatsmagazine.com/seyi-vibez-and-omah-lay-unveil-my-healer/
+  - 'https://en.wikipedia.org/wiki/Seyi_Vibez'
+  - 'https://en.wikipedia.org/wiki/Omah_Lay'
+  - 'https://www.turntablecharts.com/news/2047'
+  - 'https://afrobeatsmagazine.com/seyi-vibez-and-omah-lay-unveil-my-healer/'
 spotify_data:
   followers: 4622894
   id: 4zmZ8lVLzGc84S4v2B1rLx
   popularity: 76
-  url: https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx
+  url: 'https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx'
 status: active
-title: seyi vibez & omah lay
+title: Seyi Vibez & Omah Lay
+birth_place: 'Ketu, Lagos State, Nigeria'
+birth_date: '2000-07-12'
+artist_type: band
 ---
 
 ![](seyi_vibez_and_omah_lay.jpg)

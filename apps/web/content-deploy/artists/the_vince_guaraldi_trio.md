@@ -3,43 +3,47 @@ biography_enhanced_at: '2026-02-09T01:18:51.710412'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:18:51.710459'
 external_urls:
-  spotify: https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV
-  wikipedia: https://en.wikipedia.org/wiki/Vince_Guaraldi
+  spotify: 'https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vince_Guaraldi'
 genres:
-- christmas
+  - christmas
 image_path: 03_Resources/source_material/ArtistPortraits/the_vince_guaraldi_trio.jpg
 last_updated: '2026-02-09T01:18:51.710461'
 musical_connections:
   collaborators:
-  - Eddie Duran
-  - Dean Reilly
-  - Colin Bailey
-  - Fred Marshall
-  - Jerry Granelli
-  - Bola Sete
-  - Woody Herman
+    - Eddie Duran
+    - Dean Reilly
+    - Colin Bailey
+    - Fred Marshall
+    - Jerry Granelli
+    - Bola Sete
+    - Woody Herman
   influenced: []
   mentors:
-  - Cal Tjader
-  - Uncles (unnamed)
+    - Cal Tjader
+    - Uncles (unnamed)
 network_extracted: true
-origin: San Francisco, California, USA
+origin: 'San Francisco, California, USA'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Vince+Guaraldi+Trio/+wiki
-- https://en.wikipedia.org/wiki/Vince_Guaraldi
-- http://fivecentsplease.org/dpb/pccbio.html
-- https://concord.com/artist/vince-guaraldi/
-- https://thecaliforniaconservatory.com/vince-guaraldi/
-- https://pianowithjonny.com/piano-lessons/vince-guaraldi-jazz-genius-behind-the-peanuts-show/
-- https://www.openculture.com/2023/12/an-introduction-to-vince-guaraldi-the-jazz-composer-who-created-the-best-christmas-album-ever-a-charlie-brown-christmas.html
+  - 'https://www.last.fm/music/Vince+Guaraldi+Trio/+wiki'
+  - 'https://en.wikipedia.org/wiki/Vince_Guaraldi'
+  - 'http://fivecentsplease.org/dpb/pccbio.html'
+  - 'https://concord.com/artist/vince-guaraldi/'
+  - 'https://thecaliforniaconservatory.com/vince-guaraldi/'
+  - >-
+    https://pianowithjonny.com/piano-lessons/vince-guaraldi-jazz-genius-behind-the-peanuts-show/
+  - >-
+    https://www.openculture.com/2023/12/an-introduction-to-vince-guaraldi-the-jazz-composer-who-created-the-best-christmas-album-ever-a-charlie-brown-christmas.html
 spotify_data:
   followers: 96613
   id: 7gXUrN8vgmVhKVCkw9pavV
   popularity: 54
-  url: https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV
+  url: 'https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV'
 status: active
 title: The Vince Guaraldi Trio
+birth_place: 'San Francisco, California, United States'
+artist_type: band
 ---
 
 ![](the_vince_guaraldi_trio.jpg)

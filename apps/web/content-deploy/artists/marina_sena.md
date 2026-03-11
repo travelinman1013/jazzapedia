@@ -2,52 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2026-02-15T01:53:36.177832'
 birth_date: '1996-09-26'
-birth_place: Minas Gerais
+birth_place: 'Taiobeiras, Minas Gerais, Brazil'
 disambiguation: Brazilian singer-songwriter
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:53:36.177842'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2b1e7c27-2663-43df-9c23-8601e173e6ef
-  spotify: https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L
+  musicbrainz: 'https://musicbrainz.org/artist/2b1e7c27-2663-43df-9c23-8601e173e6ef'
+  spotify: 'https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L'
   wikipedia: ''
 gender: Female
 genres:
-- brazilian pop
-- new mpb
+  - brazilian pop
+  - new mpb
 image_path: 03_Resources/source_material/ArtistPortraits/marina_sena.jpg
 last_updated: '2026-02-15T01:53:36.177844'
 musical_connections:
   collaborators:
-  - Djonga
-  - Fleezus
-  - Pedro Sampaio
-  - A Outra Banda da Lua
-  - Rosa Neon
+    - Djonga
+    - Fleezus
+    - Pedro Sampaio
+    - A Outra Banda da Lua
+    - Rosa Neon
   influenced: []
   mentors:
-  - Gal Costa
-  - Marisa Monte
+    - Gal Costa
+    - Marisa Monte
 musicbrainz_id: 2b1e7c27-2663-43df-9c23-8601e173e6ef
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.latinolife.co.uk/event/marina-sena
-- https://www.last.fm/music/Marina+Sena/+wiki
-- https://www.liveone.com/artist/marina-sena
-- https://miniguide.co/event/marina-sena
-- https://www.famousbirthdays.com/people/marina-sena.html
-- https://remezcla.com/features/music/meet-marina-sena-newest-star-pop-brazilian-regional-genres-interview/
-- https://songstats.com/artist/matl4jfq/marina-sena
-- https://beehy.pe/brazil-marina-sena-de-primeira/
+  - 'https://www.latinolife.co.uk/event/marina-sena'
+  - 'https://www.last.fm/music/Marina+Sena/+wiki'
+  - 'https://www.liveone.com/artist/marina-sena'
+  - 'https://miniguide.co/event/marina-sena'
+  - 'https://www.famousbirthdays.com/people/marina-sena.html'
+  - >-
+    https://remezcla.com/features/music/meet-marina-sena-newest-star-pop-brazilian-regional-genres-interview/
+  - 'https://songstats.com/artist/matl4jfq/marina-sena'
+  - 'https://beehy.pe/brazil-marina-sena-de-primeira/'
 spotify_data:
   followers: 775870
   id: 0nFdWpwl7h6fp3ADRyG14L
   popularity: 73
-  url: https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L
+  url: 'https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L'
 status: active
 tags:
-- mpb
-- pop
+  - mpb
+  - pop
 title: Marina Sena
 ---
 

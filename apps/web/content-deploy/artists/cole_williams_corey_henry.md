@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-03-02T01:12:54.782326'
-birth_place: Treme, New Orleans, Louisiana, USA
+birth_place: 'Treme, New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:12:54.782334'
 external_urls:
-  spotify: https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh
+  spotify: 'https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh'
   wikipedia: ''
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/cole_williams_corey_henry.jpg
 last_updated: '2026-03-02T01:12:54.782336'
 musical_connections:
   collaborators:
-  - Treme Brass Band
-  - Rebirth Brass Band
-  - Treme Funktet
-  - Cole Williams
-  - Trombone Shorty, Glen David Andrews
-  - Galactic, Little Rascals Brass Band
+    - Treme Brass Band
+    - Rebirth Brass Band
+    - Treme Funktet
+    - Cole Williams
+    - 'Trombone Shorty, Glen David Andrews'
+    - 'Galactic, Little Rascals Brass Band'
   influenced: []
   mentors:
-  - Benny Jones
-  - Kermit Ruffins
-  - Tuba Fats, Freddie Kemp, Stack Man, Frederick Shepard, Roderick Lewis
+    - Benny Jones
+    - Kermit Ruffins
+    - 'Tuba Fats, Freddie Kemp, Stack Man, Frederick Shepard, Roderick Lewis'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.wwoz.org/blog/99416
-- https://jazzascona.ch/en/project/corey-henry-and-the-treme-funktet-3/
-- https://elmoremagazine.com/2016/12/reviews/albums/corey-henry
-- https://www.matrixonline.net/profile/coreyhenry
-- https://www.offbeat.com/news/354616/
+  - 'https://www.wwoz.org/blog/99416'
+  - 'https://jazzascona.ch/en/project/corey-henry-and-the-treme-funktet-3/'
+  - 'https://elmoremagazine.com/2016/12/reviews/albums/corey-henry'
+  - 'https://www.matrixonline.net/profile/coreyhenry'
+  - 'https://www.offbeat.com/news/354616/'
 spotify_data:
   followers: 5391
   id: 4r6kJJH31uyMF4uWBvnOkh
   popularity: 23
-  url: https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh
+  url: 'https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh'
 status: active
-title: Cole Williams, Corey Henry
+title: 'Cole Williams, Corey Henry'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1975'
+artist_type: person
 ---
 
 ![](cole_williams_corey_henry.jpg)

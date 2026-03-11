@@ -2,47 +2,47 @@
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:29:15.852485'
 birth_date: '1935-01-30'
-birth_place: Szczecin
+birth_place: 'Szczecin, Poland'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:29:15.852494'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3b45bdea-fd97-4310-a2c1-789ab9ecf910
-  spotify: https://open.spotify.com/artist/5AL6E8HkQxbulxQIFFVUXb
-  wikipedia: https://en.wikipedia.org/wiki/Ingfried_Hoffmann
+  musicbrainz: 'https://musicbrainz.org/artist/3b45bdea-fd97-4310-a2c1-789ab9ecf910'
+  spotify: 'https://open.spotify.com/artist/5AL6E8HkQxbulxQIFFVUXb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ingfried_Hoffmann'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ingfried_hoffmann.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-03-03T01:29:15.852496'
 musical_connections:
   collaborators:
-  - Klaus Doldinger
-  - Volker Kriegel
-  - Helmut Kandlberger
-  - Manfred Schoof
-  - Philip Catherine
-  - Attila Zoller
+    - Klaus Doldinger
+    - Volker Kriegel
+    - Helmut Kandlberger
+    - Manfred Schoof
+    - Philip Catherine
+    - Attila Zoller
   influenced: []
   mentors: []
 musicbrainz_id: 3b45bdea-fd97-4310-a2c1-789ab9ecf910
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ingfried_Hoffmann
-- https://egrojworld.blogspot.com/2019/07/ingfried-hoffmann-hammond-bond.html
-- https://www.wikidata.org/wiki/Q1663052
-- https://muppet.fandom.com/wiki/Ingfried_Hoffmann
-- https://musicbrainz.org/artist/3b45bdea-fd97-4310-a2c1-789ab9ecf910
+  - 'https://en.wikipedia.org/wiki/Ingfried_Hoffmann'
+  - 'https://egrojworld.blogspot.com/2019/07/ingfried-hoffmann-hammond-bond.html'
+  - 'https://www.wikidata.org/wiki/Q1663052'
+  - 'https://muppet.fandom.com/wiki/Ingfried_Hoffmann'
+  - 'https://musicbrainz.org/artist/3b45bdea-fd97-4310-a2c1-789ab9ecf910'
 spotify_data:
   followers: 645
   id: 5AL6E8HkQxbulxQIFFVUXb
   popularity: 16
-  url: https://open.spotify.com/artist/5AL6E8HkQxbulxQIFFVUXb
+  url: 'https://open.spotify.com/artist/5AL6E8HkQxbulxQIFFVUXb'
 status: active
 tags:
-- classic pop and rock
-- jazz
+  - classic pop and rock
+  - jazz
 title: Ingfried Hoffmann
 ---
 

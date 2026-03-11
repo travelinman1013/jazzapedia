@@ -3,43 +3,49 @@ biography_enhanced_at: '2026-02-01T01:24:36.915748'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:24:36.915753'
 external_urls:
-  spotify: https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek
+  spotify: 'https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek'
   wikipedia: Not provided in search results
 genres:
-- jazz
-- swing music
-- vocal jazz
-- big band
+  - jazz
+  - swing music
+  - vocal jazz
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrongduke_ellington.jpg
 last_updated: '2026-02-01T01:24:36.915754'
 musical_connections:
   collaborators:
-  - Duke Ellington
-  - George Avakian
-  - Barney Bigard
+    - Duke Ellington
+    - George Avakian
+    - Barney Bigard
   influenced:
-  - Cootie Williams
-  - Freddy Jenkins
-  - Ray Nance
-  - Johnny Hodges
-  - Lawrence Brown
+    - Cootie Williams
+    - Freddy Jenkins
+    - Ray Nance
+    - Johnny Hodges
+    - Lawrence Brown
   mentors:
-  - Joe Glazer
+    - Joe Glazer
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.nepm.org/jazz-world/2017-07-24/louis-armstrong-and-duke-ellington-jazz-at-its-warmest-and-tightest
-- https://politics-prose.com/book/9780358380436
-- https://www.mahoganybooks.com/9780358380436
-- https://www.allaboutjazz.com/the-jazz-men-hoiw-duke-ellington-louis-armstrong-and-count-basie-transformed-america
-- https://www.jerryjazzmusician.com/interview-with-larry-tye-author-of-the-jazzmen-how-duke-ellington-louis-armstrong-and-count-basie-transformed-america/
+  - >-
+    https://www.nepm.org/jazz-world/2017-07-24/louis-armstrong-and-duke-ellington-jazz-at-its-warmest-and-tightest
+  - 'https://politics-prose.com/book/9780358380436'
+  - 'https://www.mahoganybooks.com/9780358380436'
+  - >-
+    https://www.allaboutjazz.com/the-jazz-men-hoiw-duke-ellington-louis-armstrong-and-count-basie-transformed-america
+  - >-
+    https://www.jerryjazzmusician.com/interview-with-larry-tye-author-of-the-jazzmen-how-duke-ellington-louis-armstrong-and-count-basie-transformed-america/
 spotify_data:
   followers: 3302527
   id: 19eLuQmk9aCobbVDHc6eek
   popularity: 73
-  url: https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek
+  url: 'https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek'
 status: active
-title: louis armstrong/duke ellington
+title: Louis Armstrong/Duke Ellington
+birth_place: 'New Orleans, Louisiana, United States'
+origin: 'New Orleans, Louisiana, USA (Armstrong); Washington, D.C., USA (Ellington)'
+artist_type: band
 ---
 
 ![](louis_armstrongduke_ellington.jpg)

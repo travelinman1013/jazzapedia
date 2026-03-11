@@ -3,39 +3,41 @@ biography_enhanced_at: '2026-01-23T01:41:59.055452'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:41:59.055457'
 external_urls:
-  spotify: https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo
-  wikipedia: https://en.wikipedia.org/wiki/Seedhe_Maut
+  spotify: 'https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Seedhe_Maut'
 genres:
-- desi hip hop
-- hindi hip hop
-- hardcore hip hop
+  - desi hip hop
+  - hindi hip hop
+  - hardcore hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/seed.jpg
 last_updated: '2026-01-23T01:41:59.055458'
 musical_connections:
   collaborators:
-  - Prabh Deep
-  - MC Stan
-  - KRSNA, Faris Shafi, Rawal, Yungsta, Sonnyjim, Badshah, Rebel 7, Raga
-  - Hurricane
-  - Samay Raina
+    - Prabh Deep
+    - MC Stan
+    - 'KRSNA, Faris Shafi, Rawal, Yungsta, Sonnyjim, Badshah, Rebel 7, Raga'
+    - Hurricane
+    - Samay Raina
   influenced: []
   mentors:
-  - Sez on the Beat
-  - MC Kode
+    - Sez on the Beat
+    - MC Kode
 network_extracted: true
-origin: Delhi, India (originally from Uttarakhand, India)
+origin: 'Delhi, India (originally from Uttarakhand, India)'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Seedhe_Maut
-- https://daily.bandcamp.com/scene-report/indian-hip-hop-list
-- https://www.redbull.com/in-en/seedhe-maut-hip-hop-duo-career-moments-highlights
+  - 'https://en.wikipedia.org/wiki/Seedhe_Maut'
+  - 'https://daily.bandcamp.com/scene-report/indian-hip-hop-list'
+  - >-
+    https://www.redbull.com/in-en/seedhe-maut-hip-hop-duo-career-moments-highlights
 spotify_data:
   followers: 1269753
   id: 2oBG74gAocPMFv6Ij9ykdo
   popularity: 70
-  url: https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo
+  url: 'https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo'
 status: active
-title: seed.
+title: Seedhe Maut
+artist_type: band
 ---
 
 ![](seed.jpg)

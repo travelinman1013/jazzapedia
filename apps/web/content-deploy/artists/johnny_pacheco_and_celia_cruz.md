@@ -3,46 +3,54 @@ biography_enhanced_at: '2026-02-24T01:39:40.500335'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:39:40.500351'
 external_urls:
-  spotify: https://open.spotify.com/artist/4X5pzRt3MN6VaIr4vnHICz
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Pacheco
+  spotify: 'https://open.spotify.com/artist/4X5pzRt3MN6VaIr4vnHICz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Pacheco'
 genres: []
 image_path: ''
 last_updated: '2026-02-24T01:39:40.500354'
 musical_connections:
   collaborators:
-  - Celia Cruz
-  - Tito Puente
-  - Willie Colón
-  - Fania All-Stars
-  - Jerry Masucci
+    - Celia Cruz
+    - Tito Puente
+    - Willie Colón
+    - Fania All-Stars
+    - Jerry Masucci
   influenced:
-  - Rubén Blades
-  - Adalberto Santiago
-  - Cheo Feliciano
-  - Ismael Miranda
-  - Héctor Lavoe
-  - Eddie Palmieri
+    - Rubén Blades
+    - Adalberto Santiago
+    - Cheo Feliciano
+    - Ismael Miranda
+    - Héctor Lavoe
+    - Eddie Palmieri
   mentors:
-  - Rogelio Martínez
+    - Rogelio Martínez
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.udiscovermusic.com/stories/celia-and-johnny-celia-cruz-johnny-pacheco-album-feature/
-- https://fania.com/eras/johnny-pacheco-celia-cruz-celia-johnny/
-- https://craftrecordings.com/blogs/permanent-record/celia-cruz-johnny-pacheco-celia-johnny
-- https://celiacruzfoundation.com/celiacruzbiography/
-- https://www.grandcata.com/blog/foundations-of-salsa-johnny-pacheco-celia-cruz
-- https://en.wikipedia.org/wiki/Celia_Cruz
-- https://www.womenshistory.org/education-resources/biographies/celia-cruz
-- https://www.wnycstudios.org/podcasts/takeaway/segments/life-and-legacy-johnny-pacheco-and-fania-records
-- https://en.wikipedia.org/wiki/Johnny_Pacheco
+  - >-
+    https://www.udiscovermusic.com/stories/celia-and-johnny-celia-cruz-johnny-pacheco-album-feature/
+  - 'https://fania.com/eras/johnny-pacheco-celia-cruz-celia-johnny/'
+  - >-
+    https://craftrecordings.com/blogs/permanent-record/celia-cruz-johnny-pacheco-celia-johnny
+  - 'https://celiacruzfoundation.com/celiacruzbiography/'
+  - >-
+    https://www.grandcata.com/blog/foundations-of-salsa-johnny-pacheco-celia-cruz
+  - 'https://en.wikipedia.org/wiki/Celia_Cruz'
+  - 'https://www.womenshistory.org/education-resources/biographies/celia-cruz'
+  - >-
+    https://www.wnycstudios.org/podcasts/takeaway/segments/life-and-legacy-johnny-pacheco-and-fania-records
+  - 'https://en.wikipedia.org/wiki/Johnny_Pacheco'
 spotify_data:
   followers: 1988
   id: 4X5pzRt3MN6VaIr4vnHICz
   popularity: 0
-  url: https://open.spotify.com/artist/4X5pzRt3MN6VaIr4vnHICz
+  url: 'https://open.spotify.com/artist/4X5pzRt3MN6VaIr4vnHICz'
 status: active
 title: Johnny Pacheco & Celia Cruz
+origin: >-
+  Dominican Republic (Johnny Pacheco birthplace); Cuba (Celia Cruz birthplace);
+  New York City, USA (primary collaboration location)
+artist_type: band
 ---
 
 ![]()

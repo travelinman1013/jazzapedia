@@ -1,46 +1,48 @@
 ---
 biography_enhanced_at: '2026-03-08T03:06:20.137719'
-birth_place: Gary, Indiana, United States
+birth_place: 'Gary, Indiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:06:20.137728'
 external_urls:
-  spotify: https://open.spotify.com/artist/4FRnFYyWy6yzCXQySCsOfb
-  wikipedia: https://en.wikipedia.org/wiki/Rebbie_Jackson
+  spotify: 'https://open.spotify.com/artist/4FRnFYyWy6yzCXQySCsOfb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rebbie_Jackson'
 genres:
-- post-disco
-- new jack swing
+  - post-disco
+  - new jack swing
 image_path: 03_Resources/source_material/ArtistPortraits/rebbie_jackson.jpg
 last_updated: '2026-03-08T03:06:20.137730'
 musical_connections:
   collaborators:
-  - Michael Jackson
-  - The Weather Girls
-  - Spanky Williams (Men of Vizion)
-  - Keith Thomas
-  - Eliot Kennedy
-  - Her children (Stacie, Yashi, Austin Brown)
+    - Michael Jackson
+    - The Weather Girls
+    - Spanky Williams (Men of Vizion)
+    - Keith Thomas
+    - Eliot Kennedy
+    - 'Her children (Stacie, Yashi, Austin Brown)'
   influenced: []
   mentors:
-  - Michael Jackson
-  - Katherine Jackson
-  - Smokey Robinson
-  - Prince
+    - Michael Jackson
+    - Katherine Jackson
+    - Smokey Robinson
+    - Prince
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/rebbie-jackson
-- https://michael-jackson.fandom.com/wiki/Rebbie_Jackson
-- https://www.last.fm/music/Rebbie+Jackson/+wiki
-- https://en.wikipedia.org/wiki/Rebbie_Jackson
-- https://vinylstories.ca/rebbie-jackson-reaction-1986/
-- https://www.allmusic.com/artist/rebbie-jackson-mn0000409027
+  - 'https://www.biography.com/musicians/rebbie-jackson'
+  - 'https://michael-jackson.fandom.com/wiki/Rebbie_Jackson'
+  - 'https://www.last.fm/music/Rebbie+Jackson/+wiki'
+  - 'https://en.wikipedia.org/wiki/Rebbie_Jackson'
+  - 'https://vinylstories.ca/rebbie-jackson-reaction-1986/'
+  - 'https://www.allmusic.com/artist/rebbie-jackson-mn0000409027'
 spotify_data:
   followers: 39854
   id: 4FRnFYyWy6yzCXQySCsOfb
   popularity: 21
-  url: https://open.spotify.com/artist/4FRnFYyWy6yzCXQySCsOfb
+  url: 'https://open.spotify.com/artist/4FRnFYyWy6yzCXQySCsOfb'
 status: active
 title: Rebbie Jackson
+birth_date: '1950-05-29'
+artist_type: person
 ---
 
 ![](rebbie_jackson.jpg)

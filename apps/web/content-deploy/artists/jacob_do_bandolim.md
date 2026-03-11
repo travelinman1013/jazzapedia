@@ -1,72 +1,76 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1964'
-  end: '1969'
-  instruments: []
-  mbid: fc6b4524-d1f1-429b-ac0a-d6f5b3d125c9
-  name: Época de Ouro
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 3f50d331-7c22-4688-a63c-74ea4da3078b
-  name: Jacob do Bandolim e conjunto
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 8b030b54-3e6d-4d24-96da-ffec1eaf9c75
-  name: Jacob do Bandolim e quarteto
+  - begin: '1964'
+    end: '1969'
+    instruments: []
+    mbid: fc6b4524-d1f1-429b-ac0a-d6f5b3d125c9
+    name: Época de Ouro
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 3f50d331-7c22-4688-a63c-74ea4da3078b
+    name: Jacob do Bandolim e conjunto
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 8b030b54-3e6d-4d24-96da-ffec1eaf9c75
+    name: Jacob do Bandolim e quarteto
 biography_enhanced_at: '2026-02-01T01:27:47.754258'
 birth_date: '1918-02-14'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 death_date: '1969-08-13'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:27:47.754263'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/93c01a5a-412d-4eed-9207-4287e3cbd05f
-  spotify: https://open.spotify.com/artist/1uLk9teQumztDMDlIv4jwS
+  musicbrainz: 'https://musicbrainz.org/artist/93c01a5a-412d-4eed-9207-4287e3cbd05f'
+  spotify: 'https://open.spotify.com/artist/1uLk9teQumztDMDlIv4jwS'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- samba
-- brazilian jazz
-- seresta
+  - samba
+  - brazilian jazz
+  - seresta
 image_path: 03_Resources/source_material/ArtistPortraits/jacob_do_bandolim.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-02-01T01:27:47.754264'
 musical_connections:
   collaborators:
-  - Benedito Lacerda Ensemble (Gente do Morro)
-  - Ataulfo Alves
-  - Época de Ouro (Golden Epoch)
-  - César Moreno Ensemble
+    - Benedito Lacerda Ensemble (Gente do Morro)
+    - Ataulfo Alves
+    - Época de Ouro (Golden Epoch)
+    - César Moreno Ensemble
   influenced:
-  - Subsequent generations of Latin American mandolin performers
-  - Brazilian music identity and choro revival
+    - Subsequent generations of Latin American mandolin performers
+    - Brazilian music identity and choro revival
   mentors:
-  - Luiz Americano
+    - Luiz Americano
 musicbrainz_id: 93c01a5a-412d-4eed-9207-4287e3cbd05f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://themandolintuner.com/jacob-do-bandolim/
-- https://musictales.club/article/jacob-do-bandolim-amateur-musician-who-instilled-mandolin-fashion-throughout-america
-- https://acousticdisc.com/jacob-do-bandolim/
-- https://spanport.georgetown.edu/events/jacob-do-bandolim-and-the-history-of-brazilian-choro/
-- https://www.choromusic.com/catalogo/compositores/jacob-do-bandolim/biography.html
+  - 'https://themandolintuner.com/jacob-do-bandolim/'
+  - >-
+    https://musictales.club/article/jacob-do-bandolim-amateur-musician-who-instilled-mandolin-fashion-throughout-america
+  - 'https://acousticdisc.com/jacob-do-bandolim/'
+  - >-
+    https://spanport.georgetown.edu/events/jacob-do-bandolim-and-the-history-of-brazilian-choro/
+  - >-
+    https://www.choromusic.com/catalogo/compositores/jacob-do-bandolim/biography.html
 spotify_data:
   followers: 54406
   id: 1uLk9teQumztDMDlIv4jwS
   popularity: 31
-  url: https://open.spotify.com/artist/1uLk9teQumztDMDlIv4jwS
+  url: 'https://open.spotify.com/artist/1uLk9teQumztDMDlIv4jwS'
 status: active
 tags:
-- choro
-- composer
+  - choro
+  - composer
 title: Jacob do Bandolim
+is_active: false
 ---
 
 ![](jacob_do_bandolim.jpg)

@@ -3,42 +3,48 @@ biography_enhanced_at: '2026-02-24T01:48:27.403447'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:48:27.403452'
 external_urls:
-  spotify: https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2
-  wikipedia: https://en.wikipedia.org/wiki/Lisa_Lisa_&_Cult_Jam_with_Full_Force
+  spotify: 'https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lisa_Lisa_&_Cult_Jam_with_Full_Force'
 genres:
-- new jack swing
-- freestyle
-image_path: 03_Resources/source_material/ArtistPortraits/lisa_lisa_and_cult_jam_full_force.jpg
+  - new jack swing
+  - freestyle
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/lisa_lisa_and_cult_jam_full_force.jpg
 last_updated: '2026-02-24T01:48:27.403453'
 musical_connections:
   collaborators:
-  - Alex 'Spanador' Moseley
-  - Mike Hughes
-  - Full Force (Paul Anthony George, Bowlegged Lou George, B-Fine George, Curt-T-T
-    Bedeau, Baby Gee Charles, Shy Shy Clark)
-  - Clivillés & Cole
+    - Alex 'Spanador' Moseley
+    - Mike Hughes
+    - >-
+      Full Force (Paul Anthony George, Bowlegged Lou George, B-Fine George,
+      Curt-T-T Bedeau, Baby Gee Charles, Shy Shy Clark)
+    - Clivillés & Cole
   influenced:
-  - Allure
-  - Little Jackie
+    - Allure
+    - Little Jackie
   mentors:
-  - Full Force
+    - Full Force
 network_extracted: true
-origin: New York City, New York, USA
+origin: 'New York City, New York, USA'
 primary_source: perplexity
 research_sources:
-- https://danceparade.org/lisa-lisa/
-- https://www.theaudiodb.com/artist/126007-Lisa-Lisa--Cult-Jam
-- https://en.wikipedia.org/wiki/Lisa_Lisa_&_Cult_Jam_with_Full_Force
-- https://www.jango.com/music/Lisa+Lisa+Cult+Jam/_full_bio
-- https://www.youtube.com/watch?v=_OFMhpo5MPY
-- https://andresmusictalk.wordpress.com/2017/01/13/anatomy-of-the-groove-let-the-beat-it-em-by-lisa-lisa-cult-jam/
+  - 'https://danceparade.org/lisa-lisa/'
+  - 'https://www.theaudiodb.com/artist/126007-Lisa-Lisa--Cult-Jam'
+  - 'https://en.wikipedia.org/wiki/Lisa_Lisa_&_Cult_Jam_with_Full_Force'
+  - 'https://www.jango.com/music/Lisa+Lisa+Cult+Jam/_full_bio'
+  - 'https://www.youtube.com/watch?v=_OFMhpo5MPY'
+  - >-
+    https://andresmusictalk.wordpress.com/2017/01/13/anatomy-of-the-groove-let-the-beat-it-em-by-lisa-lisa-cult-jam/
 spotify_data:
   followers: 71451
   id: 1iQS32l0NPcZeJKVrvayS2
   popularity: 41
-  url: https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2
+  url: 'https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2'
 status: active
 title: Lisa Lisa & Cult Jam/ Full Force
+birth_place: 'New York City, New York, United States'
+birth_date: '1966-01-15'
+artist_type: band
 ---
 
 ![](lisa_lisa_and_cult_jam_full_force.jpg)

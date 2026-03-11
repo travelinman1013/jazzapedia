@@ -1,122 +1,125 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-02T01:44:35.277003'
 birth_date: 1981-06
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:44:35.277014'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b4013ff1-d7ce-4b1a-af6e-e0b19ca7f378
-  spotify: https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ
+  musicbrainz: 'https://musicbrainz.org/artist/b4013ff1-d7ce-4b1a-af6e-e0b19ca7f378'
+  spotify: 'https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ'
   wikipedia: ''
 genres:
-- new wave
-- celtic rock
+  - new wave
+  - celtic rock
 image_path: 03_Resources/source_material/ArtistPortraits/big_country.jpg
 instruments:
-- guitar
-- lead vocals
-- original
-- bass guitar
-- drums (drum set)
+  - guitar
+  - lead vocals
+  - original
+  - bass guitar
+  - drums (drum set)
 last_updated: '2026-02-02T01:44:35.277016'
 members:
-- begin: 1981-09
-  end: 1982-04
-  instruments: []
-  mbid: 1eb19e9d-b53f-4f76-8ac5-2d75b8b82240
-  name: Peter Wishart
-- begin: '1982'
-  end: '2001-12-16'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: eeb57304-1e23-49ee-8d55-b459d081843a
-  name: Stuart Adamson
-- begin: '1982'
-  end: '2012'
-  instruments:
-  - bass guitar
-  - original
-  mbid: a7daeda0-3a0f-47a1-9a5d-0b83523c4c91
-  name: Tony Butler
-- &id001
-  begin: '1982'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 1e709b2d-fdb4-4e04-8eaf-a8aa77cd8154
-  name: Mark Brzezicki
-- &id002
-  begin: '1982'
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: d51568df-8c63-4a21-8a05-e93834ae778f
-  name: Bruce Watson
-- begin: '2011'
-  end: '2013'
-  instruments:
-  - lead vocals
-  mbid: d6388b45-2ddc-44f5-b210-3495beaa5e43
-  name: Mike Peters
-- begin: '2012'
-  end: '2015'
-  instruments:
-  - bass guitar
-  mbid: 2d78ff99-55f6-4ba2-a090-f6a8811fbd9a
-  name: Derek Forbes
-- begin: '2015'
-  end: '2021'
-  instruments:
-  - bass guitar
-  mbid: 3169a2ba-8b95-4a60-a077-fe2ec60c45af
-  name: Scott Whitley
-- &id003
-  begin: '2021'
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 3bd1322e-3d6d-400b-af6a-297c357903cc
-  name: Gil Allan
+  - begin: 1981-09
+    end: 1982-04
+    instruments: []
+    mbid: 1eb19e9d-b53f-4f76-8ac5-2d75b8b82240
+    name: Peter Wishart
+  - begin: '1982'
+    end: '2001-12-16'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: eeb57304-1e23-49ee-8d55-b459d081843a
+    name: Stuart Adamson
+  - begin: '1982'
+    end: '2012'
+    instruments:
+      - bass guitar
+      - original
+    mbid: a7daeda0-3a0f-47a1-9a5d-0b83523c4c91
+    name: Tony Butler
+  - &ref_0
+    begin: '1982'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 1e709b2d-fdb4-4e04-8eaf-a8aa77cd8154
+    name: Mark Brzezicki
+  - &ref_1
+    begin: '1982'
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: d51568df-8c63-4a21-8a05-e93834ae778f
+    name: Bruce Watson
+  - begin: '2011'
+    end: '2013'
+    instruments:
+      - lead vocals
+    mbid: d6388b45-2ddc-44f5-b210-3495beaa5e43
+    name: Mike Peters
+  - begin: '2012'
+    end: '2015'
+    instruments:
+      - bass guitar
+    mbid: 2d78ff99-55f6-4ba2-a090-f6a8811fbd9a
+    name: Derek Forbes
+  - begin: '2015'
+    end: '2021'
+    instruments:
+      - bass guitar
+    mbid: 3169a2ba-8b95-4a60-a077-fe2ec60c45af
+    name: Scott Whitley
+  - &ref_2
+    begin: '2021'
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 3bd1322e-3d6d-400b-af6a-297c357903cc
+    name: Gil Allan
 musical_connections:
   collaborators:
-  - Bruce Watson
-  - Tony Butler
-  - Mark Brzezicki
-  - Marcus Hummon
+    - Bruce Watson
+    - Tony Butler
+    - Mark Brzezicki
+    - Marcus Hummon
   influenced: []
   mentors:
-  - Steve Lillywhite
+    - Steve Lillywhite
 musicbrainz_id: b4013ff1-d7ce-4b1a-af6e-e0b19ca7f378
 network_extracted: true
-origin: Dunfermline
+origin: 'Dunfermline, Fife, Scotland'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/big-country
-- https://www.last.fm/music/Big+Country/+wiki
-- https://www.udiscovermusic.com/artist/big-country/
-- https://www.loudersound.com/features/the-life-and-hard-times-of-big-country-and-stuart-adamson
-- https://bigcountrylive.net/bio/
-- https://bigcountry.co.uk/band
-- https://www.songfacts.com/facts/big-country
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/big-country
+  - 'https://www.last.fm/music/Big+Country/+wiki'
+  - 'https://www.udiscovermusic.com/artist/big-country/'
+  - >-
+    https://www.loudersound.com/features/the-life-and-hard-times-of-big-country-and-stuart-adamson
+  - 'https://bigcountrylive.net/bio/'
+  - 'https://bigcountry.co.uk/band'
+  - 'https://www.songfacts.com/facts/big-country'
 spotify_data:
   followers: 264028
   id: 1h8YIw9HLr6E8gdXVDRbVJ
   popularity: 49
-  url: https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ
+  url: 'https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ'
 status: active
 tags:
-- 1980s
-- 1990s
-- alternative rock
-title: BIG COUNTRY
+  - 1980s
+  - 1990s
+  - alternative rock
+title: Big Country
+death_date: '2001'
 ---
 
 ![](big_country.jpg)

@@ -1,45 +1,50 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-28T01:53:22.289886'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:53:22.289892'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6bb95a0b-6451-488a-b47b-d39cb315b097
-  spotify: https://open.spotify.com/artist/2Gl84qKaY2jA2Mo22dEGNM
-  wikipedia: https://en.wikipedia.org/wiki/Roy_Porter_(drummer)
+  musicbrainz: 'https://musicbrainz.org/artist/6bb95a0b-6451-488a-b47b-d39cb315b097'
+  spotify: 'https://open.spotify.com/artist/2Gl84qKaY2jA2Mo22dEGNM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roy_Porter_(drummer)'
 genres:
-- jazz funk
+  - jazz funk
 image_path: 03_Resources/source_material/ArtistPortraits/roy_porter_sound_machine.jpg
 last_updated: '2026-01-28T01:53:22.289893'
 musical_connections:
   collaborators:
-  - Eric Dolphy
-  - Art Farmer
-  - Jimmy Knepper
-  - Charles Jones
-  - Oscar Dye
-  - Tollie Moore
+    - Eric Dolphy
+    - Art Farmer
+    - Jimmy Knepper
+    - Charles Jones
+    - Oscar Dye
+    - Tollie Moore
   influenced: []
   mentors:
-  - Charlie Parker
-  - Dizzy Gillespie
+    - Charlie Parker
+    - Dizzy Gillespie
 musicbrainz_id: 6bb95a0b-6451-488a-b47b-d39cb315b097
 network_extracted: true
-origin: Walsenburg, Colorado, United States
+origin: 'Walsenburg, Colorado, United States'
 primary_source: perplexity
 research_sources:
-- https://www.jazzmessengers.com/en/86744/roy-porter/royportersoundmachine-jessica
-- https://en.wikipedia.org/wiki/Roy_Porter_(drummer)
-- https://soundsoftheuniverse.com/sjr/product/roy-porter-the-story-of-roy-porter-sound-machine-1971-1975
+  - >-
+    https://www.jazzmessengers.com/en/86744/roy-porter/royportersoundmachine-jessica
+  - 'https://en.wikipedia.org/wiki/Roy_Porter_(drummer)'
+  - >-
+    https://soundsoftheuniverse.com/sjr/product/roy-porter-the-story-of-roy-porter-sound-machine-1971-1975
 spotify_data:
   followers: 1887
   id: 2Gl84qKaY2jA2Mo22dEGNM
   popularity: 10
-  url: https://open.spotify.com/artist/2Gl84qKaY2jA2Mo22dEGNM
+  url: 'https://open.spotify.com/artist/2Gl84qKaY2jA2Mo22dEGNM'
 status: active
 tags:
-- jazz
+  - jazz
 title: Roy Porter Sound Machine
+birth_place: 'Walsenburg, Colorado, United States'
+birth_date: '1923-07-30'
+death_date: '1998-01-24'
 ---
 
 ![](roy_porter_sound_machine.jpg)

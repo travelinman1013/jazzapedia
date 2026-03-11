@@ -2,50 +2,51 @@
 artist_type: person
 biography_enhanced_at: '2026-02-24T01:48:11.803418'
 birth_date: '1961-10-10'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:48:11.803426'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8f4c7ad3-c95c-4d62-a554-3416fb5204f4
-  spotify: https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43
+  musicbrainz: 'https://musicbrainz.org/artist/8f4c7ad3-c95c-4d62-a554-3416fb5204f4'
+  spotify: 'https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43'
   wikipedia: ''
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/crystal_waters.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2026-02-24T01:48:11.803428'
 musical_connections:
   collaborators:
-  - Basement Boys
-  - Steve 'Silk' Hurley
-  - Alex Gaudino
-  - Hifi Sean
+    - Basement Boys
+    - Steve 'Silk' Hurley
+    - Alex Gaudino
+    - Hifi Sean
   influenced: []
   mentors:
-  - Basement Boys
+    - Basement Boys
 musicbrainz_id: 8f4c7ad3-c95c-4d62-a554-3416fb5204f4
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/2504
-- https://www.last.fm/music/Crystal+Waters/+wiki
-- https://www.techieyouth.org/see/E4s-LMbRJhM
-- https://northalsted.com/artists/crystal-waters/
-- https://www.cbsnews.com/newyork/news/crystal-waters-singer-songwriter/
-- https://vibez.live/members/crystal-waters/
-- https://riseupnycconcerts.com/crystal-waters/
+  - 'https://wbssmedia.com/artists/detail/2504'
+  - 'https://www.last.fm/music/Crystal+Waters/+wiki'
+  - 'https://www.techieyouth.org/see/E4s-LMbRJhM'
+  - 'https://northalsted.com/artists/crystal-waters/'
+  - 'https://www.cbsnews.com/newyork/news/crystal-waters-singer-songwriter/'
+  - 'https://vibez.live/members/crystal-waters/'
+  - 'https://riseupnycconcerts.com/crystal-waters/'
 spotify_data:
   followers: 214210
   id: 2sd9Q3r0Jhqpe3w9WVuG43
   popularity: 62
-  url: https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43
+  url: 'https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43'
 status: active
 tags:
-- american
-- club dance
-- disco house
-title: Crystal waters
+  - american
+  - club dance
+  - disco house
+title: Crystal Waters
+origin: 'New Jersey, United States'
 ---
 
 ![](crystal_waters.jpg)

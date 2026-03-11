@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-07T01:28:15.873601'
-birth_place: Little Rock, Arkansas, USA
+birth_place: 'Little Rock, Arkansas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:28:15.873610'
 external_urls:
-  spotify: https://open.spotify.com/artist/0hh1N707d2q6xRvhnvraIK
-  wikipedia: https://en.wikipedia.org/wiki/Dan_Hicks_(singer)
+  spotify: 'https://open.spotify.com/artist/0hh1N707d2q6xRvhnvraIK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dan_Hicks_(singer)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/dan_hicks_and_his_hot_licks.jpg
 last_updated: '2026-02-07T01:28:15.873611'
 musical_connections:
   collaborators:
-  - Symphony Sid Page
-  - Naomi Ruth Eisenberg
-  - Maryann Price
-  - John Girton
-  - Jaime Leopold
-  - Tommy LiPuma
-  - Willie Nelson
-  - Van Dyke Parks
+    - Symphony Sid Page
+    - Naomi Ruth Eisenberg
+    - Maryann Price
+    - John Girton
+    - Jaime Leopold
+    - Tommy LiPuma
+    - Willie Nelson
+    - Van Dyke Parks
   influenced: []
   mentors:
-  - The Charlatans
+    - The Charlatans
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://surfdog.com/artists/dan-hicks/
-- http://www.danhicks.net/bio.htm
-- https://en.wikipedia.org/wiki/Dan_Hicks_(singer)
-- https://www.allaboutjazz.com/musicians/dan-hicks/
-- https://lukemckernan.com/2016/02/08/dan-hicks-and-his-hot-licks/
-- https://www.kcur.org/2016-02-08/remembering-folk-singer-songwriter-dan-hicks
-- https://www.kcbx.org/music/2018-01-12/dan-hicks-his-hot-licks-singer-songwriter-music-master
-- https://www.popcultureclassics.com/dan_hicks2.html
+  - 'https://surfdog.com/artists/dan-hicks/'
+  - 'http://www.danhicks.net/bio.htm'
+  - 'https://en.wikipedia.org/wiki/Dan_Hicks_(singer)'
+  - 'https://www.allaboutjazz.com/musicians/dan-hicks/'
+  - 'https://lukemckernan.com/2016/02/08/dan-hicks-and-his-hot-licks/'
+  - 'https://www.kcur.org/2016-02-08/remembering-folk-singer-songwriter-dan-hicks'
+  - >-
+    https://www.kcbx.org/music/2018-01-12/dan-hicks-his-hot-licks-singer-songwriter-music-master
+  - 'https://www.popcultureclassics.com/dan_hicks2.html'
 spotify_data:
   followers: 14348
   id: 0hh1N707d2q6xRvhnvraIK
   popularity: 28
-  url: https://open.spotify.com/artist/0hh1N707d2q6xRvhnvraIK
+  url: 'https://open.spotify.com/artist/0hh1N707d2q6xRvhnvraIK'
 status: active
-title: dan hicks & his hot licks
+title: Dan Hicks & His Hot Licks
+birth_date: '1941-12-09'
+death_date: '2016-02-06'
+artist_type: person
 ---
 
 ![](dan_hicks_and_his_hot_licks.jpg)

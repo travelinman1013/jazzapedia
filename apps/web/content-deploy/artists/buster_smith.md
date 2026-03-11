@@ -1,47 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-09T01:18:38.141221'
-birth_place: Alsdorf, Texas, United States
+birth_place: 'Alsdorf, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:18:38.141248'
 external_urls:
-  spotify: https://open.spotify.com/artist/0y38EKS451wflZCncUbeSH
-  wikipedia: https://en.wikipedia.org/wiki/Buster_Smith
+  spotify: 'https://open.spotify.com/artist/0y38EKS451wflZCncUbeSH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buster_Smith'
 genres:
-- swing music
-- big band
+  - swing music
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/buster_smith.jpg
 last_updated: '2026-02-09T01:18:38.141249'
 musical_connections:
   collaborators:
-  - Count Basie
-  - Lester Young
-  - Walter Page
-  - Oran 'Hot Lips' Page
-  - Boston Smith
-  - Pete Johnson
+    - Count Basie
+    - Lester Young
+    - Walter Page
+    - Oran 'Hot Lips' Page
+    - Boston Smith
+    - Pete Johnson
   influenced:
-  - Charlie Parker
-  - Aaron 'T-Bone' Walker
-  - Red Garland
+    - Charlie Parker
+    - Aaron 'T-Bone' Walker
+    - Red Garland
   mentors:
-  - Johnny Clark
+    - Johnny Clark
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/buster-smith-saxophonist-born/
-- https://en.wikipedia.org/wiki/Buster_Smith
-- https://kids.kiddle.co/Buster_Smith
-- http://www.jazzarcheology.com/artists/buster_smith.pdf
-- https://www.tshaonline.org/handbook/entries/smith-henry-buster
-- https://www.tomharrisonsax.com/discover/jazz-biographies/buster-smith-biography.html
-- https://www.pendergastkc.org/names/smith-henry-f-buster
+  - 'https://aaregistry.org/story/buster-smith-saxophonist-born/'
+  - 'https://en.wikipedia.org/wiki/Buster_Smith'
+  - 'https://kids.kiddle.co/Buster_Smith'
+  - 'http://www.jazzarcheology.com/artists/buster_smith.pdf'
+  - 'https://www.tshaonline.org/handbook/entries/smith-henry-buster'
+  - >-
+    https://www.tomharrisonsax.com/discover/jazz-biographies/buster-smith-biography.html
+  - 'https://www.pendergastkc.org/names/smith-henry-f-buster'
 spotify_data:
   followers: 2130
   id: 0y38EKS451wflZCncUbeSH
   popularity: 19
-  url: https://open.spotify.com/artist/0y38EKS451wflZCncUbeSH
+  url: 'https://open.spotify.com/artist/0y38EKS451wflZCncUbeSH'
 status: active
 title: Buster Smith
+birth_date: '1904-08-24'
+artist_type: person
 ---
 
 ![](buster_smith.jpg)

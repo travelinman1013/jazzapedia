@@ -1,91 +1,94 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 56ea1e51-bbef-4bd8-af02-3267d2b94edc
-  name: Don Covay & the Goodtimers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2c926038-44b0-457a-8482-fc414fe0ffa2
-  name: The Jefferson Lemon Blues Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 06d9ae7a-1112-4b2a-8d63-5f2c16d5147b
-  name: The Soul Clan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fb8a31c9-85cc-4317-94b3-7c01152d88de
-  name: The Rainbows
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2750a926-8e4c-4a01-a3ba-764c6622c041
-  name: The Jets
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 56ea1e51-bbef-4bd8-af02-3267d2b94edc
+    name: Don Covay & the Goodtimers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2c926038-44b0-457a-8482-fc414fe0ffa2
+    name: The Jefferson Lemon Blues Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 06d9ae7a-1112-4b2a-8d63-5f2c16d5147b
+    name: The Soul Clan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fb8a31c9-85cc-4317-94b3-7c01152d88de
+    name: The Rainbows
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2750a926-8e4c-4a01-a3ba-764c6622c041
+    name: The Jets
 biography_enhanced_at: '2026-02-21T01:35:28.985724'
 birth_date: '1938-03-24'
-birth_place: Orangeburg
+birth_place: 'Orangeburg, South Carolina, United States'
 death_date: '2015-01-31'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:35:28.985734'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8b98f267-a203-4e69-a6cb-996d4cfecaf7
-  spotify: https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S
-  wikipedia: https://en.wikipedia.org/wiki/Don_Covay
+  musicbrainz: 'https://musicbrainz.org/artist/8b98f267-a203-4e69-a6cb-996d4cfecaf7'
+  spotify: 'https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Don_Covay'
 gender: Male
 genres:
-- northern soul
-- classic soul
-- philly soul
-- soul
+  - northern soul
+  - classic soul
+  - philly soul
+  - soul
 image_path: 03_Resources/source_material/ArtistPortraits/don_covay.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-02-21T01:35:28.985735'
 musical_connections:
   collaborators:
-  - John Berry
-  - Jimi Hendrix
-  - Steve Cropper
-  - Solomon Burke
-  - Joe Tex
-  - Ben E. King
-  - Arthur Conley
-  - Joe Richardson
-  - John P. Hammond
+    - John Berry
+    - Jimi Hendrix
+    - Steve Cropper
+    - Solomon Burke
+    - Joe Tex
+    - Ben E. King
+    - Arthur Conley
+    - Joe Richardson
+    - John P. Hammond
   influenced:
-  - Chubby Checker
-  - Gladys Knight & the Pips
-  - Aretha Franklin
-  - The Rolling Stones
-  - Wilson Pickett
+    - Chubby Checker
+    - Gladys Knight & the Pips
+    - Aretha Franklin
+    - The Rolling Stones
+    - Wilson Pickett
   mentors:
-  - Little Richard
+    - Little Richard
 musicbrainz_id: 8b98f267-a203-4e69-a6cb-996d4cfecaf7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2021/03/don-covay-born-24-march-1936.html
-- https://www.last.fm/music/Don+Covay/+wiki
-- https://en.wikipedia.org/wiki/Don_Covay
-- https://www.nationscapitaldoowop.org/don-covay/
-- https://www.localmusicscenesc.com/don-covay
-- https://stones7.com/don_covay/bio
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/03/don-covay-born-24-march-1936.html
+  - 'https://www.last.fm/music/Don+Covay/+wiki'
+  - 'https://en.wikipedia.org/wiki/Don_Covay'
+  - 'https://www.nationscapitaldoowop.org/don-covay/'
+  - 'https://www.localmusicscenesc.com/don-covay'
+  - 'https://stones7.com/don_covay/bio'
 spotify_data:
   followers: 22510
   id: 3SC1GczHVpsiorx1KFaa4S
   popularity: 20
-  url: https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S
+  url: 'https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S'
 status: active
 tags:
-- r&b
-- soul
-title: don covay
+  - r&b
+  - soul
+title: Don Covay
+is_active: false
+origin: 'Washington, D.C., District of Columbia, United States'
 ---
 
 ![](don_covay.jpg)

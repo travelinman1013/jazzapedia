@@ -1,44 +1,49 @@
 ---
 biography_enhanced_at: '2026-03-08T03:02:58.598810'
-birth_place: Isale Eko, Lagos State, Nigeria
+birth_place: 'Isale Eko, Lagos State, Nigeria'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:02:58.598819'
 external_urls:
-  spotify: https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH
-  wikipedia: https://en.wikipedia.org/wiki/Tiwa_Savage
+  spotify: 'https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tiwa_Savage'
 genres:
-- tamil pop
-- tamil dance
-- kollywood
-- tollywood
-image_path: 03_Resources/source_material/ArtistPortraits/dhee_tiwa_savage_santhosh_narayanan_and_wondagurl.jpg
+  - tamil pop
+  - tamil dance
+  - kollywood
+  - tollywood
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dhee_tiwa_savage_santhosh_narayanan_and_wondagurl.jpg
 last_updated: '2026-03-08T03:02:58.598820'
 musical_connections:
   collaborators:
-  - Mavin Records
-  - Fantasia
-  - Brandy
+    - Mavin Records
+    - Fantasia
+    - Brandy
   influenced: []
   mentors:
-  - Keith Harris
+    - Keith Harris
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blogs.kent.ac.uk/kbs-news-events/2022/07/from-accounting-to-afro-beats-the-incredible-journey-of-tiwa-savage/
-- https://kids.kiddle.co/Tiwa_Savage
-- https://en.wikipedia.org/wiki/Tiwa_Savage
-- https://www.boomplay.com/buzz/742752
-- https://platinumlist.net/artist/638/tiwa-savage
-- https://www.motownrecords.com/artists/tiwa-savage/
-- https://www.allmusic.com/artist/tiwa-savage-mn0002534475
-- https://theaccomplishmagazine.com/tiwa-savage-biography-africas-number-one-bad-girl-success-story/
+  - >-
+    https://blogs.kent.ac.uk/kbs-news-events/2022/07/from-accounting-to-afro-beats-the-incredible-journey-of-tiwa-savage/
+  - 'https://kids.kiddle.co/Tiwa_Savage'
+  - 'https://en.wikipedia.org/wiki/Tiwa_Savage'
+  - 'https://www.boomplay.com/buzz/742752'
+  - 'https://platinumlist.net/artist/638/tiwa-savage'
+  - 'https://www.motownrecords.com/artists/tiwa-savage/'
+  - 'https://www.allmusic.com/artist/tiwa-savage-mn0002534475'
+  - >-
+    https://theaccomplishmagazine.com/tiwa-savage-biography-africas-number-one-bad-girl-success-story/
 spotify_data:
   followers: 1699032
   id: 77YvCBWe0tTLygpgSJsdOH
   popularity: 61
-  url: https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH
+  url: 'https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH'
 status: active
-title: dhee, tiwa savage, santhosh narayanan & wondagurl
+title: 'Dhee, Tiwa Savage, Santhosh Narayanan & Wondagurl'
+birth_date: '1980-02-05'
+artist_type: band
 ---
 
 ![](dhee_tiwa_savage_santhosh_narayanan_and_wondagurl.jpg)

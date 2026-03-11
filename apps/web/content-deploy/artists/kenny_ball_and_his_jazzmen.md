@@ -1,38 +1,39 @@
 ---
 biography_enhanced_at: '2026-01-28T01:54:27.676870'
-birth_place: Ilford, Essex, England
+birth_place: 'Ilford, Essex, England'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:54:27.676881'
 external_urls:
-  spotify: https://open.spotify.com/artist/1gv1pJZUv6mZIaYRezXE3C
+  spotify: 'https://open.spotify.com/artist/1gv1pJZUv6mZIaYRezXE3C'
   wikipedia: ''
 genres:
-- swing music
-- big band
+  - swing music
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_ball_and_his_jazzmen.jpg
 last_updated: '2026-01-28T01:54:27.676883'
 musical_connections:
   collaborators:
-  - John Bennett
-  - Dave Jones
-  - Acker Bilk
-  - Chris Barber
+    - John Bennett
+    - Dave Jones
+    - Acker Bilk
+    - Chris Barber
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://music.fandom.com/wiki/Kenny_Ball
-- https://www.classical-music.com/features/artists/kenny-ball-1930-2013
-- https://syncopatedtimes.com/kenny-ball-at-the-bbc-1957-1962-the-airshots/
-- https://www.jazzmusicarchives.com/artist/kenny-ball
+  - 'https://music.fandom.com/wiki/Kenny_Ball'
+  - 'https://www.classical-music.com/features/artists/kenny-ball-1930-2013'
+  - 'https://syncopatedtimes.com/kenny-ball-at-the-bbc-1957-1962-the-airshots/'
+  - 'https://www.jazzmusicarchives.com/artist/kenny-ball'
 spotify_data:
   followers: 4044
   id: 1gv1pJZUv6mZIaYRezXE3C
   popularity: 31
-  url: https://open.spotify.com/artist/1gv1pJZUv6mZIaYRezXE3C
+  url: 'https://open.spotify.com/artist/1gv1pJZUv6mZIaYRezXE3C'
 status: active
 title: Kenny Ball and His Jazzmen
+artist_type: band
 ---
 
 ![](kenny_ball_and_his_jazzmen.jpg)

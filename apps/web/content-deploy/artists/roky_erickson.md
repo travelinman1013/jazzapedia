@@ -1,103 +1,110 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 74c4a67f-37df-4f3e-899c-b39b61b3b27e
-  name: The Spades
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 29c4ffc2-25c7-4c81-b123-90311a27cfc1
-  name: Roky Erickson & Evil Hook Wildlife E.T.
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: c52efcf0-1867-4b18-ad21-b37a373c14c0
-  name: Roky Erickson and the Aliens
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  - lead vocals
-  mbid: 1964494f-9f1a-41c1-b054-80ef3b95025c
-  name: 13th Floor Elevators
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 36e13595-f1b1-4e1a-9d5a-89d799e7ba00
-  name: Roky Erickson & Blieb Alien
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: e6108c19-f202-4871-8f4b-452dbe512e22
-  name: Roky Erickson and the Resurrectionists
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 74c4a67f-37df-4f3e-899c-b39b61b3b27e
+    name: The Spades
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 29c4ffc2-25c7-4c81-b123-90311a27cfc1
+    name: Roky Erickson & Evil Hook Wildlife E.T.
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: c52efcf0-1867-4b18-ad21-b37a373c14c0
+    name: Roky Erickson and the Aliens
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+      - lead vocals
+    mbid: 1964494f-9f1a-41c1-b054-80ef3b95025c
+    name: 13th Floor Elevators
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 36e13595-f1b1-4e1a-9d5a-89d799e7ba00
+    name: Roky Erickson & Blieb Alien
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: e6108c19-f202-4871-8f4b-452dbe512e22
+    name: Roky Erickson and the Resurrectionists
 biography_enhanced_at: '2026-01-31T01:10:25.918250'
 birth_date: '1947-07-15'
-birth_place: Dallas
+birth_place: 'Dallas, Texas, United States'
 death_date: '2019-05-31'
 disambiguation: American psychedelic rock musician
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:10:25.918265'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/08850745-2054-4af6-833a-dde3f031eaa5
-  spotify: https://open.spotify.com/artist/7hCsRnXtcbez8msLPfjbkz
-  wikipedia: https://en.wikipedia.org/wiki/Roky_Erickson
+  musicbrainz: 'https://musicbrainz.org/artist/08850745-2054-4af6-833a-dde3f031eaa5'
+  spotify: 'https://open.spotify.com/artist/7hCsRnXtcbez8msLPfjbkz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roky_Erickson'
 gender: Male
 genres:
-- proto-punk
+  - proto-punk
 image_path: 03_Resources/source_material/ArtistPortraits/roky_erickson.jpg
 instruments:
-- eponymous
-- original
-- electric guitar
-- lead vocals
-- guitar
-- acoustic guitar
+  - eponymous
+  - original
+  - electric guitar
+  - lead vocals
+  - guitar
+  - acoustic guitar
 last_updated: '2026-01-31T01:10:25.918266'
 musical_connections:
   collaborators:
-  - Tommy Hall
-  - Stu Cook
-  - Okkervil River
-  - The Black Angels
-  - Jegar Erickson
+    - Tommy Hall
+    - Stu Cook
+    - Okkervil River
+    - The Black Angels
+    - Jegar Erickson
   influenced:
-  - Garage rock and psychedelic rock musicians broadly
+    - Garage rock and psychedelic rock musicians broadly
   mentors:
-  - Tommy Hall
-  - Doug Sahm
+    - Tommy Hall
+    - Doug Sahm
 musicbrainz_id: 08850745-2054-4af6-833a-dde3f031eaa5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Roky_Erickson
-- http://blog.musoscribe.com/index.php/2021/07/26/remembering-roky-erickson-part-one/
-- https://southwestreview.com/magazine/volume-104-number-1/i-have-always-been-here-before-celebrating-the-life-and-music-of-roky-erickson/
-- https://rockandrollglobe.com/psychedelics/roky-erickson-youre-gonna-miss-him/
-- https://chemikal.co.uk/artists/roky-erickson/
-- https://kutx.org/words-on-music/texas-standard/he-was-from-another-world-the-legacy-of-texas-rock-musician-roky-erickson/
-- https://echoesanddust.com/2019/06/roky-erickson-musical-demon-with-the-two-headed-brain/
+  - 'https://en.wikipedia.org/wiki/Roky_Erickson'
+  - >-
+    http://blog.musoscribe.com/index.php/2021/07/26/remembering-roky-erickson-part-one/
+  - >-
+    https://southwestreview.com/magazine/volume-104-number-1/i-have-always-been-here-before-celebrating-the-life-and-music-of-roky-erickson/
+  - >-
+    https://rockandrollglobe.com/psychedelics/roky-erickson-youre-gonna-miss-him/
+  - 'https://chemikal.co.uk/artists/roky-erickson/'
+  - >-
+    https://kutx.org/words-on-music/texas-standard/he-was-from-another-world-the-legacy-of-texas-rock-musician-roky-erickson/
+  - >-
+    https://echoesanddust.com/2019/06/roky-erickson-musical-demon-with-the-two-headed-brain/
 spotify_data:
   followers: 62341
   id: 7hCsRnXtcbez8msLPfjbkz
   popularity: 34
-  url: https://open.spotify.com/artist/7hCsRnXtcbez8msLPfjbkz
+  url: 'https://open.spotify.com/artist/7hCsRnXtcbez8msLPfjbkz'
 status: active
 tags:
-- blues rock
-- contemporary folk
-- garage rock
-title: roky erickson
+  - blues rock
+  - contemporary folk
+  - garage rock
+title: Roky Erickson
+is_active: false
+origin: 'Austin, Texas, United States'
 ---
 
 ![](roky_erickson.jpg)

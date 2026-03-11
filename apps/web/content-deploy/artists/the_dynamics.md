@@ -3,34 +3,35 @@ biography_enhanced_at: '2026-03-09T01:14:51.436892'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:14:51.436903'
 external_urls:
-  spotify: https://open.spotify.com/artist/1mYvu9huHeR7ho3iGAgCsn
+  spotify: 'https://open.spotify.com/artist/1mYvu9huHeR7ho3iGAgCsn'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_dynamics.jpg
 last_updated: '2026-03-09T01:14:51.436905'
 musical_connections:
   collaborators:
-  - Steve Howells
-  - Jimmy Florence
-  - Winston Nyaunda
-  - Harvey Roberts
-  - Richard Mitchell
+    - Steve Howells
+    - Jimmy Florence
+    - Winston Nyaunda
+    - Harvey Roberts
+    - Richard Mitchell
   influenced: []
   mentors:
-  - Ian Osrin
+    - Ian Osrin
 network_extracted: true
-origin: Johannesburg, South Africa
+origin: 'Johannesburg, Gauteng, South Africa'
 primary_source: perplexity
 research_sources:
-- http://rock.co.za/files/dynamics.html
-- https://www.last.fm/music/The+Dynamics/+wiki
+  - 'http://rock.co.za/files/dynamics.html'
+  - 'https://www.last.fm/music/The+Dynamics/+wiki'
 spotify_data:
   followers: 39753
   id: 1mYvu9huHeR7ho3iGAgCsn
   popularity: 37
-  url: https://open.spotify.com/artist/1mYvu9huHeR7ho3iGAgCsn
+  url: 'https://open.spotify.com/artist/1mYvu9huHeR7ho3iGAgCsn'
 status: active
 title: The Dynamics
+artist_type: person
 ---
 
 ![](the_dynamics.jpg)

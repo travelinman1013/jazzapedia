@@ -1,42 +1,47 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-06T01:08:25.126607'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:08:25.126622'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1ea85ecf-137e-411c-bbff-3dd9eb38722b
-  spotify: https://open.spotify.com/artist/4pWDr4qD8psF4PZAQq3RkB
+  musicbrainz: 'https://musicbrainz.org/artist/1ea85ecf-137e-411c-bbff-3dd9eb38722b'
+  spotify: 'https://open.spotify.com/artist/4pWDr4qD8psF4PZAQq3RkB'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-02-06T01:08:25.126626'
 musical_connections:
   collaborators:
-  - The Neville Brothers
+    - The Neville Brothers
   influenced:
-  - Louis Armstrong
-  - Jelly Roll Morton
-  - Dirty Dozen Brass Band
+    - Louis Armstrong
+    - Jelly Roll Morton
+    - Dirty Dozen Brass Band
   mentors: []
 musicbrainz_id: 1ea85ecf-137e-411c-bbff-3dd9eb38722b
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://funktasy.com/entertainment/mardi-gras/
-- https://www.cajunencounters.com/blog/history-of-new-orleans-mardi-gras-music
-- https://folkways.si.edu/having-our-say-mardi-gras-indians/folk/music/tools-for-teaching/smithsonian
-- https://musicrising.tulane.edu/discover/themes/mardi-gras-indians/
-- https://www.kristinagaddy.com/blog/historic-cultural-connections-of-the-mardi-gras-indians
-- https://www.explorelouisiana.com/articles/louisiana-music-mardi-gras-indians-and-zulu
-- https://acloserwalknola.com/tours/indian-red-music-dance-suits-mardi-gras-indians-tour/
-- https://christopherlouisromaguera.com/new-orleans-mardi-gras-indians/
-- https://www.aaihs.org/performance-traditions-and-the-mardi-gras-indians-in-new-orleans/
+  - 'https://funktasy.com/entertainment/mardi-gras/'
+  - 'https://www.cajunencounters.com/blog/history-of-new-orleans-mardi-gras-music'
+  - >-
+    https://folkways.si.edu/having-our-say-mardi-gras-indians/folk/music/tools-for-teaching/smithsonian
+  - 'https://musicrising.tulane.edu/discover/themes/mardi-gras-indians/'
+  - >-
+    https://www.kristinagaddy.com/blog/historic-cultural-connections-of-the-mardi-gras-indians
+  - >-
+    https://www.explorelouisiana.com/articles/louisiana-music-mardi-gras-indians-and-zulu
+  - >-
+    https://acloserwalknola.com/tours/indian-red-music-dance-suits-mardi-gras-indians-tour/
+  - 'https://christopherlouisromaguera.com/new-orleans-mardi-gras-indians/'
+  - >-
+    https://www.aaihs.org/performance-traditions-and-the-mardi-gras-indians-in-new-orleans/
 spotify_data:
   followers: 11
   id: 4pWDr4qD8psF4PZAQq3RkB
   popularity: 0
-  url: https://open.spotify.com/artist/4pWDr4qD8psF4PZAQq3RkB
+  url: 'https://open.spotify.com/artist/4pWDr4qD8psF4PZAQq3RkB'
 status: active
 title: The Flaming Arrows Mardi Gras Indians
 ---

@@ -3,36 +3,37 @@ biography_enhanced_at: '2026-03-02T01:15:48.829245'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:15:48.829255'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7ac7cb9e-2226-4689-b962-3ff4c3eb9961
-  spotify: https://open.spotify.com/artist/1kv3NtPrOIckY3nG97Sbwc
+  musicbrainz: 'https://musicbrainz.org/artist/7ac7cb9e-2226-4689-b962-3ff4c3eb9961'
+  spotify: 'https://open.spotify.com/artist/1kv3NtPrOIckY3nG97Sbwc'
   wikipedia: ''
 genres:
-- brazilian jazz
+  - brazilian jazz
 image_path: 03_Resources/source_material/ArtistPortraits/coletivo_superjazz.jpg
 last_updated: '2026-03-02T01:15:48.829257'
 musical_connections:
   collaborators:
-  - Bruno E.
-  - Giba Estebez
-  - Diego Raso
-  - Márcio Negri
+    - Bruno E.
+    - Giba Estebez
+    - Diego Raso
+    - Márcio Negri
   influenced: []
   mentors: []
 musicbrainz_id: 7ac7cb9e-2226-4689-b962-3ff4c3eb9961
 network_extracted: true
-origin: Brasília, Brazil
+origin: 'Brasília, Brazil'
 primary_source: perplexity
 research_sources:
-- https://www.sympla.com.br/coletivo-superjazz-jazz-ao-vivo__1709795
-- https://www.youtube.com/watch?v=lmSlTYxWroQ
-- https://www.youtube.com/watch?v=uKsMqgKbxF8
+  - 'https://www.sympla.com.br/coletivo-superjazz-jazz-ao-vivo__1709795'
+  - 'https://www.youtube.com/watch?v=lmSlTYxWroQ'
+  - 'https://www.youtube.com/watch?v=uKsMqgKbxF8'
 spotify_data:
   followers: 144
   id: 1kv3NtPrOIckY3nG97Sbwc
   popularity: 15
-  url: https://open.spotify.com/artist/1kv3NtPrOIckY3nG97Sbwc
+  url: 'https://open.spotify.com/artist/1kv3NtPrOIckY3nG97Sbwc'
 status: active
 title: Coletivo Superjazz
+artist_type: band
 ---
 
 ![](coletivo_superjazz.jpg)

@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-04T01:18:54.775364'
-birth_place: Autlán de Navarro, Jalisco, Mexico
+birth_place: 'Autlán de Navarro, Jalisco, Mexico'
 enhancement_provider: perplexity
 entry_created: '2026-02-04T01:18:54.775370'
 external_urls:
-  spotify: https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8
-  wikipedia: https://en.wikipedia.org/wiki/Carlos_Santana
+  spotify: 'https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carlos_Santana'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/santana_lauryn_hill_ceelo_green.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/santana_lauryn_hill_ceelo_green.jpg
 last_updated: '2026-02-04T01:18:54.775370'
 musical_connections:
   collaborators:
-  - Lauryn Hill
-  - Rob Thomas
-  - Eric Clapton
-  - Peter Green
-  - Santana band members (e.g., classic lineup)
+    - Lauryn Hill
+    - Rob Thomas
+    - Eric Clapton
+    - Peter Green
+    - 'Santana band members (e.g., classic lineup)'
   influenced:
-  - Dave Matthews
-  - Younger musicians of all races/ethnicities
+    - Dave Matthews
+    - Younger musicians of all races/ethnicities
   mentors:
-  - B.B. King
-  - T-Bone Walker
-  - Jose Santana (father)
+    - B.B. King
+    - T-Bone Walker
+    - Jose Santana (father)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://santana.com/carlos-santana-biography/
-- https://www.ebsco.com/research-starters/music/carlos-santana
-- https://www.biography.com/musicians/carlos-santana
-- https://en.wikipedia.org/wiki/Carlos_Santana
-- https://www.allaboutjazz.com/musicians/carlos-santana/
-- https://www.britannica.com/biography/Carlos-Santana
-- https://prsguitars.com/featured_artist/carlos_santana_2
+  - 'https://santana.com/carlos-santana-biography/'
+  - 'https://www.ebsco.com/research-starters/music/carlos-santana'
+  - 'https://www.biography.com/musicians/carlos-santana'
+  - 'https://en.wikipedia.org/wiki/Carlos_Santana'
+  - 'https://www.allaboutjazz.com/musicians/carlos-santana/'
+  - 'https://www.britannica.com/biography/Carlos-Santana'
+  - 'https://prsguitars.com/featured_artist/carlos_santana_2'
 spotify_data:
   followers: 769006
   id: 5nLYd9ST4Cnwy6NHaCxbj8
   popularity: 73
-  url: https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8
+  url: 'https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8'
 status: active
-title: Santana, Lauryn Hill, CeeLo Green
+title: Santana
+birth_date: '1947-07-20'
+artist_type: person
 ---
 
 ![](santana_lauryn_hill_ceelo_green.jpg)

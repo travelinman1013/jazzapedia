@@ -1,40 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-17T01:19:46.393936'
-birth_place: Vacherie, Louisiana, USA
+birth_place: 'Vacherie, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-17T01:19:46.393947'
 external_urls:
-  spotify: https://open.spotify.com/artist/3FdFYTKyrSmzjGRrtY9KaE
+  spotify: 'https://open.spotify.com/artist/3FdFYTKyrSmzjGRrtY9KaE'
   wikipedia: ''
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/warren_lee.jpg
 last_updated: '2026-02-17T01:19:46.393949'
 musical_connections:
   collaborators:
-  - Eddie Bo
-  - Allen Toussaint
-  - Marshall Sehorn
-  - Cosimo Matassa
+    - Eddie Bo
+    - Allen Toussaint
+    - Marshall Sehorn
+    - Cosimo Matassa
   influenced: []
   mentors:
-  - Eddie Bo
-  - Allen Toussaint
+    - Eddie Bo
+    - Allen Toussaint
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/articles/tracking-down-warren-lee/
-- https://www.allmusic.com/artist/warren-lee-mn0000816375
-- https://music.apple.com/gb/artist/warren-lee/1651234027
-- https://www.soulfulkindamusic.net/wlee.htm
-- https://www.youtube.com/watch?v=odfhOKlxlSk
+  - 'https://www.offbeat.com/articles/tracking-down-warren-lee/'
+  - 'https://www.allmusic.com/artist/warren-lee-mn0000816375'
+  - 'https://music.apple.com/gb/artist/warren-lee/1651234027'
+  - 'https://www.soulfulkindamusic.net/wlee.htm'
+  - 'https://www.youtube.com/watch?v=odfhOKlxlSk'
 spotify_data:
   followers: 156
   id: 3FdFYTKyrSmzjGRrtY9KaE
   popularity: 2
-  url: https://open.spotify.com/artist/3FdFYTKyrSmzjGRrtY9KaE
+  url: 'https://open.spotify.com/artist/3FdFYTKyrSmzjGRrtY9KaE'
 status: active
 title: Warren Lee
+birth_date: '1938-05-11'
+artist_type: person
 ---
 
 ![](warren_lee.jpg)

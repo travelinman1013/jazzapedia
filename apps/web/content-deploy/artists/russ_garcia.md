@@ -1,46 +1,48 @@
 ---
 biography_enhanced_at: '2026-03-02T01:14:08.473539'
-birth_place: Oakland, California, USA
+birth_place: 'Oakland, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:14:08.473548'
 external_urls:
-  spotify: https://open.spotify.com/artist/7f2eigUiRWzHFw0cErwsHe
-  wikipedia: https://en.wikipedia.org/wiki/Russell_Garcia_(composer)
+  spotify: 'https://open.spotify.com/artist/7f2eigUiRWzHFw0cErwsHe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Russell_Garcia_(composer)'
 genres:
-- exotica
-- space music
+  - exotica
+  - space music
 image_path: 03_Resources/source_material/ArtistPortraits/russ_garcia.jpg
 last_updated: '2026-03-02T01:14:08.473550'
 musical_connections:
   collaborators:
-  - Louis Armstrong and Ella Fitzgerald
-  - Anita O'Day
-  - Frances Faye
-  - Shaynee Rainbolt
-  - Frank Rosolino, Tommy Pederson, Maynard Ferguson, Herbie Harper
-  - Henry Mancini
+    - Louis Armstrong and Ella Fitzgerald
+    - Anita O'Day
+    - Frances Faye
+    - Shaynee Rainbolt
+    - 'Frank Rosolino, Tommy Pederson, Maynard Ferguson, Herbie Harper'
+    - Henry Mancini
   influenced: []
   mentors:
-  - Mario Castelnuovo-Tedesco
-  - Ernst Toch
-  - Edmund Moross
+    - Mario Castelnuovo-Tedesco
+    - Ernst Toch
+    - Edmund Moross
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Russell_Garcia_(composer)
-- https://www.allaboutjazz.com/musicians/russell-garcia/
-- https://cnmsarchive.wordpress.com/2013/07/04/russell-garcia/
-- https://www.spaceagepop.com/garcia.htm
-- https://www.allmusic.com/artist/russell-garcia-mn0000808436
-- https://www.jazzwax.com/p/russ-garcia-1916-2011html
-- https://cinescores.dudaone.com/an-interview-with-russell-garcia
+  - 'https://en.wikipedia.org/wiki/Russell_Garcia_(composer)'
+  - 'https://www.allaboutjazz.com/musicians/russell-garcia/'
+  - 'https://cnmsarchive.wordpress.com/2013/07/04/russell-garcia/'
+  - 'https://www.spaceagepop.com/garcia.htm'
+  - 'https://www.allmusic.com/artist/russell-garcia-mn0000808436'
+  - 'https://www.jazzwax.com/p/russ-garcia-1916-2011html'
+  - 'https://cinescores.dudaone.com/an-interview-with-russell-garcia'
 spotify_data:
   followers: 793
   id: 7f2eigUiRWzHFw0cErwsHe
   popularity: 14
-  url: https://open.spotify.com/artist/7f2eigUiRWzHFw0cErwsHe
+  url: 'https://open.spotify.com/artist/7f2eigUiRWzHFw0cErwsHe'
 status: active
-title: RUSS GARCIA
+title: Russ Garcia
+birth_date: '1916-04-12'
+artist_type: person
 ---
 
 ![](russ_garcia.jpg)

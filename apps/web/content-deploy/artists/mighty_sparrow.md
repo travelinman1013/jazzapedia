@@ -2,49 +2,50 @@
 artist_type: person
 biography_enhanced_at: '2026-02-02T01:47:43.557179'
 birth_date: '1935-07-09'
-birth_place: Grand Roy
+birth_place: 'Grand Roy, Saint John, Grenada'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:47:43.557189'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ab7b79e9-2671-40c7-a540-838f75b0c04e
-  spotify: https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w
-  wikipedia: https://en.wikipedia.org/wiki/Mighty_Sparrow
+  musicbrainz: 'https://musicbrainz.org/artist/ab7b79e9-2671-40c7-a540-838f75b0c04e'
+  spotify: 'https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mighty_Sparrow'
 gender: Male
 genres:
-- calypso
-- soca
-- parang
+  - calypso
+  - soca
+  - parang
 image_path: 03_Resources/source_material/ArtistPortraits/mighty_sparrow.jpg
 last_updated: '2026-02-02T01:47:43.557191'
 musical_connections:
   collaborators:
-  - Lord Melody
-  - Harry Belafonte
+    - Lord Melody
+    - Harry Belafonte
   influenced:
-  - Lord Kitchener
+    - Lord Kitchener
   mentors:
-  - Catholic school choir
-  - Neighborhood steelband
+    - Catholic school choir
+    - Neighborhood steelband
 musicbrainz_id: ab7b79e9-2671-40c7-a540-838f75b0c04e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mighty_Sparrow
-- https://www.last.fm/music/Mighty+Sparrow/+wiki
-- https://www.mightysparrow.com/the-mighty-sparrow-biography/
-- https://calypsoglobal.weebly.com/undisputed-the-mighty-sparrow.html
-- https://caricom.org/personalities/dr-slinger-francisco-the-mighty-sparrow/
-- https://www.roughtrade.com/artist/the-mighty-sparrow
-- https://nycaribnews.com/the-mighty-sparrow-turns-90-calypso-king-of-the-world/
+  - 'https://en.wikipedia.org/wiki/Mighty_Sparrow'
+  - 'https://www.last.fm/music/Mighty+Sparrow/+wiki'
+  - 'https://www.mightysparrow.com/the-mighty-sparrow-biography/'
+  - 'https://calypsoglobal.weebly.com/undisputed-the-mighty-sparrow.html'
+  - 'https://caricom.org/personalities/dr-slinger-francisco-the-mighty-sparrow/'
+  - 'https://www.roughtrade.com/artist/the-mighty-sparrow'
+  - >-
+    https://nycaribnews.com/the-mighty-sparrow-turns-90-calypso-king-of-the-world/
 spotify_data:
   followers: 26069
   id: 4MFEUloFYnm8U4OAGWQH2w
   popularity: 29
-  url: https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w
+  url: 'https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w'
 status: active
 tags:
-- calypso
-- soca
+  - calypso
+  - soca
 title: Mighty Sparrow
 ---
 

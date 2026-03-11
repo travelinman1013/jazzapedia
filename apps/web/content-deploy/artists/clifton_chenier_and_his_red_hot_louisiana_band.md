@@ -1,74 +1,79 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-29T02:06:04.045442'
 disambiguation: fronted by Clifton Chenier until his death in 1987
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:06:04.045452'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0fa64acf-5007-4cbd-9cf7-d039fcb503be
-  spotify: https://open.spotify.com/artist/1a1mIYBPKa9kAE0lIow9uj
-  wikipedia: https://en.wikipedia.org/wiki/Clifton_Chenier
+  musicbrainz: 'https://musicbrainz.org/artist/0fa64acf-5007-4cbd-9cf7-d039fcb503be'
+  spotify: 'https://open.spotify.com/artist/1a1mIYBPKa9kAE0lIow9uj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clifton_Chenier'
 genres:
-- zydeco
-- cajun
-image_path: 03_Resources/source_material/ArtistPortraits/clifton_chenier_and_his_red_hot_louisiana_band.jpg
+  - zydeco
+  - cajun
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/clifton_chenier_and_his_red_hot_louisiana_band.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-01-29T02:06:04.045454'
 members:
-- begin: '1978'
-  end: '1987'
-  instruments:
-  - eponymous
-  mbid: f5133038-c9d7-4fa2-8ec4-a44199571e25
-  name: C.J. Chenier
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: db1a3066-1586-495d-a09c-1312cabab5be
-  name: Clifton Chenier
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 07b637eb-9f3d-4ec5-8638-c3605d6269a6
-  name: John Hart
+  - begin: '1978'
+    end: '1987'
+    instruments:
+      - eponymous
+    mbid: f5133038-c9d7-4fa2-8ec4-a44199571e25
+    name: C.J. Chenier
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: db1a3066-1586-495d-a09c-1312cabab5be
+    name: Clifton Chenier
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 07b637eb-9f3d-4ec5-8638-c3605d6269a6
+    name: John Hart
 musical_connections:
   collaborators:
-  - Philip Walker
-  - '"Blind" John Hart'
-  - Paul Senegal
-  - Cleveland Chenier
-  - Bumps Blackwell
+    - Philip Walker
+    - '"Blind" John Hart'
+    - Paul Senegal
+    - Cleveland Chenier
+    - Bumps Blackwell
   influenced:
-  - C.J. Chenier
-  - Subsequent zydeco musicians
+    - C.J. Chenier
+    - Subsequent zydeco musicians
   mentors:
-  - Professor Longhair
-  - Fats Domino
-  - Chris Strachwitz
+    - Professor Longhair
+    - Fats Domino
+    - Chris Strachwitz
 musicbrainz_id: 0fa64acf-5007-4cbd-9cf7-d039fcb503be
 network_extracted: true
-origin: Opelousas, Louisiana, United States
+origin: 'Opelousas, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://louisianamusichalloffame.org/clifton-chenier/
-- https://winthropbluesfestival.com/cjchenier/
-- https://louisiana.edu/news/clifton-chenier-still-king
-- https://en.wikipedia.org/wiki/Clifton_Chenier
-- http://www.officialcjchenier.com/long-bio.html
-- https://www.tshaonline.org/handbook/entries/chenier-clifton
-- https://www.thecurrent.org/feature/2025/06/27/classic-americana-clifton-chenier
-- https://c-ville.com/cj-chenier-the-red-hot-louisiana-band/
+  - 'https://louisianamusichalloffame.org/clifton-chenier/'
+  - 'https://winthropbluesfestival.com/cjchenier/'
+  - 'https://louisiana.edu/news/clifton-chenier-still-king'
+  - 'https://en.wikipedia.org/wiki/Clifton_Chenier'
+  - 'http://www.officialcjchenier.com/long-bio.html'
+  - 'https://www.tshaonline.org/handbook/entries/chenier-clifton'
+  - >-
+    https://www.thecurrent.org/feature/2025/06/27/classic-americana-clifton-chenier
+  - 'https://c-ville.com/cj-chenier-the-red-hot-louisiana-band/'
 spotify_data:
   followers: 455
   id: 1a1mIYBPKa9kAE0lIow9uj
   popularity: 7
-  url: https://open.spotify.com/artist/1a1mIYBPKa9kAE0lIow9uj
+  url: 'https://open.spotify.com/artist/1a1mIYBPKa9kAE0lIow9uj'
 status: active
 tags:
-- zydeco
+  - zydeco
 title: Clifton Chenier and His Red Hot Louisiana Band
+birth_place: 'Opelousas, Louisiana, United States'
+birth_date: '1925-06-25'
+death_date: '1987-12-12'
 ---
 
 ![](clifton_chenier_and_his_red_hot_louisiana_band.jpg)

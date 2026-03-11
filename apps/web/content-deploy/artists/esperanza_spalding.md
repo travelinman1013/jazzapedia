@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-27T01:50:29.827358'
-birth_place: Portland, Oregon, United States
+birth_place: 'Portland, Oregon, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:50:29.827364'
 external_urls:
-  spotify: https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5
-  wikipedia: https://en.wikipedia.org/wiki/Esperanza_Spalding
+  spotify: 'https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Esperanza_Spalding'
 genres:
-- vocal jazz
-- jazz
-- jazz pop
+  - vocal jazz
+  - jazz
+  - jazz pop
 image_path: 03_Resources/source_material/ArtistPortraits/esperanza_spalding.jpg
 last_updated: '2026-01-27T01:50:29.827365'
 musical_connections:
   collaborators:
-  - Terry Lyne Carrington
-  - Leo Genovese
-  - Jack DeJohnette
-  - Milton Nascimento
-  - Tony Visconti
-  - Pat Metheny
+    - Terry Lyne Carrington
+    - Leo Genovese
+    - Jack DeJohnette
+    - Milton Nascimento
+    - Tony Visconti
+    - Pat Metheny
   influenced: []
   mentors:
-  - Joe Lovano
-  - Wayne Shorter
+    - Joe Lovano
+    - Wayne Shorter
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Esperanza_Spalding
-- https://achievement.org/achiever/esperanza-spalding/
-- https://www.britannica.com/biography/Esperanza-Spalding
-- https://college.berklee.edu/people/esperanza-spalding
-- https://brettell-award.utdallas.edu/past-recipients/esperanza-spalding/
-- https://www.fordfoundation.org/about/the-art-of-change-meet-our-fellows/esperanza-spalding/
+  - 'https://en.wikipedia.org/wiki/Esperanza_Spalding'
+  - 'https://achievement.org/achiever/esperanza-spalding/'
+  - 'https://www.britannica.com/biography/Esperanza-Spalding'
+  - 'https://college.berklee.edu/people/esperanza-spalding'
+  - 'https://brettell-award.utdallas.edu/past-recipients/esperanza-spalding/'
+  - >-
+    https://www.fordfoundation.org/about/the-art-of-change-meet-our-fellows/esperanza-spalding/
 spotify_data:
   followers: 433469
   id: 5bepW5vcdRzheNc0F8lHJ5
   popularity: 50
-  url: https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5
+  url: 'https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5'
 status: active
 title: Esperanza Spalding
+birth_date: '1984-10-18'
+artist_type: person
 ---
 
 ![](esperanza_spalding.jpg)

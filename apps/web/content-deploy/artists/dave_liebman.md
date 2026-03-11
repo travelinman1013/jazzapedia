@@ -1,49 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-26T01:15:43.572677'
-birth_place: Brooklyn, New York, USA
+birth_place: 'Brooklyn, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:15:43.572683'
 external_urls:
-  spotify: https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn
+  spotify: 'https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn'
   wikipedia: ''
 genres:
-- free jazz
-- jazz
-- jazz fusion
+  - free jazz
+  - jazz
+  - jazz fusion
 image_path: 03_Resources/source_material/ArtistPortraits/dave_liebman.jpg
 last_updated: '2026-02-26T01:15:43.572684'
 musical_connections:
   collaborators:
-  - Elvin Jones
-  - Miles Davis
-  - Richie Beirach
-  - John Scofield
-  - Chick Corea
-  - Joe Lovano
+    - Elvin Jones
+    - Miles Davis
+    - Richie Beirach
+    - John Scofield
+    - Chick Corea
+    - Joe Lovano
   influenced:
-  - John Scofield
-  - students worldwide
+    - John Scofield
+    - students worldwide
   mentors:
-  - Joe Allard
-  - Lennie Tristano
-  - Charles Lloyd
+    - Joe Allard
+    - Lennie Tristano
+    - Charles Lloyd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/david-liebman
-- https://www.julius-keilwerth.com/artist/dave-liebman/
-- https://jazztimes.com/features/profiles/dave-liebman-hard-work/
-- http://www.superial.com/scrolls/liebman.html
-- https://www.andyhamilton.org/single-post/2008/04/20/david-liebman
-- https://www.earuprecords.com/david-liebman-friends
-- https://college.berklee.edu/people/david-liebman
+  - 'https://www.arts.gov/honors/jazz/david-liebman'
+  - 'https://www.julius-keilwerth.com/artist/dave-liebman/'
+  - 'https://jazztimes.com/features/profiles/dave-liebman-hard-work/'
+  - 'http://www.superial.com/scrolls/liebman.html'
+  - 'https://www.andyhamilton.org/single-post/2008/04/20/david-liebman'
+  - 'https://www.earuprecords.com/david-liebman-friends'
+  - 'https://college.berklee.edu/people/david-liebman'
 spotify_data:
   followers: 13212
   id: 429bUEZe2Hq5QJvO2CmhLn
   popularity: 21
-  url: https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn
+  url: 'https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn'
 status: active
 title: Dave Liebman
+birth_date: '1946-09-04'
+artist_type: person
 ---
 
 ![](dave_liebman.jpg)

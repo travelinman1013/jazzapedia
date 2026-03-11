@@ -1,74 +1,74 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 96c00077-bddd-492b-a0d7-2b72dff8c7f6
-  name: Larry Cordle, Glen Duncan & Lonesome Standard Time
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 15dda56d-1cf1-4a23-bb59-d6cd22177eff
-  name: Lonesome Standard Time
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 96c00077-bddd-492b-a0d7-2b72dff8c7f6
+    name: 'Larry Cordle, Glen Duncan & Lonesome Standard Time'
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 15dda56d-1cf1-4a23-bb59-d6cd22177eff
+    name: Lonesome Standard Time
 biography_enhanced_at: '2026-02-02T01:43:14.772886'
 birth_date: '1949-11-16'
-birth_place: Louisa, Kentucky, United States
+birth_place: 'Louisa, Kentucky, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:43:14.772896'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/72681b90-031c-4122-9d49-994371ac80a8
-  spotify: https://open.spotify.com/artist/2FTZtjNxkvPnXU0XoMYedM
-  wikipedia: https://en.wikipedia.org/wiki/Larry_Cordle
+  musicbrainz: 'https://musicbrainz.org/artist/72681b90-031c-4122-9d49-994371ac80a8'
+  spotify: 'https://open.spotify.com/artist/2FTZtjNxkvPnXU0XoMYedM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Larry_Cordle'
 gender: Male
 genres:
-- bluegrass
-- christian bluegrass
-- newgrass
-- country christian
+  - bluegrass
+  - christian bluegrass
+  - newgrass
+  - country christian
 image_path: 03_Resources/source_material/ArtistPortraits/larry_cordle.jpg
 instruments:
-- eponymous
-- guitar
-- lead vocals
-- background vocals
+  - eponymous
+  - guitar
+  - lead vocals
+  - background vocals
 last_updated: '2026-02-02T01:43:14.772898'
 musical_connections:
   collaborators:
-  - Glen Duncan
-  - Carl Jackson
-  - Jerry Salley
-  - Ricky Skaggs
-  - Garth Brooks
-  - George Strait
-  - Alan Jackson
-  - Alison Krauss
-  - Tim O'Brien
-  - Dolly Parton
+    - Glen Duncan
+    - Carl Jackson
+    - Jerry Salley
+    - Ricky Skaggs
+    - Garth Brooks
+    - George Strait
+    - Alan Jackson
+    - Alison Krauss
+    - Tim O'Brien
+    - Dolly Parton
   influenced: []
   mentors:
-  - Harry Bryant
+    - Harry Bryant
 musicbrainz_id: 72681b90-031c-4122-9d49-994371ac80a8
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kentuckymusichalloffame.com/larry-cordle/
-- https://smswf.com/larry-cordle-bio/
-- https://en.wikipedia.org/wiki/Larry_Cordle
-- https://larrycordle.com/bio
-- https://www.sagamusic.com/artists/larry-cordle/
+  - 'https://kentuckymusichalloffame.com/larry-cordle/'
+  - 'https://smswf.com/larry-cordle-bio/'
+  - 'https://en.wikipedia.org/wiki/Larry_Cordle'
+  - 'https://larrycordle.com/bio'
+  - 'https://www.sagamusic.com/artists/larry-cordle/'
 spotify_data:
   followers: 4433
   id: 2FTZtjNxkvPnXU0XoMYedM
   popularity: 29
-  url: https://open.spotify.com/artist/2FTZtjNxkvPnXU0XoMYedM
+  url: 'https://open.spotify.com/artist/2FTZtjNxkvPnXU0XoMYedM'
 status: active
 tags:
-- bluegrass
-- country
-title: LARRY CORDLE
+  - bluegrass
+  - country
+title: Larry Cordle
 ---
 
 ![](larry_cordle.jpg)

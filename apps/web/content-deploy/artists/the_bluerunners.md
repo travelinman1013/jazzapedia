@@ -3,40 +3,43 @@ biography_enhanced_at: '2026-03-02T01:11:00.666521'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:11:00.666532'
 external_urls:
-  spotify: https://open.spotify.com/artist/5M83UxBo5OvqUaNN8SUu13
+  spotify: 'https://open.spotify.com/artist/5M83UxBo5OvqUaNN8SUu13'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/the_bluerunners.jpg
 last_updated: '2026-03-02T01:11:00.666533'
 musical_connections:
   collaborators:
-  - Adrian Huval
-  - Willy Golden
-  - Frank Kincel
-  - Cal Stevenson
-  - Jason Harrington
+    - Adrian Huval
+    - Willy Golden
+    - Frank Kincel
+    - Cal Stevenson
+    - Jason Harrington
   influenced: []
   mentors: []
 network_extracted: true
-origin: Lafayette, Louisiana, United States
+origin: 'Lafayette, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.myneworleans.com/listen-up/
-- https://blogcritics.org/bluerunners-honey-slides/
-- https://64parishes.org/entry/rock-music
-- https://thecurrentla.com/2025/running-it-back-iconic-roots-rockers-the-bluerunners-reunite-for-festival-international-weekend/
-- https://earofnewt.com/2022/07/30/mark-meaux-just-wants-bluerunners-to-be-thought-of-as-a-butt-rockin-louisiana-band/
-- https://outsideleft.com/main.php?story=mark-binghams-back-on-the-main-stage
-- https://www.allmusic.com/artist/bluerunners-mn0000757252
+  - 'https://www.myneworleans.com/listen-up/'
+  - 'https://blogcritics.org/bluerunners-honey-slides/'
+  - 'https://64parishes.org/entry/rock-music'
+  - >-
+    https://thecurrentla.com/2025/running-it-back-iconic-roots-rockers-the-bluerunners-reunite-for-festival-international-weekend/
+  - >-
+    https://earofnewt.com/2022/07/30/mark-meaux-just-wants-bluerunners-to-be-thought-of-as-a-butt-rockin-louisiana-band/
+  - 'https://outsideleft.com/main.php?story=mark-binghams-back-on-the-main-stage'
+  - 'https://www.allmusic.com/artist/bluerunners-mn0000757252'
 spotify_data:
   followers: 294
   id: 5M83UxBo5OvqUaNN8SUu13
   popularity: 1
-  url: https://open.spotify.com/artist/5M83UxBo5OvqUaNN8SUu13
+  url: 'https://open.spotify.com/artist/5M83UxBo5OvqUaNN8SUu13'
 status: active
 title: The bluerunners
+artist_type: band
 ---
 
 ![](the_bluerunners.jpg)

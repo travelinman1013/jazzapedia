@@ -1,49 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-02T01:45:59.387466'
-birth_place: Randolph County, North Carolina, USA
+birth_place: 'Randolph County, North Carolina, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:45:59.387475'
 external_urls:
-  spotify: https://open.spotify.com/artist/7FS3EGuBVCs09Mfs23t2Af
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Poole
+  spotify: 'https://open.spotify.com/artist/7FS3EGuBVCs09Mfs23t2Af'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Poole'
 genres:
-- traditional country
-- bluegrass
-- country blues
-- traditional folk
+  - traditional country
+  - bluegrass
+  - country blues
+  - traditional folk
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_poole.jpg
 last_updated: '2026-02-02T01:45:59.387477'
 musical_connections:
   collaborators:
-  - Posey Rorer
-  - Norman Woodlief
-  - Roy Harvey
-  - Lonnie Austin
-  - Odell Smith
+    - Posey Rorer
+    - Norman Woodlief
+    - Roy Harvey
+    - Lonnie Austin
+    - Odell Smith
   influenced:
-  - Bob Dylan
-  - Jerry Garcia
-  - John Mellencamp
-  - Billy Strings
+    - Bob Dylan
+    - Jerry Garcia
+    - John Mellencamp
+    - Billy Strings
   mentors:
-  - Second cousin (unnamed)
+    - Second cousin (unnamed)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Charlie_Poole
-- https://www.blueridgeheritage.com/artist/charlie-poole/
-- https://www.dncr.nc.gov/blog/2024/01/09/charlie-poole-1892-1931-j-93
-- https://northcarolinamusichalloffame.org/inductee-item/charlie-poole/
-- https://docsouth.unc.edu/nc/movingday/bio.html
-- https://randolphhistory.wordpress.com/2009/08/23/charlie-poole/
-- https://wilkesheritagemuseum.com/hall-of-fame/previous-years/2012/charlie-poole
+  - 'https://en.wikipedia.org/wiki/Charlie_Poole'
+  - 'https://www.blueridgeheritage.com/artist/charlie-poole/'
+  - 'https://www.dncr.nc.gov/blog/2024/01/09/charlie-poole-1892-1931-j-93'
+  - 'https://northcarolinamusichalloffame.org/inductee-item/charlie-poole/'
+  - 'https://docsouth.unc.edu/nc/movingday/bio.html'
+  - 'https://randolphhistory.wordpress.com/2009/08/23/charlie-poole/'
+  - >-
+    https://wilkesheritagemuseum.com/hall-of-fame/previous-years/2012/charlie-poole
 spotify_data:
   followers: 8402
   id: 7FS3EGuBVCs09Mfs23t2Af
   popularity: 20
-  url: https://open.spotify.com/artist/7FS3EGuBVCs09Mfs23t2Af
+  url: 'https://open.spotify.com/artist/7FS3EGuBVCs09Mfs23t2Af'
 status: active
 title: Charlie Poole
+origin: 'Spray, North Carolina, United States'
+artist_type: person
 ---
 
 ![](charlie_poole.jpg)

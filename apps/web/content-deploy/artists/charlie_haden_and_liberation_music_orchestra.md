@@ -3,49 +3,57 @@ biography_enhanced_at: '2026-02-03T02:07:27.473229'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:07:27.473239'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin
+  spotify: 'https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin'
   wikipedia: ''
 genres:
-- jazz
-- jazz ballads
-- free jazz
-- cool jazz
-image_path: 03_Resources/source_material/ArtistPortraits/charlie_haden_and_liberation_music_orchestra.jpg
+  - jazz
+  - jazz ballads
+  - free jazz
+  - cool jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/charlie_haden_and_liberation_music_orchestra.jpg
 last_updated: '2026-02-03T02:07:27.473241'
 musical_connections:
   collaborators:
-  - Carla Bley
-  - Don Cherry
-  - Paul Motian
-  - Dewey Redman
-  - Gato Barbieri
-  - Roswell Rudd
-  - Billy Higgins
+    - Carla Bley
+    - Don Cherry
+    - Paul Motian
+    - Dewey Redman
+    - Gato Barbieri
+    - Roswell Rudd
+    - Billy Higgins
   influenced:
-  - Scott LaFaro
-  - Members of Old and New Dreams
+    - Scott LaFaro
+    - Members of Old and New Dreams
   mentors:
-  - Ornette Coleman
-  - Wilbur Ware
+    - Ornette Coleman
+    - Wilbur Ware
 network_extracted: true
-origin: Shenandoah, Iowa, USA
+origin: 'Shenandoah, Iowa, USA'
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Charlie-Haden
-- https://www.arts.gov/honors/jazz/charlie-haden
-- https://brooklynrail.org/2014/09/music/the-shape-of-protest-to-come-liberation-music-orchestra-and-charlie-hadens-legacy/
-- https://lpr.com/lpr_artists/charlie-hadens-liberation-music-orchestra/
-- https://www.allaboutjazz.com/charlie-haden-liberation-music-by-clifford-allen
-- https://www.bluenote.com/artist/charlie-haden/
-- https://randygibbonsreflections.com/2021/04/04/charlie-haden-and-carla-bleys-liberation-music/
-- https://jazztimes.com/archives/charlie-haden-and-the-liberation-music-orchestra-liberated-music/
+  - 'https://www.britannica.com/biography/Charlie-Haden'
+  - 'https://www.arts.gov/honors/jazz/charlie-haden'
+  - >-
+    https://brooklynrail.org/2014/09/music/the-shape-of-protest-to-come-liberation-music-orchestra-and-charlie-hadens-legacy/
+  - 'https://lpr.com/lpr_artists/charlie-hadens-liberation-music-orchestra/'
+  - >-
+    https://www.allaboutjazz.com/charlie-haden-liberation-music-by-clifford-allen
+  - 'https://www.bluenote.com/artist/charlie-haden/'
+  - >-
+    https://randygibbonsreflections.com/2021/04/04/charlie-haden-and-carla-bleys-liberation-music/
+  - >-
+    https://jazztimes.com/archives/charlie-haden-and-the-liberation-music-orchestra-liberated-music/
 spotify_data:
   followers: 86224
   id: 5Pqc0ZFA20Y9zGJZ3ojUin
   popularity: 49
-  url: https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin
+  url: 'https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin'
 status: active
-title: CHARLIE HADEN & LIBERATION MUSIC ORCHESTRA
+title: Charlie Haden & Liberation Music Orchestra
+birth_place: 'Shenandoah, Iowa, United States'
+birth_date: '1937-08-06'
+artist_type: band
 ---
 
 ![](charlie_haden_and_liberation_music_orchestra.jpg)

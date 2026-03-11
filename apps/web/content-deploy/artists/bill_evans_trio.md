@@ -1,133 +1,135 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-26T01:38:52.361827'
 birth_date: '1959'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:38:52.361836'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d0630a08-3b40-4cb4-9f48-7d525262c1f6
-  spotify: https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Evans
+  musicbrainz: 'https://musicbrainz.org/artist/d0630a08-3b40-4cb4-9f48-7d525262c1f6'
+  spotify: 'https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Evans'
 genres:
-- jazz
-- jazz ballads
-- cool jazz
-- hard bop
+  - jazz
+  - jazz ballads
+  - cool jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/bill_evans_trio.jpg
 instruments:
-- double bass
-- drums (drum set)
-- eponymous
-- original
-- piano
-last_updated: '2026-01-26T01:38:52.361838'
-members:
-- begin: '1959'
-  end: '1961-07-06'
-  instruments:
   - double bass
-  mbid: 97cc902a-2850-4db8-8218-186f3b5a1ea5
-  name: Scott LaFaro
-- begin: '1959'
-  end: '1964'
-  instruments:
   - drums (drum set)
-  mbid: 9be59e25-f609-46b2-90cb-2db39b1a1910
-  name: Paul Motian
-- begin: '1959'
-  end: '1980-09-15'
-  instruments:
   - eponymous
   - original
   - piano
-  mbid: 8247a3f2-3a8e-4256-b322-6c57b03a4e36
-  name: Bill Evans
-- begin: '1961'
-  end: '1966'
-  instruments:
-  - double bass
-  mbid: a74c3369-3576-4fba-845b-ee68f1787c03
-  name: Chuck Israels
-- begin: '1963'
-  end: '1965'
-  instruments:
-  - drums (drum set)
-  mbid: ee29266d-a248-4c9e-a971-90f4c6926485
-  name: Larry Bunker
-- begin: '1966'
-  end: '1977'
-  instruments:
-  - double bass
-  mbid: 3203d20c-9e96-4e8b-a51e-c2c10eb1981c
-  name: Eddie Gomez
-- &id001
-  begin: '1966'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 4a936f26-3d71-4309-a954-c86b972d2241
-  name: Alex Riel
-- begin: '1968'
-  end: '1975'
-  instruments:
-  - drums (drum set)
-  mbid: a8104b28-fc75-4563-9e1a-332987bbd937
-  name: Marty Morell
-- begin: '1978'
-  end: '1980-09-15'
-  instruments:
-  - double bass
-  mbid: c0540872-ad50-4973-be47-f833940aa1b1
-  name: Marc Johnson
-- begin: '1979'
-  end: '1980-09-15'
-  instruments:
-  - drums (drum set)
-  mbid: e2c3dac5-2c55-4d4b-82e0-e03a4e74d7fb
-  name: Joe LaBarbera
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 53717b9b-62ab-4d83-94dd-e559164e10dc
-  name: Philly Joe Jones
+last_updated: '2026-01-26T01:38:52.361838'
+members:
+  - begin: '1959'
+    end: '1961-07-06'
+    instruments:
+      - double bass
+    mbid: 97cc902a-2850-4db8-8218-186f3b5a1ea5
+    name: Scott LaFaro
+  - begin: '1959'
+    end: '1964'
+    instruments:
+      - drums (drum set)
+    mbid: 9be59e25-f609-46b2-90cb-2db39b1a1910
+    name: Paul Motian
+  - begin: '1959'
+    end: '1980-09-15'
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 8247a3f2-3a8e-4256-b322-6c57b03a4e36
+    name: Bill Evans
+  - begin: '1961'
+    end: '1966'
+    instruments:
+      - double bass
+    mbid: a74c3369-3576-4fba-845b-ee68f1787c03
+    name: Chuck Israels
+  - begin: '1963'
+    end: '1965'
+    instruments:
+      - drums (drum set)
+    mbid: ee29266d-a248-4c9e-a971-90f4c6926485
+    name: Larry Bunker
+  - begin: '1966'
+    end: '1977'
+    instruments:
+      - double bass
+    mbid: 3203d20c-9e96-4e8b-a51e-c2c10eb1981c
+    name: Eddie Gomez
+  - &ref_0
+    begin: '1966'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 4a936f26-3d71-4309-a954-c86b972d2241
+    name: Alex Riel
+  - begin: '1968'
+    end: '1975'
+    instruments:
+      - drums (drum set)
+    mbid: a8104b28-fc75-4563-9e1a-332987bbd937
+    name: Marty Morell
+  - begin: '1978'
+    end: '1980-09-15'
+    instruments:
+      - double bass
+    mbid: c0540872-ad50-4973-be47-f833940aa1b1
+    name: Marc Johnson
+  - begin: '1979'
+    end: '1980-09-15'
+    instruments:
+      - drums (drum set)
+    mbid: e2c3dac5-2c55-4d4b-82e0-e03a4e74d7fb
+    name: Joe LaBarbera
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 53717b9b-62ab-4d83-94dd-e559164e10dc
+    name: Philly Joe Jones
 musical_connections:
   collaborators:
-  - Scott LaFaro
-  - Paul Motian
-  - Eddie Gomez
-  - Jack DeJohnette
+    - Scott LaFaro
+    - Paul Motian
+    - Eddie Gomez
+    - Jack DeJohnette
   influenced:
-  - Generations of pianists, bassists, and drummers
+    - 'Generations of pianists, bassists, and drummers'
   mentors:
-  - Miles Davis
-  - Red Mitchell
+    - Miles Davis
+    - Red Mitchell
 musicbrainz_id: d0630a08-3b40-4cb4-9f48-7d525262c1f6
 network_extracted: true
-origin: Plainfield, New Jersey, United States
+origin: 'Plainfield, New Jersey, United States'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bill_Evans
-- https://billevansofficial.com/about/
-- https://www.ebsco.com/research-starters/history/bill-evans
-- https://64parishes.org/entry/bill-evans
-- https://www.steinway.com/news/features/bill-evans
-- https://www.seacoastjazz.org/bill-evans-trio-portrait-in-jazz.html
-- https://www.allaboutjazz.com/bill-evans-1929-1980-bill-evans-by-aaj-staff
-- https://jazzandcoffee.substack.com/p/explorations-with-the-bill-evans
+  - 'https://en.wikipedia.org/wiki/Bill_Evans'
+  - 'https://billevansofficial.com/about/'
+  - 'https://www.ebsco.com/research-starters/history/bill-evans'
+  - 'https://64parishes.org/entry/bill-evans'
+  - 'https://www.steinway.com/news/features/bill-evans'
+  - 'https://www.seacoastjazz.org/bill-evans-trio-portrait-in-jazz.html'
+  - 'https://www.allaboutjazz.com/bill-evans-1929-1980-bill-evans-by-aaj-staff'
+  - 'https://jazzandcoffee.substack.com/p/explorations-with-the-bill-evans'
 spotify_data:
   followers: 322154
   id: 3VEG6gxFIMfl4Cdog26avS
   popularity: 57
-  url: https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS
+  url: 'https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS'
 status: active
 tags:
-- bebop
-- contemporary post-bop
-- cool jazz
-title: BILL EVANS TRIO
+  - bebop
+  - contemporary post-bop
+  - cool jazz
+title: Bill Evans Trio
+birth_place: 'Plainfield, New Jersey, United States'
+death_date: '1980-09-15'
 ---
 
 ![](bill_evans_trio.jpg)

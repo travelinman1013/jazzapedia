@@ -1,54 +1,55 @@
 ---
 biography_enhanced_at: '2026-02-03T02:00:36.747993'
-birth_place: Oberlin, Ohio, USA (undergraduate studies; birthplace not specified)
+birth_place: 'Oberlin, Ohio, USA (undergraduate studies; birthplace not specified)'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:00:36.748001'
 external_urls:
-  spotify: https://open.spotify.com/artist/3ONh3e1WXLAgONBUpY5FxO
+  spotify: 'https://open.spotify.com/artist/3ONh3e1WXLAgONBUpY5FxO'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-02-03T02:00:36.748002'
 musical_connections:
   collaborators:
-  - Amy Cimini
-  - Sam Scranton
-  - Jessica Pavone
-  - Erica Dicker
-  - Owen Stewart-Robertson
-  - Mike Pride
-  - Anthony Braxton
-  - Linda Jankowska
-  - Yarn/Wire
-  - Wet Ink
-  - Ensemble Nikel
+    - Amy Cimini
+    - Sam Scranton
+    - Jessica Pavone
+    - Erica Dicker
+    - Owen Stewart-Robertson
+    - Mike Pride
+    - Anthony Braxton
+    - Linda Jankowska
+    - Yarn/Wire
+    - Wet Ink
+    - Ensemble Nikel
   influenced: []
   mentors:
-  - Anthony Braxton
-  - Ron Kuivila
-  - Alvin Lucier
-  - Hans Thomalla
-  - Jay Alan Yim
-  - Chris Mercer
-  - Lee Hyla
+    - Anthony Braxton
+    - Ron Kuivila
+    - Alvin Lucier
+    - Hans Thomalla
+    - Jay Alan Yim
+    - Chris Mercer
+    - Lee Hyla
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.eamdc.com/psny/composers/katherine-young/biography/
-- https://katherineyoung.info/about
-- https://katherineyoung.info
-- https://music.emory.edu/people/biography/young-katherine.html
-- https://www.laphil.com/musicdb/artists/7111/katherine-young
-- https://newmusicusa.org/nmbx/katherine-young-notes-of-collaboration/
-- https://freemusicarchive.org/music/Katherine_Young/bio
-- https://frommfoundation.fas.harvard.edu/people/katherine-young
+  - 'https://www.eamdc.com/psny/composers/katherine-young/biography/'
+  - 'https://katherineyoung.info/about'
+  - 'https://katherineyoung.info'
+  - 'https://music.emory.edu/people/biography/young-katherine.html'
+  - 'https://www.laphil.com/musicdb/artists/7111/katherine-young'
+  - 'https://newmusicusa.org/nmbx/katherine-young-notes-of-collaboration/'
+  - 'https://freemusicarchive.org/music/Katherine_Young/bio'
+  - 'https://frommfoundation.fas.harvard.edu/people/katherine-young'
 spotify_data:
   followers: 1
   id: 3ONh3e1WXLAgONBUpY5FxO
   popularity: 0
-  url: https://open.spotify.com/artist/3ONh3e1WXLAgONBUpY5FxO
+  url: 'https://open.spotify.com/artist/3ONh3e1WXLAgONBUpY5FxO'
 status: active
 title: Katherine Young
+artist_type: person
 ---
 
 ![]()

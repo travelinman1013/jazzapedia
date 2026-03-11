@@ -1,43 +1,45 @@
 ---
 biography_enhanced_at: '2026-02-20T01:21:46.454473'
-birth_place: South Bend, Indiana, United States
+birth_place: 'South Bend, Indiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:21:46.454484'
 external_urls:
-  spotify: https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t
+  spotify: 'https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t'
   wikipedia: ''
 genres:
-- retro soul
-- neo soul
-- contemporary r&b
+  - retro soul
+  - neo soul
+  - contemporary r&b
 image_path: 03_Resources/source_material/ArtistPortraits/october_london.jpg
 last_updated: '2026-02-20T01:21:46.454486'
 musical_connections:
   collaborators:
-  - Snoop Dogg
-  - Faith Evans
-  - Robin Thicke
-  - The Shindellas
+    - Snoop Dogg
+    - Faith Evans
+    - Robin Thicke
+    - The Shindellas
   influenced: []
   mentors:
-  - Jazze Pha
+    - Jazze Pha
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://holican.io/wiki/october-london
-- https://www.famousbirthdays.com/people/october-london.html
-- https://www.last.fm/music/October+London/+wiki
-- https://savlives.com/october-london/
-- https://dwightbrownink.com/october-london-is-the-rebirth-of-cool/
-- https://awesomedjproductions.com/artist/october-london/
-- https://www.1015vibe.com/lsp/artist/bio/october-london/
+  - 'https://holican.io/wiki/october-london'
+  - 'https://www.famousbirthdays.com/people/october-london.html'
+  - 'https://www.last.fm/music/October+London/+wiki'
+  - 'https://savlives.com/october-london/'
+  - 'https://dwightbrownink.com/october-london-is-the-rebirth-of-cool/'
+  - 'https://awesomedjproductions.com/artist/october-london/'
+  - 'https://www.1015vibe.com/lsp/artist/bio/october-london/'
 spotify_data:
   followers: 227318
   id: 1eNO1DUCOtZgCzlwtjtb1t
   popularity: 54
-  url: https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t
+  url: 'https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t'
 status: active
-title: october london
+title: October London
+birth_date: '1986-10-17'
+artist_type: person
 ---
 
 ![](october_london.jpg)

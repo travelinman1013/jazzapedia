@@ -3,49 +3,51 @@ biography_enhanced_at: '2026-02-25T02:01:20.208001'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:01:20.208010'
 external_urls:
-  spotify: https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb
-  wikipedia: https://en.wikipedia.org/wiki/The_Skatalites
+  spotify: 'https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Skatalites'
 genres:
-- ska
-- rocksteady
-- reggae
-- dub
-- roots reggae
-- ska punk
+  - ska
+  - rocksteady
+  - reggae
+  - dub
+  - roots reggae
+  - ska punk
 image_path: 03_Resources/source_material/ArtistPortraits/skatalites.jpg
 last_updated: '2026-02-25T02:01:20.208012'
 musical_connections:
   collaborators:
-  - Tommy McCook
-  - Rolando Alphonso
-  - Don Drummond
-  - Jackie Mittoo
-  - Lloyd Brevett
-  - Bob Marley & The Wailers
-  - Prince Buster
-  - Jimmy Cliff
-  - Toots & The Maytals
+    - Tommy McCook
+    - Rolando Alphonso
+    - Don Drummond
+    - Jackie Mittoo
+    - Lloyd Brevett
+    - Bob Marley & The Wailers
+    - Prince Buster
+    - Jimmy Cliff
+    - Toots & The Maytals
   influenced:
-  - The Specials
-  - The English Beat
+    - The Specials
+    - The English Beat
   mentors:
-  - Don Hitchman
+    - Don Hitchman
 network_extracted: true
-origin: Kingston, Jamaica
+origin: 'Kingston, Jamaica, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Skatalites
-- https://www.paradiseartists.com/artist/the-skatalites/
-- https://daily.redbullmusicacademy.com/2013/03/skatalites-feature/
-- https://skatalites.com/band
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/skatalites
+  - 'https://en.wikipedia.org/wiki/The_Skatalites'
+  - 'https://www.paradiseartists.com/artist/the-skatalites/'
+  - 'https://daily.redbullmusicacademy.com/2013/03/skatalites-feature/'
+  - 'https://skatalites.com/band'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/skatalites
 spotify_data:
   followers: 261423
   id: 4og9jrin5xH5JiFPbeGUPb
   popularity: 44
-  url: https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb
+  url: 'https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb'
 status: active
-title: Skatalites
+title: The Skatalites
+artist_type: band
 ---
 
 ![](skatalites.jpg)

@@ -1,38 +1,41 @@
 ---
 biography_enhanced_at: '2026-01-29T02:06:18.051607'
-birth_place: Enugu, Nigeria
+birth_place: 'Enugu, Nigeria'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:06:18.051619'
 external_urls:
-  spotify: https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi
+  spotify: 'https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi'
   wikipedia: ''
 genres:
-- afrobeat
+  - afrobeat
 image_path: 03_Resources/source_material/ArtistPortraits/william_onyeabor.jpg
 last_updated: '2026-01-29T02:06:18.051621'
 musical_connections:
   collaborators:
-  - Eric Welles-Nyström
-  - Uchenna Ikonne
-  - Yale Evelev
+    - Eric Welles-Nyström
+    - Uchenna Ikonne
+    - Yale Evelev
   influenced: []
   mentors:
-  - Fela Kuti
+    - Fela Kuti
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://culturecustodian.com/williamonyeabor/
-- https://pan-african-music.com/en/william-onyeabor-the-mysterious-synth-cowboy/
-- https://www.luakabop.com/artists/william-onyeabor
-- https://rpublc.com/vol8-no4/the-genius-of-william-onyeabor/
-- https://www.blackhistorymonth.org.uk/article/listings/region/camden/the-legend-of-william-onyeabor/
+  - 'https://culturecustodian.com/williamonyeabor/'
+  - >-
+    https://pan-african-music.com/en/william-onyeabor-the-mysterious-synth-cowboy/
+  - 'https://www.luakabop.com/artists/william-onyeabor'
+  - 'https://rpublc.com/vol8-no4/the-genius-of-william-onyeabor/'
+  - >-
+    https://www.blackhistorymonth.org.uk/article/listings/region/camden/the-legend-of-william-onyeabor/
 spotify_data:
   followers: 130205
   id: 755pQSGUy6rtPrUCbnJTvi
   popularity: 39
-  url: https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi
+  url: 'https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi'
 status: active
 title: William Onyeabor
+artist_type: person
 ---
 
 ![](william_onyeabor.jpg)

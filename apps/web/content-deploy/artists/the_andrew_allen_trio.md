@@ -1,63 +1,65 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-23T01:45:17.080042'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:45:17.080047'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/05a160d3-af14-48f4-9135-2f70d4ff419b
-  spotify: https://open.spotify.com/artist/7qVC6Qs6469t8HtY998KK8
+  musicbrainz: 'https://musicbrainz.org/artist/05a160d3-af14-48f4-9135-2f70d4ff419b'
+  spotify: 'https://open.spotify.com/artist/7qVC6Qs6469t8HtY998KK8'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_andrew_allen_trio.jpg
 instruments:
-- membranophone
-- saxophone
-- electric bass guitar
+  - membranophone
+  - saxophone
+  - electric bass guitar
 last_updated: '2026-01-23T01:45:17.080048'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 997ff2c2-45a7-459f-a079-50fab6ec94c3
-  name: Andrew Allen
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: 0317e14d-d56e-4ed4-bc3b-7cffda6dc86d
-  name: Jose Cochez
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: cdb3a07d-b5f5-44d4-a3a6-1445f9ca867e
-  name: Bradley J. Esau
-- begin: ''
-  end: ''
-  instruments:
-  - electric bass guitar
-  mbid: 4176d5af-bd70-4a2f-a83c-ae6f6268fd3c
-  name: Matthew Wengerd
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 997ff2c2-45a7-459f-a079-50fab6ec94c3
+    name: Andrew Allen
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: 0317e14d-d56e-4ed4-bc3b-7cffda6dc86d
+    name: Jose Cochez
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: cdb3a07d-b5f5-44d4-a3a6-1445f9ca867e
+    name: Bradley J. Esau
+  - begin: ''
+    end: ''
+    instruments:
+      - electric bass guitar
+    mbid: 4176d5af-bd70-4a2f-a83c-ae6f6268fd3c
+    name: Matthew Wengerd
 musical_connections:
   collaborators:
-  - The Andrew Allen Trio band members
+    - The Andrew Allen Trio band members
   influenced: []
   mentors: []
 musicbrainz_id: 05a160d3-af14-48f4-9135-2f70d4ff419b
 network_extracted: true
-origin: Florida, United States
+origin: 'Florida, United States'
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/the-andrew-allen-trio/
-- https://www.musicmetricsvault.com/artists/the-andrew-allen-trio/7qVC6Qs6469t8HtY998KK8
-- http://www.lakewalesartscouncil.org/blogs/2019/4/9/andrew-allen-artist-profile
+  - 'https://www.allaboutjazz.com/musicians/the-andrew-allen-trio/'
+  - >-
+    https://www.musicmetricsvault.com/artists/the-andrew-allen-trio/7qVC6Qs6469t8HtY998KK8
+  - >-
+    http://www.lakewalesartscouncil.org/blogs/2019/4/9/andrew-allen-artist-profile
 spotify_data:
   followers: 453
   id: 7qVC6Qs6469t8HtY998KK8
   popularity: 9
-  url: https://open.spotify.com/artist/7qVC6Qs6469t8HtY998KK8
+  url: 'https://open.spotify.com/artist/7qVC6Qs6469t8HtY998KK8'
 status: active
-title: the andrew allen trio
+title: The Andrew Allen Trio
 ---
 
 ![](the_andrew_allen_trio.jpg)

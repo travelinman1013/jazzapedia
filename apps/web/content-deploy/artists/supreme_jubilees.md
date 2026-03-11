@@ -3,34 +3,35 @@ biography_enhanced_at: '2026-02-01T01:31:03.016537'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:31:03.016543'
 external_urls:
-  spotify: https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw
+  spotify: 'https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw'
   wikipedia: ''
 genres:
-- funk gospel
-- classic soul
+  - funk gospel
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/supreme_jubilees.jpg
 last_updated: '2026-02-01T01:31:03.016544'
 musical_connections:
   collaborators:
-  - Gospel Keynotes
-  - The Jackson Southernaires
-  - Mighty Clouds of Joy
+    - Gospel Keynotes
+    - The Jackson Southernaires
+    - Mighty Clouds of Joy
   influenced: []
   mentors: []
 network_extracted: true
-origin: Fresno, CA, USA
+origin: 'Fresno, CA, USA'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/The+Supreme+Jubilees/+wiki
-- https://lightintheattic.net/collections/supreme-jubilees
-- https://www.allmusic.com/artist/supreme-jubilees-mn0003110265
+  - 'https://www.last.fm/music/The+Supreme+Jubilees/+wiki'
+  - 'https://lightintheattic.net/collections/supreme-jubilees'
+  - 'https://www.allmusic.com/artist/supreme-jubilees-mn0003110265'
 spotify_data:
   followers: 11599
   id: 5XduRGfkKVRVqyEJ0D9trw
   popularity: 35
-  url: https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw
+  url: 'https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw'
 status: active
 title: Supreme Jubilees
+artist_type: band
 ---
 
 ![](supreme_jubilees.jpg)

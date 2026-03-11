@@ -3,38 +3,40 @@ biography_enhanced_at: '2026-02-17T01:20:28.581610'
 enhancement_provider: perplexity
 entry_created: '2026-02-17T01:20:28.581620'
 external_urls:
-  spotify: https://open.spotify.com/artist/65Ve7myRPJ037d2gY3xges
+  spotify: 'https://open.spotify.com/artist/65Ve7myRPJ037d2gY3xges'
   wikipedia: null
 genres:
-- brass band
-- cajun
-- zydeco
+  - brass band
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/flaming_arrows.jpg
 last_updated: '2026-02-17T01:20:28.581621'
 musical_connections:
   collaborators:
-  - Milton Batiste
-  - Joe Saulsbury Jr.
-  - Harold Scott
-  - Kenneth 'Afro' Williams
-  - Eneal Wimberly
+    - Milton Batiste
+    - Joe Saulsbury Jr.
+    - Harold Scott
+    - Kenneth 'Afro' Williams
+    - Eneal Wimberly
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.louisianamusicfactory.com/product/flaming-arrows-here-come-the-indians-now/
-- https://www.youtube.com/watch?v=3YrDIKoPHTU
-- http://www.houstonculture.org/laproject/indians.html
-- https://whereyat.wordpress.com/tag/big-chief-alfred-doucette/
+  - >-
+    https://www.louisianamusicfactory.com/product/flaming-arrows-here-come-the-indians-now/
+  - 'https://www.youtube.com/watch?v=3YrDIKoPHTU'
+  - 'http://www.houstonculture.org/laproject/indians.html'
+  - 'https://whereyat.wordpress.com/tag/big-chief-alfred-doucette/'
 spotify_data:
   followers: 234
   id: 65Ve7myRPJ037d2gY3xges
   popularity: 4
-  url: https://open.spotify.com/artist/65Ve7myRPJ037d2gY3xges
+  url: 'https://open.spotify.com/artist/65Ve7myRPJ037d2gY3xges'
 status: active
 title: Flaming Arrows
+artist_type: band
 ---
 
 ![](flaming_arrows.jpg)

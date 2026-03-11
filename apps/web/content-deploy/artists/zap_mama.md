@@ -1,96 +1,98 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-17T01:21:27.806001'
 birth_date: '1990'
 enhancement_provider: perplexity
 entry_created: '2026-02-17T01:21:27.806012'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/50c0ec9a-a2a3-4888-a8b0-a0cf565e5ac7
-  spotify: https://open.spotify.com/artist/5UUHefXYUqgqmROQvDmJLL
-  wikipedia: https://en.wikipedia.org/wiki/Zap_Mama
+  musicbrainz: 'https://musicbrainz.org/artist/50c0ec9a-a2a3-4888-a8b0-a0cf565e5ac7'
+  spotify: 'https://open.spotify.com/artist/5UUHefXYUqgqmROQvDmJLL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zap_Mama'
 genres:
-- afropop
-- neo soul
+  - afropop
+  - neo soul
 image_path: 03_Resources/source_material/ArtistPortraits/zap_mama.jpg
 instruments:
-- original
-- background vocals
+  - original
+  - background vocals
 last_updated: '2026-02-17T01:21:27.806013'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6b11caad-1fa6-45c8-b447-4c51a3a98e1b
-  name: Marie Daulne
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ee00f0af-c10d-4955-8d6f-4a3135ded821
-  name: Manou Gallo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f3b351aa-f27e-4486-b283-45f4246abd78
-  name: Sabine Kabongo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0cddaad5-a787-4495-b237-2dce3f873eca
-  name: Sylvie Nawasadio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 424b6f2c-9cb8-40f6-9ee0-d03685659a2a
-  name: Sally Nyolo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4719ca78-ed30-436e-afc2-adc6d815d332
-  name: Monique Harcum
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 810bc3d7-6165-4f77-9771-f61ba70bbe7c
-  name: Lala Njava
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 8f212dde-0871-4b02-95c7-4e66d4d933df
-  name: Celine 'tHooft
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6b11caad-1fa6-45c8-b447-4c51a3a98e1b
+    name: Marie Daulne
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ee00f0af-c10d-4955-8d6f-4a3135ded821
+    name: Manou Gallo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f3b351aa-f27e-4486-b283-45f4246abd78
+    name: Sabine Kabongo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0cddaad5-a787-4495-b237-2dce3f873eca
+    name: Sylvie Nawasadio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 424b6f2c-9cb8-40f6-9ee0-d03685659a2a
+    name: Sally Nyolo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4719ca78-ed30-436e-afc2-adc6d815d332
+    name: Monique Harcum
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 810bc3d7-6165-4f77-9771-f61ba70bbe7c
+    name: Lala Njava
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 8f212dde-0871-4b02-95c7-4e66d4d933df
+    name: Celine 'tHooft
 musical_connections:
   collaborators:
-  - David Byrne
-  - Sabine Kabongo
-  - Sylvie Nawasadio
-  - Erykah Badu
-  - The Roots
-  - Neville Brothers, Al Jarreau, Bobby McFerrin
+    - David Byrne
+    - Sabine Kabongo
+    - Sylvie Nawasadio
+    - Erykah Badu
+    - The Roots
+    - 'Neville Brothers, Al Jarreau, Bobby McFerrin'
   influenced:
-  - American hip-hop, nu-soul, jazz artists
+    - 'American hip-hop, nu-soul, jazz artists'
   mentors:
-  - Pygmy tribes (Central African)
+    - Pygmy tribes (Central African)
 musicbrainz_id: 50c0ec9a-a2a3-4888-a8b0-a0cf565e5ac7
 network_extracted: true
-origin: Brussels
+origin: 'Brussels, Belgium, Europe'
 primary_source: perplexity
 research_sources:
-- https://concord.com/artist/zap-mama/
-- https://en.wikipedia.org/wiki/Zap_Mama
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/zap-mama
-- https://www.laphil.com/musicdb/artists/5864/zap-mama
-- https://jazztimes.com/archives/zap-mama/
-- https://www.luakabop.com/artists/zap-mama
-- https://www.last.fm/music/Zap+Mama/+wiki
+  - 'https://concord.com/artist/zap-mama/'
+  - 'https://en.wikipedia.org/wiki/Zap_Mama'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/zap-mama
+  - 'https://www.laphil.com/musicdb/artists/5864/zap-mama'
+  - 'https://jazztimes.com/archives/zap-mama/'
+  - 'https://www.luakabop.com/artists/zap-mama'
+  - 'https://www.last.fm/music/Zap+Mama/+wiki'
 spotify_data:
   followers: 43475
   id: 5UUHefXYUqgqmROQvDmJLL
   popularity: 30
-  url: https://open.spotify.com/artist/5UUHefXYUqgqmROQvDmJLL
+  url: 'https://open.spotify.com/artist/5UUHefXYUqgqmROQvDmJLL'
 status: active
 tags:
-- world
+  - world
 title: Zap Mama
+birth_place: 'Democratic Republic of the Congo, Country'
 ---
 
 ![](zap_mama.jpg)

@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-25T01:38:54.249447'
-birth_place: We'koqma'q First Nation, Cape Breton Island, Nova Scotia, Canada
+birth_place: 'We''koqma''q First Nation, Cape Breton Island, Nova Scotia, Canada'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:38:54.249454'
 external_urls:
-  spotify: https://open.spotify.com/artist/6loCzBWfTzYSjwN6QoDFQv
-  wikipedia: https://en.wikipedia.org/wiki/Morgan_Toney
+  spotify: 'https://open.spotify.com/artist/6loCzBWfTzYSjwN6QoDFQv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Morgan_Toney'
 genres:
-- native american music
+  - native american music
 image_path: 03_Resources/source_material/ArtistPortraits/morgan_toney.jpg
 last_updated: '2026-01-25T01:38:54.249455'
 musical_connections:
   collaborators:
-  - Keith Mullins
-  - Ryan Roberts
-  - Ashley MacIsaac
+    - Keith Mullins
+    - Ryan Roberts
+    - Ashley MacIsaac
   influenced: []
   mentors:
-  - Mi'kmaq Elders
+    - Mi'kmaq Elders
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Morgan_Toney
-- https://www.morgantoneymusic.com
-- https://www.morgantoneymusic.com/about
-- https://thebluegrasssituation.com/read/basic-folk-morgan-toney/
-- https://nsnt.ca/blog/morgan-toney/
-- https://folkalley.com/basic-folk-podcast-eps-311-morgan-toney/
-- https://www.rootsmusic.ca/2022/04/23/morgan-toney-is-making-a-name-for-himself-by-combining-mikmaq-musical-traditions/
-- https://justusfolk.com/morgan-toney
-- https://deeprootsmusic.ca/2021/07/morgan-toney-keith-mullins/
-- https://amplify.nmc.ca/instrumental-morgan-toney-fuses-mikmaq-and-cape-breton-music-traditions-with-his-fiddle/
+  - 'https://en.wikipedia.org/wiki/Morgan_Toney'
+  - 'https://www.morgantoneymusic.com'
+  - 'https://www.morgantoneymusic.com/about'
+  - 'https://thebluegrasssituation.com/read/basic-folk-morgan-toney/'
+  - 'https://nsnt.ca/blog/morgan-toney/'
+  - 'https://folkalley.com/basic-folk-podcast-eps-311-morgan-toney/'
+  - >-
+    https://www.rootsmusic.ca/2022/04/23/morgan-toney-is-making-a-name-for-himself-by-combining-mikmaq-musical-traditions/
+  - 'https://justusfolk.com/morgan-toney'
+  - 'https://deeprootsmusic.ca/2021/07/morgan-toney-keith-mullins/'
+  - >-
+    https://amplify.nmc.ca/instrumental-morgan-toney-fuses-mikmaq-and-cape-breton-music-traditions-with-his-fiddle/
 spotify_data:
   followers: 2292
   id: 6loCzBWfTzYSjwN6QoDFQv
   popularity: 13
-  url: https://open.spotify.com/artist/6loCzBWfTzYSjwN6QoDFQv
+  url: 'https://open.spotify.com/artist/6loCzBWfTzYSjwN6QoDFQv'
 status: active
-title: morgan toney
+title: Morgan Toney
+artist_type: person
 ---
 
 ![](morgan_toney.jpg)

@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-04T01:19:38.773466'
-birth_place: Islington, London, England
+birth_place: 'Islington, London, England'
 enhancement_provider: perplexity
 entry_created: '2026-02-04T01:19:38.773476'
 external_urls:
-  spotify: https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI
-  wikipedia: https://en.wikipedia.org/wiki/Little_Simz
+  spotify: 'https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Simz'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/little_simz_and_obongjayar.jpg
 last_updated: '2026-02-04T01:19:38.773478'
 musical_connections:
   collaborators:
-  - Obongjayar
-  - Cleo Sol
-  - Emma Corinn
-  - Inflo
+    - Obongjayar
+    - Cleo Sol
+    - Emma Corinn
+    - Inflo
   influenced: []
   mentors:
-  - Missy Elliott
-  - Lauryn Hill
-  - Kendrick Lamar
+    - Missy Elliott
+    - Lauryn Hill
+    - Kendrick Lamar
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://hellorayo.co.uk/kiss/entertainment/music/little-simz-facts
-- https://www.last.fm/music/Little+Simz/+wiki
-- https://en.wikipedia.org/wiki/Little_Simz
-- https://www.port-magazine.com/issue-29/little-simz/
-- https://www.othervoices.ie/artists/little-simz
-- https://thegentlewoman.co.uk/library/little-simz
-- https://littlesimz.fandom.com/wiki/Little_Simz
-- https://www.redbull.com/us-en/little-simz-career-timeline
-- https://www.stereofox.com/artists/little-simz/
+  - 'https://hellorayo.co.uk/kiss/entertainment/music/little-simz-facts'
+  - 'https://www.last.fm/music/Little+Simz/+wiki'
+  - 'https://en.wikipedia.org/wiki/Little_Simz'
+  - 'https://www.port-magazine.com/issue-29/little-simz/'
+  - 'https://www.othervoices.ie/artists/little-simz'
+  - 'https://thegentlewoman.co.uk/library/little-simz'
+  - 'https://littlesimz.fandom.com/wiki/Little_Simz'
+  - 'https://www.redbull.com/us-en/little-simz-career-timeline'
+  - 'https://www.stereofox.com/artists/little-simz/'
 spotify_data:
   followers: 1267928
   id: 6eXZu6O7nAUA5z6vLV8NKI
   popularity: 66
-  url: https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI
+  url: 'https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI'
 status: active
 title: Little Simz and Obongjayar
+birth_date: '1994-02-23'
+artist_type: person
 ---
 
 ![](little_simz_and_obongjayar.jpg)

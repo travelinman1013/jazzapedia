@@ -1,61 +1,63 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6cab539c-6b12-4582-b6e1-575cf1c37cd7
-  name: The Rhythm Orchids
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6cab539c-6b12-4582-b6e1-575cf1c37cd7
+    name: The Rhythm Orchids
 biography_enhanced_at: '2026-02-20T01:23:00.079905'
 birth_date: '1933-07-20'
-birth_place: Happy
+birth_place: 'Happy, Texas, United States'
 death_date: '1999-02-14'
-disambiguation: US country rocker, of The Rhythm Orchids
+disambiguation: 'US country rocker, of The Rhythm Orchids'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:23:00.079914'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0c45bbe7-f4d5-4d84-a382-4c1f132176e1
-  spotify: https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb
-  wikipedia: https://en.wikipedia.org/wiki/Buddy_Knox
+  musicbrainz: 'https://musicbrainz.org/artist/0c45bbe7-f4d5-4d84-a382-4c1f132176e1'
+  spotify: 'https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buddy_Knox'
 gender: Male
 genres:
-- rockabilly
-- doo-wop
-- rock and roll
+  - rockabilly
+  - doo-wop
+  - rock and roll
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_knox.jpg
 last_updated: '2026-02-20T01:23:00.079915'
 musical_connections:
   collaborators:
-  - Jimmy Bowen
-  - Don Lanier
-  - Dave Alldred
-  - Buddy Holly and the Crickets
-  - Sonny Curtis
+    - Jimmy Bowen
+    - Don Lanier
+    - Dave Alldred
+    - Buddy Holly and the Crickets
+    - Sonny Curtis
   influenced:
-  - Buddy Holly
+    - Buddy Holly
   mentors:
-  - Elvis Presley
-  - Roy Orbison
-  - Norman Petty
+    - Elvis Presley
+    - Roy Orbison
+    - Norman Petty
 musicbrainz_id: 0c45bbe7-f4d5-4d84-a382-4c1f132176e1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.tshaonline.org/handbook/entries/knox-buddy-wayne
-- https://en.wikipedia.org/wiki/Buddy_Knox
-- https://rockabillylegends.com/buddy-knox-biography/
-- https://peel.fandom.com/wiki/Buddy_Knox
-- https://www.vintagerockmag.com/2024/03/remembering-the-texan-rockabilly-pioneer-buddy-knox/
-- http://www.classicbands.com/BuddyKnoxInterview.html
+  - 'https://www.tshaonline.org/handbook/entries/knox-buddy-wayne'
+  - 'https://en.wikipedia.org/wiki/Buddy_Knox'
+  - 'https://rockabillylegends.com/buddy-knox-biography/'
+  - 'https://peel.fandom.com/wiki/Buddy_Knox'
+  - >-
+    https://www.vintagerockmag.com/2024/03/remembering-the-texan-rockabilly-pioneer-buddy-knox/
+  - 'http://www.classicbands.com/BuddyKnoxInterview.html'
 spotify_data:
   followers: 24848
   id: 0b5Tz3szM4KK8esFKV2Zsb
   popularity: 29
-  url: https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb
+  url: 'https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb'
 status: active
 tags:
-- rock
-title: buddy knox
+  - rock
+title: Buddy Knox
+is_active: false
 ---
 
 ![](buddy_knox.jpg)

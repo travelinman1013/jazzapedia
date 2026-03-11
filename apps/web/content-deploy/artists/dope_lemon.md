@@ -1,61 +1,63 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-25T02:02:08.092130'
-birth_date: '2016'
+birth_date: '1986-04-27'
 disambiguation: Angus Stone’s project
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:02:08.092140'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/77c5db7c-6d5b-49c2-9ea6-82f3efcd1da2
-  spotify: https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8
-  wikipedia: https://en.wikipedia.org/wiki/Angus_Stone
+  musicbrainz: 'https://musicbrainz.org/artist/77c5db7c-6d5b-49c2-9ea6-82f3efcd1da2'
+  spotify: 'https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Angus_Stone'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/dope_lemon.jpg
 instruments:
-- bass
+  - bass
 last_updated: '2026-02-25T02:02:08.092142'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 24374fbe-7c6e-4216-9345-3e3e53720835
-  name: Brad Heald
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 24374fbe-7c6e-4216-9345-3e3e53720835
+    name: Brad Heald
 musical_connections:
   collaborators:
-  - Julia Stone
-  - Rohin Brown
-  - Elliot Hammond
-  - Finn (Govinda Doyle)
-  - Post Malone
-  - Brad Heald
+    - Julia Stone
+    - Rohin Brown
+    - Elliot Hammond
+    - Finn (Govinda Doyle)
+    - Post Malone
+    - Brad Heald
   influenced: []
   mentors:
-  - John Stone
+    - John Stone
 musicbrainz_id: 77c5db7c-6d5b-49c2-9ea6-82f3efcd1da2
 network_extracted: true
-origin: Sydney, New South Wales, Australia
+origin: 'Sydney, New South Wales, Australia'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Dope+Lemon/+wiki
-- https://vwmusicrocks.com/2022/11/18/dope-lemon-a-crash-course/
-- https://isolatednation.com/articles/angusstone-interview
-- https://en.wikipedia.org/wiki/Angus_Stone
-- https://panm360.com/en/interviews-panm360/dope-lemon-la-vie-en-rose/
-- https://therodeomag.com/2025/04/30/dope-lemon-discusses-the-inspiration-and-meaning-behind-golden-wolf/
-- https://www.groovytunesmagazine.com/interview/an-interview-with-dope-lemon
-- https://www.craccum.co.nz/an-interview-with-dope-lemon/
+  - 'https://www.last.fm/music/Dope+Lemon/+wiki'
+  - 'https://vwmusicrocks.com/2022/11/18/dope-lemon-a-crash-course/'
+  - 'https://isolatednation.com/articles/angusstone-interview'
+  - 'https://en.wikipedia.org/wiki/Angus_Stone'
+  - 'https://panm360.com/en/interviews-panm360/dope-lemon-la-vie-en-rose/'
+  - >-
+    https://therodeomag.com/2025/04/30/dope-lemon-discusses-the-inspiration-and-meaning-behind-golden-wolf/
+  - 'https://www.groovytunesmagazine.com/interview/an-interview-with-dope-lemon'
+  - 'https://www.craccum.co.nz/an-interview-with-dope-lemon/'
 spotify_data:
   followers: 606292
   id: 7oZLKL1GjYiaAgssXsLmW8
   popularity: 62
-  url: https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8
+  url: 'https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8'
 status: active
 tags:
-- indie
-- indie rock
-- psychedelic rock
+  - indie
+  - indie rock
+  - psychedelic rock
 title: Dope Lemon
+birth_place: 'Sydney, New South Wales, Australia'
 ---
 
 ![](dope_lemon.jpg)

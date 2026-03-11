@@ -2,46 +2,46 @@
 artist_type: person
 biography_enhanced_at: '2026-02-07T01:23:02.853228'
 birth_date: '1992-05-30'
-birth_place: West Hartford
+birth_place: 'West Hartford, Connecticut, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:23:02.853238'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a403c188-d5f3-4bdc-8461-39ea998f7e23
-  spotify: https://open.spotify.com/artist/4iP863xgxxSQUbKm7SVwXh
-  wikipedia: https://en.wikipedia.org/wiki/Alexa_Tarantino
+  musicbrainz: 'https://musicbrainz.org/artist/a403c188-d5f3-4bdc-8461-39ea998f7e23'
+  spotify: 'https://open.spotify.com/artist/4iP863xgxxSQUbKm7SVwXh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alexa_Tarantino'
 gender: Female
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/alexa_tarantino.jpg
 last_updated: '2026-02-07T01:23:02.853241'
 musical_connections:
   collaborators:
-  - Steven Feifke
-  - Lauren Sevian
-  - Sherrie Maricle
-  - Arturo O’Farrill
-  - Cécile McLorin Salvant
+    - Steven Feifke
+    - Lauren Sevian
+    - Sherrie Maricle
+    - Arturo O’Farrill
+    - Cécile McLorin Salvant
   influenced: []
   mentors:
-  - Wynton Marsalis
+    - Wynton Marsalis
 musicbrainz_id: a403c188-d5f3-4bdc-8461-39ea998f7e23
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jazzempowers.org/alexa-tarantino
-- https://maestramusic.org/profile/alexa-tarantino/
-- https://www.yamaha.com/artists/alexatarantino.html
-- https://mocact.org/alexa-tarantino-2/
-- https://iml.esm.rochester.edu/resource/alumni/alexa-tarantino/
-- https://alexatarantino.com/bio/
-- https://litchfieldjazzfest.com/line-up/alexa-tarantino/
-- https://rockportmusic.org/alexa-tarantino/
-- https://en.wikipedia.org/wiki/Alexa_Tarantino
+  - 'https://www.jazzempowers.org/alexa-tarantino'
+  - 'https://maestramusic.org/profile/alexa-tarantino/'
+  - 'https://www.yamaha.com/artists/alexatarantino.html'
+  - 'https://mocact.org/alexa-tarantino-2/'
+  - 'https://iml.esm.rochester.edu/resource/alumni/alexa-tarantino/'
+  - 'https://alexatarantino.com/bio/'
+  - 'https://litchfieldjazzfest.com/line-up/alexa-tarantino/'
+  - 'https://rockportmusic.org/alexa-tarantino/'
+  - 'https://en.wikipedia.org/wiki/Alexa_Tarantino'
 spotify_data:
   followers: 4009
   id: 4iP863xgxxSQUbKm7SVwXh
   popularity: 16
-  url: https://open.spotify.com/artist/4iP863xgxxSQUbKm7SVwXh
+  url: 'https://open.spotify.com/artist/4iP863xgxxSQUbKm7SVwXh'
 status: active
 title: Alexa Tarantino
 ---

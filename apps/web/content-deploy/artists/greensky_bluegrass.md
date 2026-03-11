@@ -1,85 +1,89 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-01T01:33:01.515410'
 birth_date: '2000'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:33:01.515416'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/199596a3-a1af-49f8-8795-259eff8461fb
-  spotify: https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn
+  musicbrainz: 'https://musicbrainz.org/artist/199596a3-a1af-49f8-8795-259eff8461fb'
+  spotify: 'https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn'
   wikipedia: ''
 genres:
-- newgrass
-- bluegrass
-- jam band
-- americana
+  - newgrass
+  - bluegrass
+  - jam band
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/greensky_bluegrass.jpg
 instruments:
-- mandolin
-- resonator guitar
+  - mandolin
+  - resonator guitar
 last_updated: '2026-02-01T01:33:01.515417'
 members:
-- &id001
-  begin: '2000'
-  end: ''
-  instruments:
-  - mandolin
-  mbid: 0d46da3f-a9dd-44d5-bb42-d8f54dceb26c
-  name: Paul Hoffman
-- begin: ''
-  end: ''
-  instruments:
-  - resonator guitar
-  mbid: 704d7310-4f2b-49ae-9a1d-28b71504f4d9
-  name: Anders Beck
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: db9d5dcb-13a9-4fcc-9029-e855345ee07e
-  name: Dave Bruzza
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6097d8c8-1a17-4dd2-8164-5cf78bbc3e7e
-  name: phoffman
+  - &ref_0
+    begin: '2000'
+    end: ''
+    instruments:
+      - mandolin
+    mbid: 0d46da3f-a9dd-44d5-bb42-d8f54dceb26c
+    name: Paul Hoffman
+  - begin: ''
+    end: ''
+    instruments:
+      - resonator guitar
+    mbid: 704d7310-4f2b-49ae-9a1d-28b71504f4d9
+    name: Anders Beck
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: db9d5dcb-13a9-4fcc-9029-e855345ee07e
+    name: Dave Bruzza
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6097d8c8-1a17-4dd2-8164-5cf78bbc3e7e
+    name: phoffman
 musical_connections:
   collaborators:
-  - Michael Arlen Bont
-  - Dave Bruzza
-  - Mike Devol
-  - Anders Beck
-  - Dominic John Davis
-  - Glenn Brown
-  - Strings and Lou
+    - Michael Arlen Bont
+    - Dave Bruzza
+    - Mike Devol
+    - Anders Beck
+    - Dominic John Davis
+    - Glenn Brown
+    - Strings and Lou
   influenced: []
   mentors:
-  - Jerry Garcia
-  - Del McCoury Band
+    - Jerry Garcia
+    - Del McCoury Band
 musicbrainz_id: 199596a3-a1af-49f8-8795-259eff8461fb
 network_extracted: true
-origin: Kalamazoo
+origin: 'Kalamazoo, Michigan, United States'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Greensky+Bluegrass/+wiki
-- https://jambands.com/features/2025/12/09/greensky-bluegrass-create-your-own-reality/
-- https://folkalley.com/greensky-bluegrass/
-- https://greenskybluegrass.com/about/
-- https://www.wmot.org/roots-radio-news/2022-01-26/on-the-string-twenty-years-of-greensky-bluegrass
-- https://singmeastory.org/songwriters/greensky-bluegrass
-- https://thebluegrasssituation.com/read/25-years-of-greensky-bluegrass-connecting-the-dots/
-- http://oreateai.com/blog/meet-the-members-of-greensky-bluegrass-a-journey-through-sound/b7929be94de7c2cda5652da321b5a123
+  - 'https://www.last.fm/music/Greensky+Bluegrass/+wiki'
+  - >-
+    https://jambands.com/features/2025/12/09/greensky-bluegrass-create-your-own-reality/
+  - 'https://folkalley.com/greensky-bluegrass/'
+  - 'https://greenskybluegrass.com/about/'
+  - >-
+    https://www.wmot.org/roots-radio-news/2022-01-26/on-the-string-twenty-years-of-greensky-bluegrass
+  - 'https://singmeastory.org/songwriters/greensky-bluegrass'
+  - >-
+    https://thebluegrasssituation.com/read/25-years-of-greensky-bluegrass-connecting-the-dots/
+  - >-
+    http://oreateai.com/blog/meet-the-members-of-greensky-bluegrass-a-journey-through-sound/b7929be94de7c2cda5652da321b5a123
 spotify_data:
   followers: 227865
   id: 33bzrYoIWLx5uox3y0VtHn
   popularity: 47
-  url: https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn
+  url: 'https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn'
 status: active
 tags:
-- bluegrass
-- jam band
-- jam grass
+  - bluegrass
+  - jam band
+  - jam grass
 title: Greensky Bluegrass
 ---
 

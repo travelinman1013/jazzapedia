@@ -1,96 +1,99 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-02T01:48:32.034887'
 birth_date: '1925-11-12'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:48:32.034900'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cfedde14-91c5-46cb-b087-9f2da9bec194
-  spotify: https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong_and_His_Hot_Five
+  musicbrainz: 'https://musicbrainz.org/artist/cfedde14-91c5-46cb-b087-9f2da9bec194'
+  spotify: 'https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong_and_His_Hot_Five'
 genres:
-- jazz
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_his_hot_five.jpg
+  - jazz
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/louis_armstrong_and_his_hot_five.jpg
 instruments:
-- eponymous
-- additional
+  - eponymous
+  - additional
 last_updated: '2026-02-02T01:48:32.034902'
 members:
-- begin: '1925-11-12'
-  end: '1927'
-  instruments: []
-  mbid: 66fc5e06-25be-4070-8812-aac282a347eb
-  name: Johnny Dodds
-- begin: '1925-11-12'
-  end: '1927'
-  instruments: []
-  mbid: 2a6f6ee8-a9cd-4826-9749-d0fe48fb49f7
-  name: Lil Hardin Armstrong
-- begin: '1925-11-12'
-  end: '1927'
-  instruments: []
-  mbid: d2cf1ea2-0dce-45ab-8fb4-5c4c81713b54
-  name: Kid Ory
-- begin: '1925-11-12'
-  end: '1928-12-04'
-  instruments:
-  - eponymous
-  mbid: eea8a864-fcda-4602-9569-38ab446decd6
-  name: Louis Armstrong
-- begin: '1925'
-  end: '1927'
-  instruments: []
-  mbid: 7a281c93-adc9-4426-9331-f5e870162f91
-  name: Johnny St. Cyr
-- begin: '1927-12-10'
-  end: '1927-12-13'
-  instruments:
-  - additional
-  mbid: dbfd61ef-fce1-4803-9f18-7bfdd3996508
-  name: Lonnie Johnson
-- begin: '1928'
-  end: '1928'
-  instruments: []
-  mbid: 5d7df598-bb80-4d73-a6f8-9ed1a4374052
-  name: Earl Hines
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 58bc629e-b6d2-47a6-ab11-4f6d64c6f7fe
-  name: Mancy "Peck" Carr
+  - begin: '1925-11-12'
+    end: '1927'
+    instruments: []
+    mbid: 66fc5e06-25be-4070-8812-aac282a347eb
+    name: Johnny Dodds
+  - begin: '1925-11-12'
+    end: '1927'
+    instruments: []
+    mbid: 2a6f6ee8-a9cd-4826-9749-d0fe48fb49f7
+    name: Lil Hardin Armstrong
+  - begin: '1925-11-12'
+    end: '1927'
+    instruments: []
+    mbid: d2cf1ea2-0dce-45ab-8fb4-5c4c81713b54
+    name: Kid Ory
+  - begin: '1925-11-12'
+    end: '1928-12-04'
+    instruments:
+      - eponymous
+    mbid: eea8a864-fcda-4602-9569-38ab446decd6
+    name: Louis Armstrong
+  - begin: '1925'
+    end: '1927'
+    instruments: []
+    mbid: 7a281c93-adc9-4426-9331-f5e870162f91
+    name: Johnny St. Cyr
+  - begin: '1927-12-10'
+    end: '1927-12-13'
+    instruments:
+      - additional
+    mbid: dbfd61ef-fce1-4803-9f18-7bfdd3996508
+    name: Lonnie Johnson
+  - begin: '1928'
+    end: '1928'
+    instruments: []
+    mbid: 5d7df598-bb80-4d73-a6f8-9ed1a4374052
+    name: Earl Hines
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 58bc629e-b6d2-47a6-ab11-4f6d64c6f7fe
+    name: Mancy "Peck" Carr
 musical_connections:
   collaborators:
-  - Lillian Hardin Armstrong
-  - Johnny Dodds
-  - Kid Ory
-  - Johnny St. Cyr
-  - Earl Hines
+    - Lillian Hardin Armstrong
+    - Johnny Dodds
+    - Kid Ory
+    - Johnny St. Cyr
+    - Earl Hines
   influenced:
-  - Future jazz musicians generally
+    - Future jazz musicians generally
   mentors:
-  - King Oliver
+    - King Oliver
 musicbrainz_id: cfedde14-91c5-46cb-b087-9f2da9bec194
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/music/armstrong-records-hot-five
-- https://www.louisarmstronghouse.org/biography/
-- https://symposium.music.org/43/item/2193-the-origin-of-armstrongs-hot-fives-and-hot-sevens.html
-- https://en.wikipedia.org/wiki/Louis_Armstrong_and_His_Hot_Five
-- https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/105972/Hot_Five
+  - 'https://www.ebsco.com/research-starters/music/armstrong-records-hot-five'
+  - 'https://www.louisarmstronghouse.org/biography/'
+  - >-
+    https://symposium.music.org/43/item/2193-the-origin-of-armstrongs-hot-fives-and-hot-sevens.html
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong_and_His_Hot_Five'
+  - 'https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf'
+  - 'https://adp.library.ucsb.edu/index.php/mastertalent/detail/105972/Hot_Five'
 spotify_data:
   followers: 25766
   id: 0t4VVR2T9Sb0z3NdDdEU6S
   popularity: 31
-  url: https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S
+  url: 'https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S'
 status: active
 tags:
-- dixieland
-- jazz
+  - dixieland
+  - jazz
 title: Louis Armstrong and His Hot Five
+birth_place: 'New Orleans, Louisiana, United States'
 ---
 
 ![](louis_armstrong_and_his_hot_five.jpg)

@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-27T01:56:55.271777'
-birth_place: East Dulwich, London, England
+birth_place: 'East Dulwich, London, England'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:56:55.271782'
 external_urls:
-  spotify: https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye
-  wikipedia: https://en.wikipedia.org/wiki/Tom_Misch
+  spotify: 'https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tom_Misch'
 genres:
-- indie soul
+  - indie soul
 image_path: 03_Resources/source_material/ArtistPortraits/tom_misch.jpg
 last_updated: '2026-01-27T01:56:55.271783'
 musical_connections:
   collaborators:
-  - Loyle Carner
-  - Jordan Rakei
-  - Carmody
-  - Alexa Harley
+    - Loyle Carner
+    - Jordan Rakei
+    - Carmody
+    - Alexa Harley
   influenced: []
   mentors:
-  - J Dilla
-  - Flying Lotus
+    - J Dilla
+    - Flying Lotus
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.musicgateway.com/blog/spotify/spotlight-on-independence-tom-mischs-mastery
-- https://www.majesticjournal.com/tom-misch
-- https://www.youtube.com/watch?v=xwizna-EqkE
-- https://en.wikipedia.org/wiki/Tom_Misch
-- https://www.stereofox.com/artists/tom-misch/
+  - >-
+    https://www.musicgateway.com/blog/spotify/spotlight-on-independence-tom-mischs-mastery
+  - 'https://www.majesticjournal.com/tom-misch'
+  - 'https://www.youtube.com/watch?v=xwizna-EqkE'
+  - 'https://en.wikipedia.org/wiki/Tom_Misch'
+  - 'https://www.stereofox.com/artists/tom-misch/'
 spotify_data:
   followers: 1374245
   id: 1uiEZYehlNivdK3iQyAbye
   popularity: 66
-  url: https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye
+  url: 'https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye'
 status: active
-title: tom misch
+title: Tom Misch
+birth_date: '1995-06-25'
+artist_type: person
 ---
 
 ![](tom_misch.jpg)

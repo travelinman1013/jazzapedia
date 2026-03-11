@@ -1,57 +1,59 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ad360657-17ec-4ab1-a144-3d19101e404c
-  name: Zephyr
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ad360657-17ec-4ab1-a144-3d19101e404c
+    name: Zephyr
 biography_enhanced_at: '2026-01-31T01:11:21.529011'
 birth_date: '1952'
-birth_place: Cuba
+birth_place: 'Cuba, Cuba, null'
 disambiguation: blues rock singer/guitarist
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:11:21.529027'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fe4e71a9-ddb9-47b5-9e2e-ec53862a91c6
-  spotify: https://open.spotify.com/artist/0fGkh5Zcm3DtPR7hrE5nX6
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Turner
+  musicbrainz: 'https://musicbrainz.org/artist/fe4e71a9-ddb9-47b5-9e2e-ec53862a91c6'
+  spotify: 'https://open.spotify.com/artist/0fGkh5Zcm3DtPR7hrE5nX6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Turner'
 gender: Male
 genres:
-- blues rock
-- modern blues
-- blues
+  - blues rock
+  - modern blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_turner.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-01-31T01:11:21.529028'
 musical_connections:
   collaborators:
-  - Otis Taylor
-  - Tracy Nelson
-  - Candy Givens / Zephyr
-  - Ron Miles
+    - Otis Taylor
+    - Tracy Nelson
+    - Candy Givens / Zephyr
+    - Ron Miles
   influenced: []
   mentors:
-  - Tommy Bolin
-  - Kenny Passarelli
+    - Tommy Bolin
+    - Kenny Passarelli
 musicbrainz_id: fe4e71a9-ddb9-47b5-9e2e-ec53862a91c6
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://eddieturner.net/about/
-- https://en.wikipedia.org/wiki/Eddie_Turner
-- https://www.americanbluesscene.com/2011/09/eddie-devil-boy-turner-weaving-experiences-with-guitars/
-- https://eddieturner.net/old-press/
-- https://www.westword.com/music/eddie-turner-on-change-in-me-11968979/
-- https://rockingmagpie.wordpress.com/2021/05/12/eddie-turner-change-in-me/
+  - 'https://eddieturner.net/about/'
+  - 'https://en.wikipedia.org/wiki/Eddie_Turner'
+  - >-
+    https://www.americanbluesscene.com/2011/09/eddie-devil-boy-turner-weaving-experiences-with-guitars/
+  - 'https://eddieturner.net/old-press/'
+  - 'https://www.westword.com/music/eddie-turner-on-change-in-me-11968979/'
+  - 'https://rockingmagpie.wordpress.com/2021/05/12/eddie-turner-change-in-me/'
 spotify_data:
   followers: 1167
   id: 0fGkh5Zcm3DtPR7hrE5nX6
   popularity: 4
-  url: https://open.spotify.com/artist/0fGkh5Zcm3DtPR7hrE5nX6
+  url: 'https://open.spotify.com/artist/0fGkh5Zcm3DtPR7hrE5nX6'
 status: active
-title: eddie turner
+title: Eddie Turner
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](eddie_turner.jpg)

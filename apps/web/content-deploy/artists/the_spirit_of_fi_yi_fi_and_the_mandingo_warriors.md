@@ -3,43 +3,47 @@ biography_enhanced_at: '2026-02-11T02:00:28.939196'
 enhancement_provider: perplexity
 entry_created: '2026-02-11T02:00:28.939205'
 external_urls:
-  spotify: https://open.spotify.com/artist/1CpwYrbzXc6Lb9RmCclJpj
+  spotify: 'https://open.spotify.com/artist/1CpwYrbzXc6Lb9RmCclJpj'
   wikipedia: Not found in search results
 genres:
-- gospel
-- traditional gospel
-image_path: 03_Resources/source_material/ArtistPortraits/the_spirit_of_fi_yi_fi_and_the_mandingo_warriors.jpg
+  - gospel
+  - traditional gospel
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/the_spirit_of_fi_yi_fi_and_the_mandingo_warriors.jpg
 last_updated: '2026-02-11T02:00:28.939207'
 musical_connections:
   collaborators:
-  - Wesley (drummer/percussionist)
-  - FIYIYI Black Masking Indian group
-  - Resa "Cinnamon Black" Bazile
+    - Wesley (drummer/percussionist)
+    - FIYIYI Black Masking Indian group
+    - Resa "Cinnamon Black" Bazile
   influenced:
-  - New Orleans Black Masking Indian community
-  - Congo Square Preservation Society
+    - New Orleans Black Masking Indian community
+    - Congo Square Preservation Society
   mentors:
-  - Allison "Tootie" Montana
-  - Edward "Kidd" Jordan
-  - Sun Ra
+    - Allison "Tootie" Montana
+    - Edward "Kidd" Jordan
+    - Sun Ra
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://nolajazzmuseum.org/events/2025/6/14/drumming-circle
-- https://www.offbeat.com/music/spirit-fi-yi-yi-mandingo-warriors-morning-comes-independent/
-- https://hnoc.org/club-narratives/chosen-few
-- https://noma.org/big-chief-harris-retirement-celebration/
-- https://pertuniafoundation.org/fiyiyi_album.html
-- https://64parishes.org/his-last-ride
-- https://direct.mit.edu/afar/article/53/1/95/55155/Fire-in-the-Hole-The-Spirit-Work-of-Fi-Yi-Yi-and
+  - 'https://nolajazzmuseum.org/events/2025/6/14/drumming-circle'
+  - >-
+    https://www.offbeat.com/music/spirit-fi-yi-yi-mandingo-warriors-morning-comes-independent/
+  - 'https://hnoc.org/club-narratives/chosen-few'
+  - 'https://noma.org/big-chief-harris-retirement-celebration/'
+  - 'https://pertuniafoundation.org/fiyiyi_album.html'
+  - 'https://64parishes.org/his-last-ride'
+  - >-
+    https://direct.mit.edu/afar/article/53/1/95/55155/Fire-in-the-Hole-The-Spirit-Work-of-Fi-Yi-Yi-and
 spotify_data:
   followers: 85108
   id: 1CpwYrbzXc6Lb9RmCclJpj
   popularity: 36
-  url: https://open.spotify.com/artist/1CpwYrbzXc6Lb9RmCclJpj
+  url: 'https://open.spotify.com/artist/1CpwYrbzXc6Lb9RmCclJpj'
 status: active
-title: THE SPIRIT OF FI YI FI & THE MANDINGO WARRIORS
+title: The Spirit OF FI YI FI & the Mandingo Warriors
+artist_type: band
 ---
 
 ![](the_spirit_of_fi_yi_fi_and_the_mandingo_warriors.jpg)

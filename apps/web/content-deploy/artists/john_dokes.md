@@ -1,43 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-27T01:37:01.121833'
-birth_place: Little Rock, Arkansas, USA (birthplace); raised in Oakland, California,
-  USA
+birth_place: 'Little Rock, Arkansas, USA (birthplace); raised in Oakland, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:37:01.121844'
 external_urls:
-  spotify: https://open.spotify.com/artist/78e4XR3O9pbs3QfxTKzegU
+  spotify: 'https://open.spotify.com/artist/78e4XR3O9pbs3QfxTKzegU'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/john_dokes.jpg
 last_updated: '2026-02-27T01:37:01.121846'
 musical_connections:
   collaborators:
-  - George Gee
-  - David Gibson
-  - Lawrence Leathers
-  - Steve Einerson
-  - Alex Claffy
+    - George Gee
+    - David Gibson
+    - Lawrence Leathers
+    - Steve Einerson
+    - Alex Claffy
   influenced: []
   mentors:
-  - Dawn Hampton
+    - Dawn Hampton
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.johndokes.com/epk
-- https://www.johndokes.com/our-day
-- https://www.johndokes.com/forever-reasons
-- https://csunshinetoday.csun.edu/csun-profiles/alumnus-john-dokes-is-a-renaissance-man/
-- https://www.makingascene.org/john-dokes-our-day/
-- https://www.smallslive.com/artists/2484-john-dokes/
-- https://www.allaboutjazz.com/musicians/john-dokes/
-- https://www.youtube.com/watch?v=XwKY67dTf44
+  - 'https://www.johndokes.com/epk'
+  - 'https://www.johndokes.com/our-day'
+  - 'https://www.johndokes.com/forever-reasons'
+  - >-
+    https://csunshinetoday.csun.edu/csun-profiles/alumnus-john-dokes-is-a-renaissance-man/
+  - 'https://www.makingascene.org/john-dokes-our-day/'
+  - 'https://www.smallslive.com/artists/2484-john-dokes/'
+  - 'https://www.allaboutjazz.com/musicians/john-dokes/'
+  - 'https://www.youtube.com/watch?v=XwKY67dTf44'
 spotify_data:
   followers: 250
   id: 78e4XR3O9pbs3QfxTKzegU
   popularity: 0
-  url: https://open.spotify.com/artist/78e4XR3O9pbs3QfxTKzegU
+  url: 'https://open.spotify.com/artist/78e4XR3O9pbs3QfxTKzegU'
 status: active
 title: John Dokes
+artist_type: person
 ---
 
 ![](john_dokes.jpg)

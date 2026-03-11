@@ -1,104 +1,104 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-26T01:41:53.295454'
 birth_date: '1973'
 disambiguation: Jamaican reggae fusion band
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:41:53.295460'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a9355030-319f-4d1b-8798-adaf43f85112
-  spotify: https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ
-  wikipedia: https://en.wikipedia.org/wiki/Third_World_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/a9355030-319f-4d1b-8798-adaf43f85112'
+  spotify: 'https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Third_World_(band)'
 genres:
-- reggae
-- roots reggae
+  - reggae
+  - roots reggae
 image_path: 03_Resources/source_material/ArtistPortraits/third_world.jpg
 instruments:
-- lead vocals
-- membranophone
+  - lead vocals
+  - membranophone
 last_updated: '2026-01-26T01:41:53.295461'
 members:
-- begin: '1975'
-  end: '1976'
-  instruments:
-  - lead vocals
-  mbid: ab06e2f9-dd43-489d-a125-d82dc28a5662
-  name: Prilly Hamilton
-- begin: '1976'
-  end: '1997'
-  instruments:
-  - membranophone
-  mbid: 7edec5b6-0bf8-4c9c-a1e2-150ff63433f7
-  name: Willie Stewart
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e1728724-c6cf-4a65-904f-d8e8b320ebcc
-  name: AJ Brown
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 62f654db-9b53-4e0e-a0a1-b09b0901f562
-  name: William Clarke
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dd335d9a-6eef-4bb6-ab9c-21a1a7587dcc
-  name: Michael “Ibo” Cooper
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 57e8e99d-5bde-4158-9ccd-e18af23100b2
-  name: Richie Daley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3365dc5e-0c5d-4479-9373-a1c48b118e2a
-  name: Maurice Gregory
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 29d7f2fe-f13a-4cda-b789-94ffae554512
-  name: Irvin “Carrot” Jarrett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0e03e5e0-130d-4a71-b3e0-34aa008b503c
-  name: Cat Coore
+  - begin: '1975'
+    end: '1976'
+    instruments:
+      - lead vocals
+    mbid: ab06e2f9-dd43-489d-a125-d82dc28a5662
+    name: Prilly Hamilton
+  - begin: '1976'
+    end: '1997'
+    instruments:
+      - membranophone
+    mbid: 7edec5b6-0bf8-4c9c-a1e2-150ff63433f7
+    name: Willie Stewart
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e1728724-c6cf-4a65-904f-d8e8b320ebcc
+    name: AJ Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 62f654db-9b53-4e0e-a0a1-b09b0901f562
+    name: William Clarke
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dd335d9a-6eef-4bb6-ab9c-21a1a7587dcc
+    name: Michael “Ibo” Cooper
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 57e8e99d-5bde-4158-9ccd-e18af23100b2
+    name: Richie Daley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3365dc5e-0c5d-4479-9373-a1c48b118e2a
+    name: Maurice Gregory
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 29d7f2fe-f13a-4cda-b789-94ffae554512
+    name: Irvin “Carrot” Jarrett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0e03e5e0-130d-4a71-b3e0-34aa008b503c
+    name: Cat Coore
 musical_connections:
   collaborators:
-  - Stevie Wonder
-  - Gamble and Huff
-  - Michael “Ibo” Cooper
-  - Stephen “Cat” Coore
-  - Richard Daley
-  - William “Bunny Rugs” Clarke
+    - Stevie Wonder
+    - Gamble and Huff
+    - Michael “Ibo” Cooper
+    - Stephen “Cat” Coore
+    - Richard Daley
+    - William “Bunny Rugs” Clarke
   influenced: []
   mentors:
-  - Bob Marley & the Wailers
+    - Bob Marley & the Wailers
 musicbrainz_id: a9355030-319f-4d1b-8798-adaf43f85112
 network_extracted: true
-origin: Kingston
+origin: 'Kingston, Jamaica, Jamaica'
 primary_source: perplexity
 research_sources:
-- https://rootsandblues.ca/third-world/
-- https://uaagency.com/reggae/third-world/
-- https://en.wikipedia.org/wiki/Third_World_(band)
-- https://www.udiscovermusic.com/stories/third-world-journey-to-addis-feature/
-- https://gatheringofthevibes.com/artist/third-world/
-- https://smallworldmusic.com/artists/third-world/
-- https://secure.thefreight.org/15027/15029-third-world-250802
-- https://soultraincruise.com/artists/third-world/
+  - 'https://rootsandblues.ca/third-world/'
+  - 'https://uaagency.com/reggae/third-world/'
+  - 'https://en.wikipedia.org/wiki/Third_World_(band)'
+  - 'https://www.udiscovermusic.com/stories/third-world-journey-to-addis-feature/'
+  - 'https://gatheringofthevibes.com/artist/third-world/'
+  - 'https://smallworldmusic.com/artists/third-world/'
+  - 'https://secure.thefreight.org/15027/15029-third-world-250802'
+  - 'https://soultraincruise.com/artists/third-world/'
 spotify_data:
   followers: 200190
   id: 6qfKnsgz1CwyqA7lTdieRJ
   popularity: 50
-  url: https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ
+  url: 'https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ'
 status: active
 tags:
-- classic pop and rock
-- pop reggae
-- reggae
+  - classic pop and rock
+  - pop reggae
+  - reggae
 title: Third World
 ---
 

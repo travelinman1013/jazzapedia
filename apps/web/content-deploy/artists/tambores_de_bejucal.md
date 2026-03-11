@@ -1,39 +1,42 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-01T01:28:53.037264'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:28:53.037270'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bcab1c8a-6c41-4e27-b5a2-bea2f5417b31
-  spotify: https://open.spotify.com/artist/3qmLTXDl5MsnxNH7zWGflH
+  musicbrainz: 'https://musicbrainz.org/artist/bcab1c8a-6c41-4e27-b5a2-bea2f5417b31'
+  spotify: 'https://open.spotify.com/artist/3qmLTXDl5MsnxNH7zWGflH'
   wikipedia: null
 genres:
-- timba
-- son cubano
+  - timba
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/tambores_de_bejucal.jpg
 last_updated: '2026-02-01T01:28:53.037271'
 musical_connections:
   collaborators:
-  - Ceibistas (Ceiba de Plata group)
-  - Espinistas (Espina de Oro group)
+    - Ceibistas (Ceiba de Plata group)
+    - Espinistas (Espina de Oro group)
   influenced: []
   mentors: []
 musicbrainz_id: bcab1c8a-6c41-4e27-b5a2-bea2f5417b31
 network_extracted: true
-origin: Bejucal, La Habana Province, Cuba
+origin: 'Bejucal, La Habana Province, Cuba'
 primary_source: perplexity
 research_sources:
-- https://www.cubagrouptour.com/us/information/events-in-cuba/charangas-bejucal
-- https://www.lovecuba.com/blog/everything-you-need-to-know-about-charangas-de-bejucal-in-cuba/
-- https://www.netssa.com/cuba_events
-- https://havanatimes.org/other-galleries/the-charangas-of-bejucal-carnival-a-deep-rooted-cuban-tradition/
+  - >-
+    https://www.cubagrouptour.com/us/information/events-in-cuba/charangas-bejucal
+  - >-
+    https://www.lovecuba.com/blog/everything-you-need-to-know-about-charangas-de-bejucal-in-cuba/
+  - 'https://www.netssa.com/cuba_events'
+  - >-
+    https://havanatimes.org/other-galleries/the-charangas-of-bejucal-carnival-a-deep-rooted-cuban-tradition/
 spotify_data:
   followers: 251
   id: 3qmLTXDl5MsnxNH7zWGflH
   popularity: 3
-  url: https://open.spotify.com/artist/3qmLTXDl5MsnxNH7zWGflH
+  url: 'https://open.spotify.com/artist/3qmLTXDl5MsnxNH7zWGflH'
 status: active
-title: tambores de bejucal
+title: Tambores de Bejucal
 ---
 
 ![](tambores_de_bejucal.jpg)

@@ -1,56 +1,59 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-20T01:19:41.669291'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:19:41.669301'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0484fabd-f28c-42f7-96da-eed13f032387
-  spotify: https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj
+  musicbrainz: 'https://musicbrainz.org/artist/0484fabd-f28c-42f7-96da-eed13f032387'
+  spotify: 'https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj'
   wikipedia: ''
 genres:
-- nu jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/jahari_massamba_unit.jpg
 last_updated: '2026-02-20T01:19:41.669303'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ea9078ef-20ca-4506-81ea-2ae5fe3a42e8
-  name: Madlib
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f5535b25-11fb-429c-8589-417ded07caf7
-  name: Karriem Riggins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ea9078ef-20ca-4506-81ea-2ae5fe3a42e8
+    name: Madlib
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f5535b25-11fb-429c-8589-417ded07caf7
+    name: Karriem Riggins
 musical_connections:
   collaborators:
-  - Madlib (Otis Jackson Jr.)
-  - Karriem Riggins
+    - Madlib (Otis Jackson Jr.)
+    - Karriem Riggins
   influenced: []
   mentors: []
 musicbrainz_id: 0484fabd-f28c-42f7-96da-eed13f032387
 network_extracted: true
-origin: Los Angeles, CA, USA
+origin: 'Los Angeles, CA, USA'
 primary_source: perplexity
 research_sources:
-- https://www.therosiegspot.com/jazzcafe-1/jahari-massamba-unit
-- https://daily.bandcamp.com/features/jahari-massamba-yhwh-is-love-interview
-- https://www.rovr.live/artists/jahari%20massamba%20unit,%20madlib,%20karriem%20riggins
-- https://48hills.org/2021/01/jahari-massamba-unit-reveals-the-true-genius-behind-jazz-hop-experimentation/
-- https://www.thelineofbestfit.com/albums/jahari-massamba-unit-yhwh-is-love-winningly-diverse-consistently-charming
-- https://riffmagazine.com/album-reviews/jahari-masamba-unit-pardon-my-french/
-- https://stereogum.com/2245632/jahari-massamba-unit-stomping-gamay/music
-- https://equipboard.com/band/jahari-massamba-unit
-- https://www.allmusic.com/artist/jahari-massamba-unit-mn0001998310
-- https://linenoise.substack.com/p/some-overlooked-records-from-the
+  - 'https://www.therosiegspot.com/jazzcafe-1/jahari-massamba-unit'
+  - 'https://daily.bandcamp.com/features/jahari-massamba-yhwh-is-love-interview'
+  - >-
+    https://www.rovr.live/artists/jahari%20massamba%20unit,%20madlib,%20karriem%20riggins
+  - >-
+    https://48hills.org/2021/01/jahari-massamba-unit-reveals-the-true-genius-behind-jazz-hop-experimentation/
+  - >-
+    https://www.thelineofbestfit.com/albums/jahari-massamba-unit-yhwh-is-love-winningly-diverse-consistently-charming
+  - 'https://riffmagazine.com/album-reviews/jahari-masamba-unit-pardon-my-french/'
+  - 'https://stereogum.com/2245632/jahari-massamba-unit-stomping-gamay/music'
+  - 'https://equipboard.com/band/jahari-massamba-unit'
+  - 'https://www.allmusic.com/artist/jahari-massamba-unit-mn0001998310'
+  - 'https://linenoise.substack.com/p/some-overlooked-records-from-the'
 spotify_data:
   followers: 8487
   id: 0wQu6RGpwgoD20qNxb4vwj
   popularity: 17
-  url: https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj
+  url: 'https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj'
 status: active
 tags:
-- jazz
+  - jazz
 title: Jahari Massamba Unit
 ---
 

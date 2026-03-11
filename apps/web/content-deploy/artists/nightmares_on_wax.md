@@ -1,75 +1,76 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-25T01:59:18.782191'
-birth_date: '1988'
+birth_date: '1970-01-15'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T01:59:18.782201'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b8c5cc4f-239f-4e02-b46f-b040b77c2030
-  spotify: https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0
+  musicbrainz: 'https://musicbrainz.org/artist/b8c5cc4f-239f-4e02-b46f-b040b77c2030'
+  spotify: 'https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0'
   wikipedia: ''
 genres:
-- trip hop
-- downtempo
-- acid jazz
-- nu jazz
+  - trip hop
+  - downtempo
+  - acid jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/nightmares_on_wax.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-02-25T01:59:18.782202'
 members:
-- begin: ''
-  end: '1995'
-  instruments:
-  - original
-  mbid: 040997b5-9138-46e5-bdc1-f6ba424160d1
-  name: Kevin Harper
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 8670ceb8-3e53-4702-82e1-2bbca2f71dd3
-  name: George Evelyn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b4567cbc-6615-48fe-ab78-23f8f370db99
-  name: Robin Taylor-Firth
+  - begin: ''
+    end: '1995'
+    instruments:
+      - original
+    mbid: 040997b5-9138-46e5-bdc1-f6ba424160d1
+    name: Kevin Harper
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 8670ceb8-3e53-4702-82e1-2bbca2f71dd3
+    name: George Evelyn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b4567cbc-6615-48fe-ab78-23f8f370db99
+    name: Robin Taylor-Firth
 musical_connections:
   collaborators:
-  - Kevin Harper (Boy Wonder)
-  - John Halnon
-  - Sarah Winton
-  - Robin Taylor-Firth
+    - Kevin Harper (Boy Wonder)
+    - John Halnon
+    - Sarah Winton
+    - Robin Taylor-Firth
   influenced:
-  - Flying Lotus
-  - Hudson Mohawke
-  - Mount Kimbie
+    - Flying Lotus
+    - Hudson Mohawke
+    - Mount Kimbie
   mentors: []
 musicbrainz_id: b8c5cc4f-239f-4e02-b46f-b040b77c2030
 network_extracted: true
-origin: Leeds
+origin: 'Leeds, West Yorkshire, England'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Nightmares+on+Wax/+wiki
-- https://www.electronicbeats.net/10-things-need-know-about-nightmares-wax
-- https://www.theblankmag.com/nightmaresonwax
-- https://warp.net/artists/nightmares-on-wax
-- https://www.westword.com/music/nightmares-on-wax-5123801/
-- https://first-avenue.com/performer/nightmares-on-wax/
-- https://peel.fandom.com/wiki/Nightmares_On_Wax
-- https://www.okeechobeefest.com/artists/nightmares-on-wax
+  - 'https://www.last.fm/music/Nightmares+on+Wax/+wiki'
+  - 'https://www.electronicbeats.net/10-things-need-know-about-nightmares-wax'
+  - 'https://www.theblankmag.com/nightmaresonwax'
+  - 'https://warp.net/artists/nightmares-on-wax'
+  - 'https://www.westword.com/music/nightmares-on-wax-5123801/'
+  - 'https://first-avenue.com/performer/nightmares-on-wax/'
+  - 'https://peel.fandom.com/wiki/Nightmares_On_Wax'
+  - 'https://www.okeechobeefest.com/artists/nightmares-on-wax'
 spotify_data:
   followers: 536665
   id: 4tNxq9NGKTKaX8OkZBLgf0
   popularity: 56
-  url: https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0
+  url: 'https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0'
 status: active
 tags:
-- breakbeat
-- downtempo
-- instrumental hip hop
+  - breakbeat
+  - downtempo
+  - instrumental hip hop
 title: Nightmares on Wax
+birth_place: 'Leeds, West Yorkshire, England'
 ---
 
 ![](nightmares_on_wax.jpg)

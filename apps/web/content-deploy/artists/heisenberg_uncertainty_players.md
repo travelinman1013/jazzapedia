@@ -1,38 +1,42 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-09T01:15:25.390177'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:15:25.390187'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/90fd7697-7f39-4a33-acac-11e6e760e468
-  spotify: https://open.spotify.com/artist/37H8P2eA01G693vspupYSI
+  musicbrainz: 'https://musicbrainz.org/artist/90fd7697-7f39-4a33-acac-11e6e760e468'
+  spotify: 'https://open.spotify.com/artist/37H8P2eA01G693vspupYSI'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/heisenberg_uncertainty_players.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/heisenberg_uncertainty_players.jpg
 last_updated: '2026-03-09T01:15:25.390189'
 musical_connections:
   collaborators:
-  - John Dorhauer
-  - Chris Parsons
-  - Dan Parker
+    - John Dorhauer
+    - Chris Parsons
+    - Dan Parker
   influenced: []
   mentors: []
 musicbrainz_id: 90fd7697-7f39-4a33-acac-11e6e760e468
 network_extracted: true
-origin: Chicago, Illinois, USA
+origin: 'Chicago, Illinois, USA'
 primary_source: perplexity
 research_sources:
-- https://huplayers.com/about/
-- https://jazzprofiles.blogspot.com/2013/06/the-heisenberg-uncertainty-players.html
-- https://www.paris-move.com/reviews/heisenberg-uncertainty-players-return-to-the-enchanted-forest/
-- https://theartssection.org/home/2018/9/4/chicago-area-heisenberg-uncertainty-players-make-music-outside-the-big-band-box
-- https://www.allaboutjazz.com/musicians/heisenberg-uncertainty-players/
-- https://huplayers.com
+  - 'https://huplayers.com/about/'
+  - >-
+    https://jazzprofiles.blogspot.com/2013/06/the-heisenberg-uncertainty-players.html
+  - >-
+    https://www.paris-move.com/reviews/heisenberg-uncertainty-players-return-to-the-enchanted-forest/
+  - >-
+    https://theartssection.org/home/2018/9/4/chicago-area-heisenberg-uncertainty-players-make-music-outside-the-big-band-box
+  - 'https://www.allaboutjazz.com/musicians/heisenberg-uncertainty-players/'
+  - 'https://huplayers.com'
 spotify_data:
   followers: 78
   id: 37H8P2eA01G693vspupYSI
   popularity: 1
-  url: https://open.spotify.com/artist/37H8P2eA01G693vspupYSI
+  url: 'https://open.spotify.com/artist/37H8P2eA01G693vspupYSI'
 status: active
 title: Heisenberg Uncertainty Players
 ---

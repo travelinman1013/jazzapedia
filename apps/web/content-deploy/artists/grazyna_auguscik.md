@@ -1,58 +1,62 @@
 ---
 biography_enhanced_at: '2026-03-06T01:29:05.136608'
-birth_place: Słupsk, Pomeranian Voivodeship, Poland
+birth_place: 'Słupsk, Pomeranian Voivodeship, Poland'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:29:05.136625'
 external_urls:
-  spotify: https://open.spotify.com/artist/6JG4e3lj3SoXvu1zPGU4FP
+  spotify: 'https://open.spotify.com/artist/6JG4e3lj3SoXvu1zPGU4FP'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/grazyna_auguscik.jpg
 last_updated: '2026-03-06T01:29:05.136627'
 musical_connections:
   collaborators:
-  - Breno Sauer
-  - Michael Brecker
-  - Randy Brecker
-  - Jim Hall
-  - John Medeski
-  - Paul Wertico
-  - Kurt Rosenwinkel
-  - Robert Irving III
-  - Michal Urbaniak
-  - Urszula Dudziak
-  - Terry Callier
-  - Patricia Barber
-  - John McLean
-  - Ron Perrillo
-  - Toots Thielemans
-  - Bobby Enriquez
-  - Paulinho Garcia
-  - Jarek Bester
-  - Andrzej Jagodzinski Trio
+    - Breno Sauer
+    - Michael Brecker
+    - Randy Brecker
+    - Jim Hall
+    - John Medeski
+    - Paul Wertico
+    - Kurt Rosenwinkel
+    - Robert Irving III
+    - Michal Urbaniak
+    - Urszula Dudziak
+    - Terry Callier
+    - Patricia Barber
+    - John McLean
+    - Ron Perrillo
+    - Toots Thielemans
+    - Bobby Enriquez
+    - Paulinho Garcia
+    - Jarek Bester
+    - Andrzej Jagodzinski Trio
   influenced: []
   mentors:
-  - Nat King Cole
-  - Ella Fitzgerald
-  - Mel Tormé
-  - Chet Baker
+    - Nat King Cole
+    - Ella Fitzgerald
+    - Mel Tormé
+    - Chet Baker
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://polishmusic.usc.edu/2024/03/19/grazyna-auguscik-paulinho-garcia-in-l-a/
-- https://grazynaauguscik.com/bio/
-- https://www.womex.com/virtual/wp_art_music/grazyna_auguscik
-- https://www.kultureplus.com/projects/music/grazyna-auguscik
-- https://annarborobserver.com/grazyna-auguscik-jaroslaw-bester/
-- https://culture.pl/en/artist/grazyna-auguscik
-- http://www.chopinatlanta.org/interviews/GrazynaAuguscik.html
+  - >-
+    https://polishmusic.usc.edu/2024/03/19/grazyna-auguscik-paulinho-garcia-in-l-a/
+  - 'https://grazynaauguscik.com/bio/'
+  - 'https://www.womex.com/virtual/wp_art_music/grazyna_auguscik'
+  - 'https://www.kultureplus.com/projects/music/grazyna-auguscik'
+  - 'https://annarborobserver.com/grazyna-auguscik-jaroslaw-bester/'
+  - 'https://culture.pl/en/artist/grazyna-auguscik'
+  - 'http://www.chopinatlanta.org/interviews/GrazynaAuguscik.html'
 spotify_data:
   followers: 523
   id: 6JG4e3lj3SoXvu1zPGU4FP
   popularity: 6
-  url: https://open.spotify.com/artist/6JG4e3lj3SoXvu1zPGU4FP
+  url: 'https://open.spotify.com/artist/6JG4e3lj3SoXvu1zPGU4FP'
 status: active
 title: Grazyna Auguscik
+origin: 'Chicago, Illinois, United States'
+birth_date: '1955-08-17'
+artist_type: person
 ---
 
 ![](grazyna_auguscik.jpg)

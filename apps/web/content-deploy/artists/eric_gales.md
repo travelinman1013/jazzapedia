@@ -1,49 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-07T01:26:43.247282'
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:26:43.247292'
 external_urls:
-  spotify: https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV
+  spotify: 'https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV'
   wikipedia: ''
 genres:
-- modern blues
-- blues rock
-- blues
+  - modern blues
+  - blues rock
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/eric_gales.jpg
 last_updated: '2026-02-07T01:26:43.247293'
 musical_connections:
   collaborators:
-  - Eugene Gales
-  - Manuel Gales
-  - Carlos Santana
-  - Gary Clark Jr.
-  - Lauryn Hill
-  - LaDonna Gales
-  - Matt Wallace
-  - dUg Pinnick
+    - Eugene Gales
+    - Manuel Gales
+    - Carlos Santana
+    - Gary Clark Jr.
+    - Lauryn Hill
+    - LaDonna Gales
+    - Matt Wallace
+    - dUg Pinnick
   influenced: []
   mentors:
-  - Eugene Gales
-  - Manuel Gales
-  - Stevie Ray Vaughan
+    - Eugene Gales
+    - Manuel Gales
+    - Stevie Ray Vaughan
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.mascotlabelgroup.com/pages/eric-gales-biography
-- https://www.vintageguitar.com/37431/eric-gales-5/
-- https://coltranejazzfest.com/eric-gales/
-- https://www.flyingmonkeynh.com/events/eric-gales/
-- https://www.premierguitar.com/artists/interview-eric-gales-alive-and-relentless
-- https://www.bluesblastmagazine.com/featured-interview-eric-gales-2/
-- https://www.lewitt-audio.com/blog/eric-gales
+  - 'https://www.mascotlabelgroup.com/pages/eric-gales-biography'
+  - 'https://www.vintageguitar.com/37431/eric-gales-5/'
+  - 'https://coltranejazzfest.com/eric-gales/'
+  - 'https://www.flyingmonkeynh.com/events/eric-gales/'
+  - >-
+    https://www.premierguitar.com/artists/interview-eric-gales-alive-and-relentless
+  - 'https://www.bluesblastmagazine.com/featured-interview-eric-gales-2/'
+  - 'https://www.lewitt-audio.com/blog/eric-gales'
 spotify_data:
   followers: 115441
   id: 3x8RBu8okCCBLi5vnY4UyV
   popularity: 42
-  url: https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV
+  url: 'https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV'
 status: active
-title: eric gales
+title: Eric Gales
+artist_type: person
 ---
 
 ![](eric_gales.jpg)

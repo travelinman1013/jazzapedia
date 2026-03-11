@@ -1,41 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-18T01:35:08.567028'
-birth_place: Soileau, Louisiana, United States
+birth_place: 'Soileau, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-18T01:35:08.567041'
 external_urls:
-  spotify: https://open.spotify.com/artist/0bHBHjR650qOW4vgWU4E4L
-  wikipedia: https://en.wikipedia.org/wiki/Keith_Frank
+  spotify: 'https://open.spotify.com/artist/0bHBHjR650qOW4vgWU4E4L'
+  wikipedia: 'https://en.wikipedia.org/wiki/Keith_Frank'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/keith_frank_lil_boosie.jpg
 last_updated: '2026-02-18T01:35:08.567042'
 musical_connections:
   collaborators:
-  - Jennifer Frank
-  - Brad Frank
-  - Lil Boosie
+    - Jennifer Frank
+    - Brad Frank
+    - Lil Boosie
   influenced: []
   mentors:
-  - Preston Frank
-  - Zydeco Force
-  - Boozoo Chavis
+    - Preston Frank
+    - Zydeco Force
+    - Boozoo Chavis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Keith_Frank
-- https://www.youtube.com/watch?v=XGJZv7MtJbw
-- https://www.last.fm/music/Keith+Frank
-- https://open.spotify.com/track/4GxPqAEeHWEvhCLI80rm4t
-- https://open.spotify.com/playlist/4H2zLEK0yKcRNBlmyjgUx6
+  - 'https://en.wikipedia.org/wiki/Keith_Frank'
+  - 'https://www.youtube.com/watch?v=XGJZv7MtJbw'
+  - 'https://www.last.fm/music/Keith+Frank'
+  - 'https://open.spotify.com/track/4GxPqAEeHWEvhCLI80rm4t'
+  - 'https://open.spotify.com/playlist/4H2zLEK0yKcRNBlmyjgUx6'
 spotify_data:
   followers: 22355
   id: 0bHBHjR650qOW4vgWU4E4L
   popularity: 35
-  url: https://open.spotify.com/artist/0bHBHjR650qOW4vgWU4E4L
+  url: 'https://open.spotify.com/artist/0bHBHjR650qOW4vgWU4E4L'
 status: active
-title: Keith Frank, Lil Boosie
+title: 'Keith Frank, Lil Boosie'
+origin: 'Soileau, Louisiana, United States'
+birth_date: '1972-10-09'
+artist_type: person
 ---
 
 ![](keith_frank_lil_boosie.jpg)

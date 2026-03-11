@@ -3,36 +3,37 @@ biography_enhanced_at: '2026-02-15T01:52:58.564557'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:52:58.564568'
 external_urls:
-  spotify: https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD
-  wikipedia: https://en.wikipedia.org/wiki/Glass_Candy
+  spotify: 'https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Glass_Candy'
 genres:
-- electroclash
+  - electroclash
 image_path: 03_Resources/source_material/ArtistPortraits/glass_candy.jpg
 last_updated: '2026-02-15T01:52:58.564570'
 musical_connections:
   collaborators:
-  - Mike Simonetti
-  - Avalon Kalin
-  - The Convocation Of...
+    - Mike Simonetti
+    - Avalon Kalin
+    - The Convocation Of...
   influenced: []
   mentors: []
 network_extracted: true
-origin: Portland, Oregon, United States
+origin: 'Portland, Oregon, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Glass+Candy/+wiki
-- https://en.wikipedia.org/wiki/Glass_Candy
-- https://r4nt.com/quick-review/artist-profile-glass-candy/
-- https://www.thefader.com/2008/04/08/fader-53-glass-candy
-- https://drownedinsound.com/artists/Glass_Candy
-- https://musicbrainz.org/artist/ca94595e-955a-495c-8ba1-25eebd9609a9
+  - 'https://www.last.fm/music/Glass+Candy/+wiki'
+  - 'https://en.wikipedia.org/wiki/Glass_Candy'
+  - 'https://r4nt.com/quick-review/artist-profile-glass-candy/'
+  - 'https://www.thefader.com/2008/04/08/fader-53-glass-candy'
+  - 'https://drownedinsound.com/artists/Glass_Candy'
+  - 'https://musicbrainz.org/artist/ca94595e-955a-495c-8ba1-25eebd9609a9'
 spotify_data:
   followers: 88628
   id: 7atGlyFY5574ph1tGMs6gD
   popularity: 32
-  url: https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD
+  url: 'https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD'
 status: active
 title: Glass Candy
+artist_type: person
 ---
 
 ![](glass_candy.jpg)

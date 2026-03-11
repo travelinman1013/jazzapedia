@@ -3,44 +3,46 @@ biography_enhanced_at: '2026-02-27T01:38:27.411687'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:38:27.411696'
 external_urls:
-  spotify: https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI
+  spotify: 'https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI'
   wikipedia: ''
 genres:
-- doo-wop
-- northern soul
-- roots rock
+  - doo-wop
+  - northern soul
+  - roots rock
 image_path: 03_Resources/source_material/ArtistPortraits/the_5_royales.jpg
 last_updated: '2026-02-27T01:38:27.411698'
 musical_connections:
   collaborators:
-  - Lowman Pauling
-  - Johnny Tanner
-  - Otto Jefferies
-  - Eugene Tanner
-  - Charlie Ferguson
+    - Lowman Pauling
+    - Johnny Tanner
+    - Otto Jefferies
+    - Eugene Tanner
+    - Charlie Ferguson
   influenced:
-  - James Brown
-  - The Shangri-Las
-  - Steve Cropper
+    - James Brown
+    - The Shangri-Las
+    - Steve Cropper
   mentors:
-  - Carl LeBow
+    - Carl LeBow
 network_extracted: true
-origin: Winston-Salem, North Carolina, United States
+origin: 'Winston-Salem, North Carolina, United States'
 primary_source: perplexity
 research_sources:
-- https://history-of-rock.com/five_royales.htm
-- https://www.spontaneouslunacy.net/artists-the-5-royales/
-- https://www.ncmea.net/the_5_royales/
-- https://nostalgiacentral.com/music/artists-0-to-9/5-royales-the/
-- https://www.bluesandrhythm.co.uk/wp-content/uploads/2014/08/BR-292-5-Royales-feature.pdf
-- https://www.cityofws.org/DocumentCenter/View/1211/The-5-Royales-PDF
+  - 'https://history-of-rock.com/five_royales.htm'
+  - 'https://www.spontaneouslunacy.net/artists-the-5-royales/'
+  - 'https://www.ncmea.net/the_5_royales/'
+  - 'https://nostalgiacentral.com/music/artists-0-to-9/5-royales-the/'
+  - >-
+    https://www.bluesandrhythm.co.uk/wp-content/uploads/2014/08/BR-292-5-Royales-feature.pdf
+  - 'https://www.cityofws.org/DocumentCenter/View/1211/The-5-Royales-PDF'
 spotify_data:
   followers: 8944
   id: 67OIf7vgqZq9qFuDqmCFyI
   popularity: 19
-  url: https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI
+  url: 'https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI'
 status: active
-title: the 5 royales
+title: The 5 Royales
+artist_type: band
 ---
 
 ![](the_5_royales.jpg)

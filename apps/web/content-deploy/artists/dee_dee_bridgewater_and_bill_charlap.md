@@ -3,48 +3,56 @@ biography_enhanced_at: '2026-01-31T01:08:46.986320'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:08:46.986327'
 external_urls:
-  spotify: https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI
+  spotify: 'https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI'
   wikipedia: ''
 genres:
-- vocal jazz
-- french jazz
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/dee_dee_bridgewater_and_bill_charlap.jpg
+  - vocal jazz
+  - french jazz
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dee_dee_bridgewater_and_bill_charlap.jpg
 last_updated: '2026-01-31T01:08:46.986328'
 musical_connections:
   collaborators:
-  - Bill Charlap
-  - Tony Bennett
-  - Renee Rosnes
-  - Peter Washington
-  - Nicholas Payton
+    - Bill Charlap
+    - Tony Bennett
+    - Renee Rosnes
+    - Peter Washington
+    - Nicholas Payton
   influenced:
-  - Women in The Woodshed Network
+    - Women in The Woodshed Network
   mentors:
-  - Thad Jones/Mel Lewis Big Band
-  - Dizzy Gillespie
-  - Moose Charlap
+    - Thad Jones/Mel Lewis Big Band
+    - Dizzy Gillespie
+    - Moose Charlap
 network_extracted: true
-origin: Flint, MI, USA (Dee Dee Bridgewater birthplace); New York, NY, USA (Bill Charlap
-  family origin)
+origin: >-
+  Flint, MI, USA (Dee Dee Bridgewater birthplace); New York, NY, USA (Bill
+  Charlap family origin)
 primary_source: perplexity
 research_sources:
-- https://program.whartoncenter.com/program/dee-dee-bridgewater-and-bill-charlap
-- https://www.deedeebridgewater.com/about
-- https://billcharlap.com/bio
-- https://hop.dartmouth.edu/events/d-bridgewater-b-charlap
-- https://coltranejazzfest.com/dee-dee-bridgewater/
-- https://www.thekurlandagency.com/kurlandpress/wp-content/uploads/2023/09/MAC1214-Dee-Dee-Bridgewater-Bill-Charlap-Elemental-bio.docx.pdf
-- https://tucsonjazzfestival.org/events/dee-dee-bridgewater-bill-charlap/
-- https://scottsdalearts.org/whats-on/events/dee-dee-bridgewater-with-bill-charlap/
-- https://www.wpunj.edu/articles/news/2025-11-24/william-paterson-university-jazz-studies-director-bill-charlap-nominated-for-grammy-award
+  - >-
+    https://program.whartoncenter.com/program/dee-dee-bridgewater-and-bill-charlap
+  - 'https://www.deedeebridgewater.com/about'
+  - 'https://billcharlap.com/bio'
+  - 'https://hop.dartmouth.edu/events/d-bridgewater-b-charlap'
+  - 'https://coltranejazzfest.com/dee-dee-bridgewater/'
+  - >-
+    https://www.thekurlandagency.com/kurlandpress/wp-content/uploads/2023/09/MAC1214-Dee-Dee-Bridgewater-Bill-Charlap-Elemental-bio.docx.pdf
+  - 'https://tucsonjazzfestival.org/events/dee-dee-bridgewater-bill-charlap/'
+  - >-
+    https://scottsdalearts.org/whats-on/events/dee-dee-bridgewater-with-bill-charlap/
+  - >-
+    https://www.wpunj.edu/articles/news/2025-11-24/william-paterson-university-jazz-studies-director-bill-charlap-nominated-for-grammy-award
 spotify_data:
   followers: 58196
   id: 2H3xDjMmp31iLmsgXxLFyI
   popularity: 35
-  url: https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI
+  url: 'https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI'
 status: active
 title: Dee Dee Bridgewater & Bill Charlap
+birth_place: 'Flint, Michigan, United States'
+artist_type: band
 ---
 
 ![](dee_dee_bridgewater_and_bill_charlap.jpg)

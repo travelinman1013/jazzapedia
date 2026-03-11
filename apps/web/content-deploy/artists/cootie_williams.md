@@ -1,44 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-26T01:35:34.785426'
-birth_place: Mobile, Alabama, United States
+birth_place: 'Mobile, Alabama, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:35:34.785430'
 external_urls:
-  spotify: https://open.spotify.com/artist/4zef2ByBl6wZGFPvYWve6o
-  wikipedia: https://en.wikipedia.org/wiki/Cootie_Williams
+  spotify: 'https://open.spotify.com/artist/4zef2ByBl6wZGFPvYWve6o'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cootie_Williams'
 genres:
-- swing music
-- big band
-- bebop
+  - swing music
+  - big band
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/cootie_williams.jpg
 last_updated: '2026-01-26T01:35:34.785431'
 musical_connections:
   collaborators:
-  - Duke Ellington
-  - Benny Goodman
-  - Charlie Parker
-  - Rex Stewart
-  - Eddie 'Lockjaw' Davis
+    - Duke Ellington
+    - Benny Goodman
+    - Charlie Parker
+    - Rex Stewart
+    - Eddie 'Lockjaw' Davis
   influenced: []
   mentors:
-  - Louis Armstrong
-  - Bubber Miley
+    - Louis Armstrong
+    - Bubber Miley
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/cootie-williams
-- https://www.britannica.com/biography/Cootie-Williams
-- https://aaregistry.org/story/an-innovator-on-trumpet-cootie-williams/
-- https://en.wikipedia.org/wiki/Cootie_Williams
-- https://www.organissimo.org/forum/topic/93027-concerto-for-cootie-the-life-and-times-of-cootie-williams/
-- https://sunra.substack.com/p/cootie-williams
+  - 'https://www.ebsco.com/research-starters/biography/cootie-williams'
+  - 'https://www.britannica.com/biography/Cootie-Williams'
+  - 'https://aaregistry.org/story/an-innovator-on-trumpet-cootie-williams/'
+  - 'https://en.wikipedia.org/wiki/Cootie_Williams'
+  - >-
+    https://www.organissimo.org/forum/topic/93027-concerto-for-cootie-the-life-and-times-of-cootie-williams/
+  - 'https://sunra.substack.com/p/cootie-williams'
 spotify_data:
   followers: 7506
   id: 4zef2ByBl6wZGFPvYWve6o
   popularity: 22
-  url: https://open.spotify.com/artist/4zef2ByBl6wZGFPvYWve6o
+  url: 'https://open.spotify.com/artist/4zef2ByBl6wZGFPvYWve6o'
 status: active
 title: Cootie Williams
+birth_date: '1910-07-24'
+death_date: '1985-09-15'
+artist_type: person
 ---
 
 ![](cootie_williams.jpg)

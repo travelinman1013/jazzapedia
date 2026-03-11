@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-02-04T01:20:56.747607'
-birth_place: Quincy, Illinois, United States
+birth_place: 'Quincy, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-04T01:20:56.747616'
 external_urls:
-  spotify: https://open.spotify.com/artist/008fKaVN6x2CjiQ2Nh0WrI
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Havens
+  spotify: 'https://open.spotify.com/artist/008fKaVN6x2CjiQ2Nh0WrI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Havens'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/bob_havens.jpg
 last_updated: '2026-02-04T01:20:56.747618'
 musical_connections:
   collaborators:
-  - Al Hirt
-  - Pete Fountain
-  - George Girard
-  - Bob Ringwald
-  - Don Nelson
-  - Zeke Zarchy
-  - Peanuts Hucko
-  - Ava Barber
+    - Al Hirt
+    - Pete Fountain
+    - George Girard
+    - Bob Ringwald
+    - Don Nelson
+    - Zeke Zarchy
+    - Peanuts Hucko
+    - Ava Barber
   influenced: []
   mentors:
-  - Jack Teagarden
+    - Jack Teagarden
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.seasoundstudio.com/Artists-National/Bob%20Havens/BobHavens.html
-- https://en.wikipedia.org/wiki/Bob_Havens
-- https://www.allmusic.com/artist/bob-havens-mn0000569351
-- https://jazzlives.wordpress.com/2020/03/09/bob-havens-shows-us-how-james-dapogny-vince-giordano-pete-siers-jazz-at-chautauqua-september-2009/
-- https://www.organissimo.org/forum/topic/85631-bob-havens-anyone/
+  - 'http://www.seasoundstudio.com/Artists-National/Bob%20Havens/BobHavens.html'
+  - 'https://en.wikipedia.org/wiki/Bob_Havens'
+  - 'https://www.allmusic.com/artist/bob-havens-mn0000569351'
+  - >-
+    https://jazzlives.wordpress.com/2020/03/09/bob-havens-shows-us-how-james-dapogny-vince-giordano-pete-siers-jazz-at-chautauqua-september-2009/
+  - 'https://www.organissimo.org/forum/topic/85631-bob-havens-anyone/'
 spotify_data:
   followers: 190
   id: 008fKaVN6x2CjiQ2Nh0WrI
   popularity: 4
-  url: https://open.spotify.com/artist/008fKaVN6x2CjiQ2Nh0WrI
+  url: 'https://open.spotify.com/artist/008fKaVN6x2CjiQ2Nh0WrI'
 status: active
 title: Bob Havens
+birth_date: '1930-05-03'
+artist_type: person
 ---
 
 ![](bob_havens.jpg)

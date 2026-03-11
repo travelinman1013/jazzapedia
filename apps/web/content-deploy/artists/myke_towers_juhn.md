@@ -1,48 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-24T01:48:42.548745'
-birth_place: Río Piedras, Puerto Rico
+birth_place: 'Río Piedras, Puerto Rico, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:48:42.548753'
 external_urls:
-  spotify: https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr
-  wikipedia: https://en.wikipedia.org/wiki/Myke_Towers
+  spotify: 'https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Myke_Towers'
 genres:
-- trap latino
-- reggaeton
+  - trap latino
+  - reggaeton
 image_path: 03_Resources/source_material/ArtistPortraits/myke_towers_juhn.jpg
 last_updated: '2026-02-24T01:48:42.548755'
 musical_connections:
   collaborators:
-  - Juhn
-  - Farruko
-  - Darell
-  - Arcángel
-  - J Balvin
-  - Ozuna
-  - Daddy Yankee
-  - Peso Pluma
+    - Juhn
+    - Farruko
+    - Darell
+    - Arcángel
+    - J Balvin
+    - Ozuna
+    - Daddy Yankee
+    - Peso Pluma
   influenced: []
   mentors:
-  - The Notorious B.I.G. (Biggie)
-  - 2Pac
-  - Michael Jordan
+    - The Notorious B.I.G. (Biggie)
+    - 2Pac
+    - Michael Jordan
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Myke+Towers/+wiki
-- https://en.wikipedia.org/wiki/Myke_Towers
-- https://www.spin.com/2021/04/myke-towers-lyke-mike-interview/
-- https://www.aol.com/entertainment/meet-latin-rap-mvp-myke-160020655.html
-- https://music.apple.com/us/artist/juhn/1113923044
-- https://delafontagency.com/music-acts/hire-myke-towers/
-- https://www.iheart.com/artist/juhn-31216982/
+  - 'https://www.last.fm/music/Myke+Towers/+wiki'
+  - 'https://en.wikipedia.org/wiki/Myke_Towers'
+  - 'https://www.spin.com/2021/04/myke-towers-lyke-mike-interview/'
+  - 'https://www.aol.com/entertainment/meet-latin-rap-mvp-myke-160020655.html'
+  - 'https://music.apple.com/us/artist/juhn/1113923044'
+  - 'https://delafontagency.com/music-acts/hire-myke-towers/'
+  - 'https://www.iheart.com/artist/juhn-31216982/'
 spotify_data:
   followers: 1528598
   id: 2LmcxBak1alK1bf7d1beTr
   popularity: 71
-  url: https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr
+  url: 'https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr'
 status: active
-title: Myke Towers, Juhn
+title: 'Myke Towers, Juhn'
+birth_date: '1994-01-15'
+artist_type: person
 ---
 
 ![](myke_towers_juhn.jpg)

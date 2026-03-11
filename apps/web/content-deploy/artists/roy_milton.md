@@ -1,48 +1,52 @@
 ---
 biography_enhanced_at: '2026-02-02T01:46:36.623470'
-birth_place: Wynnewood, Oklahoma, USA
+birth_place: 'Wynnewood, Oklahoma, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:46:36.623481'
 external_urls:
-  spotify: https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig
+  spotify: 'https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig'
   wikipedia: ''
 genres:
-- boogie-woogie
-- blues
-- swing music
-- roots rock
+  - boogie-woogie
+  - blues
+  - swing music
+  - roots rock
 image_path: 03_Resources/source_material/ArtistPortraits/roy_milton.jpg
 last_updated: '2026-02-02T01:46:36.623483'
 musical_connections:
   collaborators:
-  - Camille Howard
-  - Johnny Otis
-  - Shuggie Otis
-  - Roy Gaines
+    - Camille Howard
+    - Johnny Otis
+    - Shuggie Otis
+    - Roy Gaines
   influenced:
-  - Elvis Presley
-  - James Brown
-  - The Rolling Stones
-  - The Beatles
+    - Elvis Presley
+    - James Brown
+    - The Rolling Stones
+    - The Beatles
   mentors:
-  - Ernie Fields
+    - Ernie Fields
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://mojohand.com/glossary/roy-milton/
-- https://jukegh.blogspot.com/2024/02/roy-milton-later-years-1956-69.html
-- https://bertoltpress.com/2023/04/08/jumpin-with-roy-milton/
-- https://kids.kiddle.co/Roy_Milton
-- https://tulsajazz.wordpress.com/2015/02/15/roy-milton/
-- https://opalnations.com/files/Miltone_Records_Story_Roy_Milton_Acrobat_ADDCD_3016_2008_.pdf
-- https://jazzdepotlive.com/portfolio/roy-milton-1991/
+  - 'https://mojohand.com/glossary/roy-milton/'
+  - 'https://jukegh.blogspot.com/2024/02/roy-milton-later-years-1956-69.html'
+  - 'https://bertoltpress.com/2023/04/08/jumpin-with-roy-milton/'
+  - 'https://kids.kiddle.co/Roy_Milton'
+  - 'https://tulsajazz.wordpress.com/2015/02/15/roy-milton/'
+  - >-
+    https://opalnations.com/files/Miltone_Records_Story_Roy_Milton_Acrobat_ADDCD_3016_2008_.pdf
+  - 'https://jazzdepotlive.com/portfolio/roy-milton-1991/'
 spotify_data:
   followers: 7261
   id: 02tMtF5FVucqAJW2TQB9ig
   popularity: 24
-  url: https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig
+  url: 'https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig'
 status: active
 title: Roy Milton
+birth_date: '1907-07-31'
+death_date: '1983-09-18'
+artist_type: person
 ---
 
 ![](roy_milton.jpg)

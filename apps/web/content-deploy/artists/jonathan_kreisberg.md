@@ -1,63 +1,66 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0c0e7678-6719-47bf-bcae-90f2e6dd4dcb
-  name: Jonathan Kreisberg Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0c0e7678-6719-47bf-bcae-90f2e6dd4dcb
+    name: Jonathan Kreisberg Trio
 biography_enhanced_at: '2026-03-05T01:58:39.827075'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T01:58:39.827084'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0ec9dd60-5523-419b-82e0-8f9ee25ec708
-  spotify: https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy
+  musicbrainz: 'https://musicbrainz.org/artist/0ec9dd60-5523-419b-82e0-8f9ee25ec708'
+  spotify: 'https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy'
   wikipedia: ''
 gender: Male
 genres:
-- jazz
-- jazz ballads
-- jazz fusion
+  - jazz
+  - jazz ballads
+  - jazz fusion
 image_path: 03_Resources/source_material/ArtistPortraits/jonathan_kreisberg.jpg
 instruments:
-- guitar
-- archtop guitar
-- acoustic guitar
+  - guitar
+  - archtop guitar
+  - acoustic guitar
 last_updated: '2026-03-05T01:58:39.827086'
 musical_connections:
   collaborators:
-  - Dr. Lonnie Smith
-  - Will Vinson
-  - Joe Locke
-  - Ari Hoenig
-  - Nelson Veras
-  - Colin Stranahan
+    - Dr. Lonnie Smith
+    - Will Vinson
+    - Joe Locke
+    - Ari Hoenig
+    - Nelson Veras
+    - Colin Stranahan
   influenced:
-  - Generation of musicians
+    - Generation of musicians
   mentors:
-  - Allan Holdsworth
+    - Allan Holdsworth
 musicbrainz_id: 0ec9dd60-5523-419b-82e0-8f9ee25ec708
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allsolos.com/soloist/156/jonathan-kreisberg
-- https://www.lundinke.com/p/jonathan-kreisberg-a-modern-jazz
-- https://www.allaboutjazz.com/musicians/jonathan-kreisberg/
-- https://jazztimes.com/features/profiles/jonathan-kreisberg-the-underdog/
-- https://www.fasching.se/en/jonathan-kreisberg-quartet/
-- https://jazzguitartoday.com/2020/09/jonathan-kreisberg-expands-the-jazz-guitar-universe/
-- https://www.allmusic.com/artist/jonathan-kreisberg-mn0000824181
-- https://www.nardisjazz.com/en/musician/jonathan-kreisberg/
+  - 'https://www.allsolos.com/soloist/156/jonathan-kreisberg'
+  - 'https://www.lundinke.com/p/jonathan-kreisberg-a-modern-jazz'
+  - 'https://www.allaboutjazz.com/musicians/jonathan-kreisberg/'
+  - 'https://jazztimes.com/features/profiles/jonathan-kreisberg-the-underdog/'
+  - 'https://www.fasching.se/en/jonathan-kreisberg-quartet/'
+  - >-
+    https://jazzguitartoday.com/2020/09/jonathan-kreisberg-expands-the-jazz-guitar-universe/
+  - 'https://www.allmusic.com/artist/jonathan-kreisberg-mn0000824181'
+  - 'https://www.nardisjazz.com/en/musician/jonathan-kreisberg/'
 spotify_data:
   followers: 28938
   id: 7MWuLeRKJ1WCx4GQRzT3Hy
   popularity: 26
-  url: https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy
+  url: 'https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy'
 status: active
 tags:
-- jazz
+  - jazz
 title: Jonathan Kreisberg
+birth_date: '1972'
+origin: 'Miami, Florida, United States'
 ---
 
 ![](jonathan_kreisberg.jpg)

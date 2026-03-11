@@ -1,38 +1,39 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-15T01:53:10.099406'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:53:10.099413'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d0fd4f0b-90a9-404a-a9b1-faff4c26fa76
-  spotify: https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP
+  musicbrainz: 'https://musicbrainz.org/artist/d0fd4f0b-90a9-404a-a9b1-faff4c26fa76'
+  spotify: 'https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/boco.jpg
 last_updated: '2026-02-15T01:53:10.099413'
 musical_connections:
   collaborators:
-  - Boski Tha Savior
-  - Coco Danja
+    - Boski Tha Savior
+    - Coco Danja
   influenced: []
   mentors: []
 musicbrainz_id: d0fd4f0b-90a9-404a-a9b1-faff4c26fa76
 network_extracted: true
-origin: California, USA (hip-hop duo); France (electronic artist)
+origin: 'California, USA (hip-hop duo); France (electronic artist)'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cuco_(musician)
-- https://www.martinbaezarubio.com/boco
-- https://www.huhradio.com/artistband-profile/boco
-- https://www.viberate.com/artist/boco/
-- https://open.spotify.com/artist/007v73u6rZJTbjSxk7kEHv
+  - 'https://en.wikipedia.org/wiki/Cuco_(musician)'
+  - 'https://www.martinbaezarubio.com/boco'
+  - 'https://www.huhradio.com/artistband-profile/boco'
+  - 'https://www.viberate.com/artist/boco/'
+  - 'https://open.spotify.com/artist/007v73u6rZJTbjSxk7kEHv'
 spotify_data:
   followers: 23086
   id: 4WRA6GylKtbbRMUugHQuxP
   popularity: 40
-  url: https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP
+  url: 'https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP'
 status: active
 title: Boco
+birth_date: '1998-06-26'
 ---
 
 ![](boco.jpg)

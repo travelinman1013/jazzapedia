@@ -1,46 +1,46 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-22T01:47:28.460097'
 birth_date: '1995'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:47:28.460108'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d726a2b3-5c6b-4cae-8e79-81d52db9462b
-  spotify: https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS
-  wikipedia: https://en.wikipedia.org/wiki/Sonora_Carruseles
+  musicbrainz: 'https://musicbrainz.org/artist/d726a2b3-5c6b-4cae-8e79-81d52db9462b'
+  spotify: 'https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonora_Carruseles'
 genres:
-- salsa
-- merengue
-- mambo
+  - salsa
+  - merengue
+  - mambo
 image_path: 03_Resources/source_material/ArtistPortraits/sonora_carruseles.jpg
 last_updated: '2026-02-22T01:47:28.460109'
 musical_connections:
   collaborators:
-  - Manolo Puerto
-  - Morist Jimenez Jr.
+    - Manolo Puerto
+    - Morist Jimenez Jr.
   influenced: []
   mentors:
-  - Mario Rincón 'Pachanga'
+    - Mario Rincón 'Pachanga'
 musicbrainz_id: d726a2b3-5c6b-4cae-8e79-81d52db9462b
 network_extracted: true
-origin: Medellín, Colombia
+origin: 'Medellín, Colombia'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sonora_Carruseles
-- https://sonora-carruseles.com
-- https://es.jango.com/music/Sonora+Carruseles/_full_bio
-- https://www.salsa.it/2011/04/11/sonora-carruseles-2/
-- https://music.youtube.com/channel/UCVx_LzfJY6353nzg34c63Kg
+  - 'https://en.wikipedia.org/wiki/Sonora_Carruseles'
+  - 'https://sonora-carruseles.com'
+  - 'https://es.jango.com/music/Sonora+Carruseles/_full_bio'
+  - 'https://www.salsa.it/2011/04/11/sonora-carruseles-2/'
+  - 'https://music.youtube.com/channel/UCVx_LzfJY6353nzg34c63Kg'
 spotify_data:
   followers: 175242
   id: 34qU0b0yRjEzRJtknerEDS
   popularity: 44
-  url: https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS
+  url: 'https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS'
 status: active
 tags:
-- cumbia
-- latin
-- salsa
+  - cumbia
+  - latin
+  - salsa
 title: Sonora Carruseles
 ---
 

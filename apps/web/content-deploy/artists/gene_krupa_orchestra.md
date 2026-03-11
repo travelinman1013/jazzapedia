@@ -1,51 +1,54 @@
 ---
 biography_enhanced_at: '2026-01-26T01:39:16.506150'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:39:16.506156'
 external_urls:
-  spotify: https://open.spotify.com/artist/1mRxzlm7Hs6ccTm2K8mt71
-  wikipedia: https://en.wikipedia.org/wiki/Gene_Krupa
+  spotify: 'https://open.spotify.com/artist/1mRxzlm7Hs6ccTm2K8mt71'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gene_Krupa'
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/gene_krupa_orchestra.jpg
 last_updated: '2026-01-26T01:39:16.506156'
 musical_connections:
   collaborators:
-  - Benny Goodman
-  - Tommy Dorsey
-  - Anita O'Day
-  - Roy Eldridge
-  - Charlie Ventura
-  - Teddy Napoleon
-  - Wild Bill Davison
-  - Eddie Condon
-  - Cozy Cole
+    - Benny Goodman
+    - Tommy Dorsey
+    - Anita O'Day
+    - Roy Eldridge
+    - Charlie Ventura
+    - Teddy Napoleon
+    - Wild Bill Davison
+    - Eddie Condon
+    - Cozy Cole
   influenced:
-  - Drummers School Students
+    - Drummers School Students
   mentors:
-  - Sanford A. Moeller
-  - Roy Knapp
-  - Father Ildefonse Rapp
+    - Sanford A. Moeller
+    - Roy Knapp
+    - Father Ildefonse Rapp
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.musicradar.com/artists/drummers/gene-krupa-drum-week
-- https://syncopatedtimes.com/profiles-in-jazz-gene-krupa/
-- http://www.drummerman.net/biography.html
-- https://en.wikipedia.org/wiki/Gene_Krupa
-- https://www.britannica.com/biography/Gene-Krupa
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/103342/Krupa_Gene
-- https://www.naxos.com/Bio/Person/Gene_Krupa/2802
-- https://traditional-jazz.com/history/drummers/gene-krupa
+  - 'https://www.musicradar.com/artists/drummers/gene-krupa-drum-week'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-gene-krupa/'
+  - 'http://www.drummerman.net/biography.html'
+  - 'https://en.wikipedia.org/wiki/Gene_Krupa'
+  - 'https://www.britannica.com/biography/Gene-Krupa'
+  - 'https://adp.library.ucsb.edu/index.php/mastertalent/detail/103342/Krupa_Gene'
+  - 'https://www.naxos.com/Bio/Person/Gene_Krupa/2802'
+  - 'https://traditional-jazz.com/history/drummers/gene-krupa'
 spotify_data:
   followers: 298
   id: 1mRxzlm7Hs6ccTm2K8mt71
   popularity: 9
-  url: https://open.spotify.com/artist/1mRxzlm7Hs6ccTm2K8mt71
+  url: 'https://open.spotify.com/artist/1mRxzlm7Hs6ccTm2K8mt71'
 status: active
 title: Gene Krupa Orchestra
+birth_date: '1909-01-15'
+death_date: '1973-10-16'
+artist_type: person
 ---
 
 ![](gene_krupa_orchestra.jpg)

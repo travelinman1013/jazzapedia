@@ -1,55 +1,58 @@
 ---
 biography_enhanced_at: '2026-01-30T01:15:54.113187'
-birth_place: Wayland, Kentucky, United States
+birth_place: 'Wayland, Kentucky, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:15:54.113196'
 external_urls:
-  spotify: https://open.spotify.com/artist/6AFObT555lTZE9W3ixgCR6
-  wikipedia: https://en.wikipedia.org/wiki/Horace_Arnold
+  spotify: 'https://open.spotify.com/artist/6AFObT555lTZE9W3ixgCR6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Horace_Arnold'
 genres:
-- jazz fusion
-- free jazz
-- jazz funk
+  - jazz fusion
+  - free jazz
+  - jazz funk
 image_path: 03_Resources/source_material/ArtistPortraits/horacee_arnold.jpg
 last_updated: '2026-01-30T01:15:54.113198'
 musical_connections:
   collaborators:
-  - David Baker
-  - Roland Kirk
-  - Charles Mingus
-  - Cecil McBee
-  - Kirk Lightsey
-  - Chick Corea
-  - Billy Harper
-  - Joe Farrell
-  - Sam Rivers
-  - Billy Hart
-  - Freddie Waits
-  - David Friedman
-  - Ralph Towner
+    - David Baker
+    - Roland Kirk
+    - Charles Mingus
+    - Cecil McBee
+    - Kirk Lightsey
+    - Chick Corea
+    - Billy Harper
+    - Joe Farrell
+    - Sam Rivers
+    - Billy Hart
+    - Freddie Waits
+    - David Friedman
+    - Ralph Towner
   influenced:
-  - Vinnie Sperrazza
+    - Vinnie Sperrazza
   mentors:
-  - Max Roach
-  - Ralph Towner
-  - Heiner Stadler
-  - Hy Gubenick
+    - Max Roach
+    - Ralph Towner
+    - Heiner Stadler
+    - Hy Gubenick
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://jazz-rock-fusion-guitar.blogspot.com/2024/02/horacee-arnold-1973-2011-tribe.html
-- https://en.wikipedia.org/wiki/Horace_Arnold
-- https://vinniesperrazza.substack.com/p/for-horacee-arnold
-- https://horaceearnold.wordpress.com/biography/
-- https://musicbrainz.org/artist/9fdef003-322f-46f1-a4bf-c6eddb602038
-- https://www.allmusic.com/artist/horacee-arnold-mn0000263739
+  - >-
+    http://jazz-rock-fusion-guitar.blogspot.com/2024/02/horacee-arnold-1973-2011-tribe.html
+  - 'https://en.wikipedia.org/wiki/Horace_Arnold'
+  - 'https://vinniesperrazza.substack.com/p/for-horacee-arnold'
+  - 'https://horaceearnold.wordpress.com/biography/'
+  - 'https://musicbrainz.org/artist/9fdef003-322f-46f1-a4bf-c6eddb602038'
+  - 'https://www.allmusic.com/artist/horacee-arnold-mn0000263739'
 spotify_data:
   followers: 455
   id: 6AFObT555lTZE9W3ixgCR6
   popularity: 1
-  url: https://open.spotify.com/artist/6AFObT555lTZE9W3ixgCR6
+  url: 'https://open.spotify.com/artist/6AFObT555lTZE9W3ixgCR6'
 status: active
 title: Horacee Arnold
+birth_date: '1937-09-25'
+artist_type: person
 ---
 
 ![](horacee_arnold.jpg)

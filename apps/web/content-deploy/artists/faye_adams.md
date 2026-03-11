@@ -1,40 +1,45 @@
 ---
 biography_enhanced_at: '2026-02-27T01:37:54.249523'
-birth_place: Newark, New Jersey, USA
+birth_place: 'Newark, New Jersey, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:37:54.249535'
 external_urls:
-  spotify: https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV
+  spotify: 'https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/faye_adams.jpg
 last_updated: '2026-02-27T01:37:54.249537'
 musical_connections:
   collaborators:
-  - Joe Morris and his Orchestra
+    - Joe Morris and his Orchestra
   influenced:
-  - The '5' Royales
-  - Bill Haley
-  - Jackie DeShannon
+    - The '5' Royales
+    - Bill Haley
+    - Jackie DeShannon
   mentors:
-  - Ruth Brown
-  - Joe Morris
-  - Phil Moore
+    - Ruth Brown
+    - Joe Morris
+    - Phil Moore
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kids.kiddle.co/Faye_Adams
-- https://top40weekly.com/faye-adams/
-- https://fromthevaults-boppinbob.blogspot.com/2021/05/faye-adams-born-22-may-1923.html
-- https://www.uncamarvy.com/FayeAdams/fayeadams.html
-- https://opalnations.com/files/Faye_Adams_I_m_going_to_Leave_You_Mr._R_B_LP_110_1989_.pdf
+  - 'https://kids.kiddle.co/Faye_Adams'
+  - 'https://top40weekly.com/faye-adams/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/05/faye-adams-born-22-may-1923.html
+  - 'https://www.uncamarvy.com/FayeAdams/fayeadams.html'
+  - >-
+    https://opalnations.com/files/Faye_Adams_I_m_going_to_Leave_You_Mr._R_B_LP_110_1989_.pdf
 spotify_data:
   followers: 4566
   id: 1bx4W3T0zPKzmsrRTvquWV
   popularity: 13
-  url: https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV
+  url: 'https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV'
 status: active
-title: faye adams
+title: Faye Adams
+birth_date: '1923-05-22'
+death_date: '2016-11-02'
+artist_type: person
 ---
 
 ![](faye_adams.jpg)

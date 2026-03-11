@@ -1,100 +1,103 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-10T01:57:29.412796'
 birth_date: '1975'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:57:29.412806'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/72b3b981-92b7-4b5c-8a83-35717358b76e
-  spotify: https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889
+  musicbrainz: 'https://musicbrainz.org/artist/72b3b981-92b7-4b5c-8a83-35717358b76e'
+  spotify: 'https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/miami_sound_machine.jpg
 last_updated: '2026-02-10T01:57:29.412808'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ad49b792-b86a-4395-b72f-726f8bd79fed
-  name: Jorge Casas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: faae5fff-4702-4ddd-9fe3-8c153d6d0f10
-  name: Emilio Estefan, Jr.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: becd8cc6-a453-4183-af88-dedaaec859a6
-  name: Gloria Estefan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2ea7da34-ff7e-4973-810c-6b2e6f265a95
-  name: Enrique Garcia
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2e610f7a-ce9d-447a-affb-39c9f89c8408
-  name: Clay Ostwald
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 719d3d9e-69f8-4e2c-b9c4-4a53c159ecd6
-  name: Rafael Padilla
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 686e8e55-9bc3-479d-86bb-dccda3e8f51e
-  name: Ed Calle
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ace75ff2-ac64-492c-9d23-33cfe45293be
-  name: Gustavo Lezcano
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 98355784-f0da-4650-9e72-da72e321ebb6
-  name: Carlos Oliva
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ad49b792-b86a-4395-b72f-726f8bd79fed
+    name: Jorge Casas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: faae5fff-4702-4ddd-9fe3-8c153d6d0f10
+    name: 'Emilio Estefan, Jr.'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: becd8cc6-a453-4183-af88-dedaaec859a6
+    name: Gloria Estefan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2ea7da34-ff7e-4973-810c-6b2e6f265a95
+    name: Enrique Garcia
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2e610f7a-ce9d-447a-affb-39c9f89c8408
+    name: Clay Ostwald
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 719d3d9e-69f8-4e2c-b9c4-4a53c159ecd6
+    name: Rafael Padilla
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 686e8e55-9bc3-479d-86bb-dccda3e8f51e
+    name: Ed Calle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ace75ff2-ac64-492c-9d23-33cfe45293be
+    name: Gustavo Lezcano
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 98355784-f0da-4650-9e72-da72e321ebb6
+    name: Carlos Oliva
 musical_connections:
   collaborators:
-  - Gloria Estefan (Gloria Fajardo)
-  - Emilio Estefan Jr.
-  - Wesley B. Wright
-  - Fernando Garcia
-  - Merci Navarro Murciano
-  - Jorge Casas
+    - Gloria Estefan (Gloria Fajardo)
+    - Emilio Estefan Jr.
+    - Wesley B. Wright
+    - Fernando Garcia
+    - Merci Navarro Murciano
+    - Jorge Casas
   influenced:
-  - Jon Secada
-  - Thalia
-  - Alejandro Fernandez
-  - Shakira, Ricky Martin, Jennifer Lopez, Marc Anthony
+    - Jon Secada
+    - Thalia
+    - Alejandro Fernandez
+    - 'Shakira, Ricky Martin, Jennifer Lopez, Marc Anthony'
   mentors:
-  - Not specified in available sources
+    - Not specified in available sources
 musicbrainz_id: 72b3b981-92b7-4b5c-8a83-35717358b76e
 network_extracted: true
-origin: Miami, Florida, United States
+origin: 'Miami, Florida, United States'
 primary_source: perplexity
 research_sources:
-- https://themusicalhistory.com/miamisoundmachine-en/
-- https://www.last.fm/music/Miami+Sound+Machine/+wiki
-- https://remezcla.com/features/music/throwback-music-history-impact-of-miami-sound-machine/
-- https://www.68to05.com/essays/1987-miami-sound-machine
-- https://museumoffloridahistory.com/explore/collections/19th-20th-century-artifacts/popular-culture-and-sports/miami-sound-machine-album/
-- https://www.songfacts.com/facts/miami-sound-machine
-- https://www.bmi.com/video/entry/part_1_gloria_and_emilio_estefan_talk_on_your_feet_and_the_history_of_miami
+  - 'https://themusicalhistory.com/miamisoundmachine-en/'
+  - 'https://www.last.fm/music/Miami+Sound+Machine/+wiki'
+  - >-
+    https://remezcla.com/features/music/throwback-music-history-impact-of-miami-sound-machine/
+  - 'https://www.68to05.com/essays/1987-miami-sound-machine'
+  - >-
+    https://museumoffloridahistory.com/explore/collections/19th-20th-century-artifacts/popular-culture-and-sports/miami-sound-machine-album/
+  - 'https://www.songfacts.com/facts/miami-sound-machine'
+  - >-
+    https://www.bmi.com/video/entry/part_1_gloria_and_emilio_estefan_talk_on_your_feet_and_the_history_of_miami
 spotify_data:
   followers: 890046
   id: 5IFCkqu9J6xdWeYMk5I889
   popularity: 64
-  url: https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889
+  url: 'https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889'
 status: active
 tags:
-- adult contemporary
-- dance-pop
-- latin freestyle
-title: Miami Sound machine
+  - adult contemporary
+  - dance-pop
+  - latin freestyle
+title: Miami Sound Machine
 ---
 
 ![](miami_sound_machine.jpg)

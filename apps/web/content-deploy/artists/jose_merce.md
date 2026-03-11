@@ -1,46 +1,50 @@
 ---
 biography_enhanced_at: '2026-03-01T02:02:16.829444'
-birth_place: Jerez de la Frontera, Cádiz, Andalucía, Spain
+birth_place: 'Jerez de la Frontera, Cádiz, Andalucía, Spain'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:02:16.829454'
 external_urls:
-  spotify: https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8
-  wikipedia: https://en.wikipedia.org/wiki/Jos%C3%A9_Merc%C3%A9
+  spotify: 'https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jos%C3%A9_Merc%C3%A9'
 genres:
-- flamenco
-- flamenco pop
-- villancicos
+  - flamenco
+  - flamenco pop
+  - villancicos
 image_path: 03_Resources/source_material/ArtistPortraits/jose_merce.jpg
 last_updated: '2026-03-01T02:02:16.829455'
 musical_connections:
   collaborators:
-  - Vicente Amigo
-  - Antonio Gades
-  - Moraito
-  - Tomatito
-  - Enrique de Melchor
-  - Javier Limón
+    - Vicente Amigo
+    - Antonio Gades
+    - Moraito
+    - Tomatito
+    - Enrique de Melchor
+    - Javier Limón
   influenced:
-  - Camarón de la Isla
+    - Camarón de la Isla
   mentors:
-  - Manuel Soto Sordera
-  - Francisco Valencia (Paco la Luz)
+    - Manuel Soto Sordera
+    - Francisco Valencia (Paco la Luz)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Jos%C3%A9+Merc%C3%A9/+wiki
-- https://www.getin.es/en/artistas/jose-merce-en/
-- https://en.wikipedia.org/wiki/Jos%C3%A9_Merc%C3%A9
-- https://spanishguitarschool.com/flamencoguitarlessonsblog/jose-merce/nicolas/
-- https://www.deflamenco.com/revista/entrevistas/jose-merce-mi-unica-llave1-1.html
-- https://en.andalucia.org/listing/jos%C3%A9-merc%C3%A9/20862101/
+  - 'https://www.last.fm/music/Jos%C3%A9+Merc%C3%A9/+wiki'
+  - 'https://www.getin.es/en/artistas/jose-merce-en/'
+  - 'https://en.wikipedia.org/wiki/Jos%C3%A9_Merc%C3%A9'
+  - >-
+    https://spanishguitarschool.com/flamencoguitarlessonsblog/jose-merce/nicolas/
+  - >-
+    https://www.deflamenco.com/revista/entrevistas/jose-merce-mi-unica-llave1-1.html
+  - 'https://en.andalucia.org/listing/jos%C3%A9-merc%C3%A9/20862101/'
 spotify_data:
   followers: 222759
   id: 7p5J8SfKU9Rulp7tcA53G8
   popularity: 50
-  url: https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8
+  url: 'https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8'
 status: active
-title: jose merce
+title: Jose Merce
+birth_date: '1955-04-19'
+artist_type: person
 ---
 
 ![](jose_merce.jpg)

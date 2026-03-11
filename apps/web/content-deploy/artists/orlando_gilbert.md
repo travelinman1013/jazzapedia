@@ -1,36 +1,38 @@
 ---
 biography_enhanced_at: '2026-02-24T01:42:53.867906'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:42:53.867917'
 external_urls:
-  spotify: https://open.spotify.com/artist/4rIjw6rsnX91oH0TZMMAxw
+  spotify: 'https://open.spotify.com/artist/4rIjw6rsnX91oH0TZMMAxw'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/orlando_gilbert.jpg
 last_updated: '2026-02-24T01:42:53.867920'
 musical_connections:
   collaborators:
-  - John 'Prince' Gilbert
-  - Treme Brass Band
+    - John 'Prince' Gilbert
+    - Treme Brass Band
   influenced: []
   mentors:
-  - John 'Prince' Gilbert
+    - John 'Prince' Gilbert
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://veritenews.org/2024/12/26/john-prince-gilbert-treme-brass-band-rebirth/
-- https://www.orlandogilbert.com/post/father-son-album
-- https://www.the-independent.com/news/ap-new-orleans-orlando-b2668266.html
-- https://www.orlandogilbert.com
-- https://worldheartbeat.org/new-orleans-jazz-class/
+  - >-
+    https://veritenews.org/2024/12/26/john-prince-gilbert-treme-brass-band-rebirth/
+  - 'https://www.orlandogilbert.com/post/father-son-album'
+  - 'https://www.the-independent.com/news/ap-new-orleans-orlando-b2668266.html'
+  - 'https://www.orlandogilbert.com'
+  - 'https://worldheartbeat.org/new-orleans-jazz-class/'
 spotify_data:
   followers: 122
   id: 4rIjw6rsnX91oH0TZMMAxw
   popularity: 1
-  url: https://open.spotify.com/artist/4rIjw6rsnX91oH0TZMMAxw
+  url: 'https://open.spotify.com/artist/4rIjw6rsnX91oH0TZMMAxw'
 status: active
 title: Orlando Gilbert
+artist_type: person
 ---
 
 ![](orlando_gilbert.jpg)

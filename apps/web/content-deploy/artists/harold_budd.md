@@ -2,58 +2,60 @@
 artist_type: person
 biography_enhanced_at: '2026-02-24T01:42:17.610725'
 birth_date: '1936-05-24'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 death_date: '2020-12-08'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:42:17.610732'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5c864a6f-146e-4225-986d-3295ce90f784
-  spotify: https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl
-  wikipedia: https://en.wikipedia.org/wiki/Harold_Budd
+  musicbrainz: 'https://musicbrainz.org/artist/5c864a6f-146e-4225-986d-3295ce90f784'
+  spotify: 'https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harold_Budd'
 gender: Male
 genres:
-- ambient
-- minimalism
-- shoegaze
-- drone
+  - ambient
+  - minimalism
+  - shoegaze
+  - drone
 image_path: 03_Resources/source_material/ArtistPortraits/harold_budd.jpg
 instruments:
-- electric piano
-- piano
+  - electric piano
+  - piano
 last_updated: '2026-02-24T01:42:17.610734'
 musical_connections:
   collaborators:
-  - Brian Eno
-  - Robin Guthrie
-  - Gavin Bryars
-  - Albert Ayler
+    - Brian Eno
+    - Robin Guthrie
+    - Gavin Bryars
+    - Albert Ayler
   influenced:
-  - ambient musicians (nature-oriented branch)
+    - ambient musicians (nature-oriented branch)
   mentors:
-  - Gerald Strang
-  - Ingolf Dahl
-  - Aurelio de la Vega
+    - Gerald Strang
+    - Ingolf Dahl
+    - Aurelio de la Vega
 musicbrainz_id: 5c864a6f-146e-4225-986d-3295ce90f784
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Harold_Budd
-- https://insheepsclothinghifi.com/listening-to-the-light-harold-budd-in-his-own-words/
-- https://circeinstitute.org/blog/harold-budd-memoriam/
-- https://www.curiousmusic.us/harold-budd
-- https://rockandrollglobe.com/remembrance/remembering-harold-budd/
-- https://4columns.org/dayal-geeta/harold-budd
+  - 'https://en.wikipedia.org/wiki/Harold_Budd'
+  - >-
+    https://insheepsclothinghifi.com/listening-to-the-light-harold-budd-in-his-own-words/
+  - 'https://circeinstitute.org/blog/harold-budd-memoriam/'
+  - 'https://www.curiousmusic.us/harold-budd'
+  - 'https://rockandrollglobe.com/remembrance/remembering-harold-budd/'
+  - 'https://4columns.org/dayal-geeta/harold-budd'
 spotify_data:
   followers: 122841
   id: 3uOCouLFR4bVx0XeiQJSbl
   popularity: 56
-  url: https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl
+  url: 'https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl'
 status: active
 tags:
-- ambient
-- avant-garde
-- death by covid-19
+  - ambient
+  - avant-garde
+  - death by covid-19
 title: Harold Budd
+is_active: false
 ---
 
 ![](harold_budd.jpg)

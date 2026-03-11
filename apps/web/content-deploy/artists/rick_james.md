@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-03T02:10:11.032797'
-birth_place: Buffalo, New York, United States
+birth_place: 'Buffalo, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:10:11.032807'
 external_urls:
-  spotify: https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL
-  wikipedia: https://en.wikipedia.org/wiki/Rick_James
+  spotify: 'https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rick_James'
 genres:
-- funk
-- motown
-- disco
+  - funk
+  - motown
+  - disco
 image_path: 03_Resources/source_material/ArtistPortraits/rick_james.jpg
 last_updated: '2026-02-03T02:10:11.032809'
 musical_connections:
   collaborators:
-  - Neil Young
-  - Teena Marie
-  - Prince
-  - Stone City Band
-  - Mary Jane Girls
+    - Neil Young
+    - Teena Marie
+    - Prince
+    - Stone City Band
+    - Mary Jane Girls
   influenced:
-  - MC Hammer
-  - Teena Marie
+    - MC Hammer
+    - Teena Marie
   mentors:
-  - Stevie Wonder
+    - Stevie Wonder
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rick_James
-- https://rickjames.com/pages/biography
-- https://www.udiscovermusic.com/stories/rick-james-super-freak-life-story/
-- https://thestrangebrew.co.uk/interviews/before-super-freak-rick-james/
-- https://www.youtube.com/watch?v=GU-tpi_ewNo
+  - 'https://en.wikipedia.org/wiki/Rick_James'
+  - 'https://rickjames.com/pages/biography'
+  - 'https://www.udiscovermusic.com/stories/rick-james-super-freak-life-story/'
+  - 'https://thestrangebrew.co.uk/interviews/before-super-freak-rick-james/'
+  - 'https://www.youtube.com/watch?v=GU-tpi_ewNo'
 spotify_data:
   followers: 1353013
   id: 0FrpdcVlJQqibaz5HfBUrL
   popularity: 63
-  url: https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL
+  url: 'https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL'
 status: active
 title: Rick James
+birth_date: '1948-02-01'
+artist_type: person
 ---
 
 ![](rick_james.jpg)

@@ -3,36 +3,37 @@ biography_enhanced_at: '2026-01-24T02:03:35.529504'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:03:35.529509'
 external_urls:
-  spotify: https://open.spotify.com/artist/0f0vWcsBKbmzyUXYUSWpXK
-  wikipedia: https://en.wikipedia.org/wiki/Supernova_(American_band)
+  spotify: 'https://open.spotify.com/artist/0f0vWcsBKbmzyUXYUSWpXK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Supernova_(American_band)'
 genres:
-- noise rock
-- skate punk
+  - noise rock
+  - skate punk
 image_path: 03_Resources/source_material/ArtistPortraits/supernova.jpg
 last_updated: '2026-01-24T02:03:35.529510'
 musical_connections:
   collaborators:
-  - Jodey Lawrence (Jo Nova)
-  - Hayden Thais (Hank)
-  - Corey Pollock (Chainsaw)
+    - Jodey Lawrence (Jo Nova)
+    - Hayden Thais (Hank)
+    - Corey Pollock (Chainsaw)
   influenced:
-  - Corey Pollock (Chainsaw, The Aquabats)
+    - 'Corey Pollock (Chainsaw, The Aquabats)'
   mentors:
-  - The Dickies
-  - Ramones
+    - The Dickies
+    - Ramones
 network_extracted: true
-origin: Costa Mesa, California, USA
+origin: 'Costa Mesa, California, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Supernova_(American_band)
-- https://www.latimes.com/archives/la-xpm-1994-02-21-ca-25564-story.html
+  - 'https://en.wikipedia.org/wiki/Supernova_(American_band)'
+  - 'https://www.latimes.com/archives/la-xpm-1994-02-21-ca-25564-story.html'
 spotify_data:
   followers: 1013
   id: 0f0vWcsBKbmzyUXYUSWpXK
   popularity: 7
-  url: https://open.spotify.com/artist/0f0vWcsBKbmzyUXYUSWpXK
+  url: 'https://open.spotify.com/artist/0f0vWcsBKbmzyUXYUSWpXK'
 status: active
-title: supernova
+title: Supernova
+artist_type: person
 ---
 
 ![](supernova.jpg)

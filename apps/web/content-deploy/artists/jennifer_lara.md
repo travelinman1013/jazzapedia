@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-23T01:51:06.202497'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:51:06.202502'
 external_urls:
-  spotify: https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4
+  spotify: 'https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4'
   wikipedia: ''
 genres:
-- rocksteady
-- lovers rock
+  - rocksteady
+  - lovers rock
 image_path: 03_Resources/source_material/ArtistPortraits/jennifer_lara.jpg
 last_updated: '2026-01-23T01:51:06.202503'
 musical_connections:
   collaborators:
-  - Delroy Wilson
-  - Freddie McGregor
-  - Dennis Brown
-  - Sugar Minott
-  - Dalton Browne
+    - Delroy Wilson
+    - Freddie McGregor
+    - Dennis Brown
+    - Sugar Minott
+    - Dalton Browne
   influenced: []
   mentors:
-  - Richard Ace
-  - Clement 'Coxsone' Dodd
+    - Richard Ace
+    - Clement 'Coxsone' Dodd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sbpress.com/2019/09/studio-ones-jennifer-lara/
-- https://reggaewomanworldwide.wordpress.com/memorium/
-- https://www.last.fm/music/Jennifer+Lara/+wiki
-- https://thelisteningpostblog.wordpress.com/2024/11/24/song-of-the-day-jennifer-lara-our-love/
-- https://unitedreggae.com/artists/j/jennifer-lara,1693/
-- https://www.allmusic.com/artist/jennifer-lara-mn0000840820
+  - 'https://sbpress.com/2019/09/studio-ones-jennifer-lara/'
+  - 'https://reggaewomanworldwide.wordpress.com/memorium/'
+  - 'https://www.last.fm/music/Jennifer+Lara/+wiki'
+  - >-
+    https://thelisteningpostblog.wordpress.com/2024/11/24/song-of-the-day-jennifer-lara-our-love/
+  - 'https://unitedreggae.com/artists/j/jennifer-lara,1693/'
+  - 'https://www.allmusic.com/artist/jennifer-lara-mn0000840820'
 spotify_data:
   followers: 14366
   id: 5GgX23TgqGxu7hCm6qVDo4
   popularity: 32
-  url: https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4
+  url: 'https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4'
 status: active
 title: Jennifer Lara
+death_date: '2024-06-11'
+artist_type: person
 ---
 
 ![](jennifer_lara.jpg)

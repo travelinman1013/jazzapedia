@@ -1,88 +1,88 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1974'
-  end: ''
-  instruments:
-  - guitar
-  mbid: 5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36
-  name: Return to Forever
-- begin: '1976'
-  end: ''
-  instruments:
-  - guitar
-  mbid: 31559424-7e17-4670-bef2-5198148a4438
-  name: Stomu Yamashta’s Go
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 2b04b4fe-f4f1-413f-9e17-8dfbe69ad8fe
-  name: The Al Di Meola Project
+  - begin: '1974'
+    end: ''
+    instruments:
+      - guitar
+    mbid: 5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36
+    name: Return to Forever
+  - begin: '1976'
+    end: ''
+    instruments:
+      - guitar
+    mbid: 31559424-7e17-4670-bef2-5198148a4438
+    name: Stomu Yamashta’s Go
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2b04b4fe-f4f1-413f-9e17-8dfbe69ad8fe
+    name: The Al Di Meola Project
 biography_enhanced_at: '2026-01-29T01:59:35.394409'
 birth_date: '1954-07-22'
-birth_place: Jersey City
+birth_place: 'Jersey City, New Jersey, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T01:59:35.394420'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/09c0f334-f9de-4970-b9ee-ef799cd093be
-  spotify: https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q
+  musicbrainz: 'https://musicbrainz.org/artist/09c0f334-f9de-4970-b9ee-ef799cd093be'
+  spotify: 'https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q'
   wikipedia: ''
 gender: Male
 genres:
-- jazz fusion
-- flamenco
+  - jazz fusion
+  - flamenco
 image_path: 03_Resources/source_material/ArtistPortraits/al_di_meola.jpg
 instruments:
-- guitar
-- eponymous
-- original
-- acoustic guitar
-- electric guitar
-- guitar family
-- classical guitar
-- guitar synthesizer
-- bass guitar
-- steel-string acoustic guitar
-- piano
-- 12 string guitar
-- Hawaiian guitar
-- lead vocals
+  - guitar
+  - eponymous
+  - original
+  - acoustic guitar
+  - electric guitar
+  - guitar family
+  - classical guitar
+  - guitar synthesizer
+  - bass guitar
+  - steel-string acoustic guitar
+  - piano
+  - 12 string guitar
+  - Hawaiian guitar
+  - lead vocals
 last_updated: '2026-01-29T01:59:35.394421'
 musical_connections:
   collaborators:
-  - Stanley Clarke
-  - Lenny White
-  - Paco de Lucía
-  - John McLaughlin
-  - Jean-Luc Ponty
-  - Dino Saluzzi
-  - Arto Tunçboyacıyan
+    - Stanley Clarke
+    - Lenny White
+    - Paco de Lucía
+    - John McLaughlin
+    - Jean-Luc Ponty
+    - Dino Saluzzi
+    - Arto Tunçboyacıyan
   influenced:
-  - Rock and jazz guitarists
+    - Rock and jazz guitarists
   mentors:
-  - Chick Corea
+    - Chick Corea
 musicbrainz_id: 09c0f334-f9de-4970-b9ee-ef799cd093be
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.aldimeola.com/bio
-- https://midnightoilstudios.org/2022/09/10/the-legendary-al-di-meola/
-- https://universumguitars.com/artists/al-di-meola/
-- https://www.berklee.edu/berklee-today/spring-2016/al-di-meola
-- https://weekendofjazz.com/broadmoor/al-di-meola/
-- https://www.majesticempire.com/events/al-di-meola/
+  - 'https://www.aldimeola.com/bio'
+  - 'https://midnightoilstudios.org/2022/09/10/the-legendary-al-di-meola/'
+  - 'https://universumguitars.com/artists/al-di-meola/'
+  - 'https://www.berklee.edu/berklee-today/spring-2016/al-di-meola'
+  - 'https://weekendofjazz.com/broadmoor/al-di-meola/'
+  - 'https://www.majesticempire.com/events/al-di-meola/'
 spotify_data:
   followers: 175976
   id: 3bBWKHfpepPOychRNFzg4q
   popularity: 44
-  url: https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q
+  url: 'https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q'
 status: active
 tags:
-- 1970s
-- 1980s
-- 1990s
+  - 1970s
+  - 1980s
+  - 1990s
 title: Al Di Meola
 ---
 

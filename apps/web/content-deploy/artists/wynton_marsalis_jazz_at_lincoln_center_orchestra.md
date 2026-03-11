@@ -3,40 +3,43 @@ biography_enhanced_at: '2026-02-27T01:34:56.656843'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:34:56.656852'
 external_urls:
-  spotify: https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb
-  wikipedia: https://en.wikipedia.org/wiki/Jazz_at_Lincoln_Center
+  spotify: 'https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jazz_at_Lincoln_Center'
 genres:
-- latin jazz
-- big band
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/wynton_marsalis_jazz_at_lincoln_center_orchestra.jpg
+  - latin jazz
+  - big band
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/wynton_marsalis_jazz_at_lincoln_center_orchestra.jpg
 last_updated: '2026-02-27T01:34:56.656854'
 musical_connections:
   collaborators:
-  - Wynton Marsalis
-  - Branford Marsalis
-  - Jazz at Lincoln Center musicians (e.g., Marcus Printup, Ted Nash)
+    - Wynton Marsalis
+    - Branford Marsalis
+    - 'Jazz at Lincoln Center musicians (e.g., Marcus Printup, Ted Nash)'
   influenced:
-  - Young jazz musicians
+    - Young jazz musicians
   mentors:
-  - Wynton Marsalis
-  - Art Blakey
+    - Wynton Marsalis
+    - Art Blakey
 network_extracted: true
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wynton_Marsalis
-- https://www.aso.org/artists/detail/wynton-marsalis
-- https://achievement.org/achiever/wynton-marsalis/
-- https://kgumusic.com/blogs/news/wynton-marsalis-biography-collaborations-and-his-role-in-jazz
-- https://wyntonmarsalis.org/about/bio
+  - 'https://en.wikipedia.org/wiki/Wynton_Marsalis'
+  - 'https://www.aso.org/artists/detail/wynton-marsalis'
+  - 'https://achievement.org/achiever/wynton-marsalis/'
+  - >-
+    https://kgumusic.com/blogs/news/wynton-marsalis-biography-collaborations-and-his-role-in-jazz
+  - 'https://wyntonmarsalis.org/about/bio'
 spotify_data:
   followers: 45691
   id: 6MnWA8xVW1sEzV9s7wXpQb
   popularity: 35
-  url: https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb
+  url: 'https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb'
 status: active
-title: WYNTON MARSALIS JAZZ AT LINCOLN CENTER ORCHESTRA
+title: Wynton Marsalis Jazz AT Lincoln Center Orchestra
+artist_type: band
 ---
 
 ![](wynton_marsalis_jazz_at_lincoln_center_orchestra.jpg)

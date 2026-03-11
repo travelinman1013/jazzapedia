@@ -1,43 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-29T02:02:53.039778'
-birth_place: London, England, UK
+birth_place: 'London, England, UK'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:02:53.039789'
 external_urls:
-  spotify: https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU
+  spotify: 'https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU'
   wikipedia: ''
 genres:
-- blues
-- blues rock
+  - blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_martin.jpg
 last_updated: '2026-01-29T02:02:53.039790'
 musical_connections:
   collaborators:
-  - Pee Wee Ellis
-  - John Paul Gard
-  - Richie Laws
-  - Paddy Milner
-  - Michael Wiedrich
+    - Pee Wee Ellis
+    - John Paul Gard
+    - Richie Laws
+    - Paddy Milner
+    - Michael Wiedrich
   influenced: []
   mentors:
-  - Freddie King
-  - Robert Johnson
+    - Freddie King
+    - Robert Johnson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://salcombe-live.co.uk/eddie-martin
-- https://www.rootsmusicreport.com/bands/view/6479/eddie-martin
-- https://www.donstunes.com/eddie-martin/
-- https://www.earlyblues.com/Interview%20-%20Eddie%20Martin.htm
-- https://www.bucksmusicgroup.com/artists/141-eddie-martin
-- https://happyhourharmonicapodcast.buzzsprout.com/995536/episodes/14695487-eddie-martin-interview
+  - 'https://salcombe-live.co.uk/eddie-martin'
+  - 'https://www.rootsmusicreport.com/bands/view/6479/eddie-martin'
+  - 'https://www.donstunes.com/eddie-martin/'
+  - 'https://www.earlyblues.com/Interview%20-%20Eddie%20Martin.htm'
+  - 'https://www.bucksmusicgroup.com/artists/141-eddie-martin'
+  - >-
+    https://happyhourharmonicapodcast.buzzsprout.com/995536/episodes/14695487-eddie-martin-interview
 spotify_data:
   followers: 868
   id: 05QLgdfxYIzqvMNlAZ2hdU
   popularity: 4
-  url: https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU
+  url: 'https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU'
 status: active
 title: Eddie Martin
+artist_type: person
 ---
 
 ![](eddie_martin.jpg)

@@ -1,31 +1,31 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-03-08T03:07:30.912351'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:07:30.912359'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0771f50a-1be9-4a45-989e-3cea761b1ce1
-  spotify: https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG
+  musicbrainz: 'https://musicbrainz.org/artist/0771f50a-1be9-4a45-989e-3cea761b1ce1'
+  spotify: 'https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG'
   wikipedia: null
 genres:
-- acid jazz
+  - acid jazz
 image_path: 03_Resources/source_material/ArtistPortraits/wildcookie.jpg
 last_updated: '2026-03-08T03:07:30.912361'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f1a26d48-35df-4130-a669-1d4662b8c86f
-  name: Freddie Cruger
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1ed75425-132c-4625-8c57-3b6265d3c505
-  name: Anthony Mills
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f1a26d48-35df-4130-a669-1d4662b8c86f
+    name: Freddie Cruger
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1ed75425-132c-4625-8c57-3b6265d3c505
+    name: Anthony Mills
 musical_connections:
   collaborators:
-  - Gilles Peterson
-  - Tru Thoughts Records
+    - Gilles Peterson
+    - Tru Thoughts Records
   influenced: []
   mentors: []
 musicbrainz_id: 0771f50a-1be9-4a45-989e-3cea761b1ce1
@@ -33,14 +33,14 @@ network_extracted: true
 origin: Unknown
 primary_source: perplexity
 research_sources:
-- https://tru-thoughts.co.uk/artists/freddie-cruger-anthony-mills-wildcookie/
-- https://www.last.fm/music/Wildcookie/+wiki
-- https://www.allmusic.com/artist/wildcookie-mn0002655787
+  - 'https://tru-thoughts.co.uk/artists/freddie-cruger-anthony-mills-wildcookie/'
+  - 'https://www.last.fm/music/Wildcookie/+wiki'
+  - 'https://www.allmusic.com/artist/wildcookie-mn0002655787'
 spotify_data:
   followers: 15180
   id: 2nkfPQ3HP5UyDHqy1hSbgG
   popularity: 30
-  url: https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG
+  url: 'https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG'
 status: active
 title: Wildcookie
 ---

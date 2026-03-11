@@ -1,58 +1,62 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-28T01:53:05.342068'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Rio de Janeiro State, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:53:05.342076'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a7e4b907-15a3-4441-b4df-88f8dfdb9f36
-  spotify: https://open.spotify.com/artist/5GNLaaEOwaEaXJfK7XnD8j
+  musicbrainz: 'https://musicbrainz.org/artist/a7e4b907-15a3-4441-b4df-88f8dfdb9f36'
+  spotify: 'https://open.spotify.com/artist/5GNLaaEOwaEaXJfK7XnD8j'
   wikipedia: null
 gender: Male
 genres:
-- brazilian jazz
-- ambient jazz
+  - brazilian jazz
+  - ambient jazz
 image_path: 03_Resources/source_material/ArtistPortraits/fabiano_do_nascimento.jpg
 instruments:
-- guitar
-- acoustic guitar
+  - guitar
+  - acoustic guitar
 last_updated: '2026-01-28T01:53:05.342078'
 musical_connections:
   collaborators:
-  - Airto Moreira
-  - Sam Gendel
-  - Arthur Verocai
-  - Itiberê Zwarg
-  - Vittor Santos
-  - Pablo Calogero
-  - Tiki Pasillas
-  - Aloe Blacc
-  - Mia Doi Todd
-  - Beirut
+    - Airto Moreira
+    - Sam Gendel
+    - Arthur Verocai
+    - Itiberê Zwarg
+    - Vittor Santos
+    - Pablo Calogero
+    - Tiki Pasillas
+    - Aloe Blacc
+    - Mia Doi Todd
+    - Beirut
   influenced: []
   mentors:
-  - Lúcio Nascimento
-  - Ladário Teixeira
-  - Baden Powell
+    - Lúcio Nascimento
+    - Ladário Teixeira
+    - Baden Powell
 musicbrainz_id: a7e4b907-15a3-4441-b4df-88f8dfdb9f36
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://bandonthewall.org/events/fabiano-do-nascimento/
-- https://www.faroutrecordings.com/artist/396910-fabiano-do-nascimento?lang=ca
-- https://wanderlust.com/artist/fabiano-do-nascimento/
-- https://fabianomusic.com
-- https://www.lucypr.com/music-dance/ford-signature-series/aloe-blacc/fabiano-do-nascimento-bio/
-- https://www.groupmuse.com/@fabiano
-- https://brazilbeatblog.wordpress.com/2023/04/25/fabiano-do-nascimento/
-- https://www.primaverasound.com/en/tours/fabiano-do-nascimento-barcelona-laut-marzo-2026
+  - 'https://bandonthewall.org/events/fabiano-do-nascimento/'
+  - 'https://www.faroutrecordings.com/artist/396910-fabiano-do-nascimento?lang=ca'
+  - 'https://wanderlust.com/artist/fabiano-do-nascimento/'
+  - 'https://fabianomusic.com'
+  - >-
+    https://www.lucypr.com/music-dance/ford-signature-series/aloe-blacc/fabiano-do-nascimento-bio/
+  - 'https://www.groupmuse.com/@fabiano'
+  - 'https://brazilbeatblog.wordpress.com/2023/04/25/fabiano-do-nascimento/'
+  - >-
+    https://www.primaverasound.com/en/tours/fabiano-do-nascimento-barcelona-laut-marzo-2026
 spotify_data:
   followers: 37271
   id: 5GNLaaEOwaEaXJfK7XnD8j
   popularity: 43
-  url: https://open.spotify.com/artist/5GNLaaEOwaEaXJfK7XnD8j
+  url: 'https://open.spotify.com/artist/5GNLaaEOwaEaXJfK7XnD8j'
 status: active
 title: Fabiano do Nascimento
+birth_date: '1983'
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](fabiano_do_nascimento.jpg)

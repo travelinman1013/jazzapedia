@@ -1,139 +1,139 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-26T01:21:17.399570'
 birth_date: '1983'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:21:17.399578'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1f43d76f-8edf-44f6-aaf1-b65f05ad9402
-  spotify: https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB
+  musicbrainz: 'https://musicbrainz.org/artist/1f43d76f-8edf-44f6-aaf1-b65f05ad9402'
+  spotify: 'https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB'
   wikipedia: Not provided in search results
 genres:
-- neo-psychedelic
+  - neo-psychedelic
 image_path: 03_Resources/source_material/ArtistPortraits/the_flaming_lips.jpg
 instruments:
-- original
-- additional
-- background vocals
-- guitar
-- keyboard
-- percussion
-- lead vocals
-last_updated: '2026-02-26T01:21:17.399580'
-members:
-- begin: '1983'
-  end: '1984'
-  instruments: []
-  mbid: cc8fcdea-8616-4575-b382-ee070de332c5
-  name: Dave Kostka
-- begin: '1983'
-  end: '1985'
-  instruments: []
-  mbid: 6440a670-2040-48de-b80d-69a1999dc773
-  name: Mark Coyne
-- begin: '1983'
-  end: '2021'
-  instruments:
   - original
-  mbid: f8bda19d-8a32-4259-86d5-4e70727ce717
-  name: Michael Ivins
-- &id001
-  begin: '1983'
-  end: ''
-  instruments:
-  - original
-  mbid: 3605db12-f361-4bbf-8aba-e258ad310561
-  name: Wayne Coyne
-- begin: '1984'
-  end: '1988'
-  instruments: []
-  mbid: 69aecf07-8ca4-4d6a-9abd-5014cc091552
-  name: Richard English
-- begin: '1988'
-  end: '1991'
-  instruments: []
-  mbid: fd36a7a9-bcfc-441c-88e1-e4949df09770
-  name: Nathan Roberts
-- begin: '1991'
-  end: '1996'
-  instruments: []
-  mbid: 465ceeea-dc37-428f-b126-70cb8033195f
-  name: Ronald Jones
-- begin: '1991'
-  end: '2024'
-  instruments: []
-  mbid: 2447560a-5c00-4b3f-9da0-f4d43f8cb12a
-  name: Steven Drozd
-- begin: '2002'
-  end: '2014'
-  instruments:
   - additional
-  mbid: 05b9d6ac-1479-40e6-a23c-6ea7b8ced6fc
-  name: Kliph Scurlock
-- &id002
-  begin: 2009-07
-  end: ''
-  instruments:
   - background vocals
   - guitar
   - keyboard
   - percussion
-  mbid: 3289e58a-9775-4f21-8253-28625a3ae19e
-  name: Derek Brown
-- begin: '2013'
-  end: '2021'
-  instruments: []
-  mbid: 9a6747f1-09a8-4d0b-a7b5-c5c8c8929bdd
-  name: Jake Ingalls
-- &id003
-  begin: '2013'
-  end: ''
-  instruments: []
-  mbid: 58dc2cf4-4e48-43df-ba1f-02336186b7da
-  name: Matt Duckworth
-- begin: '2014'
-  end: '2023'
-  instruments: []
-  mbid: ec7951b5-5b25-4658-a911-aed887286839
-  name: Nicholas Ley
-- begin: ''
-  end: '1991'
-  instruments: []
-  mbid: 4e2799f2-cae7-4ef5-9485-4dfe3042d5a5
-  name: Jonathan Donahue
+  - lead vocals
+last_updated: '2026-02-26T01:21:17.399580'
+members:
+  - begin: '1983'
+    end: '1984'
+    instruments: []
+    mbid: cc8fcdea-8616-4575-b382-ee070de332c5
+    name: Dave Kostka
+  - begin: '1983'
+    end: '1985'
+    instruments: []
+    mbid: 6440a670-2040-48de-b80d-69a1999dc773
+    name: Mark Coyne
+  - begin: '1983'
+    end: '2021'
+    instruments:
+      - original
+    mbid: f8bda19d-8a32-4259-86d5-4e70727ce717
+    name: Michael Ivins
+  - &ref_0
+    begin: '1983'
+    end: ''
+    instruments:
+      - original
+    mbid: 3605db12-f361-4bbf-8aba-e258ad310561
+    name: Wayne Coyne
+  - begin: '1984'
+    end: '1988'
+    instruments: []
+    mbid: 69aecf07-8ca4-4d6a-9abd-5014cc091552
+    name: Richard English
+  - begin: '1988'
+    end: '1991'
+    instruments: []
+    mbid: fd36a7a9-bcfc-441c-88e1-e4949df09770
+    name: Nathan Roberts
+  - begin: '1991'
+    end: '1996'
+    instruments: []
+    mbid: 465ceeea-dc37-428f-b126-70cb8033195f
+    name: Ronald Jones
+  - begin: '1991'
+    end: '2024'
+    instruments: []
+    mbid: 2447560a-5c00-4b3f-9da0-f4d43f8cb12a
+    name: Steven Drozd
+  - begin: '2002'
+    end: '2014'
+    instruments:
+      - additional
+    mbid: 05b9d6ac-1479-40e6-a23c-6ea7b8ced6fc
+    name: Kliph Scurlock
+  - &ref_1
+    begin: 2009-07
+    end: ''
+    instruments:
+      - background vocals
+      - guitar
+      - keyboard
+      - percussion
+    mbid: 3289e58a-9775-4f21-8253-28625a3ae19e
+    name: Derek Brown
+  - begin: '2013'
+    end: '2021'
+    instruments: []
+    mbid: 9a6747f1-09a8-4d0b-a7b5-c5c8c8929bdd
+    name: Jake Ingalls
+  - &ref_2
+    begin: '2013'
+    end: ''
+    instruments: []
+    mbid: 58dc2cf4-4e48-43df-ba1f-02336186b7da
+    name: Matt Duckworth
+  - begin: '2014'
+    end: '2023'
+    instruments: []
+    mbid: ec7951b5-5b25-4658-a911-aed887286839
+    name: Nicholas Ley
+  - begin: ''
+    end: '1991'
+    instruments: []
+    mbid: 4e2799f2-cae7-4ef5-9485-4dfe3042d5a5
+    name: Jonathan Donahue
 musical_connections:
   collaborators:
-  - Jonathan Donahue
-  - Steven Drozd
-  - Michael Ivins
-  - Ronald Jones
+    - Jonathan Donahue
+    - Steven Drozd
+    - Michael Ivins
+    - Ronald Jones
   influenced: []
   mentors:
-  - Dave Fridmann
+    - Dave Fridmann
 musicbrainz_id: 1f43d76f-8edf-44f6-aaf1-b65f05ad9402
 network_extracted: true
-origin: Oklahoma City
+origin: 'Oklahoma City, Oklahoma, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- https://www.milkymilkymilky.com/post/the-flaming-lips-yoshimi-two-decades-on
-- https://www.democrazy.be/artiesten/the-flaming-lips/
-- https://www.last.fm/music/The+Flaming+Lips/+wiki
-- https://relix.com/articles/detail/the-flaming-lips-were-an-american-band/
-- https://daily.redbullmusicacademy.com/2017/01/wayne-coyne-interview/
+  - 'https://www.milkymilkymilky.com/post/the-flaming-lips-yoshimi-two-decades-on'
+  - 'https://www.democrazy.be/artiesten/the-flaming-lips/'
+  - 'https://www.last.fm/music/The+Flaming+Lips/+wiki'
+  - 'https://relix.com/articles/detail/the-flaming-lips-were-an-american-band/'
+  - 'https://daily.redbullmusicacademy.com/2017/01/wayne-coyne-interview/'
 spotify_data:
   followers: 873139
   id: 16eRpMNXSQ15wuJoeqguaB
   popularity: 52
-  url: https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB
+  url: 'https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB'
 status: active
 tags:
-- alternative rock
-- experimental rock
-- indie rock
+  - alternative rock
+  - experimental rock
+  - indie rock
 title: The Flaming Lips
 ---
 

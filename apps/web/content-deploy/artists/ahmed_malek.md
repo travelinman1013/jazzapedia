@@ -2,43 +2,44 @@
 artist_type: person
 biography_enhanced_at: '2026-02-20T01:19:23.325060'
 birth_date: '1931-03-06'
-birth_place: Algiers
+birth_place: 'Algiers, Algeria, Algeria'
 death_date: '2008-07-24'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:19:23.325070'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b67690b2-a6e9-456f-b847-1d9bfbc13fbf
-  spotify: https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB
+  musicbrainz: 'https://musicbrainz.org/artist/b67690b2-a6e9-456f-b847-1d9bfbc13fbf'
+  spotify: 'https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- ethiopian jazz
+  - ethiopian jazz
 image_path: 03_Resources/source_material/ArtistPortraits/ahmed_malek.jpg
 last_updated: '2026-02-20T01:19:23.325071'
 musical_connections:
   collaborators: []
   influenced:
-  - Mulatu Astatke
-  - Bembeya Jazz National
+    - Mulatu Astatke
+    - Bembeya Jazz National
   mentors: []
 musicbrainz_id: b67690b2-a6e9-456f-b847-1d9bfbc13fbf
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Ahmed+Malek/+wiki
-- https://thequietus.com/interviews/strange-world-of/ahmed-abdul-malik/
-- http://www.nts.live/artists/31301-ahmed-malek
+  - 'https://www.last.fm/music/Ahmed+Malek/+wiki'
+  - 'https://thequietus.com/interviews/strange-world-of/ahmed-abdul-malik/'
+  - 'http://www.nts.live/artists/31301-ahmed-malek'
 spotify_data:
   followers: 44842
   id: 1F5NAWDKvoYJU3mEZQUFsB
   popularity: 39
-  url: https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB
+  url: 'https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB'
 status: active
 tags:
-- film score
-- jazz-funk
-- north african music
+  - film score
+  - jazz-funk
+  - north african music
 title: Ahmed Malek
+is_active: false
 ---
 
 ![](ahmed_malek.jpg)

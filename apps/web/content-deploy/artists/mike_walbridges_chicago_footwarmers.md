@@ -3,43 +3,52 @@ biography_enhanced_at: '2026-01-25T01:35:52.622106'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:35:52.622113'
 external_urls:
-  spotify: https://open.spotify.com/artist/2wF6ndVte8dp1faYFONfhA
+  spotify: 'https://open.spotify.com/artist/2wF6ndVte8dp1faYFONfhA'
   wikipedia: ''
 genres:
-- big band
-image_path: 03_Resources/source_material/ArtistPortraits/mike_walbridges_chicago_footwarmers.jpg
+  - big band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/mike_walbridges_chicago_footwarmers.jpg
 last_updated: '2026-01-25T01:35:52.622113'
 musical_connections:
   collaborators:
-  - Kim Cusack
-  - Eddie Lynch
-  - Glen Koch
-  - Johnny Cooper
-  - Don Stiernberg
-  - Bob Cousins
+    - Kim Cusack
+    - Eddie Lynch
+    - Glen Koch
+    - Johnny Cooper
+    - Don Stiernberg
+    - Bob Cousins
   influenced: []
   mentors: []
 network_extracted: true
-origin: Los Angeles, California, USA (birthplace); Chicago, Illinois, USA (career
+origin: >-
+  Los Angeles, California, USA (birthplace); Chicago, Illinois, USA (career
   base)
 primary_source: perplexity
 research_sources:
-- https://delmark.com/product/247/
-- https://jazztimes.com/archives/mike-walbridges-chicago-footwarmers-featuring-kim-cusack-crazy-rhythm/
-- http://inabluemood.blogspot.com/2012/10/mike-walbridges-chicago-footwarmers.html
-- https://www.jazzmusicarchives.com/artist/mike-walbridge
-- http://www.westendjazzband.com/bio_mike_tuba.htm
-- https://search.proquest.com/openview/67d7132996f4f87d8de6b4afa0ef0a96/1?pq-origsite=gscholar&cbl=25292
-- https://www.allaboutjazz.com/musicians/mike-walbridge
-- https://syncopatedtimes.com/salty-dogs-tubist-mike-walbridge-has-died/
-- https://jazzlives.wordpress.com/tag/mike-walbridge/
+  - 'https://delmark.com/product/247/'
+  - >-
+    https://jazztimes.com/archives/mike-walbridges-chicago-footwarmers-featuring-kim-cusack-crazy-rhythm/
+  - >-
+    http://inabluemood.blogspot.com/2012/10/mike-walbridges-chicago-footwarmers.html
+  - 'https://www.jazzmusicarchives.com/artist/mike-walbridge'
+  - 'http://www.westendjazzband.com/bio_mike_tuba.htm'
+  - >-
+    https://search.proquest.com/openview/67d7132996f4f87d8de6b4afa0ef0a96/1?pq-origsite=gscholar&cbl=25292
+  - 'https://www.allaboutjazz.com/musicians/mike-walbridge'
+  - 'https://syncopatedtimes.com/salty-dogs-tubist-mike-walbridge-has-died/'
+  - 'https://jazzlives.wordpress.com/tag/mike-walbridge/'
 spotify_data:
   followers: 47
   id: 2wF6ndVte8dp1faYFONfhA
   popularity: 0
-  url: https://open.spotify.com/artist/2wF6ndVte8dp1faYFONfhA
+  url: 'https://open.spotify.com/artist/2wF6ndVte8dp1faYFONfhA'
 status: active
 title: Mike Walbridge's Chicago Footwarmers
+birth_place: 'Los Angeles, California, United States'
+birth_date: '1937'
+death_date: '2021-11-20'
+artist_type: person
 ---
 
 ![](mike_walbridges_chicago_footwarmers.jpg)

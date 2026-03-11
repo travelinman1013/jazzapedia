@@ -1,54 +1,57 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 590ee19c-ff0b-4c02-bc7d-a81729717ba5
-  name: Visna Mahedi Ensemble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 590ee19c-ff0b-4c02-bc7d-a81729717ba5
+    name: Visna Mahedi Ensemble
 biography_enhanced_at: '2026-01-23T01:51:38.990935'
 birth_date: '1956-03-27'
-birth_place: Milano
+birth_place: 'Milan, Lombardy, Italy'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:51:38.990940'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/de618039-2f6d-40cc-a110-8ab029933e83
-  spotify: https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw
+  musicbrainz: 'https://musicbrainz.org/artist/de618039-2f6d-40cc-a110-8ab029933e83'
+  spotify: 'https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw'
   wikipedia: ''
 gender: Male
 genres:
-- free jazz
+  - free jazz
 image_path: 03_Resources/source_material/ArtistPortraits/roberto_musci.jpg
 last_updated: '2026-01-23T01:51:38.990941'
 musical_connections:
   collaborators:
-  - Giovanni Venosta
-  - Chris Cutler
-  - Jon Rose
-  - Keith Tippett
-  - Daniele Cavallanti
+    - Giovanni Venosta
+    - Chris Cutler
+    - Jon Rose
+    - Keith Tippett
+    - Daniele Cavallanti
   influenced: []
   mentors:
-  - Pierre Schaeffer
+    - Pierre Schaeffer
 musicbrainz_id: de618039-2f6d-40cc-a110-8ab029933e83
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Roberto+Musci/+wiki
-- https://www.psychedelicbabymag.com/2025/03/roberto-musci-interview.html
-- https://www.oxmose.com/artists/roberto-musci
-- http://www.nts.live/artists/9833-roberto-musci
-- https://insheepsclothinghifi.com/roberto-musci/
-- https://www.squidco.com/miva/merchant.mvc?Screen=PROD&Store_Code=S&Product_Code=26090&Category_Code=
-- https://www.musicmetricsvault.com/artists/roberto-musci/1HSz5qiRNcs8eJ0Sp2LOxw
-- https://www.soundohm.com/artist/roberto-musci?layout=list
-- https://sites.google.com/view/robertomusci/
-- https://blogthehum.com/2017/08/30/on-four-essential-reissues-from-the-1980s-italian-avant-garde-by-soave-roberto-muscis-the-loa-of-music-riccardo-sinigaglia-riflessi-giovanni-venostas-olympic-signals-and-arturo-stalteris/
+  - 'https://www.last.fm/music/Roberto+Musci/+wiki'
+  - 'https://www.psychedelicbabymag.com/2025/03/roberto-musci-interview.html'
+  - 'https://www.oxmose.com/artists/roberto-musci'
+  - 'http://www.nts.live/artists/9833-roberto-musci'
+  - 'https://insheepsclothinghifi.com/roberto-musci/'
+  - >-
+    https://www.squidco.com/miva/merchant.mvc?Screen=PROD&Store_Code=S&Product_Code=26090&Category_Code=
+  - >-
+    https://www.musicmetricsvault.com/artists/roberto-musci/1HSz5qiRNcs8eJ0Sp2LOxw
+  - 'https://www.soundohm.com/artist/roberto-musci?layout=list'
+  - 'https://sites.google.com/view/robertomusci/'
+  - >-
+    https://blogthehum.com/2017/08/30/on-four-essential-reissues-from-the-1980s-italian-avant-garde-by-soave-roberto-muscis-the-loa-of-music-riccardo-sinigaglia-riflessi-giovanni-venostas-olympic-signals-and-arturo-stalteris/
 spotify_data:
   followers: 28512
   id: 1HSz5qiRNcs8eJ0Sp2LOxw
   popularity: 37
-  url: https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw
+  url: 'https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw'
 status: active
 title: Roberto Musci
 ---

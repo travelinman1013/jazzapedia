@@ -1,47 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-28T01:54:00.836388'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:54:00.836395'
 external_urls:
-  spotify: https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw
+  spotify: 'https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw'
   wikipedia: ''
 genres:
-- doo-wop
-- boogie-woogie
-- swing music
+  - doo-wop
+  - boogie-woogie
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/laverne_baker.jpg
 last_updated: '2026-01-28T01:54:00.836397'
 musical_connections:
   collaborators:
-  - The Cues
-  - The Gliders
-  - Chuck Berry
-  - Fats Domino
+    - The Cues
+    - The Gliders
+    - Chuck Berry
+    - Fats Domino
   influenced:
-  - Johnnie Ray
-  - Tina Turner
-  - Aretha Franklin
-  - Diana Ross
+    - Johnnie Ray
+    - Tina Turner
+    - Aretha Franklin
+    - Diana Ross
   mentors:
-  - Minnie Hicks (Cornshucks)
-  - Billie Holiday
+    - Minnie Hicks (Cornshucks)
+    - Billie Holiday
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://teachrock.org/people/baker-lavern/
-- https://www.britannica.com/biography/LaVern-Baker
-- https://www.blackmusicproject.com/artists/lavern-baker
-- https://www.ideastream.org/2025-08-28/roots-of-r-b-singer-lavern-baker
-- https://www.vintagerockmag.com/2023/09/lavern-baker/
-- https://blackpast.org/african-american-history/baker-lavern-1929-1997/
+  - 'https://teachrock.org/people/baker-lavern/'
+  - 'https://www.britannica.com/biography/LaVern-Baker'
+  - 'https://www.blackmusicproject.com/artists/lavern-baker'
+  - 'https://www.ideastream.org/2025-08-28/roots-of-r-b-singer-lavern-baker'
+  - 'https://www.vintagerockmag.com/2023/09/lavern-baker/'
+  - 'https://blackpast.org/african-american-history/baker-lavern-1929-1997/'
 spotify_data:
   followers: 56078
   id: 0V6zo2mJw9FdwWLClKC9yw
   popularity: 46
-  url: https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw
+  url: 'https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw'
 status: active
 title: LaVerne Baker
+birth_date: '1929-11-11'
+artist_type: person
 ---
 
 ![](laverne_baker.jpg)

@@ -1,42 +1,44 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-18T01:34:56.742241'
-disambiguation: Indie rock band from Orlando, FL
+disambiguation: 'Indie rock band from Orlando, FL'
 enhancement_provider: perplexity
 entry_created: '2026-02-18T01:34:56.742263'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/46ae3ad0-083b-4fec-9250-05be097ee3ec
-  spotify: https://open.spotify.com/artist/09AdgPWIR4dt1Cno6ZfIZh
+  musicbrainz: 'https://musicbrainz.org/artist/46ae3ad0-083b-4fec-9250-05be097ee3ec'
+  spotify: 'https://open.spotify.com/artist/09AdgPWIR4dt1Cno6ZfIZh'
   wikipedia: ''
 genres:
-- math rock
-- midwest emo
+  - math rock
+  - midwest emo
 image_path: 03_Resources/source_material/ArtistPortraits/henrietta.jpg
 last_updated: '2026-02-18T01:34:56.742264'
 musical_connections:
   collaborators:
-  - Lead Belly
-  - Woody Guthrie
-  - Pete Seeger
-  - Alan Lomax
+    - Lead Belly
+    - Woody Guthrie
+    - Pete Seeger
+    - Alan Lomax
   influenced:
-  - City College ethnomusicology students
+    - City College ethnomusicology students
   mentors:
-  - Charles Seeger
+    - Charles Seeger
 musicbrainz_id: 46ae3ad0-083b-4fec-9250-05be097ee3ec
 network_extracted: true
-origin: New York, NY, USA
+origin: 'New York, NY, USA'
 primary_source: perplexity
 research_sources:
-- http://www.downhomeradioshow.com/henrietta-yurchenco-1916-2007/
-- https://www.amny.com/news/henrietta-yurchenco-folk-pioneer-ethnomusicologist-90/
+  - 'http://www.downhomeradioshow.com/henrietta-yurchenco-1916-2007/'
+  - >-
+    https://www.amny.com/news/henrietta-yurchenco-folk-pioneer-ethnomusicologist-90/
 spotify_data:
   followers: 921
   id: 09AdgPWIR4dt1Cno6ZfIZh
   popularity: 2
-  url: https://open.spotify.com/artist/09AdgPWIR4dt1Cno6ZfIZh
+  url: 'https://open.spotify.com/artist/09AdgPWIR4dt1Cno6ZfIZh'
 status: active
 title: Henrietta
+birth_place: 'New York, New York, United States'
 ---
 
 ![](henrietta.jpg)

@@ -3,40 +3,41 @@ biography_enhanced_at: '2026-02-17T01:19:59.876156'
 enhancement_provider: perplexity
 entry_created: '2026-02-17T01:19:59.876172'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/635035a3-9781-4e1e-ab8a-5d9fdfb077bc
-  spotify: https://open.spotify.com/artist/0DEOrDVUu7heHem7qCB9bH
+  musicbrainz: 'https://musicbrainz.org/artist/635035a3-9781-4e1e-ab8a-5d9fdfb077bc'
+  spotify: 'https://open.spotify.com/artist/0DEOrDVUu7heHem7qCB9bH'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
-- brass band
+  - cajun
+  - zydeco
+  - brass band
 image_path: ''
 last_updated: '2026-02-17T01:19:59.876175'
 musical_connections:
   collaborators:
-  - Wild Magnolias
-  - Monk Boudreaux
+    - Wild Magnolias
+    - Monk Boudreaux
   influenced: []
   mentors:
-  - Willie Tee
+    - Willie Tee
 musicbrainz_id: 635035a3-9781-4e1e-ab8a-5d9fdfb077bc
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- http://blog.carnivalneworleans.com/?tag=june-victory-the-bayou-renegades
-- https://jaymazza.substack.com/p/mardi-gras-indian-guitarist-june
-- https://jaymazza.substack.com/p/jazz-fest-2025-recap-part-3
-- https://mardigrastraditions.com/jazz-fest-2022/
-- http://blog.carnivalneworleans.com/?cat=800
-- https://www.offbeat.com/issues/march-1998/
+  - 'http://blog.carnivalneworleans.com/?tag=june-victory-the-bayou-renegades'
+  - 'https://jaymazza.substack.com/p/mardi-gras-indian-guitarist-june'
+  - 'https://jaymazza.substack.com/p/jazz-fest-2025-recap-part-3'
+  - 'https://mardigrastraditions.com/jazz-fest-2022/'
+  - 'http://blog.carnivalneworleans.com/?cat=800'
+  - 'https://www.offbeat.com/issues/march-1998/'
 spotify_data:
   followers: 67
   id: 0DEOrDVUu7heHem7qCB9bH
   popularity: 3
-  url: https://open.spotify.com/artist/0DEOrDVUu7heHem7qCB9bH
+  url: 'https://open.spotify.com/artist/0DEOrDVUu7heHem7qCB9bH'
 status: active
 title: Bayou Renegade Indians
+artist_type: band
 ---
 
 ![]()

@@ -1,44 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-27T01:53:25.396857'
-birth_place: 'Appalachian foothills, USA (raised); bicoastal: New London, CT and New
-  Orleans, LA, USA (current)'
+birth_place: >-
+  Appalachian foothills, USA (raised); bicoastal: New London, CT and New
+  Orleans, LA, USA (current)
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:53:25.396862'
 external_urls:
-  spotify: https://open.spotify.com/artist/6GwNFgCcM5Th1KMjfuZRUm
+  spotify: 'https://open.spotify.com/artist/6GwNFgCcM5Th1KMjfuZRUm'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/daphne_parker_powell.jpg
 last_updated: '2026-01-27T01:53:25.396862'
 musical_connections:
   collaborators:
-  - Kieren Ledwidge
-  - Jimbo Mathus
-  - Mike Napolitano
-  - Duane Lundy
-  - Eric “Roscoe” Ambel
+    - Kieren Ledwidge
+    - Jimbo Mathus
+    - Mike Napolitano
+    - Duane Lundy
+    - Eric “Roscoe” Ambel
   influenced: []
   mentors:
-  - Joni Mitchell
+    - Joni Mitchell
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://magnetmagazine.com/2026/01/22/magnet-exclusive-premiere-of-daphne-parker-powells-scorched-earth-the-flood/
-- https://bigtakeover.com/profiles/DaphneParkerPowellASoulfulandStorytellingmultimediaartist
-- https://www.kidsmart.org/daphne-powell
-- https://zomagazine.com/daphne-parker-powell-interview/
-- https://www.15questions.net/interview/daphne-parker-powell-shares-her-creative-process/
-- https://app.stagetime.com/artists/daphne-powell
-- https://thebluegrasssituation.com/read/listen-daphne-parker-powell-carry-my-cage/
-- https://purplefiddle.com/bands/daphne-parker-powell/
-- https://www.daphneparkerpowell.com
+  - >-
+    https://magnetmagazine.com/2026/01/22/magnet-exclusive-premiere-of-daphne-parker-powells-scorched-earth-the-flood/
+  - >-
+    https://bigtakeover.com/profiles/DaphneParkerPowellASoulfulandStorytellingmultimediaartist
+  - 'https://www.kidsmart.org/daphne-powell'
+  - 'https://zomagazine.com/daphne-parker-powell-interview/'
+  - >-
+    https://www.15questions.net/interview/daphne-parker-powell-shares-her-creative-process/
+  - 'https://app.stagetime.com/artists/daphne-powell'
+  - >-
+    https://thebluegrasssituation.com/read/listen-daphne-parker-powell-carry-my-cage/
+  - 'https://purplefiddle.com/bands/daphne-parker-powell/'
+  - 'https://www.daphneparkerpowell.com'
 spotify_data:
   followers: 101
   id: 6GwNFgCcM5Th1KMjfuZRUm
   popularity: 0
-  url: https://open.spotify.com/artist/6GwNFgCcM5Th1KMjfuZRUm
+  url: 'https://open.spotify.com/artist/6GwNFgCcM5Th1KMjfuZRUm'
 status: active
 title: Daphne Parker Powell
+origin: 'New London, CT, United States'
+artist_type: person
 ---
 
 ![](daphne_parker_powell.jpg)

@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-28T01:49:59.478893'
-birth_place: New York, United States
+birth_place: 'New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:49:59.478902'
 external_urls:
-  spotify: https://open.spotify.com/artist/74IIqlVQQmvf04EHOI6yKh
-  wikipedia: https://en.wikipedia.org/wiki/Richard_Cheese
+  spotify: 'https://open.spotify.com/artist/74IIqlVQQmvf04EHOI6yKh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Richard_Cheese'
 genres:
-- comedy
-- swing music
+  - comedy
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/richard_cheese.jpg
 last_updated: '2026-02-28T01:49:59.478904'
 musical_connections:
   collaborators:
-  - Noel Melanio
-  - Ron Belcher
-  - Brian Fishler
-  - Brian Setzer
+    - Noel Melanio
+    - Ron Belcher
+    - Brian Fishler
+    - Brian Setzer
   influenced: []
   mentors:
-  - Frank Sinatra
-  - Mel Tormé
-  - Nat King Cole
+    - Frank Sinatra
+    - Mel Tormé
+    - Nat King Cole
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://richardcheese.com/media-presskit--bio.html
-- https://www.famousbirthdays.com/people/richard-cheese.html
-- https://en.wikipedia.org/wiki/Richard_Cheese
-- http://richardcheese.com/rcbnw.html
-- https://www.jango.com/music/Richard+Cheese/_full_bio
+  - 'https://richardcheese.com/media-presskit--bio.html'
+  - 'https://www.famousbirthdays.com/people/richard-cheese.html'
+  - 'https://en.wikipedia.org/wiki/Richard_Cheese'
+  - 'http://richardcheese.com/rcbnw.html'
+  - 'https://www.jango.com/music/Richard+Cheese/_full_bio'
 spotify_data:
   followers: 343074
   id: 74IIqlVQQmvf04EHOI6yKh
   popularity: 44
-  url: https://open.spotify.com/artist/74IIqlVQQmvf04EHOI6yKh
+  url: 'https://open.spotify.com/artist/74IIqlVQQmvf04EHOI6yKh'
 status: active
-title: richard cheese
+title: Richard Cheese
+birth_date: '1965-11-27'
+artist_type: person
 ---
 
 ![](richard_cheese.jpg)

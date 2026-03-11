@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-03-08T03:00:58.378375'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:00:58.378390'
 external_urls:
-  spotify: https://open.spotify.com/artist/1YNgPEptFrgLHXgES9OBsp
+  spotify: 'https://open.spotify.com/artist/1YNgPEptFrgLHXgES9OBsp'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ricardo_severo.jpg
@@ -15,16 +15,17 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.sempreartists.com/ricardo-jose-rivera
-- https://mabumbe.com/music/artist/23731825/ricardo-severo
-- https://www.filmbooster.com/creator/633664-ricardo-severo/biography/
+  - 'https://www.sempreartists.com/ricardo-jose-rivera'
+  - 'https://mabumbe.com/music/artist/23731825/ricardo-severo'
+  - 'https://www.filmbooster.com/creator/633664-ricardo-severo/biography/'
 spotify_data:
   followers: 392
   id: 1YNgPEptFrgLHXgES9OBsp
   popularity: 5
-  url: https://open.spotify.com/artist/1YNgPEptFrgLHXgES9OBsp
+  url: 'https://open.spotify.com/artist/1YNgPEptFrgLHXgES9OBsp'
 status: active
 title: Ricardo Severo
+artist_type: person
 ---
 
 ![](ricardo_severo.jpg)

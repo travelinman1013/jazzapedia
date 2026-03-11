@@ -1,51 +1,57 @@
 ---
 biography_enhanced_at: '2026-02-27T01:36:13.192257'
-birth_place: Baton Rouge, LA, USA
-disambiguation: Pokey Bear, the performing name for Houston-born Wardell Brown, shifted
-  from years as a rapper with DJ Screw to Southern soul and rhythm-and-blues
+birth_place: 'Baton Rouge, LA, USA'
+disambiguation: >-
+  Pokey Bear, the performing name for Houston-born Wardell Brown, shifted from
+  years as a rapper with DJ Screw to Southern soul and rhythm-and-blues
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:36:13.192267'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f321963f-feb0-437b-8874-e62144abb434
-  spotify: https://open.spotify.com/artist/1LbhYtMUmJmv1B6U0eU7VC
+  musicbrainz: 'https://musicbrainz.org/artist/f321963f-feb0-437b-8874-e62144abb434'
+  spotify: 'https://open.spotify.com/artist/1LbhYtMUmJmv1B6U0eU7VC'
   wikipedia: ''
 genres:
-- zydeco
-- blues
-- footwork
+  - zydeco
+  - blues
+  - footwork
 image_path: 03_Resources/source_material/ArtistPortraits/pokey_bear.jpg
 last_updated: '2026-02-27T01:36:13.192269'
 musical_connections:
   collaborators:
-  - Tyree Neal
-  - Adrian Bagher
-  - Mystikal
+    - Tyree Neal
+    - Adrian Bagher
+    - Mystikal
   influenced: []
   mentors:
-  - DJ Screw
-  - Beat Flippa
-  - Highway Heavy
+    - DJ Screw
+    - Beat Flippa
+    - Highway Heavy
 musicbrainz_id: f321963f-feb0-437b-8874-e62144abb434
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.famousbirthdays.com/people/pokey-bear.html
-- https://www.southernsoulrnb.com/artistguide.cfm?aid=613
-- https://explore.st-aug.edu/exp/pokey-bear-age-wiki-net-worth-bio-height-girlfriend
-- https://soulbluesmusic.com/pokeybearpage.htm
-- https://www.southernsoulrnb.com/artistguide.cfm?aid=668
-- https://www.mobilecivicctr.com/news/detail/port-city-blues-festival
-- https://www.altriatheater.com/news/detail/the-blues-is-alright-tour-comes-to-richmond
-- https://www.sevenvenues.com/events/detail/blues-festival-2
-- https://www.yuenglingcenter.com/news/detail/release-king-george-tucka-pokey-bear-and-more-bring-the-blues-is-alright-tour-to-tampa
-- https://www.allmusic.com/artist/pokey-bear-mn0003481069
+  - 'https://www.famousbirthdays.com/people/pokey-bear.html'
+  - 'https://www.southernsoulrnb.com/artistguide.cfm?aid=613'
+  - >-
+    https://explore.st-aug.edu/exp/pokey-bear-age-wiki-net-worth-bio-height-girlfriend
+  - 'https://soulbluesmusic.com/pokeybearpage.htm'
+  - 'https://www.southernsoulrnb.com/artistguide.cfm?aid=668'
+  - 'https://www.mobilecivicctr.com/news/detail/port-city-blues-festival'
+  - >-
+    https://www.altriatheater.com/news/detail/the-blues-is-alright-tour-comes-to-richmond
+  - 'https://www.sevenvenues.com/events/detail/blues-festival-2'
+  - >-
+    https://www.yuenglingcenter.com/news/detail/release-king-george-tucka-pokey-bear-and-more-bring-the-blues-is-alright-tour-to-tampa
+  - 'https://www.allmusic.com/artist/pokey-bear-mn0003481069'
 spotify_data:
   followers: 48428
   id: 1LbhYtMUmJmv1B6U0eU7VC
   popularity: 34
-  url: https://open.spotify.com/artist/1LbhYtMUmJmv1B6U0eU7VC
+  url: 'https://open.spotify.com/artist/1LbhYtMUmJmv1B6U0eU7VC'
 status: active
-title: POKEY BEAR
+title: Pokey Bear
+birth_date: '1970-02-02'
+artist_type: person
 ---
 
 ![](pokey_bear.jpg)

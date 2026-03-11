@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2026-03-10T01:13:53.879472'
-birth_place: Glendora, Mississippi, USA
+birth_place: 'Glendora, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-10T01:13:53.879479'
 external_urls:
-  spotify: https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK
+  spotify: 'https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK'
   wikipedia: ''
 genres:
-- blues
-- classic blues
-- country blues
-- blues rock
+  - blues
+  - classic blues
+  - country blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/sonny_boy_williamson_ii.jpg
 last_updated: '2026-03-10T01:13:53.879481'
 musical_connections:
   collaborators:
-  - Robert Lockwood Jr.
-  - Robert Johnson
-  - Howlin' Wolf
-  - Elmore James
-  - Sunnyland Slim
+    - Robert Lockwood Jr.
+    - Robert Johnson
+    - Howlin' Wolf
+    - Elmore James
+    - Sunnyland Slim
   influenced:
-  - Junior Wells
-  - Little Walter
+    - Junior Wells
+    - Little Walter
   mentors:
-  - Sleepy John Estes
+    - Sleepy John Estes
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/sonny-boy-williamson-ii
-- https://encyclopediaofarkansas.net/entries/sonny-boy-williamson-ii-1798/
-- https://www.mswritersandmusicians.com/mississippi-musicians/sonny-boy-williamson-ii
-- https://blues.org/blues_hof_inductee/sonny-boy-williamson-no-2-rice-miller/
-- https://www.udiscovermusic.com/stories/mystery-sonny-boy-williamson/
+  - 'https://www.ebsco.com/research-starters/history/sonny-boy-williamson-ii'
+  - 'https://encyclopediaofarkansas.net/entries/sonny-boy-williamson-ii-1798/'
+  - >-
+    https://www.mswritersandmusicians.com/mississippi-musicians/sonny-boy-williamson-ii
+  - 'https://blues.org/blues_hof_inductee/sonny-boy-williamson-no-2-rice-miller/'
+  - 'https://www.udiscovermusic.com/stories/mystery-sonny-boy-williamson/'
 spotify_data:
   followers: 203243
   id: 69VgCcXFV59QuQWEXSTxfK
   popularity: 44
-  url: https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK
+  url: 'https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK'
 status: active
 title: Sonny Boy Williamson II
+artist_type: person
 ---
 
 ![](sonny_boy_williamson_ii.jpg)

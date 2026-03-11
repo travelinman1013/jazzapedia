@@ -2,41 +2,43 @@
 artist_type: person
 biography_enhanced_at: '2026-02-20T01:24:25.051442'
 birth_date: '1948-06-02'
-birth_place: Zaire
+birth_place: 'Mbanza Congo, Zaire Province, Angola'
 death_date: '2008-07-14'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:24:25.051451'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/41a1128d-5d13-4312-b7ea-81d359ed44d6
-  spotify: https://open.spotify.com/artist/73WKmVyZVoX6HEonRILp0b
-  wikipedia: https://en.wikipedia.org/wiki/Teta_Lando
+  musicbrainz: 'https://musicbrainz.org/artist/41a1128d-5d13-4312-b7ea-81d359ed44d6'
+  spotify: 'https://open.spotify.com/artist/73WKmVyZVoX6HEonRILp0b'
+  wikipedia: 'https://en.wikipedia.org/wiki/Teta_Lando'
 gender: Male
 genres:
-- kizomba
+  - kizomba
 image_path: 03_Resources/source_material/ArtistPortraits/teta_lando.jpg
 last_updated: '2026-02-20T01:24:25.051453'
 musical_connections:
   collaborators:
-  - Massano Júnior
+    - Massano Júnior
   influenced: []
   mentors: []
 musicbrainz_id: 41a1128d-5d13-4312-b7ea-81d359ed44d6
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Teta_Lando
-- https://www.africa-press.net/angola/all-news/teta-landos-hits-in-the-repertoire-of-the-special-sunday-in-our-way
-- https://saidadance.com/category/kizomba/
-- https://saidadance.com/category/angola/
-- https://allafrica.com/stories/201009290156.html
-- https://afropop.org/articles/hip-deep-angola-press-release
+  - 'https://en.wikipedia.org/wiki/Teta_Lando'
+  - >-
+    https://www.africa-press.net/angola/all-news/teta-landos-hits-in-the-repertoire-of-the-special-sunday-in-our-way
+  - 'https://saidadance.com/category/kizomba/'
+  - 'https://saidadance.com/category/angola/'
+  - 'https://allafrica.com/stories/201009290156.html'
+  - 'https://afropop.org/articles/hip-deep-angola-press-release'
 spotify_data:
   followers: 17021
   id: 73WKmVyZVoX6HEonRILp0b
   popularity: 17
-  url: https://open.spotify.com/artist/73WKmVyZVoX6HEonRILp0b
+  url: 'https://open.spotify.com/artist/73WKmVyZVoX6HEonRILp0b'
 status: active
 title: Teta Lando
+is_active: false
 ---
 
 ![](teta_lando.jpg)

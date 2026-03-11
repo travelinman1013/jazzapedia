@@ -1,68 +1,71 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2005'
-  end: ''
-  instruments: []
-  mbid: ff9ef2ef-73a6-496c-8528-4b12b21afbfd
-  name: The Slits
+  - begin: '2005'
+    end: ''
+    instruments: []
+    mbid: ff9ef2ef-73a6-496c-8528-4b12b21afbfd
+    name: The Slits
 biography_enhanced_at: '2026-02-23T03:06:50.513982'
 birth_date: '1986'
-birth_place: London
+birth_place: 'West London, England, United Kingdom'
 disambiguation: reggae vocalist
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:06:50.513991'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/806139a2-556b-45d8-bc5e-93e3d898e4ad
-  spotify: https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE
-  wikipedia: https://en.wikipedia.org/wiki/Hollie_Cook
+  musicbrainz: 'https://musicbrainz.org/artist/806139a2-556b-45d8-bc5e-93e3d898e4ad'
+  spotify: 'https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hollie_Cook'
 gender: Female
 genres:
-- reggae
-- dub
-- roots reggae
-- rocksteady
+  - reggae
+  - dub
+  - roots reggae
+  - rocksteady
 image_path: 03_Resources/source_material/ArtistPortraits/hollie_cook.jpg
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 last_updated: '2026-02-23T03:06:50.513993'
 musical_connections:
   collaborators:
-  - Prince Fatty (Mike Pelanconi)
-  - The Slits
-  - George Dekker
-  - Dennis Bovell
-  - Ian Brown
-  - Jamie T
-  - Jah Wobble
-  - Alex Paterson
-  - Martin 'Youth' Glover
+    - Prince Fatty (Mike Pelanconi)
+    - The Slits
+    - George Dekker
+    - Dennis Bovell
+    - Ian Brown
+    - Jamie T
+    - Jah Wobble
+    - Alex Paterson
+    - Martin 'Youth' Glover
   influenced: []
   mentors:
-  - Janet Kay
-  - Phyllis Dillon
+    - Janet Kay
+    - Phyllis Dillon
 musicbrainz_id: 806139a2-556b-45d8-bc5e-93e3d898e4ad
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hollie_Cook
-- https://www.thedeafinstitute.co.uk/event/hollie-cook/
-- https://www.blackhistorymonth.org.uk/article/listings/region/manchester/hollie-cook/
-- https://us.mrbongo.com/collections/hollie-cook
-- https://thisisnoelphillips.wordpress.com/2013/03/17/exclusive-interview-meet-hollie-paul-cooks-sweet-voiced-rocksteady-daughter/
-- https://thepier.org/interview-hollie-cook/
-- https://www.songlines.co.uk/review/hollie-cook
+  - 'https://en.wikipedia.org/wiki/Hollie_Cook'
+  - 'https://www.thedeafinstitute.co.uk/event/hollie-cook/'
+  - >-
+    https://www.blackhistorymonth.org.uk/article/listings/region/manchester/hollie-cook/
+  - 'https://us.mrbongo.com/collections/hollie-cook'
+  - >-
+    https://thisisnoelphillips.wordpress.com/2013/03/17/exclusive-interview-meet-hollie-paul-cooks-sweet-voiced-rocksteady-daughter/
+  - 'https://thepier.org/interview-hollie-cook/'
+  - 'https://www.songlines.co.uk/review/hollie-cook'
 spotify_data:
   followers: 121145
   id: 1fwuUuFbqXJx3B17PUhFCE
   popularity: 49
-  url: https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE
+  url: 'https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE'
 status: active
 tags:
-- reggae
-- tropical pop
+  - reggae
+  - tropical pop
 title: Hollie Cook
+origin: 'West London, England, United Kingdom'
 ---
 
 ![](hollie_cook.jpg)

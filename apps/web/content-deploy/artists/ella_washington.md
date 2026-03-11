@@ -1,36 +1,39 @@
 ---
 biography_enhanced_at: '2026-01-30T01:20:10.631331'
-birth_place: Miami, Florida, United States
+birth_place: 'Miami, Florida, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:20:10.631341'
 external_urls:
-  spotify: https://open.spotify.com/artist/4IJouZNBBYaHVRJnLXPfta
-  wikipedia: https://en.wikipedia.org/wiki/Ella_Washington
+  spotify: 'https://open.spotify.com/artist/4IJouZNBBYaHVRJnLXPfta'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ella_Washington'
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/ella_washington.jpg
 last_updated: '2026-01-30T01:20:10.631343'
 musical_connections:
   collaborators:
-  - John Richbourg
+    - John Richbourg
   influenced: []
   mentors:
-  - John Richbourg
+    - John Richbourg
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Ella+Washington/+wiki
-- https://kids.kiddle.co/Ella_Washington
-- https://www.last.fm/music/Ella+Washington
-- https://www.allmusic.com/artist/ella-washington-mn0000799373
-- https://portal.bazeuniversity.edu.ng/tour/index.html?pano=data%3Atext%2Fxml%2C%3Ckrpano+onstart%3D%22loadpano%28%27%2F%5C%2Fp6.pics%2Fp%2F264652756%27%29%3B%22%3E%3C%2Fkrpano%3E
+  - 'https://www.last.fm/music/Ella+Washington/+wiki'
+  - 'https://kids.kiddle.co/Ella_Washington'
+  - 'https://www.last.fm/music/Ella+Washington'
+  - 'https://www.allmusic.com/artist/ella-washington-mn0000799373'
+  - >-
+    https://portal.bazeuniversity.edu.ng/tour/index.html?pano=data%3Atext%2Fxml%2C%3Ckrpano+onstart%3D%22loadpano%28%27%2F%5C%2Fp6.pics%2Fp%2F264652756%27%29%3B%22%3E%3C%2Fkrpano%3E
 spotify_data:
   followers: 1675
   id: 4IJouZNBBYaHVRJnLXPfta
   popularity: 6
-  url: https://open.spotify.com/artist/4IJouZNBBYaHVRJnLXPfta
+  url: 'https://open.spotify.com/artist/4IJouZNBBYaHVRJnLXPfta'
 status: active
-title: ella washington
+title: Ella Washington
+birth_date: '1943-10-25'
+artist_type: person
 ---
 
 ![](ella_washington.jpg)

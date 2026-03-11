@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-02T01:45:42.995490'
-birth_place: Lafayette, Louisiana, USA
+birth_place: 'Lafayette, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:45:42.995499'
 external_urls:
-  spotify: https://open.spotify.com/artist/1bC2cVYC5eepHEYbqCcVpU
+  spotify: 'https://open.spotify.com/artist/1bC2cVYC5eepHEYbqCcVpU'
   wikipedia: ''
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/zydeco_joe.jpg
 last_updated: '2026-02-02T01:45:42.995501'
 musical_connections:
   collaborators:
-  - Rockin' Dopsie
-  - Debra Kennedy
-  - Junius Antoine
-  - T-Don Landry
-  - Johnny Batiste
+    - Rockin' Dopsie
+    - Debra Kennedy
+    - Junius Antoine
+    - T-Don Landry
+    - Johnny Batiste
   influenced: []
   mentors:
-  - Clifton Chenier
+    - Clifton Chenier
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Walker_(Zydeco)
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/zydecojoe.htm.html
-- https://www.acadianmuseum.com/living-legend/zydeco-joe-mouton/
-- https://www.allmusic.com/artist/zydeco-joe-mn0000814882
+  - 'https://en.wikipedia.org/wiki/Joe_Walker_(Zydeco)'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/zydecojoe.htm.html
+  - 'https://www.acadianmuseum.com/living-legend/zydeco-joe-mouton/'
+  - 'https://www.allmusic.com/artist/zydeco-joe-mn0000814882'
 spotify_data:
   followers: 578
   id: 1bC2cVYC5eepHEYbqCcVpU
   popularity: 2
-  url: https://open.spotify.com/artist/1bC2cVYC5eepHEYbqCcVpU
+  url: 'https://open.spotify.com/artist/1bC2cVYC5eepHEYbqCcVpU'
 status: active
 title: Zydeco Joe
+birth_date: '1943-10-25'
+artist_type: person
 ---
 
 ![](zydeco_joe.jpg)

@@ -2,66 +2,66 @@
 artist_type: person
 biography_enhanced_at: '2026-02-13T01:27:43.343978'
 birth_date: '1970-09-23'
-birth_place: Buffalo
+birth_place: 'Buffalo, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:27:43.343988'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a7bdc71f-697a-45d9-92b2-a01fbbe50272
-  spotify: https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD
-  wikipedia: https://en.wikipedia.org/wiki/Ani_DiFranco
+  musicbrainz: 'https://musicbrainz.org/artist/a7bdc71f-697a-45d9-92b2-a01fbbe50272'
+  spotify: 'https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ani_DiFranco'
 gender: Female
 genres:
-- anti-folk
-- singer-songwriter
+  - anti-folk
+  - singer-songwriter
 image_path: 03_Resources/source_material/ArtistPortraits/ani_difranco.jpg
 instruments:
-- guitar
-- tenor guitar
-- bass guitar
-- acoustic guitar
-- electric guitar
-- steel guitar
-- 12 string guitar
-- baritone guitar
-- lead vocals
-- background vocals
+  - guitar
+  - tenor guitar
+  - bass guitar
+  - acoustic guitar
+  - electric guitar
+  - steel guitar
+  - 12 string guitar
+  - baritone guitar
+  - lead vocals
+  - background vocals
 last_updated: '2026-02-13T01:27:43.343990'
 musical_connections:
   collaborators:
-  - Andy Stochansky
-  - Sara Lee
-  - Maceo Parker
-  - Joe Henry
-  - Margaret Cho
+    - Andy Stochansky
+    - Sara Lee
+    - Maceo Parker
+    - Joe Henry
+    - Margaret Cho
   influenced:
-  - Dan Bern
-  - Peter Mulvey
-  - Hamell on Trial
+    - Dan Bern
+    - Peter Mulvey
+    - Hamell on Trial
   mentors:
-  - Sekou Sundiata
-  - Utah Phillips
+    - Sekou Sundiata
+    - Utah Phillips
 musicbrainz_id: a7bdc71f-697a-45d9-92b2-a01fbbe50272
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ani_DiFranco
-- https://www.righteousbabe.com/pages/ani-biography
-- https://collectivespeakers.com/speakers/ani-difranco/
-- https://www.innerviews.org/inner/difranco-2
-- https://www.laphil.com/musicdb/artists/8323/ani-difranco
-- https://www.coffeehouseguitars.co.uk/pages/guitarist/ani-difranco
-- https://www.infoplease.com/biographies/art-entertainment/ani-difranco
-- https://wers.org/ani-difranco-interview/
+  - 'https://en.wikipedia.org/wiki/Ani_DiFranco'
+  - 'https://www.righteousbabe.com/pages/ani-biography'
+  - 'https://collectivespeakers.com/speakers/ani-difranco/'
+  - 'https://www.innerviews.org/inner/difranco-2'
+  - 'https://www.laphil.com/musicdb/artists/8323/ani-difranco'
+  - 'https://www.coffeehouseguitars.co.uk/pages/guitarist/ani-difranco'
+  - 'https://www.infoplease.com/biographies/art-entertainment/ani-difranco'
+  - 'https://wers.org/ani-difranco-interview/'
 spotify_data:
   followers: 270120
   id: 0AiTwNtYX8m4uhfU7rJ8RD
   popularity: 44
-  url: https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD
+  url: 'https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD'
 status: active
 tags:
-- american
-- folk
-- urban folk
+  - american
+  - folk
+  - urban folk
 title: Ani Difranco
 ---
 

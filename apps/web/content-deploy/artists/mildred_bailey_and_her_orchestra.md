@@ -1,44 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-02T01:41:40.048224'
-birth_place: Tekoa, Washington, USA
+birth_place: 'Tekoa, Washington, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:41:40.048233'
 external_urls:
-  spotify: https://open.spotify.com/artist/1BjevkZTYcNVXrn7LHUi2X
-  wikipedia: https://en.wikipedia.org/wiki/Mildred_Bailey
+  spotify: 'https://open.spotify.com/artist/1BjevkZTYcNVXrn7LHUi2X'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mildred_Bailey'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/mildred_bailey_and_her_orchestra.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/mildred_bailey_and_her_orchestra.jpg
 last_updated: '2026-02-02T01:41:40.048234'
 musical_connections:
   collaborators:
-  - Paul Whiteman
-  - Red Norvo
-  - Benny Goodman
-  - Al Rinker and Bing Crosby
+    - Paul Whiteman
+    - Red Norvo
+    - Benny Goodman
+    - Al Rinker and Bing Crosby
   influenced:
-  - Billie Holiday
-  - Doris Day
+    - Billie Holiday
+    - Doris Day
   mentors:
-  - Bessie Smith
-  - Ethel Waters
-  - Louis Armstrong
+    - Bessie Smith
+    - Ethel Waters
+    - Louis Armstrong
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/mildred-bailey/
-- https://en.wikipedia.org/wiki/Mildred_Bailey
-- https://wicn.org/wicn-artist-of-the-month-november-2025-mildred-bailey/
-- https://www.swingstreetradio.org/mrs-swing-rocks-the-house-the-story-of-mildred-bailey/
-- https://jivetimerecords.com/northwest/mildred-bailey-xxx/
-- https://dallasromy.substack.com/p/mildred-bailey
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/103960/Bailey_Mildred
+  - 'https://syncopatedtimes.com/mildred-bailey/'
+  - 'https://en.wikipedia.org/wiki/Mildred_Bailey'
+  - 'https://wicn.org/wicn-artist-of-the-month-november-2025-mildred-bailey/'
+  - >-
+    https://www.swingstreetradio.org/mrs-swing-rocks-the-house-the-story-of-mildred-bailey/
+  - 'https://jivetimerecords.com/northwest/mildred-bailey-xxx/'
+  - 'https://dallasromy.substack.com/p/mildred-bailey'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/103960/Bailey_Mildred
 spotify_data:
   followers: 528
   id: 1BjevkZTYcNVXrn7LHUi2X
   popularity: 11
-  url: https://open.spotify.com/artist/1BjevkZTYcNVXrn7LHUi2X
+  url: 'https://open.spotify.com/artist/1BjevkZTYcNVXrn7LHUi2X'
 status: active
 title: Mildred Bailey and her Orchestra
+artist_type: person
 ---
 
 ![](mildred_bailey_and_her_orchestra.jpg)

@@ -3,46 +3,47 @@ biography_enhanced_at: '2026-02-22T01:46:29.970115'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:46:29.970125'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/053afff3-f406-4370-919e-d657d143562a
-  spotify: https://open.spotify.com/artist/2kXtZRGCwR2yAbdDITF0IM
+  musicbrainz: 'https://musicbrainz.org/artist/053afff3-f406-4370-919e-d657d143562a'
+  spotify: 'https://open.spotify.com/artist/2kXtZRGCwR2yAbdDITF0IM'
   wikipedia: ''
 genres:
-- salsa
-- son cubano
+  - salsa
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/quinto_mayor.jpg
 last_updated: '2026-02-22T01:46:29.970126'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: aad6e26d-8c54-4ba4-b058-8afbaa7fb60e
-  name: Morist Jiménez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: aad6e26d-8c54-4ba4-b058-8afbaa7fb60e
+    name: Morist Jiménez
 musical_connections:
   collaborators:
-  - Rafael Cortijo
-  - Kike Harvey
-  - Carlos Llamosa
-  - Juan David Grajales
-  - Oscar Abueta
-  - Raquel Zozaya
+    - Rafael Cortijo
+    - Kike Harvey
+    - Carlos Llamosa
+    - Juan David Grajales
+    - Oscar Abueta
+    - Raquel Zozaya
   influenced: []
   mentors: []
 musicbrainz_id: 053afff3-f406-4370-919e-d657d143562a
 network_extracted: true
-origin: Puerto Rico
+origin: 'Puerto Rico, Puerto Rico, United States'
 primary_source: perplexity
 research_sources:
-- http://www.salsablvd.com/biographies/quinto-mayor.htm
-- https://www.mycongaplace.com/cp/mbr/profile.php?cng=40
+  - 'http://www.salsablvd.com/biographies/quinto-mayor.htm'
+  - 'https://www.mycongaplace.com/cp/mbr/profile.php?cng=40'
 spotify_data:
   followers: 11429
   id: 2kXtZRGCwR2yAbdDITF0IM
   popularity: 23
-  url: https://open.spotify.com/artist/2kXtZRGCwR2yAbdDITF0IM
+  url: 'https://open.spotify.com/artist/2kXtZRGCwR2yAbdDITF0IM'
 status: active
 tags:
-- salsa
+  - salsa
 title: Quinto Mayor
+artist_type: person
 ---
 
 ![](quinto_mayor.jpg)

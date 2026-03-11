@@ -1,173 +1,173 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-24T01:56:27.567276'
 birth_date: 1964-05
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:56:27.567281'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/87ac7e25-f278-47a0-b109-5eb131dc96b6
-  spotify: https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb
-  wikipedia: https://en.wikipedia.org/wiki/The_Skatalites
+  musicbrainz: 'https://musicbrainz.org/artist/87ac7e25-f278-47a0-b109-5eb131dc96b6'
+  spotify: 'https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Skatalites'
 genres:
-- ska
-- rocksteady
-- reggae
-- dub
-- roots reggae
-- ska punk
+  - ska
+  - rocksteady
+  - reggae
+  - dub
+  - roots reggae
+  - ska punk
 image_path: 03_Resources/source_material/ArtistPortraits/the_skatalites.jpg
 instruments:
-- original
-- saxophone
-- trumpet
-- trombone
-- tenor saxophone
-- background vocals
+  - original
+  - saxophone
+  - trumpet
+  - trombone
+  - tenor saxophone
+  - background vocals
 last_updated: '2026-01-24T01:56:27.567282'
 members:
-- begin: '1964'
-  end: '1969'
-  instruments: []
-  mbid: dfecf546-e7ec-46d4-8372-c1e7864ec406
-  name: Don Drummond
-- begin: '1964'
-  end: '1970'
-  instruments:
-  - original
-  mbid: e2ac8c06-b7f4-45d5-bb5d-480c8b3c89f2
-  name: Jackie Opel
-- begin: '1964'
-  end: '1990'
-  instruments:
-  - original
-  mbid: a4b3fb24-a04e-4249-9fa5-5a198ca9d73c
-  name: Jackie Mittoo
-- begin: '1964'
-  end: '1998'
-  instruments:
-  - original
-  mbid: dc340029-a165-4139-a80e-e1cae33b37b9
-  name: Roland Alphonso
-- begin: '1964'
-  end: '1998'
-  instruments:
-  - original
-  mbid: db987393-16fb-4408-b43b-b82e75f1fffc
-  name: Tommy McCook
-- begin: '1964'
-  end: '2007'
-  instruments:
-  - original
-  mbid: e182af11-f73c-4e65-bfae-245a9ddf17c6
-  name: Jerome “Jah Jerry” Haynes
-- begin: '1964'
-  end: '2008'
-  instruments:
-  - original
-  mbid: fc9a861f-c050-4bbf-bb5d-f122932aabf2
-  name: Johnny “Dizzy” Moore
-- begin: '1964'
-  end: '2011'
-  instruments:
-  - original
-  mbid: 51ee51af-3001-4614-bde2-1b8c20fe6c45
-  name: Lloyd Knibb
-- begin: '1964'
-  end: '2012'
-  instruments:
-  - original
-  mbid: c39077b7-08df-47f9-a9f9-05d485221436
-  name: Lloyd Brevett
-- begin: '1964'
-  end: '2023'
-  instruments:
-  - original
-  - saxophone
-  mbid: 428585eb-03b3-4723-a72e-05539d944155
-  name: Lester Sterling
-- begin: '1987'
-  end: '2009'
-  instruments: []
-  mbid: 37c5771c-9bc2-4dbf-8a57-f31a1f73af50
-  name: Devon James
-- begin: '1991'
-  end: '1998'
-  instruments:
-  - trumpet
-  mbid: 09e0380e-6ba8-4be9-a259-ef6d20bcfb33
-  name: Nathan Breedlove
-- begin: '1994'
-  end: '2003'
-  instruments:
-  - trombone
-  mbid: 8a670c83-f3be-4c34-b1d2-57d1b05bfe0d
-  name: Will Clark
-- begin: '2000'
-  end: '2007'
-  instruments:
-  - tenor saxophone
-  mbid: 6496a423-4655-41bc-a021-1b3becb23c7e
-  name: Cedric “Im” Brooks
-- begin: '2003'
-  end: '2008'
-  instruments:
-  - trombone
-  mbid: d31e418e-6ef8-497b-ade2-c793c896abd5
-  name: Vin Gordon
-- begin: '2003'
-  end: '2009'
-  instruments:
-  - saxophone
-  mbid: ec400220-046f-45b1-a129-36a417388068
-  name: Karl Bryan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dfc20ea4-4236-401b-92b9-e48299e07a0b
-  name: Kevin Batchelor
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e776a936-46a0-4b63-8b8a-aec060e2b5a0
-  name: Anant Pradhan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a9eb313-1d97-487a-a391-afe5b5a50d90
-  name: Doreen Shaffer
+  - begin: '1964'
+    end: '1969'
+    instruments: []
+    mbid: dfecf546-e7ec-46d4-8372-c1e7864ec406
+    name: Don Drummond
+  - begin: '1964'
+    end: '1970'
+    instruments:
+      - original
+    mbid: e2ac8c06-b7f4-45d5-bb5d-480c8b3c89f2
+    name: Jackie Opel
+  - begin: '1964'
+    end: '1990'
+    instruments:
+      - original
+    mbid: a4b3fb24-a04e-4249-9fa5-5a198ca9d73c
+    name: Jackie Mittoo
+  - begin: '1964'
+    end: '1998'
+    instruments:
+      - original
+    mbid: dc340029-a165-4139-a80e-e1cae33b37b9
+    name: Roland Alphonso
+  - begin: '1964'
+    end: '1998'
+    instruments:
+      - original
+    mbid: db987393-16fb-4408-b43b-b82e75f1fffc
+    name: Tommy McCook
+  - begin: '1964'
+    end: '2007'
+    instruments:
+      - original
+    mbid: e182af11-f73c-4e65-bfae-245a9ddf17c6
+    name: Jerome “Jah Jerry” Haynes
+  - begin: '1964'
+    end: '2008'
+    instruments:
+      - original
+    mbid: fc9a861f-c050-4bbf-bb5d-f122932aabf2
+    name: Johnny “Dizzy” Moore
+  - begin: '1964'
+    end: '2011'
+    instruments:
+      - original
+    mbid: 51ee51af-3001-4614-bde2-1b8c20fe6c45
+    name: Lloyd Knibb
+  - begin: '1964'
+    end: '2012'
+    instruments:
+      - original
+    mbid: c39077b7-08df-47f9-a9f9-05d485221436
+    name: Lloyd Brevett
+  - begin: '1964'
+    end: '2023'
+    instruments:
+      - original
+      - saxophone
+    mbid: 428585eb-03b3-4723-a72e-05539d944155
+    name: Lester Sterling
+  - begin: '1987'
+    end: '2009'
+    instruments: []
+    mbid: 37c5771c-9bc2-4dbf-8a57-f31a1f73af50
+    name: Devon James
+  - begin: '1991'
+    end: '1998'
+    instruments:
+      - trumpet
+    mbid: 09e0380e-6ba8-4be9-a259-ef6d20bcfb33
+    name: Nathan Breedlove
+  - begin: '1994'
+    end: '2003'
+    instruments:
+      - trombone
+    mbid: 8a670c83-f3be-4c34-b1d2-57d1b05bfe0d
+    name: Will Clark
+  - begin: '2000'
+    end: '2007'
+    instruments:
+      - tenor saxophone
+    mbid: 6496a423-4655-41bc-a021-1b3becb23c7e
+    name: Cedric “Im” Brooks
+  - begin: '2003'
+    end: '2008'
+    instruments:
+      - trombone
+    mbid: d31e418e-6ef8-497b-ade2-c793c896abd5
+    name: Vin Gordon
+  - begin: '2003'
+    end: '2009'
+    instruments:
+      - saxophone
+    mbid: ec400220-046f-45b1-a129-36a417388068
+    name: Karl Bryan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dfc20ea4-4236-401b-92b9-e48299e07a0b
+    name: Kevin Batchelor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e776a936-46a0-4b63-8b8a-aec060e2b5a0
+    name: Anant Pradhan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a9eb313-1d97-487a-a391-afe5b5a50d90
+    name: Doreen Shaffer
 musical_connections:
   collaborators:
-  - Bob Marley & The Wailers
-  - Prince Buster
-  - Jimmy Cliff
-  - Toots & The Maytals
-  - Jackie Mittoo
-  - Tommy McCook
+    - Bob Marley & The Wailers
+    - Prince Buster
+    - Jimmy Cliff
+    - Toots & The Maytals
+    - Jackie Mittoo
+    - Tommy McCook
   influenced:
-  - Bob Marley & The Wailers
-  - Ska punk bands (e.g., The Specials, No Doubt)
+    - Bob Marley & The Wailers
+    - 'Ska punk bands (e.g., The Specials, No Doubt)'
   mentors:
-  - Coxsone Dodd
+    - Coxsone Dodd
 musicbrainz_id: 87ac7e25-f278-47a0-b109-5eb131dc96b6
 network_extracted: true
-origin: Kingston
+origin: 'Kingston, Jamaica, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Skatalites
-- https://www.paradiseartists.com/artist/the-skatalites/
-- https://daily.redbullmusicacademy.com/2013/03/skatalites-feature/
-- https://skatalites.com/band
-- https://www.youtube.com/watch?v=bIHh32YKHxY
-- https://www.liquidatormusic.com/en/ediciones/artista/the-skatalites-2-en/
+  - 'https://en.wikipedia.org/wiki/The_Skatalites'
+  - 'https://www.paradiseartists.com/artist/the-skatalites/'
+  - 'https://daily.redbullmusicacademy.com/2013/03/skatalites-feature/'
+  - 'https://skatalites.com/band'
+  - 'https://www.youtube.com/watch?v=bIHh32YKHxY'
+  - 'https://www.liquidatormusic.com/en/ediciones/artista/the-skatalites-2-en/'
 spotify_data:
   followers: 260194
   id: 4og9jrin5xH5JiFPbeGUPb
   popularity: 47
-  url: https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb
+  url: 'https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb'
 status: active
 tags:
-- ska
-- soul and reggae
+  - ska
+  - soul and reggae
 title: The Skatalites
 ---
 

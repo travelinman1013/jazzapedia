@@ -3,39 +3,41 @@ biography_enhanced_at: '2026-01-23T01:52:15.315265'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:52:15.315270'
 external_urls:
-  spotify: https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU
-  wikipedia: https://en.wikipedia.org/wiki/Chet_Atkins
+  spotify: 'https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chet_Atkins'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/chet_atkins_and_dolly_parton.jpg
 last_updated: '2026-01-23T01:52:15.315271'
 musical_connections:
   collaborators:
-  - Dolly Parton
-  - Porter Wagoner
-  - Mark Knopfler
-  - Jerry Reed
+    - Dolly Parton
+    - Porter Wagoner
+    - Mark Knopfler
+    - Jerry Reed
   influenced:
-  - Clint Black
-  - Eric Johnson
-  - Charley Pride
+    - Clint Black
+    - Eric Johnson
+    - Charley Pride
   mentors:
-  - Red Foley
-  - Mother Maybelle Carter
+    - Red Foley
+    - Mother Maybelle Carter
 network_extracted: true
-origin: Luttrell, Tennessee, USA (Chet Atkins birthplace)
+origin: 'Luttrell, Tennessee, USA (Chet Atkins birthplace)'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Do_I_Ever_Cross_Your_Mind
-- https://en.wikipedia.org/wiki/Chet_Atkins
-- https://theboot.com/dolly-parton-chet-atkins-worst-career-advice/
-- https://www.countrymusichalloffame.org/artist/chet-atkins
+  - 'https://en.wikipedia.org/wiki/Do_I_Ever_Cross_Your_Mind'
+  - 'https://en.wikipedia.org/wiki/Chet_Atkins'
+  - 'https://theboot.com/dolly-parton-chet-atkins-worst-career-advice/'
+  - 'https://www.countrymusichalloffame.org/artist/chet-atkins'
 spotify_data:
   followers: 118544
   id: 4dZrt8Ong5t7YYpvbfp0RU
   popularity: 50
-  url: https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU
+  url: 'https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU'
 status: active
 title: Chet Atkins & Dolly Parton
+birth_place: 'Luttrell, Tennessee, United States'
+artist_type: person
 ---
 
 ![](chet_atkins_and_dolly_parton.jpg)

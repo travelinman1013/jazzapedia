@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-03T02:11:17.056161'
-birth_place: Roxbury, Boston, Massachusetts, United States
+birth_place: 'Roxbury, Boston, Massachusetts, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:11:17.056174'
 external_urls:
-  spotify: https://open.spotify.com/artist/6GFHovQ3p5XrObOaBcySm0
+  spotify: 'https://open.spotify.com/artist/6GFHovQ3p5XrObOaBcySm0'
   wikipedia: ''
 genres:
-- latin r&b
+  - latin r&b
 image_path: 03_Resources/source_material/ArtistPortraits/ricky_bell.jpg
 last_updated: '2026-02-03T02:11:17.056176'
 musical_connections:
   collaborators:
-  - Ralph Tresvant
-  - Michael Bivins
-  - Ronnie DeVoe
-  - Bobby Brown
-  - Johnny Gill
-  - LL Cool J
-  - Amy Correa Bell
+    - Ralph Tresvant
+    - Michael Bivins
+    - Ronnie DeVoe
+    - Bobby Brown
+    - Johnny Gill
+    - LL Cool J
+    - Amy Correa Bell
   influenced: []
   mentors:
-  - Jimmy Jam
+    - Jimmy Jam
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Ricky+Bell/+wiki
-- https://www.youtube.com/watch?v=ovgaICq_dJQ
-- https://www.theaudiodb.com/artist/113055-Ricky-Bell
-- https://tv.apple.com/us/person/ricky-bell/umc.cpc.7iaqr4dojj7ygzia4hevb434z
-- https://www.viberate.com/artist/ricky-bell/
+  - 'https://www.last.fm/music/Ricky+Bell/+wiki'
+  - 'https://www.youtube.com/watch?v=ovgaICq_dJQ'
+  - 'https://www.theaudiodb.com/artist/113055-Ricky-Bell'
+  - 'https://tv.apple.com/us/person/ricky-bell/umc.cpc.7iaqr4dojj7ygzia4hevb434z'
+  - 'https://www.viberate.com/artist/ricky-bell/'
 spotify_data:
   followers: 422
   id: 6GFHovQ3p5XrObOaBcySm0
   popularity: 1
-  url: https://open.spotify.com/artist/6GFHovQ3p5XrObOaBcySm0
+  url: 'https://open.spotify.com/artist/6GFHovQ3p5XrObOaBcySm0'
 status: active
 title: Ricky Bell
+birth_date: '1967-09-18'
+artist_type: person
 ---
 
 ![](ricky_bell.jpg)

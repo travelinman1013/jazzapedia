@@ -2,46 +2,48 @@
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:37:01.433899'
 birth_date: '1937-11-04'
-birth_place: Nashville
+birth_place: 'Gallatin, Tennessee, United States'
 death_date: '2020-02-27'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:37:01.433922'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7c761203-0514-46aa-a869-6a6434cab6d3
-  spotify: https://open.spotify.com/artist/4WvCQ0gcwE3sEgqDvoMK2J
-  wikipedia: https://en.wikipedia.org/wiki/Lillian_Offitt
+  musicbrainz: 'https://musicbrainz.org/artist/7c761203-0514-46aa-a869-6a6434cab6d3'
+  spotify: 'https://open.spotify.com/artist/4WvCQ0gcwE3sEgqDvoMK2J'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lillian_Offitt'
 gender: Female
 genres:
-- classic blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/lillian_offitt.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-03-03T01:37:01.433925'
 musical_connections:
   collaborators:
-  - Earl Hooker
-  - Lowell Fulson
-  - Johnny 'Guitar' Watson
-  - Mel London
+    - Earl Hooker
+    - Lowell Fulson
+    - Johnny 'Guitar' Watson
+    - Mel London
   influenced: []
   mentors:
-  - Ernie Young
+    - Ernie Young
 musicbrainz_id: 7c761203-0514-46aa-a869-6a6434cab6d3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lillian_Offitt
-- https://sentirelblues.blogspot.com/2017/10/lillian-offitt.html
-- http://doowopheaven.blogspot.com/2016/03/lillian-offitt.html
-- https://www.allmusic.com/artist/lillian-offitt-mn0000831762
-- https://kids.kiddle.co/Lillian_Offitt
+  - 'https://en.wikipedia.org/wiki/Lillian_Offitt'
+  - 'https://sentirelblues.blogspot.com/2017/10/lillian-offitt.html'
+  - 'http://doowopheaven.blogspot.com/2016/03/lillian-offitt.html'
+  - 'https://www.allmusic.com/artist/lillian-offitt-mn0000831762'
+  - 'https://kids.kiddle.co/Lillian_Offitt'
 spotify_data:
   followers: 113
   id: 4WvCQ0gcwE3sEgqDvoMK2J
   popularity: 0
-  url: https://open.spotify.com/artist/4WvCQ0gcwE3sEgqDvoMK2J
+  url: 'https://open.spotify.com/artist/4WvCQ0gcwE3sEgqDvoMK2J'
 status: active
 title: Lillian Offitt
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](lillian_offitt.jpg)

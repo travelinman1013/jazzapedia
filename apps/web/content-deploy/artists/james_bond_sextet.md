@@ -3,39 +3,45 @@ biography_enhanced_at: '2026-02-24T01:41:58.714076'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:41:58.714085'
 external_urls:
-  spotify: https://open.spotify.com/artist/1txio1skGThD3uNAZLIK7p
+  spotify: 'https://open.spotify.com/artist/1txio1skGThD3uNAZLIK7p'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/james_bond_sextet.jpg
 last_updated: '2026-02-24T01:41:58.714087'
 musical_connections:
   collaborators:
-  - John Guerin
-  - Joe Parnello
-  - Buddy Collette
-  - Harold Land
-  - Bobby Bryant
-  - Chet Baker
-  - Ella Fitzgerald
+    - John Guerin
+    - Joe Parnello
+    - Buddy Collette
+    - Harold Land
+    - Bobby Bryant
+    - Chet Baker
+    - Ella Fitzgerald
   influenced: []
   mentors:
-  - Charles Mingus
+    - Charles Mingus
 network_extracted: true
-origin: Los Angeles, California, USA
+origin: 'Los Angeles, California, USA'
 primary_source: perplexity
 research_sources:
-- https://acerecords.co.uk/the-james-bond-songbook
-- https://sessiondays.com/2020/04/20/1966-james-bond-his-sextet-james-bond-songbook/
-- http://www.007magazine.co.uk/factfiles/factfiles_collectibles_records_cover_versions.htm
-- https://www.allmusic.com/artist/james-bond-sextet-mn0001390231
-- https://music.apple.com/gb/artist/james-bond-sextet/266304684
+  - 'https://acerecords.co.uk/the-james-bond-songbook'
+  - >-
+    https://sessiondays.com/2020/04/20/1966-james-bond-his-sextet-james-bond-songbook/
+  - >-
+    http://www.007magazine.co.uk/factfiles/factfiles_collectibles_records_cover_versions.htm
+  - 'https://www.allmusic.com/artist/james-bond-sextet-mn0001390231'
+  - 'https://music.apple.com/gb/artist/james-bond-sextet/266304684'
 spotify_data:
   followers: 122
   id: 1txio1skGThD3uNAZLIK7p
   popularity: 0
-  url: https://open.spotify.com/artist/1txio1skGThD3uNAZLIK7p
+  url: 'https://open.spotify.com/artist/1txio1skGThD3uNAZLIK7p'
 status: active
 title: James Bond Sextet
+birth_place: 'Chicago, Illinois, United States'
+birth_date: '1933-01-27'
+death_date: '2012-04-26'
+artist_type: person
 ---
 
 ![](james_bond_sextet.jpg)

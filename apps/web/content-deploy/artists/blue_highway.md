@@ -1,118 +1,120 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-02T01:42:50.996776'
 birth_date: '1995'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:42:50.996786'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/559217a5-169c-41bf-a3dc-d8e7e4afef31
-  spotify: https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd
+  musicbrainz: 'https://musicbrainz.org/artist/559217a5-169c-41bf-a3dc-d8e7e4afef31'
+  spotify: 'https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd'
   wikipedia: ''
 genres:
-- bluegrass
-- christian bluegrass
-- newgrass
-- southern gospel
-- country christian
+  - bluegrass
+  - christian bluegrass
+  - newgrass
+  - southern gospel
+  - country christian
 image_path: 03_Resources/source_material/ArtistPortraits/blue_highway.jpg
 instruments:
-- banjo
-- bass vocals
-- original
-- resonator guitar
-- fiddle
-- guitar family
-- mandolin
-- guitar
-- lead vocals
-- double bass
-last_updated: '2026-02-02T01:42:50.996787'
-members:
-- &id001
-  begin: '1998'
-  end: ''
-  instruments: []
-  mbid: 07f081ef-ba7e-46db-bc5d-b42de9a4a769
-  name: Tom Adams
-- begin: 2019-01
-  end: 2019-01
-  instruments: []
-  mbid: 322a7f23-6bd6-4c31-b7f9-46fac26fbf87
-  name: Gary Hultman
-- begin: ''
-  end: ''
-  instruments:
   - banjo
   - bass vocals
   - original
-  mbid: c57fbb83-fa1f-4fe1-bbe7-80cd7d0d6fe9
-  name: Jason Burleson
-- begin: ''
-  end: ''
-  instruments:
-  - original
   - resonator guitar
-  mbid: 7b324f8c-70ae-4b7e-9c07-6ccf3eeb954c
-  name: Rob Ickes
-- begin: ''
-  end: ''
-  instruments:
   - fiddle
   - guitar family
   - mandolin
-  - original
-  mbid: ee9824c8-89c4-4c77-8a5c-b7d929086242
-  name: Shawn Lane
-- begin: ''
-  end: ''
-  instruments:
   - guitar
   - lead vocals
-  - original
-  mbid: 04562152-ab83-490d-9d7b-add787c439fd
-  name: Tim Stafford
-- begin: ''
-  end: ''
-  instruments:
   - double bass
-  - lead vocals
-  - original
-  mbid: 1347b120-6ee9-4a27-8997-ae7cf90214ec
-  name: Wayne Taylor
+last_updated: '2026-02-02T01:42:50.996787'
+members:
+  - &ref_0
+    begin: '1998'
+    end: ''
+    instruments: []
+    mbid: 07f081ef-ba7e-46db-bc5d-b42de9a4a769
+    name: Tom Adams
+  - begin: 2019-01
+    end: 2019-01
+    instruments: []
+    mbid: 322a7f23-6bd6-4c31-b7f9-46fac26fbf87
+    name: Gary Hultman
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+      - bass vocals
+      - original
+    mbid: c57fbb83-fa1f-4fe1-bbe7-80cd7d0d6fe9
+    name: Jason Burleson
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - resonator guitar
+    mbid: 7b324f8c-70ae-4b7e-9c07-6ccf3eeb954c
+    name: Rob Ickes
+  - begin: ''
+    end: ''
+    instruments:
+      - fiddle
+      - guitar family
+      - mandolin
+      - original
+    mbid: ee9824c8-89c4-4c77-8a5c-b7d929086242
+    name: Shawn Lane
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 04562152-ab83-490d-9d7b-add787c439fd
+    name: Tim Stafford
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+      - lead vocals
+      - original
+    mbid: 1347b120-6ee9-4a27-8997-ae7cf90214ec
+    name: Wayne Taylor
 musical_connections:
   collaborators:
-  - Tim Stafford
-  - Wayne Taylor
-  - Shawn Lane
-  - Rob Ickes
-  - Jason Burleson
-  - Gary Hultman
+    - Tim Stafford
+    - Wayne Taylor
+    - Shawn Lane
+    - Rob Ickes
+    - Jason Burleson
+    - Gary Hultman
   influenced: []
   mentors:
-  - Alison Krauss & Union Station
+    - Alison Krauss & Union Station
 musicbrainz_id: 559217a5-169c-41bf-a3dc-d8e7e4afef31
 network_extracted: true
-origin: Kingsport, Tennessee, USA
+origin: 'Kingsport, Tennessee, USA'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/blue-highway
-- https://rebelrecords.com/catalog-artists/featured-catalog-artists/blue-highway/
-- https://bluehighwayband.com/bio-awards
-- https://concord.com/artist/blue-highway/
-- https://bluegrassunlimited.com/article/blue-highway-its-a-long-long-road/
-- https://bluehighwayband.com/artist-bios
-- https://www.bluehighwayband.com
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/blue-highway
+  - >-
+    https://rebelrecords.com/catalog-artists/featured-catalog-artists/blue-highway/
+  - 'https://bluehighwayband.com/bio-awards'
+  - 'https://concord.com/artist/blue-highway/'
+  - 'https://bluegrassunlimited.com/article/blue-highway-its-a-long-long-road/'
+  - 'https://bluehighwayband.com/artist-bios'
+  - 'https://www.bluehighwayband.com'
 spotify_data:
   followers: 26989
   id: 4nnZcSw4lGTxiq3AvYt8Dd
   popularity: 39
-  url: https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd
+  url: 'https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd'
 status: active
 tags:
-- bluegrass
-title: BLUE HIGHWAY
+  - bluegrass
+title: Blue Highway
 ---
 
 ![](blue_highway.jpg)

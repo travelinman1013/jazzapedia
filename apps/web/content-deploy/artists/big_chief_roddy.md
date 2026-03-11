@@ -1,37 +1,39 @@
 ---
 biography_enhanced_at: '2026-02-12T01:09:31.776855'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-12T01:09:31.776864'
 external_urls:
-  spotify: https://open.spotify.com/artist/2mY8n9khomlzf1SFlSLkmm
+  spotify: 'https://open.spotify.com/artist/2mY8n9khomlzf1SFlSLkmm'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/big_chief_roddy.jpg
 last_updated: '2026-02-12T01:09:31.776866'
 musical_connections:
   collaborators:
-  - Big Chief Eugene “Peppy” Estabon
-  - Big Chief Joe Prieur
-  - Big Chief “Little” Charles Taylor
-  - Big Chief Black Feather (Victor Delpit)
-  - Big Chief David Montana
-  - Bruce “Sunpie” Barnes
+    - Big Chief Eugene “Peppy” Estabon
+    - Big Chief Joe Prieur
+    - Big Chief “Little” Charles Taylor
+    - Big Chief Black Feather (Victor Delpit)
+    - Big Chief David Montana
+    - Bruce “Sunpie” Barnes
   influenced: []
   mentors:
-  - Percy “Big Chief Pete” Lewis
+    - Percy “Big Chief Pete” Lewis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thevinyldistrict.com/neworleans/big-chief-roddy-r-p/
-- https://www.thevinyldistrict.com/neworleans/r-i-p-big-chief-black-feather/
+  - 'https://www.thevinyldistrict.com/neworleans/big-chief-roddy-r-p/'
+  - 'https://www.thevinyldistrict.com/neworleans/r-i-p-big-chief-black-feather/'
 spotify_data:
   followers: 13
   id: 2mY8n9khomlzf1SFlSLkmm
   popularity: 0
-  url: https://open.spotify.com/artist/2mY8n9khomlzf1SFlSLkmm
+  url: 'https://open.spotify.com/artist/2mY8n9khomlzf1SFlSLkmm'
 status: active
 title: Big Chief Roddy
+death_date: '2013-11-25'
+artist_type: person
 ---
 
 ![](big_chief_roddy.jpg)

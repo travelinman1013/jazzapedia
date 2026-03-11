@@ -1,52 +1,54 @@
 ---
 biography_enhanced_at: '2026-02-02T01:41:10.692440'
-birth_place: Boston, Massachusetts, United States
+birth_place: 'Boston, Massachusetts, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:41:10.692449'
 external_urls:
-  spotify: https://open.spotify.com/artist/1zQAlD3Ca9pSM9KLma3PgW
-  wikipedia: https://en.wikipedia.org/wiki/Ricky_Ford
+  spotify: 'https://open.spotify.com/artist/1zQAlD3Ca9pSM9KLma3PgW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ricky_Ford'
 genres:
-- hard bop
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/ricky_ford.jpg
 last_updated: '2026-02-02T01:41:10.692451'
 musical_connections:
   collaborators:
-  - Mercer Ellington
-  - Charles Mingus
-  - Dannie Richmond
-  - Lionel Hampton
-  - Mingus Dynasty
-  - Ze Big Band
+    - Mercer Ellington
+    - Charles Mingus
+    - Dannie Richmond
+    - Lionel Hampton
+    - Mingus Dynasty
+    - Ze Big Band
   influenced:
-  - Wallace Roney
-  - Roy Hargrove
-  - Christian McBride
-  - Danilo Perez
-  - Jeff Keczer (likely Keuzer)
-  - Various Turkish saxophonists
+    - Wallace Roney
+    - Roy Hargrove
+    - Christian McBride
+    - Danilo Perez
+    - Jeff Keczer (likely Keuzer)
+    - Various Turkish saxophonists
   mentors:
-  - Joe Allard
-  - Gunther Schuller
-  - Ran Blake
-  - Jaki Byard
-  - Sonny Rollins
+    - Joe Allard
+    - Gunther Schuller
+    - Ran Blake
+    - Jaki Byard
+    - Sonny Rollins
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/ricky-ford-from-across-the-sea-ricky-ford
-- https://en.wikipedia.org/wiki/Ricky_Ford
-- https://www.selmer.fr/en/blogs/artistes/ricky-ford
-- https://www.jazzhot.net/PBCPPlayer.asp?ID=1463322
-- https://www.liveatthefalcon.com/shows/ricky-ford-quartet
-- https://jazzforumarts.org/ricky-ford-quartet
+  - 'https://www.allaboutjazz.com/ricky-ford-from-across-the-sea-ricky-ford'
+  - 'https://en.wikipedia.org/wiki/Ricky_Ford'
+  - 'https://www.selmer.fr/en/blogs/artistes/ricky-ford'
+  - 'https://www.jazzhot.net/PBCPPlayer.asp?ID=1463322'
+  - 'https://www.liveatthefalcon.com/shows/ricky-ford-quartet'
+  - 'https://jazzforumarts.org/ricky-ford-quartet'
 spotify_data:
   followers: 697
   id: 1zQAlD3Ca9pSM9KLma3PgW
   popularity: 11
-  url: https://open.spotify.com/artist/1zQAlD3Ca9pSM9KLma3PgW
+  url: 'https://open.spotify.com/artist/1zQAlD3Ca9pSM9KLma3PgW'
 status: active
 title: Ricky Ford
+birth_date: '1954-03-04'
+artist_type: person
 ---
 
 ![](ricky_ford.jpg)

@@ -1,38 +1,40 @@
 ---
 biography_enhanced_at: '2026-02-16T01:04:20.230181'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:04:20.230192'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Zz9ItWk9YFM1RnrSh0qFm
+  spotify: 'https://open.spotify.com/artist/5Zz9ItWk9YFM1RnrSh0qFm'
   wikipedia: ''
 genres:
-- cajun
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/reed_alleman.jpg
 last_updated: '2026-02-16T01:04:20.230194'
 musical_connections:
   collaborators:
-  - Roger and the Playboys
-  - Blackie Forestier
-  - Donald Thibodeaux and Cajun Fever
-  - Louisiana Cajun Heat Band
-  - Jambalaya Cajun Band
+    - Roger and the Playboys
+    - Blackie Forestier
+    - Donald Thibodeaux and Cajun Fever
+    - Louisiana Cajun Heat Band
+    - Jambalaya Cajun Band
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.reedalleman.com/bio/
-- https://www.offbeat.com/articles/the-donkey-show/
-- http://www.reedalleman.com
-- https://www.accessallareas.info/artist/pine-leaf-boys/
+  - 'http://www.reedalleman.com/bio/'
+  - 'https://www.offbeat.com/articles/the-donkey-show/'
+  - 'http://www.reedalleman.com'
+  - 'https://www.accessallareas.info/artist/pine-leaf-boys/'
 spotify_data:
   followers: 38
   id: 5Zz9ItWk9YFM1RnrSh0qFm
   popularity: 0
-  url: https://open.spotify.com/artist/5Zz9ItWk9YFM1RnrSh0qFm
+  url: 'https://open.spotify.com/artist/5Zz9ItWk9YFM1RnrSh0qFm'
 status: active
 title: Reed Alleman
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](reed_alleman.jpg)

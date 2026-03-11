@@ -1,44 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-24T01:57:38.422128'
-birth_place: Newport News, Virginia, United States
+birth_place: 'Newport News, Virginia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:57:38.422133'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i
-  wikipedia: https://en.wikipedia.org/wiki/Ella_Fitzgerald
+  spotify: 'https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ella_Fitzgerald'
 genres:
-- swing music
-- vocal jazz
-- big band
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/ella_fitzgeraldlouis_armstrong.jpg
+  - swing music
+  - vocal jazz
+  - big band
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ella_fitzgeraldlouis_armstrong.jpg
 last_updated: '2026-01-24T01:57:38.422134'
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Duke Ellington
-  - Count Basie
-  - Joe Pass
-  - Oscar Peterson Trio
+    - Louis Armstrong
+    - Duke Ellington
+    - Count Basie
+    - Joe Pass
+    - Oscar Peterson Trio
   influenced: []
   mentors:
-  - Louis Armstrong
-  - Chick Webb
+    - Louis Armstrong
+    - Chick Webb
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.udiscovermusic.com/stories/ella-and-louis-cheek-cheek/
-- https://en.wikipedia.org/wiki/Ella_Fitzgerald
-- https://www.ellafitzgerald.com/biography/
-- https://www.jazzmessengers.com/nl/82068/ella-fitzgerald/ella-louis
-- https://www.jango.com/music/Ella+Fitzgerald+Louis+Armstrong/_full_bio
+  - 'https://www.udiscovermusic.com/stories/ella-and-louis-cheek-cheek/'
+  - 'https://en.wikipedia.org/wiki/Ella_Fitzgerald'
+  - 'https://www.ellafitzgerald.com/biography/'
+  - 'https://www.jazzmessengers.com/nl/82068/ella-fitzgerald/ella-louis'
+  - 'https://www.jango.com/music/Ella+Fitzgerald+Louis+Armstrong/_full_bio'
 spotify_data:
   followers: 16638
   id: 0ZXEk4WDiPwEkjG6pQ408i
   popularity: 26
-  url: https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i
+  url: 'https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i'
 status: active
 title: Ella Fitzgerald/Louis Armstrong
+birth_date: '1917-04-25'
+death_date: '1996-06-15'
+artist_type: person
 ---
 
 ![](ella_fitzgeraldlouis_armstrong.jpg)

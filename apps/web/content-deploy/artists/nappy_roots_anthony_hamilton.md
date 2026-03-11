@@ -1,40 +1,42 @@
 ---
 biography_enhanced_at: '2026-02-03T02:09:24.344199'
-birth_place: Charlotte, North Carolina, United States
+birth_place: 'Charlotte, North Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:09:24.344210'
 external_urls:
-  spotify: https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I
-  wikipedia: https://en.wikipedia.org/wiki/Anthony_Hamilton_(singer)
+  spotify: 'https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I'
+  wikipedia: 'https://en.wikipedia.org/wiki/Anthony_Hamilton_(singer)'
 genres:
-- southern hip hop
+  - southern hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/nappy_roots_anthony_hamilton.jpg
 last_updated: '2026-02-03T02:09:24.344211'
 musical_connections:
   collaborators:
-  - Nappy Roots
-  - D'Angelo
-  - Jadakiss
-  - Jeezy
+    - Nappy Roots
+    - D'Angelo
+    - Jadakiss
+    - Jeezy
   influenced: []
   mentors:
-  - Mark Sparks
-  - Mark Setzer
-  - Andre Harrell
+    - Mark Sparks
+    - Mark Setzer
+    - Andre Harrell
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.aceshowbiz.com/celebrity/anthony_hamilton/biography.html
-- https://en.wikipedia.org/wiki/Anthony_Hamilton_(singer)
-- https://www.ncmea.net/anthony-hamilton/
-- https://www.anthonyhamilton.com/bio
+  - 'https://www.aceshowbiz.com/celebrity/anthony_hamilton/biography.html'
+  - 'https://en.wikipedia.org/wiki/Anthony_Hamilton_(singer)'
+  - 'https://www.ncmea.net/anthony-hamilton/'
+  - 'https://www.anthonyhamilton.com/bio'
 spotify_data:
   followers: 254384
   id: 3tCxM1rTj2qUXsiQZxvt2I
   popularity: 53
-  url: https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I
+  url: 'https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I'
 status: active
-title: Nappy Roots/ Anthony hamilton
+title: Anthony Hamilton
+birth_date: '1971-01-28'
+artist_type: person
 ---
 
 ![](nappy_roots_anthony_hamilton.jpg)

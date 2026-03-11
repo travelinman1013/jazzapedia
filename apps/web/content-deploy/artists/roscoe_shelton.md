@@ -2,49 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-03-06T01:31:12.477569'
 birth_date: '1931-08-22'
-birth_place: Lynchburg
+birth_place: 'Lynchburg, Tennessee, United States'
 death_date: '2002-07-27'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:31:12.477576'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9fea22a7-5d45-4d58-a050-019594b2da48
-  spotify: https://open.spotify.com/artist/7lFgfQAjxpWc5YAKPb3p1m
-  wikipedia: https://en.wikipedia.org/wiki/Roscoe_Shelton
+  musicbrainz: 'https://musicbrainz.org/artist/9fea22a7-5d45-4d58-a050-019594b2da48'
+  spotify: 'https://open.spotify.com/artist/7lFgfQAjxpWc5YAKPb3p1m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roscoe_Shelton'
 gender: Male
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/roscoe_shelton.jpg
 last_updated: '2026-03-06T01:31:12.477578'
 musical_connections:
   collaborators:
-  - Fairfield Four
-  - Skylarks
-  - Bobby Hebb
-  - DeFord Bailey Jr.
-  - Earl Gaines
-  - Clifford Curry
-  - Fred James
+    - Fairfield Four
+    - Skylarks
+    - Bobby Hebb
+    - DeFord Bailey Jr.
+    - Earl Gaines
+    - Clifford Curry
+    - Fred James
   influenced: []
   mentors:
-  - Uncle (unnamed)
+    - Uncle (unnamed)
 musicbrainz_id: 9fea22a7-5d45-4d58-a050-019594b2da48
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2020/08/roscoe-shelton-born-22-august-1931.html
-- https://en.wikipedia.org/wiki/Roscoe_Shelton
-- https://www.allmusic.com/artist/roscoe-shelton-mn0000342226
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/08/roscoe-shelton-born-22-august-1931.html
+  - 'https://en.wikipedia.org/wiki/Roscoe_Shelton'
+  - 'https://www.allmusic.com/artist/roscoe-shelton-mn0000342226'
 spotify_data:
   followers: 553
   id: 7lFgfQAjxpWc5YAKPb3p1m
   popularity: 3
-  url: https://open.spotify.com/artist/7lFgfQAjxpWc5YAKPb3p1m
+  url: 'https://open.spotify.com/artist/7lFgfQAjxpWc5YAKPb3p1m'
 status: active
 tags:
-- blues
-- electric blues
-- r&b
-title: roscoe shelton
+  - blues
+  - electric blues
+  - r&b
+title: Roscoe Shelton
+is_active: false
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](roscoe_shelton.jpg)

@@ -1,47 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-01T01:30:17.924317'
-birth_place: Richmond, California, USA
+birth_place: 'Richmond, California, USA'
 disambiguation: probably abstract hip hop
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:30:17.924323'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2db5034c-10e7-4edf-a38e-19d81af37297
-  spotify: https://open.spotify.com/artist/0OGWDaYrjhn6v1Lq1rqrWa
+  musicbrainz: 'https://musicbrainz.org/artist/2db5034c-10e7-4edf-a38e-19d81af37297'
+  spotify: 'https://open.spotify.com/artist/0OGWDaYrjhn6v1Lq1rqrWa'
   wikipedia: ''
 genres:
-- underground hip hop
+  - underground hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/locksmith.jpg
 last_updated: '2026-02-01T01:30:17.924323'
 musical_connections:
   collaborators:
-  - Left
-  - Hopsin
-  - Jarren Benton
-  - Futuristic
-  - 9th Wonder
-  - Ski Beatz
-  - R.A. the Rugged Man
+    - Left
+    - Hopsin
+    - Jarren Benton
+    - Futuristic
+    - 9th Wonder
+    - Ski Beatz
+    - R.A. the Rugged Man
   influenced: []
   mentors:
-  - Sister (unnamed)
+    - Sister (unnamed)
 musicbrainz_id: 2db5034c-10e7-4edf-a38e-19d81af37297
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.scribd.com/document/367744582/Locksmith-Rapper
-- https://www.hotnewhiphop.com/profile/locksmith
-- https://www.hiphopball-official.com/en/locksmith-2/
-- https://first-avenue.com/performer/locksmith/
-- http://www.masqueradeatlanta.com/attraction/locksmith/
-- https://eastbayexpress.com/locksmiths-odyssey-2-1/
-- https://www.youtube.com/@iamlocksmith/about
+  - 'https://www.scribd.com/document/367744582/Locksmith-Rapper'
+  - 'https://www.hotnewhiphop.com/profile/locksmith'
+  - 'https://www.hiphopball-official.com/en/locksmith-2/'
+  - 'https://first-avenue.com/performer/locksmith/'
+  - 'http://www.masqueradeatlanta.com/attraction/locksmith/'
+  - 'https://eastbayexpress.com/locksmiths-odyssey-2-1/'
+  - 'https://www.youtube.com/@iamlocksmith/about'
 spotify_data:
   followers: 93588
   id: 0OGWDaYrjhn6v1Lq1rqrWa
   popularity: 38
-  url: https://open.spotify.com/artist/0OGWDaYrjhn6v1Lq1rqrWa
+  url: 'https://open.spotify.com/artist/0OGWDaYrjhn6v1Lq1rqrWa'
 status: active
 title: Locksmith
+birth_date: '1984-09-29'
+artist_type: person
 ---
 
 ![](locksmith.jpg)

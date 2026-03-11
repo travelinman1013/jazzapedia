@@ -1,53 +1,56 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-02-28T01:46:59.594842'
-birth_place: Near Atlanta, Georgia, USA
-disambiguation: Brooks Mason, Atlanta-based blues artist
+birth_place: 'Near Atlanta, Georgia, USA'
+disambiguation: 'Brooks Mason, Atlanta-based blues artist'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:46:59.594850'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bf530a68-5477-4e06-a4d7-4151e6ef6a52
-  spotify: https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B
+  musicbrainz: 'https://musicbrainz.org/artist/bf530a68-5477-4e06-a4d7-4151e6ef6a52'
+  spotify: 'https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B'
   wikipedia: ''
 genres:
-- retro soul
-- soul blues
-- modern blues
+  - retro soul
+  - soul blues
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_9v.jpg
 last_updated: '2026-02-28T01:46:59.594852'
 musical_connections:
   collaborators:
-  - Lane Kelly
-  - Brandon Boone
-  - Cody Matlock
-  - The Georgia Flood / PREACHERVAN members
+    - Lane Kelly
+    - Brandon Boone
+    - Cody Matlock
+    - The Georgia Flood / PREACHERVAN members
   influenced: []
   mentors:
-  - Tinsley Ellis
-  - Sean Costello
+    - Tinsley Ellis
+    - Sean Costello
 musicbrainz_id: bf530a68-5477-4e06-a4d7-4151e6ef6a52
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://mountaintownmusic.org/band/eddie-9v/
-- https://www.sixthman.net/today/view/artist/eddie-9v/event/305
-- https://www.bluesblastmagazine.com/featured-interview-eddie-9v/
-- https://blues.gr/profiles/blogs/q-a-with-georgia-based-talented-musician-eddie-9v-fiery-spin-on-s
-- https://highergroundmusic.com/events/eddie-9v/
-- https://www.youtube.com/watch?v=CTHL0Ea6ecY
-- https://www.eddie9volt.com/about
-- https://thecreekfm.com/2021/06/24/graciously-the-legend-of-eddie-9v/
+  - 'https://mountaintownmusic.org/band/eddie-9v/'
+  - 'https://www.sixthman.net/today/view/artist/eddie-9v/event/305'
+  - 'https://www.bluesblastmagazine.com/featured-interview-eddie-9v/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-georgia-based-talented-musician-eddie-9v-fiery-spin-on-s
+  - 'https://highergroundmusic.com/events/eddie-9v/'
+  - 'https://www.youtube.com/watch?v=CTHL0Ea6ecY'
+  - 'https://www.eddie9volt.com/about'
+  - 'https://thecreekfm.com/2021/06/24/graciously-the-legend-of-eddie-9v/'
 spotify_data:
   followers: 29864
   id: 2GHXeEEol7BPT31flS6O1B
   popularity: 46
-  url: https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B
+  url: 'https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B'
 status: active
 tags:
-- blues
-- blues rock
-- neo soul
+  - blues
+  - blues rock
+  - neo soul
 title: Eddie 9V
+origin: 'Atlanta, Georgia, United States'
+birth_date: 1996-06
 ---
 
 ![](eddie_9v.jpg)

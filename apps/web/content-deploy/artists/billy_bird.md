@@ -1,40 +1,44 @@
 ---
 biography_enhanced_at: '2026-03-03T01:34:40.930879'
-birth_place: Nashville, Tennessee, USA
+birth_place: 'Nashville, Tennessee, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:34:40.930889'
 external_urls:
-  spotify: https://open.spotify.com/artist/35Kh8uOR5euWHRuP7vzTCL
+  spotify: 'https://open.spotify.com/artist/35Kh8uOR5euWHRuP7vzTCL'
   wikipedia: ''
 genres:
-- country blues
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/billy_bird.jpg
 last_updated: '2026-03-03T01:34:40.930891'
 musical_connections:
   collaborators:
-  - Ernest Tubb
-  - Hank Garland
-  - Tab Hunter
-  - Tex Ritter
+    - Ernest Tubb
+    - Hank Garland
+    - Tab Hunter
+    - Tex Ritter
   influenced: []
   mentors:
-  - Charlie Christian
-  - Django Reinhardt
+    - Charlie Christian
+    - Django Reinhardt
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.zeroto180.org/gibson-girl-actually-billy-byrds-a-gibson-guy/
-- https://blinddogradio.blogspot.com/2018/12/down-in-cemetery-by-billy-bird.html
-- https://www.latimes.com/archives/la-xpm-2001-aug-10-me-32657-story.html
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/110929/Byrd_Billy?Matrix_page=6
-- https://www.allmusic.com/artist/billy-byrd-mn0001172738
+  - 'https://www.zeroto180.org/gibson-girl-actually-billy-byrds-a-gibson-guy/'
+  - >-
+    https://blinddogradio.blogspot.com/2018/12/down-in-cemetery-by-billy-bird.html
+  - 'https://www.latimes.com/archives/la-xpm-2001-aug-10-me-32657-story.html'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/110929/Byrd_Billy?Matrix_page=6
+  - 'https://www.allmusic.com/artist/billy-byrd-mn0001172738'
 spotify_data:
   followers: 248
   id: 35Kh8uOR5euWHRuP7vzTCL
   popularity: 0
-  url: https://open.spotify.com/artist/35Kh8uOR5euWHRuP7vzTCL
+  url: 'https://open.spotify.com/artist/35Kh8uOR5euWHRuP7vzTCL'
 status: active
-title: BILLY BIRD
+title: Billy Bird
+birth_date: '1920-02-17'
+artist_type: person
 ---
 
 ![](billy_bird.jpg)

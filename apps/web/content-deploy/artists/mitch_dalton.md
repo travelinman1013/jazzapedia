@@ -5,43 +5,48 @@ birth_place: United Kingdom
 enhancement_provider: perplexity
 entry_created: '2026-03-05T01:59:54.094684'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cdb16879-d627-465b-bcd5-2e460c096165
-  spotify: https://open.spotify.com/artist/474NSBxHTHZluIkQ4s2lkW
+  musicbrainz: 'https://musicbrainz.org/artist/cdb16879-d627-465b-bcd5-2e460c096165'
+  spotify: 'https://open.spotify.com/artist/474NSBxHTHZluIkQ4s2lkW'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mitch_dalton.jpg
 instruments:
-- guitar
-- acoustic guitar
-- electric guitar
-- classical guitar
+  - guitar
+  - acoustic guitar
+  - electric guitar
+  - classical guitar
 last_updated: '2026-03-05T01:59:54.094686'
 musical_connections:
   collaborators:
-  - Robbie Williams
-  - Marc Almond
-  - Ella Fitzgerald
-  - David Arch
+    - Robbie Williams
+    - Marc Almond
+    - Ella Fitzgerald
+    - David Arch
   influenced: []
   mentors: []
 musicbrainz_id: cdb16879-d627-465b-bcd5-2e460c096165
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.soulandjazzandfunk.com/reviews/mitch-dalton-meet-mitch-dalton-and-the-studio-kings-regius/
-- https://propermusic.com/products/mitchdaltonthestudiokings-meetmitchdaltonthestudiokings
-- https://www.pizzaexpresslive.com/whats-on/mitch-dalton-the-studio-kings
-- https://www.allmusic.com/artist/mitch-dalton-mn0000078959
-- http://self-preservationsociety.blogspot.com/2015/04/mitch-dalton-and-studio-kings.html
-- https://www.instagram.com/p/DUq7XPtkaLU/
-- https://pocketmags.com/guitar-techniques-magazine/may-2022/articles/1127752/mitch-dalton
+  - >-
+    https://www.soulandjazzandfunk.com/reviews/mitch-dalton-meet-mitch-dalton-and-the-studio-kings-regius/
+  - >-
+    https://propermusic.com/products/mitchdaltonthestudiokings-meetmitchdaltonthestudiokings
+  - 'https://www.pizzaexpresslive.com/whats-on/mitch-dalton-the-studio-kings'
+  - 'https://www.allmusic.com/artist/mitch-dalton-mn0000078959'
+  - >-
+    http://self-preservationsociety.blogspot.com/2015/04/mitch-dalton-and-studio-kings.html
+  - 'https://www.instagram.com/p/DUq7XPtkaLU/'
+  - >-
+    https://pocketmags.com/guitar-techniques-magazine/may-2022/articles/1127752/mitch-dalton
 spotify_data:
   followers: 153
   id: 474NSBxHTHZluIkQ4s2lkW
   popularity: 8
-  url: https://open.spotify.com/artist/474NSBxHTHZluIkQ4s2lkW
+  url: 'https://open.spotify.com/artist/474NSBxHTHZluIkQ4s2lkW'
 status: active
 title: Mitch Dalton
+origin: 'United Kingdom, England, United Kingdom'
 ---
 
 ![](mitch_dalton.jpg)

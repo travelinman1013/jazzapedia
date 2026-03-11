@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-08T02:01:13.459894'
-birth_place: São Luís, Maranhão, Brazil
+birth_place: 'São Luís, Maranhão, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:01:13.459903'
 external_urls:
-  spotify: https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8
-  wikipedia: https://en.wikipedia.org/wiki/Zeca_Baleiro
+  spotify: 'https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zeca_Baleiro'
 genres:
-- mpb
-- new mpb
-- brazilian pop
-- brazilian rock
-- samba
+  - mpb
+  - new mpb
+  - brazilian pop
+  - brazilian rock
+  - samba
 image_path: 03_Resources/source_material/ArtistPortraits/zeca_baleiro.jpg
 last_updated: '2026-02-08T02:01:13.459905'
 musical_connections:
   collaborators:
-  - Pedro Joia
-  - Raimundo Fagner
-  - Chico César
-  - Vinícius Cantuária
+    - Pedro Joia
+    - Raimundo Fagner
+    - Chico César
+    - Vinícius Cantuária
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Zeca_Baleiro
-- https://www.jango.com/music/Zeca+Baleiro/_full_bio
-- https://www.liveone.com/artist/zeca-baleiro/322881
-- https://www.youtube.com/channel/UCa15Wjqf_PAuYyUTF6Hb1Zw/about
+  - 'https://en.wikipedia.org/wiki/Zeca_Baleiro'
+  - 'https://www.jango.com/music/Zeca+Baleiro/_full_bio'
+  - 'https://www.liveone.com/artist/zeca-baleiro/322881'
+  - 'https://www.youtube.com/channel/UCa15Wjqf_PAuYyUTF6Hb1Zw/about'
 spotify_data:
   followers: 1122752
   id: 7LunbFWIm3RPQpywjOSSd8
   popularity: 58
-  url: https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8
+  url: 'https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8'
 status: active
 title: Zeca Baleiro
+birth_date: '1966-04-11'
+artist_type: person
 ---
 
 ![](zeca_baleiro.jpg)

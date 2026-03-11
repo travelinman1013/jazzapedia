@@ -1,68 +1,71 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-26T01:17:40.075107'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:17:40.075118'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a3d3360e-bf1f-42f0-82ef-02af16e38ab0
-  spotify: https://open.spotify.com/artist/6PRQuhSTh2aVPC2HMlx2mT
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Dodds
+  musicbrainz: 'https://musicbrainz.org/artist/a3d3360e-bf1f-42f0-82ef-02af16e38ab0'
+  spotify: 'https://open.spotify.com/artist/6PRQuhSTh2aVPC2HMlx2mT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Dodds'
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_dodds_trio.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-02-26T01:17:40.075120'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 66fc5e06-25be-4070-8812-aac282a347eb
-  name: Johnny Dodds
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a6f6ee8-a9cd-4826-9749-d0fe48fb49f7
-  name: Lil Hardin Armstrong
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 258c295b-bae6-433b-955b-b590fe4a571d
-  name: Bill Johnson
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 66fc5e06-25be-4070-8812-aac282a347eb
+    name: Johnny Dodds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a6f6ee8-a9cd-4826-9749-d0fe48fb49f7
+    name: Lil Hardin Armstrong
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 258c295b-bae6-433b-955b-b590fe4a571d
+    name: Bill Johnson
 musical_connections:
   collaborators:
-  - Baby Dodds
-  - King Oliver
-  - Louis Armstrong
-  - Jelly Roll Morton
-  - Lil Hardin Armstrong
-  - Charlie Shavers
+    - Baby Dodds
+    - King Oliver
+    - Louis Armstrong
+    - Jelly Roll Morton
+    - Lil Hardin Armstrong
+    - Charlie Shavers
   influenced:
-  - Later New Orleans Revival musicians
+    - Later New Orleans Revival musicians
   mentors:
-  - Lorenzo Tio Jr.
-  - Charlie McCurdy
-  - Kid Ory
+    - Lorenzo Tio Jr.
+    - Charlie McCurdy
+    - Kid Ory
 musicbrainz_id: a3d3360e-bf1f-42f0-82ef-02af16e38ab0
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Johnny-Dodds
-- https://www.allaboutjazz.com/musicians/johnny-dodds/
-- https://syncopatedtimes.com/profiles-in-jazz-the-legacy-of-johnny-and-baby-dodds/
-- https://en.wikipedia.org/wiki/Johnny_Dodds
-- https://www.allmusic.com/artist/johnny-dodds-mn0000245635
+  - 'https://www.britannica.com/biography/Johnny-Dodds'
+  - 'https://www.allaboutjazz.com/musicians/johnny-dodds/'
+  - >-
+    https://syncopatedtimes.com/profiles-in-jazz-the-legacy-of-johnny-and-baby-dodds/
+  - 'https://en.wikipedia.org/wiki/Johnny_Dodds'
+  - 'https://www.allmusic.com/artist/johnny-dodds-mn0000245635'
 spotify_data:
   followers: 147
   id: 6PRQuhSTh2aVPC2HMlx2mT
   popularity: 0
-  url: https://open.spotify.com/artist/6PRQuhSTh2aVPC2HMlx2mT
+  url: 'https://open.spotify.com/artist/6PRQuhSTh2aVPC2HMlx2mT'
 status: active
 tags:
-- jazz
-title: JOHNNY DODDS TRIO
+  - jazz
+title: Johnny Dodds Trio
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1892-04-12'
 ---
 
 ![](johnny_dodds_trio.jpg)

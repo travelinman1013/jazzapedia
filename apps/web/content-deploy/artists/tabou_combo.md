@@ -1,73 +1,75 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-17T01:20:45.686280'
 birth_date: '1967'
 enhancement_provider: perplexity
 entry_created: '2026-02-17T01:20:45.686289'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cd7af012-dba3-4eb6-8fc4-86d891b0657e
-  spotify: https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh
-  wikipedia: https://en.wikipedia.org/wiki/Tabou_Combo
+  musicbrainz: 'https://musicbrainz.org/artist/cd7af012-dba3-4eb6-8fc4-86d891b0657e'
+  spotify: 'https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tabou_Combo'
 genres:
-- kompa
-- zouk
+  - kompa
+  - zouk
 image_path: 03_Resources/source_material/ArtistPortraits/tabou_combo.jpg
 instruments:
-- guitar
-- eponymous
-- original
+  - guitar
+  - eponymous
+  - original
 last_updated: '2026-02-17T01:20:45.686291'
 members:
-- &id001
-  begin: '1968'
-  end: ''
-  instruments:
-  - guitar
-  mbid: 46061a7d-4503-491f-a626-2c9b5bfa9abf
-  name: Jean Claude Jean
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 999ed715-b5b5-49e0-add7-1c298dde35bd
-  name: Albert Chancy, Jr.
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 43d01404-a94b-4eaa-8b87-a9df5e3cc33e
-  name: Yvon Ciné
+  - &ref_0
+    begin: '1968'
+    end: ''
+    instruments:
+      - guitar
+    mbid: 46061a7d-4503-491f-a626-2c9b5bfa9abf
+    name: Jean Claude Jean
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 999ed715-b5b5-49e0-add7-1c298dde35bd
+    name: 'Albert Chancy, Jr.'
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 43d01404-a94b-4eaa-8b87-a9df5e3cc33e
+    name: Yvon Ciné
 musical_connections:
   collaborators:
-  - Albert Chancy Jr.
-  - Herman Nau
-  - Adolphe Chancy
-  - Yves 'Fanfan' Joseph
-  - Roger 'Shoubou' Marie Eugene
-  - Yvon 'Kapi' André
-  - Jean-Claude Jean
+    - Albert Chancy Jr.
+    - Herman Nau
+    - Adolphe Chancy
+    - Yves 'Fanfan' Joseph
+    - Roger 'Shoubou' Marie Eugene
+    - Yvon 'Kapi' André
+    - Jean-Claude Jean
   influenced: []
   mentors: []
 musicbrainz_id: cd7af012-dba3-4eb6-8fc4-86d891b0657e
 network_extracted: true
-origin: Pétion-Ville, Ouest, Haiti
+origin: 'Pétion-Ville, Ouest, Haiti'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tabou_Combo
-- http://www.taboucombo.com/bio/
-- https://www.latimes.com/archives/la-xpm-1988-07-03-ca-8800-story.html
-- https://www.wlrn.org/culture/2019-05-14/for-more-than-50-years-tabou-combo-has-taken-haitian-konpa-across-the-world
-- https://kreolmagazine.com/tabou-combo-most-famous-haitian-band-in-the-world/
-- https://www.afropop.org/articles/four-tracks-tabou-combo
+  - 'https://en.wikipedia.org/wiki/Tabou_Combo'
+  - 'http://www.taboucombo.com/bio/'
+  - 'https://www.latimes.com/archives/la-xpm-1988-07-03-ca-8800-story.html'
+  - >-
+    https://www.wlrn.org/culture/2019-05-14/for-more-than-50-years-tabou-combo-has-taken-haitian-konpa-across-the-world
+  - 'https://kreolmagazine.com/tabou-combo-most-famous-haitian-band-in-the-world/'
+  - 'https://www.afropop.org/articles/four-tracks-tabou-combo'
 spotify_data:
   followers: 27826
   id: 5zOZ2RzZBQkptkPfg9nUoh
   popularity: 31
-  url: https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh
+  url: 'https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh'
 status: active
 title: Tabou Combo
+birth_place: 'Pétion-Ville, Ouest, Haiti'
 ---
 
 ![](tabou_combo.jpg)

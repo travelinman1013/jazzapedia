@@ -3,42 +3,45 @@ biography_enhanced_at: '2026-02-20T01:21:32.311327'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:21:32.311338'
 external_urls:
-  spotify: https://open.spotify.com/artist/5pEJ9A7P9xSUsiiWabAhmr
-  wikipedia: https://en.wikipedia.org/wiki/Treme_Brass_Band
+  spotify: 'https://open.spotify.com/artist/5pEJ9A7P9xSUsiiWabAhmr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Treme_Brass_Band'
 genres:
-- brass band
-- cajun
-- zydeco
+  - brass band
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/the_treme_brass_band.jpg
 last_updated: '2026-02-20T01:21:32.311339'
 musical_connections:
   collaborators:
-  - Uncle Lionel Batiste Sr.
-  - Kermit Ruffins
-  - Corey Henry
-  - Kirk Joseph
-  - Kenneth Terry
+    - Uncle Lionel Batiste Sr.
+    - Kermit Ruffins
+    - Corey Henry
+    - Kirk Joseph
+    - Kenneth Terry
   influenced:
-  - Upcoming musicians
+    - Upcoming musicians
   mentors:
-  - Benny Jones Sr.'s father and old musicians
+    - Benny Jones Sr.'s father and old musicians
 network_extracted: true
-origin: Tremé neighborhood, New Orleans, Louisiana, USA
+origin: 'Tremé neighborhood, New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://64parishes.org/entry/treme-brass-band
-- http://www.mastersoftraditionalarts.org/artists/334
-- https://mattsakakeeny.com/roll-with-it/brass-bands/treme/
-- https://en.wikipedia.org/wiki/Treme_Brass_Band
-- https://www.richmondfolkfestival.org/2024-performers/2024/7/29/trem-brass-band
-- https://musicrising.tulane.edu/discover/people/treme-brass-band/
+  - 'https://64parishes.org/entry/treme-brass-band'
+  - 'http://www.mastersoftraditionalarts.org/artists/334'
+  - 'https://mattsakakeeny.com/roll-with-it/brass-bands/treme/'
+  - 'https://en.wikipedia.org/wiki/Treme_Brass_Band'
+  - >-
+    https://www.richmondfolkfestival.org/2024-performers/2024/7/29/trem-brass-band
+  - 'https://musicrising.tulane.edu/discover/people/treme-brass-band/'
 spotify_data:
   followers: 11391
   id: 5pEJ9A7P9xSUsiiWabAhmr
   popularity: 16
-  url: https://open.spotify.com/artist/5pEJ9A7P9xSUsiiWabAhmr
+  url: 'https://open.spotify.com/artist/5pEJ9A7P9xSUsiiWabAhmr'
 status: active
-title: THE TREME BRASS BAND
+title: The Treme Brass Band
+death_date: '2012'
+artist_type: band
 ---
 
 ![](the_treme_brass_band.jpg)

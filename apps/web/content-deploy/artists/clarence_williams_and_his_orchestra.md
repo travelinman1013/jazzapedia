@@ -1,71 +1,75 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-03-05T02:00:43.376041'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:00:43.376050'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/92c33e97-f4df-487d-bba7-1670b831a695
-  spotify: https://open.spotify.com/artist/4YdrqzIq12rbuUCYhnLJjN
-  wikipedia: https://en.wikipedia.org/wiki/Clarence_Williams_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/92c33e97-f4df-487d-bba7-1670b831a695'
+  spotify: 'https://open.spotify.com/artist/4YdrqzIq12rbuUCYhnLJjN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clarence_Williams_(musician)'
 genres:
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/clarence_williams_and_his_orchestra.jpg
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/clarence_williams_and_his_orchestra.jpg
 instruments:
-- eponymous
-- original
-- piano
-last_updated: '2026-03-05T02:00:43.376052'
-members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 401fa4c5-7ec7-4ea2-af0e-89d53e2295f7
-  name: Esther Bigeou
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5f519c78-d5b9-46b8-af27-023bfb261e84
-  name: Jimmy McLin
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - piano
-  mbid: f772121b-4a6a-4f3a-bac3-8950ab489d4d
-  name: Clarence Williams
+last_updated: '2026-03-05T02:00:43.376052'
+members:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 401fa4c5-7ec7-4ea2-af0e-89d53e2295f7
+    name: Esther Bigeou
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5f519c78-d5b9-46b8-af27-023bfb261e84
+    name: Jimmy McLin
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: f772121b-4a6a-4f3a-bac3-8950ab489d4d
+    name: Clarence Williams
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Sidney Bechet
-  - Armand J. Piron
-  - Spencer Williams
-  - Eva Taylor
+    - Louis Armstrong
+    - Sidney Bechet
+    - Armand J. Piron
+    - Spencer Williams
+    - Eva Taylor
   influenced:
-  - James P. Johnson
+    - James P. Johnson
   mentors:
-  - Tony Jackson
-  - Billy Kersands
+    - Tony Jackson
+    - Billy Kersands
 musicbrainz_id: 92c33e97-f4df-487d-bba7-1670b831a695
 network_extracted: true
-origin: Plaquemine, Louisiana, USA
+origin: 'Plaquemine, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Clarence_Williams_(musician)
-- https://syncopatedtimes.com/clarence-williams-profiles-in-jazz/
-- https://www.flametreepro.com/personalities-clarence-williams-early-years-jazz-and-blues.html
-- https://syncopatedtimes.com/clarence-williams-1898-1965/
-- https://de.wikipedia.org/wiki/Clarence_Williams
-- https://www.instagram.com/p/CyJjyaxh4Z_/
+  - 'https://en.wikipedia.org/wiki/Clarence_Williams_(musician)'
+  - 'https://syncopatedtimes.com/clarence-williams-profiles-in-jazz/'
+  - >-
+    https://www.flametreepro.com/personalities-clarence-williams-early-years-jazz-and-blues.html
+  - 'https://syncopatedtimes.com/clarence-williams-1898-1965/'
+  - 'https://de.wikipedia.org/wiki/Clarence_Williams'
+  - 'https://www.instagram.com/p/CyJjyaxh4Z_/'
 spotify_data:
   followers: 241
   id: 4YdrqzIq12rbuUCYhnLJjN
   popularity: 4
-  url: https://open.spotify.com/artist/4YdrqzIq12rbuUCYhnLJjN
+  url: 'https://open.spotify.com/artist/4YdrqzIq12rbuUCYhnLJjN'
 status: active
 tags:
-- jazz
-title: CLARENCE WILLIAMS AND HIS ORCHESTRA
+  - jazz
+title: Clarence Williams and His Orchestra
+birth_place: 'Plaquemine, Louisiana, United States'
+birth_date: '1893-10-08'
 ---
 
 ![](clarence_williams_and_his_orchestra.jpg)

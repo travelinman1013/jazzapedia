@@ -1,95 +1,99 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-23T03:03:51.594438'
 birth_date: '1993'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:03:51.594449'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29
-  spotify: https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l
+  musicbrainz: 'https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29'
+  spotify: 'https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l'
   wikipedia: Not found in search results
 genres:
-- jam band
-- newgrass
-- bluegrass
+  - jam band
+  - newgrass
+  - bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/the_string_cheese_incident.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-02-23T03:03:51.594451'
 members:
-- &id001
-  begin: '2004-10-31'
-  end: ''
-  instruments: []
-  mbid: e8ea53de-e120-4f1d-a5c3-b2174e9c202c
-  name: Jason Hann
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 11f03837-a93f-4b70-bbc6-f4b87eb986fb
-  name: Billy Constable
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 966d62b7-0b98-4bc3-bd6a-7df45e5cccd1
-  name: Kyle Hollingsworth
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8010757a-6ec4-4a64-b54a-1a16ac0040d9
-  name: Michael Kang
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 757b806a-64ea-4a01-a585-024d82bd60c9
-  name: Keith Moseley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5feb6ea8-f9c2-47b9-b298-110aa8d6f6cd
-  name: Bill Nershi
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 447e93a1-7eed-473d-bb7e-1fb8b08953df
-  name: Michael Travis
+  - &ref_0
+    begin: '2004-10-31'
+    end: ''
+    instruments: []
+    mbid: e8ea53de-e120-4f1d-a5c3-b2174e9c202c
+    name: Jason Hann
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 11f03837-a93f-4b70-bbc6-f4b87eb986fb
+    name: Billy Constable
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 966d62b7-0b98-4bc3-bd6a-7df45e5cccd1
+    name: Kyle Hollingsworth
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8010757a-6ec4-4a64-b54a-1a16ac0040d9
+    name: Michael Kang
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 757b806a-64ea-4a01-a585-024d82bd60c9
+    name: Keith Moseley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5feb6ea8-f9c2-47b9-b298-110aa8d6f6cd
+    name: Bill Nershi
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 447e93a1-7eed-473d-bb7e-1fb8b08953df
+    name: Michael Travis
 musical_connections:
   collaborators:
-  - Michael Kang
-  - Bill Nershi
-  - Keith Moseley
-  - Michael Travis
-  - Kyle Hollingsworth
-  - Jason Hann
+    - Michael Kang
+    - Bill Nershi
+    - Keith Moseley
+    - Michael Travis
+    - Kyle Hollingsworth
+    - Jason Hann
   influenced: []
   mentors:
-  - Herbie Hancock
+    - Herbie Hancock
 musicbrainz_id: cff95140-6d57-498a-8834-10eb72865b29
 network_extracted: true
-origin: Boulder
+origin: 'Boulder, Colorado, United States'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/string-cheese-incident
-- https://www.musicmarauders.com/2012/03/say-cheese-early-days-of-string-cheese.html
-- https://relix.com/articles/detail/round-the-wheel-celebrating-30-years-of-the-string-cheese-incident/
-- https://www.clubredtelluride.com/the-string-cheese-incident
-- https://cmhof.org/colorado-artists-spotlight-the-string-cheese-incident/
-- https://www.stringcheeseincident.com/about/
-- https://scifidelity.com/artists/thestringcheeseincident/
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/string-cheese-incident
+  - >-
+    https://www.musicmarauders.com/2012/03/say-cheese-early-days-of-string-cheese.html
+  - >-
+    https://relix.com/articles/detail/round-the-wheel-celebrating-30-years-of-the-string-cheese-incident/
+  - 'https://www.clubredtelluride.com/the-string-cheese-incident'
+  - 'https://cmhof.org/colorado-artists-spotlight-the-string-cheese-incident/'
+  - 'https://www.stringcheeseincident.com/about/'
+  - 'https://scifidelity.com/artists/thestringcheeseincident/'
 spotify_data:
   followers: 242535
   id: 7N3JfLDzzjXdPbsyco7X0l
   popularity: 38
-  url: https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l
+  url: 'https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l'
 status: active
 tags:
-- bluegrass
-- folk
-- funk
+  - bluegrass
+  - folk
+  - funk
 title: The String Cheese Incident
+birth_place: 'Crested Butte, Colorado, United States'
 ---
 
 ![](the_string_cheese_incident.jpg)

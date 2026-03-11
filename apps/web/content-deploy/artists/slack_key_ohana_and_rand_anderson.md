@@ -3,41 +3,45 @@ biography_enhanced_at: '2026-01-29T02:05:15.030545'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:05:15.030555'
 external_urls:
-  spotify: https://open.spotify.com/artist/5r90xPSG7xrKbf1MfDoPMb
+  spotify: 'https://open.spotify.com/artist/5r90xPSG7xrKbf1MfDoPMb'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-29T02:05:15.030556'
 musical_connections:
   collaborators:
-  - Rand Anderson
-  - Kela Sako
-  - Billy Gibbons
-  - Joe Witkin
-  - Carol Witkin
+    - Rand Anderson
+    - Kela Sako
+    - Billy Gibbons
+    - Joe Witkin
+    - Carol Witkin
   influenced: []
   mentors:
-  - Kamaka Mullen
-  - George Kahumoku Jr.
+    - Kamaka Mullen
+    - George Kahumoku Jr.
 network_extracted: true
-origin: Southern California, USA (band origin); Hawai'i, USA (Rand Anderson base)
+origin: 'Southern California, USA (band origin); Hawai''i, USA (Rand Anderson base)'
 primary_source: perplexity
 research_sources:
-- https://slackkeyohana.com/bio
-- https://slackkeyohana.com
-- https://odysseymagazines.com/music-1/template-review-rne7n-2mf22-5e6wm-m5wx9-bg3kx
-- https://sandiegotroubadour.com/slack-key-ohana-2/
-- https://www.obscuresound.com/2025/04/slack-key-ohana-rand-anderson-slack-key-blues/
-- https://mauinow.com/2024/10/06/slack-key-%CA%BBohanas-hawaiian-cowboy-up-for-grammy-consideration-in-two-categories/
-- https://pacificrecords.com/artist/rand-anderson/
-- https://randanderson.com/bio/
+  - 'https://slackkeyohana.com/bio'
+  - 'https://slackkeyohana.com'
+  - >-
+    https://odysseymagazines.com/music-1/template-review-rne7n-2mf22-5e6wm-m5wx9-bg3kx
+  - 'https://sandiegotroubadour.com/slack-key-ohana-2/'
+  - >-
+    https://www.obscuresound.com/2025/04/slack-key-ohana-rand-anderson-slack-key-blues/
+  - >-
+    https://mauinow.com/2024/10/06/slack-key-%CA%BBohanas-hawaiian-cowboy-up-for-grammy-consideration-in-two-categories/
+  - 'https://pacificrecords.com/artist/rand-anderson/'
+  - 'https://randanderson.com/bio/'
 spotify_data:
   followers: 134
   id: 5r90xPSG7xrKbf1MfDoPMb
   popularity: 4
-  url: https://open.spotify.com/artist/5r90xPSG7xrKbf1MfDoPMb
+  url: 'https://open.spotify.com/artist/5r90xPSG7xrKbf1MfDoPMb'
 status: active
 title: Slack Key Ohana & Rand Anderson
+artist_type: person
 ---
 
 ![]()

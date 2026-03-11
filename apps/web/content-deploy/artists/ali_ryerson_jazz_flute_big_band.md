@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-29T01:58:20.947596'
-birth_place: New York City, New York, USA
+birth_place: 'New York City, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T01:58:20.947606'
 external_urls:
-  spotify: https://open.spotify.com/artist/2b3WXGYtiaZywaH0kjjBSm
-  wikipedia: https://en.wikipedia.org/wiki/Ali_Ryerson
+  spotify: 'https://open.spotify.com/artist/2b3WXGYtiaZywaH0kjjBSm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ali_Ryerson'
 genres:
-- big band
-image_path: 03_Resources/source_material/ArtistPortraits/ali_ryerson_jazz_flute_big_band.jpg
+  - big band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ali_ryerson_jazz_flute_big_band.jpg
 last_updated: '2026-01-29T01:58:20.947608'
 musical_connections:
   collaborators:
-  - Stephane Grappelli
-  - Roy Haynes
-  - Hubert Laws
-  - Kenny Barron
-  - Joe Beck
-  - Luciano Pavarotti
+    - Stephane Grappelli
+    - Roy Haynes
+    - Hubert Laws
+    - Kenny Barron
+    - Joe Beck
+    - Luciano Pavarotti
   influenced: []
   mentors:
-  - Harold Bennett
-  - John Wion
-  - Julius Baker
+    - Harold Bennett
+    - John Wion
+    - Julius Baker
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://thefluteexaminer.com/ali-ryerson-jazz-flute/
-- https://www.interlochen.org/person/ali-ryerson
-- https://en.wikipedia.org/wiki/Ali_Ryerson
-- https://www.midwestclinic.org/2012_clinician_Ali_Ryerson.html
-- https://sankyoflutes.com/artist/ali-ryerson/
-- https://www.adams-music.com/en/artists/flute_centre/ali-ryerson
-- https://www.capradio.org/music/jazz/2018/06/20/destined-for-jazz-flutist-ali-ryerson-carves-her-own-path/
+  - 'https://thefluteexaminer.com/ali-ryerson-jazz-flute/'
+  - 'https://www.interlochen.org/person/ali-ryerson'
+  - 'https://en.wikipedia.org/wiki/Ali_Ryerson'
+  - 'https://www.midwestclinic.org/2012_clinician_Ali_Ryerson.html'
+  - 'https://sankyoflutes.com/artist/ali-ryerson/'
+  - 'https://www.adams-music.com/en/artists/flute_centre/ali-ryerson'
+  - >-
+    https://www.capradio.org/music/jazz/2018/06/20/destined-for-jazz-flutist-ali-ryerson-carves-her-own-path/
 spotify_data:
   followers: 317
   id: 2b3WXGYtiaZywaH0kjjBSm
   popularity: 0
-  url: https://open.spotify.com/artist/2b3WXGYtiaZywaH0kjjBSm
+  url: 'https://open.spotify.com/artist/2b3WXGYtiaZywaH0kjjBSm'
 status: active
 title: Ali Ryerson Jazz Flute Big Band
+birth_date: '1952-10-21'
+artist_type: band
 ---
 
 ![](ali_ryerson_jazz_flute_big_band.jpg)

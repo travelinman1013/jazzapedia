@@ -1,118 +1,120 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - saxophone
-  mbid: eed56c0e-cb7e-4c1f-9f54-35f5147fce0f
-  name: Zoot Sims Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 1d7f3fe3-3510-4484-93f2-ff2f3a9a9928
-  name: The Al Cohn & Zoot Sims Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: be86d9c6-4228-489d-9928-91d766b83b94
-  name: Gerry Mulligan Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 316c0628-5bf8-4cfb-8df5-da335c23cd66
-  name: The Bill Crow-Phil Woods All Stars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 67b75731-dd4b-4627-82e2-bcda59980aa8
-  name: Zoot Sims Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: d2c7b972-2ac0-4984-ac7e-c41c944a43e4
-  name: The Kenny Clarke - Francy Boland Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 02ba63f3-4891-45c7-a058-4e7e49721877
-  name: Curtis Fuller's Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c0a4a623-724a-4b1a-8e96-0eff607968d2
-  name: Billy Byers & His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9ed106dc-ebf4-45bf-8824-d0caf44f89e2
-  name: Al Cohn-Zoot Sims Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - saxophone
+    mbid: eed56c0e-cb7e-4c1f-9f54-35f5147fce0f
+    name: Zoot Sims Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 1d7f3fe3-3510-4484-93f2-ff2f3a9a9928
+    name: The Al Cohn & Zoot Sims Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: be86d9c6-4228-489d-9928-91d766b83b94
+    name: Gerry Mulligan Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 316c0628-5bf8-4cfb-8df5-da335c23cd66
+    name: The Bill Crow-Phil Woods All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 67b75731-dd4b-4627-82e2-bcda59980aa8
+    name: Zoot Sims Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: d2c7b972-2ac0-4984-ac7e-c41c944a43e4
+    name: The Kenny Clarke - Francy Boland Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 02ba63f3-4891-45c7-a058-4e7e49721877
+    name: Curtis Fuller's Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c0a4a623-724a-4b1a-8e96-0eff607968d2
+    name: Billy Byers & His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9ed106dc-ebf4-45bf-8824-d0caf44f89e2
+    name: Al Cohn-Zoot Sims Sextet
 biography_enhanced_at: '2026-01-28T01:55:05.258959'
 birth_date: '1925-10-29'
-birth_place: Inglewood
+birth_place: 'Inglewood, California, United States'
 death_date: '1985-03-23'
 disambiguation: US jazz saxophonist
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:55:05.258978'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d17b505f-a6e3-44e7-afcc-415d407c414f
-  spotify: https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap
-  wikipedia: https://en.wikipedia.org/wiki/Zoot_Sims
+  musicbrainz: 'https://musicbrainz.org/artist/d17b505f-a6e3-44e7-afcc-415d407c414f'
+  spotify: 'https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zoot_Sims'
 gender: Male
 genres:
-- cool jazz
-- jazz
-- jazz ballads
-- hard bop
-- bebop
+  - cool jazz
+  - jazz
+  - jazz ballads
+  - hard bop
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/zoot_sims.jpg
 instruments:
-- eponymous
-- original
-- saxophone
-- tenor saxophone
+  - eponymous
+  - original
+  - saxophone
+  - tenor saxophone
 last_updated: '2026-01-28T01:55:05.258980'
 musical_connections:
   collaborators:
-  - Woody Herman
-  - Al Cohn
-  - Gerry Mulligan
-  - Benny Goodman
-  - Count Basie
-  - Jimmy Rowles
+    - Woody Herman
+    - Al Cohn
+    - Gerry Mulligan
+    - Benny Goodman
+    - Count Basie
+    - Jimmy Rowles
   influenced: []
   mentors:
-  - Lester Young
-  - Ben Webster
+    - Lester Young
+    - Ben Webster
 musicbrainz_id: d17b505f-a6e3-44e7-afcc-415d407c414f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Zoot-Sims
-- https://en.wikipedia.org/wiki/Zoot_Sims
-- https://fromthevaults-boppinbob.blogspot.com/2021/10/zoot-sims-born-29-october-1925.html
-- https://www.psaudio.com/blogs/copper/zoot-sims-a-saxophonists-saxophonist
-- https://www.selmer.fr/en/blogs/artistes/zoot-sims
-- https://concord.com/artist/zoot-sims/
+  - 'https://www.britannica.com/biography/Zoot-Sims'
+  - 'https://en.wikipedia.org/wiki/Zoot_Sims'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/10/zoot-sims-born-29-october-1925.html
+  - 'https://www.psaudio.com/blogs/copper/zoot-sims-a-saxophonists-saxophonist'
+  - 'https://www.selmer.fr/en/blogs/artistes/zoot-sims'
+  - 'https://concord.com/artist/zoot-sims/'
 spotify_data:
   followers: 35013
   id: 1pwr5rTWLVfqhvHfB7Reap
   popularity: 45
-  url: https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap
+  url: 'https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap'
 status: active
 tags:
-- 2008 universal fire victim
-- bossa nova
-- cool jazz
+  - 2008 universal fire victim
+  - bossa nova
+  - cool jazz
 title: Zoot Sims
+is_active: false
 ---
 
 ![](zoot_sims.jpg)

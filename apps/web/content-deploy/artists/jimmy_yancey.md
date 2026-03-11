@@ -2,57 +2,58 @@
 artist_type: person
 biography_enhanced_at: '2026-02-24T01:44:06.715992'
 birth_date: '1898-02-20'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1951-09-17'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:44:06.715999'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/78a7f57a-a276-45f6-b63c-96d941e244d2
-  spotify: https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Yancey
+  musicbrainz: 'https://musicbrainz.org/artist/78a7f57a-a276-45f6-b63c-96d941e244d2'
+  spotify: 'https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Yancey'
 gender: Male
 genres:
-- boogie-woogie
-- ragtime
-- boogie
-- blues
+  - boogie-woogie
+  - ragtime
+  - boogie
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_yancey.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-02-24T01:44:06.716001'
 musical_connections:
   collaborators:
-  - Mama Yancey (Estella Yancey)
-  - Edward 'Kid' Ory
+    - Mama Yancey (Estella Yancey)
+    - Edward 'Kid' Ory
   influenced:
-  - Albert Ammons
-  - Meade 'Lux' Lewis
-  - Pinetop Smith
+    - Albert Ammons
+    - Meade 'Lux' Lewis
+    - Pinetop Smith
   mentors:
-  - Alonzo Yancey
+    - Alonzo Yancey
 musicbrainz_id: 78a7f57a-a276-45f6-b63c-96d941e244d2
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Jimmy-Yancey
-- https://bigtrainblues.com/jimmy-yancey/
-- https://yanceyfamilygenealogy.org/jimmy.htm
-- https://www.rhino.com/article/jimmy-yancey
-- https://www.allaboutjazz.com/musicians/jimmy-yancey/
-- https://mojohand.com/glossary/jimmy-yancey/
-- https://ragpiano.com/comps/jyancey.shtml
-- https://en.wikipedia.org/wiki/Jimmy_Yancey
+  - 'https://www.britannica.com/biography/Jimmy-Yancey'
+  - 'https://bigtrainblues.com/jimmy-yancey/'
+  - 'https://yanceyfamilygenealogy.org/jimmy.htm'
+  - 'https://www.rhino.com/article/jimmy-yancey'
+  - 'https://www.allaboutjazz.com/musicians/jimmy-yancey/'
+  - 'https://mojohand.com/glossary/jimmy-yancey/'
+  - 'https://ragpiano.com/comps/jyancey.shtml'
+  - 'https://en.wikipedia.org/wiki/Jimmy_Yancey'
 spotify_data:
   followers: 3372
   id: 5Htb3OCSbYrsNjXgFP1LqD
   popularity: 10
-  url: https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD
+  url: 'https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD'
 status: active
 tags:
-- boogie-woogie
-- jazz
-- piano blues
-title: JIMMY YANCEY
+  - boogie-woogie
+  - jazz
+  - piano blues
+title: Jimmy Yancey
+is_active: false
 ---
 
 ![](jimmy_yancey.jpg)

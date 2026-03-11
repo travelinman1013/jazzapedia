@@ -3,44 +3,48 @@ biography_enhanced_at: '2026-01-29T02:02:40.653863'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:02:40.653874'
 external_urls:
-  spotify: https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF
+  spotify: 'https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF'
   wikipedia: ''
 genres:
-- cajun
-- brass band
+  - cajun
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_sketch.jpg
 last_updated: '2026-01-29T02:02:40.653875'
 musical_connections:
   collaborators:
-  - Dave Pomerleau (Busta Gnutt)
-  - Andre Bohren (Dirty Johnny)
-  - Omar Ramirez (Johnny Rico)
-  - Sage Newell (Sage Rouge)
-  - Josh Paxton
-  - Brad Walker (Johnny Come Lately)
+    - Dave Pomerleau (Busta Gnutt)
+    - Andre Bohren (Dirty Johnny)
+    - Omar Ramirez (Johnny Rico)
+    - Sage Newell (Sage Rouge)
+    - Josh Paxton
+    - Brad Walker (Johnny Come Lately)
   influenced: []
   mentors:
-  - George Clinton
-  - Frank Zappa
+    - George Clinton
+    - Frank Zappa
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.btdfoundation.org/johnny-sketch-and-the-dirty-notes/
-- https://www.johnnysketch.com/bio
-- https://k2radio.com/johnny-sketch-and-the-dirty-notes-funking-beyond-the-call-of-duty/
-- https://www.johnnysketch.com/about
-- https://www.myneworleans.com/read-spin-6/
-- https://www.johnnysketch.com
-- https://www.offbeat.com/music/johnny-sketch-and-the-dirty-notes-the-big-awesome-full-frontal/
-- https://www.neworleans.com/listing/johnny-sketch-&-the-dirty-notes/46435/
+  - 'https://www.btdfoundation.org/johnny-sketch-and-the-dirty-notes/'
+  - 'https://www.johnnysketch.com/bio'
+  - >-
+    https://k2radio.com/johnny-sketch-and-the-dirty-notes-funking-beyond-the-call-of-duty/
+  - 'https://www.johnnysketch.com/about'
+  - 'https://www.myneworleans.com/read-spin-6/'
+  - 'https://www.johnnysketch.com'
+  - >-
+    https://www.offbeat.com/music/johnny-sketch-and-the-dirty-notes-the-big-awesome-full-frontal/
+  - 'https://www.neworleans.com/listing/johnny-sketch-&-the-dirty-notes/46435/'
 spotify_data:
   followers: 2708
   id: 4euiFJVFE4gijlrQl4b7DF
   popularity: 7
-  url: https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF
+  url: 'https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF'
 status: active
-title: johnny sketch
+title: Johnny Sketch and the Dirty Notes
+birth_place: 'Maine, United States'
+artist_type: band
 ---
 
 ![](johnny_sketch.jpg)

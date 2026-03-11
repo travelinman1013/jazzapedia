@@ -3,43 +3,45 @@ biography_enhanced_at: '2026-02-15T01:55:45.708513'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:55:45.708522'
 external_urls:
-  spotify: https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd
-  wikipedia: https://en.wikipedia.org/wiki/Mariachi_Divas_de_Cindy_Shea
+  spotify: 'https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mariachi_Divas_de_Cindy_Shea'
 genres:
-- mariachi
-- ranchera
+  - mariachi
+  - ranchera
 image_path: 03_Resources/source_material/ArtistPortraits/mariachi_divas_de_cindy_shea.jpg
 last_updated: '2026-02-15T01:55:45.708523'
 musical_connections:
   collaborators:
-  - Stan Freese
-  - Mariachi Las Alondras
-  - Celia Cruz and Yari More
+    - Stan Freese
+    - Mariachi Las Alondras
+    - Celia Cruz and Yari More
   influenced:
-  - Mariachi Angelitas and Mariachi Espectacular
+    - Mariachi Angelitas and Mariachi Espectacular
   mentors:
-  - Arturo Sandoval
+    - Arturo Sandoval
 network_extracted: true
-origin: Los Angeles, California, USA
+origin: 'Los Angeles, California, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mariachi_Divas_de_Cindy_Shea
-- https://shoutoutla.com/meet-cindy-shea-ceo-mariachi-divas-inc-founder-and-trumpet-player-of-mariachi-divas-established-in-1999/
-- https://canvasrebel.com/meet-cindy-shea/
-- https://www.lasazaleasmusic.com/monthlyspotlight/mariachidivas
-- https://clarkcenter.org/shows/mariachi-divas/
-- https://yucaipaperformingarts.org/mariachi-divas-de-cindy-shea/
-- https://www.harmonyartists.com/artist/mariachi-divas
-- http://artscenter.uhh.hawaii.edu/25-26/mariachi-divas
-- https://wichitafallsarts.org/mariachi-divas-feature-story/
-- https://www.youtube.com/user/mariachidivas/about
+  - 'https://en.wikipedia.org/wiki/Mariachi_Divas_de_Cindy_Shea'
+  - >-
+    https://shoutoutla.com/meet-cindy-shea-ceo-mariachi-divas-inc-founder-and-trumpet-player-of-mariachi-divas-established-in-1999/
+  - 'https://canvasrebel.com/meet-cindy-shea/'
+  - 'https://www.lasazaleasmusic.com/monthlyspotlight/mariachidivas'
+  - 'https://clarkcenter.org/shows/mariachi-divas/'
+  - 'https://yucaipaperformingarts.org/mariachi-divas-de-cindy-shea/'
+  - 'https://www.harmonyartists.com/artist/mariachi-divas'
+  - 'http://artscenter.uhh.hawaii.edu/25-26/mariachi-divas'
+  - 'https://wichitafallsarts.org/mariachi-divas-feature-story/'
+  - 'https://www.youtube.com/user/mariachidivas/about'
 spotify_data:
   followers: 6165
   id: 3D5AzlMCW0gCYlNvFANoEd
   popularity: 27
-  url: https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd
+  url: 'https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd'
 status: active
 title: Mariachi Divas De Cindy Shea
+artist_type: band
 ---
 
 ![](mariachi_divas_de_cindy_shea.jpg)

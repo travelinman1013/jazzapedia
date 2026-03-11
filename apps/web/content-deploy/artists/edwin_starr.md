@@ -2,58 +2,60 @@
 artist_type: person
 biography_enhanced_at: '2026-02-20T01:25:18.843551'
 birth_date: '1942-01-21'
-birth_place: Nashville
+birth_place: 'Nashville, Tennessee, United States'
 death_date: '2003-04-02'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:25:18.843556'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9eace815-06f3-487c-bf3a-1a817e248056
-  spotify: https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u
-  wikipedia: https://en.wikipedia.org/wiki/Edwin_Starr
+  musicbrainz: 'https://musicbrainz.org/artist/9eace815-06f3-487c-bf3a-1a817e248056'
+  spotify: 'https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u'
+  wikipedia: 'https://en.wikipedia.org/wiki/Edwin_Starr'
 gender: Male
 genres:
-- northern soul
-- motown
-- classic soul
+  - northern soul
+  - motown
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/edwin_starr.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-02-20T01:25:18.843557'
 musical_connections:
   collaborators:
-  - Norman Whitfield
-  - Barrett Strong
-  - Black Merda
-  - Ian Levine
+    - Norman Whitfield
+    - Barrett Strong
+    - Black Merda
+    - Ian Levine
   influenced:
-  - Marvin Gaye
-  - Stevie Wonder
+    - Marvin Gaye
+    - Stevie Wonder
   mentors:
-  - James Brown
-  - Don Briggs
+    - James Brown
+    - Don Briggs
 musicbrainz_id: 9eace815-06f3-487c-bf3a-1a817e248056
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.motownmuseum.org/artist/edwin-starr/
-- http://www.northernsoultrain.co.uk/artists/edwinstar.html
-- https://en.wikipedia.org/wiki/Edwin_Starr
-- https://michiganrockandrolllegends.com/hall-of-fame/artists/326-edwin-starr
-- http://www.edwinstarr.info/bioguk.php
-- https://case.edu/ech/articles/s/starr-edwin-hatcher-charles-edwin
-- https://www.udiscovermusic.com/stories/remembering-great-edwin-starr/
-- https://classic.motown.com/story/edwin-starr-story-behind-the-image/
+  - 'https://www.motownmuseum.org/artist/edwin-starr/'
+  - 'http://www.northernsoultrain.co.uk/artists/edwinstar.html'
+  - 'https://en.wikipedia.org/wiki/Edwin_Starr'
+  - 'https://michiganrockandrolllegends.com/hall-of-fame/artists/326-edwin-starr'
+  - 'http://www.edwinstarr.info/bioguk.php'
+  - 'https://case.edu/ech/articles/s/starr-edwin-hatcher-charles-edwin'
+  - 'https://www.udiscovermusic.com/stories/remembering-great-edwin-starr/'
+  - 'https://classic.motown.com/story/edwin-starr-story-behind-the-image/'
 spotify_data:
   followers: 181399
   id: 1B8AXU6gIIafpyLEpbcv1u
   popularity: 47
-  url: https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u
+  url: 'https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u'
 status: active
 tags:
-- disco
-- funk
-- northern soul
+  - disco
+  - funk
+  - northern soul
 title: Edwin Starr
+is_active: false
+origin: 'Cleveland, Ohio, United States'
 ---
 
 ![](edwin_starr.jpg)

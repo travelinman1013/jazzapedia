@@ -3,50 +3,53 @@ biography_enhanced_at: '2026-02-01T01:33:50.658400'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:33:50.658406'
 external_urls:
-  spotify: https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb
-  wikipedia: https://en.wikipedia.org/wiki/Siouxsie_and_the_Banshees
+  spotify: 'https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Siouxsie_and_the_Banshees'
 genres:
-- gothic rock
-- post-punk
-- darkwave
-- deathrock
-- new wave
-- cold wave
+  - gothic rock
+  - post-punk
+  - darkwave
+  - deathrock
+  - new wave
+  - cold wave
 image_path: 03_Resources/source_material/ArtistPortraits/siouxsie_and_the_banshees.jpg
 last_updated: '2026-02-01T01:33:50.658407'
 musical_connections:
   collaborators:
-  - Steven Severin
-  - John McKay
-  - Kenny Morris
-  - Budgie
-  - John McGeoch
-  - Marco Pirroni
-  - Sid Vicious
+    - Steven Severin
+    - John McKay
+    - Kenny Morris
+    - Budgie
+    - John McGeoch
+    - Marco Pirroni
+    - Sid Vicious
   influenced:
-  - Radiohead
-  - The Smiths
+    - Radiohead
+    - The Smiths
   mentors:
-  - Sex Pistols
-  - Roxy Music
+    - Sex Pistols
+    - Roxy Music
 network_extracted: true
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Siouxsie_and_the_Banshees
-- https://siouxsie.fandom.com/wiki/Siouxsie_and_the_Banshees
-- https://ceremonymusic.ca/home/siouxsieandthebanshees
-- https://www.last.fm/music/Siouxsie+and+the+Banshees/+wiki
-- https://www.loudersound.com/features/siouxsie-and-the-banshees-the-story-of-the-band-who-band-who-saved-punk-from-parody-and-invented-goth
-- https://punk77.co.uk/band/siouxsie-and-the-banshees/
-- https://aawan12.substack.com/p/legend-spotlight-siouxsie-and-the?r=3lhxsu&shareImageVariant=overlay
+  - 'https://en.wikipedia.org/wiki/Siouxsie_and_the_Banshees'
+  - 'https://siouxsie.fandom.com/wiki/Siouxsie_and_the_Banshees'
+  - 'https://ceremonymusic.ca/home/siouxsieandthebanshees'
+  - 'https://www.last.fm/music/Siouxsie+and+the+Banshees/+wiki'
+  - >-
+    https://www.loudersound.com/features/siouxsie-and-the-banshees-the-story-of-the-band-who-band-who-saved-punk-from-parody-and-invented-goth
+  - 'https://punk77.co.uk/band/siouxsie-and-the-banshees/'
+  - >-
+    https://aawan12.substack.com/p/legend-spotlight-siouxsie-and-the?r=3lhxsu&shareImageVariant=overlay
 spotify_data:
   followers: 1388839
   id: 1n65zfwYIj5kKEtNgxUlWb
   popularity: 61
-  url: https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb
+  url: 'https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb'
 status: active
 title: Siouxsie & The Banshees
+artist_type: band
 ---
 
 ![](siouxsie_and_the_banshees.jpg)

@@ -3,42 +3,43 @@ biography_enhanced_at: '2026-02-26T01:16:05.076162'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:16:05.076171'
 external_urls:
-  spotify: https://open.spotify.com/artist/59dGdCSieplkG6HWFQbyYB
+  spotify: 'https://open.spotify.com/artist/59dGdCSieplkG6HWFQbyYB'
   wikipedia: ''
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/jazz_sabbath.jpg
 last_updated: '2026-02-26T01:16:05.076173'
 musical_connections:
   collaborators:
-  - Ash Soan
-  - Jerry Meehan
-  - Jack Tustin
-  - Gus G
-  - Simon McBride
+    - Ash Soan
+    - Jerry Meehan
+    - Jack Tustin
+    - Gus G
+    - Simon McBride
   influenced: []
   mentors:
-  - Rick Wakeman
+    - Rick Wakeman
 network_extracted: true
-origin: England, United Kingdom (fictional 1960s origin)
+origin: 'England, United Kingdom (fictional 1960s origin)'
 primary_source: perplexity
 research_sources:
-- https://jazzjournal.co.uk/2020/06/09/jazz-sabbath-jazz-sabbath/
-- http://www.jazzsabbath.net/thestory.php
-- https://www.last.fm/music/Jazz+Sabbath/+wiki
-- http://jazzsabbath.net/press/Jazz%20Sabbath%20Biography.pdf
-- https://rocknrolljournalist.com/2021/08/jazz-sabbath-interview-2020.html
-- https://www.allaboutjazz.com/jazz-sabbath-live-jazz-sabbath-blacklake
-- https://www.allmusic.com/artist/jazz-sabbath-mn0001650087
-- https://www.youtube.com/watch?v=K01NVPQCpy8
-- https://www.fidelity-magazine.com/jazz-sabbath-vol-2/
+  - 'https://jazzjournal.co.uk/2020/06/09/jazz-sabbath-jazz-sabbath/'
+  - 'http://www.jazzsabbath.net/thestory.php'
+  - 'https://www.last.fm/music/Jazz+Sabbath/+wiki'
+  - 'http://jazzsabbath.net/press/Jazz%20Sabbath%20Biography.pdf'
+  - 'https://rocknrolljournalist.com/2021/08/jazz-sabbath-interview-2020.html'
+  - 'https://www.allaboutjazz.com/jazz-sabbath-live-jazz-sabbath-blacklake'
+  - 'https://www.allmusic.com/artist/jazz-sabbath-mn0001650087'
+  - 'https://www.youtube.com/watch?v=K01NVPQCpy8'
+  - 'https://www.fidelity-magazine.com/jazz-sabbath-vol-2/'
 spotify_data:
   followers: 32030
   id: 59dGdCSieplkG6HWFQbyYB
   popularity: 25
-  url: https://open.spotify.com/artist/59dGdCSieplkG6HWFQbyYB
+  url: 'https://open.spotify.com/artist/59dGdCSieplkG6HWFQbyYB'
 status: active
 title: Jazz Sabbath
+artist_type: person
 ---
 
 ![](jazz_sabbath.jpg)

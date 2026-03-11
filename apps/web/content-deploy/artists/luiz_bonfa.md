@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-23T02:59:50.265882'
-birth_place: Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T02:59:50.265888'
 external_urls:
-  spotify: https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb
+  spotify: 'https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb'
   wikipedia: ''
 genres:
-- bossa nova
-- brazilian jazz
-- latin jazz
+  - bossa nova
+  - brazilian jazz
+  - latin jazz
 image_path: 03_Resources/source_material/ArtistPortraits/luiz_bonfa.jpg
 last_updated: '2026-02-23T02:59:50.265889'
 musical_connections:
   collaborators:
-  - Antônio Maria
-  - Vinicius de Moraes
-  - Dick Farney
+    - Antônio Maria
+    - Vinicius de Moraes
+    - Dick Farney
   influenced:
-  - João Gilberto
-  - Antonio Carlos Jobim
+    - João Gilberto
+    - Antonio Carlos Jobim
   mentors:
-  - Isaias Savio
+    - Isaias Savio
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.rovr.live/artists/luiz%20bonfa
-- https://www.slipcue.com/music/brazil/bonfa.html
-- https://fromthevaults-boppinbob.blogspot.com/2020/10/luiz-bonfa-born-17-october-1922.html
-- https://folkways.si.edu/luiz-bonfa-brazilian-bossa-nova-guitarist/latin-world/music/article/smithsonian
-- http://www.nts.live/artists/36623-luiz-bonfa
-- https://musicabrasileira.org/luiz-bonfa-solo-in-rio-1959/
+  - 'https://www.rovr.live/artists/luiz%20bonfa'
+  - 'https://www.slipcue.com/music/brazil/bonfa.html'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/10/luiz-bonfa-born-17-october-1922.html
+  - >-
+    https://folkways.si.edu/luiz-bonfa-brazilian-bossa-nova-guitarist/latin-world/music/article/smithsonian
+  - 'http://www.nts.live/artists/36623-luiz-bonfa'
+  - 'https://musicabrasileira.org/luiz-bonfa-solo-in-rio-1959/'
 spotify_data:
   followers: 148498
   id: 174ThXFgQg2VCq9r3m8ceb
   popularity: 53
-  url: https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb
+  url: 'https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb'
 status: active
 title: Luiz Bonfa
+artist_type: person
 ---
 
 ![](luiz_bonfa.jpg)

@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-25T01:37:16.911115'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:37:16.911121'
 external_urls:
-  spotify: https://open.spotify.com/artist/4RmaS9j2WaLe23gVYJDU1q
+  spotify: 'https://open.spotify.com/artist/4RmaS9j2WaLe23gVYJDU1q'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/miriam_bezerra.jpg
@@ -15,14 +15,16 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bezerra_da_Silva
+  - 'https://en.wikipedia.org/wiki/Bezerra_da_Silva'
 spotify_data:
   followers: 11
   id: 4RmaS9j2WaLe23gVYJDU1q
   popularity: 0
-  url: https://open.spotify.com/artist/4RmaS9j2WaLe23gVYJDU1q
+  url: 'https://open.spotify.com/artist/4RmaS9j2WaLe23gVYJDU1q'
 status: active
 title: Miriam Bezerra
+birth_date: '1927'
+artist_type: person
 ---
 
 ![](miriam_bezerra.jpg)

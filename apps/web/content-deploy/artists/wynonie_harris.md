@@ -1,72 +1,77 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 5d69c488-5042-47f8-bf49-f3e839e6ad4d
-  name: Wynonie Harris All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 5d69c488-5042-47f8-bf49-f3e839e6ad4d
+    name: Wynonie Harris All Stars
 biography_enhanced_at: '2026-02-10T01:55:10.492651'
 birth_date: '1915-08-24'
-birth_place: Omaha
+birth_place: 'Omaha, Nebraska, United States'
 death_date: '1969-06-14'
-disambiguation: R&B singer, known as “Mr. Blues”
+disambiguation: 'R&B singer, known as “Mr. Blues”'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:55:10.492660'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8f852f3d-7ebd-4177-9a06-dbde10533563
-  spotify: https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn
-  wikipedia: https://en.wikipedia.org/wiki/Wynonie_Harris
+  musicbrainz: 'https://musicbrainz.org/artist/8f852f3d-7ebd-4177-9a06-dbde10533563'
+  spotify: 'https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wynonie_Harris'
 gender: Male
 genres:
-- boogie-woogie
-- swing music
-- rockabilly
-- roots rock
+  - boogie-woogie
+  - swing music
+  - rockabilly
+  - roots rock
 image_path: 03_Resources/source_material/ArtistPortraits/wynonie_harris.jpg
 instruments:
-- eponymous
-- original
-- vocal
+  - eponymous
+  - original
+  - vocal
 last_updated: '2026-02-10T01:55:10.492662'
 musical_connections:
   collaborators:
-  - Lucky Millinder
-  - Johnny Otis
-  - Illinois Jacquet
-  - Velda Shannon
-  - Preston Love
+    - Lucky Millinder
+    - Johnny Otis
+    - Illinois Jacquet
+    - Velda Shannon
+    - Preston Love
   influenced:
-  - Elvis Presley
-  - Wesley Harris
+    - Elvis Presley
+    - Wesley Harris
   mentors:
-  - Jimmy Rushing
-  - Big Joe Turner
+    - Jimmy Rushing
+    - Big Joe Turner
 musicbrainz_id: 8f852f3d-7ebd-4177-9a06-dbde10533563
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://plainshumanities.unl.edu/encyclopedia/doc/egp.afam.021.html
-- https://www.bluesway.gr/2018/11/wynonie-harris.html
-- https://fromthevaults-boppinbob.blogspot.com/2020/08/wynonie-harris-born-24-august-1915.html
-- https://en.wikipedia.org/wiki/Wynonie_Harris
-- https://mojohand.com/glossary/wynonie-harris/
-- https://tims.blackcat.nl/messages/wynonie_harris.htm
-- https://joesplace.online/wynonie-harris-mister-blues-the-real-father-of-rock-and-roll/
-- https://www.sasktalent.com/resources/history-of-rock-music/wynonie-harris-rock.html
+  - 'https://plainshumanities.unl.edu/encyclopedia/doc/egp.afam.021.html'
+  - 'https://www.bluesway.gr/2018/11/wynonie-harris.html'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/08/wynonie-harris-born-24-august-1915.html
+  - 'https://en.wikipedia.org/wiki/Wynonie_Harris'
+  - 'https://mojohand.com/glossary/wynonie-harris/'
+  - 'https://tims.blackcat.nl/messages/wynonie_harris.htm'
+  - >-
+    https://joesplace.online/wynonie-harris-mister-blues-the-real-father-of-rock-and-roll/
+  - >-
+    https://www.sasktalent.com/resources/history-of-rock-music/wynonie-harris-rock.html
 spotify_data:
   followers: 20821
   id: 4Imc3wiT22cuynvQNpXcVn
   popularity: 38
-  url: https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn
+  url: 'https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn'
 status: active
 tags:
-- jump blues
-- r&b
-- rock and roll
+  - jump blues
+  - r&b
+  - rock and roll
 title: Wynonie Harris
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](wynonie_harris.jpg)

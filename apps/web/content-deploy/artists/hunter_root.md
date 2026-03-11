@@ -1,39 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-23T03:05:40.380872'
-birth_place: Fayetteville born, Lancaster-raised, Pennsylvania, USA
+birth_place: 'Fayetteville born, Lancaster-raised, Pennsylvania, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:05:40.380881'
 external_urls:
-  spotify: https://open.spotify.com/artist/47SbXzs4EiqXQCeZBvUtmh
+  spotify: 'https://open.spotify.com/artist/47SbXzs4EiqXQCeZBvUtmh'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/hunter_root.jpg
 last_updated: '2026-02-23T03:05:40.380883'
 musical_connections:
   collaborators:
-  - Medusa's Disco
-  - Live touring band
+    - Medusa's Disco
+    - Live touring band
   influenced: []
   mentors:
-  - Nick Root
+    - Nick Root
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://americanahighways.org/2025/10/21/interview-hunter-root-turning-grief-into-grace-on-crooked-home/
-- https://houselightventures.com/event/hunter-root/
-- https://www.hunterroot.com/hunterrootbio
-- https://www.hunterroot.com
-- https://mokbpresents.com/artist/hunter-root/
-- https://muzicnotez.com/magazine/2024/01/interview-with-roots-rock-artist-hunter-root-on-viral-success-and-latest-album-arkansas/
-- https://www.themusichall.org/events/hunterroot/
-- https://www.whiskeyriff.com/2023/04/25/hunter-root-dedicates-new-album-arkansas-to-late-older-brother/
+  - >-
+    https://americanahighways.org/2025/10/21/interview-hunter-root-turning-grief-into-grace-on-crooked-home/
+  - 'https://houselightventures.com/event/hunter-root/'
+  - 'https://www.hunterroot.com/hunterrootbio'
+  - 'https://www.hunterroot.com'
+  - 'https://mokbpresents.com/artist/hunter-root/'
+  - >-
+    https://muzicnotez.com/magazine/2024/01/interview-with-roots-rock-artist-hunter-root-on-viral-success-and-latest-album-arkansas/
+  - 'https://www.themusichall.org/events/hunterroot/'
+  - >-
+    https://www.whiskeyriff.com/2023/04/25/hunter-root-dedicates-new-album-arkansas-to-late-older-brother/
 spotify_data:
   followers: 37722
   id: 47SbXzs4EiqXQCeZBvUtmh
   popularity: 36
-  url: https://open.spotify.com/artist/47SbXzs4EiqXQCeZBvUtmh
+  url: 'https://open.spotify.com/artist/47SbXzs4EiqXQCeZBvUtmh'
 status: active
 title: Hunter Root
+origin: 'Lancaster, Pennsylvania, United States'
+artist_type: person
 ---
 
 ![](hunter_root.jpg)

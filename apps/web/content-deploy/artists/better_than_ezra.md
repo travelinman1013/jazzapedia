@@ -1,97 +1,99 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-03-03T01:31:56.750051'
 birth_date: '1988'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:31:56.750061'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7986c185-d91d-4204-8ee2-eac5d503fe39
-  spotify: https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX
+  musicbrainz: 'https://musicbrainz.org/artist/7986c185-d91d-4204-8ee2-eac5d503fe39'
+  spotify: 'https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/better_than_ezra.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-03-03T01:31:56.750063'
 members:
-- begin: '1987'
-  end: '1996'
-  instruments:
-  - original
-  mbid: a2549103-f125-49f6-8882-705a25f7aefb
-  name: Cary Bonnecaze
-- &id001
-  begin: '1987'
-  end: ''
-  instruments:
-  - original
-  mbid: 41516445-cd87-4eff-8660-d1d426f6fbdb
-  name: Kevin Griffin
-- begin: 1996-01
-  end: '2009-01-15'
-  instruments: []
-  mbid: 43efab78-48a4-4ecd-bd1a-9ae44d7b9fac
-  name: Travis McNabb
-- &id002
-  begin: '2009-01-16'
-  end: ''
-  instruments: []
-  mbid: 9279bc07-c22f-4951-a54b-819e5486aec3
-  name: Michael Jerome
-- begin: ''
-  end: '1990'
-  instruments:
-  - original
-  mbid: 684d678f-6ebc-4252-855b-0ab800677834
-  name: Joel Rundell
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 3ca76b53-81a2-4899-a38b-49b0cc74bdee
-  name: Tom Drummond
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 970e40df-a343-4c34-a401-002db6898ab9
-  name: Adam Ezra
+  - begin: '1987'
+    end: '1996'
+    instruments:
+      - original
+    mbid: a2549103-f125-49f6-8882-705a25f7aefb
+    name: Cary Bonnecaze
+  - &ref_0
+    begin: '1987'
+    end: ''
+    instruments:
+      - original
+    mbid: 41516445-cd87-4eff-8660-d1d426f6fbdb
+    name: Kevin Griffin
+  - begin: 1996-01
+    end: '2009-01-15'
+    instruments: []
+    mbid: 43efab78-48a4-4ecd-bd1a-9ae44d7b9fac
+    name: Travis McNabb
+  - &ref_1
+    begin: '2009-01-16'
+    end: ''
+    instruments: []
+    mbid: 9279bc07-c22f-4951-a54b-819e5486aec3
+    name: Michael Jerome
+  - begin: ''
+    end: '1990'
+    instruments:
+      - original
+    mbid: 684d678f-6ebc-4252-855b-0ab800677834
+    name: Joel Rundell
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 3ca76b53-81a2-4899-a38b-49b0cc74bdee
+    name: Tom Drummond
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 970e40df-a343-4c34-a401-002db6898ab9
+    name: Adam Ezra
 musical_connections:
   collaborators:
-  - Joel Rundell
-  - Cary Bonnecaze
-  - Travis McNabb
-  - Michael Jerome
+    - Joel Rundell
+    - Cary Bonnecaze
+    - Travis McNabb
+    - Michael Jerome
   influenced: []
   mentors:
-  - R.E.M.
-  - Let’s Active
-  - Drivin N Cryin
+    - R.E.M.
+    - Let’s Active
+    - Drivin N Cryin
 musicbrainz_id: 7986c185-d91d-4204-8ee2-eac5d503fe39
 network_extracted: true
-origin: Baton Rouge
+origin: 'Baton Rouge, Louisiana, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 primary_source: perplexity
 research_sources:
-- https://www.betterthanezra.com/about
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/better-ezra
-- https://musicrising.tulane.edu/discover/people/better-than-ezra/
-- https://www.youtube.com/watch?v=RNhJwNWwFFE
-- https://www.sheltermusic.com/artists/better-than-ezra-2-3-4
-- https://www.last.fm/music/Better+Than+Ezra/+wiki
-- https://www.aaespeakers.com/keynote-speakers/better-than-ezra
-- https://www.225batonrouge.com/our-city/better-than-ezras-kevin-griffin-talks-of-the-bands-early-days-at-lsu-ahead-of-br-show-this-month
+  - 'https://www.betterthanezra.com/about'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/better-ezra
+  - 'https://musicrising.tulane.edu/discover/people/better-than-ezra/'
+  - 'https://www.youtube.com/watch?v=RNhJwNWwFFE'
+  - 'https://www.sheltermusic.com/artists/better-than-ezra-2-3-4'
+  - 'https://www.last.fm/music/Better+Than+Ezra/+wiki'
+  - 'https://www.aaespeakers.com/keynote-speakers/better-than-ezra'
+  - >-
+    https://www.225batonrouge.com/our-city/better-than-ezras-kevin-griffin-talks-of-the-bands-early-days-at-lsu-ahead-of-br-show-this-month
 spotify_data:
   followers: 471523
   id: 4UuoJfJ9UybJft7a8E6UHX
   popularity: 48
-  url: https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX
+  url: 'https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX'
 status: active
 tags:
-- adult contemporary
-- alternative rock
-- jangle pop
+  - adult contemporary
+  - alternative rock
+  - jangle pop
 title: Better Than Ezra
 ---
 

@@ -1,78 +1,80 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 3685678a-341e-4783-a030-d7c6d76d4fd0
-  name: Gladys Knight and the Saints Unified Voices
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: ca825016-f7fd-4ccf-a523-6ee36ea88828
-  name: Gladys Knight & the Pips
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63fd6e9b-33d2-478a-a2a5-51d347902d44
-  name: Dionne & Friends
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 72c36290-532b-4deb-9665-dfd12d99f3b8
-  name: The Queens
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 3685678a-341e-4783-a030-d7c6d76d4fd0
+    name: Gladys Knight and the Saints Unified Voices
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: ca825016-f7fd-4ccf-a523-6ee36ea88828
+    name: Gladys Knight & the Pips
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63fd6e9b-33d2-478a-a2a5-51d347902d44
+    name: Dionne & Friends
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 72c36290-532b-4deb-9665-dfd12d99f3b8
+    name: The Queens
 biography_enhanced_at: '2026-02-27T01:36:36.812931'
 birth_date: '1944-05-28'
-birth_place: Atlanta
+birth_place: 'Atlanta, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:36:36.812940'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/68f644b2-42ed-4d11-8bc7-633d5250721b
-  spotify: https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0
-  wikipedia: https://en.wikipedia.org/wiki/Gladys_Knight
+  musicbrainz: 'https://musicbrainz.org/artist/68f644b2-42ed-4d11-8bc7-633d5250721b'
+  spotify: 'https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gladys_Knight'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/gladys_knight.jpg
 instruments:
-- original
-- lead vocals
-- background vocals
-- choir vocals
+  - original
+  - lead vocals
+  - background vocals
+  - choir vocals
 last_updated: '2026-02-27T01:36:36.812942'
 musical_connections:
   collaborators:
-  - Merald "Bubba" Knight
-  - William Guest
-  - Edward Patten
-  - Dionne Warwick
-  - Elton John
-  - Stevie Wonder
-  - Ray Charles
+    - Merald "Bubba" Knight
+    - William Guest
+    - Edward Patten
+    - Dionne Warwick
+    - Elton John
+    - Stevie Wonder
+    - Ray Charles
   influenced: []
   mentors:
-  - Morris Brown College Choir
+    - Morris Brown College Choir
 musicbrainz_id: 68f644b2-42ed-4d11-8bc7-633d5250721b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Gladys-Knight
-- https://en.wikipedia.org/wiki/Gladys_Knight
-- https://www.biography.com/musicians/gladys-knight
-- https://www.georgiaencyclopedia.org/articles/arts-culture/gladys-knight-b-1944/
-- https://www.udiscovermusic.com/stories/licence-thrill-glorious-voice-gladys-knight/
+  - 'https://www.britannica.com/biography/Gladys-Knight'
+  - 'https://en.wikipedia.org/wiki/Gladys_Knight'
+  - 'https://www.biography.com/musicians/gladys-knight'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/gladys-knight-b-1944/
+  - >-
+    https://www.udiscovermusic.com/stories/licence-thrill-glorious-voice-gladys-knight/
 spotify_data:
   followers: 345464
   id: 2aXiJJHJei5BmCykxI37y0
   popularity: 51
-  url: https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0
+  url: 'https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0'
 status: active
 tags:
-- doo-wop
-- funk
-- gospel
-title: GLADYS KNIGHT
+  - doo-wop
+  - funk
+  - gospel
+title: Gladys Knight
 ---
 
 ![](gladys_knight.jpg)

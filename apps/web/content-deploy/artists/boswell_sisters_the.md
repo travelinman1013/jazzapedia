@@ -3,43 +3,49 @@ biography_enhanced_at: '2026-02-21T01:34:37.581842'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:34:37.581857'
 external_urls:
-  spotify: https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN
+  spotify: 'https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN'
   wikipedia: ''
 genres:
-- big band
-- swing music
-- ragtime
-- vocal jazz
+  - big band
+  - swing music
+  - ragtime
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/boswell_sisters_the.jpg
 last_updated: '2026-02-21T01:34:37.581861'
 musical_connections:
   collaborators:
-  - Emmett Hardy
+    - Emmett Hardy
   influenced:
-  - Ella Fitzgerald
-  - Andrews Sisters
-  - The Judds
+    - Ella Fitzgerald
+    - Andrews Sisters
+    - The Judds
   mentors:
-  - New Orleans jazz scene
-  - Mother (unnamed)
+    - New Orleans jazz scene
+    - Mother (unnamed)
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://jpcavanaugh.com/2021/12/03/the-boswell-sisters-or-how-three-little-girls-from-new-orleans-changed-popular-jazz-singing/
-- https://sandiegotroubadour.com/the-boswell-sisters-katie-webster-victoria-spivey/
-- https://www.britannica.com/topic/the-Boswell-Sisters
-- https://hnoc.org/virtual-exhibitions/shout-sister-shout
-- https://paulchiten.com/the-greatest-trio-you-never-heard-of-boswell-sisters/
-- https://jazzlives.wordpress.com/2024/09/21/joys-and-sorrows-the-boswell-legacy-second-edition/
-- https://syncopatedtimes.com/the-boswell-legacy-second-edition/
+  - >-
+    https://jpcavanaugh.com/2021/12/03/the-boswell-sisters-or-how-three-little-girls-from-new-orleans-changed-popular-jazz-singing/
+  - >-
+    https://sandiegotroubadour.com/the-boswell-sisters-katie-webster-victoria-spivey/
+  - 'https://www.britannica.com/topic/the-Boswell-Sisters'
+  - 'https://hnoc.org/virtual-exhibitions/shout-sister-shout'
+  - 'https://paulchiten.com/the-greatest-trio-you-never-heard-of-boswell-sisters/'
+  - >-
+    https://jazzlives.wordpress.com/2024/09/21/joys-and-sorrows-the-boswell-legacy-second-edition/
+  - 'https://syncopatedtimes.com/the-boswell-legacy-second-edition/'
 spotify_data:
   followers: 30798
   id: 2mflSlnegn3rBmzsh08OcN
   popularity: 30
-  url: https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN
+  url: 'https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN'
 status: active
-title: Boswell Sisters, The
+title: The Boswell Sisters
+birth_place: 'Kansas City, Missouri, United States'
+birth_date: '1905-06-09'
+artist_type: band
 ---
 
 ![](boswell_sisters_the.jpg)

@@ -1,80 +1,81 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-10T01:59:07.280771'
 birth_date: '1999'
 disambiguation: Cuban hip hop group
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:59:07.280777'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cbf11f81-f98d-458d-89e1-194b40ba5b60
-  spotify: https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT
+  musicbrainz: 'https://musicbrainz.org/artist/cbf11f81-f98d-458d-89e1-194b40ba5b60'
+  spotify: 'https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT'
   wikipedia: ''
 genres:
-- latin hip hop
-- latin alternative
-- son cubano
-- latin
+  - latin hip hop
+  - latin alternative
+  - son cubano
+  - latin
 image_path: 03_Resources/source_material/ArtistPortraits/orishas.jpg
 instruments:
-- original
-- choir vocals
+  - original
+  - choir vocals
 last_updated: '2026-02-10T01:59:07.280778'
 members:
-- begin: '1999'
-  end: '2002'
-  instruments: []
-  mbid: c5d9cc72-24b8-4a85-a971-9b19cf3866c0
-  name: Liván Nuñez Alemán
-- begin: '1999'
-  end: '2021'
-  instruments: []
-  mbid: 8f50ce6d-511b-43c6-982b-8c83bf117d85
-  name: Ruzzo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4df59f83-b9dc-4ce1-88b1-9adbd66d8340
-  name: Roldán González Rivero
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 38a6aabb-ef6e-4180-a201-1861e719442d
-  name: Yotuel
+  - begin: '1999'
+    end: '2002'
+    instruments: []
+    mbid: c5d9cc72-24b8-4a85-a971-9b19cf3866c0
+    name: Liván Nuñez Alemán
+  - begin: '1999'
+    end: '2021'
+    instruments: []
+    mbid: 8f50ce6d-511b-43c6-982b-8c83bf117d85
+    name: Ruzzo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4df59f83-b9dc-4ce1-88b1-9adbd66d8340
+    name: Roldán González Rivero
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 38a6aabb-ef6e-4180-a201-1861e719442d
+    name: Yotuel
 musical_connections:
   collaborators:
-  - Niko Noki (Nocchi)
-  - DJ Mig-One
-  - Liván Nuñez
-  - Roldán González Rivero
-  - Ruzzo Medina
-  - Yotuel Romero
-  - Flaco-Pro
+    - Niko Noki (Nocchi)
+    - DJ Mig-One
+    - Liván Nuñez
+    - Roldán González Rivero
+    - Ruzzo Medina
+    - Yotuel Romero
+    - Flaco-Pro
   influenced:
-  - Ibeyi
+    - Ibeyi
   mentors:
-  - Miguel “Angá” Díaz
+    - Miguel “Angá” Díaz
 musicbrainz_id: cbf11f81-f98d-458d-89e1-194b40ba5b60
 network_extracted: true
-origin: La Habana
+origin: 'La Habana, Cuba, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Orishas/+wiki
-- https://www.theaudiodb.com/artist/131071-Orishas
-- https://remezcla.com/features/music/a-lo-cubano-orishas-20-years/
-- https://magazineampm.com/en/roldan-orishas-entrevista/
-- https://www.rovr.live/artists/orishas
-- https://www.allmusic.com/artist/orishas-mn0000481610
+  - 'https://www.last.fm/music/Orishas/+wiki'
+  - 'https://www.theaudiodb.com/artist/131071-Orishas'
+  - 'https://remezcla.com/features/music/a-lo-cubano-orishas-20-years/'
+  - 'https://magazineampm.com/en/roldan-orishas-entrevista/'
+  - 'https://www.rovr.live/artists/orishas'
+  - 'https://www.allmusic.com/artist/orishas-mn0000481610'
 spotify_data:
   followers: 537711
   id: 2gKYxTUOqw9aPt7ljMwSHT
   popularity: 56
-  url: https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT
+  url: 'https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT'
 status: active
 tags:
-- hip hop
-- latin
+  - hip hop
+  - latin
 title: Orishas
+birth_place: 'Havana, Cuba, United States'
 ---
 
 ![](orishas.jpg)

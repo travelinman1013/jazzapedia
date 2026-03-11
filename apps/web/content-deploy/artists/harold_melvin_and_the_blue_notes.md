@@ -3,43 +3,49 @@ biography_enhanced_at: '2026-02-03T02:12:43.104780'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:12:43.104789'
 external_urls:
-  spotify: https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy
-  wikipedia: https://en.wikipedia.org/wiki/Harold_Melvin_&_the_Blue_Notes
+  spotify: 'https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harold_Melvin_&_the_Blue_Notes'
 genres:
-- philly soul
-- classic soul
-- motown
-- soul
-image_path: 03_Resources/source_material/ArtistPortraits/harold_melvin_and_the_blue_notes.jpg
+  - philly soul
+  - classic soul
+  - motown
+  - soul
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/harold_melvin_and_the_blue_notes.jpg
 last_updated: '2026-02-03T02:12:43.104790'
 musical_connections:
   collaborators:
-  - Teddy Pendergrass
-  - Bernard Wilson
-  - Lawrence Brown
-  - Jerry Cummings
-  - Gil Saunders
+    - Teddy Pendergrass
+    - Bernard Wilson
+    - Lawrence Brown
+    - Jerry Cummings
+    - Gil Saunders
   influenced:
-  - Simply Red
+    - Simply Red
   mentors:
-  - Kenneth Gamble and Leon Huff
+    - Kenneth Gamble and Leon Huff
 network_extracted: true
-origin: Philadelphia, Pennsylvania, United States
+origin: 'Philadelphia, Pennsylvania, United States'
 primary_source: perplexity
 research_sources:
-- https://top40weekly.com/harold-melvin-and-the-blue-notes/
-- https://en.wikipedia.org/wiki/Harold_Melvin_&_the_Blue_Notes
-- https://blackpast.org/african-american-history/harold-melvin-the-blue-notes-1954-1972/
-- https://www.last.fm/music/Harold+Melvin+&+The+Blue+Notes/+wiki
-- https://www.philadelphiamusicalliance.org/walk-of-fame/harold-melvin-the-blue-notes/
-- https://www.youtube.com/watch?v=cXCfyE-bVSA
+  - 'https://top40weekly.com/harold-melvin-and-the-blue-notes/'
+  - 'https://en.wikipedia.org/wiki/Harold_Melvin_&_the_Blue_Notes'
+  - >-
+    https://blackpast.org/african-american-history/harold-melvin-the-blue-notes-1954-1972/
+  - 'https://www.last.fm/music/Harold+Melvin+&+The+Blue+Notes/+wiki'
+  - >-
+    https://www.philadelphiamusicalliance.org/walk-of-fame/harold-melvin-the-blue-notes/
+  - 'https://www.youtube.com/watch?v=cXCfyE-bVSA'
 spotify_data:
   followers: 691978
   id: 438JBZR1AR0l04AzcYW9gy
   popularity: 54
-  url: https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy
+  url: 'https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy'
 status: active
-title: Harold melvin and the Blue notes
+title: Harold Melvin and the Blue Notes
+birth_place: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1939-06-25'
+artist_type: band
 ---
 
 ![](harold_melvin_and_the_blue_notes.jpg)

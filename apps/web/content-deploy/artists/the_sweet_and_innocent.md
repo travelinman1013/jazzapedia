@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-24T02:00:04.537504'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:00:04.537510'
 external_urls:
-  spotify: https://open.spotify.com/artist/6uMjnhpg4OgKmnPaNlUFwB
+  spotify: 'https://open.spotify.com/artist/6uMjnhpg4OgKmnPaNlUFwB'
   wikipedia: Not found
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_sweet_and_innocent.jpg
@@ -13,17 +13,18 @@ musical_connections:
   influenced: []
   mentors: []
 network_extracted: true
-origin: Memphis, Tennessee, United States (inferred from available references)
+origin: 'Memphis, Tennessee, United States (inferred from available references)'
 primary_source: perplexity
 research_sources:
-- https://www.memphisflyer.com/the-music-issue-2003-05-02-1111390
+  - 'https://www.memphisflyer.com/the-music-issue-2003-05-02-1111390'
 spotify_data:
   followers: 2774
   id: 6uMjnhpg4OgKmnPaNlUFwB
   popularity: 29
-  url: https://open.spotify.com/artist/6uMjnhpg4OgKmnPaNlUFwB
+  url: 'https://open.spotify.com/artist/6uMjnhpg4OgKmnPaNlUFwB'
 status: active
 title: The Sweet and Innocent
+artist_type: band
 ---
 
 ![](the_sweet_and_innocent.jpg)

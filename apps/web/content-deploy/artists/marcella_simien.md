@@ -1,54 +1,55 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 9f1ceb58-4b03-48e3-a020-9156761f8b6b
-  name: Marcella & Her Lovers
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 9f1ceb58-4b03-48e3-a020-9156761f8b6b
+    name: Marcella & Her Lovers
 biography_enhanced_at: '2026-02-06T01:12:19.719158'
-birth_place: Lafayette
+birth_place: 'Lafayette, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:12:19.719166'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6aa4e9e4-c5db-448e-9d84-51b64fe1321c
-  spotify: https://open.spotify.com/artist/5GcdiaXhwqkI9J3ExgDaL7
+  musicbrainz: 'https://musicbrainz.org/artist/6aa4e9e4-c5db-448e-9d84-51b64fe1321c'
+  spotify: 'https://open.spotify.com/artist/5GcdiaXhwqkI9J3ExgDaL7'
   wikipedia: ''
 gender: Female
 genres:
-- footwork
+  - footwork
 image_path: 03_Resources/source_material/ArtistPortraits/marcella_simien.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-02-06T01:12:19.719168'
 musical_connections:
   collaborators:
-  - Marcella & Her Lovers band members
-  - Pete Matthews and Toby Vest
-  - Mark Black of Sweet
+    - Marcella & Her Lovers band members
+    - Pete Matthews and Toby Vest
+    - Mark Black of Sweet
   influenced: []
   mentors:
-  - Terrance Simien
-  - Boo Mitchell
+    - Terrance Simien
+    - Boo Mitchell
 musicbrainz_id: 6aa4e9e4-c5db-448e-9d84-51b64fe1321c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://marcellasimien.com/pages/bio
-- http://www.marcellaandherlovers.com/bio
-- https://wearememphis.com/play/music/marcella-simien/
-- https://www.yonasmedia.com/marcella-simien
-- https://www.blackandwyattrecords.com/marcellasimien
-- https://memphismusichalloffame.com/local_artist/marcella-her-lovers/
-- https://choose901.com/event/marcella-simien/
+  - 'https://marcellasimien.com/pages/bio'
+  - 'http://www.marcellaandherlovers.com/bio'
+  - 'https://wearememphis.com/play/music/marcella-simien/'
+  - 'https://www.yonasmedia.com/marcella-simien'
+  - 'https://www.blackandwyattrecords.com/marcellasimien'
+  - 'https://memphismusichalloffame.com/local_artist/marcella-her-lovers/'
+  - 'https://choose901.com/event/marcella-simien/'
 spotify_data:
   followers: 542
   id: 5GcdiaXhwqkI9J3ExgDaL7
   popularity: 3
-  url: https://open.spotify.com/artist/5GcdiaXhwqkI9J3ExgDaL7
+  url: 'https://open.spotify.com/artist/5GcdiaXhwqkI9J3ExgDaL7'
 status: active
 title: Marcella Simien
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](marcella_simien.jpg)

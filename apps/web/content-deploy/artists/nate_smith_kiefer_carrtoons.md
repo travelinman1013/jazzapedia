@@ -1,47 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-10T01:49:46.035104'
-birth_place: Chesapeake, Virginia, United States
+birth_place: 'Chesapeake, Virginia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:49:46.035122'
 external_urls:
-  spotify: https://open.spotify.com/artist/7BhrR6yexlDnEVPNWnxvh6
-  wikipedia: https://en.wikipedia.org/wiki/Nate_Smith_(drummer)
+  spotify: 'https://open.spotify.com/artist/7BhrR6yexlDnEVPNWnxvh6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nate_Smith_(drummer)'
 genres:
-- jazz ballads
+  - jazz ballads
 image_path: ''
 last_updated: '2026-02-10T01:49:46.035125'
 musical_connections:
   collaborators:
-  - Chris Potter
-  - Brittany Howard
-  - Van Hunt
-  - The Fearless Flyers
-  - Pat Metheny
-  - Ravi Coltrane
-  - Norah Jones
+    - Chris Potter
+    - Brittany Howard
+    - Van Hunt
+    - The Fearless Flyers
+    - Pat Metheny
+    - Ravi Coltrane
+    - Norah Jones
   influenced: []
   mentors:
-  - Betty Carter
-  - Dave Holland
-  - Art Blakey and the Jazz Messengers
+    - Betty Carter
+    - Dave Holland
+    - Art Blakey and the Jazz Messengers
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nate_Smith_(drummer)
-- https://www.natesmithdrums.com/bio
-- https://www.mymusicmasterclass.com/artist/artists/nate-smith/
-- https://www.detroitjazzfest.org/artist/nate-smith/
-- https://www.allaboutjazz.com/nate-smith-a-drummers-life-nate-smith
-- https://www.goodmusiccompany.com/wp-content/uploads/2019/07/BIO-NATE-SMITH.pdf
-- https://www.bigfishbookingco.com/nate-smith
-- https://www.youtube.com/@natesmithdrumsofficial/about
+  - 'https://en.wikipedia.org/wiki/Nate_Smith_(drummer)'
+  - 'https://www.natesmithdrums.com/bio'
+  - 'https://www.mymusicmasterclass.com/artist/artists/nate-smith/'
+  - 'https://www.detroitjazzfest.org/artist/nate-smith/'
+  - 'https://www.allaboutjazz.com/nate-smith-a-drummers-life-nate-smith'
+  - >-
+    https://www.goodmusiccompany.com/wp-content/uploads/2019/07/BIO-NATE-SMITH.pdf
+  - 'https://www.bigfishbookingco.com/nate-smith'
+  - 'https://www.youtube.com/@natesmithdrumsofficial/about'
 spotify_data:
   followers: 185
   id: 7BhrR6yexlDnEVPNWnxvh6
   popularity: 11
-  url: https://open.spotify.com/artist/7BhrR6yexlDnEVPNWnxvh6
+  url: 'https://open.spotify.com/artist/7BhrR6yexlDnEVPNWnxvh6'
 status: active
-title: Nate Smith, Kiefer, CARRTOONS
+title: Nate Smith
+birth_date: '1974-12-14'
+artist_type: person
 ---
 
 ![]()

@@ -1,39 +1,45 @@
 ---
 biography_enhanced_at: '2026-02-23T03:05:23.590761'
-birth_place: Mississippi (birthplace), raised in Louisiana, based in Nashville, Tennessee,
+birth_place: >-
+  Mississippi (birthplace), raised in Louisiana, based in Nashville, Tennessee,
   USA
 enhancement_provider: perplexity
 entry_created: '2026-02-23T03:05:23.590775'
 external_urls:
-  spotify: https://open.spotify.com/artist/1Df80ACVZAkP9exXdl1Y9F
+  spotify: 'https://open.spotify.com/artist/1Df80ACVZAkP9exXdl1Y9F'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sara_bug.jpg
 last_updated: '2026-02-23T03:05:23.590779'
 musical_connections:
   collaborators:
-  - Unnamed band
+    - Unnamed band
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://oldgreycat.blog/2021/05/01/first-impressions-sara-bug-self-titled/
-- https://www.americanpancake.com/2021/04/sara-bug-and-country-garden-rock-twang.html
-- https://www.nashvillescene.com/bon/2025/music/writers-choice/sara-bug-into-the-blue/article_4de21b58-12fc-4888-9a8b-aa171714f624.html
-- https://zomagazine.com/sara-bug-interview/
-- https://www.unratedmag.com/sara-bug/
-- https://www.backseatmafia.com/see-sara-bug-back-in-nashville-sweetly-yearning-old-skool-country-from-a-want-away-heart/
-- https://spillmagazine.com/spill-album-review-sara-bug-into-the-blue/
-- https://www.egghunt-records.com/blog-sara-bug
-- https://www.sonofmarketing.com/2021/04/03/streaming-sara-bug-the-beholder/
+  - 'https://oldgreycat.blog/2021/05/01/first-impressions-sara-bug-self-titled/'
+  - >-
+    https://www.americanpancake.com/2021/04/sara-bug-and-country-garden-rock-twang.html
+  - >-
+    https://www.nashvillescene.com/bon/2025/music/writers-choice/sara-bug-into-the-blue/article_4de21b58-12fc-4888-9a8b-aa171714f624.html
+  - 'https://zomagazine.com/sara-bug-interview/'
+  - 'https://www.unratedmag.com/sara-bug/'
+  - >-
+    https://www.backseatmafia.com/see-sara-bug-back-in-nashville-sweetly-yearning-old-skool-country-from-a-want-away-heart/
+  - 'https://spillmagazine.com/spill-album-review-sara-bug-into-the-blue/'
+  - 'https://www.egghunt-records.com/blog-sara-bug'
+  - 'https://www.sonofmarketing.com/2021/04/03/streaming-sara-bug-the-beholder/'
 spotify_data:
   followers: 843
   id: 1Df80ACVZAkP9exXdl1Y9F
   popularity: 0
-  url: https://open.spotify.com/artist/1Df80ACVZAkP9exXdl1Y9F
+  url: 'https://open.spotify.com/artist/1Df80ACVZAkP9exXdl1Y9F'
 status: active
 title: Sara Bug
+origin: 'Nashville, Tennessee, USA'
+artist_type: person
 ---
 
 ![](sara_bug.jpg)

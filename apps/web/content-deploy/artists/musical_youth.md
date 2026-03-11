@@ -1,77 +1,80 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-26T01:21:53.900087'
 birth_date: '1979'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:21:53.900095'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1a3e7a10-72ed-4591-a363-c1e3bc92fc09
-  spotify: https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I
+  musicbrainz: 'https://musicbrainz.org/artist/1a3e7a10-72ed-4591-a363-c1e3bc92fc09'
+  spotify: 'https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I'
   wikipedia: ''
 genres:
-- reggae
+  - reggae
 image_path: 03_Resources/source_material/ArtistPortraits/musical_youth.jpg
 last_updated: '2026-02-26T01:21:53.900096'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a88510db-8ea8-426f-83e1-0f873cff4d99
-  name: Kelvin Grant
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 08bd9542-b83e-4d1f-b66a-2ab9bd8aa6c9
-  name: Michael Grant
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4c2126fa-ee73-44eb-b5f4-31e46a192462
-  name: Dennis Seaton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 891cfda8-b206-49ad-b7dd-576bcfc84790
-  name: Freddie Waite
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: aaba538e-fa2c-4165-96eb-760f412a7266
-  name: Patrick Waite
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a88510db-8ea8-426f-83e1-0f873cff4d99
+    name: Kelvin Grant
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 08bd9542-b83e-4d1f-b66a-2ab9bd8aa6c9
+    name: Michael Grant
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4c2126fa-ee73-44eb-b5f4-31e46a192462
+    name: Dennis Seaton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 891cfda8-b206-49ad-b7dd-576bcfc84790
+    name: Freddie Waite
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: aaba538e-fa2c-4165-96eb-760f412a7266
+    name: Patrick Waite
 musical_connections:
   collaborators:
-  - Dennis Seaton
-  - Kelvin Grant
-  - Michael Grant
-  - Patrick Waite
-  - Junior Waite
+    - Dennis Seaton
+    - Kelvin Grant
+    - Michael Grant
+    - Patrick Waite
+    - Junior Waite
   influenced:
-  - Stevie Wonder
+    - Stevie Wonder
   mentors:
-  - Frederick Waite Sr.
-  - John Peel
+    - Frederick Waite Sr.
+    - John Peel
 musicbrainz_id: 1a3e7a10-72ed-4591-a363-c1e3bc92fc09
 network_extracted: true
-origin: Birmingham
+origin: 'Birmingham, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- http://marcoonthebass.blogspot.com/2011/03/famous-for-15-months-story-behind-rise.html
-- https://nostalgiacentral.com/music/artists-l-to-z/artists-m/musical-youth/
-- https://musical-youth.com
-- https://www.mixtapemadness.com/blog/interviews/musical-youth-we-were-the-first-black-act-on-mtv
-- https://www.onpointagency.co.uk/artist/musicalyouth/
-- https://www.youtube.com/watch?v=NIGUWgQjii0
+  - >-
+    http://marcoonthebass.blogspot.com/2011/03/famous-for-15-months-story-behind-rise.html
+  - 'https://nostalgiacentral.com/music/artists-l-to-z/artists-m/musical-youth/'
+  - 'https://musical-youth.com'
+  - >-
+    https://www.mixtapemadness.com/blog/interviews/musical-youth-we-were-the-first-black-act-on-mtv
+  - 'https://www.onpointagency.co.uk/artist/musicalyouth/'
+  - 'https://www.youtube.com/watch?v=NIGUWgQjii0'
 spotify_data:
   followers: 122542
   id: 2CuzDPkRD6BJBvdWqCrt2I
   popularity: 55
-  url: https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I
+  url: 'https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I'
 status: active
 tags:
-- classic pop and rock
-- reggae
-- reggae-pop
+  - classic pop and rock
+  - reggae
+  - reggae-pop
 title: Musical Youth
+death_date: '2022-07-20'
 ---
 
 ![](musical_youth.jpg)

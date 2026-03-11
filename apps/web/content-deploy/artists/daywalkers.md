@@ -3,42 +3,45 @@ biography_enhanced_at: '2026-03-03T01:32:09.989539'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:32:09.989549'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4cb5b2e7-10bd-46ea-b3d8-70c7e9478137
-  spotify: https://open.spotify.com/artist/1pnLBJLIacjoO7r4EwY8e0
+  musicbrainz: 'https://musicbrainz.org/artist/4cb5b2e7-10bd-46ea-b3d8-70c7e9478137'
+  spotify: 'https://open.spotify.com/artist/1pnLBJLIacjoO7r4EwY8e0'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/daywalkers.jpg
 last_updated: '2026-03-03T01:32:09.989551'
 musical_connections:
   collaborators:
-  - Janson Lohmeyer
-  - Alex MacDonald
-  - Marshall Baker
-  - Trey Landry
-  - Waylon Thibodeaux
+    - Janson Lohmeyer
+    - Alex MacDonald
+    - Marshall Baker
+    - Trey Landry
+    - Waylon Thibodeaux
   influenced: []
   mentors:
-  - Leigh 'Little Queenie' Harris
-  - Bruce 'Weasel' MacDonald
+    - Leigh 'Little Queenie' Harris
+    - Bruce 'Weasel' MacDonald
 musicbrainz_id: 4cb5b2e7-10bd-46ea-b3d8-70c7e9478137
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.thedaywalkersneworleans.com
-- https://www.lifeafteradulting.com/blog/savor-the-beat-krazy-korner-home-of-the-daywalkers
-- https://www.kmmcfarland.com/nola-vibes/new-orleans-best-of-the-best-musicians-the-daywalkers
-- https://thedaywalkers.bandcamp.com/album/americana-mix
-- https://www.thebash.com/articles/zydeco-bands-mardi-gras-music
+  - 'https://www.thedaywalkersneworleans.com'
+  - >-
+    https://www.lifeafteradulting.com/blog/savor-the-beat-krazy-korner-home-of-the-daywalkers
+  - >-
+    https://www.kmmcfarland.com/nola-vibes/new-orleans-best-of-the-best-musicians-the-daywalkers
+  - 'https://thedaywalkers.bandcamp.com/album/americana-mix'
+  - 'https://www.thebash.com/articles/zydeco-bands-mardi-gras-music'
 spotify_data:
   followers: 303
   id: 1pnLBJLIacjoO7r4EwY8e0
   popularity: 0
-  url: https://open.spotify.com/artist/1pnLBJLIacjoO7r4EwY8e0
+  url: 'https://open.spotify.com/artist/1pnLBJLIacjoO7r4EwY8e0'
 status: active
 title: Daywalkers
+artist_type: band
 ---
 
 ![](daywalkers.jpg)

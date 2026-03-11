@@ -1,47 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-03T02:05:29.692083'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:05:29.692096'
 external_urls:
-  spotify: https://open.spotify.com/artist/1G7shWpJoibdsvBRFongRB
-  wikipedia: https://en.wikipedia.org/wiki/Trombone_Shorty
+  spotify: 'https://open.spotify.com/artist/1G7shWpJoibdsvBRFongRB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trombone_Shorty'
 genres:
-- musique concrète
-- electroacoustic
-- contemporary classical
-- free jazz
+  - musique concrète
+  - electroacoustic
+  - contemporary classical
+  - free jazz
 image_path: 03_Resources/source_material/ArtistPortraits/bonerama_cyriltrombone_shorty.jpg
 last_updated: '2026-02-03T02:05:29.692098'
 musical_connections:
   collaborators:
-  - Lenny Kravitz
-  - U2
-  - Green Day
-  - Foo Fighters
-  - Red Hot Chili Peppers
-  - Jeff Beck
-  - Pharrell, Bruno Mars, Mark Ronson, ZHU, Zac Brown, Normani, Ringo Starr
-  - Gary Clark Jr. and Lauren Daigle
-  - Chris Seefried
+    - Lenny Kravitz
+    - U2
+    - Green Day
+    - Foo Fighters
+    - Red Hot Chili Peppers
+    - Jeff Beck
+    - 'Pharrell, Bruno Mars, Mark Ronson, ZHU, Zac Brown, Normani, Ringo Starr'
+    - Gary Clark Jr. and Lauren Daigle
+    - Chris Seefried
   influenced:
-  - Youth through Trombone Shorty Foundation
+    - Youth through Trombone Shorty Foundation
   mentors:
-  - Cyril Neville
-  - Bo Diddley
-  - Susan Lovejoy Scott
+    - Cyril Neville
+    - Bo Diddley
+    - Susan Lovejoy Scott
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.tromboneshorty.com/bio
-- https://en.wikipedia.org/wiki/Trombone_Shorty
+  - 'https://www.tromboneshorty.com/bio'
+  - 'https://en.wikipedia.org/wiki/Trombone_Shorty'
 spotify_data:
   followers: 113
   id: 1G7shWpJoibdsvBRFongRB
   popularity: 2
-  url: https://open.spotify.com/artist/1G7shWpJoibdsvBRFongRB
+  url: 'https://open.spotify.com/artist/1G7shWpJoibdsvBRFongRB'
 status: active
 title: Bonerama/ Cyril/Trombone Shorty
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1986-01-02'
+artist_type: person
 ---
 
 ![](bonerama_cyriltrombone_shorty.jpg)

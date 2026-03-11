@@ -1,49 +1,53 @@
 ---
 biography_enhanced_at: '2026-03-06T01:29:37.726766'
-birth_place: Warrington, England, UK (grew up); Manchester-born
+birth_place: 'Warrington, England, UK (grew up); Manchester-born'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:29:37.726772'
 external_urls:
-  spotify: https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d
+  spotify: 'https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d'
   wikipedia: ''
 genres:
-- nu jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/chelsea_carmichael.jpg
 last_updated: '2026-03-06T01:29:37.726773'
 musical_connections:
   collaborators:
-  - SEED Ensemble
-  - Theon Cross
-  - Outlook Orchestra
-  - Eddie Hick
-  - Dave Okumu
-  - Tom Herbert
-  - Joe Armon-Jones
-  - Neue Grafik Ensemble
-  - Terence Blanchard
-  - Courtney Pine
+    - SEED Ensemble
+    - Theon Cross
+    - Outlook Orchestra
+    - Eddie Hick
+    - Dave Okumu
+    - Tom Herbert
+    - Joe Armon-Jones
+    - Neue Grafik Ensemble
+    - Terence Blanchard
+    - Courtney Pine
   influenced: []
   mentors:
-  - Shabaka Hutchings
+    - Shabaka Hutchings
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Chelsea+Carmichael/+wiki
-- https://www.allaboutjazz.com/musicians/chelsea-carmichael/
-- https://www.blackhistorymonth.org.uk/article/listings/region/southampton/chelsea-carmichael/
-- https://londonjazznews.com/2020/03/05/iwd2020-chelsea-carmichael-saxophonist/
-- https://www.allmusic.com/artist/chelsea-carmichael-mn0003881472
-- https://ukjazznews.com/chelsea-carmichael-the-river-doesnt-like-strangers/
-- https://nbhap.com/stories/roots/stories-in-conversation-chelsea-carmichael
-- https://whenthehornblows.com/content/2021/9/6/introducing-184-chelsea-carmichael
-- https://www.iheart.com/artist/chelsea-carmichael-36605333/
+  - 'https://www.last.fm/music/Chelsea+Carmichael/+wiki'
+  - 'https://www.allaboutjazz.com/musicians/chelsea-carmichael/'
+  - >-
+    https://www.blackhistorymonth.org.uk/article/listings/region/southampton/chelsea-carmichael/
+  - >-
+    https://londonjazznews.com/2020/03/05/iwd2020-chelsea-carmichael-saxophonist/
+  - 'https://www.allmusic.com/artist/chelsea-carmichael-mn0003881472'
+  - 'https://ukjazznews.com/chelsea-carmichael-the-river-doesnt-like-strangers/'
+  - 'https://nbhap.com/stories/roots/stories-in-conversation-chelsea-carmichael'
+  - >-
+    https://whenthehornblows.com/content/2021/9/6/introducing-184-chelsea-carmichael
+  - 'https://www.iheart.com/artist/chelsea-carmichael-36605333/'
 spotify_data:
   followers: 7749
   id: 6vbGW1gdI14163OQECQs5d
   popularity: 18
-  url: https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d
+  url: 'https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d'
 status: active
 title: Chelsea Carmichael
+artist_type: person
 ---
 
 ![](chelsea_carmichael.jpg)

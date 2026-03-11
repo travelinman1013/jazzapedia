@@ -1,46 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-27T01:49:06.802756'
-birth_place: Palo Alto, California, USA
+birth_place: 'Palo Alto, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:49:06.802765'
 external_urls:
-  spotify: https://open.spotify.com/artist/2RMmxjFNoJ1wSPWN3r6kiE
-  wikipedia: https://en.wikipedia.org/wiki/Fred_Ho
+  spotify: 'https://open.spotify.com/artist/2RMmxjFNoJ1wSPWN3r6kiE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fred_Ho'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/fred_ho_and_the_afro_asian_jazz_ensemble.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/fred_ho_and_the_afro_asian_jazz_ensemble.jpg
 last_updated: '2026-01-27T01:49:06.802767'
 musical_connections:
   collaborators:
-  - royal hartigan
-  - Wes Brown
-  - Masaru Koga
-  - David Bindman
-  - Benjamin Barson
-  - Youn Jung Kim
+    - royal hartigan
+    - Wes Brown
+    - Masaru Koga
+    - David Bindman
+    - Benjamin Barson
+    - Youn Jung Kim
   influenced: []
   mentors:
-  - Charles Mingus
-  - Duke Ellington
-  - John Coltrane
-  - Cal Massey
+    - Charles Mingus
+    - Duke Ellington
+    - John Coltrane
+    - Cal Massey
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://jazzbarisax.com/baritone-saxophonists/avant-garde/fred-ho/
-- https://discoverfredho.org/afro-asian-music-ensemble/
-- https://en.wikipedia.org/wiki/Fred_Ho
-- https://aaww.org/beyond-asian-american-jazz-fred-ho/
-- https://chimurengachronic.co.za/reading-fred-ho-2/
-- https://www.pointofdeparture.org/PoD47/PoD47Ho.html
-- https://aaari.info/author/fred-ho/
-- https://jazztimes.com/features/tributes-and-obituaries/fred-ho-musician-composer-and-activist-dies-at-56/
+  - 'http://jazzbarisax.com/baritone-saxophonists/avant-garde/fred-ho/'
+  - 'https://discoverfredho.org/afro-asian-music-ensemble/'
+  - 'https://en.wikipedia.org/wiki/Fred_Ho'
+  - 'https://aaww.org/beyond-asian-american-jazz-fred-ho/'
+  - 'https://chimurengachronic.co.za/reading-fred-ho-2/'
+  - 'https://www.pointofdeparture.org/PoD47/PoD47Ho.html'
+  - 'https://aaari.info/author/fred-ho/'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/fred-ho-musician-composer-and-activist-dies-at-56/
 spotify_data:
   followers: 108
   id: 2RMmxjFNoJ1wSPWN3r6kiE
   popularity: 0
-  url: https://open.spotify.com/artist/2RMmxjFNoJ1wSPWN3r6kiE
+  url: 'https://open.spotify.com/artist/2RMmxjFNoJ1wSPWN3r6kiE'
 status: active
 title: Fred Ho & the Afro Asian Jazz Ensemble
+birth_date: '1957-08-10'
+death_date: '2014-04-12'
+artist_type: person
 ---
 
 ![](fred_ho_and_the_afro_asian_jazz_ensemble.jpg)

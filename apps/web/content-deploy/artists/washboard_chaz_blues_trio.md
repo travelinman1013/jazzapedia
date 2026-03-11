@@ -1,57 +1,59 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-26T01:18:50.931197'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:18:50.931206'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0c6c9750-f9a8-4dbd-9ef3-296b4dc461eb
-  spotify: https://open.spotify.com/artist/4Xi59tQbBOEUnS0Lcvz6qo
-  wikipedia: https://en.wikipedia.org/wiki/Washboard_Chaz
+  musicbrainz: 'https://musicbrainz.org/artist/0c6c9750-f9a8-4dbd-9ef3-296b4dc461eb'
+  spotify: 'https://open.spotify.com/artist/4Xi59tQbBOEUnS0Lcvz6qo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Washboard_Chaz'
 genres:
-- zydeco
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/washboard_chaz_blues_trio.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-02-26T01:18:50.931208'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 258737a8-08e0-4252-bb67-e493d334ad6f
-  name: Washboard Chaz
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 258737a8-08e0-4252-bb67-e493d334ad6f
+    name: Washboard Chaz
 musical_connections:
   collaborators:
-  - Ben Maygarden
-  - Roberto Luti
-  - Alex McMurray
-  - Matt Perrinne
-  - Keith Richards
-  - Keb Mo
-  - Grateful Dead members
+    - Ben Maygarden
+    - Roberto Luti
+    - Alex McMurray
+    - Matt Perrinne
+    - Keith Richards
+    - Keb Mo
+    - Grateful Dead members
   influenced: []
   mentors:
-  - John Hammond
+    - John Hammond
 musicbrainz_id: 0c6c9750-f9a8-4dbd-9ef3-296b4dc461eb
 network_extracted: true
-origin: New Orleans, Louisiana, United States (current residence); Originally from
-  New York, United States
+origin: >-
+  New Orleans, Louisiana, United States (current residence); Originally from New
+  York, United States
 primary_source: perplexity
 research_sources:
-- https://www.washboardchaz.com/bio
-- https://centrum.org/faculty-profile/name/chaz-leary/
-- https://playingforchange.com/artists/washboard-chaz
-- https://en.wikipedia.org/wiki/Washboard_Chaz
-- https://www.thecountryblues.com/artist-reviews/washboard-chaz-leary/
-- https://www.krewedelusion.net/archive/washboard-chaz-leary-to-rule-over-krewedelusion-new-orleans-and-everything-else
-- https://www.neworleans.com/listing/washboard-chaz/46636/
+  - 'https://www.washboardchaz.com/bio'
+  - 'https://centrum.org/faculty-profile/name/chaz-leary/'
+  - 'https://playingforchange.com/artists/washboard-chaz'
+  - 'https://en.wikipedia.org/wiki/Washboard_Chaz'
+  - 'https://www.thecountryblues.com/artist-reviews/washboard-chaz-leary/'
+  - >-
+    https://www.krewedelusion.net/archive/washboard-chaz-leary-to-rule-over-krewedelusion-new-orleans-and-everything-else
+  - 'https://www.neworleans.com/listing/washboard-chaz/46636/'
 spotify_data:
   followers: 1092
   id: 4Xi59tQbBOEUnS0Lcvz6qo
   popularity: 2
-  url: https://open.spotify.com/artist/4Xi59tQbBOEUnS0Lcvz6qo
+  url: 'https://open.spotify.com/artist/4Xi59tQbBOEUnS0Lcvz6qo'
 status: active
-title: washboard chaz blues trio
+title: Washboard Chaz Blues Trio
 ---
 
 ![](washboard_chaz_blues_trio.jpg)

@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-28T01:50:12.941668'
-birth_place: Montreal, Quebec, Canada
+birth_place: 'Montreal, Quebec, Canada'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:50:12.941678'
 external_urls:
-  spotify: https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza
-  wikipedia: https://en.wikipedia.org/wiki/William_Shatner
+  spotify: 'https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza'
+  wikipedia: 'https://en.wikipedia.org/wiki/William_Shatner'
 genres:
-- spoken word
-image_path: 03_Resources/source_material/ArtistPortraits/william_shatner_and_peter_frampton.jpg
+  - spoken word
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/william_shatner_and_peter_frampton.jpg
 last_updated: '2026-02-28T01:50:12.941680'
 musical_connections:
   collaborators:
-  - Peter Frampton
-  - Brian May
-  - Steve Howe
-  - John Wetton
+    - Peter Frampton
+    - Brian May
+    - Steve Howe
+    - John Wetton
   influenced:
-  - Celebrity-artists in pop culture
+    - Celebrity-artists in pop culture
   mentors:
-  - Christopher Plummer
+    - Christopher Plummer
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/William_Shatner
-- https://www.fandompulse.com/p/william-shatner-is-releasing-a-heavy
-- https://spikeartmagazine.com/articles/essay-to-boldly-go-william-shatner
-- https://cleorecs.com/products/william-shatner-space-cowboy-7-ep-limited-edition
-- https://www.youtube.com/watch?v=G8Dxmz6QlD0
+  - 'https://en.wikipedia.org/wiki/William_Shatner'
+  - 'https://www.fandompulse.com/p/william-shatner-is-releasing-a-heavy'
+  - 'https://spikeartmagazine.com/articles/essay-to-boldly-go-william-shatner'
+  - >-
+    https://cleorecs.com/products/william-shatner-space-cowboy-7-ep-limited-edition
+  - 'https://www.youtube.com/watch?v=G8Dxmz6QlD0'
 spotify_data:
   followers: 31601
   id: 2dPqql8xbby3nWuf98mAza
   popularity: 32
-  url: https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza
+  url: 'https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza'
 status: active
-title: william shatner & peter frampton
+title: William Shatner & Peter Frampton
+artist_type: band
 ---
 
 ![](william_shatner_and_peter_frampton.jpg)

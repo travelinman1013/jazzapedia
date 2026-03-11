@@ -3,54 +3,60 @@ biography_enhanced_at: '2026-02-01T01:32:02.191912'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:32:02.191918'
 external_urls:
-  spotify: https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n
-  wikipedia: https://en.wikipedia.org/wiki/Molly_Tuttle
+  spotify: 'https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n'
+  wikipedia: 'https://en.wikipedia.org/wiki/Molly_Tuttle'
 genres:
-- bluegrass
-- newgrass
-- americana
-image_path: 03_Resources/source_material/ArtistPortraits/molly_tuttle_and_golden_highway.jpg
+  - bluegrass
+  - newgrass
+  - americana
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/molly_tuttle_and_golden_highway.jpg
 last_updated: '2026-02-01T01:32:02.191919'
 musical_connections:
   collaborators:
-  - Dominick Leslie
-  - Kyle Tuttle
-  - Bronwyn Keith-Hynes
-  - Shelby Means
-  - AJ Lee
-  - Sullivan Tuttle
-  - Michael Tuttle
-  - Alison Brown
-  - Missy Raines
-  - Sierra Hull
-  - Becky Buller
+    - Dominick Leslie
+    - Kyle Tuttle
+    - Bronwyn Keith-Hynes
+    - Shelby Means
+    - AJ Lee
+    - Sullivan Tuttle
+    - Michael Tuttle
+    - Alison Brown
+    - Missy Raines
+    - Sierra Hull
+    - Becky Buller
   influenced: []
   mentors:
-  - Laurie Lewis
-  - Kathy Kallick
-  - Hazel Dickens
-  - Alison Krauss
-  - Bill Monroe
-  - Jack Tuttle
+    - Laurie Lewis
+    - Kathy Kallick
+    - Hazel Dickens
+    - Alison Krauss
+    - Bill Monroe
+    - Jack Tuttle
 network_extracted: true
-origin: Santa Clara, California, USA
+origin: 'Santa Clara, California, USA'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Molly+Tuttle+&+Golden+Highway/+wiki
-- https://en.wikipedia.org/wiki/Molly_Tuttle
-- https://acltv.com/2023/08/29/taping-recap-molly-tuttle-golden-highway/
-- https://pac.uga.edu/event/molly-tuttle-golden-highway/
-- https://www.opry.com/artists/molly-tuttle-golden-highway
-- https://www.mollytuttlemusic.com/bio
-- https://thebluegrasssituation.com/read/the-inspirations-and-issues-behind-molly-tuttles-city-of-gold/
-- https://www.ofoam.org/about/archives/2024-omf-performers/molly-tuttle-golden-highway
+  - 'https://www.last.fm/music/Molly+Tuttle+&+Golden+Highway/+wiki'
+  - 'https://en.wikipedia.org/wiki/Molly_Tuttle'
+  - 'https://acltv.com/2023/08/29/taping-recap-molly-tuttle-golden-highway/'
+  - 'https://pac.uga.edu/event/molly-tuttle-golden-highway/'
+  - 'https://www.opry.com/artists/molly-tuttle-golden-highway'
+  - 'https://www.mollytuttlemusic.com/bio'
+  - >-
+    https://thebluegrasssituation.com/read/the-inspirations-and-issues-behind-molly-tuttles-city-of-gold/
+  - >-
+    https://www.ofoam.org/about/archives/2024-omf-performers/molly-tuttle-golden-highway
 spotify_data:
   followers: 16445
   id: 1KVw3QwEmC8QMrpz0SV05n
   popularity: 38
-  url: https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n
+  url: 'https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n'
 status: active
 title: Molly Tuttle & Golden Highway
+birth_place: 'Santa Clara, California, United States'
+birth_date: '1993-01-14'
+artist_type: band
 ---
 
 ![](molly_tuttle_and_golden_highway.jpg)

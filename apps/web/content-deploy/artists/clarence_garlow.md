@@ -2,47 +2,50 @@
 artist_type: person
 biography_enhanced_at: '2026-02-03T02:08:34.295888'
 birth_date: '1911-02-27'
-birth_place: Louisiana
+birth_place: 'Welsh, Jefferson Davis Parish, Louisiana, United States'
 death_date: '1986-07-24'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:08:34.295897'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6c3a1d56-4193-4479-a3c1-eb6a3510e28c
-  spotify: https://open.spotify.com/artist/32EZRlmGpp9WJqDys5t9b2
-  wikipedia: https://en.wikipedia.org/wiki/Clarence_Garlow
+  musicbrainz: 'https://musicbrainz.org/artist/6c3a1d56-4193-4479-a3c1-eb6a3510e28c'
+  spotify: 'https://open.spotify.com/artist/32EZRlmGpp9WJqDys5t9b2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clarence_Garlow'
 gender: Male
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/clarence_garlow.jpg
 last_updated: '2026-02-03T02:08:34.295898'
 musical_connections:
   collaborators:
-  - Clifton Chenier
+    - Clifton Chenier
   influenced: []
   mentors:
-  - T-Bone Walker
+    - T-Bone Walker
 musicbrainz_id: 6c3a1d56-4193-4479-a3c1-eb6a3510e28c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Clarence_Garlow
-- https://tims.blackcat.nl/messages/clarence_garlow.htm
-- https://blues.fandom.com/wiki/Clarence_Garlow
-- https://www.bmansbluesreport.com/2012/07/crawfishin-clarence-bon-ton-garlow.html?m=1
-- https://jukegh.blogspot.com/2021/05/clarence-garlow-complete-recordings.html
-- https://www.last.fm/music/Clarence+Garlow/+wiki
+  - 'https://en.wikipedia.org/wiki/Clarence_Garlow'
+  - 'https://tims.blackcat.nl/messages/clarence_garlow.htm'
+  - 'https://blues.fandom.com/wiki/Clarence_Garlow'
+  - >-
+    https://www.bmansbluesreport.com/2012/07/crawfishin-clarence-bon-ton-garlow.html?m=1
+  - 'https://jukegh.blogspot.com/2021/05/clarence-garlow-complete-recordings.html'
+  - 'https://www.last.fm/music/Clarence+Garlow/+wiki'
 spotify_data:
   followers: 514
   id: 32EZRlmGpp9WJqDys5t9b2
   popularity: 5
-  url: https://open.spotify.com/artist/32EZRlmGpp9WJqDys5t9b2
+  url: 'https://open.spotify.com/artist/32EZRlmGpp9WJqDys5t9b2'
 status: active
 tags:
-- blues
-- new orleans r&b
-- r&b
-title: CLARENCE GARLOW
+  - blues
+  - new orleans r&b
+  - r&b
+title: Clarence Garlow
+is_active: false
+origin: 'Beaumont, Texas, United States'
 ---
 
 ![](clarence_garlow.jpg)

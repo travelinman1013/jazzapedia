@@ -1,41 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-24T01:44:47.199511'
-birth_place: Jackson, Mississippi, USA
+birth_place: 'Jackson, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:44:47.199520'
 external_urls:
-  spotify: https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR
+  spotify: 'https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR'
   wikipedia: ''
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/andrew_brown.jpg
 last_updated: '2026-02-24T01:44:47.199522'
 musical_connections:
   collaborators:
-  - Spurling Brown
-  - Otis Webster
-  - Magic Sam
-  - Freddie King
-  - Denise LaSalle
-  - Jimmy Johnson
-  - Dick Shurman
+    - Spurling Brown
+    - Otis Webster
+    - Magic Sam
+    - Freddie King
+    - Denise LaSalle
+    - Jimmy Johnson
+    - Dick Shurman
   influenced: []
   mentors:
-  - Charlie Parker
+    - Charlie Parker
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.alligator.com/artists/Andrew-Brown/
-- https://www.last.fm/music/Andrew+Brown/+wiki
-- https://www.allmusic.com/artist/andrew-brown-mn0000029823
+  - 'https://www.alligator.com/artists/Andrew-Brown/'
+  - 'https://www.last.fm/music/Andrew+Brown/+wiki'
+  - 'https://www.allmusic.com/artist/andrew-brown-mn0000029823'
 spotify_data:
   followers: 703
   id: 3PJ8OSq1gHjL4CIyn1S2bR
   popularity: 10
-  url: https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR
+  url: 'https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR'
 status: active
-title: ANDREW BROWN
+title: Andrew Brown
+origin: 'Chicago, Illinois, United States'
+birth_date: '1937-02-25'
+artist_type: person
 ---
 
 ![](andrew_brown.jpg)

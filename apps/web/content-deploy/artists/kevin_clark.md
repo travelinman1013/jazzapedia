@@ -1,38 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-28T01:57:06.371965'
-birth_place: Elizabethtown, KY, USA
+birth_place: 'Elizabethtown, KY, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:57:06.371974'
 external_urls:
-  spotify: https://open.spotify.com/artist/4ggYVhLl6hhgWZeJKavOWL
+  spotify: 'https://open.spotify.com/artist/4ggYVhLl6hhgWZeJKavOWL'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/kevin_clark.jpg
 last_updated: '2026-01-28T01:57:06.371975'
 musical_connections:
   collaborators:
-  - Dukes of Dixieland
-  - Pete Fountain
-  - Clarence “Gatemouth” Brown
-  - New Orleans Nightcrawlers Brass Band
+    - Dukes of Dixieland
+    - Pete Fountain
+    - Clarence “Gatemouth” Brown
+    - New Orleans Nightcrawlers Brass Band
   influenced: []
   mentors:
-  - Disney World musicians
+    - Disney World musicians
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://summitrecords.com/artist/kevin-clark/
-- https://www.namm.org/library/oral-history/kevin-ray-clark
-- https://kevinrayclark.com
-- https://www.allmusic.com/artist/kevin-clark-mn0000067542
-- https://www.wwoz.org/acts/kevin-ray-clark
+  - 'https://summitrecords.com/artist/kevin-clark/'
+  - 'https://www.namm.org/library/oral-history/kevin-ray-clark'
+  - 'https://kevinrayclark.com'
+  - 'https://www.allmusic.com/artist/kevin-clark-mn0000067542'
+  - 'https://www.wwoz.org/acts/kevin-ray-clark'
 spotify_data:
   followers: 460
   id: 4ggYVhLl6hhgWZeJKavOWL
   popularity: 23
-  url: https://open.spotify.com/artist/4ggYVhLl6hhgWZeJKavOWL
+  url: 'https://open.spotify.com/artist/4ggYVhLl6hhgWZeJKavOWL'
 status: active
 title: Kevin Clark
+birth_date: '1965-07-08'
+artist_type: person
 ---
 
 ![](kevin_clark.jpg)

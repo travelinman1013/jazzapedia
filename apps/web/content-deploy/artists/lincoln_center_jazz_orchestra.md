@@ -3,44 +3,49 @@ biography_enhanced_at: '2026-02-12T01:09:50.532646'
 enhancement_provider: perplexity
 entry_created: '2026-02-12T01:09:50.532654'
 external_urls:
-  spotify: https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb
-  wikipedia: https://en.wikipedia.org/wiki/Jazz_at_Lincoln_Center
+  spotify: 'https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jazz_at_Lincoln_Center'
 genres:
-- latin jazz
-- big band
-- jazz
+  - latin jazz
+  - big band
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/lincoln_center_jazz_orchestra.jpg
 last_updated: '2026-02-12T01:09:50.532655'
 musical_connections:
   collaborators:
-  - Sherman Irby
-  - Dizzy Gillespie
-  - Stevie Wonder
+    - Sherman Irby
+    - Dizzy Gillespie
+    - Stevie Wonder
   influenced:
-  - Contemporary jazz musicians
+    - Contemporary jazz musicians
   mentors:
-  - Wynton Marsalis
+    - Wynton Marsalis
 network_extracted: true
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://www.lincolncenter.org/article/latin-jazz-and-san-juan-hill
-- https://cso.org/experience/article/21428/jalcos-sherman-irby-reflects-on-how-bebop-sha
-- https://en.wikipedia.org/wiki/Jazz_at_Lincoln_Center
-- https://www.lincolncenter.org/article/james-reese-europe-latin-jazz-and-the-harlem-hell-fighters-band-19001920
-- https://wyntonmarsalis.org/news/entry/the-house-that-jazz-built
-- https://downbeat.com/reviews/detail/jazz-and-art
-- https://splashmags.com/2025/01/jazz-at-lincoln-center-orchestra-with-wynton-marsalis-review-the-great-big-band-at-symphony-center-chicago/
-- https://jazz.org/about-us/history/
-- https://mochamanstyle.com/2025/11/jazz-at-lincoln-center-orchestra-with-wynton-marsalis-brings-soul-history-and-global-rhythm/
-- https://artscenter.vt.edu/performances/jazz-lco-marsalis.html
+  - 'https://www.lincolncenter.org/article/latin-jazz-and-san-juan-hill'
+  - >-
+    https://cso.org/experience/article/21428/jalcos-sherman-irby-reflects-on-how-bebop-sha
+  - 'https://en.wikipedia.org/wiki/Jazz_at_Lincoln_Center'
+  - >-
+    https://www.lincolncenter.org/article/james-reese-europe-latin-jazz-and-the-harlem-hell-fighters-band-19001920
+  - 'https://wyntonmarsalis.org/news/entry/the-house-that-jazz-built'
+  - 'https://downbeat.com/reviews/detail/jazz-and-art'
+  - >-
+    https://splashmags.com/2025/01/jazz-at-lincoln-center-orchestra-with-wynton-marsalis-review-the-great-big-band-at-symphony-center-chicago/
+  - 'https://jazz.org/about-us/history/'
+  - >-
+    https://mochamanstyle.com/2025/11/jazz-at-lincoln-center-orchestra-with-wynton-marsalis-brings-soul-history-and-global-rhythm/
+  - 'https://artscenter.vt.edu/performances/jazz-lco-marsalis.html'
 spotify_data:
   followers: 45477
   id: 6MnWA8xVW1sEzV9s7wXpQb
   popularity: 37
-  url: https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb
+  url: 'https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb'
 status: active
-title: LINCOLN CENTER JAZZ ORCHESTRA
+title: Lincoln Center Jazz Orchestra
+artist_type: band
 ---
 
 ![](lincoln_center_jazz_orchestra.jpg)

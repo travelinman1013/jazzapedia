@@ -3,35 +3,37 @@ biography_enhanced_at: '2026-02-05T01:50:02.974658'
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:50:02.974668'
 external_urls:
-  spotify: https://open.spotify.com/artist/1Mw3ZngHmjJeObu54UKBaS
+  spotify: 'https://open.spotify.com/artist/1Mw3ZngHmjJeObu54UKBaS'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/monogram_hunters.jpg
 last_updated: '2026-02-05T01:50:02.974670'
 musical_connections:
   collaborators:
-  - Big Chief Tyrone “Pie” Stevenson
-  - 2nd Chief Jeremy “lil Pie” Stevenson
-  - Big Queen Denice Smith
-  - Trail Chief Eric Burt
+    - Big Chief Tyrone “Pie” Stevenson
+    - 2nd Chief Jeremy “lil Pie” Stevenson
+    - Big Queen Denice Smith
+    - Trail Chief Eric Burt
   influenced: []
   mentors:
-  - Alfred Montana
+    - Alfred Montana
 network_extracted: true
-origin: 7th Ward, New Orleans, Louisiana, USA
+origin: '7th Ward, New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.rhrphoto.com/monogram-hunters-blood-sweat-and-tears
-- http://www.monogramhunters.com/mgh
-- https://www.youtube.com/watch?v=l6U9t2TB26U
-- https://www.offbeat.com/music/monogram-hunters-blood-sweat-and-tears-independent/
+  - 'https://www.rhrphoto.com/monogram-hunters-blood-sweat-and-tears'
+  - 'http://www.monogramhunters.com/mgh'
+  - 'https://www.youtube.com/watch?v=l6U9t2TB26U'
+  - >-
+    https://www.offbeat.com/music/monogram-hunters-blood-sweat-and-tears-independent/
 spotify_data:
   followers: 25
   id: 1Mw3ZngHmjJeObu54UKBaS
   popularity: 0
-  url: https://open.spotify.com/artist/1Mw3ZngHmjJeObu54UKBaS
+  url: 'https://open.spotify.com/artist/1Mw3ZngHmjJeObu54UKBaS'
 status: active
 title: Monogram Hunters
+artist_type: band
 ---
 
 ![](monogram_hunters.jpg)

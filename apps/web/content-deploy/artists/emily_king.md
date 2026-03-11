@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-03-03T01:38:51.322307'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:38:51.322317'
 external_urls:
-  spotify: https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ
-  wikipedia: https://en.wikipedia.org/wiki/Emily_King
+  spotify: 'https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Emily_King'
 genres:
-- pop soul
+  - pop soul
 image_path: 03_Resources/source_material/ArtistPortraits/emily_king.jpg
 last_updated: '2026-03-03T01:38:51.322319'
 musical_connections:
   collaborators:
-  - Nas
-  - Lupe Fiasco
-  - Chance the Rapper
-  - Brandy
-  - Sara Bareilles
+    - Nas
+    - Lupe Fiasco
+    - Chance the Rapper
+    - Brandy
+    - Sara Bareilles
   influenced: []
   mentors:
-  - Chucky Thompson
-  - Clive Davis
-  - Jeremy Most
+    - Chucky Thompson
+    - Clive Davis
+    - Jeremy Most
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.songhall.org/profiles/emily-king
-- https://bemyconcert.com/exploring-emily-king-039-s-ethnicity-a-deep-dive-into-her-heritage/25645921/
-- https://en.wikipedia.org/wiki/Emily_King
-- https://www.last.fm/music/Emily+King/+wiki
-- https://mim.org/events/emily-king/
-- https://musicdaily.com/meet-emily-king/
-- https://thekessler.org/bands/emily-king/
-- https://www.laphil.com/musicdb/artists/7137/emily-king
+  - 'https://www.songhall.org/profiles/emily-king'
+  - >-
+    https://bemyconcert.com/exploring-emily-king-039-s-ethnicity-a-deep-dive-into-her-heritage/25645921/
+  - 'https://en.wikipedia.org/wiki/Emily_King'
+  - 'https://www.last.fm/music/Emily+King/+wiki'
+  - 'https://mim.org/events/emily-king/'
+  - 'https://musicdaily.com/meet-emily-king/'
+  - 'https://thekessler.org/bands/emily-king/'
+  - 'https://www.laphil.com/musicdb/artists/7137/emily-king'
 spotify_data:
   followers: 212613
   id: 6jlWj6y00bMQt8XoKuCjyZ
   popularity: 41
-  url: https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ
+  url: 'https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ'
 status: active
-title: EMILY KING
+title: Emily King
+birth_date: '1985-07-10'
+artist_type: person
 ---
 
 ![](emily_king.jpg)

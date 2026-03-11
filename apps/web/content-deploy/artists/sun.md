@@ -1,47 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-22T01:50:15.337384'
-birth_place: Bloomington, Minnesota, USA
+birth_place: 'Bloomington, Minnesota, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:50:15.337394'
 external_urls:
-  spotify: https://open.spotify.com/artist/1pBeRGeBHNPLy95LswDViS
-  wikipedia: https://en.wikipedia.org/wiki/Mod_Sun
+  spotify: 'https://open.spotify.com/artist/1pBeRGeBHNPLy95LswDViS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mod_Sun'
 genres:
-- hardcore
-- hardcore punk
+  - hardcore
+  - hardcore punk
 image_path: 03_Resources/source_material/ArtistPortraits/sun.jpg
 last_updated: '2026-02-22T01:50:15.337396'
 musical_connections:
   collaborators:
-  - Scary Kids Scaring Kids
-  - Four Letter Lie
-  - Machine Gun Kelly
-  - Travis Barker
-  - John Feldmann
-  - Hotel Motel
-  - Avril Lavigne
+    - Scary Kids Scaring Kids
+    - Four Letter Lie
+    - Machine Gun Kelly
+    - Travis Barker
+    - John Feldmann
+    - Hotel Motel
+    - Avril Lavigne
   influenced:
-  - Lil Huddy
-  - Gen-Z pop punk artists
+    - Lil Huddy
+    - Gen-Z pop punk artists
   mentors:
-  - Drive-Thru Records bands
-  - Blink-182
-  - Dashboard Confessional
+    - Drive-Thru Records bands
+    - Blink-182
+    - Dashboard Confessional
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mod_Sun
-- https://www.papermag.com/mod-sun-internet-killed-the-rockstar
-- https://ultimatepopculture.fandom.com/wiki/Mod_Sun
-- https://www.nylon.com/entertainment/mod-sun-interview-internet-killed-the-rock-star
-- https://hollymelissamusic.wordpress.com/music-reviews/album-reviews/mod-sun-a-new-evolution-of-punk/
+  - 'https://en.wikipedia.org/wiki/Mod_Sun'
+  - 'https://www.papermag.com/mod-sun-internet-killed-the-rockstar'
+  - 'https://ultimatepopculture.fandom.com/wiki/Mod_Sun'
+  - >-
+    https://www.nylon.com/entertainment/mod-sun-interview-internet-killed-the-rock-star
+  - >-
+    https://hollymelissamusic.wordpress.com/music-reviews/album-reviews/mod-sun-a-new-evolution-of-punk/
 spotify_data:
   followers: 189619
   id: 1pBeRGeBHNPLy95LswDViS
   popularity: 47
-  url: https://open.spotify.com/artist/1pBeRGeBHNPLy95LswDViS
+  url: 'https://open.spotify.com/artist/1pBeRGeBHNPLy95LswDViS'
 status: active
-title: Sun
+title: Mod Sun
+birth_date: '1987-03-10'
+artist_type: person
 ---
 
 ![](sun.jpg)

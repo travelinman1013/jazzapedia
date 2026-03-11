@@ -2,45 +2,46 @@
 artist_type: person
 biography_enhanced_at: '2026-03-01T01:59:52.392902'
 birth_date: '1976-02-10'
-birth_place: Mato Grosso
+birth_place: 'Alto Garças, Mato Grosso, Brazil'
 disambiguation: Brazilian singer-songwriter
 enhancement_provider: perplexity
 entry_created: '2026-03-01T01:59:52.392911'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f3580347-b84a-47d8-b86e-cad642322a47
-  spotify: https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7
+  musicbrainz: 'https://musicbrainz.org/artist/f3580347-b84a-47d8-b86e-cad642322a47'
+  spotify: 'https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7'
   wikipedia: Not found in search results
 gender: Female
 genres:
-- mpb
-- new mpb
+  - mpb
+  - new mpb
 image_path: 03_Resources/source_material/ArtistPortraits/vanessa_da_mata.jpg
 last_updated: '2026-03-01T01:59:52.392913'
 musical_connections:
   collaborators:
-  - Ben Harper
-  - Jorge Farjalla
+    - Ben Harper
+    - Jorge Farjalla
   influenced: []
   mentors:
-  - Antonio Carlos Jobim
-  - Caetano Veloso, Maria Bethânia, Milton Nascimento, Chico César
+    - Antonio Carlos Jobim
+    - 'Caetano Veloso, Maria Bethânia, Milton Nascimento, Chico César'
 musicbrainz_id: f3580347-b84a-47d8-b86e-cad642322a47
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bbmag.co.uk/vanessa-da-mata-returns-to-london-after-9-years/
-- https://mertinwitt-litag.de/portfolio-items/vanessa-da-mata/
-- https://cosmopolite.no/en/program/cosmopolite/2025/april/vanessa-da-mata
-- https://soundsandcolours.com/articles/brazil/vanessa-da-mata-discusses-20-years-solo-artist-new-live-show-42129/
-- https://songstats.com/artist/l5qg4dk7/vanessa-da-mata
+  - 'https://www.bbmag.co.uk/vanessa-da-mata-returns-to-london-after-9-years/'
+  - 'https://mertinwitt-litag.de/portfolio-items/vanessa-da-mata/'
+  - 'https://cosmopolite.no/en/program/cosmopolite/2025/april/vanessa-da-mata'
+  - >-
+    https://soundsandcolours.com/articles/brazil/vanessa-da-mata-discusses-20-years-solo-artist-new-live-show-42129/
+  - 'https://songstats.com/artist/l5qg4dk7/vanessa-da-mata'
 spotify_data:
   followers: 1454776
   id: 57pVvBwa3ZCR9LsVlkLXj7
   popularity: 64
-  url: https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7
+  url: 'https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7'
 status: active
 tags:
-- mpb
+  - mpb
 title: Vanessa da Mata
 ---
 

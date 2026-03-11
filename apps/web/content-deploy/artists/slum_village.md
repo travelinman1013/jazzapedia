@@ -1,91 +1,92 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-20T01:18:03.776677'
 birth_date: '1996'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:18:03.776687'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c0c1183e-6940-48ca-8f96-98250fcb3ef1
-  spotify: https://open.spotify.com/artist/1020a42xVklY6c56imNcaa
-  wikipedia: https://en.wikipedia.org/wiki/Slum_Village
+  musicbrainz: 'https://musicbrainz.org/artist/c0c1183e-6940-48ca-8f96-98250fcb3ef1'
+  spotify: 'https://open.spotify.com/artist/1020a42xVklY6c56imNcaa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Slum_Village'
 genres:
-- jazz rap
+  - jazz rap
 image_path: 03_Resources/source_material/ArtistPortraits/slum_village.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-02-20T01:18:03.776688'
 members:
-- begin: '1996'
-  end: '2001'
-  instruments:
-  - original
-  mbid: cbcbb22c-3a8d-46af-b4ba-09c98f0d7931
-  name: J Dilla
-- begin: '1996'
-  end: '2002'
-  instruments:
-  - original
-  mbid: 2cee31c5-2ba1-425b-bd22-7e1583830d2b
-  name: Baatin
-- &id001
-  begin: '1996'
-  end: ''
-  instruments:
-  - original
-  mbid: 6d0e0e3d-9583-4838-ada6-90b78f8696d4
-  name: T3
-- begin: '2001'
-  end: 2010-07
-  instruments: []
-  mbid: 717ce3f6-847a-4749-bd54-467875812dd4
-  name: eLZhi
-- &id002
-  begin: '2002'
-  end: ''
-  instruments: []
-  mbid: 986db28a-3386-4bc2-945e-8e01d4b5274a
-  name: Young RJ
-- &id003
-  begin: '2008'
-  end: ''
-  instruments: []
-  mbid: cd8311c0-71b4-463b-aeff-dc84683c46be
-  name: Illa J
+  - begin: '1996'
+    end: '2001'
+    instruments:
+      - original
+    mbid: cbcbb22c-3a8d-46af-b4ba-09c98f0d7931
+    name: J Dilla
+  - begin: '1996'
+    end: '2002'
+    instruments:
+      - original
+    mbid: 2cee31c5-2ba1-425b-bd22-7e1583830d2b
+    name: Baatin
+  - &ref_0
+    begin: '1996'
+    end: ''
+    instruments:
+      - original
+    mbid: 6d0e0e3d-9583-4838-ada6-90b78f8696d4
+    name: T3
+  - begin: '2001'
+    end: 2010-07
+    instruments: []
+    mbid: 717ce3f6-847a-4749-bd54-467875812dd4
+    name: eLZhi
+  - &ref_1
+    begin: '2002'
+    end: ''
+    instruments: []
+    mbid: 986db28a-3386-4bc2-945e-8e01d4b5274a
+    name: Young RJ
+  - &ref_2
+    begin: '2008'
+    end: ''
+    instruments: []
+    mbid: cd8311c0-71b4-463b-aeff-dc84683c46be
+    name: Illa J
 musical_connections:
   collaborators:
-  - J Dilla
-  - Baatin
-  - T3
-  - Elzhi
-  - Young RJ
-  - Q-Tip
+    - J Dilla
+    - Baatin
+    - T3
+    - Elzhi
+    - Young RJ
+    - Q-Tip
   influenced:
-  - Detroit hip hop scene
+    - Detroit hip hop scene
   mentors:
-  - A Tribe Called Quest
-  - The Ummah
+    - A Tribe Called Quest
+    - The Ummah
 musicbrainz_id: c0c1183e-6940-48ca-8f96-98250fcb3ef1
 network_extracted: true
-origin: Detroit
+origin: 'Detroit, Michigan, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- https://rapandhiphop.fandom.com/wiki/Slum_Village
-- https://www.masqueradeatlanta.com/attraction/slum-village/
-- https://www.last.fm/music/Slum+Village/+wiki
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/slum-village
-- https://www.thefader.com/2024/05/15/slum-village-fun-interview
+  - 'https://rapandhiphop.fandom.com/wiki/Slum_Village'
+  - 'https://www.masqueradeatlanta.com/attraction/slum-village/'
+  - 'https://www.last.fm/music/Slum+Village/+wiki'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/slum-village
+  - 'https://www.thefader.com/2024/05/15/slum-village-fun-interview'
 spotify_data:
   followers: 393870
   id: 1020a42xVklY6c56imNcaa
   popularity: 53
-  url: https://open.spotify.com/artist/1020a42xVklY6c56imNcaa
+  url: 'https://open.spotify.com/artist/1020a42xVklY6c56imNcaa'
 status: active
 tags:
-- hip hop
+  - hip hop
 title: Slum Village
 ---
 

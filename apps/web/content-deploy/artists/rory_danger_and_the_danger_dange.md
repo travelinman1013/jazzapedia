@@ -3,36 +3,38 @@ biography_enhanced_at: '2026-02-27T01:35:12.712415'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:35:12.712428'
 external_urls:
-  spotify: https://open.spotify.com/artist/6taIGwJT92o96zMq5Q1hKU
+  spotify: 'https://open.spotify.com/artist/6taIGwJT92o96zMq5Q1hKU'
   wikipedia: null
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/rory_danger_and_the_danger_dange.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/rory_danger_and_the_danger_dange.jpg
 last_updated: '2026-02-27T01:35:12.712431'
 musical_connections:
   collaborators:
-  - Spike Danger
-  - Spencer Bohren
+    - Spike Danger
+    - Spencer Bohren
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://rorydanger.com/bio
-- https://www.neworleans.com/listing/rory-danger-&-the-danger-dangers/47696/
-- https://rorydanger.com/presskit
-- https://www.offbeat.com/articles/soundcheck-rory-danger/
-- https://rorydanger.com/music
-- https://rorydanger.com/areyouforreal
-- https://rorydanger.com
-- https://sweeneygumbo.com/tag/rory-danger/
+  - 'https://rorydanger.com/bio'
+  - 'https://www.neworleans.com/listing/rory-danger-&-the-danger-dangers/47696/'
+  - 'https://rorydanger.com/presskit'
+  - 'https://www.offbeat.com/articles/soundcheck-rory-danger/'
+  - 'https://rorydanger.com/music'
+  - 'https://rorydanger.com/areyouforreal'
+  - 'https://rorydanger.com'
+  - 'https://sweeneygumbo.com/tag/rory-danger/'
 spotify_data:
   followers: 337
   id: 6taIGwJT92o96zMq5Q1hKU
   popularity: 1
-  url: https://open.spotify.com/artist/6taIGwJT92o96zMq5Q1hKU
+  url: 'https://open.spotify.com/artist/6taIGwJT92o96zMq5Q1hKU'
 status: active
 title: Rory Danger And The Danger Dange
+artist_type: person
 ---
 
 ![](rory_danger_and_the_danger_dange.jpg)

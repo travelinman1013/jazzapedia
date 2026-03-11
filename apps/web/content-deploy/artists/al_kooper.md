@@ -1,108 +1,109 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1965'
-  end: '1967'
-  instruments: []
-  mbid: 10017fb7-c3b0-41c6-9bc5-719cf51c9ce6
-  name: The Blues Project
-- begin: '1967'
-  end: '1968'
-  instruments:
-  - keyboard
-  - lead vocals
-  - original
-  mbid: f81d592c-993f-4693-b53a-57db5a6257b9
-  name: Blood, Sweat & Tears
-- begin: '1992'
-  end: ''
-  instruments: []
-  mbid: f1a21e41-0c79-4505-b9d9-53feabe909c4
-  name: Jimmy Vivino and the Rekooperators
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: aaba85b2-3f0b-4cfe-9ba7-4e1ae2bc8deb
-  name: Royal Teens
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cdb42973-deca-417a-8ee5-bddcf4da3f1f
-  name: Four on the Floor
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 08e740fa-a275-4ca9-9bd2-0cf651fc4e51
-  name: Child Is Father to the Man
+  - begin: '1965'
+    end: '1967'
+    instruments: []
+    mbid: 10017fb7-c3b0-41c6-9bc5-719cf51c9ce6
+    name: The Blues Project
+  - begin: '1967'
+    end: '1968'
+    instruments:
+      - keyboard
+      - lead vocals
+      - original
+    mbid: f81d592c-993f-4693-b53a-57db5a6257b9
+    name: 'Blood, Sweat & Tears'
+  - begin: '1992'
+    end: ''
+    instruments: []
+    mbid: f1a21e41-0c79-4505-b9d9-53feabe909c4
+    name: Jimmy Vivino and the Rekooperators
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: aaba85b2-3f0b-4cfe-9ba7-4e1ae2bc8deb
+    name: Royal Teens
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cdb42973-deca-417a-8ee5-bddcf4da3f1f
+    name: Four on the Floor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 08e740fa-a275-4ca9-9bd2-0cf651fc4e51
+    name: Child Is Father to the Man
 biography_enhanced_at: '2026-02-05T01:49:00.944322'
 birth_date: '1944-02-05'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:49:00.944331'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d6bee229-1957-4891-8d44-c56ac7ea259e
-  spotify: https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv
-  wikipedia: https://en.wikipedia.org/wiki/Al_Kooper
+  musicbrainz: 'https://musicbrainz.org/artist/d6bee229-1957-4891-8d44-c56ac7ea259e'
+  spotify: 'https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Al_Kooper'
 gender: Male
 genres:
-- classic blues
-- blues
-- blues rock
+  - classic blues
+  - blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/al_kooper.jpg
 instruments:
-- keyboard
-- lead vocals
-- original
-- guitar
-- bass guitar
-- piano
-- electric guitar
-- electric piano
-- acoustic guitar
-- guitar family
-- Wurlitzer electric piano
-- 12 string guitar
-- background vocals
-- vocal
+  - keyboard
+  - lead vocals
+  - original
+  - guitar
+  - bass guitar
+  - piano
+  - electric guitar
+  - electric piano
+  - acoustic guitar
+  - guitar family
+  - Wurlitzer electric piano
+  - 12 string guitar
+  - background vocals
+  - vocal
 last_updated: '2026-02-05T01:49:00.944333'
 musical_connections:
   collaborators:
-  - Mike Bloomfield
-  - Stephen Stills
-  - Shuggie Otis
-  - The Blues Project
-  - Blood, Sweat & Tears
-  - Lynyrd Skynyrd
-  - Bob Dylan
-  - The Rolling Stones
-  - Rita Coolidge
+    - Mike Bloomfield
+    - Stephen Stills
+    - Shuggie Otis
+    - The Blues Project
+    - 'Blood, Sweat & Tears'
+    - Lynyrd Skynyrd
+    - Bob Dylan
+    - The Rolling Stones
+    - Rita Coolidge
   influenced:
-  - The Tubes
-  - Lynyrd Skynyrd
+    - The Tubes
+    - Lynyrd Skynyrd
   mentors:
-  - Tom Wilson
-  - John Hammond
+    - Tom Wilson
+    - John Hammond
 musicbrainz_id: d6bee229-1957-4891-8d44-c56ac7ea259e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.alkooper.com/bio.html
-- https://en.wikipedia.org/wiki/Al_Kooper
-- https://www.udiscovermusic.com/stories/al-kooper/
-- https://www.popcultureclassics.com/al_kooper.html
-- https://www.britannica.com/biography/Al-Kooper
+  - 'https://www.alkooper.com/bio.html'
+  - 'https://en.wikipedia.org/wiki/Al_Kooper'
+  - 'https://www.udiscovermusic.com/stories/al-kooper/'
+  - 'https://www.popcultureclassics.com/al_kooper.html'
+  - 'https://www.britannica.com/biography/Al-Kooper'
 spotify_data:
   followers: 68751
   id: 49JvZ17o0VaAmXaJv5kZlv
   popularity: 47
-  url: https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv
+  url: 'https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv'
 status: active
 tags:
-- baroque pop
-- blues rock
-- electric blues
+  - baroque pop
+  - blues rock
+  - electric blues
 title: Al Kooper
+origin: 'Manhattan, New York, United States'
 ---
 
 ![](al_kooper.jpg)

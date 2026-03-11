@@ -3,45 +3,49 @@ biography_enhanced_at: '2026-02-01T01:33:36.521941'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:33:36.521946'
 external_urls:
-  spotify: https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR
+  spotify: 'https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR'
   wikipedia: Not found in search results
 genres:
-- rockabilly
-- doo-wop
-- rock and roll
+  - rockabilly
+  - doo-wop
+  - rock and roll
 image_path: 03_Resources/source_material/ArtistPortraits/the_band_the_crickets.jpg
 last_updated: '2026-02-01T01:33:36.521947'
 musical_connections:
   collaborators:
-  - Buddy Holly
-  - Jerry Allison
-  - Joe B. Mauldin
-  - Sonny Curtis
-  - Bobby Vee
-  - Paul McCartney
+    - Buddy Holly
+    - Jerry Allison
+    - Joe B. Mauldin
+    - Sonny Curtis
+    - Bobby Vee
+    - Paul McCartney
   influenced:
-  - The Beatles
-  - Subsequent rock and roll bands
+    - The Beatles
+    - Subsequent rock and roll bands
   mentors:
-  - Norman Petty
+    - Norman Petty
 network_extracted: true
-origin: Lubbock, Texas, United States
+origin: 'Lubbock, Texas, United States'
 primary_source: perplexity
 research_sources:
-- https://cincyplay.com/blogforfacebook/cinncinati-blog/2020/01/28/ritchie-valens-the-big-bopper-and-the-crickets
-- https://www.last.fm/music/The+Crickets/+wiki
-- https://www.tshaonline.org/handbook/entries/crickets
-- https://www.angelfire.com/nv/Badfinger/BANDcrickets.html
-- http://www.thecrickets.com/bios.html
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/116384/Crickets_The
-- https://www.allmusic.com/artist/the-crickets-mn0000785648
+  - >-
+    https://cincyplay.com/blogforfacebook/cinncinati-blog/2020/01/28/ritchie-valens-the-big-bopper-and-the-crickets
+  - 'https://www.last.fm/music/The+Crickets/+wiki'
+  - 'https://www.tshaonline.org/handbook/entries/crickets'
+  - 'https://www.angelfire.com/nv/Badfinger/BANDcrickets.html'
+  - 'http://www.thecrickets.com/bios.html'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/116384/Crickets_The
+  - 'https://www.allmusic.com/artist/the-crickets-mn0000785648'
 spotify_data:
   followers: 135294
   id: 4r7JUeiYy24L7BuzCq9EjR
   popularity: 53
-  url: https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR
+  url: 'https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR'
 status: active
-title: The Band, The Crickets
+title: 'The Band, The Crickets'
+death_date: '1959'
+artist_type: band
 ---
 
 ![](the_band_the_crickets.jpg)

@@ -3,39 +3,43 @@ biography_enhanced_at: '2026-02-02T01:50:10.927758'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:50:10.927768'
 external_urls:
-  spotify: https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg
+  spotify: 'https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg'
   wikipedia: null
 genres:
-- indie folk
-- folk
-- americana
+  - indie folk
+  - folk
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/the_milk_carton_kids.jpg
 last_updated: '2026-02-02T01:50:10.927770'
 musical_connections:
   collaborators:
-  - Chris Thile
-  - Various studio musicians
+    - Chris Thile
+    - Various studio musicians
   influenced: []
   mentors:
-  - Bob Dylan, Joni Mitchell, Simon & Garfunkel, Neil Young
-  - Joey Ryan's Mother
+    - 'Bob Dylan, Joni Mitchell, Simon & Garfunkel, Neil Young'
+    - Joey Ryan's Mother
 network_extracted: true
-origin: Los Angeles/Eagle Rock, California, United States
+origin: 'Los Angeles/Eagle Rock, California, United States'
 primary_source: perplexity
 research_sources:
-- https://americana-uk.com/interview-the-milk-carton-kids-joey-ryan-and-kenneth-pattengale-on-growing-up
-- https://www.themusichall.org/blog/spotlight_on_the_milk_carton_kids/
-- https://entertainmentvoice.com/2018/06/28/the-milk-carton-kids-joey-ryan-breaks-down-craft-and-meaning-of-all-the-things-that-i-did-and-all-the-things-that-i-didnt-do/
-- https://localspins.com/the-milk-carton-kids-branch-out-dig-deep-get-political-stay-funny-the-local-spins-interview/
-- https://vinyl.fandom.com/wiki/The_Milk_Carton_Kids
-- https://www.anti.com/artists/the-milk-carton-kids/
+  - >-
+    https://americana-uk.com/interview-the-milk-carton-kids-joey-ryan-and-kenneth-pattengale-on-growing-up
+  - 'https://www.themusichall.org/blog/spotlight_on_the_milk_carton_kids/'
+  - >-
+    https://entertainmentvoice.com/2018/06/28/the-milk-carton-kids-joey-ryan-breaks-down-craft-and-meaning-of-all-the-things-that-i-did-and-all-the-things-that-i-didnt-do/
+  - >-
+    https://localspins.com/the-milk-carton-kids-branch-out-dig-deep-get-political-stay-funny-the-local-spins-interview/
+  - 'https://vinyl.fandom.com/wiki/The_Milk_Carton_Kids'
+  - 'https://www.anti.com/artists/the-milk-carton-kids/'
 spotify_data:
   followers: 198441
   id: 7fxtWEwKKrFaykKItspdYg
   popularity: 48
-  url: https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg
+  url: 'https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg'
 status: active
 title: The Milk Carton Kids
+artist_type: band
 ---
 
 ![](the_milk_carton_kids.jpg)

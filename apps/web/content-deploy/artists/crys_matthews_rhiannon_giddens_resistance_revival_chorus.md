@@ -3,43 +3,52 @@ biography_enhanced_at: '2026-02-09T01:22:14.058634'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:22:14.058643'
 external_urls:
-  spotify: https://open.spotify.com/artist/4amdI0ryPLlEzWrxW7B2RC
-  wikipedia: https://en.wikipedia.org/wiki/Rhiannon_Giddens
+  spotify: 'https://open.spotify.com/artist/4amdI0ryPLlEzWrxW7B2RC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rhiannon_Giddens'
 genres:
-- americana
-image_path: 03_Resources/source_material/ArtistPortraits/crys_matthews_rhiannon_giddens_resistance_revival_chorus.jpg
+  - americana
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/crys_matthews_rhiannon_giddens_resistance_revival_chorus.jpg
 last_updated: '2026-02-09T01:22:14.058645'
 musical_connections:
   collaborators:
-  - Rhiannon Giddens
-  - Crys Matthews
-  - Resistance Revival Chorus
-  - Dirk Powell
-  - Justin Robinson
-  - Our Native Daughters
+    - Rhiannon Giddens
+    - Crys Matthews
+    - Resistance Revival Chorus
+    - Dirk Powell
+    - Justin Robinson
+    - Our Native Daughters
   influenced: []
   mentors:
-  - Peggy Seeger
+    - Peggy Seeger
 network_extracted: true
-origin: Nashville, Tennessee, USA (Crys Matthews); Greensboro, North Carolina, USA
-  (Rhiannon Giddens birthplace); New York City, New York, USA (Resistance Revival
-  Chorus origin)
+origin: >-
+  Nashville, Tennessee, USA (Crys Matthews); Greensboro, North Carolina, USA
+  (Rhiannon Giddens birthplace); New York City, New York, USA (Resistance
+  Revival Chorus origin)
 primary_source: perplexity
 research_sources:
-- https://shorefire.com/releases/entry/rhiannon-giddens-in-collaboration-with-crys-matthews-and-the-resistance-revival-chorus-reimagine-peggy-seegers-how-i-long-for-peace
-- https://blogs.loc.gov/folklife/2025/09/crys-matthews-peggy-seeger-rhiannon-giddens-and-how-i-long-for-peace-archive-challenge-spotlight/
-- https://www.nonesuch.com/journal/rhiannon-giddens-crys-matthews-and-resistance-revival-chorus-peggy-seeger-how-long-peace-2024-09-16
-- https://www.arts.gov/stories/blog/2021/throwback-thursday-looking-back-our-conversations-rhiannon-giddens-crys-matthews-and-malcolm-j
-- https://en.wikipedia.org/wiki/Rhiannon_Giddens
-- https://www.crysmatthews.com
-- https://www.countryeverywhere.com/profiles/crys-matthews
+  - >-
+    https://shorefire.com/releases/entry/rhiannon-giddens-in-collaboration-with-crys-matthews-and-the-resistance-revival-chorus-reimagine-peggy-seegers-how-i-long-for-peace
+  - >-
+    https://blogs.loc.gov/folklife/2025/09/crys-matthews-peggy-seeger-rhiannon-giddens-and-how-i-long-for-peace-archive-challenge-spotlight/
+  - >-
+    https://www.nonesuch.com/journal/rhiannon-giddens-crys-matthews-and-resistance-revival-chorus-peggy-seeger-how-long-peace-2024-09-16
+  - >-
+    https://www.arts.gov/stories/blog/2021/throwback-thursday-looking-back-our-conversations-rhiannon-giddens-crys-matthews-and-malcolm-j
+  - 'https://en.wikipedia.org/wiki/Rhiannon_Giddens'
+  - 'https://www.crysmatthews.com'
+  - 'https://www.countryeverywhere.com/profiles/crys-matthews'
 spotify_data:
   followers: 4430
   id: 4amdI0ryPLlEzWrxW7B2RC
   popularity: 15
-  url: https://open.spotify.com/artist/4amdI0ryPLlEzWrxW7B2RC
+  url: 'https://open.spotify.com/artist/4amdI0ryPLlEzWrxW7B2RC'
 status: active
-title: Crys Matthews, Rhiannon Giddens, Resistance Revival Chorus
+title: 'Crys Matthews, Rhiannon Giddens, Resistance Revival Chorus'
+birth_place: 'Greensboro, North Carolina, United States'
+birth_date: '1977-02-21'
+artist_type: person
 ---
 
 ![](crys_matthews_rhiannon_giddens_resistance_revival_chorus.jpg)

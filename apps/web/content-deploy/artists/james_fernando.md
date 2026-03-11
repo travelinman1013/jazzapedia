@@ -1,46 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-07T01:22:47.247941'
-birth_place: Falls Church, Virginia, USA (early life; currently Philadelphia-based)
+birth_place: 'Falls Church, Virginia, USA (early life; currently Philadelphia-based)'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:22:47.247946'
 external_urls:
-  spotify: https://open.spotify.com/artist/1VofWbvm6WLaH1UhTNqtNy
+  spotify: 'https://open.spotify.com/artist/1VofWbvm6WLaH1UhTNqtNy'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/james_fernando.jpg
 last_updated: '2026-02-07T01:22:47.247947'
 musical_connections:
   collaborators:
-  - Mingjia Chen
-  - Matt Lagan
-  - Dan McCain
-  - Kyon Williams
-  - Sam Harris
-  - Tom Paxton
-  - Cathy Fink and Marcy Marxer
-  - Victor Provost
+    - Mingjia Chen
+    - Matt Lagan
+    - Dan McCain
+    - Kyon Williams
+    - Sam Harris
+    - Tom Paxton
+    - Cathy Fink and Marcy Marxer
+    - Victor Provost
   influenced: []
   mentors:
-  - Chris Cheek
+    - Chris Cheek
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fernandojames.com/bio/
-- https://www.allaboutjazz.com/musicians/james-fernando/
-- https://jazzsensibilities.com/piano-jazz/james-fernando-the-lonely-sailor/
-- https://www.levinemusic.org/about/people/faculty/james-fernando/
-- https://dlmediamusic.com/press-releases/james-fernando-the-prodigiously-talented-pianist-composer-releases-philly-3/
-- https://www.ccmusicschool.org/2026-fernando-jazz-interview/
-- https://thejazzword.com/2020/07/james-fernando-the-lonely-sailor-review/
-- https://www.fcnp.com/2018/06/21/press-pass-james-fernando/
-- https://c-ville.com/james-fernando/
+  - 'https://fernandojames.com/bio/'
+  - 'https://www.allaboutjazz.com/musicians/james-fernando/'
+  - 'https://jazzsensibilities.com/piano-jazz/james-fernando-the-lonely-sailor/'
+  - 'https://www.levinemusic.org/about/people/faculty/james-fernando/'
+  - >-
+    https://dlmediamusic.com/press-releases/james-fernando-the-prodigiously-talented-pianist-composer-releases-philly-3/
+  - 'https://www.ccmusicschool.org/2026-fernando-jazz-interview/'
+  - 'https://thejazzword.com/2020/07/james-fernando-the-lonely-sailor-review/'
+  - 'https://www.fcnp.com/2018/06/21/press-pass-james-fernando/'
+  - 'https://c-ville.com/james-fernando/'
 spotify_data:
   followers: 199
   id: 1VofWbvm6WLaH1UhTNqtNy
   popularity: 0
-  url: https://open.spotify.com/artist/1VofWbvm6WLaH1UhTNqtNy
+  url: 'https://open.spotify.com/artist/1VofWbvm6WLaH1UhTNqtNy'
 status: active
 title: James Fernando
+artist_type: person
 ---
 
 ![](james_fernando.jpg)

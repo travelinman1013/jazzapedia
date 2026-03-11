@@ -3,35 +3,36 @@ biography_enhanced_at: '2026-02-15T01:53:50.041955'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:53:50.041962'
 external_urls:
-  spotify: https://open.spotify.com/artist/71jMMaCSckijTqg79WXAoj
+  spotify: 'https://open.spotify.com/artist/71jMMaCSckijTqg79WXAoj'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/exit_9.jpg
 last_updated: '2026-02-15T01:53:50.041963'
 musical_connections:
   collaborators:
-  - Hollis Googe
-  - Johnny Rios
-  - David Lavender
+    - Hollis Googe
+    - Johnny Rios
+    - David Lavender
   influenced: []
   mentors:
-  - John Jenkins and Modeste Clarke
-  - Alonzo Johnson
+    - John Jenkins and Modeste Clarke
+    - Alonzo Johnson
 network_extracted: true
 origin: United States
 primary_source: perplexity
 research_sources:
-- https://jazzrocksoul.com/artists/exit-9/
-- https://www.youtube.com/watch?v=bBxTfkjY2vE
-- https://www.last.fm/music/Exit+9
-- https://www.theaudiodb.com/artist/138923-Exit-9
+  - 'https://jazzrocksoul.com/artists/exit-9/'
+  - 'https://www.youtube.com/watch?v=bBxTfkjY2vE'
+  - 'https://www.last.fm/music/Exit+9'
+  - 'https://www.theaudiodb.com/artist/138923-Exit-9'
 spotify_data:
   followers: 368
   id: 71jMMaCSckijTqg79WXAoj
   popularity: 2
-  url: https://open.spotify.com/artist/71jMMaCSckijTqg79WXAoj
+  url: 'https://open.spotify.com/artist/71jMMaCSckijTqg79WXAoj'
 status: active
 title: Exit 9
+artist_type: band
 ---
 
 ![](exit_9.jpg)

@@ -2,53 +2,55 @@
 artist_type: person
 biography_enhanced_at: '2026-02-28T01:50:41.504453'
 birth_date: '1934-06-01'
-birth_place: Jacksonville
+birth_place: 'Jacksonville, Florida, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:50:41.504463'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/52e94208-f7c8-4e07-97ed-d5edeb0cfe60
-  spotify: https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu
-  wikipedia: https://en.wikipedia.org/wiki/Pat_Boone
+  musicbrainz: 'https://musicbrainz.org/artist/52e94208-f7c8-4e07-97ed-d5edeb0cfe60'
+  spotify: 'https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pat_Boone'
 gender: Male
 genres:
-- adult standards
+  - adult standards
 image_path: 03_Resources/source_material/ArtistPortraits/pat_boone.jpg
 instruments:
-- choir vocals
-- lead vocals
+  - choir vocals
+  - lead vocals
 last_updated: '2026-02-28T01:50:41.504464'
 musical_connections:
   collaborators:
-  - Debby Boone
-  - Dan Peek
-  - DeGarmo and Key
+    - Debby Boone
+    - Dan Peek
+    - DeGarmo and Key
   influenced:
-  - Little Richard
+    - Little Richard
   mentors:
-  - Red Foley
-  - Randy Wood
+    - Red Foley
+    - Randy Wood
 musicbrainz_id: 52e94208-f7c8-4e07-97ed-d5edeb0cfe60
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pat_Boone
-- https://www.patboone.com/growing-up-boone
-- https://archives.shef.ac.uk/agents/people/352
-- https://teachrock.org/article/pat-boone-boone-in-the-usa/
-- https://www.britannica.com/biography/Pat-Boone
-- https://www.patboone.com/copy-of-biography
-- https://gospelmusichalloffame.org/hall-of-fame-inductees-and-honorees/pat-boone
+  - 'https://en.wikipedia.org/wiki/Pat_Boone'
+  - 'https://www.patboone.com/growing-up-boone'
+  - 'https://archives.shef.ac.uk/agents/people/352'
+  - 'https://teachrock.org/article/pat-boone-boone-in-the-usa/'
+  - 'https://www.britannica.com/biography/Pat-Boone'
+  - 'https://www.patboone.com/copy-of-biography'
+  - >-
+    https://gospelmusichalloffame.org/hall-of-fame-inductees-and-honorees/pat-boone
 spotify_data:
   followers: 223255
   id: 7fmKtIgmxqNEKjATioVNsu
   popularity: 44
-  url: https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu
+  url: 'https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu'
 status: active
 tags:
-- 2008 universal fire victim
-- ballad
-- easy listening
-title: pat boone
+  - 2008 universal fire victim
+  - ballad
+  - easy listening
+title: Pat Boone
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](pat_boone.jpg)

@@ -3,42 +3,43 @@ biography_enhanced_at: '2026-03-08T03:02:24.788314'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:02:24.788322'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ZEIBXEWSSTDLhheAO9Wyk
-  wikipedia: https://en.wikipedia.org/wiki/%C3%89toile_de_Dakar
+  spotify: 'https://open.spotify.com/artist/0ZEIBXEWSSTDLhheAO9Wyk'
+  wikipedia: 'https://en.wikipedia.org/wiki/%C3%89toile_de_Dakar'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/etoile_de_dakar.jpg
 last_updated: '2026-03-08T03:02:24.788324'
 musical_connections:
   collaborators:
-  - Youssou N'Dour
-  - Jimi Mbaye
-  - El Hadji Faye
-  - Badou N'Diaye
-  - Habib Faye
+    - Youssou N'Dour
+    - Jimi Mbaye
+    - El Hadji Faye
+    - Badou N'Diaye
+    - Habib Faye
   influenced:
-  - Youssou N'Dour
-  - Super Étoile de Dakar
+    - Youssou N'Dour
+    - Super Étoile de Dakar
   mentors:
-  - Elhadj Samba Diabaré Samb
-  - Amadou Ndiaye Samb
-  - Sakou Dieng
-  - Jimi Hendrix
+    - Elhadj Samba Diabaré Samb
+    - Amadou Ndiaye Samb
+    - Sakou Dieng
+    - Jimi Hendrix
 network_extracted: true
-origin: Dakar, Senegal
+origin: 'Dakar, Senegal, Senegal'
 primary_source: perplexity
 research_sources:
-- https://www.pambazuka.org/Mamadou-Mbaye-music-genius-and-humanist
-- https://www.last.fm/music/Etoile+de+Dakar/+wiki
-- https://en.wikipedia.org/wiki/%C3%89toile_de_Dakar
-- https://www.allmusic.com/artist/etoile-de-dakar-mn0000208468
-- https://www.last.fm/music/%C3%89toile+De+Dakar/+wiki
+  - 'https://www.pambazuka.org/Mamadou-Mbaye-music-genius-and-humanist'
+  - 'https://www.last.fm/music/Etoile+de+Dakar/+wiki'
+  - 'https://en.wikipedia.org/wiki/%C3%89toile_de_Dakar'
+  - 'https://www.allmusic.com/artist/etoile-de-dakar-mn0000208468'
+  - 'https://www.last.fm/music/%C3%89toile+De+Dakar/+wiki'
 spotify_data:
   followers: 16982
   id: 0ZEIBXEWSSTDLhheAO9Wyk
   popularity: 21
-  url: https://open.spotify.com/artist/0ZEIBXEWSSTDLhheAO9Wyk
+  url: 'https://open.spotify.com/artist/0ZEIBXEWSSTDLhheAO9Wyk'
 status: active
-title: etoile de dakar
+title: Étoile de Dakar
+artist_type: band
 ---
 
 ![](etoile_de_dakar.jpg)

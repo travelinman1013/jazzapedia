@@ -3,42 +3,44 @@ biography_enhanced_at: '2026-02-18T01:34:41.883131'
 enhancement_provider: perplexity
 entry_created: '2026-02-18T01:34:41.883150'
 external_urls:
-  spotify: https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r
+  spotify: 'https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r'
   wikipedia: ''
 genres:
-- afro house
-- tribal house
+  - afro house
+  - tribal house
 image_path: 03_Resources/source_material/ArtistPortraits/lakou_mizik_79rs_gang.jpg
 last_updated: '2026-02-18T01:34:41.883151'
 musical_connections:
   collaborators:
-  - 79rs Gang
-  - Zach Niles
-  - Raja Kassis (Antibalas), King James, Anders Osborne
-  - Steeve Valcourt, Jonas Attis, Nadine, Lamarre Junior, Ti Piti, James
+    - 79rs Gang
+    - Zach Niles
+    - 'Raja Kassis (Antibalas), King James, Anders Osborne'
+    - 'Steeve Valcourt, Jonas Attis, Nadine, Lamarre Junior, Ti Piti, James'
   influenced: []
   mentors:
-  - Sanba Zao
-  - Steeve Valcourt's father
+    - Sanba Zao
+    - Steeve Valcourt's father
 network_extracted: true
-origin: Port-au-Prince, Haiti
+origin: 'Port-au-Prince, Haiti, Haiti'
 primary_source: perplexity
 research_sources:
-- http://lakoumizik.com/about
-- https://thefestival.bc.ca/artists/lakou-mizik/
-- https://www.emilydiament.com/news/2020/5/29/new-orleans-advocate-the-79rs-gang-makes-modern-mardi-gras-indian-music-on-expect-the-unexpected
-- https://www.putumayo.com/lakoumizik
-- https://www.cumbancha.com/lakoumizik
-- https://www.youtube.com/watch?v=bYntMaiOJMY
-- https://www.crossroadsconcerts.org/lakou-mizik/
-- https://afropop.org/articles/haitianola
+  - 'http://lakoumizik.com/about'
+  - 'https://thefestival.bc.ca/artists/lakou-mizik/'
+  - >-
+    https://www.emilydiament.com/news/2020/5/29/new-orleans-advocate-the-79rs-gang-makes-modern-mardi-gras-indian-music-on-expect-the-unexpected
+  - 'https://www.putumayo.com/lakoumizik'
+  - 'https://www.cumbancha.com/lakoumizik'
+  - 'https://www.youtube.com/watch?v=bYntMaiOJMY'
+  - 'https://www.crossroadsconcerts.org/lakou-mizik/'
+  - 'https://afropop.org/articles/haitianola'
 spotify_data:
   followers: 11114
   id: 2AzO6D2TXB9qEqL6UfUU8r
   popularity: 28
-  url: https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r
+  url: 'https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r'
 status: active
-title: Lakou Mizik, 79rs Gang
+title: 'Lakou Mizik, 79rs Gang'
+artist_type: band
 ---
 
 ![](lakou_mizik_79rs_gang.jpg)

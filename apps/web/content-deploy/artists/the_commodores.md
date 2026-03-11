@@ -3,43 +3,47 @@ biography_enhanced_at: '2026-01-23T01:43:48.628707'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:43:48.628714'
 external_urls:
-  spotify: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
-  wikipedia: https://en.wikipedia.org/wiki/Commodores
+  spotify: 'https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Commodores'
 genres:
-- motown
-- classic soul
+  - motown
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/the_commodores.jpg
 last_updated: '2026-01-23T01:43:48.628715'
 musical_connections:
   collaborators:
-  - Lionel Richie
-  - Walter Orange
-  - William King
-  - James Dean 'J.D.' Nicholas
-  - James Anthony Carmichael
+    - Lionel Richie
+    - Walter Orange
+    - William King
+    - James Dean 'J.D.' Nicholas
+    - James Anthony Carmichael
   influenced:
-  - Sheldon Reynolds
+    - Sheldon Reynolds
   mentors:
-  - Suzanne dePasse
+    - Suzanne dePasse
 network_extracted: true
-origin: Tuskegee, Macon County, Alabama, United States
+origin: 'Tuskegee, Macon County, Alabama, United States'
 primary_source: perplexity
 research_sources:
-- https://encyclopediaofalabama.org/article/the-commodores/
-- https://en.wikipedia.org/wiki/Commodores
-- https://www.last.fm/music/Commodores/+wiki
-- https://www.alamhof.org/commodore
-- https://popdaze.com/general-music/commodores-lionel-richie-and-the-members-on-still-sailin-on/
-- https://www.boothamphitheatre.com/assets/doc/The-Commodores-Bio-71ef900544.pdf
-- https://classic.motown.com/artist/the-commodores/
-- https://blackpast.org/african-american-history/lionel-richie-and-commodores-1967/
+  - 'https://encyclopediaofalabama.org/article/the-commodores/'
+  - 'https://en.wikipedia.org/wiki/Commodores'
+  - 'https://www.last.fm/music/Commodores/+wiki'
+  - 'https://www.alamhof.org/commodore'
+  - >-
+    https://popdaze.com/general-music/commodores-lionel-richie-and-the-members-on-still-sailin-on/
+  - >-
+    https://www.boothamphitheatre.com/assets/doc/The-Commodores-Bio-71ef900544.pdf
+  - 'https://classic.motown.com/artist/the-commodores/'
+  - >-
+    https://blackpast.org/african-american-history/lionel-richie-and-commodores-1967/
 spotify_data:
   followers: 2171675
   id: 6twIAGnYuIT1pncMAsXnEm
   popularity: 67
-  url: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
+  url: 'https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm'
 status: active
-title: THE COMMODORES
+title: The Commodores
+artist_type: person
 ---
 
 ![](the_commodores.jpg)

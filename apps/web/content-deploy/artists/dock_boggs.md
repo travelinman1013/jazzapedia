@@ -2,61 +2,63 @@
 artist_type: person
 biography_enhanced_at: '2026-01-31T01:09:04.639943'
 birth_date: '1898-02-07'
-birth_place: West Norton, Virginia, USA
+birth_place: 'West Norton, Virginia, USA'
 death_date: '1971-02-07'
-disambiguation: old-time singer, songwriter and banjo player
+disambiguation: 'old-time singer, songwriter and banjo player'
 enhancement_provider: perplexity
 entry_created: '2026-01-31T01:09:04.639959'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/78fad453-6853-4c74-9237-e5160afd9db0
-  spotify: https://open.spotify.com/artist/2NwYS5UK1AbaTljDWp4uh0
-  wikipedia: https://en.wikipedia.org/wiki/Dock_Boggs
+  musicbrainz: 'https://musicbrainz.org/artist/78fad453-6853-4c74-9237-e5160afd9db0'
+  spotify: 'https://open.spotify.com/artist/2NwYS5UK1AbaTljDWp4uh0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dock_Boggs'
 gender: Male
 genres:
-- bluegrass
-- traditional folk
-- country blues
-- folk
-- southern gothic
+  - bluegrass
+  - traditional folk
+  - country blues
+  - folk
+  - southern gothic
 image_path: 03_Resources/source_material/ArtistPortraits/dock_boggs.jpg
 last_updated: '2026-01-31T01:09:04.639960'
 musical_connections:
   collaborators:
-  - Scott Boatwright
-  - Melvin Robinette
-  - Charley Powers
-  - Emry Arthur
-  - Mike Seeger
+    - Scott Boatwright
+    - Melvin Robinette
+    - Charley Powers
+    - Emry Arthur
+    - Mike Seeger
   influenced:
-  - Contemporary folk musicians
+    - Contemporary folk musicians
   mentors:
-  - Roscoe Boggs
-  - Homer Crawford
-  - Jim White
-  - Go Lightning
-  - Sara Martin and Alberta Hunter
+    - Roscoe Boggs
+    - Homer Crawford
+    - Jim White
+    - Go Lightning
+    - Sara Martin and Alberta Hunter
 musicbrainz_id: 78fad453-6853-4c74-9237-e5160afd9db0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dock_Boggs
-- https://zeppmusic.com/banjo/dboggs.htm
-- https://clinchvalleytimes.net/2025/07/10/a-retrospective-of-the-well-known-musician-and-the-influences-that-inspired-him/
-- http://oldtimeblues.net/2018/02/07/brunswick-118-dock-boggs-1927/
-- https://fieldrecorder.org/dock-boggs/
-- https://folkways.si.edu/dock-boggs/legendary-singer-and-banjo-player
-- https://nativeground.com/remembered-done-dock-boggs-jack-wright/
+  - 'https://en.wikipedia.org/wiki/Dock_Boggs'
+  - 'https://zeppmusic.com/banjo/dboggs.htm'
+  - >-
+    https://clinchvalleytimes.net/2025/07/10/a-retrospective-of-the-well-known-musician-and-the-influences-that-inspired-him/
+  - 'http://oldtimeblues.net/2018/02/07/brunswick-118-dock-boggs-1927/'
+  - 'https://fieldrecorder.org/dock-boggs/'
+  - 'https://folkways.si.edu/dock-boggs/legendary-singer-and-banjo-player'
+  - 'https://nativeground.com/remembered-done-dock-boggs-jack-wright/'
 spotify_data:
   followers: 16160
   id: 2NwYS5UK1AbaTljDWp4uh0
   popularity: 27
-  url: https://open.spotify.com/artist/2NwYS5UK1AbaTljDWp4uh0
+  url: 'https://open.spotify.com/artist/2NwYS5UK1AbaTljDWp4uh0'
 status: active
 tags:
-- appalachian folk
-- country blues
-- old-time
-title: dock boggs
+  - appalachian folk
+  - country blues
+  - old-time
+title: Dock Boggs
+is_active: false
 ---
 
 ![](dock_boggs.jpg)

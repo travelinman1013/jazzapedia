@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-10T01:58:33.369032'
-birth_place: New Orleans, Louisiana, U.S.
+birth_place: 'New Orleans, Louisiana, U.S.'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:58:33.369043'
 external_urls:
-  spotify: https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu
-  wikipedia: https://en.wikipedia.org/wiki/Dawn_Richard
+  spotify: 'https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dawn_Richard'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/kaytranada_dawn_richard.jpg
 last_updated: '2026-02-10T01:58:33.369045'
 musical_connections:
   collaborators:
-  - Danity Kane members (Aubrey O'Day, Aundrea Fimbres, D. Woods, Shannon Bex)
-  - Kalenna Harper
-  - Kyle Cabrol
-  - KAYTRANADA
-  - Spencer Zahn
+    - 'Danity Kane members (Aubrey O''Day, Aundrea Fimbres, D. Woods, Shannon Bex)'
+    - Kalenna Harper
+    - Kyle Cabrol
+    - KAYTRANADA
+    - Spencer Zahn
   influenced: []
   mentors:
-  - Sean 'Diddy' Combs
+    - Sean 'Diddy' Combs
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dawn_Richard
-- https://www.pastemagazine.com/music/dawn-richard/cover-story-the-design-of-dawn-richard
-- https://beatroutemedia.com/dawn-richard/
-- https://thefortyfive.com/interviews/dawn-richard-interview-second-line-2021/
-- https://www.viberate.com/artist/dawn-richard/
-- https://www.shazam.com/en-us/artist/dawn-richard/363780112
+  - 'https://en.wikipedia.org/wiki/Dawn_Richard'
+  - >-
+    https://www.pastemagazine.com/music/dawn-richard/cover-story-the-design-of-dawn-richard
+  - 'https://beatroutemedia.com/dawn-richard/'
+  - 'https://thefortyfive.com/interviews/dawn-richard-interview-second-line-2021/'
+  - 'https://www.viberate.com/artist/dawn-richard/'
+  - 'https://www.shazam.com/en-us/artist/dawn-richard/363780112'
 spotify_data:
   followers: 1884358
   id: 6qgnBH6iDM91ipVXv28OMu
   popularity: 72
-  url: https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu
+  url: 'https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu'
 status: active
 title: KAYTRANADA/ Dawn Richard
+birth_date: '1983-08-05'
+artist_type: person
 ---
 
 ![](kaytranada_dawn_richard.jpg)

@@ -1,39 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-26T01:42:10.835701'
-birth_place: Okeechobee, Florida, USA
+birth_place: 'Okeechobee, Florida, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:42:10.835713'
 external_urls:
-  spotify: https://open.spotify.com/artist/5vW7N9ZWWhikIQ7D3vd1nP
+  spotify: 'https://open.spotify.com/artist/5vW7N9ZWWhikIQ7D3vd1nP'
   wikipedia: ''
 genres:
-- worship
+  - worship
 image_path: 03_Resources/source_material/ArtistPortraits/judd_harris.jpg
 last_updated: '2026-01-26T01:42:10.835715'
 musical_connections:
   collaborators:
-  - Vertical Worship
-  - Liberty Worship Collective
+    - Vertical Worship
+    - Liberty Worship Collective
   influenced:
-  - Liberty University student worship leaders
+    - Liberty University student worship leaders
   mentors:
-  - Liberty Worship Collective members and leaders
-  - Harvest Bible Chapel / Vertical Worship team
+    - Liberty Worship Collective members and leaders
+    - Harvest Bible Chapel / Vertical Worship team
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.liberty.edu/champion/2019/11/04/liberty-worship-collectives-judson-harris-shares-his-experience-with-vertical-worship/
-- https://www.youtube.com/watch?v=1wWdYxTO6oI
-- https://studentlife.lifeway.com/camp/26libu01/
-- https://www.liberty.edu/worshipcollective/thoughts/authors/judd-harris/
-- https://thechurchcollective.com/podcast/episode-149-judd-harris-vertical-worship/
+  - >-
+    https://www.liberty.edu/champion/2019/11/04/liberty-worship-collectives-judson-harris-shares-his-experience-with-vertical-worship/
+  - 'https://www.youtube.com/watch?v=1wWdYxTO6oI'
+  - 'https://studentlife.lifeway.com/camp/26libu01/'
+  - 'https://www.liberty.edu/worshipcollective/thoughts/authors/judd-harris/'
+  - >-
+    https://thechurchcollective.com/podcast/episode-149-judd-harris-vertical-worship/
 spotify_data:
   followers: 992
   id: 5vW7N9ZWWhikIQ7D3vd1nP
   popularity: 40
-  url: https://open.spotify.com/artist/5vW7N9ZWWhikIQ7D3vd1nP
+  url: 'https://open.spotify.com/artist/5vW7N9ZWWhikIQ7D3vd1nP'
 status: active
 title: Judd Harris
+artist_type: person
 ---
 
 ![](judd_harris.jpg)

@@ -1,41 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-25T01:35:40.946583'
-birth_place: New York City, New York, USA
+birth_place: 'New York City, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:35:40.946591'
 external_urls:
-  spotify: https://open.spotify.com/artist/68cedB4stve6AQFaeDHQN8
-  wikipedia: https://en.wikipedia.org/wiki/Andy_Stein
+  spotify: 'https://open.spotify.com/artist/68cedB4stve6AQFaeDHQN8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Andy_Stein'
 genres:
-- native american music
+  - native american music
 image_path: 03_Resources/source_material/ArtistPortraits/andy_stein.jpg
 last_updated: '2026-01-25T01:35:40.946592'
 musical_connections:
   collaborators:
-  - Commander Cody and His Lost Planet Airmen
-  - Asleep at the Wheel
-  - Guys All-Star Shoe Band (A Prairie Home Companion)
-  - Vince Giordano and the Nighthawks
-  - Garrison Keillor
+    - Commander Cody and His Lost Planet Airmen
+    - Asleep at the Wheel
+    - Guys All-Star Shoe Band (A Prairie Home Companion)
+    - Vince Giordano and the Nighthawks
+    - Garrison Keillor
   influenced: []
   mentors:
-  - Dorothy Minty
-  - Lillian Fuchs
-  - Artie Drellinger
+    - Dorothy Minty
+    - Lillian Fuchs
+    - Artie Drellinger
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.andysteinmusic.com/biography
-- https://en.wikipedia.org/wiki/Andy_Stein
-- https://syncopatedtimes.com/andy-stein/
-- https://www.youtube.com/watch?v=q9PcsczZbJ8
+  - 'https://www.andysteinmusic.com/biography'
+  - 'https://en.wikipedia.org/wiki/Andy_Stein'
+  - 'https://syncopatedtimes.com/andy-stein/'
+  - 'https://www.youtube.com/watch?v=q9PcsczZbJ8'
 spotify_data:
   followers: 52
   id: 68cedB4stve6AQFaeDHQN8
   popularity: 7
-  url: https://open.spotify.com/artist/68cedB4stve6AQFaeDHQN8
+  url: 'https://open.spotify.com/artist/68cedB4stve6AQFaeDHQN8'
 status: active
 title: Andy Stein
+artist_type: person
 ---
 
 ![](andy_stein.jpg)

@@ -1,12 +1,12 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-03-03T01:39:10.134859'
-birth_place: San Francisco
+birth_place: 'San Francisco, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:39:10.134869'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b8d45ed6-5a81-41d5-a59c-ea92aab9c722
-  spotify: https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG
+  musicbrainz: 'https://musicbrainz.org/artist/b8d45ed6-5a81-41d5-a59c-ea92aab9c722'
+  spotify: 'https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG'
   wikipedia: null
 gender: Male
 genres: []
@@ -14,31 +14,32 @@ image_path: 03_Resources/source_material/ArtistPortraits/christian_kuria.jpg
 last_updated: '2026-03-03T01:39:10.134870'
 musical_connections:
   collaborators:
-  - Cautious Clay
+    - Cautious Clay
   influenced: []
   mentors:
-  - Green Day
+    - Green Day
 musicbrainz_id: b8d45ed6-5a81-41d5-a59c-ea92aab9c722
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Christian+Kuria/+wiki
-- https://www.thelunacollective.co/journal/spotlight-christian-kuria
-- https://www.youtube.com/watch?v=5_5OXkOfJpQ
-- https://www.famousbirthdays.com/people/christian-kuria.html
-- https://www.blankcassettemusic.com/artist/christian-kuria
-- https://www.viberate.com/artist/christian-kuria/
-- https://onthejunglefloor.com/blogs/interviews/christian-kuria
+  - 'https://www.last.fm/music/Christian+Kuria/+wiki'
+  - 'https://www.thelunacollective.co/journal/spotlight-christian-kuria'
+  - 'https://www.youtube.com/watch?v=5_5OXkOfJpQ'
+  - 'https://www.famousbirthdays.com/people/christian-kuria.html'
+  - 'https://www.blankcassettemusic.com/artist/christian-kuria'
+  - 'https://www.viberate.com/artist/christian-kuria/'
+  - 'https://onthejunglefloor.com/blogs/interviews/christian-kuria'
 spotify_data:
   followers: 231441
   id: 4uaGojdWj4H6cTJydZUPWG
   popularity: 56
-  url: https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG
+  url: 'https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG'
 status: active
 tags:
-- alternative r&b
-- neo soul
-title: CHRISTIAN KURIA
+  - alternative r&b
+  - neo soul
+title: Christian Kuria
+origin: 'Vallejo, CA, United States'
 ---
 
 ![](christian_kuria.jpg)

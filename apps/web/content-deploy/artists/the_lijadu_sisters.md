@@ -3,36 +3,40 @@ biography_enhanced_at: '2026-03-08T03:06:39.839080'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:06:39.839089'
 external_urls:
-  spotify: https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ
+  spotify: 'https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ'
   wikipedia: Not found in search results
 genres:
-- highlife
-- afrobeat
+  - highlife
+  - afrobeat
 image_path: 03_Resources/source_material/ArtistPortraits/the_lijadu_sisters.jpg
 last_updated: '2026-03-08T03:06:39.839090'
 musical_connections:
   collaborators:
-  - Ginger Baker
-  - King Sunny Adé
+    - Ginger Baker
+    - King Sunny Adé
   influenced:
-  - Nas
+    - Nas
   mentors:
-  - Adelaide Efunyemi Lijadu (Mother)
+    - Adelaide Efunyemi Lijadu (Mother)
 network_extracted: true
-origin: Jos, Nigeria (birthplace); Ibadan, Nigeria (raised); New York, United States
+origin: >-
+  Jos, Nigeria (birthplace); Ibadan, Nigeria (raised); New York, United States
   (later residence)
 primary_source: perplexity
 research_sources:
-- https://rpublc.com/gender/who-were-the-lijadu-sisters/
-- https://www.wipo.int/en/web/wipo-magazine/articles/the-lijadu-sisters-and-the-power-of-copyright-backed-reissues-74901
-- https://africabokutalent.org/directory/talent/lijadu-sisters/
+  - 'https://rpublc.com/gender/who-were-the-lijadu-sisters/'
+  - >-
+    https://www.wipo.int/en/web/wipo-magazine/articles/the-lijadu-sisters-and-the-power-of-copyright-backed-reissues-74901
+  - 'https://africabokutalent.org/directory/talent/lijadu-sisters/'
 spotify_data:
   followers: 81495
   id: 1iElGdidl4zFXOpaaem4wZ
   popularity: 37
-  url: https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ
+  url: 'https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ'
 status: active
 title: The Lijadu Sisters
+birth_date: '1948-10-22'
+artist_type: band
 ---
 
 ![](the_lijadu_sisters.jpg)

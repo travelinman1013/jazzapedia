@@ -1,39 +1,41 @@
 ---
 biography_enhanced_at: '2026-03-03T01:39:23.773578'
-birth_place: Hellshire Beach, Jamaica
+birth_place: 'Hellshire Beach, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:39:23.773588'
 external_urls:
-  spotify: https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn
+  spotify: 'https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn'
   wikipedia: ''
 genres:
-- soca
+  - soca
 image_path: 03_Resources/source_material/ArtistPortraits/izybeats_modesty.jpg
 last_updated: '2026-03-03T01:39:23.773590'
 musical_connections:
   collaborators:
-  - Koffee
-  - Jorja Smith
-  - Burna Boy
-  - Vybz Kartel
-  - Sean Paul
-  - Alicia Keys
+    - Koffee
+    - Jorja Smith
+    - Burna Boy
+    - Vybz Kartel
+    - Sean Paul
+    - Alicia Keys
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://royaltyexchange.com/blog/izybeats-the-mastermind-behind-global-hits
-- https://www.izyareyoukiddingme.com/pages/about
-- https://www.dancehallmag.com/artists/izy-beats
-- https://www.youtube.com/watch?v=ky7LJUlpJrw
+  - 'https://royaltyexchange.com/blog/izybeats-the-mastermind-behind-global-hits'
+  - 'https://www.izyareyoukiddingme.com/pages/about'
+  - 'https://www.dancehallmag.com/artists/izy-beats'
+  - 'https://www.youtube.com/watch?v=ky7LJUlpJrw'
 spotify_data:
   followers: 3846
   id: 1KkjdXDKJ6w8p2XAtTJ5Sn
   popularity: 30
-  url: https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn
+  url: 'https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn'
 status: active
-title: IZYBEATS, MODESTY
+title: 'Izybeats, Modesty'
+origin: 'Miami, Florida, United States'
+artist_type: person
 ---
 
 ![](izybeats_modesty.jpg)

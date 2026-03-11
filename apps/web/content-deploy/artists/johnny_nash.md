@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-02-08T02:03:43.929530'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:03:43.929539'
 external_urls:
-  spotify: https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Nash
+  spotify: 'https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Nash'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_nash.jpg
 last_updated: '2026-02-08T02:03:43.929541'
 musical_connections:
   collaborators:
-  - Danny Sims
-  - Arthur Jenkins
-  - Bob Marley
-  - Bunny Wailer
-  - Peter Tosh
-  - Byron Lee and the Dragonaires
+    - Danny Sims
+    - Arthur Jenkins
+    - Bob Marley
+    - Bunny Wailer
+    - Peter Tosh
+    - Byron Lee and the Dragonaires
   influenced:
-  - Bob Marley & The Wailers
+    - Bob Marley & The Wailers
   mentors:
-  - Neville Willoughby
+    - Neville Willoughby
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Nash
-- https://www.tshaonline.org/handbook/entries/nash-john-lester-jr-johnny
-- http://www.classicbands.com/nash.html
-- https://5cornersdistrict.org/my-five-corners/johnny-nash-saga-part-2-reggae-music-pioneer/
-- http://johnnynash.com
-- https://blackpast.org/african-american-history/johnny-nash-1940-2020/
+  - 'https://en.wikipedia.org/wiki/Johnny_Nash'
+  - 'https://www.tshaonline.org/handbook/entries/nash-john-lester-jr-johnny'
+  - 'http://www.classicbands.com/nash.html'
+  - >-
+    https://5cornersdistrict.org/my-five-corners/johnny-nash-saga-part-2-reggae-music-pioneer/
+  - 'http://johnnynash.com'
+  - 'https://blackpast.org/african-american-history/johnny-nash-1940-2020/'
 spotify_data:
   followers: 84453
   id: 0nAVvgfE9yI4DwvMiYwk8a
   popularity: 56
-  url: https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a
+  url: 'https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a'
 status: active
-title: johnny nash
+title: Johnny Nash
+birth_date: '1940-08-19'
+artist_type: person
 ---
 
 ![](johnny_nash.jpg)

@@ -1,37 +1,39 @@
 ---
 biography_enhanced_at: '2026-03-05T02:04:30.487250'
-birth_place: Sydney, Australia
+birth_place: 'Sydney, Australia'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:04:30.487258'
 external_urls:
-  spotify: https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG
+  spotify: 'https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/alex_cameron.jpg
 last_updated: '2026-03-05T02:04:30.487258'
 musical_connections:
   collaborators:
-  - Roy Molloy
+    - Roy Molloy
   influenced: []
   mentors:
-  - Jonathan Rado
-  - Jack Ladder
+    - Jonathan Rado
+    - Jack Ladder
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.whatthesound.com/interviews/alex-cameron
-- https://asia.onestowatch.com/en/blog/setlistfm-presents-who-is-alex-cameron-new
-- https://www.loudandquiet.com/interview/alex-cameron/
-- https://creativeloafing.com/group-516113-alex-cameron
-- https://www.allmusic.com/artist/alex-cameron-mn0002915916
-- https://www.sleek-mag.com/article/alex-cameron/
+  - 'https://www.whatthesound.com/interviews/alex-cameron'
+  - >-
+    https://asia.onestowatch.com/en/blog/setlistfm-presents-who-is-alex-cameron-new
+  - 'https://www.loudandquiet.com/interview/alex-cameron/'
+  - 'https://creativeloafing.com/group-516113-alex-cameron'
+  - 'https://www.allmusic.com/artist/alex-cameron-mn0002915916'
+  - 'https://www.sleek-mag.com/article/alex-cameron/'
 spotify_data:
   followers: 89502
   id: 6kGMx9MqwnbKR2EYvZvvrG
   popularity: 39
-  url: https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG
+  url: 'https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG'
 status: active
 title: Alex Cameron
+artist_type: person
 ---
 
 ![](alex_cameron.jpg)

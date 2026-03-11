@@ -1,49 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-24T02:00:48.273053'
-birth_place: Philadelphia, Pennsylvania, USA
+birth_place: 'Philadelphia, Pennsylvania, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:00:48.273058'
 external_urls:
-  spotify: https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU
+  spotify: 'https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU'
   wikipedia: ''
 genres:
-- christian jazz
-- jazz
-- jazz ballads
+  - christian jazz
+  - jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/eric_scott_reed.jpg
 last_updated: '2026-01-24T02:00:48.273059'
 musical_connections:
   collaborators:
-  - Wynton Marsalis
-  - Freddie Hubbard
-  - Joe Henderson
-  - Willie Jones III
-  - Gerald Cannon
-  - Nicholas Payton
-  - Eric Alexander
+    - Wynton Marsalis
+    - Freddie Hubbard
+    - Joe Henderson
+    - Willie Jones III
+    - Gerald Cannon
+    - Nicholas Payton
+    - Eric Alexander
   influenced: []
   mentors:
-  - Alan Dawson
-  - Arthur Taylor
-  - Ahmad Jamal
+    - Alan Dawson
+    - Arthur Taylor
+    - Ahmad Jamal
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/eric-reed/
-- https://www.prestomusic.com/jazz/articles/6532--interview-eric-scott-reed-on-out-late
-- https://www.ericscottreed.com/about-eric
-- https://downbeat.com/news/detail/the-liberation-of-eric-reed
-- https://www.yamaha.com/artists/ericreed.html
-- https://thevelvetnote.com/event/eric-reed-saturday/
-- https://www.tonebase.co/piano-artist-biographies/ericscottreed
-- https://www.allmusic.com/artist/eric-reed-mn0000799352
+  - 'https://www.allaboutjazz.com/musicians/eric-reed/'
+  - >-
+    https://www.prestomusic.com/jazz/articles/6532--interview-eric-scott-reed-on-out-late
+  - 'https://www.ericscottreed.com/about-eric'
+  - 'https://downbeat.com/news/detail/the-liberation-of-eric-reed'
+  - 'https://www.yamaha.com/artists/ericreed.html'
+  - 'https://thevelvetnote.com/event/eric-reed-saturday/'
+  - 'https://www.tonebase.co/piano-artist-biographies/ericscottreed'
+  - 'https://www.allmusic.com/artist/eric-reed-mn0000799352'
 spotify_data:
   followers: 10735
   id: 6aIBBSprVv4xXTT6vzONXU
   popularity: 37
-  url: https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU
+  url: 'https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU'
 status: active
 title: Eric Scott Reed
+artist_type: person
 ---
 
 ![](eric_scott_reed.jpg)

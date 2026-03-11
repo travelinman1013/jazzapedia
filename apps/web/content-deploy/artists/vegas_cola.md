@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-02-10T01:57:38.703817'
-birth_place: Treme, New Orleans, Louisiana, USA
+birth_place: 'Treme, New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:57:38.703823'
 external_urls:
-  spotify: https://open.spotify.com/artist/574yGeWdXl6p9uOVcNwvSL
+  spotify: 'https://open.spotify.com/artist/574yGeWdXl6p9uOVcNwvSL'
   wikipedia: ''
 genres:
-- new orleans bounce
-- bounce
+  - new orleans bounce
+  - bounce
 image_path: 03_Resources/source_material/ArtistPortraits/vegas_cola.jpg
 last_updated: '2026-02-10T01:57:38.703824'
 musical_connections:
   collaborators:
-  - Dave Bartholomew
-  - Russell Batiste
-  - James Andrews
-  - Donald Harrison
-  - Kermit Ruffins
-  - Troy Andrews
-  - Big Sam’s Funky Nation
+    - Dave Bartholomew
+    - Russell Batiste
+    - James Andrews
+    - Donald Harrison
+    - Kermit Ruffins
+    - Troy Andrews
+    - Big Sam’s Funky Nation
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://vegascolamusic.com/about
-- https://www.offbeat.com/articles/light-it-up-new-orleans-classic-rb-singer-vegas-cola-makes-her-french-quarter-festival-debut/
-- https://vegascolamusic.com
-- https://marvelcinematicuniverse.fandom.com/wiki/Vegas_Cola
-- https://niagarajazzfestival.com/artists/vegas-cola-band/
+  - 'https://vegascolamusic.com/about'
+  - >-
+    https://www.offbeat.com/articles/light-it-up-new-orleans-classic-rb-singer-vegas-cola-makes-her-french-quarter-festival-debut/
+  - 'https://vegascolamusic.com'
+  - 'https://marvelcinematicuniverse.fandom.com/wiki/Vegas_Cola'
+  - 'https://niagarajazzfestival.com/artists/vegas-cola-band/'
 spotify_data:
   followers: 200
   id: 574yGeWdXl6p9uOVcNwvSL
   popularity: 0
-  url: https://open.spotify.com/artist/574yGeWdXl6p9uOVcNwvSL
+  url: 'https://open.spotify.com/artist/574yGeWdXl6p9uOVcNwvSL'
 status: active
 title: Vegas Cola
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](vegas_cola.jpg)

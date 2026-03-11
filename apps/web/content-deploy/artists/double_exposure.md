@@ -1,68 +1,69 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-15T01:54:12.279031'
 birth_date: '1968'
 disambiguation: US disco band
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:54:12.279039'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ce16a54b-d14c-428f-8721-7baed0929cc0
-  spotify: https://open.spotify.com/artist/2ycdPM6Y4ioJzcmZRlp4Db
+  musicbrainz: 'https://musicbrainz.org/artist/ce16a54b-d14c-428f-8721-7baed0929cc0'
+  spotify: 'https://open.spotify.com/artist/2ycdPM6Y4ioJzcmZRlp4Db'
   wikipedia: null
 genres:
-- philly soul
-- disco
-- disco house
+  - philly soul
+  - disco
+  - disco house
 image_path: 03_Resources/source_material/ArtistPortraits/double_exposure.jpg
 last_updated: '2026-02-15T01:54:12.279041'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 824788ff-7528-4112-8e3f-46110f810b98
-  name: Leonard Davis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7070599f-b801-414c-b47f-3e430728075b
-  name: Joe Harris
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 15d2a3b3-45d2-4580-9760-b7660336f08d
-  name: Chuck Whittington
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 992a89b6-e7c1-4561-818b-b75f7dd2a660
-  name: Jimmy Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 824788ff-7528-4112-8e3f-46110f810b98
+    name: Leonard Davis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7070599f-b801-414c-b47f-3e430728075b
+    name: Joe Harris
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 15d2a3b3-45d2-4580-9760-b7660336f08d
+    name: Chuck Whittington
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 992a89b6-e7c1-4561-818b-b75f7dd2a660
+    name: Jimmy Williams
 musical_connections:
   collaborators:
-  - Walter Gibbons
-  - Lorenzo Bell
-  - Kenny Pitt
+    - Walter Gibbons
+    - Lorenzo Bell
+    - Kenny Pitt
   influenced: []
   mentors:
-  - Lebaron Taylor
-  - Bunny Sigler
-  - Baker/Harris/Young
+    - Lebaron Taylor
+    - Bunny Sigler
+    - Baker/Harris/Young
 musicbrainz_id: ce16a54b-d14c-428f-8721-7baed0929cc0
 network_extracted: true
-origin: Philadelphia
+origin: 'Philadelphia, Pennsylvania, United States'
 primary_source: perplexity
 research_sources:
-- https://starsofrnb.fandom.com/wiki/Double_Exposure_(band)
-- http://www.soulwalking.co.uk/Double%20Exposure.html
-- https://www.doubleexposuremusic.com
-- https://www.roughtrade.com/artist/double-exposure
-- https://www.allmusic.com/artist/double-exposure-mn0000192288
+  - 'https://starsofrnb.fandom.com/wiki/Double_Exposure_(band)'
+  - 'http://www.soulwalking.co.uk/Double%20Exposure.html'
+  - 'https://www.doubleexposuremusic.com'
+  - 'https://www.roughtrade.com/artist/double-exposure'
+  - 'https://www.allmusic.com/artist/double-exposure-mn0000192288'
 spotify_data:
   followers: 7947
   id: 2ycdPM6Y4ioJzcmZRlp4Db
   popularity: 26
-  url: https://open.spotify.com/artist/2ycdPM6Y4ioJzcmZRlp4Db
+  url: 'https://open.spotify.com/artist/2ycdPM6Y4ioJzcmZRlp4Db'
 status: active
 title: Double Exposure
+death_date: '2016-10-00'
 ---
 
 ![](double_exposure.jpg)

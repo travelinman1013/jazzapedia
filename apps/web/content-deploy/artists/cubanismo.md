@@ -3,49 +3,52 @@ biography_enhanced_at: '2026-02-10T01:50:08.118339'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:50:08.118360'
 external_urls:
-  spotify: https://open.spotify.com/artist/6zygHJohBT7HtAU23xF0qD
+  spotify: 'https://open.spotify.com/artist/6zygHJohBT7HtAU23xF0qD'
   wikipedia: Not found in search results
 genres:
-- latin jazz
-- afro-cuban jazz
-- son cubano
-- mambo
-- timba
+  - latin jazz
+  - afro-cuban jazz
+  - son cubano
+  - mambo
+  - timba
 image_path: 03_Resources/source_material/ArtistPortraits/cubanismo.jpg
 last_updated: '2026-02-10T01:50:08.118362'
 musical_connections:
   collaborators:
-  - Nachito Herrera
-  - Carlos del Puerto
-  - Pancho Amat
-  - Rollo Martinez
-  - Glenn Pastcha and Mark Bingham
-  - John Boutté
-  - Ernest Ranglin
-  - Luciano
-  - Tata Güines
+    - Nachito Herrera
+    - Carlos del Puerto
+    - Pancho Amat
+    - Rollo Martinez
+    - Glenn Pastcha and Mark Bingham
+    - John Boutté
+    - Ernest Ranglin
+    - Luciano
+    - Tata Güines
   influenced: []
   mentors:
-  - Andrés Escardón (Bayoya)
-  - Jorge Maza
-  - Nick Gold
+    - Andrés Escardón (Bayoya)
+    - Jorge Maza
+    - Nick Gold
 network_extracted: true
-origin: Havana, Cuba
+origin: 'Havana, Cuba'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/%C2%A1Cubanismo!/+wiki
-- https://www.cubanismo.org/bio
-- https://www.cubanismo.org/band-members-bio-s
-- https://www.latimes.com/archives/la-xpm-1999-mar-26-ca-21131-story.html
-- https://www.afrocubaweb.com/cubanismo.htm
-- https://www.allmusic.com/artist/%C2%A1cubanismo!-mn0000117256
+  - 'https://www.last.fm/music/%C2%A1Cubanismo!/+wiki'
+  - 'https://www.cubanismo.org/bio'
+  - 'https://www.cubanismo.org/band-members-bio-s'
+  - 'https://www.latimes.com/archives/la-xpm-1999-mar-26-ca-21131-story.html'
+  - 'https://www.afrocubaweb.com/cubanismo.htm'
+  - 'https://www.allmusic.com/artist/%C2%A1cubanismo!-mn0000117256'
 spotify_data:
   followers: 23223
   id: 6zygHJohBT7HtAU23xF0qD
   popularity: 32
-  url: https://open.spotify.com/artist/6zygHJohBT7HtAU23xF0qD
+  url: 'https://open.spotify.com/artist/6zygHJohBT7HtAU23xF0qD'
 status: active
 title: Cubanismo
+birth_place: 'Guanabacoa, Havana, Cuba'
+birth_date: '1962-10-14'
+artist_type: person
 ---
 
 ![](cubanismo.jpg)

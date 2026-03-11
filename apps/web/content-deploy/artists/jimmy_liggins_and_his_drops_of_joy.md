@@ -1,45 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-28T01:54:16.618990'
-birth_place: Unknown, USA
+birth_place: 'Unknown, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:54:16.619000'
 external_urls:
-  spotify: https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Liggins
+  spotify: 'https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Liggins'
 genres:
-- boogie-woogie
-image_path: 03_Resources/source_material/ArtistPortraits/jimmy_liggins_and_his_drops_of_joy.jpg
+  - boogie-woogie
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jimmy_liggins_and_his_drops_of_joy.jpg
 last_updated: '2026-01-28T01:54:16.619002'
 musical_connections:
   collaborators:
-  - Drops of Joy
-  - Charlie Ferguson, Maxwell Davis, Harold Land
-  - Joe Liggins
-  - Ervin Rucker
+    - Drops of Joy
+    - 'Charlie Ferguson, Maxwell Davis, Harold Land'
+    - Joe Liggins
+    - Ervin Rucker
   influenced:
-  - Little Richard, Chuck Berry, Bill Haley, Elvis Presley
-  - Jackie Brenston
-  - Albert Collins
+    - 'Little Richard, Chuck Berry, Bill Haley, Elvis Presley'
+    - Jackie Brenston
+    - Albert Collins
   mentors:
-  - Joe Liggins
-  - Archie Moore
+    - Joe Liggins
+    - Archie Moore
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kids.kiddle.co/Jimmy_Liggins
-- https://en.wikipedia.org/wiki/Jimmy_Liggins
-- https://samepassage.org/jimmy-liggins/
-- https://oakiedog.substack.com/p/evolution-and-the-cadillac-boogieman
-- https://wbssmedia.com/artists/detail/2553
-- https://fromthevaults-boppinbob.blogspot.com/2022/10/jimmy-liggins-born-14-october1922.html
-- https://sandiegotroubadour.com/band-of-brothers-the-liggins-brothers-3/
+  - 'https://kids.kiddle.co/Jimmy_Liggins'
+  - 'https://en.wikipedia.org/wiki/Jimmy_Liggins'
+  - 'https://samepassage.org/jimmy-liggins/'
+  - 'https://oakiedog.substack.com/p/evolution-and-the-cadillac-boogieman'
+  - 'https://wbssmedia.com/artists/detail/2553'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/10/jimmy-liggins-born-14-october1922.html
+  - 'https://sandiegotroubadour.com/band-of-brothers-the-liggins-brothers-3/'
 spotify_data:
   followers: 903
   id: 4xQBPJJJ7cnIch3BhKTm6S
   popularity: 17
-  url: https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S
+  url: 'https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S'
 status: active
 title: Jimmy Liggins and His Drops of Joy
+birth_date: '1918-10-14'
+death_date: '1983-07-21'
+artist_type: band
 ---
 
 ![](jimmy_liggins_and_his_drops_of_joy.jpg)

@@ -3,40 +3,43 @@ biography_enhanced_at: '2026-03-05T02:03:18.676838'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:03:18.676845'
 external_urls:
-  spotify: https://open.spotify.com/artist/0AZX81r8KuP4tpl2544B9k
+  spotify: 'https://open.spotify.com/artist/0AZX81r8KuP4tpl2544B9k'
   wikipedia: ''
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/lil_band_o_gold.jpg
 last_updated: '2026-03-05T02:03:18.676846'
 musical_connections:
   collaborators:
-  - C.C. Adcock
-  - Steve Riley
-  - David Egan
-  - Tarka Cordell
+    - C.C. Adcock
+    - Steve Riley
+    - David Egan
+    - Tarka Cordell
   influenced: []
   mentors:
-  - Warren Storm
-  - Lil' Buck Senegal
+    - Warren Storm
+    - Lil' Buck Senegal
 network_extracted: true
-origin: Lafayette, Lafayette Parish, Louisiana, United States
+origin: 'Lafayette, Lafayette Parish, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.undertheradar.co.nz/utr/show/SID/14820/N/Lil-Band-O-Gold.utr
-- https://www.elsewhere.co.nz/absoluteelsewhere/3471/lil-band-of-gold-2010-the-journey-of-swamp-pop-from-past-to-present/
-- https://www.allmusic.com/artist/lil-band-o-gold-mn0000729612
-- https://www.nucountry.com.au/archive-old-site/public_html/articles/diary/march2010/240310_lil_band_o_gold.htm
-- https://www.last.fm/music/Lil'+Band+O'+Gold/+wiki
-- https://www.dazeddigital.com/music/article/10568/1/lil-band-o-gold
+  - 'https://www.undertheradar.co.nz/utr/show/SID/14820/N/Lil-Band-O-Gold.utr'
+  - >-
+    https://www.elsewhere.co.nz/absoluteelsewhere/3471/lil-band-of-gold-2010-the-journey-of-swamp-pop-from-past-to-present/
+  - 'https://www.allmusic.com/artist/lil-band-o-gold-mn0000729612'
+  - >-
+    https://www.nucountry.com.au/archive-old-site/public_html/articles/diary/march2010/240310_lil_band_o_gold.htm
+  - 'https://www.last.fm/music/Lil''+Band+O''+Gold/+wiki'
+  - 'https://www.dazeddigital.com/music/article/10568/1/lil-band-o-gold'
 spotify_data:
   followers: 539
   id: 0AZX81r8KuP4tpl2544B9k
   popularity: 3
-  url: https://open.spotify.com/artist/0AZX81r8KuP4tpl2544B9k
+  url: 'https://open.spotify.com/artist/0AZX81r8KuP4tpl2544B9k'
 status: active
 title: Lil' Band O' Gold
+artist_type: person
 ---
 
 ![](lil_band_o_gold.jpg)

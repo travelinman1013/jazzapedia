@@ -1,58 +1,60 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a0b5403e-6cd3-46f1-be1c-ff253a577121
-  name: Oscar's Chicago Swingers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a0b5403e-6cd3-46f1-be1c-ff253a577121
+    name: Oscar's Chicago Swingers
 biography_enhanced_at: '2026-02-24T01:43:09.108648'
 birth_date: '1901-02-15'
-birth_place: Lovejoy
+birth_place: 'Lovejoy''s Station, Georgia, United States'
 death_date: '1968-11-08'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:43:09.108656'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/74a64e96-43d4-474d-8cac-e4670871bfa0
-  spotify: https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr
-  wikipedia: https://en.wikipedia.org/wiki/Kokomo_Arnold
+  musicbrainz: 'https://musicbrainz.org/artist/74a64e96-43d4-474d-8cac-e4670871bfa0'
+  spotify: 'https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kokomo_Arnold'
 gender: Male
 genres:
-- country blues
-- blues
-- classic blues
+  - country blues
+  - blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/kokomo_arnold.jpg
 instruments:
-- guitar
-- vocal
+  - guitar
+  - vocal
 last_updated: '2026-02-24T01:43:09.108657'
 musical_connections:
   collaborators:
-  - Kansas Joe McCoy
-  - Mayo Williams
+    - Kansas Joe McCoy
+    - Mayo Williams
   influenced:
-  - Robert Johnson
-  - Elvis Presley
+    - Robert Johnson
+    - Elvis Presley
   mentors:
-  - John Wiggs
+    - John Wiggs
 musicbrainz_id: 74a64e96-43d4-474d-8cac-e4670871bfa0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kokomo_Arnold
-- https://aaregistry.org/story/kokomo-arnold-georgia-bluesman/
-- https://blues.fandom.com/wiki/Kokomo_Arnold
-- https://www.jango.com/music/Kokomo+Arnold/_full_bio
+  - 'https://en.wikipedia.org/wiki/Kokomo_Arnold'
+  - 'https://aaregistry.org/story/kokomo-arnold-georgia-bluesman/'
+  - 'https://blues.fandom.com/wiki/Kokomo_Arnold'
+  - 'https://www.jango.com/music/Kokomo+Arnold/_full_bio'
 spotify_data:
   followers: 7282
   id: 1kSOv0QaraiHwnDs5ld2kr
   popularity: 9
-  url: https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr
+  url: 'https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr'
 status: active
 tags:
-- blues
-- country blues
-title: KOKOMO ARNOLD
+  - blues
+  - country blues
+title: Kokomo Arnold
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](kokomo_arnold.jpg)

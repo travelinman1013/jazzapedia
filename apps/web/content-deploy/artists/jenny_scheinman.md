@@ -1,48 +1,54 @@
 ---
 biography_enhanced_at: '2026-02-13T01:22:58.320963'
-birth_place: Eureka, Humboldt County, California, USA
+birth_place: 'Eureka, Humboldt County, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:22:58.320968'
 external_urls:
-  spotify: https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd
-  wikipedia: https://en.wikipedia.org/wiki/Jenny_Scheinman
+  spotify: 'https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jenny_Scheinman'
 genres:
-- ambient folk
+  - ambient folk
 image_path: 03_Resources/source_material/ArtistPortraits/jenny_scheinman.jpg
 last_updated: '2026-02-13T01:22:58.320969'
 musical_connections:
   collaborators:
-  - Bill Frisell
-  - Nels Cline
-  - Norah Jones
-  - Lucinda Williams
-  - Rodney Crowell
-  - Brian Blade
-  - Jim Black
-  - Todd Sickafoose
+    - Bill Frisell
+    - Nels Cline
+    - Norah Jones
+    - Lucinda Williams
+    - Rodney Crowell
+    - Brian Blade
+    - Jim Black
+    - Todd Sickafoose
   influenced: []
   mentors:
-  - Bill Frisell
+    - Bill Frisell
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jenny_Scheinman
-- https://www.wmot.org/roots-radio-news/2021-03-02/on-the-string-roots-mingles-with-jazz-in-the-fluid-vision-of-jenny-scheinman
-- https://www.emceeartist.com/jenny-scheinman
-- https://www.thetonearm.com/where-the-wild-things-are-jenny-scheinmans-all-species-parade/
-- https://www.jennyscheinman.com
-- https://www.allaboutjazz.com/musicians/jenny-scheinman/
-- https://jazztimes.com/features/profiles/jenny-scheinman-motherhood-invention/
-- https://www.winterjazzfest.com/artists/jenny-scheinman
-- https://c-ville.com/jenny-scheinman-contemplates-community-and-nature-with-all-species-parade/
-- https://www.allamericanspeakers.com/celebritytalentbios/Jenny+Scheinman/447768
+  - 'https://en.wikipedia.org/wiki/Jenny_Scheinman'
+  - >-
+    https://www.wmot.org/roots-radio-news/2021-03-02/on-the-string-roots-mingles-with-jazz-in-the-fluid-vision-of-jenny-scheinman
+  - 'https://www.emceeartist.com/jenny-scheinman'
+  - >-
+    https://www.thetonearm.com/where-the-wild-things-are-jenny-scheinmans-all-species-parade/
+  - 'https://www.jennyscheinman.com'
+  - 'https://www.allaboutjazz.com/musicians/jenny-scheinman/'
+  - >-
+    https://jazztimes.com/features/profiles/jenny-scheinman-motherhood-invention/
+  - 'https://www.winterjazzfest.com/artists/jenny-scheinman'
+  - >-
+    https://c-ville.com/jenny-scheinman-contemplates-community-and-nature-with-all-species-parade/
+  - >-
+    https://www.allamericanspeakers.com/celebritytalentbios/Jenny+Scheinman/447768
 spotify_data:
   followers: 4019
   id: 5etpJzeeCBoFC8P5l2tkjd
   popularity: 9
-  url: https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd
+  url: 'https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd'
 status: active
 title: Jenny Scheinman
+artist_type: person
 ---
 
 ![](jenny_scheinman.jpg)

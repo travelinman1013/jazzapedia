@@ -1,36 +1,38 @@
 ---
 biography_enhanced_at: '2026-02-01T01:27:00.348896'
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:27:00.348902'
 external_urls:
-  spotify: https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM
-  wikipedia: https://pt.wikipedia.org/wiki/Maria_Luiza_Jobim
+  spotify: 'https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Maria_Luiza_Jobim'
 genres:
-- new mpb
+  - new mpb
 image_path: 03_Resources/source_material/ArtistPortraits/maria_luiza_jobim_and_otto.jpg
 last_updated: '2026-02-01T01:27:00.348903'
 musical_connections:
   collaborators:
-  - Lucas de Paiva
-  - Daniel Jobim
-  - Baleia (band)
+    - Lucas de Paiva
+    - Daniel Jobim
+    - Baleia (band)
   influenced: []
   mentors:
-  - Antônio Carlos Jobim (Tom Jobim)
+    - Antônio Carlos Jobim (Tom Jobim)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Maria_Luiza_Jobim
-- https://eatrio.net/2012/10/nao-fala-que-grava.html
-- https://www.youtube.com/watch?v=_UW6jLNA7WI
+  - 'https://pt.wikipedia.org/wiki/Maria_Luiza_Jobim'
+  - 'https://eatrio.net/2012/10/nao-fala-que-grava.html'
+  - 'https://www.youtube.com/watch?v=_UW6jLNA7WI'
 spotify_data:
   followers: 11151
   id: 0UBAjVKUJGkde9EeaoEyTM
   popularity: 34
-  url: https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM
+  url: 'https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM'
 status: active
 title: Maria Luiza Jobim & Otto
+birth_date: '1987-03-20'
+artist_type: person
 ---
 
 ![](maria_luiza_jobim_and_otto.jpg)

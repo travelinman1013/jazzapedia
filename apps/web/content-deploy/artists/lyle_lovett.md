@@ -1,66 +1,66 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dc4a6bd4-1f97-4bc7-93a4-edf5002cc7df
-  name: Lyle Lovett and His Large Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dc4a6bd4-1f97-4bc7-93a4-edf5002cc7df
+    name: Lyle Lovett and His Large Band
 biography_enhanced_at: '2026-03-09T01:13:39.949710'
 birth_date: '1957-11-01'
-birth_place: Houston
+birth_place: 'Klein, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:13:39.949720'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7241e3ed-5ad4-4849-94df-6858ea833472
-  spotify: https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es
-  wikipedia: https://en.wikipedia.org/wiki/Lyle_Lovett
+  musicbrainz: 'https://musicbrainz.org/artist/7241e3ed-5ad4-4849-94df-6858ea833472'
+  spotify: 'https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lyle_Lovett'
 gender: Male
 genres:
-- alt country
-- americana
-- outlaw country
-- folk
+  - alt country
+  - americana
+  - outlaw country
+  - folk
 image_path: 03_Resources/source_material/ArtistPortraits/lyle_lovett.jpg
 instruments:
-- acoustic guitar
-- guitar
-- vocal
-- background vocals
-- lead vocals
+  - acoustic guitar
+  - guitar
+  - vocal
+  - background vocals
+  - lead vocals
 last_updated: '2026-03-09T01:13:39.949722'
 musical_connections:
   collaborators:
-  - Asleep at the Wheel
-  - Al Green
-  - Randy Newman
-  - Nathaniel Kunkel
-  - Large Band
+    - Asleep at the Wheel
+    - Al Green
+    - Randy Newman
+    - Nathaniel Kunkel
+    - Large Band
   influenced: []
   mentors:
-  - Hank Williams
-  - Willie Nelson
-  - Ray Charles
-  - Randy Newman
+    - Hank Williams
+    - Willie Nelson
+    - Ray Charles
+    - Randy Newman
 musicbrainz_id: 7241e3ed-5ad4-4849-94df-6858ea833472
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lyle_Lovett
-- https://lonestarmusicmagazine.com/lsm-cover-lyle-lovett/
-- https://www.britannica.com/biography/Lyle-Lovett
-- https://txculturaltrust.org/bio/lyle-lovett/
-- https://santafesymphony.org/lyle-lovett/
+  - 'https://en.wikipedia.org/wiki/Lyle_Lovett'
+  - 'https://lonestarmusicmagazine.com/lsm-cover-lyle-lovett/'
+  - 'https://www.britannica.com/biography/Lyle-Lovett'
+  - 'https://txculturaltrust.org/bio/lyle-lovett/'
+  - 'https://santafesymphony.org/lyle-lovett/'
 spotify_data:
   followers: 229765
   id: 0zlJDQgqnr9AocrH9gs1Es
   popularity: 48
-  url: https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es
+  url: 'https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es'
 status: active
 tags:
-- alternative country
-- americana
-- blues
+  - alternative country
+  - americana
+  - blues
 title: Lyle Lovett
 ---
 

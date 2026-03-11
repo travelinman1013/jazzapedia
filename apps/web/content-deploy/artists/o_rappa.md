@@ -1,95 +1,95 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-25T01:37:31.917727'
 birth_date: '1994'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:37:31.917734'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/00034ede-a1f1-4219-be39-02f36853373e
-  spotify: https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f
+  musicbrainz: 'https://musicbrainz.org/artist/00034ede-a1f1-4219-be39-02f36853373e'
+  spotify: 'https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f'
   wikipedia: ''
 genres:
-- brazilian rock
-- mpb
-- brazilian pop
-- brazilian hip hop
-- reggae
+  - brazilian rock
+  - mpb
+  - brazilian pop
+  - brazilian hip hop
+  - reggae
 image_path: 03_Resources/source_material/ArtistPortraits/o_rappa.jpg
 instruments:
-- membranophone
-- original
-- lead vocals
-last_updated: '2026-01-25T01:37:31.917735'
-members:
-- begin: '1993'
-  end: '2001'
-  instruments:
   - membranophone
   - original
-  mbid: b4817063-5447-409a-b83e-f9d1a23bc13d
-  name: Marcelo Yuka
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  - original
-  mbid: 79c408c0-cd81-44d6-9bc1-2e96222933ec
-  name: Marcelo Falcão
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cd792225-2a43-4fc8-ae69-8b1e1cbffb7f
-  name: Lauro Farias
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 4a39c89c-eb3d-4418-b254-4271758bc775
-  name: Marcelo Lobato
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 15087d0a-9c8d-4a5c-b121-9f4e5e605b5d
-  name: Marcos Lobato
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 61a1815f-338c-4486-9100-ce26e4d762d5
-  name: Xandão
+last_updated: '2026-01-25T01:37:31.917735'
+members:
+  - begin: '1993'
+    end: '2001'
+    instruments:
+      - membranophone
+      - original
+    mbid: b4817063-5447-409a-b83e-f9d1a23bc13d
+    name: Marcelo Yuka
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 79c408c0-cd81-44d6-9bc1-2e96222933ec
+    name: Marcelo Falcão
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cd792225-2a43-4fc8-ae69-8b1e1cbffb7f
+    name: Lauro Farias
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 4a39c89c-eb3d-4418-b254-4271758bc775
+    name: Marcelo Lobato
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 15087d0a-9c8d-4a5c-b121-9f4e5e605b5d
+    name: Marcos Lobato
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 61a1815f-338c-4486-9100-ce26e4d762d5
+    name: Xandão
 musical_connections:
   collaborators:
-  - Marcelo Yuka
-  - Marcelo Falcão
-  - Lauro Farias
-  - Xandão
-  - Lobato
-  - Papa Winnie
+    - Marcelo Yuka
+    - Marcelo Falcão
+    - Lauro Farias
+    - Xandão
+    - Lobato
+    - Papa Winnie
   influenced: []
   mentors:
-  - Nelson Meirelles
+    - Nelson Meirelles
 musicbrainz_id: 00034ede-a1f1-4219-be39-02f36853373e
 network_extracted: true
-origin: Rio de Janeiro, Brazil
+origin: 'Rio de Janeiro, Brazil'
 primary_source: perplexity
 research_sources:
-- https://brmusicguide.weebly.com/orappa.html
-- https://www.viberate.com/artist/o-rappa/
-- https://www.womex.com/virtual/primeira_linha/o_rappa
-- https://www.aaemusic.com/artist/o-rappa
-- https://equipboard.com/band/o-rappa
-- https://www.jango.com/music/O+Rappa
-- https://vinylfanatics.com/bands/o-rappa/
+  - 'https://brmusicguide.weebly.com/orappa.html'
+  - 'https://www.viberate.com/artist/o-rappa/'
+  - 'https://www.womex.com/virtual/primeira_linha/o_rappa'
+  - 'https://www.aaemusic.com/artist/o-rappa'
+  - 'https://equipboard.com/band/o-rappa'
+  - 'https://www.jango.com/music/O+Rappa'
+  - 'https://vinylfanatics.com/bands/o-rappa/'
 spotify_data:
   followers: 3925661
   id: 1A5QJAC1vdhbhPE25Q0x0f
   popularity: 71
-  url: https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f
+  url: 'https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f'
 status: active
 tags:
-- alternative rock
-- experimental rock
-- funk rock
+  - alternative rock
+  - experimental rock
+  - funk rock
 title: O Rappa
 ---
 

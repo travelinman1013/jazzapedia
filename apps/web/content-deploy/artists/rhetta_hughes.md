@@ -2,45 +2,47 @@
 artist_type: person
 biography_enhanced_at: '2026-02-27T01:38:55.556261'
 birth_date: '1953-11-09'
-birth_place: Los Angeles
+birth_place: 'Dallas, Texas, United States'
 death_date: '2019-06-03'
 disambiguation: US soul singer
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:38:55.556272'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/825a1c26-b388-4f61-a9b6-293b3da6682f
-  spotify: https://open.spotify.com/artist/0FHv9itLsHMzTypbCJyM4U
-  wikipedia: https://en.wikipedia.org/wiki/Rhetta_Hughes
+  musicbrainz: 'https://musicbrainz.org/artist/825a1c26-b388-4f61-a9b6-293b3da6682f'
+  spotify: 'https://open.spotify.com/artist/0FHv9itLsHMzTypbCJyM4U'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rhetta_Hughes'
 gender: Female
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/rhetta_hughes.jpg
 instruments:
-- background vocals
-- choir vocals
+  - background vocals
+  - choir vocals
 last_updated: '2026-02-27T01:38:55.556274'
 musical_connections:
   collaborators:
-  - Tennyson Stephens
-  - Bill Cosby
-  - Harry Belafonte
-  - Melvin Van Peebles
+    - Tennyson Stephens
+    - Bill Cosby
+    - Harry Belafonte
+    - Melvin Van Peebles
   influenced: []
   mentors:
-  - Tennyson Stephens
+    - Tennyson Stephens
 musicbrainz_id: 825a1c26-b388-4f61-a9b6-293b3da6682f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rhetta_Hughes
-- https://www.allmusic.com/artist/rhetta-hughes-mn0000472108
+  - 'https://en.wikipedia.org/wiki/Rhetta_Hughes'
+  - 'https://www.allmusic.com/artist/rhetta-hughes-mn0000472108'
 spotify_data:
   followers: 457
   id: 0FHv9itLsHMzTypbCJyM4U
   popularity: 2
-  url: https://open.spotify.com/artist/0FHv9itLsHMzTypbCJyM4U
+  url: 'https://open.spotify.com/artist/0FHv9itLsHMzTypbCJyM4U'
 status: active
-title: rhetta hughes
+title: Rhetta Hughes
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](rhetta_hughes.jpg)

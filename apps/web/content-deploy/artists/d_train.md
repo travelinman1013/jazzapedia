@@ -3,43 +3,47 @@ biography_enhanced_at: '2026-02-06T01:09:17.517036'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:09:17.517045'
 external_urls:
-  spotify: https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe
-  wikipedia: https://en.wikipedia.org/wiki/D_Train_(group)
+  spotify: 'https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe'
+  wikipedia: 'https://en.wikipedia.org/wiki/D_Train_(group)'
 genres:
-- post-disco
-- funk
-- boogie
-- disco
+  - post-disco
+  - funk
+  - boogie
+  - disco
 image_path: 03_Resources/source_material/ArtistPortraits/d_train.jpg
 last_updated: '2026-02-06T01:09:17.517047'
 musical_connections:
   collaborators:
-  - Hubert Eaves III
-  - Will Downing
-  - François Kevorkian
-  - James Mtume
+    - Hubert Eaves III
+    - Will Downing
+    - François Kevorkian
+    - James Mtume
   influenced:
-  - Miles Davis
-  - Paul Hardcastle
+    - Miles Davis
+    - Paul Hardcastle
   mentors:
-  - Timothy Wright
+    - Timothy Wright
 network_extracted: true
-origin: Brooklyn, New York City, United States
+origin: 'Brooklyn, New York City, United States'
 primary_source: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/1102
-- https://simple.wikipedia.org/wiki/D._Train
-- https://kids.kiddle.co/D._Train
-- https://en.wikipedia.org/wiki/D_Train_(group)
-- https://www.youtube.com/watch?v=aklvXufFrgI
-- https://jointzoftheday.substack.com/p/james-d-train-williams-born-january-21-1962
+  - 'https://wbssmedia.com/artists/detail/1102'
+  - 'https://simple.wikipedia.org/wiki/D._Train'
+  - 'https://kids.kiddle.co/D._Train'
+  - 'https://en.wikipedia.org/wiki/D_Train_(group)'
+  - 'https://www.youtube.com/watch?v=aklvXufFrgI'
+  - >-
+    https://jointzoftheday.substack.com/p/james-d-train-williams-born-january-21-1962
 spotify_data:
   followers: 126617
   id: 4gQEXxzqwNmQwjU0Wc0Ioe
   popularity: 42
-  url: https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe
+  url: 'https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe'
 status: active
-title: D TRAIN
+title: D Train
+birth_place: 'Brooklyn, New York City, United States'
+birth_date: '1962-01-21'
+artist_type: band
 ---
 
 ![](d_train.jpg)

@@ -1,36 +1,38 @@
 ---
 biography_enhanced_at: '2026-03-08T03:00:31.298228'
-birth_place: Florianópolis, Santa Catarina, Brazil
+birth_place: 'Florianópolis, Santa Catarina, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:00:31.298236'
 external_urls:
-  spotify: https://open.spotify.com/artist/4uLA9jz7fcsJCOaQqimpYP
+  spotify: 'https://open.spotify.com/artist/4uLA9jz7fcsJCOaQqimpYP'
   wikipedia: ''
 genres:
-- samba
-- new mpb
+  - samba
+  - new mpb
 image_path: 03_Resources/source_material/ArtistPortraits/ana_paula_and_clara_da_silva.jpg
 last_updated: '2026-03-08T03:00:31.298237'
 musical_connections:
   collaborators:
-  - Clara da Silva
-  - Sergio Almeida
-  - Cláudio Jorge
-  - Alegre Corrêa
+    - Clara da Silva
+    - Sergio Almeida
+    - Cláudio Jorge
+    - Alegre Corrêa
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.anapauladasilva.com
-- https://cafevinilo.com.ar/event/ana-paula-da-silva-presenta-a-menina-a-mulher-e-a-ancia/?lang=en
+  - 'https://www.anapauladasilva.com'
+  - >-
+    https://cafevinilo.com.ar/event/ana-paula-da-silva-presenta-a-menina-a-mulher-e-a-ancia/?lang=en
 spotify_data:
   followers: 3204
   id: 4uLA9jz7fcsJCOaQqimpYP
   popularity: 11
-  url: https://open.spotify.com/artist/4uLA9jz7fcsJCOaQqimpYP
+  url: 'https://open.spotify.com/artist/4uLA9jz7fcsJCOaQqimpYP'
 status: active
 title: Ana Paula & Clara da Silva
+artist_type: person
 ---
 
 ![](ana_paula_and_clara_da_silva.jpg)

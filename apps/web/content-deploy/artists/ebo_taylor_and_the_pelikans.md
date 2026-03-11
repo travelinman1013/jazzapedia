@@ -1,51 +1,54 @@
 ---
 biography_enhanced_at: '2026-02-17T01:21:09.456708'
-birth_place: Saltpond, Cape Coast, Central Region, Ghana
+birth_place: 'Saltpond, Cape Coast, Central Region, Ghana'
 enhancement_provider: perplexity
 entry_created: '2026-02-17T01:21:09.456717'
 external_urls:
-  spotify: https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI
-  wikipedia: https://en.wikipedia.org/wiki/Ebo_Taylor
+  spotify: 'https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ebo_Taylor'
 genres:
-- highlife
-- afrobeat
-- afropop
+  - highlife
+  - afrobeat
+  - afropop
 image_path: 03_Resources/source_material/ArtistPortraits/ebo_taylor_and_the_pelikans.jpg
 last_updated: '2026-02-17T01:21:09.456719'
 musical_connections:
   collaborators:
-  - Fela Kuti
-  - Teddy Osei and Sol Amarfio
-  - C.K. Mann
-  - Pat Thomas
-  - Jewel Ackah
-  - Papa Yankson
-  - Eddie Quansah
+    - Fela Kuti
+    - Teddy Osei and Sol Amarfio
+    - C.K. Mann
+    - Pat Thomas
+    - Jewel Ackah
+    - Papa Yankson
+    - Eddie Quansah
   influenced:
-  - Usher
-  - Ludacris
-  - Black Eyed Peas
-  - University of Ghana students
+    - Usher
+    - Ludacris
+    - Black Eyed Peas
+    - University of Ghana students
   mentors:
-  - His father
-  - Eric Gilder School of Music (London)
+    - His father
+    - Eric Gilder School of Music (London)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://bbemusic.com/artist/ebo-taylor
-- https://www.jazzisdead.com/ebotaylor-1
-- https://en.wikipedia.org/wiki/Ebo_Taylor
-- https://www.wvtf.org/2026-02-12/how-ebo-taylor-a-prolific-figure-in-african-highlife-music-finally-came-to-the-u-s
-- https://www.afropop.org/articles/ebo-taylor-part-1-highlife-and-afro-funk
-- https://www.thevinylfactory.com/features/ebo-taylor-interview
-- https://www.kgou.org/2026-02-12/how-ebo-taylor-a-prolific-figure-in-african-highlife-music-finally-came-to-the-u-s
+  - 'https://bbemusic.com/artist/ebo-taylor'
+  - 'https://www.jazzisdead.com/ebotaylor-1'
+  - 'https://en.wikipedia.org/wiki/Ebo_Taylor'
+  - >-
+    https://www.wvtf.org/2026-02-12/how-ebo-taylor-a-prolific-figure-in-african-highlife-music-finally-came-to-the-u-s
+  - 'https://www.afropop.org/articles/ebo-taylor-part-1-highlife-and-afro-funk'
+  - 'https://www.thevinylfactory.com/features/ebo-taylor-interview'
+  - >-
+    https://www.kgou.org/2026-02-12/how-ebo-taylor-a-prolific-figure-in-african-highlife-music-finally-came-to-the-u-s
 spotify_data:
   followers: 114676
   id: 2gR0iQTVBPHDKiNn1Kq8HI
   popularity: 43
-  url: https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI
+  url: 'https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI'
 status: active
 title: Ebo Taylor & The Pelikans
+artist_type: person
 ---
 
 ![](ebo_taylor_and_the_pelikans.jpg)

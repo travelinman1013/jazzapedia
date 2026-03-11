@@ -1,61 +1,62 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ccb858b9-5ab9-424b-bcf5-8bb900c1d736
-  name: Jack Logan and Liquor Cabinet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 09ae1763-8c3a-47f5-bebe-70b424fb14fd
-  name: Third Creature
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ccb858b9-5ab9-424b-bcf5-8bb900c1d736
+    name: Jack Logan and Liquor Cabinet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 09ae1763-8c3a-47f5-bebe-70b424fb14fd
+    name: Third Creature
 biography_enhanced_at: '2026-02-10T01:51:38.136041'
 birth_date: '1959'
-birth_place: Greenville
-disambiguation: US lo-fi singer/songwriter, occasionally backed by Liquor Cabinet
+birth_place: 'Greenville, Mississippi, United States'
+disambiguation: 'US lo-fi singer/songwriter, occasionally backed by Liquor Cabinet'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:51:38.136052'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6597e7e8-6eff-4f78-b885-f18fe1bb0422
-  spotify: https://open.spotify.com/artist/4gvuc6MeS1It9AvDf69Q1D
-  wikipedia: https://en.wikipedia.org/wiki/Jack_Logan
+  musicbrainz: 'https://musicbrainz.org/artist/6597e7e8-6eff-4f78-b885-f18fe1bb0422'
+  spotify: 'https://open.spotify.com/artist/4gvuc6MeS1It9AvDf69Q1D'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_Logan'
 gender: Male
 genres:
-- alt country
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/jack_logan.jpg
 last_updated: '2026-02-10T01:51:38.136054'
 musical_connections:
   collaborators:
-  - Kelly Keneipp
-  - Liquor Cabinet
-  - Bob Kimbell
-  - Vic Chesnutt
-  - Scott Baxendale
-  - The Possibilities
-  - Peter Buck
+    - Kelly Keneipp
+    - Liquor Cabinet
+    - Bob Kimbell
+    - Vic Chesnutt
+    - Scott Baxendale
+    - The Possibilities
+    - Peter Buck
   influenced: []
   mentors:
-  - Peter Jesperson
+    - Peter Jesperson
 musicbrainz_id: 6597e7e8-6eff-4f78-b885-f18fe1bb0422
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Jack+Logan/+wiki
-- https://en.wikipedia.org/wiki/Jack_Logan
-- https://www.allmusic.com/artist/jack-logan-mn0000778705
-- https://www.nadamucho.com/a-sense-of-purpose-an-interview-with-jack-logan/
-- https://trouserpress.com/reviews/jack-logan/
-- https://americansongwriter.com/writer-of-the-week-jack-logan/
-- https://aquariumdrunkard.com/2018/01/22/shrunken-head-an-oral-history-of-jack-logans-bulk/
+  - 'https://www.last.fm/music/Jack+Logan/+wiki'
+  - 'https://en.wikipedia.org/wiki/Jack_Logan'
+  - 'https://www.allmusic.com/artist/jack-logan-mn0000778705'
+  - 'https://www.nadamucho.com/a-sense-of-purpose-an-interview-with-jack-logan/'
+  - 'https://trouserpress.com/reviews/jack-logan/'
+  - 'https://americansongwriter.com/writer-of-the-week-jack-logan/'
+  - >-
+    https://aquariumdrunkard.com/2018/01/22/shrunken-head-an-oral-history-of-jack-logans-bulk/
 spotify_data:
   followers: 689
   id: 4gvuc6MeS1It9AvDf69Q1D
   popularity: 6
-  url: https://open.spotify.com/artist/4gvuc6MeS1It9AvDf69Q1D
+  url: 'https://open.spotify.com/artist/4gvuc6MeS1It9AvDf69Q1D'
 status: active
-title: JACK LOGAN
+title: Jack Logan
 ---
 
 ![](jack_logan.jpg)

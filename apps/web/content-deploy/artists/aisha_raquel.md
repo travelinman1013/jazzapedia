@@ -1,33 +1,34 @@
 ---
 biography_enhanced_at: '2026-02-20T01:17:00.905030'
-birth_place: Hattiesburg, Mississippi, USA
+birth_place: 'Hattiesburg, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:17:00.905044'
 external_urls:
-  spotify: https://open.spotify.com/artist/5DBmRC8Ck7FJj09hmpO3KU
+  spotify: 'https://open.spotify.com/artist/5DBmRC8Ck7FJj09hmpO3KU'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/aisha_raquel.jpg
 last_updated: '2026-02-20T01:17:00.905047'
 musical_connections:
   collaborators:
-  - Unnamed artists
+    - Unnamed artists
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wimitla.com/music/aisharaquel
-- https://soulsurge.co/ayeisha-raquel-starving/
-- https://www.youtube.com/watch?v=1fAonirhm-I
-- https://www.youtube.com/watch?v=UdHoNN3oqsQ
+  - 'https://wimitla.com/music/aisharaquel'
+  - 'https://soulsurge.co/ayeisha-raquel-starving/'
+  - 'https://www.youtube.com/watch?v=1fAonirhm-I'
+  - 'https://www.youtube.com/watch?v=UdHoNN3oqsQ'
 spotify_data:
   followers: 150
   id: 5DBmRC8Ck7FJj09hmpO3KU
   popularity: 0
-  url: https://open.spotify.com/artist/5DBmRC8Ck7FJj09hmpO3KU
+  url: 'https://open.spotify.com/artist/5DBmRC8Ck7FJj09hmpO3KU'
 status: active
-title: Aisha Raquel
+title: Aisha RaQuel
+artist_type: person
 ---
 
 ![](aisha_raquel.jpg)

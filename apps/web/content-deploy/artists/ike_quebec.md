@@ -1,68 +1,70 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d86f05a3-6482-40aa-9722-a9cdd98a94f2
-  name: Ike Quebec & His Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: cec51e7c-b345-4eb1-9d31-c79870a8c4a7
-  name: Roy Eldridge and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d86f05a3-6482-40aa-9722-a9cdd98a94f2
+    name: Ike Quebec & His Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: cec51e7c-b345-4eb1-9d31-c79870a8c4a7
+    name: Roy Eldridge and His Orchestra
 biography_enhanced_at: '2026-02-02T01:40:43.199570'
 birth_date: '1918-08-17'
-birth_place: Newark
+birth_place: 'Newark, New Jersey, United States'
 death_date: '1963-01-16'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:40:43.199580'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d2301fc2-4416-477d-a4ca-5c5d98d0a998
-  spotify: https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh
+  musicbrainz: 'https://musicbrainz.org/artist/d2301fc2-4416-477d-a4ca-5c5d98d0a998'
+  spotify: 'https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh'
   wikipedia: ''
 gender: Male
 genres:
-- hard bop
-- bossa nova
-- jazz
-- jazz ballads
-- brazilian jazz
-- latin jazz
-- cool jazz
+  - hard bop
+  - bossa nova
+  - jazz
+  - jazz ballads
+  - brazilian jazz
+  - latin jazz
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/ike_quebec.jpg
 instruments:
-- tenor saxophone
+  - tenor saxophone
 last_updated: '2026-02-02T01:40:43.199582'
 musical_connections:
   collaborators:
-  - Cab Calloway
-  - Grant Green
-  - Thelonious Monk
-  - Bud Powell
+    - Cab Calloway
+    - Grant Green
+    - Thelonious Monk
+    - Bud Powell
   influenced: []
   mentors:
-  - Coleman Hawkins
+    - Coleman Hawkins
 musicbrainz_id: d2301fc2-4416-477d-a4ca-5c5d98d0a998
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/ike-quebec-saxophonist-and-talent-scout-born/
-- https://www.allaboutjazz.com/musicians/ike-quebec/
-- https://fromthevaults-boppinbob.blogspot.com/2020/08/ike-quebec-born-17-august-1918.html
-- https://wbssmedia.com/artists/detail/1927
+  - 'https://aaregistry.org/story/ike-quebec-saxophonist-and-talent-scout-born/'
+  - 'https://www.allaboutjazz.com/musicians/ike-quebec/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/08/ike-quebec-born-17-august-1918.html
+  - 'https://wbssmedia.com/artists/detail/1927'
 spotify_data:
   followers: 30126
   id: 6y7dRlvApiCjP12JrxWQjh
   popularity: 49
-  url: https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh
+  url: 'https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh'
 status: active
 tags:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
 title: Ike Quebec
+is_active: false
 ---
 
 ![](ike_quebec.jpg)

@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2026-02-21T01:37:53.488679'
-birth_place: Rochester, New York, USA
+birth_place: 'Rochester, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:37:53.488690'
 external_urls:
-  spotify: https://open.spotify.com/artist/6EC0m4VhGNxZhme1QdNjaq
+  spotify: 'https://open.spotify.com/artist/6EC0m4VhGNxZhme1QdNjaq'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/pat_bianchi.jpg
 last_updated: '2026-02-21T01:37:53.488691'
 musical_connections:
   collaborators:
-  - Pat Martino
-  - Lou Donaldson
-  - Ralph Peterson Jr.
-  - Chuck Loeb
-  - Joe Locke
-  - Mark Whitfield
+    - Pat Martino
+    - Lou Donaldson
+    - Ralph Peterson Jr.
+    - Chuck Loeb
+    - Joe Locke
+    - Mark Whitfield
   influenced: []
   mentors:
-  - Dr. Lonnie Smith
-  - Joey DeFrancesco
-  - Pat Martino
+    - Dr. Lonnie Smith
+    - Joey DeFrancesco
+    - Pat Martino
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazzatthejoint.org/pat-bianchi/
-- https://patbianchi.com/about
-- https://www.allaboutjazz.com/musicians/pat-bianchi/
-- https://centrum.org/faculty-profile/name/pat-bianchi/
-- https://college.berklee.edu/people/pat-bianchi
-- https://jazztimes.com/features/interviews/pat-bianchi-the-magic-of-jazz-organ/
-- https://www.kuvo.org/artists/pat-bianchi
+  - 'https://jazzatthejoint.org/pat-bianchi/'
+  - 'https://patbianchi.com/about'
+  - 'https://www.allaboutjazz.com/musicians/pat-bianchi/'
+  - 'https://centrum.org/faculty-profile/name/pat-bianchi/'
+  - 'https://college.berklee.edu/people/pat-bianchi'
+  - >-
+    https://jazztimes.com/features/interviews/pat-bianchi-the-magic-of-jazz-organ/
+  - 'https://www.kuvo.org/artists/pat-bianchi'
 spotify_data:
   followers: 1188
   id: 6EC0m4VhGNxZhme1QdNjaq
   popularity: 8
-  url: https://open.spotify.com/artist/6EC0m4VhGNxZhme1QdNjaq
+  url: 'https://open.spotify.com/artist/6EC0m4VhGNxZhme1QdNjaq'
 status: active
 title: Pat Bianchi
+artist_type: person
 ---
 
 ![](pat_bianchi.jpg)

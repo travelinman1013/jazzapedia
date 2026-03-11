@@ -3,41 +3,44 @@ biography_enhanced_at: '2026-03-08T01:59:55.983561'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T01:59:55.983570'
 external_urls:
-  spotify: https://open.spotify.com/artist/1P56BUMeUKTCljAu3vH6Ga
-  wikipedia: https://en.wikipedia.org/wiki/Reuben_Reeves
+  spotify: 'https://open.spotify.com/artist/1P56BUMeUKTCljAu3vH6Ga'
+  wikipedia: 'https://en.wikipedia.org/wiki/Reuben_Reeves'
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/reuben_reeves_and_omer_simeon.jpg
 last_updated: '2026-03-08T01:59:55.983572'
 musical_connections:
   collaborators:
-  - Omer Simeon
-  - Gerald Reeves
-  - Jimmy Prince
-  - Cecil White
-  - Jasper Taylor
-  - Blanche Calloway
-  - Cab Calloway
-  - Erskine Tate
-  - Dave Peyton
+    - Omer Simeon
+    - Gerald Reeves
+    - Jimmy Prince
+    - Cecil White
+    - Jasper Taylor
+    - Blanche Calloway
+    - Cab Calloway
+    - Erskine Tate
+    - Dave Peyton
   influenced: []
   mentors:
-  - Albert Cook
+    - Albert Cook
 network_extracted: true
-origin: Evansville, Indiana, United States
+origin: 'Evansville, Indiana, United States'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/jazz-classic-of-the-month-reuben-reeves-omer-simeon/
-- https://en.wikipedia.org/wiki/Reuben_Reeves
-- https://syncopatedtimes.com/omer-simeon-the-new-orleans-clarinetist/
-- https://www.allmusic.com/artist/reuben-reeves-mn0000464925
+  - >-
+    https://syncopatedtimes.com/jazz-classic-of-the-month-reuben-reeves-omer-simeon/
+  - 'https://en.wikipedia.org/wiki/Reuben_Reeves'
+  - 'https://syncopatedtimes.com/omer-simeon-the-new-orleans-clarinetist/'
+  - 'https://www.allmusic.com/artist/reuben-reeves-mn0000464925'
 spotify_data:
   followers: 114
   id: 1P56BUMeUKTCljAu3vH6Ga
   popularity: 0
-  url: https://open.spotify.com/artist/1P56BUMeUKTCljAu3vH6Ga
+  url: 'https://open.spotify.com/artist/1P56BUMeUKTCljAu3vH6Ga'
 status: active
 title: Reuben Reeves & Omer Simeon
+birth_place: 'Evansville, Indiana, United States'
+artist_type: person
 ---
 
 ![](reuben_reeves_and_omer_simeon.jpg)

@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-02-03T02:09:56.186959'
-birth_place: Compton, California, United States
+birth_place: 'Compton, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:09:56.186968'
 external_urls:
-  spotify: https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg
-  wikipedia: https://en.wikipedia.org/wiki/Kendrick_Lamar
+  spotify: 'https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kendrick_Lamar'
 genres:
-- hip hop
-- west coast hip hop
+  - hip hop
+  - west coast hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/beyonce_kendrick_lamar.jpg
 last_updated: '2026-02-03T02:09:56.186970'
 musical_connections:
   collaborators:
-  - Beyoncé
-  - Taylor Swift
-  - Jay Rock
+    - Beyoncé
+    - Taylor Swift
+    - Jay Rock
   influenced:
-  - Baby Keem
+    - Baby Keem
   mentors:
-  - Dr. Dre
-  - Snoop Dogg
+    - Dr. Dre
+    - Snoop Dogg
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kendrick_Lamar
-- https://www.timetoast.com/timelines/kendrick-lamar-s-carrer
-- https://www.britannica.com/biography/Kendrick-Lamar
-- https://en.wikipedia.org/wiki/Beyonc%C3%A9
+  - 'https://en.wikipedia.org/wiki/Kendrick_Lamar'
+  - 'https://www.timetoast.com/timelines/kendrick-lamar-s-carrer'
+  - 'https://www.britannica.com/biography/Kendrick-Lamar'
+  - 'https://en.wikipedia.org/wiki/Beyonc%C3%A9'
 spotify_data:
   followers: 46269327
   id: 2YZyLoL8N0Wb9xBt1NhZWg
   popularity: 92
-  url: https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg
+  url: 'https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg'
 status: active
-title: Beyonce/ Kendrick lamar
+title: Kendrick Lamar
+origin: 'Compton, California, United States'
+birth_date: '1987-06-17'
+artist_type: person
 ---
 
 ![](beyonce_kendrick_lamar.jpg)

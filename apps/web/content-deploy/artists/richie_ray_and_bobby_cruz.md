@@ -3,43 +3,48 @@ biography_enhanced_at: '2026-02-22T01:46:53.879362'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:46:53.879421'
 external_urls:
-  spotify: https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq
+  spotify: 'https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq'
   wikipedia: Not found in search results
 genres:
-- salsa
+  - salsa
 image_path: 03_Resources/source_material/ArtistPortraits/richie_ray_and_bobby_cruz.jpg
 last_updated: '2026-02-22T01:46:53.879431'
 musical_connections:
   collaborators:
-  - Pedro Chaparro
-  - Adolphus 'Doc' Cheatham
-  - Miki Vimari
-  - Maelo
-  - Cocolía (Ismael Cocolia Rodriguez)
-  - Tito Santiago, Luis Samuel Prieto, Sixto Aponte
+    - Pedro Chaparro
+    - Adolphus 'Doc' Cheatham
+    - Miki Vimari
+    - Maelo
+    - Cocolía (Ismael Cocolia Rodriguez)
+    - 'Tito Santiago, Luis Samuel Prieto, Sixto Aponte'
   influenced: []
   mentors:
-  - Tito Puente
-  - Rafael 'Chivirico' Dávila
+    - Tito Puente
+    - Rafael 'Chivirico' Dávila
 network_extracted: true
-origin: Brooklyn, New York, United States (formation location); Puerto Rico (later
+origin: >-
+  Brooklyn, New York, United States (formation location); Puerto Rico (later
   base of operations)
 primary_source: perplexity
 research_sources:
-- https://www.salsablvd.com/biographies/bobby-cruz.htm
-- https://gozalasalsa.com/en/story-ricardo-rey-bobby-cruz-kings-salsa-bobby-cruz/
-- https://fania.com/record/richie-ray-and-bobby-cruz-la-herencia/
-- https://www.womex.com/virtual/the_relentless/richie_ray_y_bobby
-- https://fania.com/artist-essentials/richie-ray-bobby-cruz/
-- https://www.jango.com/music/Richie+Ray+y+Bobby+Cruz/_full_bio
-- https://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=3035
+  - 'https://www.salsablvd.com/biographies/bobby-cruz.htm'
+  - >-
+    https://gozalasalsa.com/en/story-ricardo-rey-bobby-cruz-kings-salsa-bobby-cruz/
+  - 'https://fania.com/record/richie-ray-and-bobby-cruz-la-herencia/'
+  - 'https://www.womex.com/virtual/the_relentless/richie_ray_y_bobby'
+  - 'https://fania.com/artist-essentials/richie-ray-bobby-cruz/'
+  - 'https://www.jango.com/music/Richie+Ray+y+Bobby+Cruz/_full_bio'
+  - 'https://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=3035'
 spotify_data:
   followers: 197138
   id: 56eTRCwZ13vVWAmrG0dMnq
   popularity: 37
-  url: https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq
+  url: 'https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq'
 status: active
 title: Richie Ray & Bobby Cruz
+birth_place: 'Brooklyn, New York, United States'
+birth_date: '1945'
+artist_type: band
 ---
 
 ![](richie_ray_and_bobby_cruz.jpg)

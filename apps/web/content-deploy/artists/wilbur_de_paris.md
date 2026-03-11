@@ -1,90 +1,92 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: df04f326-d015-469a-994d-0511e55d7e14
-  name: Wilbur de Paris and His New New Orleans Jazz
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: d52ea1fc-419e-4090-9404-a521816d2494
-  name: Wilbur De Paris Septet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 51edd03f-4121-46c1-affd-223f9be356cd
-  name: Wilbur de Paris and His Rampart Street Ramblers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 20e94d25-9db6-4e52-b435-8a7ec45e4f69
-  name: Wilbur de Paris & his Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 379dff4b-6319-4b8e-ba5d-da7a91145ab6
-  name: Wilbur de Paris & his Rampart Street Paraders
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: df04f326-d015-469a-994d-0511e55d7e14
+    name: Wilbur de Paris and His New New Orleans Jazz
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d52ea1fc-419e-4090-9404-a521816d2494
+    name: Wilbur De Paris Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 51edd03f-4121-46c1-affd-223f9be356cd
+    name: Wilbur de Paris and His Rampart Street Ramblers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 20e94d25-9db6-4e52-b435-8a7ec45e4f69
+    name: Wilbur de Paris & his Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 379dff4b-6319-4b8e-ba5d-da7a91145ab6
+    name: Wilbur de Paris & his Rampart Street Paraders
 biography_enhanced_at: '2026-02-20T01:20:16.059194'
 birth_date: '1900-01-11'
-birth_place: Crawfordsville
+birth_place: 'Crawfordsville, Indiana, United States'
 death_date: '1973-01-03'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:20:16.059205'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/327ad3f8-a453-45ed-a5d1-4a9398d6fca8
-  spotify: https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo
+  musicbrainz: 'https://musicbrainz.org/artist/327ad3f8-a453-45ed-a5d1-4a9398d6fca8'
+  spotify: 'https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo'
   wikipedia: ''
 gender: Male
 genres:
-- ragtime
-- swing music
+  - ragtime
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/wilbur_de_paris.jpg
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 last_updated: '2026-02-20T01:20:16.059207'
 musical_connections:
   collaborators:
-  - Sidney de Paris
-  - Omer Simeon
-  - Zutty Singleton
-  - Doc Cheatham
-  - Louis Armstrong
-  - Duke Ellington
+    - Sidney de Paris
+    - Omer Simeon
+    - Zutty Singleton
+    - Doc Cheatham
+    - Louis Armstrong
+    - Duke Ellington
   influenced: []
   mentors:
-  - Armand J. Piron
-  - Jelly Roll Morton
+    - Armand J. Piron
+    - Jelly Roll Morton
 musicbrainz_id: 327ad3f8-a453-45ed-a5d1-4a9398d6fca8
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.fellers.se/Wilbur_deParis_and_Sidney_deParis/Welcome.html
-- https://syncopatedtimes.com/wilbur-deparis-profiles-in-jazz/
-- https://fromthevaults-boppinbob.blogspot.com/2025/01/wilbur-de-paris-born-11-january-1900.html
-- https://www.allmusic.com/artist/wilbur-de-paris-mn0000211161
-- https://www.jazzmusicarchives.com/artist/wilbur-de-paris
+  - 'http://www.fellers.se/Wilbur_deParis_and_Sidney_deParis/Welcome.html'
+  - 'https://syncopatedtimes.com/wilbur-deparis-profiles-in-jazz/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/01/wilbur-de-paris-born-11-january-1900.html
+  - 'https://www.allmusic.com/artist/wilbur-de-paris-mn0000211161'
+  - 'https://www.jazzmusicarchives.com/artist/wilbur-de-paris'
 spotify_data:
   followers: 3798
   id: 2jHYUm5r73OV8CiKyMdYfo
   popularity: 24
-  url: https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo
+  url: 'https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo'
 status: active
 tags:
-- jazz
+  - jazz
 title: Wilbur De Paris
+is_active: false
 ---
 
 ![](wilbur_de_paris.jpg)

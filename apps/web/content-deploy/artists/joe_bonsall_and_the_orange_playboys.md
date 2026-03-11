@@ -1,43 +1,50 @@
 ---
 biography_enhanced_at: '2026-02-02T01:45:28.427760'
-birth_place: Lake Arthur, Louisiana, USA
+birth_place: 'Lake Arthur, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:45:28.427769'
 external_urls:
-  spotify: https://open.spotify.com/artist/1X9e8ADBsBEz4CZNooYagm
+  spotify: 'https://open.spotify.com/artist/1X9e8ADBsBEz4CZNooYagm'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
-- southern gospel
-image_path: 03_Resources/source_material/ArtistPortraits/joe_bonsall_and_the_orange_playboys.jpg
+  - cajun
+  - zydeco
+  - southern gospel
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/joe_bonsall_and_the_orange_playboys.jpg
 last_updated: '2026-02-02T01:45:28.427771'
 musical_connections:
   collaborators:
-  - Ivy Dugas
-  - Cliff Newman
-  - John 'Tee Bruce' Broussard
-  - Floyd Soileau
-  - Phil Menard
+    - Ivy Dugas
+    - Cliff Newman
+    - John 'Tee Bruce' Broussard
+    - Floyd Soileau
+    - Phil Menard
   influenced:
-  - Ivy Dugas
+    - Ivy Dugas
   mentors:
-  - Lawrence Walker
-  - Joe Falcon
+    - Lawrence Walker
+    - Joe Falcon
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://flattownmusic.com/artist/joe-bonsall/
-- https://www.louisianamusicfactory.com/product/joe-bonsall-and-the-orange-playboys-the-essential-collection/
-- https://geezermusicclub.com/2008/02/29/review-joe-bonsall-the-orange-playboys-cajun-jamboree/
-- https://www.therecordlive.com/story/2021/06/02/news/preserving-cajun-culture/30292.html
+  - 'https://flattownmusic.com/artist/joe-bonsall/'
+  - >-
+    https://www.louisianamusicfactory.com/product/joe-bonsall-and-the-orange-playboys-the-essential-collection/
+  - >-
+    https://geezermusicclub.com/2008/02/29/review-joe-bonsall-the-orange-playboys-cajun-jamboree/
+  - >-
+    https://www.therecordlive.com/story/2021/06/02/news/preserving-cajun-culture/30292.html
 spotify_data:
   followers: 352
   id: 1X9e8ADBsBEz4CZNooYagm
   popularity: 8
-  url: https://open.spotify.com/artist/1X9e8ADBsBEz4CZNooYagm
+  url: 'https://open.spotify.com/artist/1X9e8ADBsBEz4CZNooYagm'
 status: active
 title: Joe Bonsall and the Orange Playboys
+origin: 'Orange County, Texas, United States'
+birth_date: 1921-06
+artist_type: band
 ---
 
 ![](joe_bonsall_and_the_orange_playboys.jpg)

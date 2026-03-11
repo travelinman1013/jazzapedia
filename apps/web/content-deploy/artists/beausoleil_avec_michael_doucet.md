@@ -3,47 +3,53 @@ biography_enhanced_at: '2026-03-09T01:12:47.440960'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:12:47.440970'
 external_urls:
-  spotify: https://open.spotify.com/artist/68DBmPkNbJeEFxWytoOmfC
-  wikipedia: https://en.wikipedia.org/wiki/BeauSoleil
+  spotify: 'https://open.spotify.com/artist/68DBmPkNbJeEFxWytoOmfC'
+  wikipedia: 'https://en.wikipedia.org/wiki/BeauSoleil'
 genres:
-- cajun
-- zydeco
-image_path: 03_Resources/source_material/ArtistPortraits/beausoleil_avec_michael_doucet.jpg
+  - cajun
+  - zydeco
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/beausoleil_avec_michael_doucet.jpg
 last_updated: '2026-03-09T01:12:47.440972'
 musical_connections:
   collaborators:
-  - David Doucet
-  - Zachary Richard
-  - Jimmy Breaux
-  - Chad Huval
-  - Matthew Doucet
+    - David Doucet
+    - Zachary Richard
+    - Jimmy Breaux
+    - Chad Huval
+    - Matthew Doucet
   influenced:
-  - Traditional Cajun musicians
-  - Matthew Doucet
+    - Traditional Cajun musicians
+    - Matthew Doucet
   mentors:
-  - Dewey Balfa
-  - Dennis McGee
-  - Canray Fontenot
-  - Sady Courville
-  - Varise Connor
+    - Dewey Balfa
+    - Dennis McGee
+    - Canray Fontenot
+    - Sady Courville
+    - Varise Connor
 network_extracted: true
-origin: Lafayette Parish, Louisiana, USA
+origin: 'Lafayette Parish, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.rootsworld.com/interview/doucet07.shtml
-- https://64parishes.org/entry/beausoleil-avec-michael-doucet
-- https://lowellfolkfestival.org/blogs/artists/beausoleil-avec-michael-doucet
-- https://compassrecords.com/artist/beausoleil/
-- https://festival.si.edu/blog/the-heart-of-our-culture-cajun-music-of-beausoleil-avec-michael-doucet
-- https://www.richmondfolkfestival.org/performers-2019/2019/5/30/beausoleil-avec-michael-doucet
-- https://en.wikipedia.org/wiki/BeauSoleil
+  - 'https://www.rootsworld.com/interview/doucet07.shtml'
+  - 'https://64parishes.org/entry/beausoleil-avec-michael-doucet'
+  - 'https://lowellfolkfestival.org/blogs/artists/beausoleil-avec-michael-doucet'
+  - 'https://compassrecords.com/artist/beausoleil/'
+  - >-
+    https://festival.si.edu/blog/the-heart-of-our-culture-cajun-music-of-beausoleil-avec-michael-doucet
+  - >-
+    https://www.richmondfolkfestival.org/performers-2019/2019/5/30/beausoleil-avec-michael-doucet
+  - 'https://en.wikipedia.org/wiki/BeauSoleil'
 spotify_data:
   followers: 849
   id: 68DBmPkNbJeEFxWytoOmfC
   popularity: 4
-  url: https://open.spotify.com/artist/68DBmPkNbJeEFxWytoOmfC
+  url: 'https://open.spotify.com/artist/68DBmPkNbJeEFxWytoOmfC'
 status: active
 title: BeauSoleil avec Michael Doucet
+birth_place: 'Lafayette Parish, Louisiana, United States'
+birth_date: '1951-02-14'
+artist_type: band
 ---
 
 ![](beausoleil_avec_michael_doucet.jpg)

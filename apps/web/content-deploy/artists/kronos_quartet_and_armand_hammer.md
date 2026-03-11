@@ -3,42 +3,47 @@ biography_enhanced_at: '2026-02-27T01:34:43.269703'
 enhancement_provider: perplexity
 entry_created: '2026-02-27T01:34:43.269713'
 external_urls:
-  spotify: https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3
-  wikipedia: https://en.wikipedia.org/wiki/Armand_Hammer_(group)
+  spotify: 'https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Armand_Hammer_(group)'
 genres:
-- minimalism
-- contemporary classical
-- avant-garde
-image_path: 03_Resources/source_material/ArtistPortraits/kronos_quartet_and_armand_hammer.jpg
+  - minimalism
+  - contemporary classical
+  - avant-garde
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kronos_quartet_and_armand_hammer.jpg
 last_updated: '2026-02-27T01:34:43.269714'
 musical_connections:
   collaborators:
-  - RP Boo
-  - Sun Ra (tribute)
-  - Laurie Anderson
-  - The Alchemist
+    - RP Boo
+    - Sun Ra (tribute)
+    - Laurie Anderson
+    - The Alchemist
   influenced: []
   mentors:
-  - John Cage
-  - Terry Riley
+    - John Cage
+    - Terry Riley
 network_extracted: true
-origin: San Francisco, California, USA (Kronos Quartet); New York City, New York,
-  USA (Armand Hammer)
+origin: >-
+  San Francisco, California, USA (Kronos Quartet); New York City, New York, USA
+  (Armand Hammer)
 primary_source: perplexity
 research_sources:
-- https://redhot.org/project/kronosquartetandfriends/
-- https://kexp.org/podcasts/a-deeper-listen/2025/6/17/outer-spaceways-incorporated-honors-sun-ras-cosmic-legacy/
-- https://stereogum.com/2260629/new-sun-ra-tribute-album-features-kronos-quartet-armand-hammer-laurie-anderson-jlin-more/music
-- https://leguesswho.com/news/rp-boo-armand-hammer
-- https://en.wikipedia.org/wiki/Armand_Hammer_(group)
-- https://stereogum.com/2268486/rp-boo-armand-hammer-blood-running-high/music
+  - 'https://redhot.org/project/kronosquartetandfriends/'
+  - >-
+    https://kexp.org/podcasts/a-deeper-listen/2025/6/17/outer-spaceways-incorporated-honors-sun-ras-cosmic-legacy/
+  - >-
+    https://stereogum.com/2260629/new-sun-ra-tribute-album-features-kronos-quartet-armand-hammer-laurie-anderson-jlin-more/music
+  - 'https://leguesswho.com/news/rp-boo-armand-hammer'
+  - 'https://en.wikipedia.org/wiki/Armand_Hammer_(group)'
+  - 'https://stereogum.com/2268486/rp-boo-armand-hammer-blood-running-high/music'
 spotify_data:
   followers: 132648
   id: 0M6xcJTswOl2qvExCJhiS3
   popularity: 50
-  url: https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3
+  url: 'https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3'
 status: active
 title: Kronos Quartet & Armand Hammer
+artist_type: band
 ---
 
 ![](kronos_quartet_and_armand_hammer.jpg)

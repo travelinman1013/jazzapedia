@@ -1,47 +1,47 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f1072969-c4d6-4ce5-8227-2b42ff763d9f
-  name: Uns Zansoutros
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f1072969-c4d6-4ce5-8227-2b42ff763d9f
+    name: Uns Zansoutros
 biography_enhanced_at: '2026-01-25T01:38:10.368752'
 birth_date: '1987-05-25'
-birth_place: Salvador
+birth_place: 'Salvador, Bahia, Brazil'
 disambiguation: Luedji Gomes Santa Rita
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:38:10.368759'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e538ba99-5bab-434b-ac8d-dadb24a44faa
-  spotify: https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc
-  wikipedia: https://en.wikipedia.org/wiki/Luedji_Luna
+  musicbrainz: 'https://musicbrainz.org/artist/e538ba99-5bab-434b-ac8d-dadb24a44faa'
+  spotify: 'https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Luedji_Luna'
 gender: Female
 genres:
-- new mpb
-- afro house
+  - new mpb
+  - afro house
 image_path: 03_Resources/source_material/ArtistPortraits/luedji_luna.jpg
 last_updated: '2026-01-25T01:38:10.368760'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Escola Baiana de Canto Popular
+    - Escola Baiana de Canto Popular
 musicbrainz_id: e538ba99-5bab-434b-ac8d-dadb24a44faa
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.womex.com/virtual/casa_de_fulo_prod/luedji_luna
-- https://communitiesthatcarecoalition.com/black-excellence-luedji-lune/
-- https://recentmusic.com/artist/0sWTkzCrdEvuX7Du6MFLzc/
-- https://en.wikipedia.org/wiki/Luedji_Luna
-- https://www.latinolife.co.uk/articles/body-world
-- http://www.nts.live/artists/77504-luedji-luna
+  - 'https://www.womex.com/virtual/casa_de_fulo_prod/luedji_luna'
+  - 'https://communitiesthatcarecoalition.com/black-excellence-luedji-lune/'
+  - 'https://recentmusic.com/artist/0sWTkzCrdEvuX7Du6MFLzc/'
+  - 'https://en.wikipedia.org/wiki/Luedji_Luna'
+  - 'https://www.latinolife.co.uk/articles/body-world'
+  - 'http://www.nts.live/artists/77504-luedji-luna'
 spotify_data:
   followers: 272802
   id: 0sWTkzCrdEvuX7Du6MFLzc
   popularity: 57
-  url: https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc
+  url: 'https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc'
 status: active
 title: Luedji Luna
 ---

@@ -1,75 +1,77 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 20e37738-904b-469b-82db-feaff2ee6ef3
-  name: The Brother Thelonious Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff0ee1d1-eb58-4cac-934f-bd2799176b7c
-  name: Something Else!
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 20e37738-904b-469b-82db-feaff2ee6ef3
+    name: The Brother Thelonious Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff0ee1d1-eb58-4cac-934f-bd2799176b7c
+    name: Something Else!
 biography_enhanced_at: '2026-02-24T01:45:16.247844'
 birth_date: '1975-02-23'
-birth_place: London
+birth_place: 'London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:45:16.247858'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5aef2490-bb73-49e0-b91f-3499ca6b5323
-  spotify: https://open.spotify.com/artist/5OZcVqX1OWspU3UCsymKw9
+  musicbrainz: 'https://musicbrainz.org/artist/5aef2490-bb73-49e0-b91f-3499ca6b5323'
+  spotify: 'https://open.spotify.com/artist/5OZcVqX1OWspU3UCsymKw9'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- jazz
-- vocal jazz
-- hard bop
+  - jazz
+  - vocal jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/wayne_escoffery.jpg
 instruments:
-- tenor saxophone
+  - tenor saxophone
 last_updated: '2026-02-24T01:45:16.247861'
 musical_connections:
   collaborators:
-  - Tom Harrell
-  - The Mingus Big Band/Orchestra/Dynasty
-  - Eric Reed
-  - David Kikoski
-  - Wynton Marsalis
-  - Abdulah Ibrahim
-  - Ben Riley
+    - Tom Harrell
+    - The Mingus Big Band/Orchestra/Dynasty
+    - Eric Reed
+    - David Kikoski
+    - Wynton Marsalis
+    - Abdulah Ibrahim
+    - Ben Riley
   influenced: []
   mentors:
-  - Jackie McLean
-  - George Coleman
-  - Jimmy Heath
-  - Clark Terry
-  - Ron Carter
-  - Barry Harris
+    - Jackie McLean
+    - George Coleman
+    - Jimmy Heath
+    - Clark Terry
+    - Ron Carter
+    - Barry Harris
 musicbrainz_id: 5aef2490-bb73-49e0-b91f-3499ca6b5323
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://music.yale.edu/people/wayne-escoffery
-- https://www.mymusicmasterclass.com/artist/artists/wayne-escoffery/
-- https://jazzleadsheets.com/composers/wayne-escoffery.html
-- https://bands.yale.edu/profile/wayne-escoffery
-- https://www.charlesmingus.com/wayne-escoffery
-- https://bestsaxophonewebsiteever.com/veteran-saxophonist-wayne-escofferys-most-valuable-lessons-learned-and-much-more/
-- https://www.smallslive.com/artists/508-wayne-escoffery/
-- https://moscow57blog.wordpress.com/m57-artists/wayne-escoffery/
+  - 'https://music.yale.edu/people/wayne-escoffery'
+  - 'https://www.mymusicmasterclass.com/artist/artists/wayne-escoffery/'
+  - 'https://jazzleadsheets.com/composers/wayne-escoffery.html'
+  - 'https://bands.yale.edu/profile/wayne-escoffery'
+  - 'https://www.charlesmingus.com/wayne-escoffery'
+  - >-
+    https://bestsaxophonewebsiteever.com/veteran-saxophonist-wayne-escofferys-most-valuable-lessons-learned-and-much-more/
+  - 'https://www.smallslive.com/artists/508-wayne-escoffery/'
+  - 'https://moscow57blog.wordpress.com/m57-artists/wayne-escoffery/'
 spotify_data:
   followers: 3389
   id: 5OZcVqX1OWspU3UCsymKw9
   popularity: 7
-  url: https://open.spotify.com/artist/5OZcVqX1OWspU3UCsymKw9
+  url: 'https://open.spotify.com/artist/5OZcVqX1OWspU3UCsymKw9'
 status: active
 tags:
-- hard bop
-- jazz
-- post-bop
-title: WAYNE ESCOFFERY
+  - hard bop
+  - jazz
+  - post-bop
+title: Wayne Escoffery
+origin: 'New Haven, Connecticut, United States'
 ---
 
 ![](wayne_escoffery.jpg)

@@ -1,57 +1,57 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6482fe46-9755-454f-a7a7-04f25fe7820f
-  name: TrapHouseJazz
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6482fe46-9755-454f-a7a7-04f25fe7820f
+    name: TrapHouseJazz
 biography_enhanced_at: '2026-01-27T01:58:03.572948'
 birth_date: '1993-06-08'
-birth_place: Kingston
+birth_place: 'Kingston, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:58:03.572953'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bca63b5d-a28c-4937-a8f4-e3f2d95426e1
-  spotify: https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig
-  wikipedia: https://en.wikipedia.org/wiki/Masego_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/bca63b5d-a28c-4937-a8f4-e3f2d95426e1'
+  spotify: 'https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig'
+  wikipedia: 'https://en.wikipedia.org/wiki/Masego_(musician)'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/masego.jpg
 last_updated: '2026-01-27T01:58:03.572954'
 musical_connections:
   collaborators:
-  - FKJ
-  - Medasin
-  - SiR
-  - Don Toliver
-  - Drake
+    - FKJ
+    - Medasin
+    - SiR
+    - Don Toliver
+    - Drake
   influenced: []
   mentors:
-  - DJ Jazzy Jeff
-  - Cab Calloway
+    - DJ Jazzy Jeff
+    - Cab Calloway
 musicbrainz_id: bca63b5d-a28c-4937-a8f4-e3f2d95426e1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Masego_(musician)
-- https://www.last.fm/music/Masego/+wiki
-- https://www.insomniac.com/music/artists/masego/
-- https://first-avenue.com/performer/masego/
-- https://www.therosiegspot.com/post/masego
-- https://www.bet.com/article/jgg1po/masego-5-things-you-need-to-know
-- https://awesomedjproductions.com/artist/masego/
+  - 'https://en.wikipedia.org/wiki/Masego_(musician)'
+  - 'https://www.last.fm/music/Masego/+wiki'
+  - 'https://www.insomniac.com/music/artists/masego/'
+  - 'https://first-avenue.com/performer/masego/'
+  - 'https://www.therosiegspot.com/post/masego'
+  - 'https://www.bet.com/article/jgg1po/masego-5-things-you-need-to-know'
+  - 'https://awesomedjproductions.com/artist/masego/'
 spotify_data:
   followers: 1657418
   id: 3ycxRkcZ67ALN3GQJ57Vig
   popularity: 72
-  url: https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig
+  url: 'https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig'
 status: active
 tags:
-- alternative r&b
-- contemporary r&b
-- jazz
-title: masego
+  - alternative r&b
+  - contemporary r&b
+  - jazz
+title: Masego
 ---
 
 ![](masego.jpg)

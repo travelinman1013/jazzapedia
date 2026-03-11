@@ -3,43 +3,45 @@ biography_enhanced_at: '2026-02-02T01:47:56.343826'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:47:56.343834'
 external_urls:
-  spotify: https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy
-  wikipedia: https://en.wikipedia.org/wiki/Byron_Lee_and_the_Dragonaires
+  spotify: 'https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Byron_Lee_and_the_Dragonaires'
 genres:
-- soca
-- calypso
-- rocksteady
-- ska
-- parang
+  - soca
+  - calypso
+  - rocksteady
+  - ska
+  - parang
 image_path: 03_Resources/source_material/ArtistPortraits/byron_lee_and_the_dragonaires.jpg
 last_updated: '2026-02-02T01:47:56.343836'
 musical_connections:
   collaborators:
-  - Carl Brady
-  - Mighty Sparrow
-  - Hero
-  - Super Blue (Crazy)
+    - Carl Brady
+    - Mighty Sparrow
+    - Hero
+    - Super Blue (Crazy)
   influenced:
-  - Jimmy Cliff
-  - Millie Small
+    - Jimmy Cliff
+    - Millie Small
   mentors:
-  - Edward Seaga
+    - Edward Seaga
 network_extracted: true
-origin: Kingston, Jamaica
+origin: 'Kingston, Jamaica, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Byron_Lee_and_the_Dragonaires
-- https://www.caribbean-beat.com/issue-96/byron-lee-ska-soca
-- https://andrewleeprowritingportfolio.wordpress.com/2013/02/01/the-legend-lives-on-my-tribute-to-byron-the-dragon-lee-speech-and-presentation/
-- https://www.jango.com/music/Byron+Lee/_full_bio
-- https://www.meppublishers.com/passing-of-a-soca-legend-rip-byron-lee/
+  - 'https://en.wikipedia.org/wiki/Byron_Lee_and_the_Dragonaires'
+  - 'https://www.caribbean-beat.com/issue-96/byron-lee-ska-soca'
+  - >-
+    https://andrewleeprowritingportfolio.wordpress.com/2013/02/01/the-legend-lives-on-my-tribute-to-byron-the-dragon-lee-speech-and-presentation/
+  - 'https://www.jango.com/music/Byron+Lee/_full_bio'
+  - 'https://www.meppublishers.com/passing-of-a-soca-legend-rip-byron-lee/'
 spotify_data:
   followers: 19167
   id: 1akUOJhf77cbKJveLHgxpy
   popularity: 36
-  url: https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy
+  url: 'https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy'
 status: active
 title: Byron Lee & The Dragonaires
+artist_type: band
 ---
 
 ![](byron_lee_and_the_dragonaires.jpg)

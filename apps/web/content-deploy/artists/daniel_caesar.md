@@ -2,52 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-03-04T01:45:46.519972'
 birth_date: '1995-04-05'
-birth_place: Toronto
+birth_place: 'Scarborough, Ontario, Canada'
 disambiguation: Canadian R&B and soul singer-songwriter
 enhancement_provider: perplexity
 entry_created: '2026-03-04T01:45:46.519983'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b46e298d-d3a5-4695-a03e-63e8c523b23e
-  spotify: https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA
-  wikipedia: https://en.wikipedia.org/wiki/Daniel_Caesar
+  musicbrainz: 'https://musicbrainz.org/artist/b46e298d-d3a5-4695-a03e-63e8c523b23e'
+  spotify: 'https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Daniel_Caesar'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/daniel_caesar.jpg
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 last_updated: '2026-03-04T01:45:46.519984'
 musical_connections:
   collaborators:
-  - H.E.R.
-  - Kali Uchis
-  - Giveon
-  - Sean Leon
+    - H.E.R.
+    - Kali Uchis
+    - Giveon
+    - Sean Leon
   influenced: []
   mentors:
-  - Norwill Simmonds
-  - Jordan Evans and Matthew Burnett
+    - Norwill Simmonds
+    - Jordan Evans and Matthew Burnett
 musicbrainz_id: b46e298d-d3a5-4695-a03e-63e8c523b23e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Daniel_Caesar
-- https://kids.kiddle.co/Daniel_Caesar
-- https://wbssmedia.com/artists/detail/4265
-- https://www.fender.com/articles/fender-performances/meet-daniel-caesar-the-toronto-artist-rising-up-the-charts
-- https://www.allamericanspeakers.com/celebritytalentbios/Daniel+Caesar/427242
-- https://thecbma.com/artists/daniel-caesar/
+  - 'https://en.wikipedia.org/wiki/Daniel_Caesar'
+  - 'https://kids.kiddle.co/Daniel_Caesar'
+  - 'https://wbssmedia.com/artists/detail/4265'
+  - >-
+    https://www.fender.com/articles/fender-performances/meet-daniel-caesar-the-toronto-artist-rising-up-the-charts
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Daniel+Caesar/427242'
+  - 'https://thecbma.com/artists/daniel-caesar/'
 spotify_data:
   followers: 12992532
   id: 20wkVLutqVOYrc0kxFs7rA
   popularity: 85
-  url: https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA
+  url: 'https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA'
 status: active
 tags:
-- alternative r&b
-- caesar
-- contemporary r&b
+  - alternative r&b
+  - caesar
+  - contemporary r&b
 title: Daniel Caesar
+origin: 'Toronto, Ontario, Canada'
 ---
 
 ![](daniel_caesar.jpg)

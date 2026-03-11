@@ -3,42 +3,43 @@ biography_enhanced_at: '2026-03-08T03:05:09.671917'
 enhancement_provider: perplexity
 entry_created: '2026-03-08T03:05:09.671924'
 external_urls:
-  spotify: https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl
+  spotify: 'https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl'
   wikipedia: ''
 genres:
-- northern soul
-- motown
-- classic soul
+  - northern soul
+  - motown
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/the_originals.jpg
 last_updated: '2026-03-08T03:05:09.671925'
 musical_connections:
   collaborators:
-  - Freddie Gorman
-  - Walter Gaines
-  - C. P. Spencer
-  - Hank Dixon
-  - Joe Stubbs
-  - Ty Hunter
+    - Freddie Gorman
+    - Walter Gaines
+    - C. P. Spencer
+    - Hank Dixon
+    - Joe Stubbs
+    - Ty Hunter
   influenced:
-  - The Supremes
+    - The Supremes
   mentors:
-  - Marvin Gaye
+    - Marvin Gaye
 network_extracted: true
-origin: Detroit, Michigan, USA
+origin: 'Detroit, Michigan, USA'
 primary_source: perplexity
 research_sources:
-- https://jazzrocksoul.com/artists/the-originals/
-- https://www.motownmuseum.org/artist/the-originals/
-- http://www.soulwalking.co.uk/Originals.html
-- https://alchetron.com/The-Originals-(band)
-- https://classic.motown.com/artist/the-originals/
+  - 'https://jazzrocksoul.com/artists/the-originals/'
+  - 'https://www.motownmuseum.org/artist/the-originals/'
+  - 'http://www.soulwalking.co.uk/Originals.html'
+  - 'https://alchetron.com/The-Originals-(band)'
+  - 'https://classic.motown.com/artist/the-originals/'
 spotify_data:
   followers: 118709
   id: 11EZGTWr2pY0VZPlWokAbl
   popularity: 39
-  url: https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl
+  url: 'https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl'
 status: active
 title: The Originals
+artist_type: band
 ---
 
 ![](the_originals.jpg)

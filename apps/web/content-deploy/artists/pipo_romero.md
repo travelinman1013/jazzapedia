@@ -1,40 +1,41 @@
 ---
 biography_enhanced_at: '2026-02-02T01:49:33.023100'
-birth_place: Cádiz, Andalusia, Spain
+birth_place: 'Cádiz, Andalusia, Spain'
 disambiguation: Flamenco Fingerstyle Guitarist
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:49:33.023113'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e301990f-a598-49b6-8335-371dbfea56cc
-  spotify: https://open.spotify.com/artist/4ummYkljHZF1YvDE4DSmkq
+  musicbrainz: 'https://musicbrainz.org/artist/e301990f-a598-49b6-8335-371dbfea56cc'
+  spotify: 'https://open.spotify.com/artist/4ummYkljHZF1YvDE4DSmkq'
   wikipedia: ''
 genres:
-- flamenco
+  - flamenco
 image_path: 03_Resources/source_material/ArtistPortraits/pipo_romero.jpg
 last_updated: '2026-02-02T01:49:33.023115'
 musical_connections:
   collaborators:
-  - Don Ross
+    - Don Ross
   influenced: []
   mentors: []
 musicbrainz_id: e301990f-a598-49b6-8335-371dbfea56cc
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.womex.com/virtual/producciones_4/pipo_romero
-- https://www.strathmore.org/events-tickets/archives/24-25-season/pipo-romero/
-- https://cultura.cervantes.es/chicago/en/Pipo-Romero:-IKIGAI/175831
-- https://delaluz.org/events/pipo-romero/
-- https://www.charlottestreetarts.ca/events/2023/5/19/don-ross-amp-pipo-romero
-- https://www.st94.com/events/pipo-romero/
-- https://en.wikipedia.org/wiki/Pepe_Romero
+  - 'https://www.womex.com/virtual/producciones_4/pipo_romero'
+  - 'https://www.strathmore.org/events-tickets/archives/24-25-season/pipo-romero/'
+  - 'https://cultura.cervantes.es/chicago/en/Pipo-Romero:-IKIGAI/175831'
+  - 'https://delaluz.org/events/pipo-romero/'
+  - 'https://www.charlottestreetarts.ca/events/2023/5/19/don-ross-amp-pipo-romero'
+  - 'https://www.st94.com/events/pipo-romero/'
+  - 'https://en.wikipedia.org/wiki/Pepe_Romero'
 spotify_data:
   followers: 4287
   id: 4ummYkljHZF1YvDE4DSmkq
   popularity: 13
-  url: https://open.spotify.com/artist/4ummYkljHZF1YvDE4DSmkq
+  url: 'https://open.spotify.com/artist/4ummYkljHZF1YvDE4DSmkq'
 status: active
 title: Pipo Romero
+artist_type: person
 ---
 
 ![](pipo_romero.jpg)

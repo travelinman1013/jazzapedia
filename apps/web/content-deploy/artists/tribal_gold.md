@@ -3,37 +3,39 @@ biography_enhanced_at: '2026-02-13T01:25:35.947143'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:25:35.947153'
 external_urls:
-  spotify: https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02
+  spotify: 'https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02'
   wikipedia: ''
 genres:
-- reggae
-- reggae rock
-- roots reggae
+  - reggae
+  - reggae rock
+  - roots reggae
 image_path: 03_Resources/source_material/ArtistPortraits/tribal_gold.jpg
 last_updated: '2026-02-13T01:25:35.947155'
 musical_connections:
   collaborators:
-  - Don Carlos
-  - The New Orleans Suspects
-  - Big Chief Juan Pardo
+    - Don Carlos
+    - The New Orleans Suspects
+    - Big Chief Juan Pardo
   influenced: []
   mentors: []
 network_extracted: true
-origin: Unknown (possible Jamaica for Don Carlos & Gold; New Orleans, Louisiana, USA
+origin: >-
+  Unknown (possible Jamaica for Don Carlos & Gold; New Orleans, Louisiana, USA
   for fusion project)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Don_Carlos_(musician)
-- https://ragman.org/tribal-gold
-- https://www.youtube.com/watch?v=CeBOy70Jrjc
-- https://folklife.si.edu/magazine/black-history-in-roots-reggae-music
+  - 'https://en.wikipedia.org/wiki/Don_Carlos_(musician)'
+  - 'https://ragman.org/tribal-gold'
+  - 'https://www.youtube.com/watch?v=CeBOy70Jrjc'
+  - 'https://folklife.si.edu/magazine/black-history-in-roots-reggae-music'
 spotify_data:
   followers: 363323
   id: 7jgZFR40bWjwOrRCOZFB02
   popularity: 52
-  url: https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02
+  url: 'https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02'
 status: active
-title: tribal gold
+title: Tribal Gold
+artist_type: band
 ---
 
 ![](tribal_gold.jpg)

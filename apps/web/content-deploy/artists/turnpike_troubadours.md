@@ -1,74 +1,76 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-16T01:03:51.407109'
 birth_date: '2005'
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:03:51.407118'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/607edb17-d439-48db-8482-da92167e4a59
-  spotify: https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03
-  wikipedia: https://en.wikipedia.org/wiki/Turnpike_Troubadours
+  musicbrainz: 'https://musicbrainz.org/artist/607edb17-d439-48db-8482-da92167e4a59'
+  spotify: 'https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03'
+  wikipedia: 'https://en.wikipedia.org/wiki/Turnpike_Troubadours'
 genres:
-- red dirt
-- texas country
-- alt country
-- country
-- outlaw country
-- americana
+  - red dirt
+  - texas country
+  - alt country
+  - country
+  - outlaw country
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/turnpike_troubadours.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-02-16T01:03:51.407120'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 774db20a-eb10-4934-885a-e0590b2b7a58
-  name: Giovanni Carnuccio
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: d2428b34-4a34-45a0-95bc-afd662608625
-  name: Evan Felker
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8219a48b-77ae-4319-b724-47edeb6dba21
-  name: Kyle Nix
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 774db20a-eb10-4934-885a-e0590b2b7a58
+    name: Giovanni Carnuccio
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: d2428b34-4a34-45a0-95bc-afd662608625
+    name: Evan Felker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8219a48b-77ae-4319-b724-47edeb6dba21
+    name: Kyle Nix
 musical_connections:
   collaborators:
-  - Kyle Nix
-  - Ryan Engleman
-  - Gabriel Pearson
-  - Hank Early
-  - R.C. Edwards
+    - Kyle Nix
+    - Ryan Engleman
+    - Gabriel Pearson
+    - Hank Early
+    - R.C. Edwards
   influenced: []
   mentors:
-  - Woody Guthrie
+    - Woody Guthrie
 musicbrainz_id: 607edb17-d439-48db-8482-da92167e4a59
 network_extracted: true
-origin: Tahlequah
+origin: 'Tahlequah, Oklahoma, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Turnpike_Troubadours
-- https://countrynow.com/who-are-the-turnpike-troubadours-a-timeline-of-the-bands-rise-hiatus-and-return/
-- https://mokbpresents.com/artist/turnpike-troubadours/
-- https://holler.country/artists/turnpike-troubadours/
-- https://www.youtube.com/watch?v=j_g15E-vmu8
-- https://1021thebull.iheart.com/featured/bobby-bones/content/2023-08-11-turnpike-troubadours-share-their-story-of-how-band-came-together/
-- https://www.manchestermusicfest.com/lineup/turnpike-troubadours/
-- https://axs.tv/artists/turnpike-troubadours/
+  - 'https://en.wikipedia.org/wiki/Turnpike_Troubadours'
+  - >-
+    https://countrynow.com/who-are-the-turnpike-troubadours-a-timeline-of-the-bands-rise-hiatus-and-return/
+  - 'https://mokbpresents.com/artist/turnpike-troubadours/'
+  - 'https://holler.country/artists/turnpike-troubadours/'
+  - 'https://www.youtube.com/watch?v=j_g15E-vmu8'
+  - >-
+    https://1021thebull.iheart.com/featured/bobby-bones/content/2023-08-11-turnpike-troubadours-share-their-story-of-how-band-came-together/
+  - 'https://www.manchestermusicfest.com/lineup/turnpike-troubadours/'
+  - 'https://axs.tv/artists/turnpike-troubadours/'
 spotify_data:
   followers: 667500
   id: 1YSA4byX5AL1zoTsSTlB03
   popularity: 63
-  url: https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03
+  url: 'https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03'
 status: active
 tags:
-- americana
-- country folk
-- country rock
+  - americana
+  - country folk
+  - country rock
 title: Turnpike Troubadours
 ---
 

@@ -1,47 +1,52 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-29T02:04:08.799397'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:04:08.799406'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1129b001-1eba-4da5-abaf-151dd5d68f8d
-  spotify: https://open.spotify.com/artist/1FIPQDj6PX95eijwTMGmP6
+  musicbrainz: 'https://musicbrainz.org/artist/1129b001-1eba-4da5-abaf-151dd5d68f8d'
+  spotify: 'https://open.spotify.com/artist/1FIPQDj6PX95eijwTMGmP6'
   wikipedia: ''
 genres:
-- blues rock
-- blues
-image_path: 03_Resources/source_material/ArtistPortraits/early_times_and_the_high_rollers.jpg
+  - blues rock
+  - blues
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/early_times_and_the_high_rollers.jpg
 last_updated: '2026-01-29T02:04:08.799408'
 musical_connections:
   collaborators:
-  - E.C. Scott
-  - Popa Chubby
-  - Anton Fig
-  - Joshua Keitt
-  - Dan Schnapp
-  - Hardan Long-Johnson
-  - Jay Messina
-  - Colleen Messina
+    - E.C. Scott
+    - Popa Chubby
+    - Anton Fig
+    - Joshua Keitt
+    - Dan Schnapp
+    - Hardan Long-Johnson
+    - Jay Messina
+    - Colleen Messina
   influenced: []
   mentors:
-  - Johnny Heartsman
+    - Johnny Heartsman
 musicbrainz_id: 1129b001-1eba-4da5-abaf-151dd5d68f8d
 network_extracted: true
-origin: Sacramento, California, USA
+origin: 'Sacramento, California, USA'
 primary_source: perplexity
 research_sources:
-- https://www.peachmusicgroup.com/early-times
-- https://www.bluesblastmagazine.com/early-times-the-high-rollers-the-corner-album-review/
-- https://www.americanbluesscene.com/2021/05/on-the-corner-an-interview-with-b-b-kings-bluesville-host-and-musician-early-times/
-- https://www.goldminemag.com/columns/bluesology/blues-album-reviews-of-early-times-ryan-lee-crosby-al-basile-lyle-odjick-and-more/
-- https://lahoradelblues.com/en/early-times-the-high-rollers-the-corner/
-- https://events.eventgroove.com/event/Early-Times-The-High-Rollers-79206
-- https://www.shazam.com/en-us/artist/early-times-and-the-high-rollers/1518023315
+  - 'https://www.peachmusicgroup.com/early-times'
+  - >-
+    https://www.bluesblastmagazine.com/early-times-the-high-rollers-the-corner-album-review/
+  - >-
+    https://www.americanbluesscene.com/2021/05/on-the-corner-an-interview-with-b-b-kings-bluesville-host-and-musician-early-times/
+  - >-
+    https://www.goldminemag.com/columns/bluesology/blues-album-reviews-of-early-times-ryan-lee-crosby-al-basile-lyle-odjick-and-more/
+  - 'https://lahoradelblues.com/en/early-times-the-high-rollers-the-corner/'
+  - 'https://events.eventgroove.com/event/Early-Times-The-High-Rollers-79206'
+  - >-
+    https://www.shazam.com/en-us/artist/early-times-and-the-high-rollers/1518023315
 spotify_data:
   followers: 539
   id: 1FIPQDj6PX95eijwTMGmP6
   popularity: 8
-  url: https://open.spotify.com/artist/1FIPQDj6PX95eijwTMGmP6
+  url: 'https://open.spotify.com/artist/1FIPQDj6PX95eijwTMGmP6'
 status: active
 title: Early Times & The High Rollers
 ---

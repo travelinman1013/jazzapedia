@@ -1,36 +1,39 @@
 ---
 biography_enhanced_at: '2026-01-26T01:42:57.809783'
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:42:57.809795'
 external_urls:
-  spotify: https://open.spotify.com/artist/4hXeF406Ojrt83PFM82gNo
+  spotify: 'https://open.spotify.com/artist/4hXeF406Ojrt83PFM82gNo'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/kathy_zhou.jpg
 last_updated: '2026-01-26T01:42:57.809798'
 musical_connections:
   collaborators:
-  - Memphis music venues and musicians
-  - Local theatre productions
+    - Memphis music venues and musicians
+    - Local theatre productions
   influenced: []
   mentors:
-  - Private classical piano instructors
+    - Private classical piano instructors
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://canvasrebel.com/meet-kathy-zhou/
-- https://www.bandsintown.com/e/107577889-kathy-zhou-at-the-green-room-@-crosstown-arts?came_from=209
-- https://www.youtube.com/watch?v=jv1_yhL2OQ8
-- https://undiscoveredmusic.net/artists/kathy_zhou
-- https://boldjourney.com/meet-kathy-zhou/
+  - 'https://canvasrebel.com/meet-kathy-zhou/'
+  - >-
+    https://www.bandsintown.com/e/107577889-kathy-zhou-at-the-green-room-@-crosstown-arts?came_from=209
+  - 'https://www.youtube.com/watch?v=jv1_yhL2OQ8'
+  - 'https://undiscoveredmusic.net/artists/kathy_zhou'
+  - 'https://boldjourney.com/meet-kathy-zhou/'
 spotify_data:
   followers: 45
   id: 4hXeF406Ojrt83PFM82gNo
   popularity: 0
-  url: https://open.spotify.com/artist/4hXeF406Ojrt83PFM82gNo
+  url: 'https://open.spotify.com/artist/4hXeF406Ojrt83PFM82gNo'
 status: active
 title: Kathy Zhou
+origin: 'Memphis, Tennessee, United States'
+artist_type: person
 ---
 
 ![](kathy_zhou.jpg)

@@ -1,132 +1,135 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-24T02:01:50.915644'
 birth_date: '1981-10-28'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T02:01:50.915650'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab
-  spotify: https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB
-  wikipedia: https://en.wikipedia.org/wiki/Metallica
+  musicbrainz: 'https://musicbrainz.org/artist/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'
+  spotify: 'https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Metallica'
 genres:
-- metal
-- thrash metal
-- rock
-- heavy metal
-- hard rock
+  - metal
+  - thrash metal
+  - rock
+  - heavy metal
+  - hard rock
 image_path: 03_Resources/source_material/ArtistPortraits/metallica.jpg
 instruments:
-- background vocals
-- guitar
-- lead vocals
-- original
-- drums (drum set)
-- percussion
-- bass guitar
-- electric bass guitar
-last_updated: '2026-01-24T02:01:50.915650'
-members:
-- begin: '1981'
-  end: '1983-04-11'
-  instruments:
   - background vocals
-  - guitar
-  mbid: 2f58d07c-4ed6-4f29-8b10-95266e16fe1b
-  name: Dave Mustaine
-- &id001
-  begin: '1981'
-  end: ''
-  instruments:
   - guitar
   - lead vocals
   - original
-  mbid: 68c34082-c1d5-4399-af9b-3921ca0a6a1f
-  name: James Hetfield
-- &id002
-  begin: '1981'
-  end: ''
-  instruments:
   - drums (drum set)
-  - original
   - percussion
-  mbid: e2190b35-1181-44f6-8587-4c04123a6f30
-  name: Lars Ulrich
-- begin: '1982-12-28'
-  end: '1986-09-27'
-  instruments:
-  - background vocals
   - bass guitar
-  mbid: 7a77627e-78f3-489f-827a-7caea3342bba
-  name: Cliff Burton
-- begin: '1982'
-  end: '1982'
-  instruments:
-  - bass guitar
-  mbid: 118ba687-ad7f-4c28-9355-67e14b18baeb
-  name: Ron McGovney
-- &id003
-  begin: '1983-04-01'
-  end: ''
-  instruments:
-  - background vocals
-  - guitar
-  mbid: 4c45495f-b9f3-4d03-9fac-d44c8a77f5de
-  name: Kirk Hammett
-- begin: '1986'
-  end: '2001'
-  instruments:
-  - background vocals
   - electric bass guitar
-  mbid: 248ead7d-8058-4e0c-b334-fde70c036f8d
-  name: Jason Newsted
-- &id004
-  begin: '2003-02-24'
-  end: ''
-  instruments:
-  - background vocals
-  - bass guitar
-  mbid: 777038ba-d2b5-41ab-a6c5-57a7e97abdf1
-  name: Robert Trujillo
+last_updated: '2026-01-24T02:01:50.915650'
+members:
+  - begin: '1981'
+    end: '1983-04-11'
+    instruments:
+      - background vocals
+      - guitar
+    mbid: 2f58d07c-4ed6-4f29-8b10-95266e16fe1b
+    name: Dave Mustaine
+  - &ref_0
+    begin: '1981'
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 68c34082-c1d5-4399-af9b-3921ca0a6a1f
+    name: James Hetfield
+  - &ref_1
+    begin: '1981'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: e2190b35-1181-44f6-8587-4c04123a6f30
+    name: Lars Ulrich
+  - begin: '1982-12-28'
+    end: '1986-09-27'
+    instruments:
+      - background vocals
+      - bass guitar
+    mbid: 7a77627e-78f3-489f-827a-7caea3342bba
+    name: Cliff Burton
+  - begin: '1982'
+    end: '1982'
+    instruments:
+      - bass guitar
+    mbid: 118ba687-ad7f-4c28-9355-67e14b18baeb
+    name: Ron McGovney
+  - &ref_2
+    begin: '1983-04-01'
+    end: ''
+    instruments:
+      - background vocals
+      - guitar
+    mbid: 4c45495f-b9f3-4d03-9fac-d44c8a77f5de
+    name: Kirk Hammett
+  - begin: '1986'
+    end: '2001'
+    instruments:
+      - background vocals
+      - electric bass guitar
+    mbid: 248ead7d-8058-4e0c-b334-fde70c036f8d
+    name: Jason Newsted
+  - &ref_3
+    begin: '2003-02-24'
+    end: ''
+    instruments:
+      - background vocals
+      - bass guitar
+    mbid: 777038ba-d2b5-41ab-a6c5-57a7e97abdf1
+    name: Robert Trujillo
 musical_connections:
   collaborators:
-  - Kirk Hammett
-  - Cliff Burton
-  - Jason Newsted
-  - Robert Trujillo
-  - Michael Kamen
+    - Kirk Hammett
+    - Cliff Burton
+    - Jason Newsted
+    - Robert Trujillo
+    - Michael Kamen
   influenced:
-  - Dave Mustaine
-  - Exodus
+    - Dave Mustaine
+    - Exodus
   mentors:
-  - Diamond Head
-  - Iron Maiden
-  - Cliff Burton
+    - Diamond Head
+    - Iron Maiden
+    - Cliff Burton
 musicbrainz_id: 65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab
 network_extracted: true
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
 primary_source: perplexity
 research_sources:
-- https://ihoot.iuniversityprep.org/9430/entertainment/the-history-of-metallica/
-- https://www.metallica.com/history/
-- https://en.wikipedia.org/wiki/Metallica
-- https://ultimateclassicrock.com/metallica-lineup-changes/
-- https://lambgoat.com/blog/813/the-definitive-list-of-all-metallica-band-members
+  - >-
+    https://ihoot.iuniversityprep.org/9430/entertainment/the-history-of-metallica/
+  - 'https://www.metallica.com/history/'
+  - 'https://en.wikipedia.org/wiki/Metallica'
+  - 'https://ultimateclassicrock.com/metallica-lineup-changes/'
+  - >-
+    https://lambgoat.com/blog/813/the-definitive-list-of-all-metallica-band-members
 spotify_data:
   followers: 33203879
   id: 2ye2Wgw4gimLv2eAKyk1NB
   popularity: 85
-  url: https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB
+  url: 'https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB'
 status: active
 tags:
-- american
-- hard rock
-- heavy metal
-title: metallica
+  - american
+  - hard rock
+  - heavy metal
+title: Metallica
+birth_place: 'California, United States'
 ---
 
 ![](metallica.jpg)

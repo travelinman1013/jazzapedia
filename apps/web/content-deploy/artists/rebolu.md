@@ -3,38 +3,40 @@ biography_enhanced_at: '2026-02-01T01:27:59.830895'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:27:59.830901'
 external_urls:
-  spotify: https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc
+  spotify: 'https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc'
   wikipedia: ''
 genres:
-- reggae
-- reggae rock
-- roots reggae
+  - reggae
+  - reggae rock
+  - roots reggae
 image_path: 03_Resources/source_material/ArtistPortraits/rebolu.jpg
 last_updated: '2026-02-01T01:27:59.830902'
 musical_connections:
   collaborators:
-  - Ronald Polo
-  - Morris Cañate
-  - Johanna Castañeda
+    - Ronald Polo
+    - Morris Cañate
+    - Johanna Castañeda
   influenced:
-  - Melody Polo Castañeda
+    - Melody Polo Castañeda
   mentors: []
 network_extracted: true
-origin: Barranquilla, Colombia (origin); Queens, New York City, USA (base)
+origin: 'Barranquilla, Colombia (origin); Queens, New York City, USA (base)'
 primary_source: perplexity
 research_sources:
-- https://folklife.si.edu/magazine/rebolu-new-york-colombia
-- https://ctmd.org/programs/touring-artists/rebolu/
-- https://www.thatericalper.com/2025/09/15/rebolu-bring-colombias-caribbean-coast-to-life-at-npr-tiny-desk/
-- https://worldmusiccentral.org/artist-profiles-rebolu/
-- https://qns.com/2023/08/flushing-town-hall-grupo-rebolu/
+  - 'https://folklife.si.edu/magazine/rebolu-new-york-colombia'
+  - 'https://ctmd.org/programs/touring-artists/rebolu/'
+  - >-
+    https://www.thatericalper.com/2025/09/15/rebolu-bring-colombias-caribbean-coast-to-life-at-npr-tiny-desk/
+  - 'https://worldmusiccentral.org/artist-profiles-rebolu/'
+  - 'https://qns.com/2023/08/flushing-town-hall-grupo-rebolu/'
 spotify_data:
   followers: 935137
   id: 2WjvvwAX0mdWwq3aFuUdtc
   popularity: 63
-  url: https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc
+  url: 'https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc'
 status: active
-title: rebolu
+title: Rebolu
+artist_type: band
 ---
 
 ![](rebolu.jpg)

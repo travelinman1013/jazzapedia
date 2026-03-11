@@ -1,47 +1,47 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-15T01:50:39.381605'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:50:39.381614'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/53db4c5e-c7d1-4e08-b8d9-126aad022228
-  spotify: https://open.spotify.com/artist/6aPkORVtaipgr2ryrcNQRp
-  wikipedia: https://pt.wikipedia.org/wiki/Mawaca_(banda)
+  musicbrainz: 'https://musicbrainz.org/artist/53db4c5e-c7d1-4e08-b8d9-126aad022228'
+  spotify: 'https://open.spotify.com/artist/6aPkORVtaipgr2ryrcNQRp'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Mawaca_(banda)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mawaca.jpg
 last_updated: '2026-02-15T01:50:39.381616'
 musical_connections:
   collaborators:
-  - Magda Pucci
-  - Kitty Pereira
-  - Gabriel Levy
-  - Armando Tibério
-  - Zuzu Leiva
-  - Pekka Lehti
-  - Tetê Espíndola
-  - Marlui Miranda
-  - Paiter Suruí
+    - Magda Pucci
+    - Kitty Pereira
+    - Gabriel Levy
+    - Armando Tibério
+    - Zuzu Leiva
+    - Pekka Lehti
+    - Tetê Espíndola
+    - Marlui Miranda
+    - Paiter Suruí
   influenced: []
   mentors:
-  - Värttinä
+    - Värttinä
 musicbrainz_id: 53db4c5e-c7d1-4e08-b8d9-126aad022228
 network_extracted: true
-origin: São Paulo, Brazil
+origin: 'São Paulo, Brazil'
 primary_source: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Mawaca_(banda)
-- https://scholarlypublications.universiteitleiden.nl/access/item:2977928/view
-- https://mawaca.com.br
-- https://mawaca-oficial.bandcamp.com
-- https://www.womex.com/virtual/mawaca
-- https://ccv-ma.org.br/en/indigenasbr-indigenous-music-festival-schedule04-09
-- https://www.last.fm/music/Mawaca
-- https://commons.wikimedia.org/wiki/File:Mawaca_Nama_Pariret.jpg
+  - 'https://pt.wikipedia.org/wiki/Mawaca_(banda)'
+  - 'https://scholarlypublications.universiteitleiden.nl/access/item:2977928/view'
+  - 'https://mawaca.com.br'
+  - 'https://mawaca-oficial.bandcamp.com'
+  - 'https://www.womex.com/virtual/mawaca'
+  - 'https://ccv-ma.org.br/en/indigenasbr-indigenous-music-festival-schedule04-09'
+  - 'https://www.last.fm/music/Mawaca'
+  - 'https://commons.wikimedia.org/wiki/File:Mawaca_Nama_Pariret.jpg'
 spotify_data:
   followers: 7159
   id: 6aPkORVtaipgr2ryrcNQRp
   popularity: 42
-  url: https://open.spotify.com/artist/6aPkORVtaipgr2ryrcNQRp
+  url: 'https://open.spotify.com/artist/6aPkORVtaipgr2ryrcNQRp'
 status: active
 title: Mawaca
 ---

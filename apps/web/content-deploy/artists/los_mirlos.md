@@ -1,57 +1,59 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-01T01:30:04.642639'
 birth_date: '1973'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:30:04.642646'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/967775fc-8997-47ed-8c2e-55a0eb59bfae
-  spotify: https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh
+  musicbrainz: 'https://musicbrainz.org/artist/967775fc-8997-47ed-8c2e-55a0eb59bfae'
+  spotify: 'https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh'
   wikipedia: null
 genres:
-- chicha
-- cumbia
-- cumbia sonidera
-- electrocumbia
+  - chicha
+  - cumbia
+  - cumbia sonidera
+  - electrocumbia
 image_path: 03_Resources/source_material/ArtistPortraits/los_mirlos.jpg
 last_updated: '2026-02-01T01:30:04.642647'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3edf1735-fa60-4122-9fc6-1ca44323b7d9
-  name: Gilberto Reategui
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3edf1735-fa60-4122-9fc6-1ca44323b7d9
+    name: Gilberto Reategui
 musical_connections:
   collaborators:
-  - Franz Ferdinand
-  - Barbès Records
+    - Franz Ferdinand
+    - Barbès Records
   influenced:
-  - Los Bitchos
-  - Modern psychedelic cumbia groups
+    - Los Bitchos
+    - Modern psychedelic cumbia groups
   mentors: []
 musicbrainz_id: 967775fc-8997-47ed-8c2e-55a0eb59bfae
 network_extracted: true
-origin: Lima
+origin: 'Moyobamba, Peru, South America'
 primary_source: perplexity
 research_sources:
-- https://purehoneymagazine.com/los-mirlos/
-- https://www.boaviagemmusic.com/artist/los-mirlos/
-- https://www.youtube.com/watch?v=J-T2-TPr85w
-- https://martyrslive.com/los-mirlos
-- https://remezcla.com/features/music/from-the-amazon-to-the-world-how-los-mirlos-rossy-war-are-taking-peruvian-cumbia-across-borders/
-- https://www.rialtotheatre.com/tm-attraction/los-mirlos/
-- https://soundsandcolours.com/articles/peru/interview-with-los-mirlos-jorge-rodriguez-granda-20661/
+  - 'https://purehoneymagazine.com/los-mirlos/'
+  - 'https://www.boaviagemmusic.com/artist/los-mirlos/'
+  - 'https://www.youtube.com/watch?v=J-T2-TPr85w'
+  - 'https://martyrslive.com/los-mirlos'
+  - >-
+    https://remezcla.com/features/music/from-the-amazon-to-the-world-how-los-mirlos-rossy-war-are-taking-peruvian-cumbia-across-borders/
+  - 'https://www.rialtotheatre.com/tm-attraction/los-mirlos/'
+  - >-
+    https://soundsandcolours.com/articles/peru/interview-with-los-mirlos-jorge-rodriguez-granda-20661/
 spotify_data:
   followers: 133444
   id: 1ga48mxYYI9RuUrWLa3voh
   popularity: 51
-  url: https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh
+  url: 'https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh'
 status: active
 tags:
-- cumbia
-- cumbia peruana
-- latin
-title: los mirlos
+  - cumbia
+  - cumbia peruana
+  - latin
+title: Los Mirlos
 ---
 
 ![](los_mirlos.jpg)

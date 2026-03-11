@@ -1,42 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-26T01:41:03.456859'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:41:03.456866'
 external_urls:
-  spotify: https://open.spotify.com/artist/6uL8t34F0A5mSRZ93JzQLW
-  wikipedia: https://en.wikipedia.org/wiki/Tinga_Stewart
+  spotify: 'https://open.spotify.com/artist/6uL8t34F0A5mSRZ93JzQLW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tinga_Stewart'
 genres:
-- lovers rock
-- reggae
-- rocksteady
+  - lovers rock
+  - reggae
+  - rocksteady
 image_path: 03_Resources/source_material/ArtistPortraits/tinga_stewart.jpg
 last_updated: '2026-01-26T01:41:03.456867'
 musical_connections:
   collaborators:
-  - Ernest Wilson
-  - Ninjaman
-  - Roman Stewart
-  - Boris Gardiner Happening
-  - Rita Marley
+    - Ernest Wilson
+    - Ninjaman
+    - Roman Stewart
+    - Boris Gardiner Happening
+    - Rita Marley
   influenced: []
   mentors:
-  - Derrick Harriott
-  - Ernie Smith
-  - Sangie Davis
+    - Derrick Harriott
+    - Ernie Smith
+    - Sangie Davis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tinga_Stewart
-- https://unitedreggae.com/articles/n708/011112/interview-tinga-stewart
-- http://reggaelicious.pbworks.com/w/page/8800221/Tinga%20Stewart
+  - 'https://en.wikipedia.org/wiki/Tinga_Stewart'
+  - 'https://unitedreggae.com/articles/n708/011112/interview-tinga-stewart'
+  - 'http://reggaelicious.pbworks.com/w/page/8800221/Tinga%20Stewart'
 spotify_data:
   followers: 3809
   id: 6uL8t34F0A5mSRZ93JzQLW
   popularity: 21
-  url: https://open.spotify.com/artist/6uL8t34F0A5mSRZ93JzQLW
+  url: 'https://open.spotify.com/artist/6uL8t34F0A5mSRZ93JzQLW'
 status: active
 title: Tinga Stewart
+artist_type: person
 ---
 
 ![](tinga_stewart.jpg)

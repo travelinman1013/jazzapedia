@@ -1,49 +1,55 @@
 ---
 biography_enhanced_at: '2026-03-01T02:00:58.983462'
-birth_place: San Fernando, Cádiz, Spain
+birth_place: 'San Fernando, Cádiz, Spain'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:00:58.983472'
 external_urls:
-  spotify: https://open.spotify.com/artist/5MnhtFXEfqi637k6NfKuZI
-  wikipedia: https://es.wikipedia.org/wiki/Camar%C3%B3n_de_la_Isla
+  spotify: 'https://open.spotify.com/artist/5MnhtFXEfqi637k6NfKuZI'
+  wikipedia: 'https://es.wikipedia.org/wiki/Camar%C3%B3n_de_la_Isla'
 genres:
-- flamenco
-- flamenco pop
+  - flamenco
+  - flamenco pop
 image_path: 03_Resources/source_material/ArtistPortraits/camaron_de_la_isla.jpg
 last_updated: '2026-03-01T02:00:58.983474'
 musical_connections:
   collaborators:
-  - Paco de Lucía
-  - Tomatito
-  - Dolores Vargas
-  - Juanito Valderrama
-  - Royal Philharmonic Orchestra
+    - Paco de Lucía
+    - Tomatito
+    - Dolores Vargas
+    - Juanito Valderrama
+    - Royal Philharmonic Orchestra
   influenced:
-  - Luis Monje
-  - nuevo flamenco artists
+    - Luis Monje
+    - nuevo flamenco artists
   mentors:
-  - Rancapino
-  - Juan Luis Monje
+    - Rancapino
+    - Juan Luis Monje
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.latinolife.co.uk/articles/camaron-de-la-isla-spanish-flamenco-singer-1950-1992
-- https://es.wikipedia.org/wiki/Camar%C3%B3n_de_la_Isla
-- https://www.andalucia.com/flamenco/musicians/camarondelaisla.htm
-- https://www.hotelsalymar.com/la-vida-de-camaron-de-la-isla:-la-leyenda-del-flamenco-en-su-ciudad-na.html
-- https://www.fnac.es/Camaron-de-la-Isla/ia19854/biografia
-- https://tablaodecarmen.com/camaron-de-la-isla-leyenda-del-flamenco/
-- https://www.andalucia.org/listing/camar%C3%B3n-de-la-isla/21010102/
-- https://allflamenco.net/en/blog/curiosities-camaron/
-- https://flamencoforlife.com/blog/f/camar%C3%B3n-de-la-isla-singer?blogcategory=ARTISTS
-- https://www.juntadeandalucia.es/cultura/flamenco/sites/default/files/flamenco/docs/2%20Biograf%C3%ADa%20de%20Camar%C3%B3n.pdf
+  - >-
+    https://www.latinolife.co.uk/articles/camaron-de-la-isla-spanish-flamenco-singer-1950-1992
+  - 'https://es.wikipedia.org/wiki/Camar%C3%B3n_de_la_Isla'
+  - 'https://www.andalucia.com/flamenco/musicians/camarondelaisla.htm'
+  - >-
+    https://www.hotelsalymar.com/la-vida-de-camaron-de-la-isla:-la-leyenda-del-flamenco-en-su-ciudad-na.html
+  - 'https://www.fnac.es/Camaron-de-la-Isla/ia19854/biografia'
+  - 'https://tablaodecarmen.com/camaron-de-la-isla-leyenda-del-flamenco/'
+  - 'https://www.andalucia.org/listing/camar%C3%B3n-de-la-isla/21010102/'
+  - 'https://allflamenco.net/en/blog/curiosities-camaron/'
+  - >-
+    https://flamencoforlife.com/blog/f/camar%C3%B3n-de-la-isla-singer?blogcategory=ARTISTS
+  - >-
+    https://www.juntadeandalucia.es/cultura/flamenco/sites/default/files/flamenco/docs/2%20Biograf%C3%ADa%20de%20Camar%C3%B3n.pdf
 spotify_data:
   followers: 474698
   id: 5MnhtFXEfqi637k6NfKuZI
   popularity: 50
-  url: https://open.spotify.com/artist/5MnhtFXEfqi637k6NfKuZI
+  url: 'https://open.spotify.com/artist/5MnhtFXEfqi637k6NfKuZI'
 status: active
-title: camaron de la isla
+title: Camarón de la Isla
+birth_date: '1950-12-05'
+artist_type: person
 ---
 
 ![](camaron_de_la_isla.jpg)

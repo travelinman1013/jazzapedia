@@ -1,75 +1,75 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-10T01:52:21.235108'
 birth_date: '1989'
 disambiguation: US alternative country band
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:52:21.235114'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/50e68a47-b6e4-4178-84d5-8955206a0b7f
-  spotify: https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ
+  musicbrainz: 'https://musicbrainz.org/artist/50e68a47-b6e4-4178-84d5-8955206a0b7f'
+  spotify: 'https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ'
   wikipedia: Not found in search results
 genres:
-- alt country
-- americana
-- southern gothic
+  - alt country
+  - americana
+  - southern gothic
 image_path: 03_Resources/source_material/ArtistPortraits/freakwater.jpg
 last_updated: '2026-02-10T01:52:21.235114'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 49007214-f51a-4ec7-9289-4a53dbf3084e
-  name: Janet Beveridge Bean
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ce74d177-0e90-40f8-9e47-0bfd33710091
-  name: Brendan Burke
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6198c41e-8318-495f-9664-7f45129ae388
-  name: Bob Egan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 60eae732-ed79-4adc-99db-55f3e8c345f0
-  name: David Wayne Gay
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: aca1a407-540a-4cd7-bae2-e09004970b55
-  name: Catherine Irwin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 49007214-f51a-4ec7-9289-4a53dbf3084e
+    name: Janet Beveridge Bean
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ce74d177-0e90-40f8-9e47-0bfd33710091
+    name: Brendan Burke
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6198c41e-8318-495f-9664-7f45129ae388
+    name: Bob Egan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 60eae732-ed79-4adc-99db-55f3e8c345f0
+    name: David Wayne Gay
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: aca1a407-540a-4cd7-bae2-e09004970b55
+    name: Catherine Irwin
 musical_connections:
   collaborators:
-  - David Wayne Gay ("The Undertaker")
-  - Califone
-  - Bloodshot Records
-  - Thrill Jockey Records
+    - David Wayne Gay ("The Undertaker")
+    - Califone
+    - Bloodshot Records
+    - Thrill Jockey Records
   influenced: []
   mentors:
-  - Carter Family
-  - Louvin Brothers
+    - Carter Family
+    - Louvin Brothers
 musicbrainz_id: 50e68a47-b6e4-4178-84d5-8955206a0b7f
 network_extracted: true
-origin: Louisville
+origin: 'Louisville, Kentucky, United States'
 primary_source: perplexity
 research_sources:
-- https://americana-uk.com/forgotten-artists-freakwater
-- http://www.freakwater.net/the-band.html
-- https://www.redlineroots.com/2016/06/freaky-folk-interview-freakwater/
-- https://www.pastemagazine.com/music/freakwater/freakwater
-- https://indyweek.com/news/archives-news/freakwater/
+  - 'https://americana-uk.com/forgotten-artists-freakwater'
+  - 'http://www.freakwater.net/the-band.html'
+  - 'https://www.redlineroots.com/2016/06/freaky-folk-interview-freakwater/'
+  - 'https://www.pastemagazine.com/music/freakwater/freakwater'
+  - 'https://indyweek.com/news/archives-news/freakwater/'
 spotify_data:
   followers: 5154
   id: 6JjE9yVvCNV5EbUpvS7JcQ
   popularity: 13
-  url: https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ
+  url: 'https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ'
 status: active
 tags:
-- alternative country
-title: FREAKWATER
+  - alternative country
+title: Freakwater
 ---
 
 ![](freakwater.jpg)

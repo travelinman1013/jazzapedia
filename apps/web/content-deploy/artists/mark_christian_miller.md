@@ -1,52 +1,58 @@
 ---
 biography_enhanced_at: '2026-02-28T01:45:00.177972'
-birth_place: Storm Lake, Iowa, United States (birthplace); Los Angeles, California,
-  United States (longtime residence)
+birth_place: >-
+  Storm Lake, Iowa, United States (birthplace); Los Angeles, California, United
+  States (longtime residence)
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:45:00.177979'
 external_urls:
-  spotify: https://open.spotify.com/artist/55b97sycXk8yI8gjMqlyrJ
+  spotify: 'https://open.spotify.com/artist/55b97sycXk8yI8gjMqlyrJ'
   wikipedia: null
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/mark_christian_miller.jpg
 last_updated: '2026-02-28T01:45:00.177980'
 musical_connections:
   collaborators:
-  - Jamieson Trotter
-  - Danny Janklow
-  - Larry Koonse
-  - Joe LaBarbera
-  - Chuck Berghofer
-  - Josh Nelson
-  - Anita O'Day
+    - Jamieson Trotter
+    - Danny Janklow
+    - Larry Koonse
+    - Joe LaBarbera
+    - Chuck Berghofer
+    - Josh Nelson
+    - Anita O'Day
   influenced:
-  - Sara Gazarek
-  - Kris Bowers
-  - Graham Dechter
-  - Kathleen Grace
-  - Margo Rey
+    - Sara Gazarek
+    - Kris Bowers
+    - Graham Dechter
+    - Kathleen Grace
+    - Margo Rey
   mentors:
-  - Page Cavanaugh
-  - Joyce Collins
-  - Jane Getz
-  - Gildo Mahones
-  - Teri Merril-Aarons
+    - Page Cavanaugh
+    - Joyce Collins
+    - Jane Getz
+    - Gildo Mahones
+    - Teri Merril-Aarons
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazzprofiles.blogspot.com/2022/04/mark-christian-millers-music-in-air.html
-- https://www.markchristianmiller.com/about-5
-- https://voyagela.com/interview/meet-mark-christian-miller-corniche-entertainment-west-hollywood/
-- https://www.allaboutjazz.com/musicians/mark-christian-miller/
-- https://artsmeme.com/2013/08/18/mark-christian-miller-by-turns-suave-touching-at-gardenia-cabaret/
+  - >-
+    https://jazzprofiles.blogspot.com/2022/04/mark-christian-millers-music-in-air.html
+  - 'https://www.markchristianmiller.com/about-5'
+  - >-
+    https://voyagela.com/interview/meet-mark-christian-miller-corniche-entertainment-west-hollywood/
+  - 'https://www.allaboutjazz.com/musicians/mark-christian-miller/'
+  - >-
+    https://artsmeme.com/2013/08/18/mark-christian-miller-by-turns-suave-touching-at-gardenia-cabaret/
 spotify_data:
   followers: 23
   id: 55b97sycXk8yI8gjMqlyrJ
   popularity: 0
-  url: https://open.spotify.com/artist/55b97sycXk8yI8gjMqlyrJ
+  url: 'https://open.spotify.com/artist/55b97sycXk8yI8gjMqlyrJ'
 status: active
 title: Mark Christian Miller
+origin: 'Los Angeles, California, United States'
+artist_type: person
 ---
 
 ![](mark_christian_miller.jpg)

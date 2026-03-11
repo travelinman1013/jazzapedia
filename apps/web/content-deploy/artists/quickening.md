@@ -3,34 +3,35 @@ biography_enhanced_at: '2026-02-25T02:04:22.736196'
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:04:22.736210'
 external_urls:
-  spotify: https://open.spotify.com/artist/6lccsFmTzRKxOFIeQI0ZZK
+  spotify: 'https://open.spotify.com/artist/6lccsFmTzRKxOFIeQI0ZZK'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/quickening.jpg
 last_updated: '2026-02-25T02:04:22.736214'
 musical_connections:
   collaborators:
-  - Rachel 'Mama Ray' Murray
-  - Al Small
-  - Jeff Jani
-  - Scott Sibley
-  - Dave Easley
+    - Rachel 'Mama Ray' Murray
+    - Al Small
+    - Jeff Jani
+    - Scott Sibley
+    - Dave Easley
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, LA, USA
+origin: 'New Orleans, LA, USA'
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/music/the-quickening-time-out-independent/
-- https://www.btdfoundation.org/the-quickening/
-- https://thefunkyuncle.live/artist/the-quickening/
+  - 'https://www.offbeat.com/music/the-quickening-time-out-independent/'
+  - 'https://www.btdfoundation.org/the-quickening/'
+  - 'https://thefunkyuncle.live/artist/the-quickening/'
 spotify_data:
   followers: 36
   id: 6lccsFmTzRKxOFIeQI0ZZK
   popularity: 0
-  url: https://open.spotify.com/artist/6lccsFmTzRKxOFIeQI0ZZK
+  url: 'https://open.spotify.com/artist/6lccsFmTzRKxOFIeQI0ZZK'
 status: active
-title: quickening
+title: The Quickening
+artist_type: person
 ---
 
 ![](quickening.jpg)

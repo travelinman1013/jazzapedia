@@ -2,52 +2,55 @@
 artist_type: person
 biography_enhanced_at: '2026-01-30T01:20:38.940513'
 birth_date: '1944-05-01'
-birth_place: Kansas City
+birth_place: 'Kansas City, Kansas, United States'
 death_date: '2012-12-22'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:20:38.940522'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9f2f2db6-8756-42d5-a05c-259866cad47b
-  spotify: https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h
+  musicbrainz: 'https://musicbrainz.org/artist/9f2f2db6-8756-42d5-a05c-259866cad47b'
+  spotify: 'https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h'
   wikipedia: ''
 gender: Female
 genres:
-- funk
+  - funk
 image_path: 03_Resources/source_material/ArtistPortraits/marva_whitney.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-01-30T01:20:38.940524'
 musical_connections:
   collaborators:
-  - James Brown
-  - Osaka Monaurail
-  - DJ Pari
-  - Maceo Parker
-  - Fred Wesley
-  - Pee Wee Ellis
-  - Lyn Collins
+    - James Brown
+    - Osaka Monaurail
+    - DJ Pari
+    - Maceo Parker
+    - Fred Wesley
+    - Pee Wee Ellis
+    - Lyn Collins
   influenced: []
   mentors:
-  - James Brown
+    - James Brown
 musicbrainz_id: 9f2f2db6-8756-42d5-a05c-259866cad47b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2023/05/marva-whitney-born-1-may-1944.html
-- https://thecodajazzfund.org/tributes/marva-whitney/
-- https://www.last.fm/music/Marva+Whitney/+wiki
-- https://www.jango.com/music/Marva+Whitney
-- https://www.wefunkradio.com/song/267_ag/marva+whitney/unwind+yourself
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/05/marva-whitney-born-1-may-1944.html
+  - 'https://thecodajazzfund.org/tributes/marva-whitney/'
+  - 'https://www.last.fm/music/Marva+Whitney/+wiki'
+  - 'https://www.jango.com/music/Marva+Whitney'
+  - 'https://www.wefunkradio.com/song/267_ag/marva+whitney/unwind+yourself'
 spotify_data:
   followers: 13735
   id: 691nF1fI0SKCfsIypzFr7h
   popularity: 29
-  url: https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h
+  url: 'https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h'
 status: active
 tags:
-- funk
-- soul
-title: marva whitney
+  - funk
+  - soul
+title: Marva Whitney
+is_active: false
+origin: 'Kansas City, Missouri, United States'
 ---
 
 ![](marva_whitney.jpg)

@@ -1,47 +1,51 @@
 ---
 biography_enhanced_at: '2026-03-09T01:16:03.837437'
-birth_place: Kinshasa, Democratic Republic of the Congo (birthplace); Paris, France
-  (primary residence since early 1980s)
+birth_place: 'Kinshasa, Democratic Republic of the Congo'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:16:03.837449'
 external_urls:
-  spotify: https://open.spotify.com/artist/5mAdywAEm96qSCaIZPcKjx
-  wikipedia: https://en.wikipedia.org/wiki/Syran_Mbenza
+  spotify: 'https://open.spotify.com/artist/5mAdywAEm96qSCaIZPcKjx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Syran_Mbenza'
 genres:
-- champeta
-- rumba congolaise
-- ndombolo
+  - champeta
+  - rumba congolaise
+  - ndombolo
 image_path: 03_Resources/source_material/ArtistPortraits/syran_mbenza_samba_mapangala.jpg
 last_updated: '2026-03-09T01:16:03.837451'
 musical_connections:
   collaborators:
-  - Sam Mangwana
-  - Bopol Mansiamina
-  - Nyboma (Nyboma Mwan'dido)
-  - Wuta Mayi
-  - Samba Mapangala
-  - Manu Dibango
-  - Bumba Massa
+    - Sam Mangwana
+    - Bopol Mansiamina
+    - Nyboma (Nyboma Mwan'dido)
+    - Wuta Mayi
+    - Samba Mapangala
+    - Manu Dibango
+    - Bumba Massa
   influenced: []
   mentors:
-  - Vicky Longomba
+    - Vicky Longomba
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Syran_Mbenza
-- https://worldmusiccentral.org/rumba-legend-syran-mbenza-returns-with-rumba-africa-after-16-year-pause/
-- https://en.wikipedia.org/wiki/Samba_Mapangala
-- https://www.jabulaniradio.com/news/samba-mapangala-from-congo-to-the-world-296
-- https://nation.africa/kenya/life-and-style/lifestyle/return-of-samba-mapangala-583516
-- https://www.africanmusiciansprofiles.com/samba.htm
-- https://www.musiques-afrique.net/rdc/art-syran.html
+  - 'https://en.wikipedia.org/wiki/Syran_Mbenza'
+  - >-
+    https://worldmusiccentral.org/rumba-legend-syran-mbenza-returns-with-rumba-africa-after-16-year-pause/
+  - 'https://en.wikipedia.org/wiki/Samba_Mapangala'
+  - >-
+    https://www.jabulaniradio.com/news/samba-mapangala-from-congo-to-the-world-296
+  - >-
+    https://nation.africa/kenya/life-and-style/lifestyle/return-of-samba-mapangala-583516
+  - 'https://www.africanmusiciansprofiles.com/samba.htm'
+  - 'https://www.musiques-afrique.net/rdc/art-syran.html'
 spotify_data:
   followers: 2334
   id: 5mAdywAEm96qSCaIZPcKjx
   popularity: 16
-  url: https://open.spotify.com/artist/5mAdywAEm96qSCaIZPcKjx
+  url: 'https://open.spotify.com/artist/5mAdywAEm96qSCaIZPcKjx'
 status: active
-title: Syran Mbenza, Samba Mapangala
+title: 'Syran Mbenza, Samba Mapangala'
+birth_date: '1950-05-31'
+artist_type: person
 ---
 
 ![](syran_mbenza_samba_mapangala.jpg)

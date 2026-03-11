@@ -2,58 +2,60 @@
 artist_type: person
 biography_enhanced_at: '2026-02-24T01:47:54.793198'
 birth_date: '1956-03-05'
-birth_place: Santa Monica
+birth_place: 'Santa Monica, California, United States'
 death_date: '2010-12-26'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:47:54.793208'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/98cb2d05-0b47-4bc6-b345-792eecbe8449
-  spotify: https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb
+  musicbrainz: 'https://musicbrainz.org/artist/98cb2d05-0b47-4bc6-b345-792eecbe8449'
+  spotify: 'https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb'
   wikipedia: ''
 gender: Female
 genres:
-- quiet storm
-- post-disco
+  - quiet storm
+  - post-disco
 image_path: 03_Resources/source_material/ArtistPortraits/teena_marie.jpg
 instruments:
-- guitar
-- piano
-- background vocals
-- lead vocals
+  - guitar
+  - piano
+  - background vocals
+  - lead vocals
 last_updated: '2026-02-24T01:47:54.793210'
 musical_connections:
   collaborators:
-  - Rick James
-  - Smokey Robinson
-  - Gerald Levert
+    - Rick James
+    - Smokey Robinson
+    - Gerald Levert
   influenced:
-  - Alia Rose (Rose Le Beau)
-  - Blondie (contextual rap pioneer comparison)
+    - Alia Rose (Rose Le Beau)
+    - Blondie (contextual rap pioneer comparison)
   mentors:
-  - Rick James
-  - Berry Gordy
-  - Hal Davis
+    - Rick James
+    - Berry Gordy
+    - Hal Davis
 musicbrainz_id: 98cb2d05-0b47-4bc6-b345-792eecbe8449
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Teena+Marie/+wiki
-- https://time.com/archive/6595083/teena-marie/
-- https://magazine.waxpoetics.com/connections/women-in-music-artists-and-writers/article/teena-marie-1956-2010/
-- https://www.teenamarieofficial.com/bio/
-- https://concord.com/artist/teena-marie/
-- https://classic.motown.com/artist/teena-marie/
+  - 'https://www.last.fm/music/Teena+Marie/+wiki'
+  - 'https://time.com/archive/6595083/teena-marie/'
+  - >-
+    https://magazine.waxpoetics.com/connections/women-in-music-artists-and-writers/article/teena-marie-1956-2010/
+  - 'https://www.teenamarieofficial.com/bio/'
+  - 'https://concord.com/artist/teena-marie/'
+  - 'https://classic.motown.com/artist/teena-marie/'
 spotify_data:
   followers: 688703
   id: 61UT1Zj9dFgPAjZfwnsqsb
   popularity: 51
-  url: https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb
+  url: 'https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb'
 status: active
 tags:
-- american
-- contemporary r&b
-- dance-pop
+  - american
+  - contemporary r&b
+  - dance-pop
 title: Teena Marie
+is_active: false
 ---
 
 ![](teena_marie.jpg)

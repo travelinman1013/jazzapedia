@@ -3,38 +3,42 @@ biography_enhanced_at: '2026-02-19T01:56:43.747688'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:56:43.747699'
 external_urls:
-  spotify: https://open.spotify.com/artist/72811sDCXmMURXP9MPRBIU
-  wikipedia: https://en.wikipedia.org/wiki/Erskine_Tate
+  spotify: 'https://open.spotify.com/artist/72811sDCXmMURXP9MPRBIU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Erskine_Tate'
 genres: []
 image_path: ''
 last_updated: '2026-02-19T01:56:43.747701'
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Fats Waller
-  - Teddy Wilson
-  - Buster Bailey
-  - Freddie Keppard
+    - Louis Armstrong
+    - Fats Waller
+    - Teddy Wilson
+    - Buster Bailey
+    - Freddie Keppard
   influenced: []
   mentors:
-  - W. L. Jackson
+    - W. L. Jackson
 network_extracted: true
-origin: Memphis, Tennessee, United States
+origin: 'Memphis, Tennessee, United States'
 primary_source: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/3453
-- https://tennesseeencyclopedia.net/entries/jazz-in-tennessee/
-- https://en.wikipedia.org/wiki/Erskine_Tate
-- https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/tate-erskine
-- https://syncopatedtimes.com/erskine-tate-1901-1975/
-- http://littlebeatrecords.dk/wp/wp-content/uploads/2025/11/Pictorial-History-Erskine-Tates-Vendome-Symphony-Orchestra.pdf
+  - 'https://wbssmedia.com/artists/detail/3453'
+  - 'https://tennesseeencyclopedia.net/entries/jazz-in-tennessee/'
+  - 'https://en.wikipedia.org/wiki/Erskine_Tate'
+  - >-
+    https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/tate-erskine
+  - 'https://syncopatedtimes.com/erskine-tate-1901-1975/'
+  - >-
+    http://littlebeatrecords.dk/wp/wp-content/uploads/2025/11/Pictorial-History-Erskine-Tates-Vendome-Symphony-Orchestra.pdf
 spotify_data:
   followers: 33
   id: 72811sDCXmMURXP9MPRBIU
   popularity: 2
-  url: https://open.spotify.com/artist/72811sDCXmMURXP9MPRBIU
+  url: 'https://open.spotify.com/artist/72811sDCXmMURXP9MPRBIU'
 status: active
-title: ERSKINE TATE'S VENDOME ORCHESTRA
+title: Erskine Tate's Vendome Orchestra
+birth_place: 'Memphis, Tennessee, United States'
+artist_type: person
 ---
 
 ![]()

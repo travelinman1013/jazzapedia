@@ -1,46 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-21T01:38:54.329634'
-birth_place: Augusta, Georgia, United States
+birth_place: 'Augusta, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:38:54.329646'
 external_urls:
-  spotify: https://open.spotify.com/artist/29h9KL3WADCGIx9ykAZxRS
+  spotify: 'https://open.spotify.com/artist/29h9KL3WADCGIx9ykAZxRS'
   wikipedia: ''
 genres:
-- jazz
-- hard bop
+  - jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/michael_dease.jpg
 last_updated: '2026-02-21T01:38:54.329647'
 musical_connections:
   collaborators:
-  - Christian McBride
-  - Roy Hargrove
-  - Nicholas Payton
-  - Alicia Keys
-  - The Heath Brothers
+    - Christian McBride
+    - Roy Hargrove
+    - Nicholas Payton
+    - Alicia Keys
+    - The Heath Brothers
   influenced: []
   mentors:
-  - Wycliffe Gordon
-  - Joseph Alessi
+    - Wycliffe Gordon
+    - Joseph Alessi
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://music.msu.edu/faculty/michael-dease/
-- https://www.brevardmusic.org/institute/faculty/?faculty_id=135
-- http://www.michaeldease.com/bio
-- https://www.yamaha.com/artists/michaeldease.html
-- https://www.nyys.org/community/alumni-network/student-alumni-profiles/michael-dease/
-- https://www.detroitjazzfest.org/artist/michael-dease-quintet/
-- https://bobreeves.com/blog/michael-dease-trombone-interview/
-- https://www.gardbags.com/en/artists/michael-dease
-- https://downbeat.com/news/detail/from-bone-to-bari-and-back
+  - 'https://music.msu.edu/faculty/michael-dease/'
+  - 'https://www.brevardmusic.org/institute/faculty/?faculty_id=135'
+  - 'http://www.michaeldease.com/bio'
+  - 'https://www.yamaha.com/artists/michaeldease.html'
+  - >-
+    https://www.nyys.org/community/alumni-network/student-alumni-profiles/michael-dease/
+  - 'https://www.detroitjazzfest.org/artist/michael-dease-quintet/'
+  - 'https://bobreeves.com/blog/michael-dease-trombone-interview/'
+  - 'https://www.gardbags.com/en/artists/michael-dease'
+  - 'https://downbeat.com/news/detail/from-bone-to-bari-and-back'
 spotify_data:
   followers: 3925
   id: 29h9KL3WADCGIx9ykAZxRS
   popularity: 18
-  url: https://open.spotify.com/artist/29h9KL3WADCGIx9ykAZxRS
+  url: 'https://open.spotify.com/artist/29h9KL3WADCGIx9ykAZxRS'
 status: active
 title: Michael Dease
+artist_type: person
 ---
 
 ![](michael_dease.jpg)

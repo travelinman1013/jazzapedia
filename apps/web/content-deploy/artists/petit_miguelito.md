@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-30T01:21:32.041971'
-birth_place: Cotonou, Littoral, Benin
+birth_place: 'Cotonou, Littoral, Benin'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:21:32.041977'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bd5606f6-c126-409f-8671-de2033ca0aa9
-  spotify: https://open.spotify.com/artist/2Q7JTx2g6l6cu1AMdAHux8
+  musicbrainz: 'https://musicbrainz.org/artist/bd5606f6-c126-409f-8671-de2033ca0aa9'
+  spotify: 'https://open.spotify.com/artist/2Q7JTx2g6l6cu1AMdAHux8'
   wikipedia: Not found
 genres:
-- zouk
-- kompa
-- coupé décalé
-- kizomba
+  - zouk
+  - kompa
+  - coupé décalé
+  - kizomba
 image_path: 03_Resources/source_material/ArtistPortraits/petit_miguelito.jpg
 last_updated: '2026-01-30T01:21:32.041977'
 musical_connections:
   collaborators:
-  - Teeyah
-  - Black Kent
-  - Zeynab
+    - Teeyah
+    - Black Kent
+    - Zeynab
   influenced: []
   mentors: []
 musicbrainz_id: bd5606f6-c126-409f-8671-de2033ca0aa9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.musicinafrica.net/node/10720
-- https://www.viberate.com/artist/petit-miguelito/
-- https://profileability.com/petit-miguelito/
-- https://music.josplay.com/artist/Petit%20Miguelito
+  - 'https://www.musicinafrica.net/node/10720'
+  - 'https://www.viberate.com/artist/petit-miguelito/'
+  - 'https://profileability.com/petit-miguelito/'
+  - 'https://music.josplay.com/artist/Petit%20Miguelito'
 spotify_data:
   followers: 10273
   id: 2Q7JTx2g6l6cu1AMdAHux8
   popularity: 22
-  url: https://open.spotify.com/artist/2Q7JTx2g6l6cu1AMdAHux8
+  url: 'https://open.spotify.com/artist/2Q7JTx2g6l6cu1AMdAHux8'
 status: active
 title: Petit Miguelito
+birth_date: '1986-12-22'
+artist_type: person
 ---
 
 ![](petit_miguelito.jpg)

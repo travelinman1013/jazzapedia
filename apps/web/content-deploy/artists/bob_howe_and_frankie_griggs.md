@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-30T01:18:04.333111'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:18:04.333123'
 external_urls:
-  spotify: https://open.spotify.com/artist/2dWp5UbQEj8nYNXrw6CcdB
+  spotify: 'https://open.spotify.com/artist/2dWp5UbQEj8nYNXrw6CcdB'
   wikipedia: ''
 genres: []
 image_path: ''
@@ -15,16 +15,17 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.shazam.com/artist/*/334804654/highlights
-- https://www.last.fm/music/Whistling+Bob+Howe+&+Frankie+Griggs/+events
-- https://www.wirz.de/music/stevens.htm
+  - 'https://www.shazam.com/artist/*/334804654/highlights'
+  - 'https://www.last.fm/music/Whistling+Bob+Howe+&+Frankie+Griggs/+events'
+  - 'https://www.wirz.de/music/stevens.htm'
 spotify_data:
   followers: 11
   id: 2dWp5UbQEj8nYNXrw6CcdB
   popularity: 0
-  url: https://open.spotify.com/artist/2dWp5UbQEj8nYNXrw6CcdB
+  url: 'https://open.spotify.com/artist/2dWp5UbQEj8nYNXrw6CcdB'
 status: active
 title: Bob Howe & Frankie Griggs
+artist_type: band
 ---
 
 ![]()

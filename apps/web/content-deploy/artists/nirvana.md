@@ -1,173 +1,176 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-10T01:56:24.962469'
-birth_date: '1987'
+birth_date: '1967-02-20'
 disambiguation: 1980s–1990s US grunge band
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:56:24.962478'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5b11f4ce-a62d-471e-81fc-a69a8278c7da
-  spotify: https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh
+  musicbrainz: 'https://musicbrainz.org/artist/5b11f4ce-a62d-471e-81fc-a69a8278c7da'
+  spotify: 'https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh'
   wikipedia: ''
 genres:
-- grunge
-- rock
+  - grunge
+  - rock
 image_path: 03_Resources/source_material/ArtistPortraits/nirvana.jpg
 instruments:
-- drums (drum set)
-- original
-- lead vocals
-- background vocals
-- guitar
-- accordion
-- other vocals
-- bass guitar
+  - drums (drum set)
+  - original
+  - lead vocals
+  - background vocals
+  - guitar
+  - accordion
+  - other vocals
+  - bass guitar
 last_updated: '2026-02-10T01:56:24.962480'
 members:
-- begin: '1987'
-  end: '1987'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 86d3f2c7-2a19-4249-ad7c-6feec74118d7
-  name: Aaron Burckhard
-- begin: '1987'
-  end: '1988'
-  instruments:
-  - drums (drum set)
-  mbid: 9b93a71b-1484-4bea-b096-f660c1161f8a
-  name: Dale Crover
-- begin: '1987'
-  end: '1994-04-05'
-  instruments:
-  - original
-  mbid: 3c9b356d-d1db-4f4e-a7a3-2d00c1d70255
-  name: Kurt Cobain
-- begin: '1987'
-  end: '1994-04-05'
-  instruments:
-  - lead vocals
-  - original
-  mbid: 3c9b356d-d1db-4f4e-a7a3-2d00c1d70255
-  name: Kurt Cobain
-- begin: '1987'
-  end: '1994-04-05'
-  instruments:
-  - background vocals
-  - original
-  mbid: 3c9b356d-d1db-4f4e-a7a3-2d00c1d70255
-  name: Kurt Cobain
-- begin: '1987'
-  end: '1994-04-05'
-  instruments:
-  - guitar
-  - original
-  mbid: 3c9b356d-d1db-4f4e-a7a3-2d00c1d70255
-  name: Kurt Cobain
-- begin: '1987'
-  end: '1994-04-05'
-  instruments:
-  - accordion
-  - original
-  mbid: ac05e29f-0561-4445-bb26-5562d2389531
-  name: Krist Novoselic
-- begin: '1987'
-  end: '1994-04-05'
-  instruments:
-  - original
-  - other vocals
-  mbid: ac05e29f-0561-4445-bb26-5562d2389531
-  name: Krist Novoselic
-- begin: '1987'
-  end: '1994-04-05'
-  instruments:
-  - bass guitar
-  - original
-  mbid: ac05e29f-0561-4445-bb26-5562d2389531
-  name: Krist Novoselic
-- begin: 1988-05
-  end: 1990-06
-  instruments:
-  - drums (drum set)
-  mbid: e2f28104-72bb-4c8f-b0f9-78d4eaf492fd
-  name: Chad Channing
-- begin: '1988'
-  end: '1988'
-  instruments:
-  - drums (drum set)
-  mbid: 6740416b-a0ab-4a46-9ee5-8cd9c69c6442
-  name: Dave Foster
-- begin: 1989-02
-  end: 1989-07
-  instruments:
-  - background vocals
-  mbid: 797dc323-fc39-4597-98cc-d10493f67326
-  name: Jason Everman
-- begin: 1989-02
-  end: 1989-07
-  instruments:
-  - guitar
-  mbid: 797dc323-fc39-4597-98cc-d10493f67326
-  name: Jason Everman
-- begin: 1990-07
-  end: '1990-09-24'
-  instruments:
-  - drums (drum set)
-  mbid: 3402566b-20dc-47f1-973b-2af1dedae702
-  name: Dan Peters
-- begin: '1990-09-24'
-  end: '1994-04-05'
-  instruments:
-  - background vocals
-  mbid: 4d5f891d-9bce-45ae-ad86-912dd27252fa
-  name: Dave Grohl
-- begin: '1990-09-24'
-  end: '1994-04-05'
-  instruments:
-  - drums (drum set)
-  mbid: 4d5f891d-9bce-45ae-ad86-912dd27252fa
-  name: Dave Grohl
-- begin: '1990'
-  end: '1990'
-  instruments:
-  - drums (drum set)
-  mbid: 9b93a71b-1484-4bea-b096-f660c1161f8a
-  name: Dale Crover
+  - begin: '1987'
+    end: '1987'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 86d3f2c7-2a19-4249-ad7c-6feec74118d7
+    name: Aaron Burckhard
+  - begin: '1987'
+    end: '1988'
+    instruments:
+      - drums (drum set)
+    mbid: 9b93a71b-1484-4bea-b096-f660c1161f8a
+    name: Dale Crover
+  - begin: '1987'
+    end: '1994-04-05'
+    instruments:
+      - original
+    mbid: 3c9b356d-d1db-4f4e-a7a3-2d00c1d70255
+    name: Kurt Cobain
+  - begin: '1987'
+    end: '1994-04-05'
+    instruments:
+      - lead vocals
+      - original
+    mbid: 3c9b356d-d1db-4f4e-a7a3-2d00c1d70255
+    name: Kurt Cobain
+  - begin: '1987'
+    end: '1994-04-05'
+    instruments:
+      - background vocals
+      - original
+    mbid: 3c9b356d-d1db-4f4e-a7a3-2d00c1d70255
+    name: Kurt Cobain
+  - begin: '1987'
+    end: '1994-04-05'
+    instruments:
+      - guitar
+      - original
+    mbid: 3c9b356d-d1db-4f4e-a7a3-2d00c1d70255
+    name: Kurt Cobain
+  - begin: '1987'
+    end: '1994-04-05'
+    instruments:
+      - accordion
+      - original
+    mbid: ac05e29f-0561-4445-bb26-5562d2389531
+    name: Krist Novoselic
+  - begin: '1987'
+    end: '1994-04-05'
+    instruments:
+      - original
+      - other vocals
+    mbid: ac05e29f-0561-4445-bb26-5562d2389531
+    name: Krist Novoselic
+  - begin: '1987'
+    end: '1994-04-05'
+    instruments:
+      - bass guitar
+      - original
+    mbid: ac05e29f-0561-4445-bb26-5562d2389531
+    name: Krist Novoselic
+  - begin: 1988-05
+    end: 1990-06
+    instruments:
+      - drums (drum set)
+    mbid: e2f28104-72bb-4c8f-b0f9-78d4eaf492fd
+    name: Chad Channing
+  - begin: '1988'
+    end: '1988'
+    instruments:
+      - drums (drum set)
+    mbid: 6740416b-a0ab-4a46-9ee5-8cd9c69c6442
+    name: Dave Foster
+  - begin: 1989-02
+    end: 1989-07
+    instruments:
+      - background vocals
+    mbid: 797dc323-fc39-4597-98cc-d10493f67326
+    name: Jason Everman
+  - begin: 1989-02
+    end: 1989-07
+    instruments:
+      - guitar
+    mbid: 797dc323-fc39-4597-98cc-d10493f67326
+    name: Jason Everman
+  - begin: 1990-07
+    end: '1990-09-24'
+    instruments:
+      - drums (drum set)
+    mbid: 3402566b-20dc-47f1-973b-2af1dedae702
+    name: Dan Peters
+  - begin: '1990-09-24'
+    end: '1994-04-05'
+    instruments:
+      - background vocals
+    mbid: 4d5f891d-9bce-45ae-ad86-912dd27252fa
+    name: Dave Grohl
+  - begin: '1990-09-24'
+    end: '1994-04-05'
+    instruments:
+      - drums (drum set)
+    mbid: 4d5f891d-9bce-45ae-ad86-912dd27252fa
+    name: Dave Grohl
+  - begin: '1990'
+    end: '1990'
+    instruments:
+      - drums (drum set)
+    mbid: 9b93a71b-1484-4bea-b096-f660c1161f8a
+    name: Dale Crover
 musical_connections:
   collaborators:
-  - Krist Novoselic
-  - Dave Grohl
-  - Chad Channing
+    - Krist Novoselic
+    - Dave Grohl
+    - Chad Channing
   influenced:
-  - Foo Fighters (Dave Grohl)
-  - Numerous grunge/alternative acts
+    - Foo Fighters (Dave Grohl)
+    - Numerous grunge/alternative acts
   mentors:
-  - Buzz Osborne (Melvins)
-  - Jack Endino
-  - Butch Vig
+    - Buzz Osborne (Melvins)
+    - Jack Endino
+    - Butch Vig
 musicbrainz_id: 5b11f4ce-a62d-471e-81fc-a69a8278c7da
 network_extracted: true
-origin: Aberdeen
+origin: 'Aberdeen, Washington, United States'
 primary_source: perplexity
 research_sources:
-- https://aaep1600.osu.edu/book/25_Nirvana.php
-- https://www.simplystick.com.au/blog/nirvana-the-band-that-defined-a-generation/
-- https://faroutmagazine.co.uk/complete-guide-to-formation-nirvana/
-- https://www.youtube.com/watch?v=DtzyC0UkeQ0
-- https://teachrock.org/people/nirvana/
-- https://www.britannica.com/topic/Nirvana-band
-- https://www.loudersound.com/features/nirvana-everything-you-need-to-know
+  - 'https://aaep1600.osu.edu/book/25_Nirvana.php'
+  - >-
+    https://www.simplystick.com.au/blog/nirvana-the-band-that-defined-a-generation/
+  - 'https://faroutmagazine.co.uk/complete-guide-to-formation-nirvana/'
+  - 'https://www.youtube.com/watch?v=DtzyC0UkeQ0'
+  - 'https://teachrock.org/people/nirvana/'
+  - 'https://www.britannica.com/topic/Nirvana-band'
+  - 'https://www.loudersound.com/features/nirvana-everything-you-need-to-know'
 spotify_data:
   followers: 24409324
   id: 6olE6TJLqED3rqDCT0FyPh
   popularity: 83
-  url: https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh
+  url: 'https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh'
 status: active
 tags:
-- 90s
-- acoustic rock
-- alternative metal
+  - 90s
+  - acoustic rock
+  - alternative metal
 title: Nirvana
+birth_place: 'Aberdeen, Washington, United States'
+death_date: '1994-04-05'
 ---
 
 ![](nirvana.jpg)

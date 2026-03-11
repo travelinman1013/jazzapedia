@@ -1,45 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-25T01:34:38.649644'
-birth_place: Louisiana, Missouri, USA
+birth_place: 'Louisiana, Missouri, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:34:38.649649'
 external_urls:
-  spotify: https://open.spotify.com/artist/1E1ti7Ttt0Vq3GVCw9oHvm
+  spotify: 'https://open.spotify.com/artist/1E1ti7Ttt0Vq3GVCw9oHvm'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_south.jpg
 last_updated: '2026-01-25T01:34:38.649650'
 musical_connections:
   collaborators:
-  - Django Reinhardt
-  - Stéphane Grappelli
-  - Michel Warlop
-  - Milt Hinton
-  - Henry Crowder
-  - Earl Hines
+    - Django Reinhardt
+    - Stéphane Grappelli
+    - Michel Warlop
+    - Milt Hinton
+    - Henry Crowder
+    - Earl Hines
   influenced:
-  - Jeremy Cohen
+    - Jeremy Cohen
   mentors:
-  - Petrowitsch Bissing
-  - Darnell Howard
+    - Petrowitsch Bissing
+    - Darnell Howard
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/2964
-- https://aaregistry.org/story/eddie-south-a-jazz-violinist-trailblzer/
-- https://www.allaboutjazz.com/musicians/eddie-south/
-- https://syncopatedtimes.com/edward-otha-south/
-- https://pages.stolaf.edu/americanmusic/2023/09/27/eddie-south-before-de-segregation/
-- http://jazzhotbigstep.com/233.html
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/104539/South_Eddie
+  - 'https://wbssmedia.com/artists/detail/2964'
+  - 'https://aaregistry.org/story/eddie-south-a-jazz-violinist-trailblzer/'
+  - 'https://www.allaboutjazz.com/musicians/eddie-south/'
+  - 'https://syncopatedtimes.com/edward-otha-south/'
+  - >-
+    https://pages.stolaf.edu/americanmusic/2023/09/27/eddie-south-before-de-segregation/
+  - 'http://jazzhotbigstep.com/233.html'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/104539/South_Eddie
 spotify_data:
   followers: 2546
   id: 1E1ti7Ttt0Vq3GVCw9oHvm
   popularity: 12
-  url: https://open.spotify.com/artist/1E1ti7Ttt0Vq3GVCw9oHvm
+  url: 'https://open.spotify.com/artist/1E1ti7Ttt0Vq3GVCw9oHvm'
 status: active
 title: Eddie South
+origin: 'Chicago, Illinois, United States'
+birth_date: '1904-11-27'
+artist_type: person
 ---
 
 ![](eddie_south.jpg)

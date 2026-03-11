@@ -1,48 +1,51 @@
 ---
 biography_enhanced_at: '2026-03-04T01:47:08.531513'
-birth_place: Auckland, New Zealand
+birth_place: 'Auckland, New Zealand'
 enhancement_provider: perplexity
 entry_created: '2026-03-04T01:47:08.531519'
 external_urls:
-  spotify: https://open.spotify.com/artist/7KBQkJjfdiojMQgyK6i54W
+  spotify: 'https://open.spotify.com/artist/7KBQkJjfdiojMQgyK6i54W'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/alex_ventling.jpg
 last_updated: '2026-03-04T01:47:08.531520'
 musical_connections:
   collaborators:
-  - Phelan Burgoyne
-  - James Kruttli
-  - Tuva Halse
-  - Amund Stenøien
-  - August Glännestrand
-  - Sissel Vera Pettersen
-  - Kim Paterson
-  - Yumi Ito
-  - Song Yi Jeon
+    - Phelan Burgoyne
+    - James Kruttli
+    - Tuva Halse
+    - Amund Stenøien
+    - August Glännestrand
+    - Sissel Vera Pettersen
+    - Kim Paterson
+    - Yumi Ito
+    - Song Yi Jeon
   influenced: []
   mentors:
-  - Dr. Mark Baynes
+    - Dr. Mark Baynes
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazzlocal32.com/2025/02/02/alex-ventling-nik-bartsche/
-- https://www.hilaryseabrook.co.uk/post/alex-ventling-wavemakers
-- https://jazzlocal32.com/2022/03/03/alex-ventling-nurturing-the-creative-spirit/
-- https://salt-peanuts.eu/record/alex-venting-phelan-burgonye/
-- https://15questions.net/interview/alex-ventling-about-improvisation/
-- https://thickrecords.co.nz/alex-ventling
-- https://www.allaboutjazz.com/musicians/alex-ventling
-- https://www.paris-move.com/reviews/alex-ventling-wavemakers/
-- https://jazzfuel.com/project/alex-ventling-wavemakers/
-- https://www.elsewhere.co.nz/jazz/11381/kim-paterson-alex-ventling-conversations-thick-digital-outlets/
+  - 'https://jazzlocal32.com/2025/02/02/alex-ventling-nik-bartsche/'
+  - 'https://www.hilaryseabrook.co.uk/post/alex-ventling-wavemakers'
+  - >-
+    https://jazzlocal32.com/2022/03/03/alex-ventling-nurturing-the-creative-spirit/
+  - 'https://salt-peanuts.eu/record/alex-venting-phelan-burgonye/'
+  - 'https://15questions.net/interview/alex-ventling-about-improvisation/'
+  - 'https://thickrecords.co.nz/alex-ventling'
+  - 'https://www.allaboutjazz.com/musicians/alex-ventling'
+  - 'https://www.paris-move.com/reviews/alex-ventling-wavemakers/'
+  - 'https://jazzfuel.com/project/alex-ventling-wavemakers/'
+  - >-
+    https://www.elsewhere.co.nz/jazz/11381/kim-paterson-alex-ventling-conversations-thick-digital-outlets/
 spotify_data:
   followers: 136
   id: 7KBQkJjfdiojMQgyK6i54W
   popularity: 3
-  url: https://open.spotify.com/artist/7KBQkJjfdiojMQgyK6i54W
+  url: 'https://open.spotify.com/artist/7KBQkJjfdiojMQgyK6i54W'
 status: active
-title: alex ventling
+title: Alex Ventling
+artist_type: person
 ---
 
 ![](alex_ventling.jpg)

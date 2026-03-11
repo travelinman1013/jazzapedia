@@ -3,46 +3,51 @@ biography_enhanced_at: '2026-01-24T01:59:54.530816'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:59:54.530822'
 external_urls:
-  spotify: https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g
+  spotify: 'https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g'
   wikipedia: Not found in search results
 genres:
-- gospel
-- traditional gospel
-- funk gospel
+  - gospel
+  - traditional gospel
+  - funk gospel
 image_path: 03_Resources/source_material/ArtistPortraits/rance_allen_group.jpg
 last_updated: '2026-01-24T01:59:54.530823'
 musical_connections:
   collaborators:
-  - Thomas Allen
-  - Steve Allen
-  - Esau Allen
-  - David Porter
-  - Ronnie Williams
+    - Thomas Allen
+    - Steve Allen
+    - Esau Allen
+    - David Porter
+    - Ronnie Williams
   influenced:
-  - BeBe and CeCe Winans
-  - Kirk Franklin
-  - Mary Mary
-  - Lecrae
+    - BeBe and CeCe Winans
+    - Kirk Franklin
+    - Mary Mary
+    - Lecrae
   mentors:
-  - Dave Clark
-  - Al Bell
+    - Dave Clark
+    - Al Bell
 network_extracted: true
-origin: Monroe, Michigan, United States (formed); based in Toledo, Ohio, United States
+origin: 'Monroe, Michigan, United States (formed); based in Toledo, Ohio, United States'
 primary_source: perplexity
 research_sources:
-- https://staxrecords.com/songwriter/rance-allen/
-- https://www.toledolibrary.org/blog/the-enduring-influence-of-rance-allen/
-- https://peel.fandom.com/wiki/Rance_Allen_Group
-- https://www.theranceallengroup.com
-- https://blackpast.org/african-american-history/rance-lee-allen-1948-2020/
-- https://thewitnessinc.com/blog/more-undignified-than-this-the-legacy-of-rance-allen
+  - 'https://staxrecords.com/songwriter/rance-allen/'
+  - 'https://www.toledolibrary.org/blog/the-enduring-influence-of-rance-allen/'
+  - 'https://peel.fandom.com/wiki/Rance_Allen_Group'
+  - 'https://www.theranceallengroup.com'
+  - 'https://blackpast.org/african-american-history/rance-lee-allen-1948-2020/'
+  - >-
+    https://thewitnessinc.com/blog/more-undignified-than-this-the-legacy-of-rance-allen
 spotify_data:
   followers: 102311
   id: 3S16Nh2s6Wc4PCFjFESk2g
   popularity: 35
-  url: https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g
+  url: 'https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g'
 status: active
-title: Rance Allen Group
+title: The Rance Allen Group
+birth_place: 'Monroe, Michigan, United States'
+birth_date: '1948'
+death_date: '2020-10-31'
+artist_type: band
 ---
 
 ![](rance_allen_group.jpg)

@@ -3,35 +3,36 @@ biography_enhanced_at: '2026-02-19T01:55:52.364053'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:55:52.364064'
 external_urls:
-  spotify: https://open.spotify.com/artist/4TE4fd3SIcEBNs6NtDQtK0
-  wikipedia: https://en.wikipedia.org/wiki/New_Orleans_Wanderers
+  spotify: 'https://open.spotify.com/artist/4TE4fd3SIcEBNs6NtDQtK0'
+  wikipedia: 'https://en.wikipedia.org/wiki/New_Orleans_Wanderers'
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/new_orleans_bootblacks.jpg
 last_updated: '2026-02-19T01:55:52.364066'
 musical_connections:
   collaborators:
-  - Lil Hardin
-  - Kid Ory
-  - Johnny Dodds
-  - Johnny St. Cyr
-  - George Mitchell
+    - Lil Hardin
+    - Kid Ory
+    - Johnny Dodds
+    - Johnny St. Cyr
+    - George Mitchell
   influenced: []
   mentors:
-  - Louis Armstrong
+    - Louis Armstrong
 network_extracted: true
-origin: Chicago, Illinois, United States (recording location)
+origin: 'Chicago, Illinois, United States (recording location)'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/New_Orleans_Wanderers
-- https://syncopatedtimes.com/new-orleans-bootblacks/
+  - 'https://en.wikipedia.org/wiki/New_Orleans_Wanderers'
+  - 'https://syncopatedtimes.com/new-orleans-bootblacks/'
 spotify_data:
   followers: 54
   id: 4TE4fd3SIcEBNs6NtDQtK0
   popularity: 0
-  url: https://open.spotify.com/artist/4TE4fd3SIcEBNs6NtDQtK0
+  url: 'https://open.spotify.com/artist/4TE4fd3SIcEBNs6NtDQtK0'
 status: active
-title: NEW ORLEANS BOOTBLACKS
+title: New Orleans Bootblacks
+artist_type: band
 ---
 
 ![](new_orleans_bootblacks.jpg)

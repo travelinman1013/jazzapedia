@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-10T01:53:57.367330'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:53:57.367345'
 external_urls:
-  spotify: https://open.spotify.com/artist/6bM7QwzsSaeDvZmD0M3KMD
-  wikipedia: https://en.wikipedia.org/wiki/Benny_Goodman
+  spotify: 'https://open.spotify.com/artist/6bM7QwzsSaeDvZmD0M3KMD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Benny_Goodman'
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/benny_goodman_and_his_sextet.jpg
 last_updated: '2026-02-10T01:53:57.367348'
 musical_connections:
   collaborators:
-  - Gene Krupa
-  - Teddy Wilson
-  - Lionel Hampton
-  - Charlie Christian
-  - Bunny Berigan
+    - Gene Krupa
+    - Teddy Wilson
+    - Lionel Hampton
+    - Charlie Christian
+    - Bunny Berigan
   influenced:
-  - Charlie Christian
+    - Charlie Christian
   mentors:
-  - Ben Pollack
-  - Fletcher Henderson
-  - John Hammond
+    - Ben Pollack
+    - Fletcher Henderson
+    - John Hammond
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Benny-Goodman
-- https://www.bennygoodman.com/biography/
-- https://en.wikipedia.org/wiki/Benny_Goodman
-- https://syncopatedtimes.com/benny-goodmans-kingdom-of-swing-part-2-small-bands-classical-career-and-legacy/
-- https://www.allaboutjazz.com/musicians/benny-goodman/
-- https://www.touchoftonga.com/DavidMulliss/benny-goodman.html
+  - 'https://www.britannica.com/biography/Benny-Goodman'
+  - 'https://www.bennygoodman.com/biography/'
+  - 'https://en.wikipedia.org/wiki/Benny_Goodman'
+  - >-
+    https://syncopatedtimes.com/benny-goodmans-kingdom-of-swing-part-2-small-bands-classical-career-and-legacy/
+  - 'https://www.allaboutjazz.com/musicians/benny-goodman/'
+  - 'https://www.touchoftonga.com/DavidMulliss/benny-goodman.html'
 spotify_data:
   followers: 2725
   id: 6bM7QwzsSaeDvZmD0M3KMD
   popularity: 3
-  url: https://open.spotify.com/artist/6bM7QwzsSaeDvZmD0M3KMD
+  url: 'https://open.spotify.com/artist/6bM7QwzsSaeDvZmD0M3KMD'
 status: active
 title: Benny Goodman and His Sextet
+birth_date: '1909-05-30'
+artist_type: person
 ---
 
 ![](benny_goodman_and_his_sextet.jpg)

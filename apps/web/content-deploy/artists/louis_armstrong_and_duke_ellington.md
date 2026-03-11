@@ -3,43 +3,51 @@ biography_enhanced_at: '2026-01-24T01:58:01.516540'
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:58:01.516547'
 external_urls:
-  spotify: https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf
+  spotify: 'https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf'
   wikipedia: Not found in search results
 genres:
-- big band
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_duke_ellington.jpg
+  - big band
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/louis_armstrong_and_duke_ellington.jpg
 last_updated: '2026-01-24T01:58:01.516548'
 musical_connections:
   collaborators:
-  - Duke Ellington Orchestra
-  - Duke Ellington (direct collaboration)
-  - Russ Garcia's Orchestra
-  - Irving Mills
+    - Duke Ellington Orchestra
+    - Duke Ellington (direct collaboration)
+    - Russ Garcia's Orchestra
+    - Irving Mills
   influenced:
-  - Billy Strayhorn
-  - Jazz Musicians (General)
+    - Billy Strayhorn
+    - Jazz Musicians (General)
   mentors:
-  - Professor Peter Davis
-  - Joe "King" Oliver
-  - Poolroom Pianists (Washington, D.C.)
-  - Sonny Greer
+    - Professor Peter Davis
+    - Joe "King" Oliver
+    - 'Poolroom Pianists (Washington, D.C.)'
+    - Sonny Greer
 network_extracted: true
-origin: New Orleans, Louisiana, USA (Armstrong); Washington, D.C., USA (Ellington)
+origin: 'New Orleans, Louisiana, USA (Armstrong); Washington, D.C., USA (Ellington)'
 primary_source: perplexity
 research_sources:
-- https://www.nepm.org/jazz-world/2017-07-24/louis-armstrong-and-duke-ellington-jazz-at-its-warmest-and-tightest
-- https://raphaeljezukiewicz.wordpress.com/2016/03/11/the-development-of-duke-ellington-and-louis-armstrong/
-- https://www.youtube.com/watch?v=-XsNHGShcQ8
-- https://www.allaboutjazz.com/armstrong-and-ellington-the-great-summit-duke-ellington-by-john-ballon
-- https://tomreney.com/louis-armstrong-duke-ellington/
+  - >-
+    https://www.nepm.org/jazz-world/2017-07-24/louis-armstrong-and-duke-ellington-jazz-at-its-warmest-and-tightest
+  - >-
+    https://raphaeljezukiewicz.wordpress.com/2016/03/11/the-development-of-duke-ellington-and-louis-armstrong/
+  - 'https://www.youtube.com/watch?v=-XsNHGShcQ8'
+  - >-
+    https://www.allaboutjazz.com/armstrong-and-ellington-the-great-summit-duke-ellington-by-john-ballon
+  - 'https://tomreney.com/louis-armstrong-duke-ellington/'
 spotify_data:
   followers: 737
   id: 1hcIFNujgjY8Mrf5Iidlaf
   popularity: 13
-  url: https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf
+  url: 'https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf'
 status: active
-title: LOUIS ARMSTRONG AND DUKE ELLINGTON
+title: Louis Armstrong and Duke Ellington
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1901'
+death_date: '1971'
+artist_type: band
 ---
 
 ![](louis_armstrong_and_duke_ellington.jpg)

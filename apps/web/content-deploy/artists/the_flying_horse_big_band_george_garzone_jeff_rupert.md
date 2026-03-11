@@ -1,53 +1,57 @@
 ---
 biography_enhanced_at: '2026-03-02T01:16:32.135922'
-birth_place: Boston, Massachusetts, United States
+birth_place: 'Boston, Massachusetts, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:16:32.135931'
 external_urls:
-  spotify: https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM
-  wikipedia: https://en.wikipedia.org/wiki/George_Garzone
+  spotify: 'https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Garzone'
 genres:
-- country rock
-- alt country
-- americana
-- folk rock
-image_path: 03_Resources/source_material/ArtistPortraits/the_flying_horse_big_band_george_garzone_jeff_rupert.jpg
+  - country rock
+  - alt country
+  - americana
+  - folk rock
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/the_flying_horse_big_band_george_garzone_jeff_rupert.jpg
 last_updated: '2026-03-02T01:16:32.135932'
 musical_connections:
   collaborators:
-  - John Lockwood
-  - Bob Gullotti
-  - Francisco Mela
-  - Joe Lovano
-  - Jack DeJohnette
-  - John Patitucci
-  - Danilo Pérez
+    - John Lockwood
+    - Bob Gullotti
+    - Francisco Mela
+    - Joe Lovano
+    - Jack DeJohnette
+    - John Patitucci
+    - Danilo Pérez
   influenced:
-  - Joshua Redman
-  - Branford Marsalis
-  - Donny McCaslin
-  - Mark Turner
-  - Luciana Souza
-  - Mindi Abair
+    - Joshua Redman
+    - Branford Marsalis
+    - Donny McCaslin
+    - Mark Turner
+    - Luciana Souza
+    - Mindi Abair
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bluenote.com/artist/george-garzone/
-- https://en.wikipedia.org/wiki/George_Garzone
-- https://georgegarzone.com/bio/
-- https://college.berklee.edu/people/george-garzone
-- https://www.wbgo.org/podcast/the-checkout/2019-11-19/meet-george-garzone-a-saxophone-zen-master-on-the-checkout-live-at-berklee
-- https://jazzhangrecords.com/artists/george-garzone/
-- https://drjazzfestival.com/george-garzone/
-- https://www.jazzmusicarchives.com/artist/george-garzone
+  - 'https://www.bluenote.com/artist/george-garzone/'
+  - 'https://en.wikipedia.org/wiki/George_Garzone'
+  - 'https://georgegarzone.com/bio/'
+  - 'https://college.berklee.edu/people/george-garzone'
+  - >-
+    https://www.wbgo.org/podcast/the-checkout/2019-11-19/meet-george-garzone-a-saxophone-zen-master-on-the-checkout-live-at-berklee
+  - 'https://jazzhangrecords.com/artists/george-garzone/'
+  - 'https://drjazzfestival.com/george-garzone/'
+  - 'https://www.jazzmusicarchives.com/artist/george-garzone'
 spotify_data:
   followers: 162289
   id: 0rESpKEusFHxhW59MIf7eM
   popularity: 38
-  url: https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM
+  url: 'https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM'
 status: active
-title: The Flying Horse Big Band, George Garzone, Jeff Rupert
+title: 'The Flying Horse Big Band, George Garzone, Jeff Rupert'
+birth_date: '1950-09-23'
+artist_type: person
 ---
 
 ![](the_flying_horse_big_band_george_garzone_jeff_rupert.jpg)

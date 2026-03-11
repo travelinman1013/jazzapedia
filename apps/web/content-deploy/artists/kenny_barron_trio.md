@@ -1,66 +1,69 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-29T02:00:01.087972'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:00:01.087978'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bd2f7fe8-123c-43ab-a30c-2e399004e2cc
-  spotify: https://open.spotify.com/artist/4CxdvxRnogqobSOfcH0WQt
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Barron
+  musicbrainz: 'https://musicbrainz.org/artist/bd2f7fe8-123c-43ab-a30c-2e399004e2cc'
+  spotify: 'https://open.spotify.com/artist/4CxdvxRnogqobSOfcH0WQt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Barron'
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_barron_trio.jpg
 instruments:
-- eponymous
-- original
-last_updated: '2026-01-29T02:00:01.087979'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 6b2e6e7c-4289-447c-a3dc-120e386da267
-  name: Kenny Barron
+last_updated: '2026-01-29T02:00:01.087979'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 6b2e6e7c-4289-447c-a3dc-120e386da267
+    name: Kenny Barron
 musical_connections:
   collaborators:
-  - Buster Williams
-  - Ben Riley
-  - Stan Getz
-  - Charlie Rouse
-  - Gary Bartz
+    - Buster Williams
+    - Ben Riley
+    - Stan Getz
+    - Charlie Rouse
+    - Gary Bartz
   influenced:
-  - David Sanchez
-  - Terence Blanchard
-  - Regina Belle
+    - David Sanchez
+    - Terence Blanchard
+    - Regina Belle
   mentors:
-  - Yusef Lateef
-  - James Moody
-  - Dizzy Gillespie
+    - Yusef Lateef
+    - James Moody
+    - Dizzy Gillespie
 musicbrainz_id: bd2f7fe8-123c-43ab-a30c-2e399004e2cc
 network_extracted: true
-origin: Philadelphia, Pennsylvania, United States
+origin: 'Philadelphia, Pennsylvania, United States'
 primary_source: perplexity
 research_sources:
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=5270
-- https://kennybarron.com/biography/
-- https://www.laphil.com/musicdb/artists/6023/kenny-barron
-- https://atljazzfest.com/artists/kenny-barron-quartet/
-- https://www.bluenote.com/artist/kenny-barron/
-- https://www.midatlanticarts.org/grants-programs/explore-opportunities/kenny-barron-2008-living-legacy-awardee/
-- http://kennybarron.com/cms/wp-content/uploads/2014/02/biography.pdf
-- https://en.wikipedia.org/wiki/Kenny_Barron
-- https://wexarts.org/performing-arts/kenny-barron-trio
-- https://www.ronniescotts.co.uk/find-a-show/kenny-barron-trio
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=5270'
+  - 'https://kennybarron.com/biography/'
+  - 'https://www.laphil.com/musicdb/artists/6023/kenny-barron'
+  - 'https://atljazzfest.com/artists/kenny-barron-quartet/'
+  - 'https://www.bluenote.com/artist/kenny-barron/'
+  - >-
+    https://www.midatlanticarts.org/grants-programs/explore-opportunities/kenny-barron-2008-living-legacy-awardee/
+  - 'http://kennybarron.com/cms/wp-content/uploads/2014/02/biography.pdf'
+  - 'https://en.wikipedia.org/wiki/Kenny_Barron'
+  - 'https://wexarts.org/performing-arts/kenny-barron-trio'
+  - 'https://www.ronniescotts.co.uk/find-a-show/kenny-barron-trio'
 spotify_data:
   followers: 8443
   id: 4CxdvxRnogqobSOfcH0WQt
   popularity: 25
-  url: https://open.spotify.com/artist/4CxdvxRnogqobSOfcH0WQt
+  url: 'https://open.spotify.com/artist/4CxdvxRnogqobSOfcH0WQt'
 status: active
 tags:
-- jazz
+  - jazz
 title: Kenny Barron Trio
+birth_place: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1943'
 ---
 
 ![](kenny_barron_trio.jpg)

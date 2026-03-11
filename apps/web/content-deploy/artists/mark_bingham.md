@@ -1,43 +1,48 @@
 ---
 biography_enhanced_at: '2026-02-03T02:02:18.331274'
-birth_place: Bloomington, Indiana, United States
+birth_place: 'Bloomington, Indiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:02:18.331289'
 external_urls:
-  spotify: https://open.spotify.com/artist/3vMd0iP6JZYd7Uk2YQR2w4
+  spotify: 'https://open.spotify.com/artist/3vMd0iP6JZYd7Uk2YQR2w4'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mark_bingham.jpg
 last_updated: '2026-02-03T02:02:18.331293'
 musical_connections:
   collaborators:
-  - Screaming Gypsy Bandits
-  - Social Climbers
-  - Mark Hood
-  - Glenn Branca
-  - Allen Ginsberg
-  - R.E.M.
+    - Screaming Gypsy Bandits
+    - Social Climbers
+    - Mark Hood
+    - Glenn Branca
+    - Allen Ginsberg
+    - R.E.M.
   influenced: []
   mentors:
-  - Archie Shepp
-  - Frazier Mohawk
+    - Archie Shepp
+    - Frazier Mohawk
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.howlinwuelf.com/clients/mark-bingham/
-- https://www.openculture.com/2020/11/famed-new-orleans-music-producer-mark-bingham-discusses-his-songs-and-collaborations-a-nakedly-examined-music-conversation-136.html
-- https://blues.gr/profiles/blogs/ultidimensional-musician-mark-bingham-talks-about-new-orleans
-- https://www.idsnews.com/article/2025/04/mark-gingham-bloomington-musician-orbit-room-residency
-- https://tapeop.com/interviews/38/mark-bingham
-- https://vinylwritermusic.wordpress.com/2023/01/27/an-interview-with-mark-bingham/
-- https://www.last.fm/music/Mark+Bingham/+wiki
+  - 'https://www.howlinwuelf.com/clients/mark-bingham/'
+  - >-
+    https://www.openculture.com/2020/11/famed-new-orleans-music-producer-mark-bingham-discusses-his-songs-and-collaborations-a-nakedly-examined-music-conversation-136.html
+  - >-
+    https://blues.gr/profiles/blogs/ultidimensional-musician-mark-bingham-talks-about-new-orleans
+  - >-
+    https://www.idsnews.com/article/2025/04/mark-gingham-bloomington-musician-orbit-room-residency
+  - 'https://tapeop.com/interviews/38/mark-bingham'
+  - >-
+    https://vinylwritermusic.wordpress.com/2023/01/27/an-interview-with-mark-bingham/
+  - 'https://www.last.fm/music/Mark+Bingham/+wiki'
 spotify_data:
   followers: 134
   id: 3vMd0iP6JZYd7Uk2YQR2w4
   popularity: 3
-  url: https://open.spotify.com/artist/3vMd0iP6JZYd7Uk2YQR2w4
+  url: 'https://open.spotify.com/artist/3vMd0iP6JZYd7Uk2YQR2w4'
 status: active
 title: Mark Bingham
+artist_type: person
 ---
 
 ![](mark_bingham.jpg)

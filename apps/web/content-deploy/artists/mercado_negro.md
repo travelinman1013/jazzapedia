@@ -1,46 +1,47 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-08T02:03:05.159421'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:03:05.159430'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4e022787-f495-4729-8892-67203a2641d0
-  spotify: https://open.spotify.com/artist/2ceMDOKOCfE4CNrQJeMiMf
-  wikipedia: https://en.wikipedia.org/wiki/Mercadonegro
+  musicbrainz: 'https://musicbrainz.org/artist/4e022787-f495-4729-8892-67203a2641d0'
+  spotify: 'https://open.spotify.com/artist/2ceMDOKOCfE4CNrQJeMiMf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mercadonegro'
 genres:
-- timba
-- salsa
-- cha cha cha
-- son cubano
+  - timba
+  - salsa
+  - cha cha cha
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/mercado_negro.jpg
 last_updated: '2026-02-08T02:03:05.159432'
 musical_connections:
   collaborators:
-  - Celia Cruz
-  - Tito Nieves
-  - Cheo Feliciano
-  - Jimmy Bosch
-  - Giovanni Hidalgo
+    - Celia Cruz
+    - Tito Nieves
+    - Cheo Feliciano
+    - Jimmy Bosch
+    - Giovanni Hidalgo
   influenced:
-  - Eddie Palmieri
+    - Eddie Palmieri
   mentors:
-  - Alfredo de la Fé
+    - Alfredo de la Fé
 musicbrainz_id: 4e022787-f495-4729-8892-67203a2641d0
 network_extracted: true
-origin: Switzerland (band based); founders from Havana, Cuba; Trujillo, Peru; Cartagena
-  de Indias, Colombia
+origin: >-
+  Switzerland (band based); founders from Havana, Cuba; Trujillo, Peru;
+  Cartagena de Indias, Colombia
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Mercado+Negro/+wiki
-- https://www.womex.com/virtual/3/mercadonegro
-- https://www.mercadonegro.ch/biografia
-- https://en.wikipedia.org/wiki/Mercadonegro
-- https://salsagoogle.com/mercadonegro-orchestra-of-switzerland/
+  - 'https://www.last.fm/music/Mercado+Negro/+wiki'
+  - 'https://www.womex.com/virtual/3/mercadonegro'
+  - 'https://www.mercadonegro.ch/biografia'
+  - 'https://en.wikipedia.org/wiki/Mercadonegro'
+  - 'https://salsagoogle.com/mercadonegro-orchestra-of-switzerland/'
 spotify_data:
   followers: 5748
   id: 2ceMDOKOCfE4CNrQJeMiMf
   popularity: 27
-  url: https://open.spotify.com/artist/2ceMDOKOCfE4CNrQJeMiMf
+  url: 'https://open.spotify.com/artist/2ceMDOKOCfE4CNrQJeMiMf'
 status: active
 title: Mercado Negro
 ---

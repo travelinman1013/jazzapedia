@@ -1,131 +1,133 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-19T01:57:24.516841'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:57:24.516850'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/07f24ff3-d84f-476f-ac04-aa56debd94a3
-  spotify: https://open.spotify.com/artist/30bVU30Ja2GaqagY5rq2x6
-  wikipedia: https://en.wikipedia.org/wiki/King_Oliver
+  musicbrainz: 'https://musicbrainz.org/artist/07f24ff3-d84f-476f-ac04-aa56debd94a3'
+  spotify: 'https://open.spotify.com/artist/30bVU30Ja2GaqagY5rq2x6'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Oliver'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/king_oliver_and_his_orchestra.jpg
 instruments:
-- clarinet
-- piano
-- guitar
-- tuba
-- tenor saxophone
+  - clarinet
+  - piano
+  - guitar
+  - tuba
+  - tenor saxophone
 last_updated: '2026-02-19T01:57:24.516851'
 members:
-- &id001
-  begin: '1915'
-  end: ''
-  instruments:
-  - clarinet
-  mbid: c538907a-be70-4f3d-9df2-1d9c0a231cf3
-  name: Wooden Joe Nicholas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 644adb90-bc50-4990-bdba-31c2092c5ac5
-  name: Paul Barbarin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 76f25000-baa6-45e5-adbc-c9d5f384371d
-  name: Paul "Stump" Evans
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 770050c6-9bf2-4d06-9845-c0bf3b0019a0
-  name: Eric Franker
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c356cc5c-6e60-48d6-973d-5060fcab2003
-  name: Charles Frazier
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3bf3095d-4414-4965-99ff-444d95673288
-  name: Bobby Holmes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b6726768-8140-40aa-ad8c-be95c1a200ec
-  name: Will Johnson
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 7ff1e644-1aa3-4c65-b3da-e0ed40badcbc
-  name: Norman Lester
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 758908e4-b207-455d-9d58-41c7b77f4bb3
-  name: Goldie Lucas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 744fa1ae-051c-463c-957a-25a4ddc01c2f
-  name: King Oliver
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9cc9810a-a1c0-45b9-ade5-fb70d4cc1bf3
-  name: Joseph Petit
-- begin: ''
-  end: ''
-  instruments:
-  - tuba
-  mbid: e5ade164-1b38-4c33-996a-4b7cc1ffec4d
-  name: Clinton Walker
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: de041d04-9c5d-4c1f-8014-3e4495c2b63f
-  name: Walter Wheeler
+  - &ref_0
+    begin: '1915'
+    end: ''
+    instruments:
+      - clarinet
+    mbid: c538907a-be70-4f3d-9df2-1d9c0a231cf3
+    name: Wooden Joe Nicholas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 644adb90-bc50-4990-bdba-31c2092c5ac5
+    name: Paul Barbarin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 76f25000-baa6-45e5-adbc-c9d5f384371d
+    name: Paul "Stump" Evans
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 770050c6-9bf2-4d06-9845-c0bf3b0019a0
+    name: Eric Franker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c356cc5c-6e60-48d6-973d-5060fcab2003
+    name: Charles Frazier
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3bf3095d-4414-4965-99ff-444d95673288
+    name: Bobby Holmes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b6726768-8140-40aa-ad8c-be95c1a200ec
+    name: Will Johnson
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 7ff1e644-1aa3-4c65-b3da-e0ed40badcbc
+    name: Norman Lester
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 758908e4-b207-455d-9d58-41c7b77f4bb3
+    name: Goldie Lucas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 744fa1ae-051c-463c-957a-25a4ddc01c2f
+    name: King Oliver
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9cc9810a-a1c0-45b9-ade5-fb70d4cc1bf3
+    name: Joseph Petit
+  - begin: ''
+    end: ''
+    instruments:
+      - tuba
+    mbid: e5ade164-1b38-4c33-996a-4b7cc1ffec4d
+    name: Clinton Walker
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: de041d04-9c5d-4c1f-8014-3e4495c2b63f
+    name: Walter Wheeler
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Baby Dodds
-  - Johnny Dodds
-  - Lil Hardin
-  - Honoré Dutrey
-  - Bill Johnson
-  - Johnny St. Cyr
+    - Louis Armstrong
+    - Baby Dodds
+    - Johnny Dodds
+    - Lil Hardin
+    - Honoré Dutrey
+    - Bill Johnson
+    - Johnny St. Cyr
   influenced:
-  - Louis Armstrong
+    - Louis Armstrong
   mentors:
-  - Kid Ory
+    - Kid Ory
 musicbrainz_id: 07f24ff3-d84f-476f-ac04-aa56debd94a3
 network_extracted: true
-origin: Louisiana, United States (birthplace)
+origin: 'New Orleans, Louisiana, United States'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://64parishes.org/entry/king-oliver
-- https://www.starrgennettfoundation.org/joe-king-oliver
-- https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1006&context=music-faculty-publications
-- https://www.britannica.com/biography/King-Oliver
-- https://en.wikipedia.org/wiki/King_Oliver
-- https://www.louisarmstronghouse.org/west-end-blog/joe-oliver-the-king/
-- https://syncopatedtimes.com/king-oliver-and-his-orchestra-1929-1930/
-- https://blackpast.org/african-american-history/oliver-joseph-king-1885-1938/
+  - 'https://64parishes.org/entry/king-oliver'
+  - 'https://www.starrgennettfoundation.org/joe-king-oliver'
+  - >-
+    https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1006&context=music-faculty-publications
+  - 'https://www.britannica.com/biography/King-Oliver'
+  - 'https://en.wikipedia.org/wiki/King_Oliver'
+  - 'https://www.louisarmstronghouse.org/west-end-blog/joe-oliver-the-king/'
+  - 'https://syncopatedtimes.com/king-oliver-and-his-orchestra-1929-1930/'
+  - 'https://blackpast.org/african-american-history/oliver-joseph-king-1885-1938/'
 spotify_data:
   followers: 51
   id: 30bVU30Ja2GaqagY5rq2x6
   popularity: 3
-  url: https://open.spotify.com/artist/30bVU30Ja2GaqagY5rq2x6
+  url: 'https://open.spotify.com/artist/30bVU30Ja2GaqagY5rq2x6'
 status: active
 tags:
-- big band
-title: KING OLIVER AND HIS ORCHESTRA
+  - big band
+title: King Oliver and His Orchestra
+birth_place: 'Louisiana, United States'
 ---
 
 ![](king_oliver_and_his_orchestra.jpg)

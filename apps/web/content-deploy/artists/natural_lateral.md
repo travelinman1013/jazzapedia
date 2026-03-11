@@ -1,37 +1,38 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-25T02:00:19.434939'
 disambiguation: UK Jazz-Funk/Fusion Band
 enhancement_provider: perplexity
 entry_created: '2026-02-25T02:00:19.434949'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/22771712-8326-4b18-8a00-e519f73447da
-  spotify: https://open.spotify.com/artist/3xStpvyo9NqAk5g1KAjR8X
+  musicbrainz: 'https://musicbrainz.org/artist/22771712-8326-4b18-8a00-e519f73447da'
+  spotify: 'https://open.spotify.com/artist/3xStpvyo9NqAk5g1KAjR8X'
   wikipedia: ''
 genres:
-- nu jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/natural_lateral.jpg
 last_updated: '2026-02-25T02:00:19.434951'
 musical_connections:
   collaborators:
-  - Tamar Osborn's Collocutor
+    - Tamar Osborn's Collocutor
   influenced: []
   mentors: []
 musicbrainz_id: 22771712-8326-4b18-8a00-e519f73447da
 network_extracted: true
-origin: North London, United Kingdom
+origin: 'North London, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://twistedsoulmusic.org/2019/10/15/new-noteworthy-natural-lateral-bossa-blue/
-- https://naturallateral.bandcamp.com/album/tapestry-of-life
-- https://naturallateral.bandcamp.com/album/cogito-ergo-jam
-- https://ifmusic.co.uk/product/natural-lateral-tapestry-of-life/
-- https://www.allmusic.com/artist/natural-lateral-mn0004266836
+  - >-
+    https://twistedsoulmusic.org/2019/10/15/new-noteworthy-natural-lateral-bossa-blue/
+  - 'https://naturallateral.bandcamp.com/album/tapestry-of-life'
+  - 'https://naturallateral.bandcamp.com/album/cogito-ergo-jam'
+  - 'https://ifmusic.co.uk/product/natural-lateral-tapestry-of-life/'
+  - 'https://www.allmusic.com/artist/natural-lateral-mn0004266836'
 spotify_data:
   followers: 526
   id: 3xStpvyo9NqAk5g1KAjR8X
   popularity: 4
-  url: https://open.spotify.com/artist/3xStpvyo9NqAk5g1KAjR8X
+  url: 'https://open.spotify.com/artist/3xStpvyo9NqAk5g1KAjR8X'
 status: active
 title: Natural Lateral
 ---

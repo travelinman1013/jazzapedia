@@ -1,32 +1,33 @@
 ---
 biography_enhanced_at: '2026-01-29T02:01:25.585507'
-birth_place: Waukegan, Illinois, USA
+birth_place: 'Waukegan, Illinois, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-29T02:01:25.585520'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Lvy3WCVJtfkgnc9iyUzjg
+  spotify: 'https://open.spotify.com/artist/5Lvy3WCVJtfkgnc9iyUzjg'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/cora_garner.jpg
 last_updated: '2026-01-29T02:01:25.585522'
 musical_connections:
   collaborators:
-  - Jack Benny
-  - Lyman Woods
+    - Jack Benny
+    - Lyman Woods
   influenced:
-  - Jack Benny
+    - Jack Benny
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sites.arizona.edu/vaudeville/jack-benny-forever-39-by-natasha-rapp/
+  - 'https://sites.arizona.edu/vaudeville/jack-benny-forever-39-by-natasha-rapp/'
 spotify_data:
   followers: 1
   id: 5Lvy3WCVJtfkgnc9iyUzjg
   popularity: 7
-  url: https://open.spotify.com/artist/5Lvy3WCVJtfkgnc9iyUzjg
+  url: 'https://open.spotify.com/artist/5Lvy3WCVJtfkgnc9iyUzjg'
 status: active
-title: CORA GARNER
+title: Cora Garner
+artist_type: person
 ---
 
 ![](cora_garner.jpg)

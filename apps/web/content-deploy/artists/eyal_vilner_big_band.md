@@ -1,44 +1,46 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-28T01:45:19.392073'
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:45:19.392082'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f89c102d-f601-4163-91f4-31b852e54edc
-  spotify: https://open.spotify.com/artist/0trarQCofdcsWn0uk2WLvB
+  musicbrainz: 'https://musicbrainz.org/artist/f89c102d-f601-4163-91f4-31b852e54edc'
+  spotify: 'https://open.spotify.com/artist/0trarQCofdcsWn0uk2WLvB'
   wikipedia: ''
 genres:
-- swing music
-- big band
+  - swing music
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/eyal_vilner_big_band.jpg
 last_updated: '2026-02-28T01:45:19.392083'
 musical_connections:
   collaborators:
-  - Frank Wess
-  - Jimmy Heath
-  - Jimmy Owens
-  - Junior Mance
+    - Frank Wess
+    - Jimmy Heath
+    - Jimmy Owens
+    - Junior Mance
   influenced: []
   mentors: []
 musicbrainz_id: f89c102d-f601-4163-91f4-31b852e54edc
 network_extracted: true
-origin: Tel Aviv, Israel
+origin: 'Tel Aviv, Israel, United States'
 primary_source: perplexity
 research_sources:
-- https://www.eyalvilner.com/about
-- https://www.allaboutjazz.com/musicians/eyal-vilner/
-- https://syncopatedtimes.com/eyal-vilner-big-band-swingin-uptown/
-- https://aicf.org/artist/eyal-vilner/
-- https://downbeat.com/news/detail/eyal-vilner-its-all-jazz-all-danceable
-- https://www.makingascene.org/eyal-vilner-big-band-swingin-uptown/
-- https://www.wrti.org/arts-desk/2019-08-12/jazz-album-of-the-week-12-reasons-to-swing-with-the-eyal-vilner-big-bands-new-release
-- https://www.paris-move.com/reviews/eyal-vilner-big-band-singin-uptown-eng-review/
-- https://audienceaccess.co/bio/RFEIE-53629
+  - 'https://www.eyalvilner.com/about'
+  - 'https://www.allaboutjazz.com/musicians/eyal-vilner/'
+  - 'https://syncopatedtimes.com/eyal-vilner-big-band-swingin-uptown/'
+  - 'https://aicf.org/artist/eyal-vilner/'
+  - 'https://downbeat.com/news/detail/eyal-vilner-its-all-jazz-all-danceable'
+  - 'https://www.makingascene.org/eyal-vilner-big-band-swingin-uptown/'
+  - >-
+    https://www.wrti.org/arts-desk/2019-08-12/jazz-album-of-the-week-12-reasons-to-swing-with-the-eyal-vilner-big-bands-new-release
+  - >-
+    https://www.paris-move.com/reviews/eyal-vilner-big-band-singin-uptown-eng-review/
+  - 'https://audienceaccess.co/bio/RFEIE-53629'
 spotify_data:
   followers: 1477
   id: 0trarQCofdcsWn0uk2WLvB
   popularity: 12
-  url: https://open.spotify.com/artist/0trarQCofdcsWn0uk2WLvB
+  url: 'https://open.spotify.com/artist/0trarQCofdcsWn0uk2WLvB'
 status: active
 title: Eyal Vilner Big Band
 ---

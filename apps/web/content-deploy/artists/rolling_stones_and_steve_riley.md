@@ -3,45 +3,49 @@ biography_enhanced_at: '2026-03-09T01:13:02.371341'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:13:02.371352'
 external_urls:
-  spotify: https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr
-  wikipedia: https://en.wikipedia.org/wiki/Steve_Riley_and_the_Mamou_Playboys
+  spotify: 'https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steve_Riley_and_the_Mamou_Playboys'
 genres:
-- cajun
-- zydeco
-image_path: 03_Resources/source_material/ArtistPortraits/rolling_stones_and_steve_riley.jpg
+  - cajun
+  - zydeco
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/rolling_stones_and_steve_riley.jpg
 last_updated: '2026-03-09T01:13:02.371353'
 musical_connections:
   collaborators:
-  - David Greely
-  - Wayne Toups
-  - Wilson Savoy
-  - Eric Clapton
-  - Robert Plant
+    - David Greely
+    - Wayne Toups
+    - Wilson Savoy
+    - Eric Clapton
+    - Robert Plant
   influenced:
-  - Burke Riley
+    - Burke Riley
   mentors:
-  - Dewey Balfa
-  - Belton Richard
-  - Walter Mouton
+    - Dewey Balfa
+    - Belton Richard
+    - Walter Mouton
 network_extracted: true
-origin: Mamou, Louisiana, USA
+origin: 'Mamou, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://acadianaprofile.com/trailblazers-steve-riley/
-- https://rhythmandroots.com/artists/steve-riley-the-mamou-playboys-quartet/
-- https://en.wikipedia.org/wiki/Steve_Riley_and_the_Mamou_Playboys
-- http://www.mamouplayboys.com/biography/
-- https://blues.gr/profiles/blogs/interview-with-steve-riley-of-the-mamou-playboys-widely
-- https://www.youtube.com/watch?v=V0XfgQXvtTA
-- https://www.rootsworld.com/rw/feature/riley.html
-- https://www.allmusic.com/artist/steve-riley-mn0000030909
+  - 'https://acadianaprofile.com/trailblazers-steve-riley/'
+  - 'https://rhythmandroots.com/artists/steve-riley-the-mamou-playboys-quartet/'
+  - 'https://en.wikipedia.org/wiki/Steve_Riley_and_the_Mamou_Playboys'
+  - 'http://www.mamouplayboys.com/biography/'
+  - >-
+    https://blues.gr/profiles/blogs/interview-with-steve-riley-of-the-mamou-playboys-widely
+  - 'https://www.youtube.com/watch?v=V0XfgQXvtTA'
+  - 'https://www.rootsworld.com/rw/feature/riley.html'
+  - 'https://www.allmusic.com/artist/steve-riley-mn0000030909'
 spotify_data:
   followers: 1803
   id: 59G6ddWaKK4DknXhhCJ1Fr
   popularity: 19
-  url: https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr
+  url: 'https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr'
 status: active
 title: Rolling Stones & Steve Riley
+birth_place: 'Mamou, Louisiana, United States'
+artist_type: person
 ---
 
 ![](rolling_stones_and_steve_riley.jpg)

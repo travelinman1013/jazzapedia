@@ -1,12 +1,12 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-25T01:39:17.051702'
-birth_place: Mbour, Senegal
+birth_place: 'Mbour, Senegal, Senegal'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:39:17.051709'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ec7c72cd-779c-46cb-9e59-64ee75fc39be
-  spotify: https://open.spotify.com/artist/1jentdBNGtT8CB2TTf0vJB
+  musicbrainz: 'https://musicbrainz.org/artist/ec7c72cd-779c-46cb-9e59-64ee75fc39be'
+  spotify: 'https://open.spotify.com/artist/1jentdBNGtT8CB2TTf0vJB'
   wikipedia: null
 gender: Male
 genres: []
@@ -14,30 +14,32 @@ image_path: 03_Resources/source_material/ArtistPortraits/cheikh_ibra_fam.jpg
 last_updated: '2026-01-25T01:39:17.051710'
 musical_connections:
   collaborators:
-  - Orchestra Baobab
-  - Christine Salem
+    - Orchestra Baobab
+    - Christine Salem
   influenced: []
   mentors:
-  - Issa Sissokho
-  - Orchestra Baobab (collective mentorship)
+    - Issa Sissokho
+    - Orchestra Baobab (collective mentorship)
 musicbrainz_id: ec7c72cd-779c-46cb-9e59-64ee75fc39be
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://worldmusiccentral.org/how-senegals-cheikh-ibra-fam-found-his-voice-between-roots-and-rhythm/
-- https://www.cheikhibrafam.com/bio
-- https://www.cheikhibrafam.com
-- https://www.afropop.org/events/cheikh-ibra-fam-drom
-- https://smallworldmusic.com/shows/cheikh-ibra-fam-at-revival/
-- https://www.revelerexperiences.com/event/sounds-of-senegal-kaira-ba-cheikh-ibra-fam
-- https://www.festivalnuitsdafrique.com/en/artistes/cheikh-ibra-fam/
+  - >-
+    https://worldmusiccentral.org/how-senegals-cheikh-ibra-fam-found-his-voice-between-roots-and-rhythm/
+  - 'https://www.cheikhibrafam.com/bio'
+  - 'https://www.cheikhibrafam.com'
+  - 'https://www.afropop.org/events/cheikh-ibra-fam-drom'
+  - 'https://smallworldmusic.com/shows/cheikh-ibra-fam-at-revival/'
+  - >-
+    https://www.revelerexperiences.com/event/sounds-of-senegal-kaira-ba-cheikh-ibra-fam
+  - 'https://www.festivalnuitsdafrique.com/en/artistes/cheikh-ibra-fam/'
 spotify_data:
   followers: 1394
   id: 1jentdBNGtT8CB2TTf0vJB
   popularity: 17
-  url: https://open.spotify.com/artist/1jentdBNGtT8CB2TTf0vJB
+  url: 'https://open.spotify.com/artist/1jentdBNGtT8CB2TTf0vJB'
 status: active
-title: cheikh ibra fam
+title: Cheikh Ibra Fam
 ---
 
 ![](cheikh_ibra_fam.jpg)

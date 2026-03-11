@@ -1,67 +1,70 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-19T01:55:22.856839'
 birth_date: '1998'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:55:22.856852'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3efa683f-2df6-4bab-8964-1dabd904d15a
-  spotify: https://open.spotify.com/artist/37jQEOrvvmBhpOLJ0620pY
+  musicbrainz: 'https://musicbrainz.org/artist/3efa683f-2df6-4bab-8964-1dabd904d15a'
+  spotify: 'https://open.spotify.com/artist/37jQEOrvvmBhpOLJ0620pY'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/art_of_time_ensemble.jpg
 instruments:
-- original
-- double bass
+  - original
+  - double bass
 last_updated: '2026-02-19T01:55:22.856854'
 members:
-- &id001
-  begin: '1998'
-  end: ''
-  instruments:
-  - original
-  mbid: 6ddb693d-699a-40a8-b7e3-911e39d8549a
-  name: Andrew Burashko
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: f6b65b20-7da4-43e4-854a-645538b949a1
-  name: Andrew Downing
+  - &ref_0
+    begin: '1998'
+    end: ''
+    instruments:
+      - original
+    mbid: 6ddb693d-699a-40a8-b7e3-911e39d8549a
+    name: Andrew Burashko
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: f6b65b20-7da4-43e4-854a-645538b949a1
+    name: Andrew Downing
 musical_connections:
   collaborators:
-  - Peggy Baker
-  - Branford Marsalis
-  - Madeleine Peyroux
-  - Margaret Atwood
-  - Michael Ondaatje
-  - The Cowboy Junkies
-  - Barenaked Ladies
-  - Skydiggers
-  - Odds
+    - Peggy Baker
+    - Branford Marsalis
+    - Madeleine Peyroux
+    - Margaret Atwood
+    - Michael Ondaatje
+    - The Cowboy Junkies
+    - Barenaked Ladies
+    - Skydiggers
+    - Odds
   influenced: []
   mentors:
-  - Marina Geringas
-  - Lee Kum-Sing
-  - Leon Fleisher
-  - Bella Davidovich
+    - Marina Geringas
+    - Lee Kum-Sing
+    - Leon Fleisher
+    - Bella Davidovich
 musicbrainz_id: 3efa683f-2df6-4bab-8964-1dabd904d15a
 network_extracted: true
-origin: Toronto
+origin: 'Toronto, Ontario, Canada'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://artoftimeensemble.com/about
-- https://krannertcenter.com/sites/krannertcenter.com/files/1617_KCPAprogram_ArtofTimeEnsemble_WEB.pdf
-- https://artoftimeensemble.com/artist-page
-- https://www.ludwig-van.com/toronto/2024/08/22/interview-art-time-ensembles-andrew-burashko-talks-reworking-stravinsky-shuttering-aot/
-- https://www.thewholenote.com/index.php/newsroom/musical-life/whoismusicalchild/25850-the-artful-times-of-andrew-burashko
+  - 'https://artoftimeensemble.com/about'
+  - >-
+    https://krannertcenter.com/sites/krannertcenter.com/files/1617_KCPAprogram_ArtofTimeEnsemble_WEB.pdf
+  - 'https://artoftimeensemble.com/artist-page'
+  - >-
+    https://www.ludwig-van.com/toronto/2024/08/22/interview-art-time-ensembles-andrew-burashko-talks-reworking-stravinsky-shuttering-aot/
+  - >-
+    https://www.thewholenote.com/index.php/newsroom/musical-life/whoismusicalchild/25850-the-artful-times-of-andrew-burashko
 spotify_data:
   followers: 718
   id: 37jQEOrvvmBhpOLJ0620pY
   popularity: 10
-  url: https://open.spotify.com/artist/37jQEOrvvmBhpOLJ0620pY
+  url: 'https://open.spotify.com/artist/37jQEOrvvmBhpOLJ0620pY'
 status: active
 title: Art of Time Ensemble
 ---

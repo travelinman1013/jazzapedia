@@ -1,37 +1,40 @@
 ---
 biography_enhanced_at: '2026-03-06T01:31:27.427591'
-birth_place: Grayson County, Virginia, USA
+birth_place: 'Grayson County, Virginia, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-06T01:31:27.427606'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d0ce74c9-362f-407a-929d-2a12cfc06f6b
-  spotify: https://open.spotify.com/artist/6QDteMBQ2jKvOwZWCIWon4
+  musicbrainz: 'https://musicbrainz.org/artist/d0ce74c9-362f-407a-929d-2a12cfc06f6b'
+  spotify: 'https://open.spotify.com/artist/6QDteMBQ2jKvOwZWCIWon4'
   wikipedia: ''
 genres:
-- northern soul
+  - northern soul
 image_path: ''
 last_updated: '2026-03-06T01:31:27.427609'
 musical_connections:
   collaborators:
-  - Marais
-  - Willie James
+    - Marais
+    - Willie James
   influenced: []
   mentors:
-  - Willie James
+    - Willie James
 musicbrainz_id: d0ce74c9-362f-407a-929d-2a12cfc06f6b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.virginiafolklife.org/2016/08/tasty-licks-virginias-food-traditions-at-the-2016-richmond-folk-festival/
-- https://mississippi.universitypressscholarship.com/view/10.14325/mississippi/9781934110416.001.0001/upso-9781934110416-chapter-23
-- http://darcysfeelit.blogspot.com/2017/02/dori-has-me-hooked.html
+  - >-
+    https://www.virginiafolklife.org/2016/08/tasty-licks-virginias-food-traditions-at-the-2016-richmond-folk-festival/
+  - >-
+    https://mississippi.universitypressscholarship.com/view/10.14325/mississippi/9781934110416.001.0001/upso-9781934110416-chapter-23
+  - 'http://darcysfeelit.blogspot.com/2017/02/dori-has-me-hooked.html'
 spotify_data:
   followers: 24
   id: 6QDteMBQ2jKvOwZWCIWon4
   popularity: 0
-  url: https://open.spotify.com/artist/6QDteMBQ2jKvOwZWCIWon4
+  url: 'https://open.spotify.com/artist/6QDteMBQ2jKvOwZWCIWon4'
 status: active
-title: dori grayson
+title: Dori Grayson
+artist_type: person
 ---
 
 ![]()

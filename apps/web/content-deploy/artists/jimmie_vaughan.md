@@ -1,52 +1,54 @@
 ---
 biography_enhanced_at: '2026-03-05T02:01:59.500070'
-birth_place: Oak Cliff, Dallas County, Texas, United States
+birth_place: 'Oak Cliff, Dallas County, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-05T02:01:59.500081'
 external_urls:
-  spotify: https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae
+  spotify: 'https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae'
   wikipedia: Not found in search results
 genres:
-- blues
-- blues rock
-- classic blues
-- modern blues
-- soul blues
+  - blues
+  - blues rock
+  - classic blues
+  - modern blues
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/jimmie_vaughan.jpg
 last_updated: '2026-03-05T02:01:59.500082'
 musical_connections:
   collaborators:
-  - Kim Wilson
-  - Keith Ferguson
-  - Mike Buck
-  - Lou Ann Barton
-  - Stevie Ray Vaughan
-  - Nile Rodgers
-  - Bill Carter
+    - Kim Wilson
+    - Keith Ferguson
+    - Mike Buck
+    - Lou Ann Barton
+    - Stevie Ray Vaughan
+    - Nile Rodgers
+    - Bill Carter
   influenced:
-  - B.B. King, Etta James, Buddy Guy
+    - 'B.B. King, Etta James, Buddy Guy'
   mentors:
-  - Freddie King
-  - Albert King
-  - B.B. King
-  - Johnny 'Guitar' Watson
+    - Freddie King
+    - Albert King
+    - B.B. King
+    - Johnny 'Guitar' Watson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bluesguitarinsider.com/blues-guitarists/jimmie-vaughan
-- https://learnguitarcafe.com/jimmie-vaughan/
-- https://www.texasmonthly.com/articles/jimmie-vaughan/
-- https://www.jimmievaughan.com/jimmie-vaughan-biography
-- https://www.thestoryoftexas.com/discover/texas-story-project/jimmie-vaughan
-- https://www.premierguitar.com/artists/jimmie-vaughan-emperor-of-tone
-- https://txmusic.com/the-jimmie-vaughan-story/
+  - 'https://www.bluesguitarinsider.com/blues-guitarists/jimmie-vaughan'
+  - 'https://learnguitarcafe.com/jimmie-vaughan/'
+  - 'https://www.texasmonthly.com/articles/jimmie-vaughan/'
+  - 'https://www.jimmievaughan.com/jimmie-vaughan-biography'
+  - 'https://www.thestoryoftexas.com/discover/texas-story-project/jimmie-vaughan'
+  - 'https://www.premierguitar.com/artists/jimmie-vaughan-emperor-of-tone'
+  - 'https://txmusic.com/the-jimmie-vaughan-story/'
 spotify_data:
   followers: 154291
   id: 4gPGI1vW8TOypARV9Ykzae
   popularity: 40
-  url: https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae
+  url: 'https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae'
 status: active
-title: jimmie vaughan
+title: Jimmie Vaughan
+birth_date: '1951-03-20'
+artist_type: person
 ---
 
 ![](jimmie_vaughan.jpg)

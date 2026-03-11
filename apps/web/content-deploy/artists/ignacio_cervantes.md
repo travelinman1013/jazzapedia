@@ -2,51 +2,55 @@
 artist_type: person
 biography_enhanced_at: '2026-02-25T01:59:46.067157'
 birth_date: '1847-07-31'
-birth_place: La Habana
+birth_place: 'Havana, Cuba, United States'
 death_date: '1905-04-29'
 disambiguation: Cuban composer
 enhancement_provider: perplexity
 entry_created: '2026-02-25T01:59:46.067167'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0836f513-b371-4810-a87e-0dd316340560
-  spotify: https://open.spotify.com/artist/5l46dLkIfDPuhzzZB1SLnk
-  wikipedia: https://en.wikipedia.org/wiki/Ignacio_Cervantes
+  musicbrainz: 'https://musicbrainz.org/artist/0836f513-b371-4810-a87e-0dd316340560'
+  spotify: 'https://open.spotify.com/artist/5l46dLkIfDPuhzzZB1SLnk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ignacio_Cervantes'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ignacio_cervantes.jpg
 last_updated: '2026-02-25T01:59:46.067169'
 musical_connections:
   collaborators:
-  - José White
-  - Christina Nilsson
-  - Adelina Patti
+    - José White
+    - Christina Nilsson
+    - Adelina Patti
   influenced:
-  - María Cervantes
+    - María Cervantes
   mentors:
-  - Juan Miguel Joval
-  - Nicolás Ruiz Espadero
-  - Louis Moreau Gottschalk
-  - Charles-Valentin Alkan
-  - Antoine François Marmontel
+    - Juan Miguel Joval
+    - Nicolás Ruiz Espadero
+    - Louis Moreau Gottschalk
+    - Charles-Valentin Alkan
+    - Antoine François Marmontel
 musicbrainz_id: 0836f513-b371-4810-a87e-0dd316340560
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.radioenciclopedia.cu/cultural-news/ignacio-cervantes-and-his-devotion-to-cuba-31072025/
-- https://en.wikipedia.org/wiki/Ignacio_Cervantes
-- https://www.motivgruppe-musik.com/en/2022/07/
-- https://www.windrep.org/Ignacio_Cervantes
-- https://www.allmusic.com/artist/ignacio-cervantes-mn0001513479
-- https://maestroramirezpublishing.com/ignacio-cervantes-the-first-virtuoso-cuban-pianist-of-the-19th-century-romantic-era
-- https://www.lahabana.gob.cu/post_detalles/en/11499/nace-en-la-habana-ignacio-cervantes-kawanagh
-- https://www.naxos.com/Bio/Person/Ignacio_Cervantes/29040
+  - >-
+    https://www.radioenciclopedia.cu/cultural-news/ignacio-cervantes-and-his-devotion-to-cuba-31072025/
+  - 'https://en.wikipedia.org/wiki/Ignacio_Cervantes'
+  - 'https://www.motivgruppe-musik.com/en/2022/07/'
+  - 'https://www.windrep.org/Ignacio_Cervantes'
+  - 'https://www.allmusic.com/artist/ignacio-cervantes-mn0001513479'
+  - >-
+    https://maestroramirezpublishing.com/ignacio-cervantes-the-first-virtuoso-cuban-pianist-of-the-19th-century-romantic-era
+  - >-
+    https://www.lahabana.gob.cu/post_detalles/en/11499/nace-en-la-habana-ignacio-cervantes-kawanagh
+  - 'https://www.naxos.com/Bio/Person/Ignacio_Cervantes/29040'
 spotify_data:
   followers: 1750
   id: 5l46dLkIfDPuhzzZB1SLnk
   popularity: 11
-  url: https://open.spotify.com/artist/5l46dLkIfDPuhzzZB1SLnk
+  url: 'https://open.spotify.com/artist/5l46dLkIfDPuhzzZB1SLnk'
 status: active
 title: Ignacio Cervantes
+is_active: false
 ---
 
 ![](ignacio_cervantes.jpg)

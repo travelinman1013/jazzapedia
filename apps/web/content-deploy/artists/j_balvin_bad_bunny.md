@@ -3,41 +3,47 @@ biography_enhanced_at: '2026-02-10T01:56:40.644772'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:56:40.644779'
 external_urls:
-  spotify: https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5
-  wikipedia: https://en.wikipedia.org/wiki/J_Balvin
+  spotify: 'https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5'
+  wikipedia: 'https://en.wikipedia.org/wiki/J_Balvin'
 genres:
-- reggaeton
-- latin
+  - reggaeton
+  - latin
 image_path: 03_Resources/source_material/ArtistPortraits/j_balvin_bad_bunny.jpg
 last_updated: '2026-02-10T01:56:40.644780'
 musical_connections:
   collaborators:
-  - Cardi B
-  - Farruko
-  - Drake
-  - Shakira
+    - Cardi B
+    - Farruko
+    - Drake
+    - Shakira
   influenced:
-  - Karol G
+    - Karol G
   mentors:
-  - DJ Luian
+    - DJ Luian
 network_extracted: true
-origin: Medellín, Antioquia, Colombia (J Balvin birthplace) / San Juan, Puerto Rico
+origin: >-
+  Medellín, Antioquia, Colombia (J Balvin birthplace) / San Juan, Puerto Rico
   (Bad Bunny birthplace)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/J_Balvin
-- https://www.biography.com/musicians/bad-bunny
-- https://www.britannica.com/biography/Bad-Bunny-singer-and-songwriter
-- https://news.harvard.edu/gazette/story/2026/02/how-bad-bunny-rocketed-to-global-stardom/
-- https://remezcla.com/lists/music/a-timeline-of-bad-bunnys-biggest-career-moments-from-charts-to-protests-and-more/
-- https://latinitasmagazine.org/bad-bunny-from-the-island-to-an-inspiration/
+  - 'https://en.wikipedia.org/wiki/J_Balvin'
+  - 'https://www.biography.com/musicians/bad-bunny'
+  - 'https://www.britannica.com/biography/Bad-Bunny-singer-and-songwriter'
+  - >-
+    https://news.harvard.edu/gazette/story/2026/02/how-bad-bunny-rocketed-to-global-stardom/
+  - >-
+    https://remezcla.com/lists/music/a-timeline-of-bad-bunnys-biggest-career-moments-from-charts-to-protests-and-more/
+  - 'https://latinitasmagazine.org/bad-bunny-from-the-island-to-an-inspiration/'
 spotify_data:
   followers: 39955797
   id: 1vyhD5VmyZ7KMfW5gqLgo5
   popularity: 89
-  url: https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5
+  url: 'https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5'
 status: active
 title: J Balvin/ Bad Bunny
+birth_place: 'Medellín, Antioquia, Colombia'
+birth_date: '1985-05-07'
+artist_type: band
 ---
 
 ![](j_balvin_bad_bunny.jpg)

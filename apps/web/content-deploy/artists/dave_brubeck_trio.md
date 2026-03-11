@@ -1,43 +1,47 @@
 ---
 biography_enhanced_at: '2026-03-02T01:13:12.640380'
-birth_place: Concord, California, USA
+birth_place: 'Concord, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:13:12.640389'
 external_urls:
-  spotify: https://open.spotify.com/artist/0dvI5UOAa3FcQ78nmQYWbq
-  wikipedia: https://en.wikipedia.org/wiki/Dave_Brubeck
+  spotify: 'https://open.spotify.com/artist/0dvI5UOAa3FcQ78nmQYWbq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_Brubeck'
 genres:
-- jazz
-- cool jazz
+  - jazz
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/dave_brubeck_trio.jpg
 last_updated: '2026-03-02T01:13:12.640390'
 musical_connections:
   collaborators:
-  - Paul Desmond
-  - Cal Tjader
-  - Ron Crotty
-  - Eugene Wright
-  - Joe Morello
+    - Paul Desmond
+    - Cal Tjader
+    - Ron Crotty
+    - Eugene Wright
+    - Joe Morello
   influenced: []
   mentors:
-  - Darius Milhaud
+    - Darius Milhaud
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://themusicalheritagesociety.com/blogs/news/dave-brubeck-a-master-of-jazz-across-the-ages
-- https://www.arts.gov/honors/jazz/dave-brubeck
-- http://www.davebrubeckjazz.com/bio-/dave-brubeck-~-the-biography/Bio-1948~1967
-- https://www.davebrubeck.com/biography
-- https://connecticuthistory.org/take-five-with-dave-brubeck/
-- https://en.wikipedia.org/wiki/Dave_Brubeck
-- https://www.concordhistorical.org/honorary-board/dave-brubeck/
+  - >-
+    https://themusicalheritagesociety.com/blogs/news/dave-brubeck-a-master-of-jazz-across-the-ages
+  - 'https://www.arts.gov/honors/jazz/dave-brubeck'
+  - >-
+    http://www.davebrubeckjazz.com/bio-/dave-brubeck-~-the-biography/Bio-1948~1967
+  - 'https://www.davebrubeck.com/biography'
+  - 'https://connecticuthistory.org/take-five-with-dave-brubeck/'
+  - 'https://en.wikipedia.org/wiki/Dave_Brubeck'
+  - 'https://www.concordhistorical.org/honorary-board/dave-brubeck/'
 spotify_data:
   followers: 7713
   id: 0dvI5UOAa3FcQ78nmQYWbq
   popularity: 23
-  url: https://open.spotify.com/artist/0dvI5UOAa3FcQ78nmQYWbq
+  url: 'https://open.spotify.com/artist/0dvI5UOAa3FcQ78nmQYWbq'
 status: active
-title: DAVE BRUBECK TRIO
+title: Dave Brubeck Trio
+birth_date: '1920-12-06'
+artist_type: band
 ---
 
 ![](dave_brubeck_trio.jpg)

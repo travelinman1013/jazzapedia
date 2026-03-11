@@ -2,51 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-02-20T01:23:45.491263'
 birth_date: '1931-07-06'
-birth_place: Detroit
+birth_place: 'Detroit, Michigan, United States'
 death_date: '2017-11-19'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:23:45.491271'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f9328e7e-889f-4cc7-b56a-8d94cf0b8fe2
-  spotify: https://open.spotify.com/artist/63qOOnxbI8rVgpakjpnFBp
-  wikipedia: https://en.wikipedia.org/wiki/Della_Reese
+  musicbrainz: 'https://musicbrainz.org/artist/f9328e7e-889f-4cc7-b56a-8d94cf0b8fe2'
+  spotify: 'https://open.spotify.com/artist/63qOOnxbI8rVgpakjpnFBp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Della_Reese'
 gender: Female
 genres:
-- cha cha cha
+  - cha cha cha
 image_path: 03_Resources/source_material/ArtistPortraits/della_reese.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-02-20T01:23:45.491273'
 musical_connections:
   collaborators:
-  - Erskine Hawkins Orchestra
-  - The Meditation Singers
-  - Clara Ward Singers
-  - Roberta Martin Singers
+    - Erskine Hawkins Orchestra
+    - The Meditation Singers
+    - Clara Ward Singers
+    - Roberta Martin Singers
   influenced: []
   mentors:
-  - Mahalia Jackson
+    - Mahalia Jackson
 musicbrainz_id: f9328e7e-889f-4cc7-b56a-8d94cf0b8fe2
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Della_Reese
-- https://www.thehistorymakers.org/biography/della-reese-lett-38
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/della-reese
-- https://wbssmedia.com/artists/detail/1479
-- https://www.waybackattack.com/reesedella.html
-- https://syncopatedtimes.com/gospel-singer-della-reese-has-died/
-- https://www.last.fm/music/Della+Reese
+  - 'https://en.wikipedia.org/wiki/Della_Reese'
+  - 'https://www.thehistorymakers.org/biography/della-reese-lett-38'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/della-reese
+  - 'https://wbssmedia.com/artists/detail/1479'
+  - 'https://www.waybackattack.com/reesedella.html'
+  - 'https://syncopatedtimes.com/gospel-singer-della-reese-has-died/'
+  - 'https://www.last.fm/music/Della+Reese'
 spotify_data:
   followers: 23904
   id: 63qOOnxbI8rVgpakjpnFBp
   popularity: 34
-  url: https://open.spotify.com/artist/63qOOnxbI8rVgpakjpnFBp
+  url: 'https://open.spotify.com/artist/63qOOnxbI8rVgpakjpnFBp'
 status: active
 tags:
-- 2008 universal fire victim
-- jazz
-title: della reese
+  - 2008 universal fire victim
+  - jazz
+title: Della Reese
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](della_reese.jpg)

@@ -1,39 +1,42 @@
 ---
 biography_enhanced_at: '2026-03-02T01:11:52.675190'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:11:52.675197'
 external_urls:
-  spotify: https://open.spotify.com/artist/1FBIeYid13t8hqTdpiQ8tX
+  spotify: 'https://open.spotify.com/artist/1FBIeYid13t8hqTdpiQ8tX'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-03-02T01:11:52.675197'
 musical_connections:
   collaborators:
-  - Big 6 Brass Band
-  - Pinettes Brass Band (Original Pinette's Girl Power)
-  - Cha Wa
-  - Soul Rebels
-  - Tank and the Bangas
+    - Big 6 Brass Band
+    - Pinettes Brass Band (Original Pinette's Girl Power)
+    - Cha Wa
+    - Soul Rebels
+    - Tank and the Bangas
   influenced: []
   mentors:
-  - Galactic
+    - Galactic
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=jmU_eWuMdkM
-- https://antigravitymagazine.com/reviews/reviews-57/
-- https://www.offbeat.com/news/jamnola-announces-anjelika-jelly-joseph-as-its-music-ambassador/
-- https://www.neworleans.com/listing/anjelika-jelly-joseph/46298/
-- http://tidalwavebrassband.com
+  - 'https://www.youtube.com/watch?v=jmU_eWuMdkM'
+  - 'https://antigravitymagazine.com/reviews/reviews-57/'
+  - >-
+    https://www.offbeat.com/news/jamnola-announces-anjelika-jelly-joseph-as-its-music-ambassador/
+  - 'https://www.neworleans.com/listing/anjelika-jelly-joseph/46298/'
+  - 'http://tidalwavebrassband.com'
 spotify_data:
   followers: 189
   id: 1FBIeYid13t8hqTdpiQ8tX
   popularity: 14
-  url: https://open.spotify.com/artist/1FBIeYid13t8hqTdpiQ8tX
+  url: 'https://open.spotify.com/artist/1FBIeYid13t8hqTdpiQ8tX'
 status: active
-title: Anjelika Jelly Joseph, Tidal Wave Brass Band, Roca B
+title: Anjelika Jelly Joseph
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![]()

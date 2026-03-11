@@ -3,46 +3,52 @@ biography_enhanced_at: '2026-02-03T02:05:45.903630'
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:05:45.903645'
 external_urls:
-  spotify: https://open.spotify.com/artist/2EIYflgpX55dNp88SGldpT
+  spotify: 'https://open.spotify.com/artist/2EIYflgpX55dNp88SGldpT'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-02-03T02:05:45.903648'
 musical_connections:
   collaborators:
-  - Noah Hunt
-  - Joe Krown
-  - Doug Woolverton
-  - Charlie DiPuma
-  - Steve Potts
-  - Charles Hodges
-  - Darryl “DJ” Pruitt
-  - Stephen Stills
-  - Barry Goldberg
-  - Bob Corritore
+    - Noah Hunt
+    - Joe Krown
+    - Doug Woolverton
+    - Charlie DiPuma
+    - Steve Potts
+    - Charles Hodges
+    - Darryl “DJ” Pruitt
+    - Stephen Stills
+    - Barry Goldberg
+    - Bob Corritore
   influenced: []
   mentors:
-  - Muddy Waters
-  - John Lee Hooker
-  - Stevie Ray Vaughan
+    - Muddy Waters
+    - John Lee Hooker
+    - Stevie Ray Vaughan
 network_extracted: true
-origin: Northern Louisiana, USA
+origin: 'Northern Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.opry.com/artists/bobby-rush-kenny-wayne-shepherd
-- https://www.bluesblastmagazine.com/featured-interview-kenny-wayne-shepherd-and-bobby-rush/
-- https://www.kennywayneshepherd.net/articles/bobby-rush-and-kenny-wayne-shepherd-unite-together-on-new-blues-album-titled-young-fashioned-ways-available-on-march-21
-- https://www.bluebirdreviews.com/interviews/1202-
-- https://www.wildmercuryrhythm.com/p/kenny-wayne-shepherd-and-bobby-rush
-- http://georgegraham.com/reviews/rush-shepherd.html
-- https://www.wcbe.org/podcast/music-journeys/2025-05-06/music-journeys-bobby-rush-and-kenny-wayne-shepherd
+  - 'https://www.opry.com/artists/bobby-rush-kenny-wayne-shepherd'
+  - >-
+    https://www.bluesblastmagazine.com/featured-interview-kenny-wayne-shepherd-and-bobby-rush/
+  - >-
+    https://www.kennywayneshepherd.net/articles/bobby-rush-and-kenny-wayne-shepherd-unite-together-on-new-blues-album-titled-young-fashioned-ways-available-on-march-21
+  - 'https://www.bluebirdreviews.com/interviews/1202-'
+  - 'https://www.wildmercuryrhythm.com/p/kenny-wayne-shepherd-and-bobby-rush'
+  - 'http://georgegraham.com/reviews/rush-shepherd.html'
+  - >-
+    https://www.wcbe.org/podcast/music-journeys/2025-05-06/music-journeys-bobby-rush-and-kenny-wayne-shepherd
 spotify_data:
   followers: 19
   id: 2EIYflgpX55dNp88SGldpT
   popularity: 23
-  url: https://open.spotify.com/artist/2EIYflgpX55dNp88SGldpT
+  url: 'https://open.spotify.com/artist/2EIYflgpX55dNp88SGldpT'
 status: active
-title: BOBBY RUSH & KENNY WAYNE SHEPHERD
+title: Bobby Rush & Kenny Wayne Shepherd
+birth_place: 'Homer, Louisiana, United States'
+birth_date: '1933-11-10'
+artist_type: band
 ---
 
 ![]()

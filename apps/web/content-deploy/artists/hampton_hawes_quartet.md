@@ -1,54 +1,58 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-26T01:38:38.893255'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:38:38.893270'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f5ea70ff-900b-4321-88fc-246978bddcd4
-  spotify: https://open.spotify.com/artist/71bB4uKI5uQt6a2HOc5QhF
-  wikipedia: https://en.wikipedia.org/wiki/Hampton_Hawes
+  musicbrainz: 'https://musicbrainz.org/artist/f5ea70ff-900b-4321-88fc-246978bddcd4'
+  spotify: 'https://open.spotify.com/artist/71bB4uKI5uQt6a2HOc5QhF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hampton_Hawes'
 genres:
-- hard bop
-- bebop
+  - hard bop
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/hampton_hawes_quartet.jpg
 last_updated: '2026-01-26T01:38:38.893275'
 musical_connections:
   collaborators:
-  - Red Mitchell
-  - Chuck Thompson
-  - Jim Hall
-  - Dexter Gordon
-  - Shorty Rogers
-  - Art Pepper
+    - Red Mitchell
+    - Chuck Thompson
+    - Jim Hall
+    - Dexter Gordon
+    - Shorty Rogers
+    - Art Pepper
   influenced:
-  - Horace Silver
+    - Horace Silver
   mentors:
-  - Charlie Parker
-  - Howard McGhee
-  - Bud Powell
+    - Charlie Parker
+    - Howard McGhee
+    - Bud Powell
 musicbrainz_id: f5ea70ff-900b-4321-88fc-246978bddcd4
 network_extracted: true
-origin: Los Angeles, California, USA
+origin: 'Los Angeles, California, USA'
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/hampton-hawes-jazz-pianist-of-the-1950s/
-- https://en.wikipedia.org/wiki/Hampton_Hawes
-- https://www.allaboutjazz.com/musicians/hampton-hawes/
-- https://fromthevaults-boppinbob.blogspot.com/2025/11/hampton-hawes-born-13-november-1928.html
-- https://londonjazzcollector.wordpress.com/2020/09/01/hampton-hawes-here-and-now-1965-contemporary/
-- https://jazzresearch.com/hampton-hawes-memorial-by-pete-welding/
-- https://salt-peanuts.eu/record2have/hampton-hawes-quartet/
-- https://concord.com/artist/hampton-hawes/
-- https://www.udiscovermusic.com/stories/hampton-hawes-best-songs-feature/
+  - 'https://aaregistry.org/story/hampton-hawes-jazz-pianist-of-the-1950s/'
+  - 'https://en.wikipedia.org/wiki/Hampton_Hawes'
+  - 'https://www.allaboutjazz.com/musicians/hampton-hawes/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/11/hampton-hawes-born-13-november-1928.html
+  - >-
+    https://londonjazzcollector.wordpress.com/2020/09/01/hampton-hawes-here-and-now-1965-contemporary/
+  - 'https://jazzresearch.com/hampton-hawes-memorial-by-pete-welding/'
+  - 'https://salt-peanuts.eu/record2have/hampton-hawes-quartet/'
+  - 'https://concord.com/artist/hampton-hawes/'
+  - 'https://www.udiscovermusic.com/stories/hampton-hawes-best-songs-feature/'
 spotify_data:
   followers: 1160
   id: 71bB4uKI5uQt6a2HOc5QhF
   popularity: 4
-  url: https://open.spotify.com/artist/71bB4uKI5uQt6a2HOc5QhF
+  url: 'https://open.spotify.com/artist/71bB4uKI5uQt6a2HOc5QhF'
 status: active
 tags:
-- jazz
-title: HAMPTON HAWES QUARTET
+  - jazz
+title: Hampton Hawes Quartet
+birth_place: 'Los Angeles, California, United States'
+birth_date: '1928-11-13'
 ---
 
 ![](hampton_hawes_quartet.jpg)

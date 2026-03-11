@@ -1,46 +1,51 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2004'
-  end: '2007-05-12'
-  instruments: []
-  mbid: 7f76ddd0-fd30-470b-918e-9fd816d98291
-  name: Cowboy Mouth
+  - begin: '2004'
+    end: '2007-05-12'
+    instruments: []
+    mbid: 7f76ddd0-fd30-470b-918e-9fd816d98291
+    name: Cowboy Mouth
 biography_enhanced_at: '2026-01-24T01:58:59.144257'
-birth_place: Atlanta, Georgia, United States (current); New Orleans, Louisiana, United
+birth_place: >-
+  Atlanta, Georgia, United States (current); New Orleans, Louisiana, United
   States (origin)
 enhancement_provider: perplexity
 entry_created: '2026-01-24T01:58:59.144263'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9f1cdc2f-0457-44c2-9b75-be76e82fe9f5
-  spotify: https://open.spotify.com/artist/1BHwm1Zmk1XJ3wctv710pS
+  musicbrainz: 'https://musicbrainz.org/artist/9f1cdc2f-0457-44c2-9b75-be76e82fe9f5'
+  spotify: 'https://open.spotify.com/artist/1BHwm1Zmk1XJ3wctv710pS'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sonia_tetlow.jpg
 last_updated: '2026-01-24T01:58:59.144264'
 musical_connections:
   collaborators:
-  - Cowboy Mouth
+    - Cowboy Mouth
   influenced: []
   mentors: []
 musicbrainz_id: 9f1cdc2f-0457-44c2-9b75-be76e82fe9f5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://theboot.com/album-review-sonia-tetlow-ushers-in-better-days-with-hopeful-new-album/
-- https://bigcat953.com/album-review-sonia-tetlow-ushers-in-better-days-with-hopeful-new-album/
-- https://biographycentral.com/biography/sonia_tetlow
-- https://filamenttheatre.org/2015concerts/
-- https://creativeloafing.com/content-163858-sonia-tetlow-s-top-zeppelin-tunes
-- https://open.spotify.com/artist/1BHwm1Zmk1XJ3wctv710pS
-- https://music.amazon.com/podcasts/bebe080b-82f9-4a83-b2c4-1bfdded8b99c/episodes/71da029d-c6ad-49c7-8d2c-2981b27dd978/ranking-the-beatles-125-fixing-a-hole-w-guest-sonia-tetlow-singer-songwriter-musician
+  - >-
+    https://theboot.com/album-review-sonia-tetlow-ushers-in-better-days-with-hopeful-new-album/
+  - >-
+    https://bigcat953.com/album-review-sonia-tetlow-ushers-in-better-days-with-hopeful-new-album/
+  - 'https://biographycentral.com/biography/sonia_tetlow'
+  - 'https://filamenttheatre.org/2015concerts/'
+  - 'https://creativeloafing.com/content-163858-sonia-tetlow-s-top-zeppelin-tunes'
+  - 'https://open.spotify.com/artist/1BHwm1Zmk1XJ3wctv710pS'
+  - >-
+    https://music.amazon.com/podcasts/bebe080b-82f9-4a83-b2c4-1bfdded8b99c/episodes/71da029d-c6ad-49c7-8d2c-2981b27dd978/ranking-the-beatles-125-fixing-a-hole-w-guest-sonia-tetlow-singer-songwriter-musician
 spotify_data:
   followers: 82
   id: 1BHwm1Zmk1XJ3wctv710pS
   popularity: 0
-  url: https://open.spotify.com/artist/1BHwm1Zmk1XJ3wctv710pS
+  url: 'https://open.spotify.com/artist/1BHwm1Zmk1XJ3wctv710pS'
 status: active
-title: sonia tetlow
+title: Sonia Tetlow
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](sonia_tetlow.jpg)

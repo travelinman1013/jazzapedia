@@ -1,13 +1,13 @@
 ---
 biography_enhanced_at: '2026-02-09T01:23:43.241339'
-birth_place: Calgary, Alberta, Canada
+birth_place: 'Calgary, Alberta, Canada'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:23:43.241352'
 external_urls:
-  spotify: https://open.spotify.com/artist/7FJTFpFmoOkkSTNA6TleL6
+  spotify: 'https://open.spotify.com/artist/7FJTFpFmoOkkSTNA6TleL6'
   wikipedia: ''
 genres:
-- soul blues
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/marcus_trummer.jpg
 last_updated: '2026-02-09T01:23:43.241354'
 musical_connections:
@@ -17,20 +17,23 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.albertamusic.org/directory-profile/marcus-trummer/
-- https://blues.gr/profiles/blogs/q-a-with-canadian-musician-marcus-trummer-modern-sensibilities-wi
-- https://yardbirdsuite.com/shows/marcus-trummer/
-- https://marcustrummermusic.com
-- https://bluesrockreview.com/2024/11/marcus-trummer-from-the-start-review.html
-- https://www.youtube.com/watch?v=spZwGxJ0KDI
-- https://www.stompthebluesoutofhomelessness.com/bands/marcus-trummer
+  - 'https://www.albertamusic.org/directory-profile/marcus-trummer/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-canadian-musician-marcus-trummer-modern-sensibilities-wi
+  - 'https://yardbirdsuite.com/shows/marcus-trummer/'
+  - 'https://marcustrummermusic.com'
+  - >-
+    https://bluesrockreview.com/2024/11/marcus-trummer-from-the-start-review.html
+  - 'https://www.youtube.com/watch?v=spZwGxJ0KDI'
+  - 'https://www.stompthebluesoutofhomelessness.com/bands/marcus-trummer'
 spotify_data:
   followers: 1906
   id: 7FJTFpFmoOkkSTNA6TleL6
   popularity: 27
-  url: https://open.spotify.com/artist/7FJTFpFmoOkkSTNA6TleL6
+  url: 'https://open.spotify.com/artist/7FJTFpFmoOkkSTNA6TleL6'
 status: active
 title: Marcus Trummer
+artist_type: person
 ---
 
 ![](marcus_trummer.jpg)

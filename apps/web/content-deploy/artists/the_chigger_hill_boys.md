@@ -1,49 +1,53 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-02T01:42:11.641663'
 enhancement_provider: perplexity
 entry_created: '2026-02-02T01:42:11.641672'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/13aee01a-4ef2-4c82-baf8-8a34060f98f9
-  spotify: https://open.spotify.com/artist/6YbR4Aco4m7MTbl72qiuy8
+  musicbrainz: 'https://musicbrainz.org/artist/13aee01a-4ef2-4c82-baf8-8a34060f98f9'
+  spotify: 'https://open.spotify.com/artist/6YbR4Aco4m7MTbl72qiuy8'
   wikipedia: ''
 genres:
-- christian bluegrass
-- southern gospel
-- country christian
-- bluegrass
+  - christian bluegrass
+  - southern gospel
+  - country christian
+  - bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/the_chigger_hill_boys.jpg
 last_updated: '2026-02-02T01:42:11.641674'
 musical_connections:
   collaborators:
-  - Jim Britton
-  - Ricky Gore
-  - Mike Richards
-  - Ben Rochester
-  - Andy Leftwich
-  - Greg Cole
-  - Travis Alltop
+    - Jim Britton
+    - Ricky Gore
+    - Mike Richards
+    - Ben Rochester
+    - Andy Leftwich
+    - Greg Cole
+    - Travis Alltop
   influenced: []
   mentors: []
 musicbrainz_id: 13aee01a-4ef2-4c82-baf8-8a34060f98f9
 network_extracted: true
-origin: Hendersonville, Tennessee, USA
+origin: 'Hendersonville, Tennessee, USA'
 primary_source: perplexity
 research_sources:
-- https://www.invubu.com/music/show/artist/The-Chigger-Hill-Boys-and-Terri.html
-- https://americana-uk.com/the-chigger-hill-boys-and-terri-my-path-was-paved-by-the-blood-of-the-lamb-bluegrass-perfection
-- https://bluegrasstoday.com/every-good-path-chigger-hill-boys-terri/
-- https://chiggerhill.com
-- https://syntaxcreative.com/music/the-chigger-hill-boys-terri-nothing-quite-as-amazing-as-grace/
-- https://americansongwriter.com/the-chigger-hill-boys-and-terri-indescribable/
-- https://alancackett.com/the-chigger-hill-boys-terri-every-good-path
+  - >-
+    https://www.invubu.com/music/show/artist/The-Chigger-Hill-Boys-and-Terri.html
+  - >-
+    https://americana-uk.com/the-chigger-hill-boys-and-terri-my-path-was-paved-by-the-blood-of-the-lamb-bluegrass-perfection
+  - 'https://bluegrasstoday.com/every-good-path-chigger-hill-boys-terri/'
+  - 'https://chiggerhill.com'
+  - >-
+    https://syntaxcreative.com/music/the-chigger-hill-boys-terri-nothing-quite-as-amazing-as-grace/
+  - >-
+    https://americansongwriter.com/the-chigger-hill-boys-and-terri-indescribable/
+  - 'https://alancackett.com/the-chigger-hill-boys-terri-every-good-path'
 spotify_data:
   followers: 689
   id: 6YbR4Aco4m7MTbl72qiuy8
   popularity: 14
-  url: https://open.spotify.com/artist/6YbR4Aco4m7MTbl72qiuy8
+  url: 'https://open.spotify.com/artist/6YbR4Aco4m7MTbl72qiuy8'
 status: active
-title: THE CHIGGER HILL BOYS
+title: The Chigger Hill Boys
 ---
 
 ![](the_chigger_hill_boys.jpg)

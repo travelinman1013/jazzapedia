@@ -2,56 +2,58 @@
 artist_type: person
 biography_enhanced_at: '2026-02-22T01:49:49.659553'
 birth_date: '1946-11-05'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '2011-03-21'
 enhancement_provider: perplexity
 entry_created: '2026-02-22T01:49:49.659564'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/346fa4f6-3f10-40ec-b8d0-4666e4e8b094
-  spotify: https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc
+  musicbrainz: 'https://musicbrainz.org/artist/346fa4f6-3f10-40ec-b8d0-4666e4e8b094'
+  spotify: 'https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc'
   wikipedia: ''
 gender: Female
 genres:
-- philly soul
-- disco
-- chicago house
-- post-disco
-- disco house
+  - philly soul
+  - disco
+  - chicago house
+  - post-disco
+  - disco house
 image_path: 03_Resources/source_material/ArtistPortraits/loleatta_holloway.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-02-22T01:49:49.659565'
 musical_connections:
   collaborators:
-  - Norman Harris
-  - Dan Hartman
-  - Tom Moulton
+    - Norman Harris
+    - Dan Hartman
+    - Tom Moulton
   influenced:
-  - Black Box
+    - Black Box
   mentors:
-  - Albertina Walker
-  - Floyd Smith
+    - Albertina Walker
+    - Floyd Smith
 musicbrainz_id: 346fa4f6-3f10-40ec-b8d0-4666e4e8b094
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://daily.redbullmusicacademy.com/2018/01/loleatta-holloway-interview/
-- https://godsmusicismylife.substack.com/p/go-deep-in-your-soul-loleatta-holloways
-- https://ftp2.grandis.nu/funkyflyy/holloway.html
-- https://www.disco-disco.com/artists/loleatta.shtml
-- https://throwbackchicago.com/artist/346fa4f6-3f10-40ec-b8d0-4666e4e8b094
-- https://music.fandom.com/wiki/Loleatta_Holloway
+  - 'https://daily.redbullmusicacademy.com/2018/01/loleatta-holloway-interview/'
+  - >-
+    https://godsmusicismylife.substack.com/p/go-deep-in-your-soul-loleatta-holloways
+  - 'https://ftp2.grandis.nu/funkyflyy/holloway.html'
+  - 'https://www.disco-disco.com/artists/loleatta.shtml'
+  - 'https://throwbackchicago.com/artist/346fa4f6-3f10-40ec-b8d0-4666e4e8b094'
+  - 'https://music.fandom.com/wiki/Loleatta_Holloway'
 spotify_data:
   followers: 53551
   id: 3m5hegxlB80Z2zQb1893pc
   popularity: 47
-  url: https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc
+  url: 'https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc'
 status: active
 tags:
-- disco
-- r&b
-- soul
+  - disco
+  - r&b
+  - soul
 title: Loleatta Holloway
+is_active: false
 ---
 
 ![](loleatta_holloway.jpg)

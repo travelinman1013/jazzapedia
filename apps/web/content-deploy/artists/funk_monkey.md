@@ -3,37 +3,38 @@ biography_enhanced_at: '2026-02-21T01:34:57.533129'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:34:57.533140'
 external_urls:
-  spotify: https://open.spotify.com/artist/2GJcnCLvZlRHhspZjMZa8f
+  spotify: 'https://open.spotify.com/artist/2GJcnCLvZlRHhspZjMZa8f'
   wikipedia: null
 genres:
-- jazz funk
+  - jazz funk
 image_path: 03_Resources/source_material/ArtistPortraits/funk_monkey.jpg
 last_updated: '2026-02-21T01:34:57.533142'
 musical_connections:
   collaborators:
-  - Greg Hicks
-  - Bert Cotton
-  - Brad Walker
-  - Rik Fletcher
-  - David Pomerleau
-  - Eddie Christmas
-  - Tracey Freeman
+    - Greg Hicks
+    - Bert Cotton
+    - Brad Walker
+    - Rik Fletcher
+    - David Pomerleau
+    - Eddie Christmas
+    - Tracey Freeman
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.louisianamusicfactory.com/product/funk-monkey-funk-monkey-ep/
-- https://thefunkyuncle.live/artist/funk-monkey/
-- https://www.allaboutjazz.com/musicians/funk-monkey/
+  - 'https://www.louisianamusicfactory.com/product/funk-monkey-funk-monkey-ep/'
+  - 'https://thefunkyuncle.live/artist/funk-monkey/'
+  - 'https://www.allaboutjazz.com/musicians/funk-monkey/'
 spotify_data:
   followers: 201
   id: 2GJcnCLvZlRHhspZjMZa8f
   popularity: 0
-  url: https://open.spotify.com/artist/2GJcnCLvZlRHhspZjMZa8f
+  url: 'https://open.spotify.com/artist/2GJcnCLvZlRHhspZjMZa8f'
 status: active
-title: funk monkey
+title: Funk Monkey
+artist_type: band
 ---
 
 ![](funk_monkey.jpg)

@@ -1,124 +1,127 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f6ff5059-6844-4a79-8287-13d46c35b437
-  name: Chris McGregor’s Brotherhood of Breath
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 477ab381-3848-4596-a10c-c37e9d054897
-  name: The Blue Notes
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - other vocals
-  mbid: e34dcbeb-b2b4-4bd2-9890-dd28c098da95
-  name: Dudu Pukwana & Spear
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  - eponymous
-  - original
-  mbid: e34dcbeb-b2b4-4bd2-9890-dd28c098da95
-  name: Dudu Pukwana & Spear
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - percussion
-  mbid: e34dcbeb-b2b4-4bd2-9890-dd28c098da95
-  name: Dudu Pukwana & Spear
-- begin: ''
-  end: ''
-  instruments:
-  - congas
-  - eponymous
-  - original
-  mbid: e34dcbeb-b2b4-4bd2-9890-dd28c098da95
-  name: Dudu Pukwana & Spear
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: e34dcbeb-b2b4-4bd2-9890-dd28c098da95
-  name: Dudu Pukwana & Spear
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 7123a900-2e38-4d17-bf60-6002bc1c932f
-  name: Assagai
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 7123a900-2e38-4d17-bf60-6002bc1c932f
-  name: Assagai
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f6ff5059-6844-4a79-8287-13d46c35b437
+    name: Chris McGregor’s Brotherhood of Breath
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 477ab381-3848-4596-a10c-c37e9d054897
+    name: The Blue Notes
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - other vocals
+    mbid: e34dcbeb-b2b4-4bd2-9890-dd28c098da95
+    name: Dudu Pukwana & Spear
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+      - eponymous
+      - original
+    mbid: e34dcbeb-b2b4-4bd2-9890-dd28c098da95
+    name: Dudu Pukwana & Spear
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - percussion
+    mbid: e34dcbeb-b2b4-4bd2-9890-dd28c098da95
+    name: Dudu Pukwana & Spear
+  - begin: ''
+    end: ''
+    instruments:
+      - congas
+      - eponymous
+      - original
+    mbid: e34dcbeb-b2b4-4bd2-9890-dd28c098da95
+    name: Dudu Pukwana & Spear
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: e34dcbeb-b2b4-4bd2-9890-dd28c098da95
+    name: Dudu Pukwana & Spear
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 7123a900-2e38-4d17-bf60-6002bc1c932f
+    name: Assagai
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 7123a900-2e38-4d17-bf60-6002bc1c932f
+    name: Assagai
 biography_enhanced_at: '2026-02-06T01:06:50.973148'
 birth_date: '1938-07-18'
-birth_place: Port Elizabeth
+birth_place: 'Port Elizabeth, Eastern Cape, South Africa'
 death_date: '1990-06-30'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:06:50.973157'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/71cb2a81-76bf-4147-a084-f33ab74a6938
-  spotify: https://open.spotify.com/artist/6bW73aNRCae7jPJF1Dxy9F
-  wikipedia: https://en.wikipedia.org/wiki/Dudu_Pukwana
+  musicbrainz: 'https://musicbrainz.org/artist/71cb2a81-76bf-4147-a084-f33ab74a6938'
+  spotify: 'https://open.spotify.com/artist/6bW73aNRCae7jPJF1Dxy9F'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dudu_Pukwana'
 gender: Male
 genres:
-- free jazz
-- experimental jazz
+  - free jazz
+  - experimental jazz
 image_path: 03_Resources/source_material/ArtistPortraits/dudu_pukwana.jpg
 instruments:
-- alto saxophone
-- eponymous
-- original
-- other vocals
-- percussion
-- congas
-- piano
+  - alto saxophone
+  - eponymous
+  - original
+  - other vocals
+  - percussion
+  - congas
+  - piano
 last_updated: '2026-02-06T01:06:50.973160'
 musical_connections:
   collaborators:
-  - Mongezi Feza
-  - Louis Moholo
-  - Johnny Dyani
-  - Pinise Saul
-  - Lucky Ranku
-  - Hugh Masekela
-  - Don Cherry
-  - John Stevens
+    - Mongezi Feza
+    - Louis Moholo
+    - Johnny Dyani
+    - Pinise Saul
+    - Lucky Ranku
+    - Hugh Masekela
+    - Don Cherry
+    - John Stevens
   influenced: []
   mentors:
-  - Chris McGregor
-  - Nikele Moyake
+    - Chris McGregor
+    - Nikele Moyake
 musicbrainz_id: 71cb2a81-76bf-4147-a084-f33ab74a6938
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sahistory.org.za/people/mtutuzeli-dudu-pukwana
-- https://sahistory.org.za/article/biography-mtutuzeli-dudu-pukwana-nick-mencia
-- https://en.wikipedia.org/wiki/Dudu_Pukwana
-- https://sisgwenjazz.wordpress.com/2020/06/30/30-june-dudu-pukwana-in-my-mind/
+  - 'https://sahistory.org.za/people/mtutuzeli-dudu-pukwana'
+  - >-
+    https://sahistory.org.za/article/biography-mtutuzeli-dudu-pukwana-nick-mencia
+  - 'https://en.wikipedia.org/wiki/Dudu_Pukwana'
+  - >-
+    https://sisgwenjazz.wordpress.com/2020/06/30/30-june-dudu-pukwana-in-my-mind/
 spotify_data:
   followers: 2329
   id: 6bW73aNRCae7jPJF1Dxy9F
   popularity: 8
-  url: https://open.spotify.com/artist/6bW73aNRCae7jPJF1Dxy9F
+  url: 'https://open.spotify.com/artist/6bW73aNRCae7jPJF1Dxy9F'
 status: active
 tags:
-- jazz
+  - jazz
 title: Dudu Pukwana
+is_active: false
 ---
 
 ![](dudu_pukwana.jpg)

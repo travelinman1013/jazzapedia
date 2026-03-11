@@ -1,13 +1,13 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-03-04T01:44:35.161884'
-birth_place: Texas, United States (raised)
+birth_place: 'Texas, United States (raised)'
 disambiguation: Emily Shlesinger
 enhancement_provider: perplexity
 entry_created: '2026-03-04T01:44:35.161894'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2acb90d1-0c96-4cf2-9f34-b4dcb73f1e7d
-  spotify: https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL
+  musicbrainz: 'https://musicbrainz.org/artist/2acb90d1-0c96-4cf2-9f34-b4dcb73f1e7d'
+  spotify: 'https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL'
   wikipedia: ''
 gender: Female
 genres: []
@@ -15,25 +15,29 @@ image_path: 03_Resources/source_material/ArtistPortraits/emeryld.jpg
 last_updated: '2026-03-04T01:44:35.161896'
 musical_connections:
   collaborators:
-  - EarthGang
+    - EarthGang
   influenced: []
   mentors: []
 musicbrainz_id: 2acb90d1-0c96-4cf2-9f34-b4dcb73f1e7d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://amplifymusicmag.com/photos-lola-young-and-emeryld-at-the-commodore-in-vancouver/
-- https://www.flaunt.com/blog/music-weekend-recall-emeryld
-- https://www.wwaytv3.com/local-events/page/16095/?_evDiscoveryPath=%2Fevent%2F106678225n-emeryld-girl-from-the-internet-tour
-- https://credits.muso.ai/profile/1921f6e4-d07f-4bae-bb71-c2181297b59d
-- https://www.hotnewhiphop.com/165936-emeryld-and-earthgang-get-reflective-on-hope-youre-happy-new-song
+  - >-
+    https://amplifymusicmag.com/photos-lola-young-and-emeryld-at-the-commodore-in-vancouver/
+  - 'https://www.flaunt.com/blog/music-weekend-recall-emeryld'
+  - >-
+    https://www.wwaytv3.com/local-events/page/16095/?_evDiscoveryPath=%2Fevent%2F106678225n-emeryld-girl-from-the-internet-tour
+  - 'https://credits.muso.ai/profile/1921f6e4-d07f-4bae-bb71-c2181297b59d'
+  - >-
+    https://www.hotnewhiphop.com/165936-emeryld-and-earthgang-get-reflective-on-hope-youre-happy-new-song
 spotify_data:
   followers: 12009
   id: 3YTUk9oIDoAe5VFfgUS5UL
   popularity: 16
-  url: https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL
+  url: 'https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL'
 status: active
 title: Emeryld
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](emeryld.jpg)

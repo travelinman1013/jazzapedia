@@ -3,34 +3,35 @@ biography_enhanced_at: '2026-01-28T01:51:59.440072'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:51:59.440083'
 external_urls:
-  spotify: https://open.spotify.com/artist/43dTmw89IyFkS4vuDA2Vvf
+  spotify: 'https://open.spotify.com/artist/43dTmw89IyFkS4vuDA2Vvf'
   wikipedia: ''
 genres:
-- german indie
-- german indie pop
+  - german indie
+  - german indie pop
 image_path: 03_Resources/source_material/ArtistPortraits/schatzy.jpg
 last_updated: '2026-01-28T01:51:59.440084'
 musical_connections:
   collaborators:
-  - Christian Kyle
-  - Montez Williams
-  - Jason Westbrook
-  - Jason Altman
+    - Christian Kyle
+    - Montez Williams
+    - Jason Westbrook
+    - Jason Altman
   influenced: []
   mentors: []
 network_extracted: true
-origin: Austin, TX, United States
+origin: 'Austin, TX, United States'
 primary_source: perplexity
 research_sources:
-- https://getsongkey.com/artist/schatzi/gm23
-- https://www.musicmetricsvault.com/artists/schatzi/43dTmw89IyFkS4vuDA2Vvf
+  - 'https://getsongkey.com/artist/schatzi/gm23'
+  - 'https://www.musicmetricsvault.com/artists/schatzi/43dTmw89IyFkS4vuDA2Vvf'
 spotify_data:
   followers: 1155
   id: 43dTmw89IyFkS4vuDA2Vvf
   popularity: 6
-  url: https://open.spotify.com/artist/43dTmw89IyFkS4vuDA2Vvf
+  url: 'https://open.spotify.com/artist/43dTmw89IyFkS4vuDA2Vvf'
 status: active
-title: Schatzy
+title: Schatzi
+artist_type: band
 ---
 
 ![](schatzy.jpg)

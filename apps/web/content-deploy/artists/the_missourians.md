@@ -3,34 +3,35 @@ biography_enhanced_at: '2026-02-19T01:57:34.296525'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:57:34.296535'
 external_urls:
-  spotify: https://open.spotify.com/artist/4NreoePgZGKk6tDqst9n8h
+  spotify: 'https://open.spotify.com/artist/4NreoePgZGKk6tDqst9n8h'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/the_missourians.jpg
 last_updated: '2026-02-19T01:57:34.296537'
 musical_connections:
   collaborators:
-  - Andy Preer
-  - Lockwood Lewis
-  - Cab Calloway
-  - Ethel Waters
+    - Andy Preer
+    - Lockwood Lewis
+    - Cab Calloway
+    - Ethel Waters
   influenced: []
   mentors:
-  - Bennie Moten
+    - Bennie Moten
 network_extracted: true
-origin: Kansas City area, Missouri, USA
+origin: 'Kansas City area, Missouri, USA'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/focus-on-the-missourians/
-- https://syncopatedtimes.com/the-missourians/
+  - 'https://syncopatedtimes.com/focus-on-the-missourians/'
+  - 'https://syncopatedtimes.com/the-missourians/'
 spotify_data:
   followers: 726
   id: 4NreoePgZGKk6tDqst9n8h
   popularity: 7
-  url: https://open.spotify.com/artist/4NreoePgZGKk6tDqst9n8h
+  url: 'https://open.spotify.com/artist/4NreoePgZGKk6tDqst9n8h'
 status: active
-title: THE MISSOURIANS
+title: The Missourians
+artist_type: band
 ---
 
 ![](the_missourians.jpg)

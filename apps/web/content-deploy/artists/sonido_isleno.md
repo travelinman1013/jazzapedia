@@ -3,38 +3,43 @@ biography_enhanced_at: '2026-01-25T01:36:26.021006'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:36:26.021014'
 external_urls:
-  spotify: https://open.spotify.com/artist/547qgBhsayuJn4sD5bTFx6
+  spotify: 'https://open.spotify.com/artist/547qgBhsayuJn4sD5bTFx6'
   wikipedia: Not found in search results
 genres:
-- latin jazz
-- son cubano
+  - latin jazz
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/sonido_isleno.jpg
 last_updated: '2026-01-25T01:36:26.021015'
 musical_connections:
   collaborators:
-  - Alex Torres
-  - Hector Torres
+    - Alex Torres
+    - Hector Torres
   influenced: []
   mentors:
-  - Larry Harlow
+    - Larry Harlow
 network_extracted: true
-origin: New York, United States (based on operations; draws cultural inspiration from
+origin: >-
+  New York, United States (based on operations; draws cultural inspiration from
   Caribbean/Isleño communities)
 primary_source: perplexity
 research_sources:
-- https://lsri.rutgers.edu/people/benjamin-lapidus/
-- https://www.musictogether.com/parents/song-story-ma-teodora
-- https://benjaminlapidus.com/sonido-isleno/
-- https://www.allaboutjazz.com/vive-jazz-sonido-isleo-tresero-productions-review-by-mark-f-turner
-- https://www.jjay.cuny.edu/news-events/news/professor-benjamin-lapidus-phd-highlights-remarkable-role-diversity-and-new-york-city-played-creating-new-latin-music-sound
-- https://jazzlatino.org/f/interview-with-jos%C3%A9-e-cruz-by-tom%C3%A1s-pe%C3%B1a
+  - 'https://lsri.rutgers.edu/people/benjamin-lapidus/'
+  - 'https://www.musictogether.com/parents/song-story-ma-teodora'
+  - 'https://benjaminlapidus.com/sonido-isleno/'
+  - >-
+    https://www.allaboutjazz.com/vive-jazz-sonido-isleo-tresero-productions-review-by-mark-f-turner
+  - >-
+    https://www.jjay.cuny.edu/news-events/news/professor-benjamin-lapidus-phd-highlights-remarkable-role-diversity-and-new-york-city-played-creating-new-latin-music-sound
+  - >-
+    https://jazzlatino.org/f/interview-with-jos%C3%A9-e-cruz-by-tom%C3%A1s-pe%C3%B1a
 spotify_data:
   followers: 78
   id: 547qgBhsayuJn4sD5bTFx6
   popularity: 1
-  url: https://open.spotify.com/artist/547qgBhsayuJn4sD5bTFx6
+  url: 'https://open.spotify.com/artist/547qgBhsayuJn4sD5bTFx6'
 status: active
 title: Sonido Isleno
+artist_type: person
 ---
 
 ![](sonido_isleno.jpg)

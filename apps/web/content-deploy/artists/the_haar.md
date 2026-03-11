@@ -3,41 +3,42 @@ biography_enhanced_at: '2026-03-02T01:15:18.904840'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:15:18.904849'
 external_urls:
-  spotify: https://open.spotify.com/artist/5u8ni2JF5Sa0qoIwln3pdB
+  spotify: 'https://open.spotify.com/artist/5u8ni2JF5Sa0qoIwln3pdB'
   wikipedia: null
 genres:
-- celtic
-- folk
+  - celtic
+  - folk
 image_path: 03_Resources/source_material/ArtistPortraits/the_haar.jpg
 last_updated: '2026-03-02T01:15:18.904851'
 musical_connections:
   collaborators:
-  - Molly Donnery
-  - Adam Summerhayes
-  - Cormac Byrne
-  - Murray Grainger
+    - Molly Donnery
+    - Adam Summerhayes
+    - Cormac Byrne
+    - Murray Grainger
   influenced: []
   mentors: []
 network_extracted: true
-origin: Inis Oírr, County Galway, Ireland (origin location)
+origin: 'Inis Oírr, County Galway, Ireland (origin location)'
 primary_source: perplexity
 research_sources:
-- https://mgrainger.co.uk/the-haar/
-- https://theciderhouserebellion.com/the-haar/
-- https://www.fromthewhitehouse.com/the-haar/
-- https://tradfolk.co/music/reviews/where-old-ghosts-meet-the-haar-a-review/
-- https://klofmag.com/2022/04/the-haar-where-old-ghosts-meet/
-- https://irishculturalcentre.co.uk/event/the-haar-2/
-- https://www.discoverireland.ie/dublin/the-haar
-- https://thehaar.ie/about/
-- https://roperyhall.co.uk/2023/11/22/the-haar/
+  - 'https://mgrainger.co.uk/the-haar/'
+  - 'https://theciderhouserebellion.com/the-haar/'
+  - 'https://www.fromthewhitehouse.com/the-haar/'
+  - 'https://tradfolk.co/music/reviews/where-old-ghosts-meet-the-haar-a-review/'
+  - 'https://klofmag.com/2022/04/the-haar-where-old-ghosts-meet/'
+  - 'https://irishculturalcentre.co.uk/event/the-haar-2/'
+  - 'https://www.discoverireland.ie/dublin/the-haar'
+  - 'https://thehaar.ie/about/'
+  - 'https://roperyhall.co.uk/2023/11/22/the-haar/'
 spotify_data:
   followers: 903
   id: 5u8ni2JF5Sa0qoIwln3pdB
   popularity: 5
-  url: https://open.spotify.com/artist/5u8ni2JF5Sa0qoIwln3pdB
+  url: 'https://open.spotify.com/artist/5u8ni2JF5Sa0qoIwln3pdB'
 status: active
 title: The Haar
+artist_type: band
 ---
 
 ![](the_haar.jpg)

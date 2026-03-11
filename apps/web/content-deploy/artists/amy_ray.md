@@ -1,46 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-26T01:36:47.587150'
-birth_place: Decatur, Georgia, USA
+birth_place: 'Decatur, Georgia, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:36:47.587160'
 external_urls:
-  spotify: https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF
+  spotify: 'https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF'
   wikipedia: ''
 genres:
-- americana
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/amy_ray.jpg
 last_updated: '2026-01-26T01:36:47.587161'
 musical_connections:
   collaborators:
-  - Emily Saliers
-  - Brandi Carlile
-  - Donna Dresch
-  - Jody Bleyle
-  - Kate Schellenbach
-  - Jim James
+    - Emily Saliers
+    - Brandi Carlile
+    - Donna Dresch
+    - Jody Bleyle
+    - Kate Schellenbach
+    - Jim James
   influenced: []
   mentors:
-  - Allman Brothers
-  - Carter Family
-  - Replacements
+    - Allman Brothers
+    - Carter Family
+    - Replacements
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.amy-ray.com/band
-- https://research.library.gsu.edu/c.php?g=115733&p=750705
-- http://brucebase.wikidot.com/relation:amy-ray
-- https://first-avenue.com/performer/amy-ray/
-- https://bigtakeover.com/interviews/InterviewAmyRayofIndigoGirls
-- https://www.thecurrent.org/feature/2019/04/05/today-in-music-history-happy-birthday-amy-ray
-- https://gardenandgun.com/feature/amy-ray-goes-country/
-- https://twangville.com/artist-q-and-a/amy-ray-on-life-as-a-solo-artist-and-an-indigo-girl/
+  - 'https://www.amy-ray.com/band'
+  - 'https://research.library.gsu.edu/c.php?g=115733&p=750705'
+  - 'http://brucebase.wikidot.com/relation:amy-ray'
+  - 'https://first-avenue.com/performer/amy-ray/'
+  - 'https://bigtakeover.com/interviews/InterviewAmyRayofIndigoGirls'
+  - >-
+    https://www.thecurrent.org/feature/2019/04/05/today-in-music-history-happy-birthday-amy-ray
+  - 'https://gardenandgun.com/feature/amy-ray-goes-country/'
+  - >-
+    https://twangville.com/artist-q-and-a/amy-ray-on-life-as-a-solo-artist-and-an-indigo-girl/
 spotify_data:
   followers: 20420
   id: 6FTNWiXksh4ADVB5QdJqCF
   popularity: 22
-  url: https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF
+  url: 'https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF'
 status: active
 title: Amy Ray
+birth_date: '1964-04-12'
+artist_type: person
 ---
 
 ![](amy_ray.jpg)

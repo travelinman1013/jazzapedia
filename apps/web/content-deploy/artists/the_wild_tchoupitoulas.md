@@ -1,68 +1,69 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-08T02:00:08.458220'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T02:00:08.458229'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9c2ab74c-76f9-46df-9d40-9a5353520690
-  spotify: https://open.spotify.com/artist/1WE9X6cq7c067LtIvikUKx
-  wikipedia: https://en.wikipedia.org/wiki/The_Wild_Tchoupitoulas
+  musicbrainz: 'https://musicbrainz.org/artist/9c2ab74c-76f9-46df-9d40-9a5353520690'
+  spotify: 'https://open.spotify.com/artist/1WE9X6cq7c067LtIvikUKx'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Wild_Tchoupitoulas'
 genres:
-- cajun
-- zydeco
-- brass band
-- native american music
+  - cajun
+  - zydeco
+  - brass band
+  - native american music
 image_path: 03_Resources/source_material/ArtistPortraits/the_wild_tchoupitoulas.jpg
 last_updated: '2026-02-08T02:00:08.458231'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2f53411b-ec29-4979-aa46-62786a2bb377
-  name: Aaron Neville
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f03e25f3-c8e5-42db-b2c3-8cbc0bf878fd
-  name: Art Neville
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 81cbff49-2e4b-44be-a93e-e34ba329914a
-  name: Charles Neville
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0248dd95-6c4f-45dd-8a76-a6e00d41078e
-  name: Cyril Neville
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2f53411b-ec29-4979-aa46-62786a2bb377
+    name: Aaron Neville
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f03e25f3-c8e5-42db-b2c3-8cbc0bf878fd
+    name: Art Neville
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 81cbff49-2e4b-44be-a93e-e34ba329914a
+    name: Charles Neville
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0248dd95-6c4f-45dd-8a76-a6e00d41078e
+    name: Cyril Neville
 musical_connections:
   collaborators:
-  - Allen Toussaint
-  - The Meters (Leo Nocentelli, George Porter Jr., Zigaboo Modeliste)
-  - Neville Brothers (Art, Aaron, Charles, Cyril Neville)
+    - Allen Toussaint
+    - 'The Meters (Leo Nocentelli, George Porter Jr., Zigaboo Modeliste)'
+    - 'Neville Brothers (Art, Aaron, Charles, Cyril Neville)'
   influenced:
-  - Neville Brothers
+    - Neville Brothers
   mentors:
-  - Bo Dollis
+    - Bo Dollis
 musicbrainz_id: 9c2ab74c-76f9-46df-9d40-9a5353520690
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/The+Wild+Tchoupitoulas/+wiki
-- https://www.whereyat.com/flagboy-giz-the-wild-tchoupitoulas
-- https://en.wikipedia.org/wiki/The_Wild_Tchoupitoulas
-- https://www.classic45s.com/collections/the-wild-tchoupitoulas
-- https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildTchoupitoulas.pdf
-- https://www.udiscovermusic.com/stories/the-wild-tchoupitoulas-review/
-- https://tvtropes.org/pmwiki/pmwiki.php/Music/TheWildTchoupitoulas
+  - 'https://www.last.fm/music/The+Wild+Tchoupitoulas/+wiki'
+  - 'https://www.whereyat.com/flagboy-giz-the-wild-tchoupitoulas'
+  - 'https://en.wikipedia.org/wiki/The_Wild_Tchoupitoulas'
+  - 'https://www.classic45s.com/collections/the-wild-tchoupitoulas'
+  - >-
+    https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildTchoupitoulas.pdf
+  - 'https://www.udiscovermusic.com/stories/the-wild-tchoupitoulas-review/'
+  - 'https://tvtropes.org/pmwiki/pmwiki.php/Music/TheWildTchoupitoulas'
 spotify_data:
   followers: 12832
   id: 1WE9X6cq7c067LtIvikUKx
   popularity: 26
-  url: https://open.spotify.com/artist/1WE9X6cq7c067LtIvikUKx
+  url: 'https://open.spotify.com/artist/1WE9X6cq7c067LtIvikUKx'
 status: active
-title: the wild tchoupitoulas
+title: The Wild Tchoupitoulas
 ---
 
 ![](the_wild_tchoupitoulas.jpg)

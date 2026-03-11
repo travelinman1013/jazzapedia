@@ -3,42 +3,50 @@ biography_enhanced_at: '2026-01-28T01:49:52.362017'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:49:52.362022'
 external_urls:
-  spotify: https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc
+  spotify: 'https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/el_michels_affair_and_black_thought.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/el_michels_affair_and_black_thought.jpg
 last_updated: '2026-01-28T01:49:52.362023'
 musical_connections:
   collaborators:
-  - Dave Guy
-  - Ian Hendrickson-Smith
-  - Wu-Tang Clan members
-  - Charles Bradley
+    - Dave Guy
+    - Ian Hendrickson-Smith
+    - Wu-Tang Clan members
+    - Charles Bradley
   influenced: []
   mentors:
-  - Stevie Wonder
+    - Stevie Wonder
 network_extracted: true
-origin: New York, NY, USA (El Michels Affair origin); South Philadelphia, PA, USA
+origin: >-
+  New York, NY, USA (El Michels Affair origin); South Philadelphia, PA, USA
   (Black Thought upbringing)
 primary_source: perplexity
 research_sources:
-- https://spectrumculture.com/2023/04/20/el-michels-affair-and-black-thought-glorious-game-review/
-- https://bigcrownrecords.com/artists/el-michels-affair-black-thought/
-- https://www.popmatters.com/black-thought-el-michels-affair
-- https://daily.bandcamp.com/features/black-thought-el-michels-glorious-game-interview
-- http://post-trash.com/news/2023/6/15/black-thought-amp-el-michels-affair-glorious-game-album-review
-- https://albumism.com/reviews/el-michels-affair-and-black-thought-glorious-game
-- https://www.iamtunedup.com/el-michels-affair-black-thought-glorious-game/
-- https://en.wikipedia.org/wiki/Leon_Michels
-- https://en.wikipedia.org/wiki/El_Michels_Affair
-- http://spaceagencybooking.com/el-michels-affair
+  - >-
+    https://spectrumculture.com/2023/04/20/el-michels-affair-and-black-thought-glorious-game-review/
+  - 'https://bigcrownrecords.com/artists/el-michels-affair-black-thought/'
+  - 'https://www.popmatters.com/black-thought-el-michels-affair'
+  - >-
+    https://daily.bandcamp.com/features/black-thought-el-michels-glorious-game-interview
+  - >-
+    http://post-trash.com/news/2023/6/15/black-thought-amp-el-michels-affair-glorious-game-album-review
+  - >-
+    https://albumism.com/reviews/el-michels-affair-and-black-thought-glorious-game
+  - 'https://www.iamtunedup.com/el-michels-affair-black-thought-glorious-game/'
+  - 'https://en.wikipedia.org/wiki/Leon_Michels'
+  - 'https://en.wikipedia.org/wiki/El_Michels_Affair'
+  - 'http://spaceagencybooking.com/el-michels-affair'
 spotify_data:
   followers: 224310
   id: 0cLrgpG3pW4MX4nD8h6qCc
   popularity: 53
-  url: https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc
+  url: 'https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc'
 status: active
 title: El Michels Affair & Black Thought
+birth_place: 'Chicago, Illinois, United States'
+artist_type: band
 ---
 
 ![](el_michels_affair_and_black_thought.jpg)

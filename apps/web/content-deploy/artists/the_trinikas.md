@@ -3,38 +3,39 @@ biography_enhanced_at: '2026-01-30T01:19:40.729571'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:19:40.729585'
 external_urls:
-  spotify: https://open.spotify.com/artist/18X9aHCzuO7YQlN1OGzkMK
+  spotify: 'https://open.spotify.com/artist/18X9aHCzuO7YQlN1OGzkMK'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_trinikas.jpg
 last_updated: '2026-01-30T01:19:40.729587'
 musical_connections:
   collaborators:
-  - Ronald Hamilton
-  - David McKinney
-  - Felix Scott
-  - Gloriadean Tucker
+    - Ronald Hamilton
+    - David McKinney
+    - Felix Scott
+    - Gloriadean Tucker
   influenced: []
   mentors:
-  - Leslie Sheffield
-  - Richard Gilleland
-  - Louis Chachere
+    - Leslie Sheffield
+    - Richard Gilleland
+    - Louis Chachere
 network_extracted: true
-origin: Oklahoma City, Oklahoma, USA
+origin: 'Oklahoma City, Oklahoma, USA'
 primary_source: perplexity
 research_sources:
-- https://www.foxfiremountainhouse.com/sound-1
-- https://numerogroup.com/products/trinikas-black-is-beautiful-bw-remember-me
-- https://www.last.fm/music/The+Trinikas/+wiki
-- https://www.last.fm/music/The+Trinikas
-- https://www.allmusic.com/artist/the-trinikas-mn0001048903
+  - 'https://www.foxfiremountainhouse.com/sound-1'
+  - 'https://numerogroup.com/products/trinikas-black-is-beautiful-bw-remember-me'
+  - 'https://www.last.fm/music/The+Trinikas/+wiki'
+  - 'https://www.last.fm/music/The+Trinikas'
+  - 'https://www.allmusic.com/artist/the-trinikas-mn0001048903'
 spotify_data:
   followers: 1279
   id: 18X9aHCzuO7YQlN1OGzkMK
   popularity: 18
-  url: https://open.spotify.com/artist/18X9aHCzuO7YQlN1OGzkMK
+  url: 'https://open.spotify.com/artist/18X9aHCzuO7YQlN1OGzkMK'
 status: active
-title: the trinikas
+title: The Trinikas
+artist_type: band
 ---
 
 ![](the_trinikas.jpg)

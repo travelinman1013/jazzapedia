@@ -1,64 +1,65 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-21T01:34:24.488316'
 enhancement_provider: perplexity
 entry_created: '2026-02-21T01:34:24.488326'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/94afe824-e2f3-47a1-8619-14d79901bc10
-  spotify: https://open.spotify.com/artist/5HLvk39ey6fgT1XuV7apj9
-  wikipedia: https://en.wikipedia.org/wiki/Prism_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/94afe824-e2f3-47a1-8619-14d79901bc10'
+  spotify: 'https://open.spotify.com/artist/5HLvk39ey6fgT1XuV7apj9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Prism_(band)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/prysm.jpg
 last_updated: '2026-02-21T01:34:24.488328'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c7bf0923-1cc7-404c-a94f-c3baad2fda8b
-  name: Pierre de Bethmann
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 329fd14d-bf7d-4dcc-aab1-7001c2759d7d
-  name: Benjamin Henocq
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 23a819ec-3703-4828-9837-57a73e5046d9
-  name: Christophe Wallemme
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c7bf0923-1cc7-404c-a94f-c3baad2fda8b
+    name: Pierre de Bethmann
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 329fd14d-bf7d-4dcc-aab1-7001c2759d7d
+    name: Benjamin Henocq
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 23a819ec-3703-4828-9837-57a73e5046d9
+    name: Christophe Wallemme
 musical_connections:
   collaborators:
-  - Jim Vallance
-  - Lindsay Mitchell
-  - Rocket Norton
-  - Al Harlow
-  - Bryan Adams
+    - Jim Vallance
+    - Lindsay Mitchell
+    - Rocket Norton
+    - Al Harlow
+    - Bryan Adams
   influenced:
-  - Bryan Adams
-  - Bruce Fairbairn
-  - Jim Vallance
+    - Bryan Adams
+    - Bruce Fairbairn
+    - Jim Vallance
   mentors:
-  - Bruce Fairbairn
+    - Bruce Fairbairn
 musicbrainz_id: 94afe824-e2f3-47a1-8619-14d79901bc10
 network_extracted: true
-origin: Vancouver, British Columbia, Canada
+origin: 'Vancouver, British Columbia, Canada'
 primary_source: perplexity
 research_sources:
-- https://citizenfreak.com/artists/101467-prism
-- https://www.last.fm/music/Prism/+wiki
-- https://www.canadaswalkoffame.com/inductees/prism/
-- https://en.wikipedia.org/wiki/Prism_(band)
-- https://prism.ca/bios/
-- https://prism.ca/bios/the-story-of-prism/
+  - 'https://citizenfreak.com/artists/101467-prism'
+  - 'https://www.last.fm/music/Prism/+wiki'
+  - 'https://www.canadaswalkoffame.com/inductees/prism/'
+  - 'https://en.wikipedia.org/wiki/Prism_(band)'
+  - 'https://prism.ca/bios/'
+  - 'https://prism.ca/bios/the-story-of-prism/'
 spotify_data:
   followers: 141
   id: 5HLvk39ey6fgT1XuV7apj9
   popularity: 0
-  url: https://open.spotify.com/artist/5HLvk39ey6fgT1XuV7apj9
+  url: 'https://open.spotify.com/artist/5HLvk39ey6fgT1XuV7apj9'
 status: active
 tags:
-- jazz
-title: Prysm
+  - jazz
+title: Prism
+death_date: '2024'
 ---
 
 ![](prysm.jpg)

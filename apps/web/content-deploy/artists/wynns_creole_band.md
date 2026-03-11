@@ -3,39 +3,42 @@ biography_enhanced_at: '2026-02-19T01:55:38.883086'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:55:38.883101'
 external_urls:
-  spotify: https://open.spotify.com/artist/2Ztij7aKKHPl3fa8FbtmaQ
+  spotify: 'https://open.spotify.com/artist/2Ztij7aKKHPl3fa8FbtmaQ'
   wikipedia: null
 genres:
-- ragtime
-- big band
+  - ragtime
+  - big band
 image_path: ''
 last_updated: '2026-02-19T01:55:38.883103'
 musical_connections:
   collaborators:
-  - Dolly Jones
-  - Lester Boone
-  - Sid Catlett
-  - Bill and Mary Mack
+    - Dolly Jones
+    - Lester Boone
+    - Sid Catlett
+    - Bill and Mary Mack
   influenced: []
   mentors:
-  - Thomas A. Dorsey
+    - Thomas A. Dorsey
 network_extracted: true
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://www.denofgeek.com/movies/who-was-ma-rainey-real-band-black-bottom/
-- https://dippermouth.blogspot.com/2018/06/90-years-of-west-end-blues.html
-- https://syncopatedtimes.com/albert-wynn-and-his-gut-bucket-five/
-- https://www.youtube.com/watch?v=evomXGBhaBs
-- https://reverb.com/news/spotlight-on-dolly-jones-the-first-recorded-female-jazz-trumpeter
-- https://syncopatedtimes.com/punch-miller-albert-wynn-complete-recorded-works/
+  - 'https://www.denofgeek.com/movies/who-was-ma-rainey-real-band-black-bottom/'
+  - 'https://dippermouth.blogspot.com/2018/06/90-years-of-west-end-blues.html'
+  - 'https://syncopatedtimes.com/albert-wynn-and-his-gut-bucket-five/'
+  - 'https://www.youtube.com/watch?v=evomXGBhaBs'
+  - >-
+    https://reverb.com/news/spotlight-on-dolly-jones-the-first-recorded-female-jazz-trumpeter
+  - >-
+    https://syncopatedtimes.com/punch-miller-albert-wynn-complete-recorded-works/
 spotify_data:
   followers: 41
   id: 2Ztij7aKKHPl3fa8FbtmaQ
   popularity: 0
-  url: https://open.spotify.com/artist/2Ztij7aKKHPl3fa8FbtmaQ
+  url: 'https://open.spotify.com/artist/2Ztij7aKKHPl3fa8FbtmaQ'
 status: active
-title: WYNN'S CREOLE BAND
+title: Wynn's Creole Band
+artist_type: person
 ---
 
 ![]()

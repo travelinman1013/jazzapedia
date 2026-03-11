@@ -2,43 +2,44 @@
 artist_type: person
 biography_enhanced_at: '2026-02-09T01:24:14.983628'
 birth_date: '1999-03-31'
-birth_place: New York
+birth_place: 'New York, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:24:14.983639'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d443bf6c-501a-44f2-acdf-689f2ef28a67
-  spotify: https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn
-  wikipedia: https://en.wikipedia.org/wiki/Sawyer_Fredericks
+  musicbrainz: 'https://musicbrainz.org/artist/d443bf6c-501a-44f2-acdf-689f2ef28a67'
+  spotify: 'https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sawyer_Fredericks'
 gender: Male
 genres:
-- folk pop
+  - folk pop
 image_path: 03_Resources/source_material/ArtistPortraits/sawyer_fredericks.jpg
 instruments:
-- acoustic guitar
+  - acoustic guitar
 last_updated: '2026-02-09T01:24:14.983641'
 musical_connections:
   collaborators:
-  - A Great Big World
-  - Good Old War
-  - Gabriel Wolfchild and the Nor
+    - A Great Big World
+    - Good Old War
+    - Gabriel Wolfchild and the Nor
   influenced: []
   mentors:
-  - Pharrell Williams
+    - Pharrell Williams
 musicbrainz_id: d443bf6c-501a-44f2-acdf-689f2ef28a67
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sawyer_Fredericks
-- https://www.passim.org/artists/sawyer-fredericks/
-- https://www.sawyerfredericks.com/about.html
-- https://first-avenue.com/performer/sawyer-fredericks/
-- https://www.caffelena.org/event/sawyer-fredricks/
-- https://www.infinityhall.com/Events/sawyer-fredericks-winner-of-nbc39s-the-voice-with-gabriel-wolfchild-and-the-nor/
+  - 'https://en.wikipedia.org/wiki/Sawyer_Fredericks'
+  - 'https://www.passim.org/artists/sawyer-fredericks/'
+  - 'https://www.sawyerfredericks.com/about.html'
+  - 'https://first-avenue.com/performer/sawyer-fredericks/'
+  - 'https://www.caffelena.org/event/sawyer-fredricks/'
+  - >-
+    https://www.infinityhall.com/Events/sawyer-fredericks-winner-of-nbc39s-the-voice-with-gabriel-wolfchild-and-the-nor/
 spotify_data:
   followers: 73844
   id: 3GaRKzVcjJv5cIL8CmRAHn
   popularity: 32
-  url: https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn
+  url: 'https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn'
 status: active
 title: Sawyer Fredericks
 ---

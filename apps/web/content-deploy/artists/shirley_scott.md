@@ -1,75 +1,79 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - organ
-  mbid: 6c05edf8-43a3-4fc7-8573-d09c828ab6f8
-  name: Eddie “Lockjaw” Davis Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 341ba48b-dc67-4937-8855-7de43708e0cf
-  name: Shirley Scott Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - organ
+    mbid: 6c05edf8-43a3-4fc7-8573-d09c828ab6f8
+    name: Eddie “Lockjaw” Davis Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 341ba48b-dc67-4937-8855-7de43708e0cf
+    name: Shirley Scott Trio
 biography_enhanced_at: '2026-02-28T01:48:39.746557'
 birth_date: '1934-03-14'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '2002-03-10'
 disambiguation: jazz artist
 enhancement_provider: perplexity
 entry_created: '2026-02-28T01:48:39.746566'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f80398eb-64c2-4abb-8572-cd8ab96f6522
-  spotify: https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI
-  wikipedia: https://en.wikipedia.org/wiki/Shirley_Scott
+  musicbrainz: 'https://musicbrainz.org/artist/f80398eb-64c2-4abb-8572-cd8ab96f6522'
+  spotify: 'https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shirley_Scott'
 gender: Female
 genres:
-- soul jazz
-- hard bop
-- acid jazz
-- jazz
+  - soul jazz
+  - hard bop
+  - acid jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/shirley_scott.jpg
 instruments:
-- organ
-- eponymous
-- original
-- piano
+  - organ
+  - eponymous
+  - original
+  - piano
 last_updated: '2026-02-28T01:48:39.746568'
 musical_connections:
   collaborators:
-  - Eddie 'Lockjaw' Davis
-  - Stanley Turrentine
-  - John Coltrane
-  - Dexter Gordon
-  - Al Grey
+    - Eddie 'Lockjaw' Davis
+    - Stanley Turrentine
+    - John Coltrane
+    - Dexter Gordon
+    - Al Grey
   influenced: []
   mentors:
-  - Jimmy Smith
-  - Jackie Davis
+    - Jimmy Smith
+    - Jackie Davis
 musicbrainz_id: f80398eb-64c2-4abb-8572-cd8ab96f6522
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2016/03/shirley-scott-born-14-march-1934.html
-- https://en.wikipedia.org/wiki/Shirley_Scott
-- https://www.latimes.com/archives/la-xpm-2002-mar-14-me-scott14-story.html
-- https://www.wrti.org/arts-desk/2021-06-21/jazz-philadelphias-hometown-heroes-spotlight-on-organist-shirley-scott
-- https://www.allaboutjazz.com/musicians/shirley-scott/
-- https://champianfulton.wordpress.com/2021/03/08/international-womens-day-shirley-scott-the-queen-of-the-organ/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2016/03/shirley-scott-born-14-march-1934.html
+  - 'https://en.wikipedia.org/wiki/Shirley_Scott'
+  - 'https://www.latimes.com/archives/la-xpm-2002-mar-14-me-scott14-story.html'
+  - >-
+    https://www.wrti.org/arts-desk/2021-06-21/jazz-philadelphias-hometown-heroes-spotlight-on-organist-shirley-scott
+  - 'https://www.allaboutjazz.com/musicians/shirley-scott/'
+  - >-
+    https://champianfulton.wordpress.com/2021/03/08/international-womens-day-shirley-scott-the-queen-of-the-organ/
 spotify_data:
   followers: 9523
   id: 1TnGxyraO6Uyfyt2PuVFvI
   popularity: 22
-  url: https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI
+  url: 'https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI'
 status: active
 tags:
-- 2008 universal fire victim
-- hard bop
-- soul jazz
+  - 2008 universal fire victim
+  - hard bop
+  - soul jazz
 title: Shirley Scott
+is_active: false
 ---
 
 ![](shirley_scott.jpg)

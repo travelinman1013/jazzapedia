@@ -1,76 +1,78 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-19T01:56:58.936806'
 birth_date: '1926-07-14'
 enhancement_provider: perplexity
 entry_created: '2026-02-19T01:56:58.936917'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a47d679b-cf89-4442-8d10-52eb81d9c499
-  spotify: https://open.spotify.com/artist/2644yEOVNbg1PEjSRtiCwV
-  wikipedia: https://en.wikipedia.org/wiki/New_Orleans_Wanderers
+  musicbrainz: 'https://musicbrainz.org/artist/a47d679b-cf89-4442-8d10-52eb81d9c499'
+  spotify: 'https://open.spotify.com/artist/2644yEOVNbg1PEjSRtiCwV'
+  wikipedia: 'https://en.wikipedia.org/wiki/New_Orleans_Wanderers'
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/new_orleans_wanderers.jpg
 last_updated: '2026-02-19T01:56:58.936931'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7a281c93-adc9-4426-9331-f5e870162f91
-  name: Johnny St. Cyr
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 66fc5e06-25be-4070-8812-aac282a347eb
-  name: Johnny Dodds
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5fae9c18-a94f-424e-99e0-2b4cc7be991e
-  name: Warren “Baby” Dodds
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a6f6ee8-a9cd-4826-9749-d0fe48fb49f7
-  name: Lil Hardin Armstrong
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ac6078e8-32eb-4775-92ff-70037475ed8f
-  name: George Mitchell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d2cf1ea2-0dce-45ab-8fb4-5c4c81713b54
-  name: Kid Ory
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7a281c93-adc9-4426-9331-f5e870162f91
+    name: Johnny St. Cyr
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 66fc5e06-25be-4070-8812-aac282a347eb
+    name: Johnny Dodds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5fae9c18-a94f-424e-99e0-2b4cc7be991e
+    name: Warren “Baby” Dodds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a6f6ee8-a9cd-4826-9749-d0fe48fb49f7
+    name: Lil Hardin Armstrong
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ac6078e8-32eb-4775-92ff-70037475ed8f
+    name: George Mitchell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d2cf1ea2-0dce-45ab-8fb4-5c4c81713b54
+    name: Kid Ory
 musical_connections:
   collaborators:
-  - Lil Hardin Armstrong
-  - George Mitchell
-  - Kid Ory
-  - Johnny Dodds
-  - Johnny St. Cyr
+    - Lil Hardin Armstrong
+    - George Mitchell
+    - Kid Ory
+    - Johnny Dodds
+    - Johnny St. Cyr
   influenced: []
   mentors: []
 musicbrainz_id: a47d679b-cf89-4442-8d10-52eb81d9c499
 network_extracted: true
-origin: Chicago, Illinois, USA (recording location; New Orleans jazz style)
+origin: 'Chicago, Illinois, USA (recording location; New Orleans jazz style)'
 primary_source: perplexity
 research_sources:
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/105564/New_Orleans_Wanderers
-- https://en.wikipedia.org/wiki/New_Orleans_Wanderers
-- https://syncopatedtimes.com/new-orleans-wanderers/
-- https://www.thejazzguide.co.uk/bands-and-artists/listing/new-orleans-wanderers
-- https://dippermouth.blogspot.com/2012/12/85-years-of-hotter-than-that.html
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/105564/New_Orleans_Wanderers
+  - 'https://en.wikipedia.org/wiki/New_Orleans_Wanderers'
+  - 'https://syncopatedtimes.com/new-orleans-wanderers/'
+  - >-
+    https://www.thejazzguide.co.uk/bands-and-artists/listing/new-orleans-wanderers
+  - 'https://dippermouth.blogspot.com/2012/12/85-years-of-hotter-than-that.html'
 spotify_data:
   followers: 499
   id: 2644yEOVNbg1PEjSRtiCwV
   popularity: 6
-  url: https://open.spotify.com/artist/2644yEOVNbg1PEjSRtiCwV
+  url: 'https://open.spotify.com/artist/2644yEOVNbg1PEjSRtiCwV'
 status: active
 tags:
-- jazz
-title: NEW ORLEANS WANDERERS
+  - jazz
+title: New Orleans Wanderers
 ---
 
 ![](new_orleans_wanderers.jpg)

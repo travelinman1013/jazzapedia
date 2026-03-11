@@ -3,43 +3,47 @@ biography_enhanced_at: '2026-02-26T01:18:14.686376'
 enhancement_provider: perplexity
 entry_created: '2026-02-26T01:18:14.686393'
 external_urls:
-  spotify: https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ
+  spotify: 'https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ'
   wikipedia: ''
 genres:
-- christmas
-- vocal jazz
+  - christmas
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/king_cole_trio.jpg
 last_updated: '2026-02-26T01:18:14.686395'
 musical_connections:
   collaborators:
-  - Oscar Moore
-  - Wesley Prince
-  - Johnny Miller
-  - Irving Ashby
-  - Lionel Hampton
+    - Oscar Moore
+    - Wesley Prince
+    - Johnny Miller
+    - Irving Ashby
+    - Lionel Hampton
   influenced:
-  - Oscar Peterson
-  - Red Garland
-  - Tommy Flanagan
+    - Oscar Peterson
+    - Red Garland
+    - Tommy Flanagan
   mentors:
-  - Mother (Perlita Arline Cole)
+    - Mother (Perlita Arline Cole)
 network_extracted: true
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/The+Nat+King+Cole+Trio/+wiki
-- https://www.alamhof.org/nat-king-cole
-- https://www.britannica.com/biography/Nat-King-Cole
-- https://www.edsullivan.com/artists/nat-king-cole/
-- https://thesongbook.org/hall-of-fame/songbook-hall-of-fame-honorees/nat-king-cole/
-- https://blackpast.org/african-american-history/cole-nat-king-1919-1965/
+  - 'https://www.last.fm/music/The+Nat+King+Cole+Trio/+wiki'
+  - 'https://www.alamhof.org/nat-king-cole'
+  - 'https://www.britannica.com/biography/Nat-King-Cole'
+  - 'https://www.edsullivan.com/artists/nat-king-cole/'
+  - >-
+    https://thesongbook.org/hall-of-fame/songbook-hall-of-fame-honorees/nat-king-cole/
+  - 'https://blackpast.org/african-american-history/cole-nat-king-1919-1965/'
 spotify_data:
   followers: 205710
   id: 3OpnoUqoRIHWbsFs4Nw0NQ
   popularity: 49
-  url: https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ
+  url: 'https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ'
 status: active
-title: KING COLE TRIO
+title: King Cole Trio
+birth_place: 'Montgomery, Alabama, United States'
+birth_date: '1919-03-17'
+artist_type: band
 ---
 
 ![](king_cole_trio.jpg)

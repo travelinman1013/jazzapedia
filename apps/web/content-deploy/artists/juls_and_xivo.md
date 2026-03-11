@@ -1,44 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-25T01:40:14.103888'
-birth_place: Hackney, East London, England (birthplace); British-Ghanaian
+birth_place: 'Hackney, East London, England (birthplace); British-Ghanaian'
 enhancement_provider: perplexity
 entry_created: '2026-01-25T01:40:14.103896'
 external_urls:
-  spotify: https://open.spotify.com/artist/59mKnHvZFOISktAAMYzAMM
-  wikipedia: https://en.wikipedia.org/wiki/Juls
+  spotify: 'https://open.spotify.com/artist/59mKnHvZFOISktAAMYzAMM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Juls'
 genres:
-- alté
+  - alté
 image_path: 03_Resources/source_material/ArtistPortraits/juls_and_xivo.jpg
 last_updated: '2026-01-25T01:40:14.103897'
 musical_connections:
   collaborators:
-  - Mr Eazi
-  - Burna Boy
-  - Wizkid
-  - Oxlade
-  - Show Dem Camp
-  - Stonebwoy
+    - Mr Eazi
+    - Burna Boy
+    - Wizkid
+    - Oxlade
+    - Show Dem Camp
+    - Stonebwoy
   influenced:
-  - Mr Eazi
-  - Oxlade
-  - L.A.X
+    - Mr Eazi
+    - Oxlade
+    - L.A.X
   mentors:
-  - Panji Anoff
+    - Panji Anoff
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.musicinafrica.net/magazine/juls-im-trying-make-music-lives-forever
-- https://pan-african-music.com/en/juls-sounds-of-my-world/
-- https://en.wikipedia.org/wiki/Juls
-- https://www.afrobeatscentral.com/post/shaping-a-new-wave-of-sound-and-style-pioneers-of-alt%C3%A9-music-in-nigeria
-- https://www.afrisson.com/dj-juls/
+  - >-
+    https://www.musicinafrica.net/magazine/juls-im-trying-make-music-lives-forever
+  - 'https://pan-african-music.com/en/juls-sounds-of-my-world/'
+  - 'https://en.wikipedia.org/wiki/Juls'
+  - >-
+    https://www.afrobeatscentral.com/post/shaping-a-new-wave-of-sound-and-style-pioneers-of-alt%C3%A9-music-in-nigeria
+  - 'https://www.afrisson.com/dj-juls/'
 spotify_data:
   followers: 42
   id: 59mKnHvZFOISktAAMYzAMM
   popularity: 7
-  url: https://open.spotify.com/artist/59mKnHvZFOISktAAMYzAMM
+  url: 'https://open.spotify.com/artist/59mKnHvZFOISktAAMYzAMM'
 status: active
-title: juls & xivo
+title: Juls & Xivo
+birth_date: '1985-10-25'
+artist_type: band
 ---
 
 ![](juls_and_xivo.jpg)

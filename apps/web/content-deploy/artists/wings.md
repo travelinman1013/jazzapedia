@@ -1,111 +1,111 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-10T01:50:31.042522'
 birth_date: '1971'
 disambiguation: Paul McCartney’s band
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:50:31.042532'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d922d727-240a-4432-9a88-05a7cf9bc403
-  spotify: https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m
-  wikipedia: https://en.wikipedia.org/wiki/Paul_McCartney_and_Wings
+  musicbrainz: 'https://musicbrainz.org/artist/d922d727-240a-4432-9a88-05a7cf9bc403'
+  spotify: 'https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_McCartney_and_Wings'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/wings.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-02-10T01:50:31.042534'
 members:
-- begin: 1971-08
-  end: 1981-04
-  instruments:
-  - original
-  mbid: c20b66ee-5f30-4346-b648-23979ddc61f8
-  name: Denny Laine
-- begin: '1971'
-  end: '1973'
-  instruments:
-  - original
-  mbid: 3bfcc001-bf66-425b-a7e5-4d9892c07e7b
-  name: Denny Seiwell
-- begin: '1971'
-  end: '1981'
-  instruments:
-  - original
-  mbid: 10b860bf-f225-4ee0-8c28-e32f1759b4a2
-  name: Linda McCartney
-- begin: '1971'
-  end: '1981'
-  instruments:
-  - original
-  mbid: ba550d0e-adac-4864-b88b-407cab5e76af
-  name: Paul McCartney
-- begin: '1972'
-  end: '1973'
-  instruments: []
-  mbid: 56d62009-9b85-40e6-bd85-430074d02ea3
-  name: Henry McCullough
-- begin: '1974'
-  end: '1975'
-  instruments: []
-  mbid: 26edd71b-4999-4312-9855-381e768d3866
-  name: Geoff Britton
-- begin: '1974'
-  end: '1977'
-  instruments: []
-  mbid: c8a57c9b-f09c-47f4-89e4-751bf6a19166
-  name: Jimmy McCulloch
-- begin: '1974'
-  end: '1980'
-  instruments: []
-  mbid: 14dc7c0b-cb3f-403c-95f7-f0f159d00c73
-  name: Thaddeus Richard
-- begin: '1975'
-  end: '1977'
-  instruments: []
-  mbid: e6f94b0f-2ef6-4186-81fe-3e6209f9a253
-  name: Joe English
-- begin: '1978'
-  end: '1981'
-  instruments: []
-  mbid: 96f40114-029b-4037-93f3-2a8a90a4f48d
-  name: Steve Holley
-- begin: '1978'
-  end: '1981'
-  instruments: []
-  mbid: 14aa2003-c918-46f1-9a07-da11e4fb7198
-  name: Laurence Juber
+  - begin: 1971-08
+    end: 1981-04
+    instruments:
+      - original
+    mbid: c20b66ee-5f30-4346-b648-23979ddc61f8
+    name: Denny Laine
+  - begin: '1971'
+    end: '1973'
+    instruments:
+      - original
+    mbid: 3bfcc001-bf66-425b-a7e5-4d9892c07e7b
+    name: Denny Seiwell
+  - begin: '1971'
+    end: '1981'
+    instruments:
+      - original
+    mbid: 10b860bf-f225-4ee0-8c28-e32f1759b4a2
+    name: Linda McCartney
+  - begin: '1971'
+    end: '1981'
+    instruments:
+      - original
+    mbid: ba550d0e-adac-4864-b88b-407cab5e76af
+    name: Paul McCartney
+  - begin: '1972'
+    end: '1973'
+    instruments: []
+    mbid: 56d62009-9b85-40e6-bd85-430074d02ea3
+    name: Henry McCullough
+  - begin: '1974'
+    end: '1975'
+    instruments: []
+    mbid: 26edd71b-4999-4312-9855-381e768d3866
+    name: Geoff Britton
+  - begin: '1974'
+    end: '1977'
+    instruments: []
+    mbid: c8a57c9b-f09c-47f4-89e4-751bf6a19166
+    name: Jimmy McCulloch
+  - begin: '1974'
+    end: '1980'
+    instruments: []
+    mbid: 14dc7c0b-cb3f-403c-95f7-f0f159d00c73
+    name: Thaddeus Richard
+  - begin: '1975'
+    end: '1977'
+    instruments: []
+    mbid: e6f94b0f-2ef6-4186-81fe-3e6209f9a253
+    name: Joe English
+  - begin: '1978'
+    end: '1981'
+    instruments: []
+    mbid: 96f40114-029b-4037-93f3-2a8a90a4f48d
+    name: Steve Holley
+  - begin: '1978'
+    end: '1981'
+    instruments: []
+    mbid: 14aa2003-c918-46f1-9a07-da11e4fb7198
+    name: Laurence Juber
 musical_connections:
   collaborators:
-  - Linda McCartney
-  - Denny Laine
-  - Denny Seiwell
-  - Henry McCullough
-  - Jimmy McCulloch
-  - Joe English
-  - Dave Mason
-  - Tom Scott
+    - Linda McCartney
+    - Denny Laine
+    - Denny Seiwell
+    - Henry McCullough
+    - Jimmy McCulloch
+    - Joe English
+    - Dave Mason
+    - Tom Scott
   influenced: []
   mentors:
-  - The Beatles
+    - The Beatles
 musicbrainz_id: d922d727-240a-4432-9a88-05a7cf9bc403
 network_extracted: true
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://www.the-paulmccartney-project.com/artist/wings/
-- https://en.wikipedia.org/wiki/Paul_McCartney_and_Wings
-- https://concord.com/artist/paul-mccartney-and-wings/
-- https://www.last.fm/music/Wings/+wiki
+  - 'https://www.the-paulmccartney-project.com/artist/wings/'
+  - 'https://en.wikipedia.org/wiki/Paul_McCartney_and_Wings'
+  - 'https://concord.com/artist/paul-mccartney-and-wings/'
+  - 'https://www.last.fm/music/Wings/+wiki'
 spotify_data:
   followers: 1291451
   id: 3sFhA6G1N0gG1pszb6kk1m
   popularity: 66
-  url: https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m
+  url: 'https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m'
 status: active
 tags:
-- bootleg
-- classic rock
-- mainstream rock
+  - bootleg
+  - classic rock
+  - mainstream rock
 title: Wings
 ---
 

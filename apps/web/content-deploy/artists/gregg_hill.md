@@ -1,41 +1,42 @@
 ---
 biography_enhanced_at: '2026-03-09T01:13:16.041027'
-birth_place: South Side of Chicago, Illinois, United States
+birth_place: 'South Side of Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-03-09T01:13:16.041037'
 external_urls:
-  spotify: https://open.spotify.com/artist/3mGQacqqLLEnYGsUKfHZAo
+  spotify: 'https://open.spotify.com/artist/3mGQacqqLLEnYGsUKfHZAo'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/gregg_hill.jpg
 last_updated: '2026-03-09T01:13:16.041039'
 musical_connections:
   collaborators:
-  - Rodney Whitaker
-  - Randy Napoleon
-  - Michael Dease
-  - Roland Guerin
-  - Doug Belote
-  - Kenny Vaughan, Ron Block, Jeff Coffin, Shane Theriot, Anders Osborne
+    - Rodney Whitaker
+    - Randy Napoleon
+    - Michael Dease
+    - Roland Guerin
+    - Doug Belote
+    - 'Kenny Vaughan, Ron Block, Jeff Coffin, Shane Theriot, Anders Osborne'
   influenced: []
   mentors:
-  - Duke Ellington
-  - Sun Ra, Yusef Lateef, Archie Shepp
+    - Duke Ellington
+    - 'Sun Ra, Yusef Lateef, Archie Shepp'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://gregghill.com
-- https://downbeat.com/news/detail/getting-to-know-gregg-hill
-- https://tomlikesjazz.substack.com/p/who-is-gregg-hill
-- https://www.youtube.com/watch?v=8FKSBcBNhYE
-- https://www.gregghilljazz.com
+  - 'https://gregghill.com'
+  - 'https://downbeat.com/news/detail/getting-to-know-gregg-hill'
+  - 'https://tomlikesjazz.substack.com/p/who-is-gregg-hill'
+  - 'https://www.youtube.com/watch?v=8FKSBcBNhYE'
+  - 'https://www.gregghilljazz.com'
 spotify_data:
   followers: 187
   id: 3mGQacqqLLEnYGsUKfHZAo
   popularity: 1
-  url: https://open.spotify.com/artist/3mGQacqqLLEnYGsUKfHZAo
+  url: 'https://open.spotify.com/artist/3mGQacqqLLEnYGsUKfHZAo'
 status: active
 title: Gregg Hill
+artist_type: person
 ---
 
 ![](gregg_hill.jpg)

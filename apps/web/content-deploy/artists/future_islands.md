@@ -1,116 +1,118 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-28T01:51:07.549697'
 birth_date: '2006'
 enhancement_provider: perplexity
 entry_created: '2026-01-28T01:51:07.549707'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/74963434-dcb6-4b14-98cc-99873b06db66
-  spotify: https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz
+  musicbrainz: 'https://musicbrainz.org/artist/74963434-dcb6-4b14-98cc-99873b06db66'
+  spotify: 'https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/future_islands.jpg
 instruments:
-- guitar
-- bass guitar
-- lead vocals
-- keyboard
-- task
-- drums (drum set)
+  - guitar
+  - bass guitar
+  - lead vocals
+  - keyboard
+  - task
+  - drums (drum set)
 last_updated: '2026-01-28T01:51:07.549709'
 members:
-- &id001
-  begin: '2006'
-  end: ''
-  instruments:
-  - guitar
-  mbid: 2214db22-a4a8-42b5-b1fd-994b66480eef
-  name: William Cashion
-- &id002
-  begin: '2006'
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 2214db22-a4a8-42b5-b1fd-994b66480eef
-  name: William Cashion
-- &id003
-  begin: '2006'
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 9d5e9b8b-6cad-409b-9582-3415e8c7d907
-  name: Samuel T. Herring
-- &id004
-  begin: '2006'
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 8bbe22cd-21ed-45fa-ada3-07424d9f5982
-  name: Moss of Aura
-- &id005
-  begin: '2011'
-  end: ''
-  instruments:
-  - guitar
-  mbid: 8bbe22cd-21ed-45fa-ada3-07424d9f5982
-  name: Moss of Aura
-- &id006
-  begin: '2014'
-  end: ''
-  instruments:
-  - task
-  mbid: 3ad0cbbb-5b4e-4fe8-ac27-2b50abb4b410
-  name: Michael Lowry
-- &id007
-  begin: '2020'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 3ad0cbbb-5b4e-4fe8-ac27-2b50abb4b410
-  name: Michael Lowry
+  - &ref_0
+    begin: '2006'
+    end: ''
+    instruments:
+      - guitar
+    mbid: 2214db22-a4a8-42b5-b1fd-994b66480eef
+    name: William Cashion
+  - &ref_1
+    begin: '2006'
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 2214db22-a4a8-42b5-b1fd-994b66480eef
+    name: William Cashion
+  - &ref_2
+    begin: '2006'
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 9d5e9b8b-6cad-409b-9582-3415e8c7d907
+    name: Samuel T. Herring
+  - &ref_3
+    begin: '2006'
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 8bbe22cd-21ed-45fa-ada3-07424d9f5982
+    name: Moss of Aura
+  - &ref_4
+    begin: '2011'
+    end: ''
+    instruments:
+      - guitar
+    mbid: 8bbe22cd-21ed-45fa-ada3-07424d9f5982
+    name: Moss of Aura
+  - &ref_5
+    begin: '2014'
+    end: ''
+    instruments:
+      - task
+    mbid: 3ad0cbbb-5b4e-4fe8-ac27-2b50abb4b410
+    name: Michael Lowry
+  - &ref_6
+    begin: '2020'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 3ad0cbbb-5b4e-4fe8-ac27-2b50abb4b410
+    name: Michael Lowry
 musical_connections:
   collaborators:
-  - Samuel T. Herring
-  - William Cashion
-  - Gerrit Welmers
-  - Michael Lowry
-  - Madlib
-  - Bruce Willen
+    - Samuel T. Herring
+    - William Cashion
+    - Gerrit Welmers
+    - Michael Lowry
+    - Madlib
+    - Bruce Willen
   influenced: []
   mentors:
-  - Chester Endersby Gwazda
+    - Chester Endersby Gwazda
 musicbrainz_id: 74963434-dcb6-4b14-98cc-99873b06db66
 network_extracted: true
-origin: Greenville
+origin: 'Baltimore, Maryland, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
+  - *ref_6
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Future+Islands/+wiki
-- https://upsettherhythm.co.uk/futureislands.shtml
-- https://www.scaruffi.com/vol7/futureis.html
-- https://wfuv.org/content/future-islands-2024
-- https://www.loudandquiet.com/interview/future-islands-what-happens-when-youre-turning-40-and-youre-still-in-a-band-are-you-capable-of-still-making-interesting-music/
-- https://crackmagazine.net/article/long-reads/future-islands-yours-sincerely/
-- https://acltv.com/2014/09/26/future-islands/
-- https://readrange.com/future-islands-interview-jan-24/
+  - 'https://www.last.fm/music/Future+Islands/+wiki'
+  - 'https://upsettherhythm.co.uk/futureislands.shtml'
+  - 'https://www.scaruffi.com/vol7/futureis.html'
+  - 'https://wfuv.org/content/future-islands-2024'
+  - >-
+    https://www.loudandquiet.com/interview/future-islands-what-happens-when-youre-turning-40-and-youre-still-in-a-band-are-you-capable-of-still-making-interesting-music/
+  - 'https://crackmagazine.net/article/long-reads/future-islands-yours-sincerely/'
+  - 'https://acltv.com/2014/09/26/future-islands/'
+  - 'https://readrange.com/future-islands-interview-jan-24/'
 spotify_data:
   followers: 668433
   id: 1WvvwcQx0tj6NdDhZZ2zZz
   popularity: 60
-  url: https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz
+  url: 'https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz'
 status: active
 tags:
-- new wave
-- post-punk revival
-- synth-pop
+  - new wave
+  - post-punk revival
+  - synth-pop
 title: Future Islands
+birth_place: 'Greenville, North Carolina, United States'
 ---
 
 ![](future_islands.jpg)

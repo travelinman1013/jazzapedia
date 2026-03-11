@@ -1,40 +1,44 @@
 ---
 biography_enhanced_at: '2026-02-13T01:25:22.101920'
-birth_place: Metairie, Louisiana, United States
+birth_place: 'Metairie, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:25:22.101929'
 external_urls:
-  spotify: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
-  wikipedia: https://en.wikipedia.org/wiki/Jon_Batiste
+  spotify: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jon_Batiste'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/jon_batiste_michael_batiste_big_chief_romeo.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jon_batiste_michael_batiste_big_chief_romeo.jpg
 last_updated: '2026-02-13T01:25:22.101930'
 musical_connections:
   collaborators:
-  - Phil Kuehn
-  - Joe Saylor
-  - Eddie Barbash
-  - Ibanda Ruhumbika
-  - Trent Reznor and Atticus Ross
-  - Mavis Staples
-  - Andra Day, No I.D., Randy Newman
+    - Phil Kuehn
+    - Joe Saylor
+    - Eddie Barbash
+    - Ibanda Ruhumbika
+    - Trent Reznor and Atticus Ross
+    - Mavis Staples
+    - 'Andra Day, No I.D., Randy Newman'
   influenced: []
   mentors:
-  - William Daghlian
+    - William Daghlian
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jon_Batiste
-- https://www.britannica.com/biography/Jon-Batiste
-- https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/jon-batiste
-- https://www.neworleans.com/listing/jon-batiste/46609/
+  - 'https://en.wikipedia.org/wiki/Jon_Batiste'
+  - 'https://www.britannica.com/biography/Jon-Batiste'
+  - >-
+    https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/jon-batiste
+  - 'https://www.neworleans.com/listing/jon-batiste/46609/'
 spotify_data:
   followers: 639380
   id: 0eRbECAGCLLiTyVXPBRexU
   popularity: 57
-  url: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
+  url: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
 status: active
-title: Jon Batiste, Michael Batiste, Big Chief Romeo
+title: 'Jon Batiste, Michael Batiste, Big Chief Romeo'
+birth_date: '1986-11-11'
+artist_type: band
 ---
 
 ![](jon_batiste_michael_batiste_big_chief_romeo.jpg)

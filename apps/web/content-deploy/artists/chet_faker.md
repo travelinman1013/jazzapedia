@@ -2,50 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-02-11T01:58:02.179377'
 birth_date: '1988-06-23'
-birth_place: Melbourne
+birth_place: 'Melbourne, Victoria, Australia'
 enhancement_provider: perplexity
 entry_created: '2026-02-11T01:58:02.179386'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a21b2652-62ed-4767-a3d2-0aa802abf080
-  spotify: https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om
-  wikipedia: https://en.wikipedia.org/wiki/Chet_Faker
+  musicbrainz: 'https://musicbrainz.org/artist/a21b2652-62ed-4767-a3d2-0aa802abf080'
+  spotify: 'https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chet_Faker'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/chet_faker.jpg
 last_updated: '2026-02-11T01:58:02.179388'
 musical_connections:
   collaborators:
-  - Flume
-  - Say Lou Lou
-  - Marcus Marr
-  - GoldLink
-  - Bonobo
+    - Flume
+    - Say Lou Lou
+    - Marcus Marr
+    - GoldLink
+    - Bonobo
   influenced: []
   mentors:
-  - Chet Baker
-  - Bob Dylan
+    - Chet Baker
+    - Bob Dylan
 musicbrainz_id: a21b2652-62ed-4767-a3d2-0aa802abf080
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Chet+Faker/+wiki
-- https://en.wikipedia.org/wiki/Chet_Faker
-- http://lostinsound.org/chet-faker-artist-spotlight/
-- https://www.spin.com/2026/02/chet-faker-returns-home-with-a-love-for-strangers/
-- https://archive.junkee.com/longform/chet-faker-profile
-- https://tmrwmagazine.com/news/a-welcome-return-from-chet-faker
-- https://www.pastemagazine.com/music/chet-faker/chet-faker-feature
-- https://atwoodmagazine.com/cfhs-chet-faker-interview-2021-hotel-surrender-music/
+  - 'https://www.last.fm/music/Chet+Faker/+wiki'
+  - 'https://en.wikipedia.org/wiki/Chet_Faker'
+  - 'http://lostinsound.org/chet-faker-artist-spotlight/'
+  - >-
+    https://www.spin.com/2026/02/chet-faker-returns-home-with-a-love-for-strangers/
+  - 'https://archive.junkee.com/longform/chet-faker-profile'
+  - 'https://tmrwmagazine.com/news/a-welcome-return-from-chet-faker'
+  - 'https://www.pastemagazine.com/music/chet-faker/chet-faker-feature'
+  - >-
+    https://atwoodmagazine.com/cfhs-chet-faker-interview-2021-hotel-surrender-music/
 spotify_data:
   followers: 509048
   id: 6UcJxoeHWWWyT5HZP064om
   popularity: 62
-  url: https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om
+  url: 'https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om'
 status: active
 tags:
-- downtempo
-- electronica
-- soul
+  - downtempo
+  - electronica
+  - soul
 title: Chet Faker
 ---
 

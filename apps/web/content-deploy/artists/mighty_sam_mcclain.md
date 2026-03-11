@@ -1,69 +1,71 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - lead vocals
-  - original
-  mbid: f748bc91-40f3-40d5-aa21-1ba15631ac08
-  name: Mighty Sam McClain & Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+    mbid: f748bc91-40f3-40d5-aa21-1ba15631ac08
+    name: Mighty Sam McClain & Band
 biography_enhanced_at: '2026-02-06T01:09:32.740100'
 birth_date: '1943-04-15'
-birth_place: Monroe
+birth_place: 'Monroe, Louisiana, United States'
 death_date: '2015-06-16'
 enhancement_provider: perplexity
 entry_created: '2026-02-06T01:09:32.740109'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/05dbab6f-af89-47c3-8899-201711538b13
-  spotify: https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W
+  musicbrainz: 'https://musicbrainz.org/artist/05dbab6f-af89-47c3-8899-201711538b13'
+  spotify: 'https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W'
   wikipedia: ''
 gender: Male
 genres:
-- blues
-- soul blues
+  - blues
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/mighty_sam_mcclain.jpg
 instruments:
-- eponymous
-- lead vocals
-- original
-- vocal
+  - eponymous
+  - lead vocals
+  - original
+  - vocal
 last_updated: '2026-02-06T01:09:32.740111'
 musical_connections:
   collaborators:
-  - Hubert Sumlin
-  - Nappy Brown
-  - Johnny Adams
-  - Wayne Bennett
-  - Knut Reiersrud
-  - Mahsa Vadhat
-  - Neville Brothers
+    - Hubert Sumlin
+    - Nappy Brown
+    - Johnny Adams
+    - Wayne Bennett
+    - Knut Reiersrud
+    - Mahsa Vadhat
+    - Neville Brothers
   influenced: []
   mentors:
-  - Little Melvin Underwood
-  - Papa Don Schroeder
+    - Little Melvin Underwood
+    - Papa Don Schroeder
 musicbrainz_id: 05dbab6f-af89-47c3-8899-201711538b13
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.americanbluesscene.com/2015/07/remembering-the-great-mighty-sam-mcclain/
-- https://jointzoftheday.substack.com/p/mighty-sam-mcclain-april-15-1943
-- https://www.storypreservation.org/mighty-sam-mcclain-musician
-- https://www.soulexpress.net/mightysam.htm
-- https://thekatztapes.library.northeastern.edu/mighty-sam-mcclain-1998/
-- https://www.brewittfuneralhome.com/obituaries/Sam-McClain?obId=2404113
-- http://www.soulwalking.co.uk/Mighty%20Sam%20McClain.html
+  - >-
+    https://www.americanbluesscene.com/2015/07/remembering-the-great-mighty-sam-mcclain/
+  - 'https://jointzoftheday.substack.com/p/mighty-sam-mcclain-april-15-1943'
+  - 'https://www.storypreservation.org/mighty-sam-mcclain-musician'
+  - 'https://www.soulexpress.net/mightysam.htm'
+  - 'https://thekatztapes.library.northeastern.edu/mighty-sam-mcclain-1998/'
+  - 'https://www.brewittfuneralhome.com/obituaries/Sam-McClain?obId=2404113'
+  - 'http://www.soulwalking.co.uk/Mighty%20Sam%20McClain.html'
 spotify_data:
   followers: 26173
   id: 71sDMpcZzbN4kDKnYoGT1W
   popularity: 34
-  url: https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W
+  url: 'https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W'
 status: active
 tags:
-- blues
-- soul blues
+  - blues
+  - soul blues
 title: Mighty Sam McClain
+is_active: false
 ---
 
 ![](mighty_sam_mcclain.jpg)

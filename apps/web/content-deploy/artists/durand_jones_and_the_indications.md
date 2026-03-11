@@ -3,39 +3,45 @@ biography_enhanced_at: '2026-01-27T01:57:47.822830'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:57:47.822838'
 external_urls:
-  spotify: https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP
-  wikipedia: https://en.wikipedia.org/wiki/Durand_Jones_%26_The_Indications
+  spotify: 'https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Durand_Jones_%26_The_Indications'
 genres:
-- retro soul
-image_path: 03_Resources/source_material/ArtistPortraits/durand_jones_and_the_indications.jpg
+  - retro soul
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/durand_jones_and_the_indications.jpg
 last_updated: '2026-01-27T01:57:47.822840'
 musical_connections:
   collaborators:
-  - Aaron Frazer
-  - Blake Rhein
-  - Steve Okonski
-  - Eli 'Paperboy' Reed
+    - Aaron Frazer
+    - Blake Rhein
+    - Steve Okonski
+    - Eli 'Paperboy' Reed
   influenced: []
   mentors:
-  - Tyron Cooper
+    - Tyron Cooper
 network_extracted: true
-origin: Hillaryville, Louisiana, USA (Durand Jones birthplace); Bloomington, Indiana,
+origin: >-
+  Hillaryville, Louisiana, USA (Durand Jones birthplace); Bloomington, Indiana,
   USA (band formation)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Durand_Jones_&_The_Indications
-- https://www.jampack.com/artists/durand-jones
-- https://durandjonesandtheindications.com/about/
-- https://www.wfyi.org/news/articles/interview-durand-jones-and-the-indications-on-their-origins-and-growth
-- https://www.teamwass.com/music/durand-jones-indications/
-- https://www.redlightmanagement.com/artists/durand-jones-the-indications/
+  - 'https://en.wikipedia.org/wiki/Durand_Jones_&_The_Indications'
+  - 'https://www.jampack.com/artists/durand-jones'
+  - 'https://durandjonesandtheindications.com/about/'
+  - >-
+    https://www.wfyi.org/news/articles/interview-durand-jones-and-the-indications-on-their-origins-and-growth
+  - 'https://www.teamwass.com/music/durand-jones-indications/'
+  - 'https://www.redlightmanagement.com/artists/durand-jones-the-indications/'
 spotify_data:
   followers: 513939
   id: 6TVVIyd0fsRDGg6WzHKyTP
   popularity: 64
-  url: https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP
+  url: 'https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP'
 status: active
-title: durand jones and the indications
+title: Durand Jones and the Indications
+birth_place: 'Hillaryville, Louisiana, United States'
+birth_date: '1988-07-22'
+artist_type: band
 ---
 
 ![](durand_jones_and_the_indications.jpg)

@@ -1,57 +1,61 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-02-24T01:38:41.812163'
 disambiguation: UK band
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:38:41.812173'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/00381fce-a96f-40bf-b134-25980883eb17
-  spotify: https://open.spotify.com/artist/3SjOWNhqeaJ6B0d6KFpAeE
+  musicbrainz: 'https://musicbrainz.org/artist/00381fce-a96f-40bf-b134-25980883eb17'
+  spotify: 'https://open.spotify.com/artist/3SjOWNhqeaJ6B0d6KFpAeE'
   wikipedia: ''
 genres:
-- sea shanties
-- celtic
+  - sea shanties
+  - celtic
 image_path: 03_Resources/source_material/ArtistPortraits/lyr.jpg
 last_updated: '2026-02-24T01:38:41.812174'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 92192fc4-a255-4b47-b4ab-a6665f2e0378
-  name: Simon Armitage
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df9d6ee9-3ded-4cda-a848-d01c1063f201
-  name: Patrick James Pearson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 671d193b-921f-43e2-a7e5-ee02a73b804f
-  name: Richard Walters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 92192fc4-a255-4b47-b4ab-a6665f2e0378
+    name: Simon Armitage
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df9d6ee9-3ded-4cda-a848-d01c1063f201
+    name: Patrick James Pearson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 671d193b-921f-43e2-a7e5-ee02a73b804f
+    name: Richard Walters
 musical_connections:
   collaborators:
-  - A.L. Lloyd
+    - A.L. Lloyd
   influenced:
-  - The Clancy Brothers
+    - The Clancy Brothers
   mentors: []
 musicbrainz_id: 00381fce-a96f-40bf-b134-25980883eb17
 network_extracted: true
-origin: Hoylake, England (birthplace)
+origin: 'Hoylake, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://www.liverpoolirishfestival.com/wp-content/uploads/2017/06/LIF-Shanty-Singing-and-the-Irish-Atlantic-online-essay.pdf
-- https://blogs.loc.gov/folklife/2024/09/patrick-tayluer-the-man-behind-the-sea-shanties/
-- https://en.wikipedia.org/wiki/Sea_shanty
-- https://www.rootsmusic.ca/2021/03/17/6-irish-canadian-artists-who-are-actually-from-ireland/
-- https://biiah.com/sea-shanties/
+  - >-
+    https://www.liverpoolirishfestival.com/wp-content/uploads/2017/06/LIF-Shanty-Singing-and-the-Irish-Atlantic-online-essay.pdf
+  - >-
+    https://blogs.loc.gov/folklife/2024/09/patrick-tayluer-the-man-behind-the-sea-shanties/
+  - 'https://en.wikipedia.org/wiki/Sea_shanty'
+  - >-
+    https://www.rootsmusic.ca/2021/03/17/6-irish-canadian-artists-who-are-actually-from-ireland/
+  - 'https://biiah.com/sea-shanties/'
 spotify_data:
   followers: 17035
   id: 3SjOWNhqeaJ6B0d6KFpAeE
   popularity: 53
-  url: https://open.spotify.com/artist/3SjOWNhqeaJ6B0d6KFpAeE
+  url: 'https://open.spotify.com/artist/3SjOWNhqeaJ6B0d6KFpAeE'
 status: active
 title: LYR
+birth_place: 'Hoylake, England, United Kingdom'
 ---
 
 ![](lyr.jpg)

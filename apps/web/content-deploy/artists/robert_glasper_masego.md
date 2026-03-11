@@ -1,51 +1,55 @@
 ---
 biography_enhanced_at: '2026-02-24T01:47:00.418161'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:47:00.418170'
 external_urls:
-  spotify: https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Glasper
+  spotify: 'https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Glasper'
 genres:
-- neo soul
-- jazz rap
+  - neo soul
+  - jazz rap
 image_path: 03_Resources/source_material/ArtistPortraits/robert_glasper_masego.jpg
 last_updated: '2026-02-24T01:47:00.418172'
 musical_connections:
   collaborators:
-  - Chris Dave
-  - Casey Benjamin
-  - Derrick Hodge
-  - Bilal
-  - Erykah Badu
-  - Kendrick Lamar
-  - Masego
+    - Chris Dave
+    - Casey Benjamin
+    - Derrick Hodge
+    - Bilal
+    - Erykah Badu
+    - Kendrick Lamar
+    - Masego
   influenced:
-  - R+R=NOW members (e.g., Terrace Martin)
-  - August Greene members (e.g., Yasiin Bey, Derrick Hodge)
+    - 'R+R=NOW members (e.g., Terrace Martin)'
+    - 'August Greene members (e.g., Yasiin Bey, Derrick Hodge)'
   mentors:
-  - Miles Davis
-  - Herbie Hancock
-  - J Dilla
+    - Miles Davis
+    - Herbie Hancock
+    - J Dilla
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.fandango.com/people/robert-glasper-949311/biography
-- https://docfestjazz.org/robert-glaspers-biography/
-- https://www.youtube.com/watch?v=M_b34wpf8OQ
-- https://en.wikipedia.org/wiki/Robert_Glasper
-- https://jazztimes.com/features/profiles/meet-robert-glasper/
-- https://news.pollstar.com/2022/07/29/how-robert-glaspers-life-and-music-are-taking-him-to-a-higher-level/
-- https://www.bluenote.com/artist/robert-glasper/
-- https://concord.com/artist/robert-glasper/
-- https://www.clashmusic.com/news/robert-glasper-links-with-masego-on-all-masks/
+  - 'https://www.fandango.com/people/robert-glasper-949311/biography'
+  - 'https://docfestjazz.org/robert-glaspers-biography/'
+  - 'https://www.youtube.com/watch?v=M_b34wpf8OQ'
+  - 'https://en.wikipedia.org/wiki/Robert_Glasper'
+  - 'https://jazztimes.com/features/profiles/meet-robert-glasper/'
+  - >-
+    https://news.pollstar.com/2022/07/29/how-robert-glaspers-life-and-music-are-taking-him-to-a-higher-level/
+  - 'https://www.bluenote.com/artist/robert-glasper/'
+  - 'https://concord.com/artist/robert-glasper/'
+  - >-
+    https://www.clashmusic.com/news/robert-glasper-links-with-masego-on-all-masks/
 spotify_data:
   followers: 524241
   id: 5cM1PvItlR21WUyBnsdMcn
   popularity: 56
-  url: https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn
+  url: 'https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn'
 status: active
-title: Robert Glasper/ Masego
+title: Robert Glasper / Masego
+birth_date: '1978-04-05'
+artist_type: person
 ---
 
 ![](robert_glasper_masego.jpg)

@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-03-03T01:35:40.516779'
-birth_place: Grenada, Mississippi, USA
+birth_place: 'Grenada, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:35:40.516793'
 external_urls:
-  spotify: https://open.spotify.com/artist/2ky06Hu02htCYdnLZICpqY
-  wikipedia: https://en.wikipedia.org/wiki/Walter_Davis_(blues)
+  spotify: 'https://open.spotify.com/artist/2ky06Hu02htCYdnLZICpqY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Walter_Davis_(blues)'
 genres:
-- blues
-- ragtime
-- classic blues
-- country blues
+  - blues
+  - ragtime
+  - classic blues
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/walter_davis.jpg
 last_updated: '2026-03-03T01:35:40.516797'
 musical_connections:
   collaborators:
-  - Henry Townsend
-  - Big Joe Williams
-  - Roosevelt Sykes
+    - Henry Townsend
+    - Big Joe Williams
+    - Roosevelt Sykes
   influenced:
-  - Ray Charles
-  - Muddy Waters
-  - Memphis Slim
-  - Lowell Fulson
+    - Ray Charles
+    - Muddy Waters
+    - Memphis Slim
+    - Lowell Fulson
   mentors:
-  - Leroy Carr
-  - Roosevelt Sykes
+    - Leroy Carr
+    - Roosevelt Sykes
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Walter_Davis_(blues)
-- https://blues.org/blues_hof_inductee/walter-davis/
-- http://speaktheblues.blogspot.com/2017/10/walter-davis-deep-blues-legacy.html
-- https://agramblues.com/the-st-louis-blues-of-walter-davis/
+  - 'https://en.wikipedia.org/wiki/Walter_Davis_(blues)'
+  - 'https://blues.org/blues_hof_inductee/walter-davis/'
+  - >-
+    http://speaktheblues.blogspot.com/2017/10/walter-davis-deep-blues-legacy.html
+  - 'https://agramblues.com/the-st-louis-blues-of-walter-davis/'
 spotify_data:
   followers: 1427
   id: 2ky06Hu02htCYdnLZICpqY
   popularity: 2
-  url: https://open.spotify.com/artist/2ky06Hu02htCYdnLZICpqY
+  url: 'https://open.spotify.com/artist/2ky06Hu02htCYdnLZICpqY'
 status: active
-title: WALTER DAVIS
+title: Walter Davis
+birth_date: '1911-03-01'
+artist_type: person
 ---
 
 ![](walter_davis.jpg)

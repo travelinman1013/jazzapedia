@@ -1,35 +1,39 @@
 ---
 biography_enhanced_at: '2026-02-09T01:25:09.509302'
-birth_place: Tuscaloosa, Alabama, USA (local origin); now Louisville, Kentucky, USA
+birth_place: 'Tuscaloosa, Alabama, USA (local origin); now Louisville, Kentucky, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-09T01:25:09.509312'
 external_urls:
-  spotify: https://open.spotify.com/artist/1YgIxa9dIMWF6nUAYtprTR
+  spotify: 'https://open.spotify.com/artist/1YgIxa9dIMWF6nUAYtprTR'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/andy_branton.jpg
 last_updated: '2026-02-09T01:25:09.509313'
 musical_connections:
   collaborators:
-  - Adrian Marmolejo (Early James & the Latest, Zachary Williams & the Dirty Camaros)
-  - Les Nuby (formerly Verbena, Capitol Records)
-  - Ford Boswell (Early James & the Latest)
-  - Daniel Raine (Little Raine Band)
-  - Brad Kuehner (The Dirty Mirrors, Atticus Avenue)
+    - >-
+      Adrian Marmolejo (Early James & the Latest, Zachary Williams & the Dirty
+      Camaros)
+    - 'Les Nuby (formerly Verbena, Capitol Records)'
+    - Ford Boswell (Early James & the Latest)
+    - Daniel Raine (Little Raine Band)
+    - 'Brad Kuehner (The Dirty Mirrors, Atticus Avenue)'
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://andybranton.com/bio
-- https://www.youtube.com/watch?v=HqKFPwD4Bxc
+  - 'http://andybranton.com/bio'
+  - 'https://www.youtube.com/watch?v=HqKFPwD4Bxc'
 spotify_data:
   followers: 290
   id: 1YgIxa9dIMWF6nUAYtprTR
   popularity: 12
-  url: https://open.spotify.com/artist/1YgIxa9dIMWF6nUAYtprTR
+  url: 'https://open.spotify.com/artist/1YgIxa9dIMWF6nUAYtprTR'
 status: active
 title: Andy Branton
+origin: 'Louisville, Kentucky, United States'
+artist_type: person
 ---
 
 ![](andy_branton.jpg)

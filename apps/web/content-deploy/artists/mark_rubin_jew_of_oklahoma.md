@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2026-02-16T01:04:34.609525'
-birth_place: Stillwater, Oklahoma, USA
+birth_place: 'Stillwater, Oklahoma, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:04:34.609538'
 external_urls:
-  spotify: https://open.spotify.com/artist/32bbDxOZn7MY1zf5P3aBLm
+  spotify: 'https://open.spotify.com/artist/32bbDxOZn7MY1zf5P3aBLm'
   wikipedia: ''
 genres:
-- alt country
-- rockabilly
+  - alt country
+  - rockabilly
 image_path: 03_Resources/source_material/ArtistPortraits/mark_rubin_jew_of_oklahoma.jpg
 last_updated: '2026-02-16T01:04:34.609540'
 musical_connections:
   collaborators:
-  - Danny Barnes
-  - Frank London
-  - Andy Statman
-  - Chip Wilson
-  - Michael Ward-Bergeman
-  - The Other Europeans
+    - Danny Barnes
+    - Frank London
+    - Andy Statman
+    - Chip Wilson
+    - Michael Ward-Bergeman
+    - The Other Europeans
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://americanahighways.org/2021/05/14/interview-mark-rubin-s-jew-of-oklahoma-project-the-triumph-of-assimilation-addresses-anti-semitism-on-the-rise/
-- https://bycanvas.org/2021/07/23/artists-on-artists-mark-rubin-jew-of-oklahoma/
-- https://crescentcitysounds.org/artists/mark-rubin-jew-of-oklahoma
-- https://jewofoklahoma.bandcamp.com
-- https://www.jewofoklahoma.com
-- https://theweitzman.org/events/mark-rubin-concert/
-- https://schoolofmusic.ucla.edu/event/meet-the-musician-multi-instrumentalist-mark-rubin/
-- https://www.nahalatshalom.org/mark-rubin-bio
-- https://www.bluegrass.com.br/post/jew-of-oklahoma-interview-with-mark-rubin
+  - >-
+    https://americanahighways.org/2021/05/14/interview-mark-rubin-s-jew-of-oklahoma-project-the-triumph-of-assimilation-addresses-anti-semitism-on-the-rise/
+  - >-
+    https://bycanvas.org/2021/07/23/artists-on-artists-mark-rubin-jew-of-oklahoma/
+  - 'https://crescentcitysounds.org/artists/mark-rubin-jew-of-oklahoma'
+  - 'https://jewofoklahoma.bandcamp.com'
+  - 'https://www.jewofoklahoma.com'
+  - 'https://theweitzman.org/events/mark-rubin-concert/'
+  - >-
+    https://schoolofmusic.ucla.edu/event/meet-the-musician-multi-instrumentalist-mark-rubin/
+  - 'https://www.nahalatshalom.org/mark-rubin-bio'
+  - 'https://www.bluegrass.com.br/post/jew-of-oklahoma-interview-with-mark-rubin'
 spotify_data:
   followers: 96
   id: 32bbDxOZn7MY1zf5P3aBLm
   popularity: 0
-  url: https://open.spotify.com/artist/32bbDxOZn7MY1zf5P3aBLm
+  url: 'https://open.spotify.com/artist/32bbDxOZn7MY1zf5P3aBLm'
 status: active
-title: Mark Rubin, Jew of Oklahoma
+title: 'Mark Rubin, Jew of Oklahoma'
+artist_type: person
 ---
 
 ![](mark_rubin_jew_of_oklahoma.jpg)

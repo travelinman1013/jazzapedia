@@ -1,35 +1,37 @@
 ---
 biography_enhanced_at: '2026-02-01T01:30:38.448554'
-birth_place: Alabama (born), Mississippi (raised), Louisiana (transplanted), United
-  States
+birth_place: 'Alabama (born), Mississippi (raised), Louisiana (transplanted), United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:30:38.448560'
 external_urls:
-  spotify: https://open.spotify.com/artist/3bJAGacsioehpu4EYkFMDb
+  spotify: 'https://open.spotify.com/artist/3bJAGacsioehpu4EYkFMDb'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/arthur_foy.jpg
 last_updated: '2026-02-01T01:30:38.448561'
 musical_connections:
   collaborators:
-  - Carl Marshall
+    - Carl Marshall
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.iziphosoul.com/arthur-foy---love-dreams--clear--black-vinyl-options-132-p.asp
-- https://soundsoftheuniverse.com/sjr/product/love-dreams-love-storm
-- https://www.southernsoulrnb.com/artistguide.cfm?aid=444
-- https://www.allmusic.com/artist/arthur-foy-mn0001948989
-- https://open.spotify.com/artist/3bJAGacsioehpu4EYkFMDb
+  - >-
+    https://www.iziphosoul.com/arthur-foy---love-dreams--clear--black-vinyl-options-132-p.asp
+  - 'https://soundsoftheuniverse.com/sjr/product/love-dreams-love-storm'
+  - 'https://www.southernsoulrnb.com/artistguide.cfm?aid=444'
+  - 'https://www.allmusic.com/artist/arthur-foy-mn0001948989'
+  - 'https://open.spotify.com/artist/3bJAGacsioehpu4EYkFMDb'
 spotify_data:
   followers: 53
   id: 3bJAGacsioehpu4EYkFMDb
   popularity: 0
-  url: https://open.spotify.com/artist/3bJAGacsioehpu4EYkFMDb
+  url: 'https://open.spotify.com/artist/3bJAGacsioehpu4EYkFMDb'
 status: active
 title: Arthur Foy
+death_date: '2018'
+artist_type: person
 ---
 
 ![](arthur_foy.jpg)

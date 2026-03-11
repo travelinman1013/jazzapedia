@@ -1,63 +1,65 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1986'
-  end: ''
-  instruments: []
-  mbid: b23d849c-c10f-4570-afcf-c17b0fc17531
-  name: The Assassins
+  - begin: '1986'
+    end: ''
+    instruments: []
+    mbid: b23d849c-c10f-4570-afcf-c17b0fc17531
+    name: The Assassins
 biography_enhanced_at: '2026-02-07T01:26:31.440340'
 birth_date: '1953-05-19'
-birth_place: Pittsburgh
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:26:31.440349'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0f4f8699-6fbf-46c4-bfd3-92f4eaf5b691
-  spotify: https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Thackery
+  musicbrainz: 'https://musicbrainz.org/artist/0f4f8699-6fbf-46c4-bfd3-92f4eaf5b691'
+  spotify: 'https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Thackery'
 gender: Male
 genres:
-- blues
-- modern blues
-- blues rock
+  - blues
+  - modern blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_thackery.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-02-07T01:26:31.440351'
 musical_connections:
   collaborators:
-  - Mark Wenner
-  - John Mooney
-  - Jim Gaines
-  - Earl and Ernie Cate
+    - Mark Wenner
+    - John Mooney
+    - Jim Gaines
+    - Earl and Ernie Cate
   influenced: []
   mentors:
-  - Buddy Guy
-  - Jimi Hendrix
+    - Buddy Guy
+    - Jimi Hendrix
 musicbrainz_id: 0f4f8699-6fbf-46c4-bfd3-92f4eaf5b691
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://lancasterrootsandblues.com/artist/jimmy-thackery/
-- https://swaves.com/Back_Issues/June02/Jimmy_Thackery.htm
-- https://nrvhost.com/jim_thackery_band/bio.html
-- https://en.wikipedia.org/wiki/Jimmy_Thackery
-- https://www.kunc.org/music/2014-10-11/jimmy-thackery-is-equal-parts-great-guitarist-vocalist-and-songwriter-and-all-music
-- https://www.coffeehouseguitars.co.uk/pages/guitarist/jimmy-thackery
-- https://jeffrichardsauthor.com/interview-of-jimmy-thackery/
-- https://www.allaboutjazz.com/musicians/jimmy-thackery/
-- https://bluesfestivalguide.com/jimmy-thackery-the-drivers-spare-keys/
+  - 'https://lancasterrootsandblues.com/artist/jimmy-thackery/'
+  - 'https://swaves.com/Back_Issues/June02/Jimmy_Thackery.htm'
+  - 'https://nrvhost.com/jim_thackery_band/bio.html'
+  - 'https://en.wikipedia.org/wiki/Jimmy_Thackery'
+  - >-
+    https://www.kunc.org/music/2014-10-11/jimmy-thackery-is-equal-parts-great-guitarist-vocalist-and-songwriter-and-all-music
+  - 'https://www.coffeehouseguitars.co.uk/pages/guitarist/jimmy-thackery'
+  - 'https://jeffrichardsauthor.com/interview-of-jimmy-thackery/'
+  - 'https://www.allaboutjazz.com/musicians/jimmy-thackery/'
+  - 'https://bluesfestivalguide.com/jimmy-thackery-the-drivers-spare-keys/'
 spotify_data:
   followers: 25665
   id: 22I2nRL3Avazb5FfXhmyDQ
   popularity: 25
-  url: https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ
+  url: 'https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ'
 status: active
 tags:
-- blues
-- blues rock
-- electric blues
-title: jimmy thackery
+  - blues
+  - blues rock
+  - electric blues
+title: Jimmy Thackery
+origin: 'Washington, D.C., District of Columbia, United States'
 ---
 
 ![](jimmy_thackery.jpg)

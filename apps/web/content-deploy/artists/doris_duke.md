@@ -1,40 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-30T01:20:00.150153'
-birth_place: Sandersville, Georgia, United States
+birth_place: 'Sandersville, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:20:00.150160'
 external_urls:
-  spotify: https://open.spotify.com/artist/4EBkFWxQ0EP5Fvya15d3Af
+  spotify: 'https://open.spotify.com/artist/4EBkFWxQ0EP5Fvya15d3Af'
   wikipedia: Not found in search results
 genres:
-- soul
-- classic soul
+  - soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/doris_duke.jpg
 last_updated: '2026-01-30T01:20:00.150161'
 musical_connections:
   collaborators:
-  - Nina Simone
-  - Kenneth Gamble and Leon Huff
+    - Nina Simone
+    - Kenneth Gamble and Leon Huff
   influenced: []
   mentors:
-  - Jerry "Swamp Dogg" Williams Jr.
+    - Jerry "Swamp Dogg" Williams Jr.
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://soullibrary.goldenrules.de/doris-duke/
-- https://dereksmusicblog.com/2013/10/05/doris-duke-im-a-loser-2/
-- https://undrcurrents.com/alternative-canon-doris-duke-im-a-loser-1969/
-- https://acerecords.co.uk/im-a-loser-the-swamp-dogg-sessions-and-more
-- https://www.elsewhere.co.nz/fromthevaults/11525/doris-willingham-you-cant-do-that-1968/
-- https://www.iheart.com/artist/doris-duke-11945/
-- https://kids.kiddle.co/Doris_Duke_(soul_singer)
+  - 'https://soullibrary.goldenrules.de/doris-duke/'
+  - 'https://dereksmusicblog.com/2013/10/05/doris-duke-im-a-loser-2/'
+  - 'https://undrcurrents.com/alternative-canon-doris-duke-im-a-loser-1969/'
+  - 'https://acerecords.co.uk/im-a-loser-the-swamp-dogg-sessions-and-more'
+  - >-
+    https://www.elsewhere.co.nz/fromthevaults/11525/doris-willingham-you-cant-do-that-1968/
+  - 'https://www.iheart.com/artist/doris-duke-11945/'
+  - 'https://kids.kiddle.co/Doris_Duke_(soul_singer)'
 spotify_data:
   followers: 8315
   id: 4EBkFWxQ0EP5Fvya15d3Af
   popularity: 14
-  url: https://open.spotify.com/artist/4EBkFWxQ0EP5Fvya15d3Af
+  url: 'https://open.spotify.com/artist/4EBkFWxQ0EP5Fvya15d3Af'
 status: active
-title: doris duke
+title: Doris Duke
+birth_date: '1941-05-18'
+death_date: '2019-03-21'
+artist_type: person
 ---
 
 ![](doris_duke.jpg)

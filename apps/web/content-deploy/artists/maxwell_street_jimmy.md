@@ -1,36 +1,39 @@
 ---
 biography_enhanced_at: '2026-03-03T01:33:25.183073'
-birth_place: Tippo, Mississippi, USA
+birth_place: 'Tippo, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:33:25.183089'
 external_urls:
-  spotify: https://open.spotify.com/artist/2Ddm2vik5ykV0RzSjVDoHo
-  wikipedia: https://en.wikipedia.org/wiki/Maxwell_Street_Jimmy_Davis
+  spotify: 'https://open.spotify.com/artist/2Ddm2vik5ykV0RzSjVDoHo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Maxwell_Street_Jimmy_Davis'
 genres:
-- country blues
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/maxwell_street_jimmy.jpg
 last_updated: '2026-03-03T01:33:25.183093'
 musical_connections:
   collaborators:
-  - Lester Davenport
-  - Kansas City Red
+    - Lester Davenport
+    - Kansas City Red
   influenced: []
   mentors:
-  - John Lee Hooker
+    - John Lee Hooker
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Maxwell_Street_Jimmy_Davis
-- https://www.allmusic.com/artist/maxwell-street-jimmy-davis-mn0000866496
-- https://www.jango.com/music/Maxwell+Street+Jimmy+Davis/_full_bio
-- https://maxwellstreetfoundation.org/history/the-music/
+  - 'https://en.wikipedia.org/wiki/Maxwell_Street_Jimmy_Davis'
+  - 'https://www.allmusic.com/artist/maxwell-street-jimmy-davis-mn0000866496'
+  - 'https://www.jango.com/music/Maxwell+Street+Jimmy+Davis/_full_bio'
+  - 'https://maxwellstreetfoundation.org/history/the-music/'
 spotify_data:
   followers: 328
   id: 2Ddm2vik5ykV0RzSjVDoHo
   popularity: 0
-  url: https://open.spotify.com/artist/2Ddm2vik5ykV0RzSjVDoHo
+  url: 'https://open.spotify.com/artist/2Ddm2vik5ykV0RzSjVDoHo'
 status: active
 title: MAXWELL STREET JIMMY
+origin: 'Chicago, Illinois, United States'
+birth_date: '1925-03-02'
+artist_type: person
 ---
 
 ![](maxwell_street_jimmy.jpg)

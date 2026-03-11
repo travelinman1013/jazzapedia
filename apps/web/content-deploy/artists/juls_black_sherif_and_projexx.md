@@ -3,41 +3,45 @@ biography_enhanced_at: '2026-02-15T01:52:24.797572'
 enhancement_provider: perplexity
 entry_created: '2026-02-15T01:52:24.797611'
 external_urls:
-  spotify: https://open.spotify.com/artist/5ZyxNTwTTm7Vp95p2UEOsd
-  wikipedia: https://en.wikipedia.org/wiki/Juls
+  spotify: 'https://open.spotify.com/artist/5ZyxNTwTTm7Vp95p2UEOsd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Juls'
 genres:
-- lovers rock
-- hiplife
+  - lovers rock
+  - hiplife
 image_path: ''
 last_updated: '2026-02-15T01:52:24.797615'
 musical_connections:
   collaborators:
-  - Mr Eazi
-  - Burna Boy
-  - Projexx
-  - Black Sherif
-  - Show Dem Camp
+    - Mr Eazi
+    - Burna Boy
+    - Projexx
+    - Black Sherif
+    - Show Dem Camp
   influenced: []
   mentors:
-  - Fela Kuti
+    - Fela Kuti
 network_extracted: true
-origin: Accra, Ghana (primary base); London, UK (Juls origin)
+origin: 'Accra, Ghana (primary base); London, UK (Juls origin)'
 primary_source: perplexity
 research_sources:
-- https://www.okayafrica.com/the-irrefutable-reign-of-black-sherif/203739
-- https://en.wikipedia.org/wiki/Black_Sherif
-- https://en.wikipedia.org/wiki/Juls
-- https://www.youtube.com/watch?v=_upXbHOgzZo
-- https://www.varsity.co.uk/music/21135
-- https://www.wonderlandmagazine.com/2025/04/04/black-sherif/
-- https://mixmag.net/read/juls-releases-new-single-timing-reveals-details-of-sophomore-album-release-news
+  - 'https://www.okayafrica.com/the-irrefutable-reign-of-black-sherif/203739'
+  - 'https://en.wikipedia.org/wiki/Black_Sherif'
+  - 'https://en.wikipedia.org/wiki/Juls'
+  - 'https://www.youtube.com/watch?v=_upXbHOgzZo'
+  - 'https://www.varsity.co.uk/music/21135'
+  - 'https://www.wonderlandmagazine.com/2025/04/04/black-sherif/'
+  - >-
+    https://mixmag.net/read/juls-releases-new-single-timing-reveals-details-of-sophomore-album-release-news
 spotify_data:
   followers: 48
   id: 5ZyxNTwTTm7Vp95p2UEOsd
   popularity: 7
-  url: https://open.spotify.com/artist/5ZyxNTwTTm7Vp95p2UEOsd
+  url: 'https://open.spotify.com/artist/5ZyxNTwTTm7Vp95p2UEOsd'
 status: active
-title: juls, black sherif & projexx
+title: 'Juls, Black Sherif & Projexx'
+birth_place: 'Hackney, East London, United Kingdom'
+birth_date: '1985-10-25'
+artist_type: person
 ---
 
 ![]()

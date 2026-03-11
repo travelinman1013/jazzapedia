@@ -2,50 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-03-01T02:03:22.116780'
 birth_date: '1954'
-birth_place: San Pedro district, Córdoba, Spain
+birth_place: 'San Pedro district, Córdoba, Spain'
 enhancement_provider: perplexity
 entry_created: '2026-03-01T02:03:22.116790'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f0477177-fb10-4e65-a2af-1a55f481032a
-  spotify: https://open.spotify.com/artist/6iLlXFjxRa3FdTOoFxx6oL
+  musicbrainz: 'https://musicbrainz.org/artist/f0477177-fb10-4e65-a2af-1a55f481032a'
+  spotify: 'https://open.spotify.com/artist/6iLlXFjxRa3FdTOoFxx6oL'
   wikipedia: ''
 genres:
-- flamenco
-- flamenco pop
+  - flamenco
+  - flamenco pop
 image_path: 03_Resources/source_material/ArtistPortraits/el_pele.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-03-01T02:03:22.116791'
 musical_connections:
   collaborators:
-  - Vicente Amigo
-  - El Niño Seve
-  - Farruquito
-  - David Bowie
-  - Prince
+    - Vicente Amigo
+    - El Niño Seve
+    - Farruquito
+    - David Bowie
+    - Prince
   influenced: []
   mentors:
-  - Caracol
-  - Juan Talega
-  - Pastora Pavón
+    - Caracol
+    - Juan Talega
+    - Pastora Pavón
 musicbrainz_id: f0477177-fb10-4e65-a2af-1a55f481032a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://worldmusiccentral.org/artist-profiles-el-pele/
-- https://www.teatrocervantes.com/en/genero/musica/flamenco-lo-seras-tu-2024/el-pele-1575
-- https://expoflamenco.com/archivo/en/blog-archivo/paradas-and-el-pele-de-cordoba/
-- https://www.teatroreal.es/en/show/pele
-- https://vidaflamenca.org/flamenco-real-el-pele-pure-and-wild/
-- https://flamencobiennale.nl/en/program/peleando-y-punto-dutch-premiere/
-- https://worldmusiccentral.org/el-pele-the-global-memory-of-flamenco/
+  - 'https://worldmusiccentral.org/artist-profiles-el-pele/'
+  - >-
+    https://www.teatrocervantes.com/en/genero/musica/flamenco-lo-seras-tu-2024/el-pele-1575
+  - >-
+    https://expoflamenco.com/archivo/en/blog-archivo/paradas-and-el-pele-de-cordoba/
+  - 'https://www.teatroreal.es/en/show/pele'
+  - 'https://vidaflamenca.org/flamenco-real-el-pele-pure-and-wild/'
+  - 'https://flamencobiennale.nl/en/program/peleando-y-punto-dutch-premiere/'
+  - 'https://worldmusiccentral.org/el-pele-the-global-memory-of-flamenco/'
 spotify_data:
   followers: 18108
   id: 6iLlXFjxRa3FdTOoFxx6oL
   popularity: 33
-  url: https://open.spotify.com/artist/6iLlXFjxRa3FdTOoFxx6oL
+  url: 'https://open.spotify.com/artist/6iLlXFjxRa3FdTOoFxx6oL'
 status: active
-title: el pele
+title: El Pele
 ---
 
 ![](el_pele.jpg)

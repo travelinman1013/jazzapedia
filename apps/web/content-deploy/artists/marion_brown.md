@@ -1,46 +1,52 @@
 ---
 biography_enhanced_at: '2026-03-04T01:47:25.095588'
-birth_place: Atlanta, Georgia, USA
+birth_place: 'Atlanta, Georgia, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-04T01:47:25.095597'
 external_urls:
-  spotify: https://open.spotify.com/artist/5OKhN5AURco1pBqba3CbnS
+  spotify: 'https://open.spotify.com/artist/5OKhN5AURco1pBqba3CbnS'
   wikipedia: ''
 genres:
-- free jazz
-- ambient jazz
-- experimental jazz
-- avant-garde
-- jazz
+  - free jazz
+  - ambient jazz
+  - experimental jazz
+  - avant-garde
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/marion_brown.jpg
 last_updated: '2026-03-04T01:47:25.095598'
 musical_connections:
   collaborators:
-  - John Coltrane
-  - Archie Shepp
-  - Gunter Hampel
-  - Steve McCall
+    - John Coltrane
+    - Archie Shepp
+    - Gunter Hampel
+    - Steve McCall
   influenced:
-  - Harold Budd
+    - Harold Budd
   mentors:
-  - Ornette Coleman
-  - Wayman Carver
+    - Ornette Coleman
+    - Wayman Carver
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Marion+Brown/+wiki
-- https://www.allaboutjazz.com/musicians/marion-brown/
-- https://jazztimes.com/features/tributes-and-obituaries/jazz-saxophonist-marion-brown-dies/
-- https://sunra.substack.com/p/marion-brown
-- https://bittersoutherner.com/feature/2021/marion-browns-musical-portrait-of-georgia
-- https://www.cliffordallen.me/interviews/marion-brown-september-8-1931-october-18-2010-pieces-of-a-conversation-interview-2005
+  - 'https://www.last.fm/music/Marion+Brown/+wiki'
+  - 'https://www.allaboutjazz.com/musicians/marion-brown/'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/jazz-saxophonist-marion-brown-dies/
+  - 'https://sunra.substack.com/p/marion-brown'
+  - >-
+    https://bittersoutherner.com/feature/2021/marion-browns-musical-portrait-of-georgia
+  - >-
+    https://www.cliffordallen.me/interviews/marion-brown-september-8-1931-october-18-2010-pieces-of-a-conversation-interview-2005
 spotify_data:
   followers: 10928
   id: 5OKhN5AURco1pBqba3CbnS
   popularity: 20
-  url: https://open.spotify.com/artist/5OKhN5AURco1pBqba3CbnS
+  url: 'https://open.spotify.com/artist/5OKhN5AURco1pBqba3CbnS'
 status: active
-title: Marion brown
+title: Marion Brown
+birth_date: '1931-09-08'
+death_date: '2010-10-18'
+artist_type: person
 ---
 
 ![](marion_brown.jpg)

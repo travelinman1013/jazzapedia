@@ -4,10 +4,10 @@ birth_place: Unknown
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:04:23.094488'
 external_urls:
-  spotify: https://open.spotify.com/artist/50wrRi9e5QJ2tTvKce0WEK
+  spotify: 'https://open.spotify.com/artist/50wrRi9e5QJ2tTvKce0WEK'
   wikipedia: ''
 genres:
-- underground hip hop
+  - underground hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/extended.jpg
 last_updated: '2026-02-03T02:04:23.094491'
 musical_connections:
@@ -21,9 +21,10 @@ spotify_data:
   followers: 820
   id: 50wrRi9e5QJ2tTvKce0WEK
   popularity: 4
-  url: https://open.spotify.com/artist/50wrRi9e5QJ2tTvKce0WEK
+  url: 'https://open.spotify.com/artist/50wrRi9e5QJ2tTvKce0WEK'
 status: active
 title: Extended
+artist_type: person
 ---
 
 ![](extended.jpg)

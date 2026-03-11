@@ -1,61 +1,63 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3503d833-82e0-449d-af14-f0e4f74162c8
-  name: Matty Matlock’s All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3f3facce-dfda-4eed-8022-5b11a3ef02cf
-  name: John Scott Trotter and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3503d833-82e0-449d-af14-f0e4f74162c8
+    name: Matty Matlock’s All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3f3facce-dfda-4eed-8022-5b11a3ef02cf
+    name: John Scott Trotter and His Orchestra
 biography_enhanced_at: '2026-02-08T01:59:15.181456'
 birth_date: '1907-04-27'
-birth_place: Paducah
+birth_place: 'Paducah, Kentucky, United States'
 death_date: '1978-06-14'
 enhancement_provider: perplexity
 entry_created: '2026-02-08T01:59:15.181465'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7b9278f3-3922-482c-8929-643c97c80c69
-  spotify: https://open.spotify.com/artist/4V65ddYFpwKgaKYAhYeEQV
-  wikipedia: https://en.wikipedia.org/wiki/Matty_Matlock
+  musicbrainz: 'https://musicbrainz.org/artist/7b9278f3-3922-482c-8929-643c97c80c69'
+  spotify: 'https://open.spotify.com/artist/4V65ddYFpwKgaKYAhYeEQV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Matty_Matlock'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/matty_matlock.jpg
 last_updated: '2026-02-08T01:59:15.181467'
 musical_connections:
   collaborators:
-  - Bob Crosby
-  - Eddie Miller
-  - Bing Crosby
-  - Louis Armstrong
-  - Ella Fitzgerald
-  - Ben Pollack
-  - Nappy LaMare
-  - Gil Rodin
+    - Bob Crosby
+    - Eddie Miller
+    - Bing Crosby
+    - Louis Armstrong
+    - Ella Fitzgerald
+    - Ben Pollack
+    - Nappy LaMare
+    - Gil Rodin
   influenced: []
   mentors:
-  - Fud Livingston
+    - Fud Livingston
 musicbrainz_id: 7b9278f3-3922-482c-8929-643c97c80c69
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Matty_Matlock
-- https://www.mclib.net/posts/notes-paducah-musical-history-julian-matty-matlock
-- https://www.oldtimeradiodownloads.com/actors/matty-matlock
-- https://jaz.fandom.com/wiki/Matty_Matlock
-- https://www.jazzmusicarchives.com/artist/matty-matlock
+  - 'https://en.wikipedia.org/wiki/Matty_Matlock'
+  - >-
+    https://www.mclib.net/posts/notes-paducah-musical-history-julian-matty-matlock
+  - 'https://www.oldtimeradiodownloads.com/actors/matty-matlock'
+  - 'https://jaz.fandom.com/wiki/Matty_Matlock'
+  - 'https://www.jazzmusicarchives.com/artist/matty-matlock'
 spotify_data:
   followers: 162
   id: 4V65ddYFpwKgaKYAhYeEQV
   popularity: 12
-  url: https://open.spotify.com/artist/4V65ddYFpwKgaKYAhYeEQV
+  url: 'https://open.spotify.com/artist/4V65ddYFpwKgaKYAhYeEQV'
 status: active
 tags:
-- jazz
+  - jazz
 title: Matty Matlock
+is_active: false
 ---
 
 ![](matty_matlock.jpg)

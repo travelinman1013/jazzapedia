@@ -1,47 +1,52 @@
 ---
 biography_enhanced_at: '2026-03-02T01:16:15.421678'
-birth_place: Helsinki, Finland (based); small town in Southern Finland (grew up)
+birth_place: 'Helsinki, Finland (based); small town in Southern Finland (grew up)'
 enhancement_provider: perplexity
 entry_created: '2026-03-02T01:16:15.421688'
 external_urls:
-  spotify: https://open.spotify.com/artist/2HSrUu5gnGYED8x1ctChIA
+  spotify: 'https://open.spotify.com/artist/2HSrUu5gnGYED8x1ctChIA'
   wikipedia: ''
 genres:
-- experimental
-- avant-garde
-image_path: 03_Resources/source_material/ArtistPortraits/meriheini_luoto_signe_awake_percussion_saxtronauts_luoto_luo.jpg
+  - experimental
+  - avant-garde
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/meriheini_luoto_signe_awake_percussion_saxtronauts_luoto_luo.jpg
 last_updated: '2026-03-02T01:16:15.421690'
 musical_connections:
   collaborators:
-  - Iida Savolainen
-  - Signe
-  - Awake Percussion
-  - Saxtronauts
-  - Luoto luonnos
-  - Kaj Mäki-Ullakko
-  - Taavi Oramo
-  - Hohka members
+    - Iida Savolainen
+    - Signe
+    - Awake Percussion
+    - Saxtronauts
+    - Luoto luonnos
+    - Kaj Mäki-Ullakko
+    - Taavi Oramo
+    - Hohka members
   influenced: []
   mentors:
-  - Junior high school music teacher (unnamed)
+    - Junior high school music teacher (unnamed)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.meriheiniluoto.com/about
-- https://www.fmq.fi/articles/meriheini-luoto
-- https://nordicwatchlist.com/2020/12/18/meet-meriheini-luoto-finnish-composer-and-violinist/
-- https://www.fmq.fi/articles/composer-meriheini-luoto-deep-listening-in-the-wild
-- https://musicfinland.com/en/news/staff-picks-2025
-- https://www.shazam.com/artist/meriheini-luoto/492083055
-- https://www.viberate.com/artist/awake-percussion/
-- https://awakepercussion.com/english
+  - 'https://www.meriheiniluoto.com/about'
+  - 'https://www.fmq.fi/articles/meriheini-luoto'
+  - >-
+    https://nordicwatchlist.com/2020/12/18/meet-meriheini-luoto-finnish-composer-and-violinist/
+  - >-
+    https://www.fmq.fi/articles/composer-meriheini-luoto-deep-listening-in-the-wild
+  - 'https://musicfinland.com/en/news/staff-picks-2025'
+  - 'https://www.shazam.com/artist/meriheini-luoto/492083055'
+  - 'https://www.viberate.com/artist/awake-percussion/'
+  - 'https://awakepercussion.com/english'
 spotify_data:
   followers: 204
   id: 2HSrUu5gnGYED8x1ctChIA
   popularity: 3
-  url: https://open.spotify.com/artist/2HSrUu5gnGYED8x1ctChIA
+  url: 'https://open.spotify.com/artist/2HSrUu5gnGYED8x1ctChIA'
 status: active
-title: Meriheini Luoto, Signe, Awake Percussion, Saxtronauts, Luoto luo
+title: Meriheini Luoto
+origin: 'Southern Finland, Finland'
+artist_type: person
 ---
 
 ![](meriheini_luoto_signe_awake_percussion_saxtronauts_luoto_luo.jpg)

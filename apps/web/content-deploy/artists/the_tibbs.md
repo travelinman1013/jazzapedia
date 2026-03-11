@@ -3,33 +3,34 @@ biography_enhanced_at: '2026-02-13T01:28:31.163090'
 enhancement_provider: perplexity
 entry_created: '2026-02-13T01:28:31.163098'
 external_urls:
-  spotify: https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw
+  spotify: 'https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw'
   wikipedia: ''
 genres:
-- retro soul
-- soul blues
+  - retro soul
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/the_tibbs.jpg
 last_updated: '2026-02-13T01:28:31.163100'
 musical_connections:
   collaborators:
-  - Elsa Bekman
+    - Elsa Bekman
   influenced: []
   mentors: []
 network_extracted: true
-origin: Amsterdam, Netherlands
+origin: 'Amsterdam, Netherlands'
 primary_source: perplexity
 research_sources:
-- https://www.thetibbs.nl
-- https://www.marmosetmusic.com/artists/the-tibbs
-- https://recordkicks.com/artist/the-tibbs/
-- https://www.allmusic.com/artist/the-tibbs-mn0003490721
+  - 'https://www.thetibbs.nl'
+  - 'https://www.marmosetmusic.com/artists/the-tibbs'
+  - 'https://recordkicks.com/artist/the-tibbs/'
+  - 'https://www.allmusic.com/artist/the-tibbs-mn0003490721'
 spotify_data:
   followers: 23898
   id: 2erVTUGh7hd5PQ3qwChdxw
   popularity: 42
-  url: https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw
+  url: 'https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw'
 status: active
 title: The Tibbs
+artist_type: band
 ---
 
 ![](the_tibbs.jpg)

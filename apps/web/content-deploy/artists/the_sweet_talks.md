@@ -3,43 +3,44 @@ biography_enhanced_at: '2026-02-10T01:54:39.022574'
 enhancement_provider: perplexity
 entry_created: '2026-02-10T01:54:39.022583'
 external_urls:
-  spotify: https://open.spotify.com/artist/6yjaYSEQxctVQaNKI3jHnL
+  spotify: 'https://open.spotify.com/artist/6yjaYSEQxctVQaNKI3jHnL'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_sweet_talks.jpg
 last_updated: '2026-02-10T01:54:39.022584'
 musical_connections:
   collaborators:
-  - A.B. Crentsil
-  - Smart Nkansah
-  - Pope Flynn
-  - Eric Agyeman
-  - Jewel Ackah
-  - Wayne Henderson
+    - A.B. Crentsil
+    - Smart Nkansah
+    - Pope Flynn
+    - Eric Agyeman
+    - Jewel Ackah
+    - Wayne Henderson
   influenced:
-  - Smart Nkansah (Sunsum Band)
-  - Eric Agyeman (Kokroko)
-  - Jewel Ackah
+    - Smart Nkansah (Sunsum Band)
+    - Eric Agyeman (Kokroko)
+    - Jewel Ackah
   mentors:
-  - Roots styles (osode and palm wine)
+    - Roots styles (osode and palm wine)
 network_extracted: true
-origin: Tema, Ghana
+origin: 'Tema, Ghana, Ghana'
 primary_source: perplexity
 research_sources:
-- http://afroriginal.blogspot.com/2013/08/ab-crentsil-super-sweet-talks.html
-- https://music.apple.com/gh/artist/the-sweet-talks/1484950309
-- https://jazzrocksoul.com/artists/sweet-talks/
-- https://www.allmusic.com/artist/the-sweet-talks-mn0000955064
-- https://matrix-music.com/artist/the-sweet-talks/
-- https://likembe.blogspot.com/2018/03/mmmmmm-sweet-80s-highlife-music.html
-- https://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=3384
+  - 'http://afroriginal.blogspot.com/2013/08/ab-crentsil-super-sweet-talks.html'
+  - 'https://music.apple.com/gh/artist/the-sweet-talks/1484950309'
+  - 'https://jazzrocksoul.com/artists/sweet-talks/'
+  - 'https://www.allmusic.com/artist/the-sweet-talks-mn0000955064'
+  - 'https://matrix-music.com/artist/the-sweet-talks/'
+  - 'https://likembe.blogspot.com/2018/03/mmmmmm-sweet-80s-highlife-music.html'
+  - 'https://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=3384'
 spotify_data:
   followers: 289
   id: 6yjaYSEQxctVQaNKI3jHnL
   popularity: 20
-  url: https://open.spotify.com/artist/6yjaYSEQxctVQaNKI3jHnL
+  url: 'https://open.spotify.com/artist/6yjaYSEQxctVQaNKI3jHnL'
 status: active
 title: The Sweet Talks
+artist_type: band
 ---
 
 ![](the_sweet_talks.jpg)

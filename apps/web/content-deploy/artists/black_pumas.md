@@ -1,105 +1,106 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-03-10T01:14:40.343482'
 birth_date: '2017'
 enhancement_provider: perplexity
 entry_created: '2026-03-10T01:14:40.343491'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dd569857-d15e-4dbe-baad-b46a5ffe34a0
-  spotify: https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6
-  wikipedia: https://en.wikipedia.org/wiki/Black_Pumas
+  musicbrainz: 'https://musicbrainz.org/artist/dd569857-d15e-4dbe-baad-b46a5ffe34a0'
+  spotify: 'https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Black_Pumas'
 genres:
-- retro soul
+  - retro soul
 image_path: 03_Resources/source_material/ArtistPortraits/black_pumas.jpg
 instruments:
-- drums (drum set)
-- bass guitar
-- lead vocals
-- guitar
-- background vocals
-- keyboard
+  - drums (drum set)
+  - bass guitar
+  - lead vocals
+  - guitar
+  - background vocals
+  - keyboard
 last_updated: '2026-03-10T01:14:40.343493'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 16322601-3df6-423e-adbf-f113d12a40b6
-  name: Stephen Bidwell
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 3a8d364d-2e54-4fd0-9861-5793283bae7a
-  name: Brendan Bond
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: d3959339-a40f-4b9c-86d3-48fb3689d283
-  name: Eric Burton
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: d3959339-a40f-4b9c-86d3-48fb3689d283
-  name: Eric Burton
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: 2d2ee06a-7e2b-4c24-ba95-4b9763729a31
-  name: Lauren Cervantes
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 78593acc-3ed8-48a1-8aee-1fc6de93c77c
-  name: JaRon Marshall
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: abd6ea86-5b1a-47d0-851f-c6c93817c335
-  name: Angela Miller
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 4eaaae09-e432-4731-9e6a-6aac09123aa2
-  name: Adrian Quesada
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 16322601-3df6-423e-adbf-f113d12a40b6
+    name: Stephen Bidwell
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 3a8d364d-2e54-4fd0-9861-5793283bae7a
+    name: Brendan Bond
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: d3959339-a40f-4b9c-86d3-48fb3689d283
+    name: Eric Burton
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: d3959339-a40f-4b9c-86d3-48fb3689d283
+    name: Eric Burton
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: 2d2ee06a-7e2b-4c24-ba95-4b9763729a31
+    name: Lauren Cervantes
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 78593acc-3ed8-48a1-8aee-1fc6de93c77c
+    name: JaRon Marshall
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: abd6ea86-5b1a-47d0-851f-c6c93817c335
+    name: Angela Miller
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 4eaaae09-e432-4731-9e6a-6aac09123aa2
+    name: Adrian Quesada
 musical_connections:
   collaborators:
-  - Adrian Quesada
-  - Grupo Fantasma
-  - ATO Records
+    - Adrian Quesada
+    - Grupo Fantasma
+    - ATO Records
   influenced:
-  - Neil Young and Sam Cooke
-  - Ghostface Killah and Motown
+    - Neil Young and Sam Cooke
+    - Ghostface Killah and Motown
   mentors:
-  - Musical Theater and Church Music Tradition
+    - Musical Theater and Church Music Tradition
 musicbrainz_id: dd569857-d15e-4dbe-baad-b46a5ffe34a0
 network_extracted: true
-origin: Austin
+origin: 'Austin, Texas, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Black_Pumas
-- https://kzsc.org/blog/2022/05/03/black-pumas/
-- https://www.last.fm/music/Black+Pumas/+wiki
-- https://atorecords.com/artists/black-pumas/
-- https://playingforchange.com/artists/black-pumas
-- https://artists.spotify.com/en/blog/black-pumas-street-performance-origin
+  - 'https://en.wikipedia.org/wiki/Black_Pumas'
+  - 'https://kzsc.org/blog/2022/05/03/black-pumas/'
+  - 'https://www.last.fm/music/Black+Pumas/+wiki'
+  - 'https://atorecords.com/artists/black-pumas/'
+  - 'https://playingforchange.com/artists/black-pumas'
+  - 'https://artists.spotify.com/en/blog/black-pumas-street-performance-origin'
 spotify_data:
   followers: 1214649
   id: 6eU0jV2eEZ8XTM7EmlguK6
   popularity: 62
-  url: https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6
+  url: 'https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6'
 status: active
 tags:
-- american
-- english
-- mellow
+  - american
+  - english
+  - mellow
 title: Black Pumas
+birth_place: 'San Fernando Valley, California, United States'
 ---
 
 ![](black_pumas.jpg)

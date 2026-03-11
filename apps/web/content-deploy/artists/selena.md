@@ -2,56 +2,57 @@
 artist_type: person
 biography_enhanced_at: '2026-02-24T01:49:06.656176'
 birth_date: '1971-04-16'
-birth_place: Lake Jackson
+birth_place: 'Lake Jackson, Texas, United States'
 death_date: '1995-03-31'
 disambiguation: Mexican–American cumbia/tejano singer
 enhancement_provider: perplexity
 entry_created: '2026-02-24T01:49:06.656184'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/03746227-c9f9-4b3b-b2c6-9b31f79564f7
-  spotify: https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch
-  wikipedia: https://en.wikipedia.org/wiki/Selena
+  musicbrainz: 'https://musicbrainz.org/artist/03746227-c9f9-4b3b-b2c6-9b31f79564f7'
+  spotify: 'https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch'
+  wikipedia: 'https://en.wikipedia.org/wiki/Selena'
 gender: Female
 genres:
-- tejano
-- cumbia
-- música mexicana
+  - tejano
+  - cumbia
+  - música mexicana
 image_path: 03_Resources/source_material/ArtistPortraits/selena.jpg
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 last_updated: '2026-02-24T01:49:06.656185'
 musical_connections:
   collaborators:
-  - A.B. Quintanilla III (Brother)
-  - Suzette Quintanilla (Sister)
-  - Chris Pérez
-  - Barrio Boyzz
-  - Alvaro Torres
+    - A.B. Quintanilla III (Brother)
+    - Suzette Quintanilla (Sister)
+    - Chris Pérez
+    - Barrio Boyzz
+    - Alvaro Torres
   influenced: []
   mentors:
-  - Abraham Quintanilla Jr. (Father)
-  - José Behar
+    - Abraham Quintanilla Jr. (Father)
+    - José Behar
 musicbrainz_id: 03746227-c9f9-4b3b-b2c6-9b31f79564f7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/selena
-- https://www.ebsco.com/research-starters/history/selena
-- https://en.wikipedia.org/wiki/Selena
-- https://www.tshaonline.org/handbook/entries/quintanilla-perez-selena-selena
-- https://www.preceden.com/timelines/311121-selena
+  - 'https://www.biography.com/musicians/selena'
+  - 'https://www.ebsco.com/research-starters/history/selena'
+  - 'https://en.wikipedia.org/wiki/Selena'
+  - 'https://www.tshaonline.org/handbook/entries/quintanilla-perez-selena-selena'
+  - 'https://www.preceden.com/timelines/311121-selena'
 spotify_data:
   followers: 4511145
   id: 6IE6z7DcZIT4Ml3Fh5Ivch
   popularity: 70
-  url: https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch
+  url: 'https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch'
 status: active
 tags:
-- 80s
-- 90s
-- cumbia
+  - 80s
+  - 90s
+  - cumbia
 title: Selena
+is_active: false
 ---
 
 ![](selena.jpg)

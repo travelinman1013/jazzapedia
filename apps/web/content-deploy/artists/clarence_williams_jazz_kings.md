@@ -1,80 +1,83 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-01T01:23:52.618991'
 enhancement_provider: perplexity
 entry_created: '2026-02-01T01:23:52.618997'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1ed62fc6-ef3e-4818-9041-95ba01d892a8
-  spotify: https://open.spotify.com/artist/7II2luV1osVeQvsXtKVY0Z
-  wikipedia: https://en.wikipedia.org/wiki/Clarence_Williams_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/1ed62fc6-ef3e-4818-9041-95ba01d892a8'
+  spotify: 'https://open.spotify.com/artist/7II2luV1osVeQvsXtKVY0Z'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clarence_Williams_(musician)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/clarence_williams_jazz_kings.jpg
 instruments:
-- guitar
-- drums (drum set)
-- eponymous
-- original
-- piano
-last_updated: '2026-02-01T01:23:52.618998'
-members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d87a448-1c61-4718-a022-b9ed1f549666
-  name: Henry “Moon” Jones
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: 758908e4-b207-455d-9d58-41c7b77f4bb3
-  name: Goldie Lucas
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 1487bcb8-bcae-4d66-9a4d-570f7f5e92b5
-  name: George Stafford
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - piano
-  mbid: f772121b-4a6a-4f3a-bac3-8950ab489d4d
-  name: Clarence Williams
+last_updated: '2026-02-01T01:23:52.618998'
+members:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d87a448-1c61-4718-a022-b9ed1f549666
+    name: Henry “Moon” Jones
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 758908e4-b207-455d-9d58-41c7b77f4bb3
+    name: Goldie Lucas
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 1487bcb8-bcae-4d66-9a4d-570f7f5e92b5
+    name: George Stafford
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: f772121b-4a6a-4f3a-bac3-8950ab489d4d
+    name: Clarence Williams
 musical_connections:
   collaborators:
-  - Armand J. Piron
-  - Louis Armstrong
-  - Sidney Bechet
-  - Bunk Johnson
+    - Armand J. Piron
+    - Louis Armstrong
+    - Sidney Bechet
+    - Bunk Johnson
   influenced:
-  - Bessie Smith
-  - Fats Waller
-  - King Oliver
+    - Bessie Smith
+    - Fats Waller
+    - King Oliver
   mentors:
-  - Billy Kersand
+    - Billy Kersand
 musicbrainz_id: 1ed62fc6-ef3e-4818-9041-95ba01d892a8
 network_extracted: true
-origin: Plaquemine, Louisiana, USA
+origin: 'Plaquemine, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Clarence_Williams_(musician)
-- https://www.jazz88.org/articles/Clarence_Williams/
-- http://jazzhotbigstep.com/24306.html
-- http://oldtimeblues.net/tag/clarence-williams/
-- https://syncopatedtimes.com/clarence-williams-profiles-in-jazz/
-- https://syncopatedtimes.com/clarence-williams-1898-1965/
-- https://www.songhall.org/profiles/clarence-williams
+  - 'https://en.wikipedia.org/wiki/Clarence_Williams_(musician)'
+  - 'https://www.jazz88.org/articles/Clarence_Williams/'
+  - 'http://jazzhotbigstep.com/24306.html'
+  - 'http://oldtimeblues.net/tag/clarence-williams/'
+  - 'https://syncopatedtimes.com/clarence-williams-profiles-in-jazz/'
+  - 'https://syncopatedtimes.com/clarence-williams-1898-1965/'
+  - 'https://www.songhall.org/profiles/clarence-williams'
 spotify_data:
   followers: 24
   id: 7II2luV1osVeQvsXtKVY0Z
   popularity: 3
-  url: https://open.spotify.com/artist/7II2luV1osVeQvsXtKVY0Z
+  url: 'https://open.spotify.com/artist/7II2luV1osVeQvsXtKVY0Z'
 status: active
 tags:
-- jazz
+  - jazz
 title: Clarence Williams' Jazz Kings
+birth_place: 'Plaquemine, Louisiana, United States'
+birth_date: '1893-10-08'
+death_date: '1965-11-06'
 ---
 
 ![](clarence_williams_jazz_kings.jpg)

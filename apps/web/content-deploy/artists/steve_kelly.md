@@ -1,40 +1,41 @@
 ---
 biography_enhanced_at: '2026-02-05T01:50:16.418808'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-05T01:50:16.418822'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ZRqSdRTSEa3UlX66WuGcL
+  spotify: 'https://open.spotify.com/artist/0ZRqSdRTSEa3UlX66WuGcL'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/steve_kelly.jpg
 last_updated: '2026-02-05T01:50:16.418825'
 musical_connections:
   collaborators:
-  - Robert Mercurio
-  - Kevin Scott
-  - Isaac Eady
-  - Stanton Moore
+    - Robert Mercurio
+    - Kevin Scott
+    - Isaac Eady
+    - Stanton Moore
   influenced: []
   mentors:
-  - Al Green
-  - Willie Mitchell
+    - Al Green
+    - Willie Mitchell
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://stevekelly.io/bio/
-- https://steve-kelly.ca/steves-music/
-- https://www.carleton.edu/farewells/stephen-kelly/
-- https://www.youtube.com/watch?v=4ALW0zA_ziA
-- https://www.ghanaweb.com/person/Steve-Kelly-691
-- https://stevekelly.io
+  - 'https://stevekelly.io/bio/'
+  - 'https://steve-kelly.ca/steves-music/'
+  - 'https://www.carleton.edu/farewells/stephen-kelly/'
+  - 'https://www.youtube.com/watch?v=4ALW0zA_ziA'
+  - 'https://www.ghanaweb.com/person/Steve-Kelly-691'
+  - 'https://stevekelly.io'
 spotify_data:
   followers: 112
   id: 0ZRqSdRTSEa3UlX66WuGcL
   popularity: 1
-  url: https://open.spotify.com/artist/0ZRqSdRTSEa3UlX66WuGcL
+  url: 'https://open.spotify.com/artist/0ZRqSdRTSEa3UlX66WuGcL'
 status: active
-title: steve kelly
+title: Steve Kelly
+artist_type: person
 ---
 
 ![](steve_kelly.jpg)

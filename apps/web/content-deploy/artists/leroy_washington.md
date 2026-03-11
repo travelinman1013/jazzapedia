@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2026-03-03T01:35:26.550997'
-birth_place: Palmetto, Louisiana, USA
+birth_place: 'Palmetto, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-03-03T01:35:26.551013'
 external_urls:
-  spotify: https://open.spotify.com/artist/3RQ7Nke5ga0GBSvcxZutpm
+  spotify: 'https://open.spotify.com/artist/3RQ7Nke5ga0GBSvcxZutpm'
   wikipedia: ''
 genres:
-- classic blues
-- cajun
+  - classic blues
+  - cajun
 image_path: ''
 last_updated: '2026-03-03T01:35:26.551017'
 musical_connections:
   collaborators:
-  - Chuck Martin
-  - Guidry Brothers Band (Honeydrippers)
-  - Guitar Gable
-  - J.D. Miller
-  - Good Rockin' Bob (Ed Thomas) Orchestra
+    - Chuck Martin
+    - Guidry Brothers Band (Honeydrippers)
+    - Guitar Gable
+    - J.D. Miller
+    - Good Rockin' Bob (Ed Thomas) Orchestra
   influenced: []
   mentors:
-  - Isaac Lutcher
+    - Isaac Lutcher
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jukegh.blogspot.com/2018/12/leroy-washington-louisiana-swamp-blues.html
-- https://www.last.fm/music/Leroy+Washington/+wiki
-- https://www.allmusic.com/artist/leroy-washington-mn0000249049
-- https://digital.livingblues.com/living-blues-222/page-8
-- https://egrojworld.blogspot.com/2018/11/leroy-washington-wild-cherry.html
-- https://sundayblues.org/?tag=leroy-washington
+  - >-
+    https://jukegh.blogspot.com/2018/12/leroy-washington-louisiana-swamp-blues.html
+  - 'https://www.last.fm/music/Leroy+Washington/+wiki'
+  - 'https://www.allmusic.com/artist/leroy-washington-mn0000249049'
+  - 'https://digital.livingblues.com/living-blues-222/page-8'
+  - 'https://egrojworld.blogspot.com/2018/11/leroy-washington-wild-cherry.html'
+  - 'https://sundayblues.org/?tag=leroy-washington'
 spotify_data:
   followers: 85
   id: 3RQ7Nke5ga0GBSvcxZutpm
   popularity: 0
-  url: https://open.spotify.com/artist/3RQ7Nke5ga0GBSvcxZutpm
+  url: 'https://open.spotify.com/artist/3RQ7Nke5ga0GBSvcxZutpm'
 status: active
-title: LEROY WASHINGTON
+title: Leroy Washington
+birth_date: '1932-03-01'
+death_date: '1966-06-29'
+artist_type: person
 ---
 
 ![]()

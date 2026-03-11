@@ -1,56 +1,60 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0a150fff-28c2-4116-b24a-b8962ef054bb
-  name: Casanova Two
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: baed367d-e2fa-475e-8e1a-b542cc49c229
-  name: The Music City Soul Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0a150fff-28c2-4116-b24a-b8962ef054bb
+    name: Casanova Two
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: baed367d-e2fa-475e-8e1a-b542cc49c229
+    name: The Music City Soul Brothers
 biography_enhanced_at: '2026-02-03T02:10:26.777888'
 birth_date: '1943-08-20'
-birth_place: Berkeley
+birth_place: 'Berkeley, California, United States'
 death_date: '2022-01-18'
 disambiguation: soul singer
 enhancement_provider: perplexity
 entry_created: '2026-02-03T02:10:26.777897'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4e55ca0c-c7bf-44cf-86e4-4b9ce8d4589e
-  spotify: https://open.spotify.com/artist/6BPxwaBHN227f6pCOMxhHO
+  musicbrainz: 'https://musicbrainz.org/artist/4e55ca0c-c7bf-44cf-86e4-4b9ce8d4589e'
+  spotify: 'https://open.spotify.com/artist/6BPxwaBHN227f6pCOMxhHO'
   wikipedia: ''
 gender: Male
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/freddie_hughes.jpg
 last_updated: '2026-02-03T02:10:26.777899'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Church choir (unnamed)
+    - Church choir (unnamed)
 musicbrainz_id: 4e55ca0c-c7bf-44cf-86e4-4b9ce8d4589e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fred_Hughes_(singer)
-- https://fromthevaults-boppinbob.blogspot.com/2025/08/freddie-hughes-born-20-august-1943.html
-- https://www.kalw.org/show/crosscurrents/2020-01-06/bay-area-soul-legend-freddie-hughes-reflects-on-six-decades-in-the-record-business
-- https://acerecords.co.uk/news/2022/freddie-hughes
-- https://www.bluesexpress.com/artists/freddie-hughes-2/
-- http://www.soulwalking.co.uk/Freddie%20Hughes.html
+  - 'https://en.wikipedia.org/wiki/Fred_Hughes_(singer)'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/08/freddie-hughes-born-20-august-1943.html
+  - >-
+    https://www.kalw.org/show/crosscurrents/2020-01-06/bay-area-soul-legend-freddie-hughes-reflects-on-six-decades-in-the-record-business
+  - 'https://acerecords.co.uk/news/2022/freddie-hughes'
+  - 'https://www.bluesexpress.com/artists/freddie-hughes-2/'
+  - 'http://www.soulwalking.co.uk/Freddie%20Hughes.html'
 spotify_data:
   followers: 777
   id: 6BPxwaBHN227f6pCOMxhHO
   popularity: 4
-  url: https://open.spotify.com/artist/6BPxwaBHN227f6pCOMxhHO
+  url: 'https://open.spotify.com/artist/6BPxwaBHN227f6pCOMxhHO'
 status: active
 tags:
-- soul
+  - soul
 title: Freddie Hughes
+is_active: false
+origin: 'Oakland, California, United States'
 ---
 
 ![](freddie_hughes.jpg)

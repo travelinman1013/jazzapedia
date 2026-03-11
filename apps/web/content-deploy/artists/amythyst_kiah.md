@@ -1,72 +1,73 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: c43bdd2e-dffe-49cb-b2b8-d1580ef21368
-  name: Amythyst Kiah & Her Chest of Glass
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d3b1855-679e-44b4-9294-3c4b705cf6e1
-  name: Our Native Daughters
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c43bdd2e-dffe-49cb-b2b8-d1580ef21368
+    name: Amythyst Kiah & Her Chest of Glass
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d3b1855-679e-44b4-9294-3c4b705cf6e1
+    name: Our Native Daughters
 biography_enhanced_at: '2026-01-26T01:37:11.970376'
 birth_date: '1986-12-11'
-birth_place: Chattanooga
+birth_place: 'Chattanooga, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-26T01:37:11.970385'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8ece873f-55ce-41d5-9ffa-5e0319b2fc28
-  spotify: https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl
-  wikipedia: https://en.wikipedia.org/wiki/Amythyst_Kiah
+  musicbrainz: 'https://musicbrainz.org/artist/8ece873f-55ce-41d5-9ffa-5e0319b2fc28'
+  spotify: 'https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Amythyst_Kiah'
 gender: Female
 genres:
-- roots rock
-- southern gothic
-- americana
+  - roots rock
+  - southern gothic
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/amythyst_kiah.jpg
 instruments:
-- original
-- guitar
-- lead vocals
-- background vocals
+  - original
+  - guitar
+  - lead vocals
+  - background vocals
 last_updated: '2026-01-26T01:37:11.970387'
 musical_connections:
   collaborators:
-  - Our Native Daughters (Rhiannon Giddens, Leyla McCalla, Allison Russell)
-  - Her Chest of Glass
-  - Tony Berg
-  - Butch Walker
-  - Tim Armstrong
-  - Sadler Vaden
-  - Avi Kaplan
+    - 'Our Native Daughters (Rhiannon Giddens, Leyla McCalla, Allison Russell)'
+    - Her Chest of Glass
+    - Tony Berg
+    - Butch Walker
+    - Tim Armstrong
+    - Sadler Vaden
+    - Avi Kaplan
   influenced: []
   mentors:
-  - Rhiannon Giddens
+    - Rhiannon Giddens
 musicbrainz_id: 8ece873f-55ce-41d5-9ffa-5e0319b2fc28
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Amythyst_Kiah
-- https://www.wmot.org/roots-radio-news/2021-07-02/on-the-string-how-folk-rocker-amythyst-kiah-was-inspired-by-history
-- https://hollywoodtimes.net/amythyst-kiah-bridging-roots-rock-resilience/
-- https://secure.thefreight.org/15082/15083-amythyst-kiah-251112
-- https://www.blueridgemusiccenter.org/team-showcase/amythyst-kiah/
-- https://rhythmandroots.com/artists/amythyst-kiah/
-- https://blackpast.org/african-american-history/amythyst-kiah-1990/
-- https://saveculture.org/oral-history/amythyst-kiah/
+  - 'https://en.wikipedia.org/wiki/Amythyst_Kiah'
+  - >-
+    https://www.wmot.org/roots-radio-news/2021-07-02/on-the-string-how-folk-rocker-amythyst-kiah-was-inspired-by-history
+  - 'https://hollywoodtimes.net/amythyst-kiah-bridging-roots-rock-resilience/'
+  - 'https://secure.thefreight.org/15082/15083-amythyst-kiah-251112'
+  - 'https://www.blueridgemusiccenter.org/team-showcase/amythyst-kiah/'
+  - 'https://rhythmandroots.com/artists/amythyst-kiah/'
+  - 'https://blackpast.org/african-american-history/amythyst-kiah-1990/'
+  - 'https://saveculture.org/oral-history/amythyst-kiah/'
 spotify_data:
   followers: 58674
   id: 1lhaaKpTyXOnjp79M3xYBl
   popularity: 37
-  url: https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl
+  url: 'https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl'
 status: active
 tags:
-- americana
-- country blues
-- folk
+  - americana
+  - country blues
+  - folk
 title: Amythyst Kiah
 ---
 

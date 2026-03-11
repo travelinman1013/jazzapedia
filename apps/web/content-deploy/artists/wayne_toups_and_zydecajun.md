@@ -1,60 +1,63 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-02-16T01:03:27.836940'
 enhancement_provider: perplexity
 entry_created: '2026-02-16T01:03:27.836950'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/70354e0c-f13f-4543-8a02-f22995609d27
-  spotify: https://open.spotify.com/artist/5Qb9Imdm56SW3Y2wcI94K5
-  wikipedia: https://en.wikipedia.org/wiki/Wayne_Toups
+  musicbrainz: 'https://musicbrainz.org/artist/70354e0c-f13f-4543-8a02-f22995609d27'
+  spotify: 'https://open.spotify.com/artist/5Qb9Imdm56SW3Y2wcI94K5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wayne_Toups'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/wayne_toups_and_zydecajun.jpg
 last_updated: '2026-02-16T01:03:27.836952'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c3d7b423-cceb-4d6a-afa7-3576f66b8ac5
-  name: Mark Miller
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4d7f80e6-8b33-48dc-a4ae-0f5c4a3a1c27
-  name: RP Harrell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c3d7b423-cceb-4d6a-afa7-3576f66b8ac5
+    name: Mark Miller
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4d7f80e6-8b33-48dc-a4ae-0f5c4a3a1c27
+    name: RP Harrell
 musical_connections:
   collaborators:
-  - Mark Miller
-  - Steve Riley
-  - Wilson Savoy
-  - Garth Brooks
-  - Alan Jackson
+    - Mark Miller
+    - Steve Riley
+    - Wilson Savoy
+    - Garth Brooks
+    - Alan Jackson
   influenced: []
   mentors:
-  - Otis Redding
-  - Aretha Franklin
-  - Allman Brothers
-  - Doobie Brothers
-  - Lynyrd Skynyrd
+    - Otis Redding
+    - Aretha Franklin
+    - Allman Brothers
+    - Doobie Brothers
+    - Lynyrd Skynyrd
 musicbrainz_id: 70354e0c-f13f-4543-8a02-f22995609d27
 network_extracted: true
-origin: Crowley, Louisiana, USA
+origin: 'Crowley, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://bigeasycruise.com/artists/wayne-toups/
-- https://louisianamusichalloffame.org/wayne-toups/
-- https://en.wikipedia.org/wiki/Wayne_Toups
-- https://www.roadwayevents.com/artists/wayne-toups/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/toups.htm.html
-- https://www.acadianmuseum.com/living-legend/wayne-toups/
+  - 'https://bigeasycruise.com/artists/wayne-toups/'
+  - 'https://louisianamusichalloffame.org/wayne-toups/'
+  - 'https://en.wikipedia.org/wiki/Wayne_Toups'
+  - 'https://www.roadwayevents.com/artists/wayne-toups/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/toups.htm.html
+  - 'https://www.acadianmuseum.com/living-legend/wayne-toups/'
 spotify_data:
   followers: 2525
   id: 5Qb9Imdm56SW3Y2wcI94K5
   popularity: 31
-  url: https://open.spotify.com/artist/5Qb9Imdm56SW3Y2wcI94K5
+  url: 'https://open.spotify.com/artist/5Qb9Imdm56SW3Y2wcI94K5'
 status: active
 title: Wayne Toups & Zydecajun
+birth_place: 'Lafayette, Louisiana, United States'
+birth_date: '1958-10-02'
 ---
 
 ![](wayne_toups_and_zydecajun.jpg)

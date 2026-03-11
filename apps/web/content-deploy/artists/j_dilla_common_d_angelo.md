@@ -1,47 +1,51 @@
 ---
 biography_enhanced_at: '2026-02-12T01:11:09.006275'
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 enhancement_provider: perplexity
 entry_created: '2026-02-12T01:11:09.006281'
 external_urls:
-  spotify: https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd
-  wikipedia: https://en.wikipedia.org/wiki/J_Dilla
+  spotify: 'https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd'
+  wikipedia: 'https://en.wikipedia.org/wiki/J_Dilla'
 genres:
-- neo soul
+  - neo soul
 image_path: 03_Resources/source_material/ArtistPortraits/j_dilla_common_d_angelo.jpg
 last_updated: '2026-02-12T01:11:09.006282'
 musical_connections:
   collaborators:
-  - Common
-  - D'Angelo
-  - Madlib
-  - Erykah Badu
-  - Q-Tip
-  - Slum Village (T3, Baatin)
+    - Common
+    - D'Angelo
+    - Madlib
+    - Erykah Badu
+    - Q-Tip
+    - 'Slum Village (T3, Baatin)'
   influenced:
-  - The Roots
-  - Kanye West
-  - Flying Lotus
+    - The Roots
+    - Kanye West
+    - Flying Lotus
   mentors:
-  - R.J. Rice
-  - John Salley
-  - Amp Fiddler
+    - R.J. Rice
+    - John Salley
+    - Amp Fiddler
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/J_Dilla
-- https://dillati.me
-- https://kids.kiddle.co/J_Dilla
-- http://hiphopgoldenage.com/artists/j-dilla/
-- https://ambrosiaforheads.com/2022/02/j-dilla-time-book-praise/
-- https://www.latimes.com/entertainment-arts/music/story/2022-02-25/j-dilla-bio-wu-tang-clan-ol-dirty-bastard-ghost
+  - 'https://en.wikipedia.org/wiki/J_Dilla'
+  - 'https://dillati.me'
+  - 'https://kids.kiddle.co/J_Dilla'
+  - 'http://hiphopgoldenage.com/artists/j-dilla/'
+  - 'https://ambrosiaforheads.com/2022/02/j-dilla-time-book-praise/'
+  - >-
+    https://www.latimes.com/entertainment-arts/music/story/2022-02-25/j-dilla-bio-wu-tang-clan-ol-dirty-bastard-ghost
 spotify_data:
   followers: 1487724
   id: 336vr2M3Va0FjyvB55lJEd
   popularity: 65
-  url: https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd
+  url: 'https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd'
 status: active
-title: J Dilla/ Common/ D' Angelo
+title: J Dilla
+origin: 'Detroit, Michigan, United States'
+birth_date: '1974-02-07'
+artist_type: person
 ---
 
 ![](j_dilla_common_d_angelo.jpg)

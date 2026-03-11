@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-23T01:49:27.603501'
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-23T01:49:27.603506'
 external_urls:
-  spotify: https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ
-  wikipedia: https://en.wikipedia.org/wiki/Barbara_Mason
+  spotify: 'https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barbara_Mason'
 genres:
-- philly soul
+  - philly soul
 image_path: 03_Resources/source_material/ArtistPortraits/barbara_mason.jpg
 last_updated: '2026-01-23T01:49:27.603507'
 musical_connections:
   collaborators:
-  - Curtis Mayfield
-  - Don Davis
-  - Bunny Sigler
+    - Curtis Mayfield
+    - Don Davis
+    - Bunny Sigler
   influenced:
-  - Hip-hop artists
+    - Hip-hop artists
   mentors:
-  - Jimmy Bishop
-  - Curtis Mayfield
-  - Weldon McDougal
+    - Jimmy Bishop
+    - Curtis Mayfield
+    - Weldon McDougal
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Barbara_Mason
-- https://fromthevaults-boppinbob.blogspot.com/2019/08/barbara-mason-born-9-august-1947.html
-- https://www.jampack.com/artists/barbara-mason
-- https://wbssmedia.com/artists/detail/1839
-- https://souldisco.de/barbara-mason-the-queen-of-heartfelt-soul/
-- http://www.tsimon.com/mason.htm
-- http://www.soulwalking.co.uk/Barbara%20Mason.html
-- https://blackpast.org/african-american-history/barbara-mason-1947/
+  - 'https://en.wikipedia.org/wiki/Barbara_Mason'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2019/08/barbara-mason-born-9-august-1947.html
+  - 'https://www.jampack.com/artists/barbara-mason'
+  - 'https://wbssmedia.com/artists/detail/1839'
+  - 'https://souldisco.de/barbara-mason-the-queen-of-heartfelt-soul/'
+  - 'http://www.tsimon.com/mason.htm'
+  - 'http://www.soulwalking.co.uk/Barbara%20Mason.html'
+  - 'https://blackpast.org/african-american-history/barbara-mason-1947/'
 spotify_data:
   followers: 142336
   id: 5PmZd7YOaUgQwhOja44fmZ
   popularity: 52
-  url: https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ
+  url: 'https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ'
 status: active
-title: BARBARA MASON
+title: Barbara Mason
+birth_date: '1947-08-09'
+artist_type: person
 ---
 
 ![](barbara_mason.jpg)

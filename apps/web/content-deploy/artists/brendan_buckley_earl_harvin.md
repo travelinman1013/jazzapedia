@@ -3,30 +3,32 @@ biography_enhanced_at: '2026-02-20T01:18:49.332246'
 enhancement_provider: perplexity
 entry_created: '2026-02-20T01:18:49.332261'
 external_urls:
-  spotify: https://open.spotify.com/artist/0Ey5y9h1N5Qhq5WJi028tX
+  spotify: 'https://open.spotify.com/artist/0Ey5y9h1N5Qhq5WJi028tX'
   wikipedia: ''
 genres:
-- jazz fusion
+  - jazz fusion
 image_path: 03_Resources/source_material/ArtistPortraits/brendan_buckley_earl_harvin.jpg
 last_updated: '2026-02-20T01:18:49.332265'
 musical_connections:
   collaborators:
-  - Morrissey
+    - Morrissey
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=B70TiapwFFU
-- https://open.spotify.com/search/Brendan%20Buckley%20Earl%20Harvin (inferred from
-  provided Spotify context)
+  - 'https://www.youtube.com/watch?v=B70TiapwFFU'
+  - >-
+    https://open.spotify.com/search/Brendan%20Buckley%20Earl%20Harvin (inferred
+    from provided Spotify context)
 spotify_data:
   followers: 96
   id: 0Ey5y9h1N5Qhq5WJi028tX
   popularity: 2
-  url: https://open.spotify.com/artist/0Ey5y9h1N5Qhq5WJi028tX
+  url: 'https://open.spotify.com/artist/0Ey5y9h1N5Qhq5WJi028tX'
 status: active
 title: Brendan Buckley/ Earl Harvin
+artist_type: band
 ---
 
 ![](brendan_buckley_earl_harvin.jpg)

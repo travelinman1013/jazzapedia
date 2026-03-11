@@ -1,54 +1,56 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-02-11T01:59:21.726039'
-birth_place: South London, UK
+birth_place: 'South London, UK'
 enhancement_provider: perplexity
 entry_created: '2026-02-11T01:59:21.726047'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c4e929ed-f0d2-4794-a800-5f1495612164
-  spotify: https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG
+  musicbrainz: 'https://musicbrainz.org/artist/c4e929ed-f0d2-4794-a800-5f1495612164'
+  spotify: 'https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG'
   wikipedia: ''
 gender: Male
 genres:
-- bedroom pop
+  - bedroom pop
 image_path: 03_Resources/source_material/ArtistPortraits/puma_blue.jpg
 instruments:
-- guitar
-- bass guitar
-- background vocals
+  - guitar
+  - bass guitar
+  - background vocals
 last_updated: '2026-02-11T01:59:21.726048'
 musical_connections:
   collaborators:
-  - Lucy Lu
-  - Biig Piig
-  - Lava La Rue
-  - Live band members (close friends)
+    - Lucy Lu
+    - Biig Piig
+    - Lava La Rue
+    - Live band members (close friends)
   influenced: []
   mentors:
-  - Parents (music teachers)
-  - Leadbelly, Howlin’ Wolf, Muddy Waters
-  - J Dilla
+    - Parents (music teachers)
+    - 'Leadbelly, Howlin’ Wolf, Muddy Waters'
+    - J Dilla
 musicbrainz_id: c4e929ed-f0d2-4794-a800-5f1495612164
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Puma+Blue/+wiki
-- https://www.highroadtouring.com/artists/puma-blue/
-- https://www.spin.com/2021/04/a-day-in-the-life-of-puma-blue/
-- https://www.listenbeforeyoulove.com/p/an-interview-puma-blue.html
-- https://atwoodmagazine.com/pbhw-puma-blue-holy-waters-album-interview-music-feature/
-- https://www.bornloser.org/single-post/puma-blue-interview
+  - 'https://www.last.fm/music/Puma+Blue/+wiki'
+  - 'https://www.highroadtouring.com/artists/puma-blue/'
+  - 'https://www.spin.com/2021/04/a-day-in-the-life-of-puma-blue/'
+  - 'https://www.listenbeforeyoulove.com/p/an-interview-puma-blue.html'
+  - >-
+    https://atwoodmagazine.com/pbhw-puma-blue-holy-waters-album-interview-music-feature/
+  - 'https://www.bornloser.org/single-post/puma-blue-interview'
 spotify_data:
   followers: 300551
   id: 6lHO1eGthNnos9KP2BH0cG
   popularity: 52
-  url: https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG
+  url: 'https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG'
 status: active
 tags:
-- gothic
-- jazz pop
-- pop
+  - gothic
+  - jazz pop
+  - pop
 title: Puma Blue
+origin: 'South London, UK'
 ---
 
 ![](puma_blue.jpg)

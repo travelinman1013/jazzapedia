@@ -1,38 +1,41 @@
 ---
 biography_enhanced_at: '2026-01-30T01:19:27.793079'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:19:27.793088'
 external_urls:
-  spotify: https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN
-  wikipedia: https://en.wikipedia.org/wiki/Little_Ann_(singer)
+  spotify: 'https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Ann_(singer)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/little_ann.jpg
 last_updated: '2026-01-30T01:19:27.793089'
 musical_connections:
   collaborators:
-  - Dave Hamilton
-  - Eddie Grace
-  - Gilly and Andy Taylor
+    - Dave Hamilton
+    - Eddie Grace
+    - Gilly and Andy Taylor
   influenced: []
   mentors:
-  - Aretha Franklin
+    - Aretha Franklin
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kids.kiddle.co/Little_Ann_(singer)
-- https://en.wikipedia.org/wiki/Little_Ann_(singer)
-- https://insheepsclothinghifi.com/album/little-ann-deep-shadows/
-- https://soulfuldetroit.com/web07-golden%20world/golden%20world%20story/54-gw-little%20ann.htm
-- https://www.classic45s.com/collections/little-ann
-- https://songstats.com/artist/xlrq0pzi/little-ann
+  - 'https://kids.kiddle.co/Little_Ann_(singer)'
+  - 'https://en.wikipedia.org/wiki/Little_Ann_(singer)'
+  - 'https://insheepsclothinghifi.com/album/little-ann-deep-shadows/'
+  - >-
+    https://soulfuldetroit.com/web07-golden%20world/golden%20world%20story/54-gw-little%20ann.htm
+  - 'https://www.classic45s.com/collections/little-ann'
+  - 'https://songstats.com/artist/xlrq0pzi/little-ann'
 spotify_data:
   followers: 5206
   id: 4R5gmSWJOkGmGziutSalZN
   popularity: 19
-  url: https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN
+  url: 'https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN'
 status: active
-title: little ann
+title: Little Ann
+birth_date: '1945-03-22'
+artist_type: person
 ---
 
 ![](little_ann.jpg)

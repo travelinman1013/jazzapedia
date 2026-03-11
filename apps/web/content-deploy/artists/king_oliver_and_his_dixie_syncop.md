@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-02-07T01:23:38.023116'
-birth_place: Abend, Louisiana, USA
+birth_place: 'Abend, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-02-07T01:23:38.023122'
 external_urls:
-  spotify: https://open.spotify.com/artist/23LFpY1tGCJmwyD9Ma7scw
-  wikipedia: https://en.wikipedia.org/wiki/King_Oliver
+  spotify: 'https://open.spotify.com/artist/23LFpY1tGCJmwyD9Ma7scw'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Oliver'
 genres:
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/king_oliver_and_his_dixie_syncop.jpg
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/king_oliver_and_his_dixie_syncop.jpg
 last_updated: '2026-02-07T01:23:38.023123'
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Jelly Roll Morton
-  - Johnny St. Cyr
-  - Sippie Wallace
+    - Louis Armstrong
+    - Jelly Roll Morton
+    - Johnny St. Cyr
+    - Sippie Wallace
   influenced:
-  - Louis Armstrong
+    - Louis Armstrong
   mentors:
-  - Kid Ory
+    - Kid Ory
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://64parishes.org/entry/king-oliver
-- https://www.starrgennettfoundation.org/joe-king-oliver
-- https://syncopatedtimes.com/profiles-in-jazz-joe-king-oliver/
-- https://en.wikipedia.org/wiki/King_Oliver
-- http://ragpiano.com/comps/joliver.shtml
-- https://aaregistry.org/story/king-oliver-a-pioneer-of-jazz/
-- https://www.ebsco.com/research-starters/history/king-oliver
-- https://blackpast.org/african-american-history/oliver-joseph-king-1885-1938/
-- https://www.allaboutjazz.com/musicians/joseph-king-oliver/
+  - 'https://64parishes.org/entry/king-oliver'
+  - 'https://www.starrgennettfoundation.org/joe-king-oliver'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-joe-king-oliver/'
+  - 'https://en.wikipedia.org/wiki/King_Oliver'
+  - 'http://ragpiano.com/comps/joliver.shtml'
+  - 'https://aaregistry.org/story/king-oliver-a-pioneer-of-jazz/'
+  - 'https://www.ebsco.com/research-starters/history/king-oliver'
+  - 'https://blackpast.org/african-american-history/oliver-joseph-king-1885-1938/'
+  - 'https://www.allaboutjazz.com/musicians/joseph-king-oliver/'
 spotify_data:
   followers: 150
   id: 23LFpY1tGCJmwyD9Ma7scw
   popularity: 2
-  url: https://open.spotify.com/artist/23LFpY1tGCJmwyD9Ma7scw
+  url: 'https://open.spotify.com/artist/23LFpY1tGCJmwyD9Ma7scw'
 status: active
 title: King Oliver And His Dixie Syncop
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](king_oliver_and_his_dixie_syncop.jpg)

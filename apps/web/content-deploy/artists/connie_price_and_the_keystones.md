@@ -1,78 +1,80 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-27T01:53:42.689745'
 enhancement_provider: perplexity
 entry_created: '2026-01-27T01:53:42.689754'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/20560b17-828f-4d69-8378-943ff18e824a
-  spotify: https://open.spotify.com/artist/6vlObHwf50zCtHxEyda9Nf
+  musicbrainz: 'https://musicbrainz.org/artist/20560b17-828f-4d69-8378-943ff18e824a'
+  spotify: 'https://open.spotify.com/artist/6vlObHwf50zCtHxEyda9Nf'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/connie_price_and_the_keystones.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/connie_price_and_the_keystones.jpg
 last_updated: '2026-01-27T01:53:42.689755'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3d32b3c4-3c67-4e4f-b196-e1b187ba7aa6
-  name: Davey Chegwidden
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bb2c4171-de36-411d-84e3-b21e8115564c
-  name: Josh Cohen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b6927fc7-8a2f-48d9-a15c-9989606841f5
-  name: James King
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6766130d-58b2-4c4b-8480-5fb782f3312a
-  name: Pete McNeal
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 62a3e57e-62f6-4438-a785-57ab1d96e411
-  name: Connie Price
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d6b7381-f2dd-4091-bb8f-55d3e81e7419
-  name: Jeremy Ruzumna
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c1bdc39a-13d5-4a2a-8baa-ef7414acfb63
-  name: Todd Simon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3d32b3c4-3c67-4e4f-b196-e1b187ba7aa6
+    name: Davey Chegwidden
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bb2c4171-de36-411d-84e3-b21e8115564c
+    name: Josh Cohen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b6927fc7-8a2f-48d9-a15c-9989606841f5
+    name: James King
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6766130d-58b2-4c4b-8480-5fb782f3312a
+    name: Pete McNeal
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 62a3e57e-62f6-4438-a785-57ab1d96e411
+    name: Connie Price
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d6b7381-f2dd-4091-bb8f-55d3e81e7419
+    name: Jeremy Ruzumna
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c1bdc39a-13d5-4a2a-8baa-ef7414acfb63
+    name: Todd Simon
 musical_connections:
   collaborators:
-  - Todd M. Simon
-  - Big Daddy Kane
-  - Malcolm Catto
-  - Zach Lucas
-  - Members of Orgone, Breakestra, Beck, DJ Z-Trip, Mayer Hawthorne, Macy Gray
+    - Todd M. Simon
+    - Big Daddy Kane
+    - Malcolm Catto
+    - Zach Lucas
+    - 'Members of Orgone, Breakestra, Beck, DJ Z-Trip, Mayer Hawthorne, Macy Gray'
   influenced: []
   mentors:
-  - Eothen “Egon” Alapatt
+    - Eothen “Egon” Alapatt
 musicbrainz_id: 20560b17-828f-4d69-8378-943ff18e824a
 network_extracted: true
-origin: Los Angeles, California, USA
+origin: 'Los Angeles, California, USA'
 primary_source: perplexity
 research_sources:
-- https://conniepriceandthekeystones.com/biography/
-- https://www.pastemagazine.com/music/connie-price-the-keystones/connie-price-the-keystones
-- https://www.jango.com/music/Connie+Price+the+Keystones
-- https://conniepriceandthekeystones.com
-- https://crescentcitysounds.org/artists/connie-price-and-the-keystones
-- https://www.nowagainrecords.com/connie_price_and_the_keystones_press/
-- https://www.allmusic.com/artist/connie-price-the-keystones-mn0000112484
+  - 'https://conniepriceandthekeystones.com/biography/'
+  - >-
+    https://www.pastemagazine.com/music/connie-price-the-keystones/connie-price-the-keystones
+  - 'https://www.jango.com/music/Connie+Price+the+Keystones'
+  - 'https://conniepriceandthekeystones.com'
+  - 'https://crescentcitysounds.org/artists/connie-price-and-the-keystones'
+  - 'https://www.nowagainrecords.com/connie_price_and_the_keystones_press/'
+  - 'https://www.allmusic.com/artist/connie-price-the-keystones-mn0000112484'
 spotify_data:
   followers: 2317
   id: 6vlObHwf50zCtHxEyda9Nf
   popularity: 10
-  url: https://open.spotify.com/artist/6vlObHwf50zCtHxEyda9Nf
+  url: 'https://open.spotify.com/artist/6vlObHwf50zCtHxEyda9Nf'
 status: active
 title: Connie Price & The Keystones
 ---
