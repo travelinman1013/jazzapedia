@@ -16,7 +16,7 @@
     "build:timeline": "tsx scripts/build-timeline-data.ts",
     "build": "astro build",
     "preview": "wrangler dev",
-    "deploy": "astro build && wrangler pages deploy dist --project-name jazzapedia",
+    "deploy": "astro build && rm -rf dist/portraits && wrangler pages deploy dist --project-name jazzapedia",
     "astro": "astro",
     "insights": "npx tsx scripts/compute-wwoz-intelligence.ts",
     "build:prod": "npm run sync:incr:sqlite && npm run sync:wwoz:db && npm run insights && npm run build && npm run postbuild",

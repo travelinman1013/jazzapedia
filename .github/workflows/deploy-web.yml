@@ -49,6 +49,9 @@ jobs:
             echo "Skipping pagefind: No static HTML files in SSR build"
           fi
 
+      - name: Remove portraits from build output (served from R2)
+        run: rm -rf apps/web/dist/portraits
+
       - name: Deploy to Cloudflare Pages
         run: npx wrangler pages deploy apps/web/dist --project-name=jazzapedia
         env:
